@@ -1,93 +1,524 @@
 {
-  "updatedAt": "2026-05-15T16:00:30.068090",
+  "updatedAt": "2026-05-16T02:38:36.153886",
   "insight": {
-    "title": "Why One Small Interaction Sets the Tone for Your Day",
-    "subtitle": "How your brain uses early cues to decide how you will feel later.",
-    "readingTime": 3,
+    "title": "You Are Imagining the Ancient World in the Wrong Color",
+    "subtitle": "Why the \"classic\" look of white marble was actually a historical accident.",
+    "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Have you noticed how one sharp comment can color an entire afternoon? In nature, a single crystal seed dictates the shape of a massive mineral. Your brain uses tiny initial cues the same way."
+        "text": "Every Roman statue you have ever seen was originally painted in loud, garish colors. We imagine a world of white marble, but the ancients actually lived in a landscape of bright, vivid paint."
       },
       {
         "type": "paragraph",
-        "text": "This is affective priming. Your mind takes the first small emotion it encounters and uses it as a template. One minor interaction doesn\u2019t just pass; it creates a lens for everything that follows."
+        "text": "Over centuries, the colors weathered away, leaving only the bare stone. When Renaissance artists rediscovered these statues, they mistakenly assumed the white marble was a deliberate choice of a pure and clean style."
       },
       {
         "type": "paragraph",
-        "text": "We often try to fix big problems at the end, but momentum starts at the beginning. A tiny adjustment in your first few seconds can prevent a massive, unwanted crystallization of stress later."
+        "text": "This error defined how we build today. We constructed our most serious government buildings in plain white because we didn't realize the originals actually looked more like a vibrant, colorful carnival."
       },
       {
         "type": "paragraph",
-        "text": "Try this today: The next time you start a conversation today, begin with a small note of appreciation."
-      },
-      {
-        "type": "paragraph",
-        "text": "You don't need to move the mountain; you only need to choose where the first pebble falls."
+        "text": "We built our world to match a ruin, not a civilization."
       }
-    ],
-    "debug": {
-      "date": "2026-05-15",
-      "day_index": 135,
-      "weekday": 4,
-      "topic_index": 3,
-      "topic": "psychology",
-      "theme_index": 4,
-      "theme_family": "nature principles",
-      "content_index": 1,
-      "content_type": "cognitive bias",
-      "tone_index": 1,
-      "tone": "a surprising and lighter idea",
-      "opening_index": 1,
-      "opening_style": "start with a short question",
-      "angle_index": 3,
-      "angle": "focus on how small things create bigger effects"
-    }
+    ]
   },
   "news": [
     {
-      "title": "Iran war energy shock drives interest in ethanol and other biofuels across hard-hit Asia",
-      "description": "Nations across Asia are pushing for the use of more biofuels in transportation in order to slash dependence on imported fossil fuels, which have been disrupted by the Iran war",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480",
-      "category": "Geopolitics",
+      "title": "Trump and his CEOs want China\u2019s business \u2013 but has Asia moved on?",
+      "description": "US President Donald Trump\u2019s landmark visit to China comes as the US-Iran war disrupts global energy supplies, fuels economic uncertainty and adds fresh strain to Washington-Beijing ties. In the latest instalment of a series examining how rivalry, interdependence and geopolitical crises are reshaping",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/article/3353399/trump-and-his-ceos-want-chinas-business-has-asia-moved",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 17,
-      "why": "Your fuel prices may stabilize as local alternatives replace expensive imports.",
-      "context": "Asian nations are transitioning to biofuels to reduce reliance on imported energy.",
-      "next": "Governments may mandate higher ethanol blends at gas stations soon.",
-      "bigger": "Global energy markets are shifting toward regional self-sufficiency.",
-      "publishedAt": "2026-05-15T02:24:10-04:00",
+      "score": 19,
+      "why": "Imported goods and fuel may become more expensive for you.",
+      "context": "American leaders are attempting to repair trade relations with China despite global energy disruptions.",
+      "next": "Trade negotiations could face significant delays or setbacks.",
+      "bigger": "Global powers are realigning trade routes and partnerships.",
+      "publishedAt": "2026-05-15T22:00:07+00:00",
       "topicFingerprint": [
         "us",
         "trump",
-        "china",
         "iran",
-        "chinese"
+        "china",
+        "war"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Trump poured millions into Nvidia, Apple in first quarter, ethics filing shows",
+          "description": "US President Donald Trump invested millions of dollars in Apple and Nvidia in the first quarter, according to financial disclosures released as he was wrapping up his first state visit to China since 2017. According to a filing disclosed by the US Office of Government Ethics on Thursday, Trump incre",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3353752/trump-poured-millions-nvidia-apple-first-quarter-ethics-filing-shows",
+          "category": "Financial",
+          "publishedAt": "2026-05-15T12:30:57+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+          "description": "Donald Trump hopes to have China help him end the war in Iran, but this goal seemed far from guaranteed as he wrapped up his two-day visit to Beijing. Xi Jinping, in turn, took the chance to warn the US over Taiwan.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T13:12:00+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "The Tech Download: Trump\u2019s China visit sparks fresh questions over chip exports and rare earths access",
+          "description": "China President Xi welcomed deeper commercial engagement from the U.S., but uncertainty still hangs over American access to rare earths and chip sales.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/15/the-tech-download-trump-xi-talks-chips-rare-earths.html",
+          "category": "Financial",
+          "publishedAt": "2026-05-15T13:01:12+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "US-Iran War Highlights: US energy secretary says Strait of Hormuz may lose strategic importance",
+          "description": "Trade and tariffs are likely to dominate second day of Xi-Trump summit in Beijing. Follow CNBC-TV18\u2019s live coverage for the latest updates on the West Asia war that has sparked economic concerns across the world.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-israel-iran-war-news-live-updates-donald-trump-china-visit-tehran-strait-of-hormuz-oil-price-2-liveblog-ws-l-19905943.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-16T00:09:07+05:30",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Brooks and Capehart on Trump's trip to China",
+          "description": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including President Trump's trip to China, Congress rejecting a war powers resolution on the Iran war and Trump's comments on Americans' financial situation.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-trip-to-china",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T18:30:32-04:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Pakistan faces pressure over mediator role in Iran war",
+          "description": "With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies. A recent US media report places it under even more scrutiny.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T14:20:00+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "description": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ce8p61v7l68o",
+          "category": "General",
+          "publishedAt": "2026-05-15T21:28:25+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "What did Trump and Xi discuss during the China summit?",
+          "description": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2",
+          "category": "General",
+          "publishedAt": "2026-05-15T20:43:16+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Headlines for May 15, 2026",
+          "description": "House Narrowly Rejects Latest War Powers Resolution to End Trump s Attacks on Iran, CENTCOM Commander Denies U.S. Killed Civilians in Iran: No Way That We Can Corroborate That , Iran s Foreign Minister Asks BRICS Nations to Unite Against U.S. Bullying , Trump Departs China Without Agreements on Taiw",
+          "source": "Democracy Now!",
+          "url": "https://www.democracynow.org/2026/5/15/headlines",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T08:00:00-04:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Trump says U.S., China \u2018settled a lot of problems\u2019",
+          "description": "Chinese President Xi Jinping said both sides \u201chad reached important common understandings on maintaining stable economic and trade ties, expanding practical cooperation in various fields, and properly addressing each other\u2019s concerns.\u201d",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/trump-concludes-china-visit-hailing-fantastic-deals/article70983165.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-16T00:00:48+05:30",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Farmers Are Collateral Damage in Trump\u2019s Iran War",
+          "description": "It\u2019s planting season, and 70 percent of American farmers can\u2019t afford enough fertilizer to plant all their crops. About a third of the planet\u2019s nitrogen fertilizer, the most widely used in global agriculture, must pass through the Strait of Hormuz. Thanks to Donald Trump and Benjamin Netanyahu\u2019s war",
+          "source": "Mother Jones",
+          "url": "https://www.motherjones.com/politics/2026/05/farmers-are-collateral-damage-in-trumps-iran-war/",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T17:17:33+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "China\u2019s Xi Jinping to pay first state visit to US in more than a decade",
+          "description": "Chinese President Xi Jinping will pay a state visit to the US this autumn, the first in more than a decade, as the two powers seek stability amid their deepening rivalry. Chinese Foreign Minister Wang Yi confirmed late on Friday that Xi would make the trip at the invitation of his US counterpart Don",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T13:31:26+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Taiwan casts long shadow over Trump\u2019s summit with Xi",
+          "description": "Taiwan has emerged as the first test of Beijing and Washington\u2019s new \u201cstrategic stability\u201d formula, according to analysts. In the aftermath of the high-profile summit between Chinese President Xi Jinping and US President Donald Trump in Beijing, subtle differences have emerged in how the two sides h",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/article/3353779/taiwan-casts-long-shadow-over-trumps-summit-xi",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T20:32:48+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "CNBC Daily Open: Trump\u2019s China trip ends, but uncertainty remains",
+          "description": "U.S. President Donald Trump wraps his trip to China, while political uncertainty grows in the U.K.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/15/cnbc-daily-open-trumps-china-trip-ends-but-uncertainty-remains.html",
+          "category": "General",
+          "publishedAt": "2026-05-15T06:55:37+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Trump leaves China after much pomp and pageantry, but little to show for it",
+          "description": "As US President Donald Trump landed back in Washington on Friday after his two-day summit in Beijing with Chinese President Xi Jinping, a quick US assessment on one of the most consequential diplomatic visits of Trump\u2019s presidency was: impressive optics, trademark flawless Chinese hosting, but disap",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353782/trump-leaves-china-after-much-pomp-and-pageantry-little-show-it",
+          "category": "General",
+          "publishedAt": "2026-05-15T22:50:39+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "China calls for 'comprehensive' deal with Iran, says war has \u2018no reason to continue\u2019",
+          "description": "The statement likely sets the tone and direction for the day's talks between leaders of the two largest economies in the world. Chinese President Xi Jinping and US President Donald Trump at Zhongnanhai, a compound housing both the offices and residences of the Chinese Communist Party's elites.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/china-calls-for-comprehensive-deal-with-iran-says-war-has-no-reason-to-continue-ws-l-19906395.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T09:55:12+05:30",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "\u2018May do it. May not do it\u2019: Trump keeps up suspense over arms to Taiwan, says no to war",
+          "description": "The United States will not fight a war over Taiwan, President Donald Trump has declared, while revealing that he and Chinese leader Xi Jinping \u201ctalked a lot\u201d about the island during his state visit to Beijing. However, Trump stopped short of approving arms sales to the island, leaving open the futur",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353769/may-do-it-may-not-do-it-trump-keeps-suspense-over-taiwan-arms-deal-says-no-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T15:04:07+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "The Xi-Trump summit is over. What comes next in the US-China rivalry?",
+          "description": "In the past, the last day of state visits to China has typically featured a deal-signing ceremony presided over by leaders from both sides. However, the last day of US President Donald Trump\u2019s visit to Beijing was marked by discussions with Chinese President Xi Jinping in a more intimate setting and",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353774/xi-trump-summit-over-what-comes-next-us-china-rivalry",
+          "category": "General",
+          "publishedAt": "2026-05-15T16:16:03+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Experts flag gap between Trump\u2019s claims and China\u2019s public stance after summit",
+          "description": "Foreign policy experts Sierra Clair and Claus Soong believe the Trump-Xi summit helped improve diplomatic engagement but delivered limited concrete outcomes. While Donald Trump claimed progress on trade deals and Iran, Beijing has not publicly confirmed several announcements. Experts said China and ",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/videos/world/trump-xi-summit-no-major-breakthroughs-iran-taiwan-trade-experts-19906987.htm",
+          "category": "Progress",
+          "publishedAt": "2026-05-15T17:55:26+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "China urges lasting West Asia truce, reopening of shipping lanes",
+          "description": "U.S. President Donald Trump has discussed Iran during a summit in Beijing with Chinese leader Xi Jinping",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/china-urges-lasting-west-asia-truce-reopening-of-shipping-lanes/article70981531.ece",
+          "category": "General",
+          "publishedAt": "2026-05-15T12:42:08+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
+          "description": "US President Donald Trump \u2013 known for his combative and prolific social media style \u2013 struck an unusually restrained online tone during his state visit to China. Trump has shared only 10 social media updates since landing in Beijing on Wednesday evening \u2013 mostly videos of his arrival in Beijing and ",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353766/rapid-fire-restrained-china-state-visit-reveals-changed-trump-social-media",
+          "category": "General",
+          "publishedAt": "2026-05-15T14:03:34+00:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Iran FM says U.S. willing to continue talks, open to China\u2019s help",
+          "description": "Araghchi spoke a day after U.S. President Donald Trump said Xi Jinping had offered China's help to reopen the Strait of Hormuz",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-fm-says-us-willing-to-continue-talks-open-to-chinas-help/article70984679.ece",
+          "category": "General",
+          "publishedAt": "2026-05-15T23:12:12+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Xi-Trump summit: all you need to know from the final day of the meeting in Beijing",
+          "description": "We have put together stories from our coverage on the second day of Xi and Trump\u2019s meeting in Beijing. If you would like to see more of our reporting, please consider subscribing. 1. \u2018We\u2019ll be back\u2019: the latest takeaways from the Xi-Trump talks Chinese President Xi Jinping and his US counterpart Don",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353778/xi-trump-summit-all-you-need-know-final-day-meeting-beijing",
+          "category": "General",
+          "publishedAt": "2026-05-15T19:08:45+00:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "iran",
+            "china",
+            "war"
+          ],
+          "group_id": 1
+        }
+      ]
     },
     {
-      "title": "Health officials raise alarm over new Ebola outbreak in DR Congo",
-      "description": "Concern is high regarding the potential spread of the virus amid a precarious security situation in the affected area.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "description": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
       "category": "Health",
       "readingTime": 2,
-      "score": 12,
-      "why": "International travel and trade may face new health screening delays.",
-      "context": "Health officials have identified a new Ebola outbreak in a conflict zone.",
-      "next": "Global health agencies may deploy emergency response teams to the region.",
-      "bigger": "Disease containment remains difficult in politically unstable regions.",
-      "publishedAt": "2026-05-15T12:03:48+00:00",
+      "score": 10,
+      "why": "International travel and border crossings may face stricter health screenings.",
+      "context": "A deadly virus has spread across the Congo and reached neighboring countries.",
+      "next": "Health agencies will likely ramp up vaccination and containment efforts.",
+      "bigger": "Global health security remains vulnerable to localized infectious outbreaks.",
+      "publishedAt": "2026-05-15T17:53:23+00:00",
       "topicFingerprint": [
-        "outbreak",
         "health",
         "ebola",
-        "congo",
-        "virus"
+        "outbreak",
+        "africa",
+        "congo"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "What to know about new Ebola outbreak that has killed 65 people in Congo",
+          "description": "Africa's top public health body has confirmed a new Ebola outbreak in Congo's Ituri province, the 17th since the disease first emerged in the country in 1976.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/health/what-to-know-about-new-ebola-outbreak-that-has-killed-65-people-in-congo",
+          "category": "Health",
+          "publishedAt": "2026-05-15T12:25:32-04:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "health",
+            "ebola",
+            "outbreak",
+            "africa",
+            "congo"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+          "description": "Africa's top public health body has confirmed a new Ebola outbreak in Congo s remote Ituri province",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/new-ebola-outbreak-confirmed-remote-congo-province-65-132992437",
+          "category": "Health",
+          "publishedAt": "2026-05-15T07:57:28-04:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "health",
+            "ebola",
+            "outbreak",
+            "africa",
+            "congo"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "War, inflation and Trump\u2019s tariffs have shaken the US. Why does the stock market keep going up?",
@@ -97,17 +528,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 24,
-      "why": "Your retirement savings and investment portfolios may grow despite economic turmoil.",
-      "context": "The U.S. stock market continues to rise despite geopolitical tensions and tariffs.",
-      "next": "Investors may become cautious if corporate earnings begin to slip.",
-      "bigger": "Public markets are increasingly detached from consumer sentiment.",
+      "why": "Your retirement savings and investment portfolios may see unexpected growth.",
+      "context": "American stock markets are reaching new heights despite rising prices and geopolitical instability.",
+      "next": "Market volatility could increase as economic conditions shift.",
+      "bigger": "Investor confidence is detaching from traditional economic indicators.",
       "publishedAt": "2026-05-14T10:00:24+00:00",
       "topicFingerprint": [
         "us",
         "trump",
-        "china",
         "iran",
-        "chinese"
+        "china",
+        "war"
       ],
       "alternates": [
         {
@@ -117,57 +548,34 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-slip-inflation-worries-keep-investors-edge",
           "category": "Financial",
           "publishedAt": "2026-05-15T08:42:46+00:00",
-          "score": 23,
+          "score": 21,
           "readingTime": 2,
           "topicFingerprint": [
             "us",
             "trump",
-            "china",
             "iran",
-            "chinese"
+            "china",
+            "war"
           ],
           "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "US clears H200 sales to 10 China firms, but Nvidia's future remains unclear",
-      "description": "US approves H200 chip sales to 10 Chinese firms, but a deadlock persists as Beijing tells its tech sector to wait amid ongoing US-China tech rivalry.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/2659fcf5-4f20-4365-abe3-98d0bbdca774.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 19,
-      "why": "High-end tech products and software services may become harder to access.",
-      "context": "The U.S. approved specific chip sales to China while maintaining broader restrictions.",
-      "next": "China may accelerate the development of its own domestic hardware.",
-      "bigger": "Tech trade remains a primary weapon in global power struggles.",
-      "publishedAt": "2026-05-15T13:19:04+00:00",
-      "topicFingerprint": [
-        "us",
-        "trump",
-        "china",
-        "iran",
-        "chinese"
-      ],
-      "alternates": [
+        },
         {
-          "title": "Trump-Xi summit revives China tech rally hopes as U.S. reportedly clears Nvidia H200 sales",
-          "description": "Market watchers are betting that the Trump-Xi summit could extend trade truce and lift Chinese equities.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-14T07:44:10+00:00",
-          "score": 14,
+          "title": "US markets witness a bloodbath as tech selloff and rising yields weigh on markets",
+          "description": "US stocks tumbled as S P 500 and Nasdaq erased over 1 trillion in value, tech and chip shares led losses, yields and oil surged, Trump-Xi summit disappointed, Microsoft rose on Bill Ackman stake",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/market/us-markets-tumble-as-tech-selloff-and-rising-yields-weigh-on-markets-ws-l-19907128.htm",
+          "category": "Financial",
+          "publishedAt": "2026-05-15T22:11:13+05:30",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
             "us",
             "trump",
-            "china",
             "iran",
-            "chinese"
+            "china",
+            "war"
           ],
-          "group_id": 7
+          "group_id": 0
         }
       ]
     },
@@ -179,17 +587,83 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 10,
-      "why": "Your home heating and electricity costs could remain high and volatile.",
-      "context": "European officials are warning of a new crisis regarding energy and transport.",
-      "next": "New legislation may accelerate the transition to renewable infrastructure.",
-      "bigger": "Europe is struggling to decouple its economy from foreign energy.",
+      "why": "Your home heating and electricity bills may rise significantly.",
+      "context": "European officials are warning that the continent must overhaul its energy infrastructure immediately.",
+      "next": "Governments will likely fast-track renewable energy and storage projects.",
+      "bigger": "Energy independence is becoming a primary national security priority.",
       "publishedAt": "2026-05-15T15:52:31+00:00",
       "topicFingerprint": [
-        "middle",
         "east",
+        "middle",
         "economy",
         "war",
-        "week"
+        "costs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "A hotel check-in system left a million passports and driver\u2019s licenses open for anyone to see",
+      "description": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your identity and travel documents may be at risk of theft.",
+      "context": "A technical security failure exposed the private identification data of a million travelers.",
+      "next": "Regulators will likely investigate the company for data privacy violations.",
+      "bigger": "Digital infrastructure vulnerabilities are putting personal privacy at constant risk.",
+      "publishedAt": "2026-05-15T18:51:33+00:00",
+      "topicFingerprint": [
+        "system",
+        "licenses",
+        "check",
+        "driver",
+        "see"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "EU carmakers pave way for Chinese rivals as balance in market shifts",
+      "description": "Many European motoring manufacturers are in retreat with plants to off\u2013load \u2013 while China\u2019s industry is on the march The Chinese carmaker Xpeng is on the hunt for a factory in Europe. Volkswagen is aiming to reduce the number of its factories. It seems like it should have been the perfect set-up for",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/15/eu-carmakers-chinese-rivals-market-shifts",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 9,
+      "why": "You may find cheaper electric vehicle options from unfamiliar brands.",
+      "context": "European automotive companies are closing factories as Chinese manufacturers expand their reach.",
+      "next": "More European car factories may close or change ownership.",
+      "bigger": "The global automotive industry is shifting its center toward China.",
+      "publishedAt": "2026-05-15T04:00:26+00:00",
+      "topicFingerprint": [
+        "european",
+        "europe",
+        "eu",
+        "aiming",
+        "plan"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Russia\u2019s economy posts first quarterly decline in three years",
+      "description": "Russia's economy is facing mounting strain from its war in Ukraine and sanctions.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/russias-economy-posts-first-quarterly-decline-in-three-years",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Global commodity prices like wheat and metals may fluctuate.",
+      "context": "Ongoing conflict and international sanctions have caused the Russian economy to shrink.",
+      "next": "Tighter sanctions could be applied to further pressure the Kremlin.",
+      "bigger": "Prolonged conflict is systematically eroding the foundations of national economies.",
+      "publishedAt": "2026-05-16T02:07:42+08:00",
+      "topicFingerprint": [
+        "posts",
+        "economy",
+        "decline",
+        "russias",
+        "russia"
       ],
       "alternates": []
     },
@@ -201,58 +675,61 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 9,
-      "why": "Construction and manufacturing costs for certain goods could rise for you.",
-      "context": "New British steel import restrictions have stalled trade negotiations with India.",
-      "next": "Both nations may seek concessions in other sectors to negotiate.",
-      "bigger": "Trade protectionism is slowing down major international economic agreements.",
+      "why": "Goods made with steel could become more expensive to buy.",
+      "context": "New British regulations on steel have stalled a major trade agreement with India.",
+      "next": "Both nations will likely renegotiate terms to bypass trade barriers.",
+      "bigger": "Protectionist trade policies are complicating international economic cooperation.",
       "publishedAt": "2026-05-15T21:08:41+05:30",
       "topicFingerprint": [
-        "uk",
-        "steel",
-        "india",
+        "import",
+        "rules",
         "trade",
-        "deal"
+        "britain",
+        "steel"
       ],
-      "alternates": [
-        {
-          "title": "India-U.K. trade deal hits late-stage \u2018sticking points\u2019 just before implementation date",
-          "description": "Commerce Secretary Rajesh Agrawal said that the two countries were working on \u201ccreative\u201d solutions to the issues that have arisen related to steel.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/india-uk-trade-deal-hits-late-stage-sticking-points-just-before-implementation-date/article70982716.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-15T17:30:27+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk",
-            "steel",
-            "india",
-            "trade",
-            "deal"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Bolivia miners clash with police as explosions rock La Paz amid growing unrest",
-      "description": "Miners clash with police in La Paz, demanding President Rodrigo Paz's resignation and labor reforms amid Bolivia's worst economic crisis in a generation.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/458fb791-3623-4fb3-9d26-76b85597c80d.html",
-      "category": "Financial",
+      "title": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/arm-holdings-face-us-antitrust-probe-over-chip-tech-bloomberg-news-reports-6125096",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local shortages of essential goods and services may occur during strikes.",
-      "context": "Violent protests erupted in Bolivia as workers demand economic and labor reforms.",
-      "next": "The government may declare a state of emergency to restore order.",
-      "bigger": "Severe economic decline is triggering civil unrest across South America.",
-      "publishedAt": "2026-05-15T03:16:19+00:00",
+      "score": 9,
+      "why": "The price of your next laptop or phone could change.",
+      "context": "US authorities are investigating a major chip designer for potential monopolistic behavior.",
+      "next": "Legal battles may delay the release of new processor technologies.",
+      "bigger": "Tech giants are facing increased scrutiny over control of essential hardware.",
+      "publishedAt": "2026-05-16T06:57:38+08:00",
       "topicFingerprint": [
-        "bolivia",
-        "police",
-        "miners",
-        "bolivias",
-        "paz"
+        "holdings",
+        "chip",
+        "probe",
+        "face",
+        "tech"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
+      "description": "According to a new report from Forbes , the Department of Justice is demanding Apple, Amazon, and Google hand over \u201cidentities, addresses, and purchase histories\u201d of more than 100,000 users of a \u201ccar tinkering app\u201d called EZ Lynk. more\u2026",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/05/15/doj-reportedly-demands-apple-and-google-identify-over-100000-users-of-car-app/",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Your private app usage and location data may be shared.",
+      "context": "US investigators are seeking the private information of thousands of mobile app users.",
+      "next": "Tech companies might challenge these data requests in federal court.",
+      "bigger": "Government surveillance of digital activity is expanding into everyday apps.",
+      "publishedAt": "2026-05-15T16:56:06+00:00",
+      "topicFingerprint": [
+        "reportedly",
+        "google",
+        "doj",
+        "demands",
+        "users"
       ],
       "alternates": []
     },
@@ -263,210 +740,130 @@
       "url": "https://www.npr.org/2026/05/15/nx-s1-5822470/u-s-pledges-additional-1-8b-in-funding-for-u-n-humanitarian-aid-efforts",
       "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "Vulnerable populations may receive better access to food and medical care.",
-      "context": "The U.S. government increased its financial commitment to global humanitarian relief.",
-      "next": "Other wealthy nations may face pressure to increase their contributions.",
-      "bigger": "Global powers are using aid to maintain influence in crisis zones.",
+      "score": 9,
+      "why": "Taxpayer funds are being redirected to manage global displacement and hunger.",
+      "context": "The United States government committed billions of dollars to global relief programs.",
+      "next": "Aid organizations will likely scale up food and medical deliveries.",
+      "bigger": "Humanitarian crises are requiring larger financial commitments from wealthy nations.",
       "publishedAt": "2026-05-15T04:45:02-04:00",
       "topicFingerprint": [
-        "efforts",
-        "humanitarian",
+        "funding",
         "aid",
-        "pledges",
-        "us"
+        "us",
+        "efforts",
+        "18b"
       ],
       "alternates": []
     },
     {
-      "title": "The world is on track to miss its health targets",
-      "description": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we\u2019re on track to reach ambitious goals set in 2015. It\u2019s a bit like a health grade. The 2026 report was published on Wednesday.",
-      "source": "Mit Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 5,
-      "why": "You may face higher long-term healthcare costs as global wellness declines.",
-      "context": "A global report shows that goals for improving human health are failing.",
-      "next": "Health organizations may shift focus toward pandemic preparedness over wellness.",
-      "bigger": "Systemic inequality continues to prevent universal improvements in longevity.",
-      "publishedAt": "2026-05-15T09:00:00+00:00",
-      "topicFingerprint": [
-        "health",
-        "track",
-        "targets",
-        "miss"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Western powers ramp up support for Philippines\u2019 Luzon economic hub",
-      "description": "A widely touted economic hub in the Philippines will involve eight more countries, signalling greater international confidence in the long-term viability of the ambitious project to boost connectivity and trade in a key region. The Luzon Economic Corridor (LEC), a trilateral infrastructure initiativ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/economics/article/3353736/western-powers-ramp-support-philippines-luzon-economic-hub",
-      "category": "Economy",
+      "title": "Bolivia miners clash with police as explosions rock La Paz amid growing unrest",
+      "description": "Miners clash with police in La Paz, demanding President Rodrigo Paz's resignation and labor reforms amid Bolivia's worst economic crisis in a generation.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/458fb791-3623-4fb3-9d26-76b85597c80d.html",
+      "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "Improved shipping and connectivity may lower the cost of imported electronics.",
-      "context": "Multiple countries are investing in a major new infrastructure project in the Philippines.",
-      "next": "Construction may create thousands of new jobs in the region.",
-      "bigger": "Strategic alliances are forming to counter influence in the Pacific.",
-      "publishedAt": "2026-05-15T11:07:49+00:00",
+      "why": "Global supplies of minerals used in electronics may be interrupted.",
+      "context": "Violent protests have broken out in Bolivia as workers demand government leadership changes.",
+      "next": "Civil unrest could lead to further strikes or a political transition.",
+      "bigger": "Economic hardship is fueling political instability across Latin America.",
+      "publishedAt": "2026-05-15T03:16:19+00:00",
       "topicFingerprint": [
-        "ramp",
-        "philippines",
-        "support",
-        "luzon",
-        "western"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India deepens defence, energy ties with UAE during PM Modi visit",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/asia/india-deepens-defence-energy-ties-uae-during-pm-modi-visit-6124211",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Your energy supply may become more reliable through these new partnerships.",
-      "context": "India and the UAE signed agreements to cooperate on security and power.",
-      "next": "Joint military exercises and technology sharing will likely increase soon.",
-      "bigger": "Emerging economies are forming powerful blocks outside of Western influence.",
-      "publishedAt": "2026-05-15T22:44:41+08:00",
-      "topicFingerprint": [
-        "energy",
-        "uae",
-        "modi",
-        "india",
-        "deepens"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Bill Ackman's Pershing Square takes new stake in Microsoft",
-      "description": "Bill Ackman announced that Pershing Square has taken a new stake in Microsoft Corp, which he believes is currently underpriced.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/86d02964-1f95-462b-aacf-3ca267388432.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Increased investor demand could push up the value of your shares.",
-      "context": "A major hedge fund purchased a significant amount of Microsoft stock.",
-      "next": "The fund may push for changes in how the company operates.",
-      "bigger": "Institutional investors are doubling down on dominant artificial intelligence leaders.",
-      "publishedAt": "2026-05-15T11:14:59+00:00",
-      "topicFingerprint": [
-        "bill",
-        "stake",
-        "ackman",
-        "takes",
-        "ackmans"
+        "miners",
+        "amid",
+        "explosions",
+        "clash",
+        "growing"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "The UK's tax authority is turning to AI to help identify fraud",
-      "description": "Human staff members will still check the AI's findings.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2173575/uk-tax-authority-turning-to-ai-fraud-detection/",
-      "category": "Financial",
+      "title": "Iran has been confiscating property from critics of the regime",
+      "description": "Iran's government has been confiscating property from people it deems traitors or critics of the regime.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5764842/iran-has-been-confiscating-property-from-critics-of-the-regime",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 11,
-      "why": "Your tax filings may be processed faster or face more scrutiny.",
-      "context": "The UK government is implementing AI tools to detect tax evasion.",
-      "next": "Other government agencies may adopt similar automated oversight tools.",
-      "bigger": "Automation is becoming the primary tool for government revenue enforcement.",
-      "publishedAt": "2026-05-15T12:08:12+00:00",
+      "score": 10,
+      "why": "Expatriates and travelers may lose access to their personal assets.",
+      "context": "The Iranian government is seizing homes and assets from people who oppose the leadership.",
+      "next": "International human rights groups will likely condemn the asset seizures.",
+      "bigger": "Authoritarian regimes are using financial punishment to silence domestic dissent.",
+      "publishedAt": "2026-05-15T18:03:07-04:00",
       "topicFingerprint": [
-        "turning",
-        "authority",
-        "fraud",
-        "tax",
-        "ai"
+        "property",
+        "confiscating",
+        "iran",
+        "regime",
+        "critics"
       ],
       "alternates": []
     },
     {
-      "title": "UK politics: How Starmer survives as Farage waits in wings",
-      "description": "High profile resignations, a prime minister on the edge and populists on the up \u2014 UK politics is far from dull. DW explains what's going on in Keir Starmer's Labour party and with Nigel Farage. And what may be next.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215",
-      "category": "General",
+      "title": "US scraps deployment of 4,000 troops to Poland",
+      "description": "The Pentagon canceled plans to deploy 4,000 U.S. troops to Poland, following a withdrawal of 5,000 troops from Germany amid a review of U.S. presence in Europe.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/09c28ed3-8a02-4d89-9a87-a2e2aa59f6ab.html",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Changes in leadership could lead to different tax and spending policies.",
-      "context": "The UK government is facing rising internal pressure and political competition.",
-      "next": "Expect more public debates over immigration and economic reform.",
-      "bigger": "Traditional political parties are struggling to hold back populist movements.",
-      "publishedAt": "2026-05-15T14:09:00+00:00",
+      "score": 9,
+      "why": "Regional safety and defense spending in Europe may soon change.",
+      "context": "The American military canceled plans to send thousands of troops to Eastern Europe.",
+      "next": "European allies may increase their own military budgets for security.",
+      "bigger": "The US is reconsidering its military footprint and alliances abroad.",
+      "publishedAt": "2026-05-15T10:16:05+00:00",
       "topicFingerprint": [
-        "starmer",
-        "keir",
-        "uk",
-        "minister",
-        "prime"
+        "poland",
+        "scraps",
+        "us",
+        "troops",
+        "deployment"
       ],
-      "alternates": [
-        {
-          "title": "Who are possible contenders in the UK Labour Party leadership race?",
-          "description": "As British Prime Minister Keir Starmer faces increasing pressure to step down, several potential rivals are emerging for a potential leadership race within the Labour Party. Among them are the mayor of Greater Manchester, the outgoing health minister and the former deputy prime minister.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260515-who-are-the-possible-contenders-in-uk-labour-party-s-leadership-race",
-          "category": "Health",
-          "publishedAt": "2026-05-15T11:39:13+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "starmer",
-            "keir",
-            "uk",
-            "minister",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "U.K. Prime Minister Keir Starmer faces challenges from his own party",
-          "description": "It's been a week of rebellion in Britain's ruling party. Contenders are vying for Prime Minister Keir Starmer's job. But it's expected to be a drawn-out process, and it's unclear if Starmer will go.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/05/15/nx-s1-5822492/u-k-prime-minister-keir-starmer-faces-challenges-from-his-own-party",
-          "category": "General",
-          "publishedAt": "2026-05-15T04:41:42-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "starmer",
-            "keir",
-            "uk",
-            "minister",
-            "prime"
-          ],
-          "group_id": 1
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Defense stocks continue to come under pressure \u2013 why Citi is \u2018reluctant\u2019 to buy the dip",
-      "description": "The iShares U.S. Aerospace & Defense ETF has dropped about 10% since the start of March.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/defense-stocks-come-under-pressure-citi-reluctant-to-buy-the-dip.html",
-      "category": "Financial",
+      "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
+      "description": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
+      "category": "Science",
       "readingTime": 2,
-      "score": 10,
-      "why": "Your investment portfolio may see losses if it holds defense-related stocks.",
-      "context": "Military and aerospace stocks are falling despite ongoing global conflicts.",
-      "next": "Analysts may wait for clearer government spending plans before buying.",
-      "bigger": "Market volatility is affecting sectors once considered safe during wartime.",
-      "publishedAt": "2026-05-15T08:08:53+00:00",
+      "score": 9,
+      "why": "Your GPS and satellite communications could face interference or outages.",
+      "context": "Major world powers are increasing military and surveillance activities in high-earth orbit.",
+      "next": "New international treaties may be proposed to regulate orbital behavior.",
+      "bigger": "Space is becoming a primary front for global military competition.",
+      "publishedAt": "2026-05-15T19:11:48+00:00",
       "topicFingerprint": [
-        "dip",
-        "citi",
-        "buy",
-        "pressure",
-        "come"
+        "party",
+        "threes",
+        "geo",
+        "us",
+        "prowl"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "6 passengers from hantavirus-hit cruise ship arrive in Australia for 3-week quarantine",
+      "description": "Australian Health Minister Mark Butler said the government would implement one of world's strongest quarantine responses to the outbreak.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/6-passengers-from-hantavirus-hit-cruise-ship-arrive-in-australia-for-3-week-quarantine",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your vacation plans may be canceled or delayed by health rules.",
+      "context": "Australian authorities enforced strict isolation for travelers exposed to a rare virus.",
+      "next": "Other cruise lines may implement mandatory testing for all passengers.",
+      "bigger": "Governments are adopting zero-tolerance policies toward potential viral threats.",
+      "publishedAt": "2026-05-15T13:57:43-04:00",
+      "topicFingerprint": [
+        "ship",
+        "outbreak",
+        "cruise",
+        "hantavirus",
+        "week"
       ],
       "alternates": []
     },
@@ -477,104 +874,84 @@
       "url": "https://www.ipsnews.net/2026/05/field-based-research-is-a-lifeline-for-zimbabwes-food-security/",
       "category": "Science",
       "readingTime": 2,
-      "score": 9,
-      "why": "Local food prices may drop as crop yields become more reliable.",
-      "context": "Scientists are using local agricultural research to fight food shortages in Zimbabwe.",
-      "next": "New pest-resistant seeds may be distributed to small-scale farmers.",
-      "bigger": "Scientific innovation is the main defense against climate-driven famine.",
+      "score": 8,
+      "why": "Food availability and grocery prices may stabilize in the region.",
+      "context": "Local scientific research is being used to protect crops and ensure food supplies.",
+      "next": "More countries may adopt similar scientific methods for farming.",
+      "bigger": "Localized scientific research is essential for adapting to climate change.",
       "publishedAt": "2026-05-15T04:30:22+00:00",
       "topicFingerprint": [
-        "food",
-        "research",
+        "security",
         "field",
-        "zimbabwe",
-        "lifeline"
+        "lifeline",
+        "research",
+        "zimbabwe"
       ],
       "alternates": []
     },
     {
-      "title": "Mactracker app turns 25 as iPhone and iPad version sees major update with new features",
-      "description": "Mactracker has long been a terrific Mac app for keeping track of pretty much every Apple hardware and software release ever. Exactly how long? 25 years, in fact. To help celebrate the big anniversary, Mactracker for iPhone and iPad has a big new release out this week that includes useful new feature",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/05/15/mactracker-app-turns-25-as-iphone-and-ipad-version-sees-major-update-with-new-features/",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 8,
-      "why": "You can now access detailed device information more quickly on mobile.",
-      "context": "A database for Apple hardware specifications reached a milestone with new updates.",
-      "next": "The app may integrate newer software and cloud service histories.",
-      "bigger": "Long-term digital archives are becoming essential tools for tech enthusiasts.",
-      "publishedAt": "2026-05-15T14:01:57+00:00",
-      "topicFingerprint": [
-        "ipad",
-        "version",
-        "update",
-        "turns",
-        "mactracker"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Uganda at a crossroads as Museveni begins new term",
-      "description": "Unemployment and poverty pose major challenges for President Museveni's seventh term, while his age and long rule prompt questions about Uganda's future beyond his leadership.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718",
+      "title": "New York Times defends journalist after Israel threatens to sue",
+      "description": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainees.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wedpk155jo",
       "category": "General",
       "readingTime": 2,
-      "score": 7,
-      "why": "Economic growth may slow down if political transitions remain stalled.",
-      "context": "Uganda\u2019s long-standing president started another term amid economic and social challenges.",
-      "next": "Protests over youth unemployment and poverty could increase.",
-      "bigger": "African nations are struggling with leadership transitions in aging regimes.",
-      "publishedAt": "2026-05-15T13:06:00+00:00",
+      "score": 8,
+      "why": "The news you read may be restricted by legal threats.",
+      "context": "A legal dispute has emerged over reporting on the treatment of detained individuals.",
+      "next": "The court case could set a precedent for international reporting.",
+      "bigger": "Media freedom is increasingly under pressure from government legal action.",
+      "publishedAt": "2026-05-15T16:30:31+00:00",
       "topicFingerprint": [
-        "begins",
-        "term",
-        "museveni",
-        "uganda",
-        "crossroads"
+        "times",
+        "defends",
+        "sue",
+        "threatens",
+        "journalist"
       ],
       "alternates": []
     },
     {
-      "title": "How the far right got its name",
-      "description": "The far right has gone from fringe to mainstream - but political scientists say the term is often misused.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/5/15/how-the-far-right-got-its-name",
-      "category": "Science",
+      "title": "Cuban dancer finds meaning and work in the streets as the island's art scene fades",
+      "description": "Renowned Cuban dancer and choreographer Juan Miguel Mas, has faced significant challenges due to Cuba's economic crisis",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/cuban-dancer-finds-meaning-work-streets-islands-art-132992619",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 6,
-      "why": "Better definitions could help you understand evolving political news and debates.",
-      "context": "Political scientists are examining the history and modern use of far-right labels.",
-      "next": "News organizations may update their guidelines for describing political groups.",
-      "bigger": "Academic discourse is attempting to keep pace with shifting political identities.",
-      "publishedAt": "2026-05-15T15:30:58+00:00",
+      "score": 7,
+      "why": "Your access to cultural events and tourism in Cuba may decline.",
+      "context": "An economic crisis in Cuba is forcing professional artists into informal street work.",
+      "next": "Many artists may attempt to leave the country for work elsewhere.",
+      "bigger": "Economic crises are causing a brain drain of cultural talent.",
+      "publishedAt": "2026-05-15T07:59:43-04:00",
       "topicFingerprint": [
-        "right",
-        "far",
-        "name"
+        "island",
+        "cuban",
+        "work",
+        "streets",
+        "scene"
       ],
       "alternates": []
     },
     {
-      "title": "Greece asks EU to step in over 'unlawful fishing' by Turkey in east Mediterranean",
-      "description": "ATHENS, May 15 - Greece on Friday asked the European Union to step in and stop what it said was unlawful fishing and violation of maritime law by Turkish fishermen in the eastern Mediterranean Sea.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/greece-asks-eu-to-step-in-over-unlawful-fishing-by-turkey-in-east-mediterranean",
+      "title": "Latin American nationals deported by the US to Congo face an uncertain future",
+      "description": "Fifteen people deported from the U.S. to Congo under the Trump administration's policy face difficult conditions",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/latin-american-nationals-deported-us-congo-face-uncertain-132999774",
       "category": "Policy",
       "readingTime": 2,
-      "score": 6,
-      "why": "Seafood prices could fluctuate if maritime disputes disrupt local fishing.",
-      "context": "Greece requested European intervention to stop Turkish boats from fishing in its waters.",
-      "next": "The EU may impose sanctions or host mediation talks.",
-      "bigger": "Resource scarcity is driving increased naval friction between bordering nations.",
-      "publishedAt": "2026-05-15T17:47:47+08:00",
+      "score": 7,
+      "why": "Immigration enforcement and deportation rules may change for your community.",
+      "context": "The US government deported individuals from Latin America to a central African country.",
+      "next": "Legal challenges to the deportation policy are likely to emerge.",
+      "bigger": "Migration policies are becoming increasingly complex and controversial worldwide.",
+      "publishedAt": "2026-05-15T10:50:03-04:00",
       "topicFingerprint": [
-        "step",
-        "asks",
-        "east",
-        "turkey",
-        "unlawful"
+        "latin",
+        "congo",
+        "deported",
+        "face",
+        "nationals"
       ],
       "alternates": []
     }
@@ -582,45 +959,68 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "China\u2019s tech companies are looking to rewrite the e-commerce playbook with AI agents",
-        "description": "For years, online shopping in China has followed a rigid, tedious ritual: typing precise keywords, squinting at endless rows of listings, and falling into a rabbit hole of product comparisons. But for a man surnamed Liu, a 30-something finance professional based in Hong Kong, that experience has rec",
+        "title": "Can AI-assisted unmanned vessels be Beijing\u2019s answer to South China Sea patrols?",
+        "description": "Wave-powered unmanned surface vessels (USV) could be used for maritime rights and law enforcement, researchers said, as Beijing faces heightened tensions in contested waters including the South China Sea. Writing in the latest issue of Naval and Merchant Ships, owned by China State Shipbuilding Corp",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3353747/chinas-tech-companies-are-looking-rewrite-e-commerce-playbook-ai-agents",
+        "url": "https://www.scmp.com/news/china/military/article/3353721/can-ai-assisted-unmanned-vessels-be-beijings-answer-south-china-sea-patrols",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-15T12:00:42+00:00",
+        "publishedAt": "2026-05-16T02:00:16+00:00",
         "reason": "within_48h",
-        "score": 11,
+        "score": 13,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chinas",
-          "commerce",
-          "agents",
-          "playbook",
-          "tech"
+          "answer",
+          "assisted",
+          "beijing",
+          "unmanned",
+          "beijings"
         ]
       },
       {
-        "title": "IMF lauds resilient Hong Kong economy, but warns of risks linked to Middle East war",
-        "description": "The International Monetary Fund (IMF) has lauded the resilience of Hong Kong\u2019s economy, noting a sustained recovery despite economic activity having yet to return to pre-Covid levels, while warning of downside risks stemming from escalating geopolitical tensions. It also urged Hong Kong to pursue me",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353758/imf-lauds-resilient-hong-kong-economy-warns-risks-linked-middle-east-war",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Chinese EVs are coming to Canada, and some dealers can't wait to sell them",
+        "description": "Canada is allowing 49,000 Chinese-made electric vehicles to be imported for retail sales annually at a tariff rate of 6.1%.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-15T12:48:35+00:00",
+        "publishedAt": "2026-05-15T18:25:38+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "middle",
-          "east",
-          "economy",
-          "war",
-          "week"
+          "them",
+          "chinese",
+          "wait",
+          "evs",
+          "sell"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Chinese EVs are coming to Canada, and some dealers can't wait to sell them",
+        "description": "Canada is allowing 49,000 Chinese-made electric vehicles to be imported for retail sales annually at a tariff rate of 6.1%.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-15T18:25:38+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "them",
+          "chinese",
+          "wait",
+          "evs",
+          "sell"
         ]
       }
     ],
@@ -635,59 +1035,36 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T13:50:06+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "lounges",
+          "indias",
           "debriefed",
-          "energy",
-          "heat",
-          "supercharged",
-          "lounges"
+          "april",
+          "energy"
         ]
       },
       {
-        "title": "STT Global Data Centres lines up a $500m Mumbai listing, in front of a crowded 2026 IPO queue",
-        "description": "The Singapore-controlled, Tata-minority data-centre operator has invited banks to pitch this month. The listing would slot in ahead of Sify and Yotta in India\u2019s first wave of pure data-centre IPOs. STT Global Data Centres India is preparing an initial public offering in Mumbai that could raise up to",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/stt-gdc-india-mumbai-ipo-500m-data-centre",
-        "fromUrl": "https://thenextweb.com/feed",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T09:08:03+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "centres",
-          "data",
-          "queue",
-          "mumbai",
-          "crowded"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Chinese EVs are coming to Canada, and some dealers can't wait to sell them",
-        "description": "Canada is allowing 49,000 Chinese-made electric vehicles to be imported for retail sales annually at a tariff rate of 6.1%.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "title": "Trade, supply chains and economic statecraft",
+        "description": "The new global order offers India unprecedented strategic and economic opportunities, making a case for balanced \u2018policy promiscuity\u2019",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/opinion/lead/trade-supply-chains-and-economic-statecraft/article70984368.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-15T15:49:08+00:00",
+        "publishedAt": "2026-05-16T00:14:16+05:30",
         "reason": "within_48h",
-        "score": 8,
+        "score": 5,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "some",
-          "dealers",
-          "chinese",
-          "evs",
-          "cant"
+          "supply",
+          "economic",
+          "statecraft",
+          "trade",
+          "chains"
         ]
       }
     ],
@@ -702,59 +1079,15 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T18:52:38+08:00",
         "reason": "within_48h",
-        "score": 8,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "alarms",
-          "visa",
-          "plan",
-          "hungarys",
-          "hungary"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "Tech CEOs summoned to US Capitol for June hearing",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/tech-ceos-summoned-us-capitol-june-hearing-6124176",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T21:23:29+08:00",
-        "reason": "within_48h",
         "score": 7,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "tech",
-          "ceos",
-          "capitol",
-          "summoned",
-          "hearing"
-        ]
-      },
-      {
-        "title": "Apple counters US smartphone decline as iPhone sales grow: report",
-        "description": "According to Counterpoint Research , Apple outperformed the broader US smartphone market in Q1, helped by continued iPhone 17 demand amid weakening Android sales. Here are the details. more\u2026",
-        "source": "9To5Mac",
-        "url": "https://9to5mac.com/2026/05/13/apple-counters-us-smartphone-decline-as-iphone-sales-grow-report/",
-        "fromUrl": "https://9to5mac.com/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-14T00:19:55+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "decline",
-          "counters",
-          "iphone",
-          "sales",
-          "grow"
+          "government",
+          "workers",
+          "visas",
+          "visa",
+          "ban"
         ]
       }
     ],
@@ -769,15 +1102,15 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T10:51:25+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "record",
-          "another",
-          "japan",
           "banks",
-          "expect"
+          "profit",
+          "japans",
+          "biggest",
+          "record"
         ]
       },
       {
@@ -790,15 +1123,59 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T18:16:34+05:30",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "earthquake",
-          "magnitude",
-          "coast",
           "east",
-          "japan"
+          "honshu",
+          "near",
+          "strikes",
+          "gfz"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Why flags are flying at half-staff across the US today - Explained",
+        "description": "US flags are flying at half-staff on May 15 to honor fallen and injured law enforcement officers during Peace Officers Memorial Day.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/why-flags-are-flying-at-half-staff-mast-across-the-us-today-peace-officers-memorial-may-15-101778859798770.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-05-15T21:58:50+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "explained",
+          "half",
+          "us",
+          "flying",
+          "staff"
+        ]
+      },
+      {
+        "title": "Top US health official says White House and Kennedy getting daily hantavirus updates",
+        "description": "CDC official says a person is considered high risk if they were on the ship between April 6 and May 10.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/top-us-health-official-says-white-house-and-kennedy-getting-daily-hantavirus-updates",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-05-16T09:45:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "kennedy",
+          "official",
+          "health",
+          "daily",
+          "us"
         ]
       }
     ],
@@ -813,36 +1190,15 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T04:14:30+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapores",
+          "computings",
           "turning",
-          "capitalise",
-          "computing",
-          "point"
-        ]
-      },
-      {
-        "title": "Singapore stocks end lower in line with regional markets; STI down 0.1%",
-        "description": "Singapore Airlines led the gainers on Singapore\u2019s blue-chip index, advancing 2.4 per cent.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/singapore-stocks-end-lower-on-may-15-sti-down-0-1",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T18:50:00+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "line",
-          "lower",
-          "stocks",
-          "regional",
-          "singapore"
+          "singapore",
+          "point",
+          "horizon"
         ]
       }
     ],
@@ -857,19 +1213,40 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T19:41:44+05:30",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "germany",
-          "merz",
           "live",
-          "children",
-          "advise"
+          "merz",
+          "germany",
+          "us",
+          "children"
         ]
       }
     ],
     "france": [
+      {
+        "title": "Foreign student fee hikes in France trigger backlash",
+        "description": "A French government plan to charge students from outside the European Union 16 times more than previously has stoked discontent. But how does this compare to the rest of Europe, both inside the EU and out?",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-05-14T19:52:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "european",
+          "europe",
+          "eu",
+          "aiming",
+          "plan"
+        ]
+      },
       {
         "title": "Hong Kong\u2019s M+ museum to showcase collections in Paris under 5-year deal",
         "description": "Collections from Hong Kong\u2019s M+ museum will be exhibited in Paris alongside works from the Centre Pompidou in France under a five-year deal signed by the two institutions, which also covers research and talent exchanges. The memorandum of understanding for the multi-year partnership was signed on Fr",
@@ -880,36 +1257,15 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T12:34:33+00:00",
         "reason": "within_48h",
-        "score": 5,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "kongs",
-          "hong",
-          "deal",
-          "paris",
-          "museum"
-        ]
-      },
-      {
-        "title": "How to fix France's declining birthrate",
-        "description": "With a notable decline in birthrates, France is now providing free egg retrieval for young women. But the health system is struggling to cope as a growing number decide to take up the offer. This as the French government is to send letters to 29-year-old women and men, asking them to reflect if they",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/the-51/20260515-how-to-fix-france-s-declining-birthrate",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T10:50:20+00:00",
-        "reason": "within_48h",
         "score": 4,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "declining",
-          "frances",
-          "france",
-          "fix",
-          "birthrate"
+          "museum",
+          "paris",
+          "hong",
+          "collections",
+          "showcase"
         ]
       }
     ],
@@ -924,126 +1280,61 @@
         "readingTime": 2,
         "publishedAt": "2026-05-15T04:53:40-04:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 4,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "groups",
           "bans",
+          "network",
+          "groups",
           "australia",
-          "nazi",
-          "network"
-        ]
-      },
-      {
-        "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-        "description": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T15:24:38+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "payout",
-          "trans",
-          "woman",
-          "doubles",
-          "discrimination"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "\u2018Half of British Muslims are under 25\u2019: Report shows shifting demographics",
-        "description": "Most Muslims are young and many have a degree, but some are disadvantaged in housing while lone-parent families rise.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T14:46:20+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "british",
-          "shifting",
-          "demographics",
-          "half",
-          "muslims"
-        ]
-      },
-      {
-        "title": "Britain investigates Microsoft over business software dominance",
-        "description": "The CMA opted to investigate Microsoft\u2019s cloud licensing practices again as \u200cpart of the SMS probe launched on Thursday",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/sci-tech/technology/britain-investigates-microsoft-over-business-software-dominance/article70982314.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T16:29:45+05:30",
-        "reason": "within_48h",
-        "score": 3,
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "business",
-          "britain",
-          "software",
-          "investigates",
-          "dominance"
+          "law"
         ]
       }
     ],
     "mexico": [
       {
-        "title": "Families scour southern Mexico after 40 migrants vanished on a dangerous sea route",
-        "description": "On Christmas Eve 2024, Elianis Caridad Morej n P rez, a young Cuban woman, told her mother she was boarding a boat from southern Mexico to the U.S. She disappeared along with 39 other migrants from Cuba, Honduras, and Ecuador",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/families-scour-southern-mexico-after-40-migrants-vanished-132976045",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "title": "Allies of Mexico's Sinaloa governor in US custody on alleged drug charges",
+        "description": "NEW YORK, May 15 - U.S. authorities have detained two former high-ranking officials from Mexico's Sinaloa state over alleged ties to the powerful Sinaloa cartel, court records and sources said on Friday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/former-mexican-governors-ally-in-us-custody-on-charges-of-cartel-ties",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-05-15T08:01:35-04:00",
+        "publishedAt": "2026-05-16T00:37:42+08:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 4,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "route",
-          "mexico",
-          "dangerous",
-          "scour",
-          "families"
+          "alleged",
+          "sinaloa",
+          "mexicos",
+          "allies",
+          "custody"
         ]
       }
     ],
-    "italy": [
+    "uae": [
       {
-        "title": "Sinner breaks Djokovic record with 32nd straight Masters win to reach Rome semis",
-        "description": "Jannik Sinner set a new record with 32 consecutive Masters 1000 wins, defeating Andrey Rublev to reach the Italian Open semi-finals.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/b3706c3b-9c74-40a1-a998-fdd5bbb8b557.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
+        "title": "\u2018We condemn attacks on UAE\u2019, says PM Modi, signs defence cooperation pact",
+        "description": "India and UAE also ink agreements on building India\u2019s strategic petroleum reserves and LNG supplies as Modi makes a brief stopover in Abu Dhabi",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/india-ready-to-extend-all-possible-support-for-peace-in-west-asia-pm-modi-in-uae/article70982201.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-14T17:24:38+00:00",
+        "publishedAt": "2026-05-15T22:12:40+05:30",
         "reason": "within_48h",
         "score": 3,
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "record",
-          "32nd",
-          "straight",
-          "masters",
-          "breaks"
+          "attacks",
+          "uae",
+          "pact",
+          "signs",
+          "condemn"
         ]
       }
     ]
