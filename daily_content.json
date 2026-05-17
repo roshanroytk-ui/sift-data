@@ -1,29 +1,51 @@
 {
-  "updatedAt": "2026-05-16T19:02:15.691489",
+  "updatedAt": "2026-05-17T00:34:06.026673",
   "insight": {
-    "title": "Your Wi-Fi Router Can See Through Your Walls",
-    "subtitle": "How your wireless signal maps your body in real-time.",
+    "title": "You Think of Your Future Self as a Stranger",
+    "subtitle": "Why it is so easy to ignore your own long-term interests.",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "The Wi-Fi in your room is actually an invisible field that \"sees\" your every move. The signals don't just carry data; they bounce off your skin like ripples hitting a rock."
+        "text": "You treat your future self like a stranger you don\u2019t particularly like. When you think about who you will be in ten years, your brain shuts down the regions it uses to identify \"you.\""
       },
       {
         "type": "paragraph",
-        "text": "By measuring how these waves change shape as they hit you, computers can now map your exact location, your posture, and even the rise and fall of your chest."
+        "text": "Mental activity shifts to the areas used to process people you\u2019ve never met. To your brain, the person who has to deal with your choices next month is someone else entirely."
       },
       {
         "type": "paragraph",
-        "text": "This turns your router into a radar system. It is already being used in hospitals to detect falls through walls, seeing human movement in places where cameras cannot."
+        "text": "This is why it is easy to commit to a diet next Monday. You aren\u2019t promising to do the work; you are volunteering a stranger to suffer while you enjoy the cake today."
       },
       {
         "type": "paragraph",
-        "text": "Your internet connection is watching you breathe."
+        "text": "You are leaving the bill for a person you\u2019ve never met."
       }
     ]
   },
   "news": [
+    {
+      "title": "Trump says Iran war is worth the economic pain. These rural voters agree",
+      "description": "Mr Trump's war with Iran has sent fuel prices soaring past US$4.50 a gallon nationwide.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "The administration is prioritizing military goals despite rising gasoline costs.",
+      "next": "Global oil prices may continue to climb.",
+      "bigger": "Geopolitical conflicts are directly reshaping domestic consumer costs.",
+      "publishedAt": "2026-05-16T18:52:59+08:00",
+      "topicFingerprint": [
+        "us",
+        "trump",
+        "china",
+        "iran",
+        "president"
+      ],
+      "alternates": []
+    },
     {
       "title": "DRC health minister warns \u2018very high\u2019 Ebola lethality rate as toll hits 80",
       "description": "Africa CDC concerned that outbreak of Bundibugyo strain could spread rapidly due to intense population movement.",
@@ -32,17 +54,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 9,
-      "why": "International travel and local trade may face strict health screenings.",
-      "context": "A deadly Ebola outbreak in Congo is spreading quickly among populations.",
-      "next": "Global health agencies will likely increase emergency funding and staff.",
-      "bigger": "Infectious diseases are spreading faster due to increased global movement.",
+      "why": "International travel may involve more health checks.",
+      "context": "A deadly viral outbreak is spreading rapidly across central Africa.",
+      "next": "Health authorities may implement stricter border controls.",
+      "bigger": "Regional health crises are increasingly threatening global health security.",
       "publishedAt": "2026-05-16T18:35:58+00:00",
       "topicFingerprint": [
-        "ebola",
-        "outbreak",
-        "africa",
+        "drc",
+        "cdc",
         "health",
-        "congo"
+        "outbreak",
+        "ebola"
       ],
       "alternates": [
         {
@@ -55,57 +77,35 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "africa",
+            "drc",
+            "cdc",
             "health",
-            "congo"
+            "outbreak",
+            "ebola"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
-      "description": "Soaring housing costs, climate shocks and conflicts are leaving millions without adequate shelter \u2013 but what can be done? As the 13th UN World Urban Forum opens on Sunday in Baku, Azerbaijan, participants will grapple with solutions to a deepening global housing crisis.",
-      "source": "UN News",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167517",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Your rent or home insurance costs may rise soon.",
-      "context": "Global leaders met to address extreme housing and climate struggles.",
-      "next": "Governments may introduce stricter green building codes for new homes.",
-      "bigger": "Urban areas are becoming increasingly unaffordable and vulnerable to weather.",
-      "publishedAt": "2026-05-16T12:00:00+00:00",
-      "topicFingerprint": [
-        "shocks",
-        "opens",
-        "intensify",
-        "baku",
-        "housing"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Four OpenClaw flaws let attackers steal data, escalate privileges, and plant backdoors through the agent\u2019s own sandbox",
-      "description": "Cybersecurity researchers at Cyera have disclosed four vulnerabilities in OpenClaw that, when chained together, allow an attacker to steal sensitive data, escalate privileges, and establish persistent control over a compromised host. The flaws, collectively dubbed \u201cClaw Chain,\u201d affect OpenClaw\u2019s Ope",
+      "title": "OpenAI wants ChatGPT to see your bank account. The pitch is convenience. The risk is everything else.",
+      "description": "OpenAI has launched a personal finance experience inside ChatGPT, letting subscribers connect their bank accounts, credit cards, investment portfolios, and loan accounts to the chatbot and ask questions grounded in their actual financial data. The feature, released on 15 May, is available in preview",
       "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openclaw-claw-chain-vulnerabilities-sandbox-escape",
-      "category": "Science",
+      "url": "https://thenextweb.com/news/openai-chatgpt-personal-finance-plaid",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 6,
-      "why": "Your private files and accounts could be stolen by hackers.",
-      "context": "Researchers found security gaps in OpenClaw that allow hackers access.",
-      "next": "Developers will release security patches to fix these software vulnerabilities.",
-      "bigger": "AI-integrated software is creating new and complex entry points for cyberattacks.",
-      "publishedAt": "2026-05-16T10:15:12+00:00",
+      "score": 7,
+      "why": "Your private financial data may face new security risks.",
+      "context": "A new feature allows users to link their banking data with AI.",
+      "next": "More apps may demand direct access to your banking information.",
+      "bigger": "The line between personal privacy and digital convenience is disappearing.",
+      "publishedAt": "2026-05-16T08:41:04+00:00",
       "topicFingerprint": [
-        "let",
-        "four",
-        "data",
-        "flaws",
-        "escalate"
+        "see",
+        "chatgpt",
+        "everything",
+        "account",
+        "risk"
       ],
       "alternates": []
     },
@@ -117,127 +117,124 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 9,
-      "why": "Global supply chains for fuel and food may become volatile.",
-      "context": "The Russian economy shrank for the first time in several years.",
-      "next": "The Kremlin may implement more aggressive tax or trade policies.",
-      "bigger": "Protracted conflicts are causing long-term damage to major national economies.",
+      "why": "Prices for goods made with imported materials may rise.",
+      "context": "Economic output has shrunk for the first time since the invasion.",
+      "next": "More sanctions may be imposed to further pressure the Kremlin.",
+      "bigger": "War-driven economic isolation is finally showing measurable domestic costs.",
       "publishedAt": "2026-05-16T02:07:42+08:00",
       "topicFingerprint": [
-        "years",
         "russia",
-        "quarterly",
-        "economy",
-        "decline"
+        "posts",
+        "years",
+        "decline",
+        "economy"
       ],
       "alternates": []
     },
     {
-      "title": "Global financial environment is extremely challenging, cautions Chief Economic Advisor Nageswaran",
-      "description": "The country should act with urgency, strategic clarity and institutional confidence to secure its place in a rapidly changing global order. Trade skills such as electricians, skilled construction workers and technicians will remain among the most protected and essential jobs in the emerging economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/global-financial-environment-is-extremely-challenging-cautions-chief-economic-advisor-nageswaran/article70987329.ece",
+      "title": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
+      "description": "Soaring housing costs, climate shocks and conflicts are leaving millions without adequate shelter \u2013 but what can be done? As the 13th UN World Urban Forum opens on Sunday in Baku, Azerbaijan, participants will grapple with solutions to a deepening global housing crisis.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167517",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Your rent or home buying costs may remain high.",
+      "context": "Global leaders are meeting to address the shortage of affordable housing.",
+      "next": "Cities may adopt stricter rules for climate-resilient building.",
+      "bigger": "Urban living is becoming increasingly unaffordable and environmentally vulnerable.",
+      "publishedAt": "2026-05-16T12:00:00+00:00",
+      "topicFingerprint": [
+        "shocks",
+        "urban",
+        "climate",
+        "forum",
+        "crisis"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US Treasury allows sanctions waiver on Russia\u2019s seaborne oil to lapse",
+      "description": "The waiver is aimed at easing oil supply shortages and high prices due to the Iran war.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse",
       "category": "Economy",
       "readingTime": 2,
-      "score": 18,
-      "why": "Your borrowing costs and interest rates may stay high.",
-      "context": "India's top economic advisor warned about difficult global financial conditions.",
-      "next": "Businesses will likely prioritize domestic stability over international expansion.",
-      "bigger": "Nations are shifting toward self-reliance to avoid global economic shocks.",
-      "publishedAt": "2026-05-16T21:07:25+05:30",
+      "score": 19,
+      "why": "You may see higher prices at the gas pump.",
+      "context": "The government ended a policy that allowed certain Russian oil exports.",
+      "next": "Energy markets may tighten as supply options decrease.",
+      "bigger": "Economic sanctions are being used as primary tools of warfare.",
+      "publishedAt": "2026-05-17T03:08:03+08:00",
       "topicFingerprint": [
         "us",
         "trump",
         "china",
         "iran",
-        "war"
+        "president"
       ],
       "alternates": []
     },
     {
-      "title": "Walmart and Amazon compete for rural America with faster deliveries",
-      "description": "Analysts at investment bank Morgan Stanley estimate the underserved market could be worth up to $1 trillion in annual sales.",
+      "title": "Trump returns to the U.S. from China with pressure over rising inflation",
+      "description": "WASHINGTON (AP) \u2014 President Donald Trump returned from the spectacle of a Chinese state visit to a less than welcoming U.S. economy \u2014 with the military band and garden tour in Beijing giving way to pressure over how to fix America's escalating inflation rate. Consumer inflation in the United States ",
       "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/nation/walmart-and-amazon-compete-for-rural-america-with-faster-deliveries",
-      "category": "Financial",
+      "url": "https://www.pbs.org/newshour/economy/trump-returns-to-the-u-s-from-china-with-pressure-over-rising-inflation",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 9,
-      "why": "You may get packages delivered much faster in rural locations.",
-      "context": "Major retailers are battling to provide quicker shipping to remote areas.",
-      "next": "More delivery hubs and local warehouses will open in small towns.",
-      "bigger": "Logistics companies are targeting underserved regions to find new growth.",
-      "publishedAt": "2026-05-16T14:03:08-04:00",
+      "score": 24,
+      "why": "Your monthly household expenses may continue to increase.",
+      "context": "Domestic political pressure is mounting over the rising cost of living.",
+      "next": "New trade policies may be introduced to combat rising prices.",
+      "bigger": "Trade relations between global powers are driving domestic inflation trends.",
+      "publishedAt": "2026-05-16T15:41:02-04:00",
       "topicFingerprint": [
-        "compete",
-        "faster",
-        "deliveries",
-        "walmart",
-        "amazon"
+        "us",
+        "trump",
+        "china",
+        "iran",
+        "president"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "description": "U.S. President Donald Trump traveled to China this week for two days of meetings with Chinese President Xi Jinping, after a year of heightened trade tensions.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-15T06:46:57+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us",
+            "trump",
+            "china",
+            "iran",
+            "president"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
-      "description": "One of the key challenges of current multi-agent AI systems is that they communicate by generating and sharing text sequences, which introduces latency, drives up token costs, and makes it difficult to train the entire system as a cohesive unit. To overcome this challenge, researchers at University ",
-      "source": "Venturebeat",
-      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
-      "category": "Technology",
+      "title": "Field-Based Research Is a Lifeline for Zimbabwe\u2019s Food Security",
+      "description": "Agriculture sustains millions of people in Zimbabwe, serving as a vital source of both food and income. But climate-related pressures affecting land, crops, rainfall patterns, and increasing pest outbreaks are threatening smallholder farmers\u2019 harvests, leaving them food insecure. Scientists at the I",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/05/field-based-research-is-a-lifeline-for-zimbabwes-food-security/",
+      "category": "Science",
       "readingTime": 2,
-      "score": 10,
-      "why": "The AI tools you use may become faster and cheaper.",
-      "context": "A new technical method makes AI agents communicate faster and cheaper.",
-      "next": "More complex AI assistants will be integrated into everyday software.",
-      "bigger": "Developers are focused on making AI more efficient and affordable.",
-      "publishedAt": "2026-05-15T21:04:15+00:00",
+      "score": 5,
+      "why": "Food availability in your area may become more consistent.",
+      "context": "New agricultural studies are helping farmers adapt to climate change.",
+      "next": "Scientists may develop more drought-resistant crop varieties.",
+      "bigger": "Scientific innovation is becoming the primary defense against climate-driven hunger.",
+      "publishedAt": "2026-05-15T04:30:22+00:00",
       "topicFingerprint": [
-        "recursivemas",
-        "agent",
-        "speeds",
-        "reduces",
-        "token"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Russia eases citizenship rules for residents of Moldova\u2019s breakaway Transnistria",
-      "description": "The Kremlin has approved new measures allowing citizens from Moldova s breakaway region of Transnistria to gain Russian citizenship more easily",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/russia-eases-citizenship-rules-residents-moldovas-breakaway-transnistria-133028707",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Travel and border crossings in the region may become difficult.",
-      "context": "Russia is making it easier for people in a Moldovan region to get passports.",
-      "next": "Tensions between the Moldovan government and local residents will rise.",
-      "bigger": "Citizenship is being used as a strategic tool in geopolitical conflicts.",
-      "publishedAt": "2026-05-16T10:54:17-04:00",
-      "topicFingerprint": [
-        "rules",
-        "moldova",
-        "breakaway",
-        "eases",
-        "transnistria"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Starbucks to open first corporate office in India for tech jobs",
-      "description": "The company has cut more than 2,000 jobs since February of last year",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/starbucks-open-first-corporate-office-india-tech-jobs",
-      "category": "General",
-      "readingTime": 2,
-      "score": 8,
-      "why": "New high-tech job opportunities will become available in the region.",
-      "context": "Starbucks is establishing a new technology hub in India to hire workers.",
-      "next": "Other global consumer brands may move their tech operations to India.",
-      "bigger": "Major corporations are moving technical roles to emerging global tech hubs.",
-      "publishedAt": "2026-05-16T07:21:57+00:00",
-      "topicFingerprint": [
-        "office",
-        "starbucks",
-        "india",
-        "open",
-        "corporate"
+        "lifeline",
+        "research",
+        "zimbabwe",
+        "field",
+        "food"
       ],
       "alternates": []
     },
@@ -249,61 +246,83 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 9,
-      "why": "Travel to the region may be disrupted by local unrest.",
-      "context": "Large crowds in Tunisia protested against the president and rising costs.",
-      "next": "The government may crack down harder on dissent to maintain control.",
-      "bigger": "Economic hardship is fueling political instability across many developing nations.",
+      "why": "Business travel and local shipping may be delayed.",
+      "context": "Thousands are protesting against government crackdowns and a failing economy.",
+      "next": "The government may face more intense international pressure.",
+      "bigger": "Economic hardship is fueling a global rise in civil unrest.",
       "publishedAt": "2026-05-17T01:23:17+08:00",
       "topicFingerprint": [
+        "saied",
+        "economic",
         "arrests",
         "strain",
-        "protest",
-        "economic",
-        "against"
+        "tunisians"
       ],
       "alternates": []
     },
     {
-      "title": "Trump says Iran war is worth the economic pain. These rural voters agree",
-      "description": "Mr Trump's war with Iran has sent fuel prices soaring past US$4.50 a gallon nationwide.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Your gasoline and heating bills may stay high during tensions.",
-      "context": "Political support remains high for a conflict despite rising domestic costs.",
-      "next": "Domestic energy production may increase to offset global supply shortages.",
-      "bigger": "Geopolitical goals are being prioritized over local economic stability.",
-      "publishedAt": "2026-05-16T18:52:59+08:00",
-      "topicFingerprint": [
-        "us",
-        "trump",
-        "china",
-        "iran",
-        "war"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "European\u00a0shares slip as inflation worries keep investors on edge",
-      "description": "EUROPEAN shares tumbled on Friday as a deadlock in US-Iran negotiations dented risk appetite, rattled energy markets and rekindled concerns over an economic...",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-slip-inflation-worries-keep-investors-edge",
+      "title": "Walmart and Amazon compete for rural America with faster deliveries",
+      "description": "Analysts at investment bank Morgan Stanley estimate the underserved market could be worth up to $1 trillion in annual sales.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/walmart-and-amazon-compete-for-rural-america-with-faster-deliveries",
       "category": "Financial",
       "readingTime": 2,
-      "score": 18,
-      "why": "Your retirement savings and investment portfolios may lose value.",
-      "context": "Stock markets in Europe dropped because of concerns over rising prices.",
-      "next": "Central banks may keep interest rates high to fight inflation.",
-      "bigger": "Global markets remain sensitive to any signs of persistent price growth.",
-      "publishedAt": "2026-05-15T08:42:46+00:00",
+      "score": 9,
+      "why": "You may receive your online orders much faster.",
+      "context": "Retail giants are battling to provide quicker shipping to rural areas.",
+      "next": "More local jobs in delivery and warehousing may be created.",
+      "bigger": "Logistics infrastructure is expanding deep into previously underserved regions.",
+      "publishedAt": "2026-05-16T14:03:08-04:00",
       "topicFingerprint": [
-        "us",
-        "trump",
-        "china",
-        "iran",
-        "war"
+        "faster",
+        "america",
+        "compete",
+        "deliveries",
+        "walmart"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Starbucks to open first corporate office in India for tech jobs",
+      "description": "The company has cut more than 2,000 jobs since February of last year",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/starbucks-open-first-corporate-office-india-tech-jobs",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "New high-tech job opportunities may open in your region.",
+      "context": "The coffee giant is establishing a technology hub in India.",
+      "next": "Other global brands may shift their tech operations to India.",
+      "bigger": "Western corporations are increasingly offshoring critical digital infrastructure roles.",
+      "publishedAt": "2026-05-16T07:21:57+00:00",
+      "topicFingerprint": [
+        "corporate",
+        "jobs",
+        "starbucks",
+        "tech",
+        "india"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Russia eases citizenship rules for residents of Moldova\u2019s breakaway Transnistria",
+      "description": "The Kremlin has approved new measures allowing citizens from Moldova s breakaway region of Transnistria to gain Russian citizenship more easily",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/russia-eases-citizenship-rules-residents-moldovas-breakaway-transnistria-133028707",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Your travel through Eastern Europe may face more delays.",
+      "context": "Moscow made it easier for people in a Moldovan region to become Russians.",
+      "next": "Border tensions between neighboring countries may escalate.",
+      "bigger": "Passport distribution is being used as a tool for territorial expansion.",
+      "publishedAt": "2026-05-16T10:54:17-04:00",
+      "topicFingerprint": [
+        "russia",
+        "eases",
+        "residents",
+        "breakaway",
+        "rules"
       ],
       "alternates": []
     }
@@ -317,61 +336,83 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "You may face more frequent identity theft and scams.",
-      "context": "Experts are highlighting the dangers of personal data being sold online.",
-      "next": "Demand for data privacy services and opt-out tools will grow.",
-      "bigger": "Individual privacy is becoming a valuable and difficult-to-maintain commodity.",
+      "why": "Your identity and bank accounts may be at risk.",
+      "context": "Experts are warning about the dangers of brokers selling personal info.",
+      "next": "More people may use services to scrub their digital footprints.",
+      "bigger": "Personal data is becoming a highly profitable and dangerous commodity.",
       "publishedAt": "2026-05-16T16:00:00+00:00",
       "topicFingerprint": [
-        "internet",
-        "wait",
-        "data",
+        "remove",
         "afford",
-        "remove"
+        "internet",
+        "personal",
+        "data"
       ],
       "alternates": []
     },
     {
-      "title": "Singapore minister reveals why human touch still important in AI era",
-      "description": "Even as Singapore positions itself at the frontier of AI technology, human intelligence still remains critical, according to the city state\u2019s foreign minister Vivian Balakrishnan. \u201cWe should beware of just trying to throw every problem, and every step in a solution, at a large-language model (LLM),\u201d",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3353807/singapore-minister-reveals-why-human-touch-still-important-ai-era",
-      "category": "Geopolitics",
+      "title": "Pope Leo decries AI-directed warfare as a spiral of annihilation",
+      "description": "Pope Leo XIV visited La Sapienza university, denouncing AI-directed warfare and high-tech weaponry while calling for peace in Ukraine and the Middle East.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/7ed4c09e-7ae8-49a4-9921-ea14f6c85f75.html",
+      "category": "Technology",
       "readingTime": 2,
       "score": 9,
-      "why": "Your job will likely require new skills to work with AI.",
-      "context": "A Singaporean official emphasized that human skills remain vital alongside AI.",
-      "next": "Educational programs will shift to focus on human-centric soft skills.",
-      "bigger": "Governments are trying to balance technological automation with workforce stability.",
-      "publishedAt": "2026-05-16T07:04:09+00:00",
+      "why": "Future warfare may involve more automated weaponry.",
+      "context": "The Pope warned against using artificial intelligence in military weapons.",
+      "next": "International bodies may debate new bans on autonomous weapons.",
+      "bigger": "Global leaders are struggling to ethically regulate emerging technologies.",
+      "publishedAt": "2026-05-15T08:14:53+00:00",
       "topicFingerprint": [
-        "era",
-        "reveals",
-        "ai",
-        "minister",
-        "important"
+        "annihilation",
+        "spiral",
+        "pope",
+        "warfare",
+        "decries"
       ],
       "alternates": []
     },
     {
-      "title": "Iran has been confiscating property from critics of the regime",
-      "description": "Iran's government has been confiscating property from people it deems traitors or critics of the regime.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/15/nx-s1-5764842/iran-has-been-confiscating-property-from-critics-of-the-regime",
-      "category": "Policy",
+      "title": "The haves and have nots of the AI gold rush",
+      "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 8,
-      "why": "Individuals living there face the risk of losing their savings.",
-      "context": "The Iranian government is seizing homes and assets from its opponents.",
-      "next": "More citizens may attempt to move their wealth out of the country.",
-      "bigger": "State power is being used to financially punish political dissenters.",
-      "publishedAt": "2026-05-15T18:03:07-04:00",
+      "score": 9,
+      "why": "Your career path may require new digital skills.",
+      "context": "The benefits of the AI boom are being unevenly distributed.",
+      "next": "Companies may prioritize AI skills over traditional experience.",
+      "bigger": "Technology is creating a widening gap in wealth and opportunity.",
+      "publishedAt": "2026-05-16T20:17:16+00:00",
       "topicFingerprint": [
-        "iran",
-        "property",
-        "regime",
-        "critics",
-        "confiscating"
+        "haves",
+        "rush",
+        "gold",
+        "nots",
+        "ai"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "A surprising solution to cut asphalt's impact on human health",
+      "description": "Elham Fini, professor of Sustainable Engineering and the Built Environment at Arizona State University, talks about her work on the health impact of asphalt emissions and a solution that could minimize the harmful effects.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5813673/a-surprising-solution-to-cut-asphalts-impact-on-human-health",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Air quality in your neighborhood may soon improve.",
+      "context": "Researchers found a way to reduce toxic emissions from roads.",
+      "next": "Governments may mandate these new materials for road construction.",
+      "bigger": "Infrastructure projects are being redesigned to prioritize public health.",
+      "publishedAt": "2026-05-16T17:03:31-04:00",
+      "topicFingerprint": [
+        "cut",
+        "asphalt",
+        "solution",
+        "human",
+        "health"
       ],
       "alternates": []
     },
@@ -383,166 +424,89 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Major changes to national policy and taxes may be coming.",
-      "context": "A popular local politician is being considered for a national leadership role.",
-      "next": "A special election or seat vacancy may be arranged for him.",
-      "bigger": "Voters are looking for new leadership to solve systemic government problems.",
+      "why": "Your taxes and public services may soon change.",
+      "context": "A popular regional mayor is being touted as a national leader.",
+      "next": "A special election may be held to provide a seat.",
+      "bigger": "Regional politicians are increasingly challenging established national leadership.",
       "publishedAt": "2026-05-16T11:22:08-04:00",
       "topicFingerprint": [
-        "british",
-        "uk",
-        "starmer",
-        "leadership",
-        "uncertainty"
+        "seat",
+        "see",
+        "burnham",
+        "andy",
+        "government"
       ],
       "alternates": []
     },
     {
-      "title": "AirPods Max designer reveals project details in new interview",
-      "description": "Eugene Whang, a former Apple hardware designer who spent 22 years at the company before following Jony Ive to LoveFrom, has shared new details about the development of AirPods Max in an interview with Highsnobiety . Here are the details. more\u2026",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/05/15/airpods-max-designer-reveals-project-details-in-new-interview/",
-      "category": "Technology",
+      "title": "Latvia\u2019s president asks opposition leader to form new government",
+      "description": "If opposition leader Kulbergs were to form a government, the cabinet lineup would need to be approved by parliament.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government",
+      "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Your next gadget may feature more experimental design choices.",
-      "context": "A former Apple designer shared the backstory of creating high-end headphones.",
-      "next": "Competing brands will likely copy these premium design elements.",
-      "bigger": "Aesthetics and high-end materials are driving the premium consumer tech market.",
-      "publishedAt": "2026-05-15T22:10:53+00:00",
+      "why": "Local government rules and services may be updated.",
+      "context": "A new leader has been tasked with creating a governing cabinet.",
+      "next": "Parliament will vote to approve or reject the new ministers.",
+      "bigger": "Political shifts in the Baltics are reshaping regional security alliances.",
+      "publishedAt": "2026-05-16T19:22:27+00:00",
       "topicFingerprint": [
-        "reveals",
-        "max",
-        "interview",
-        "project",
-        "airpods"
+        "leader",
+        "form",
+        "asks",
+        "opposition",
+        "latvia"
       ],
       "alternates": []
     },
     {
-      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-      "description": "WHO announced today that the operation to safely transfer passengers is complete.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Public health warnings and local restrictions may be lifted.",
-      "context": "Health officials corrected a report about a viral infection in the US.",
-      "next": "Medical labs will review their testing procedures to prevent future errors.",
-      "bigger": "Accuracy in medical reporting is essential to preventing public panic.",
-      "publishedAt": "2026-05-15T21:31:53+00:00",
-      "topicFingerprint": [
-        "outbreak",
-        "positive",
-        "hantavirus",
-        "cases",
-        "false"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Field-Based Research Is a Lifeline for Zimbabwe\u2019s Food Security",
-      "description": "Agriculture sustains millions of people in Zimbabwe, serving as a vital source of both food and income. But climate-related pressures affecting land, crops, rainfall patterns, and increasing pest outbreaks are threatening smallholder farmers\u2019 harvests, leaving them food insecure. Scientists at the I",
-      "source": "Inter Press Service",
-      "url": "https://www.ipsnews.net/2026/05/field-based-research-is-a-lifeline-for-zimbabwes-food-security/",
+      "title": "Four OpenClaw flaws let attackers steal data, escalate privileges, and plant backdoors through the agent\u2019s own sandbox",
+      "description": "Cybersecurity researchers at Cyera have disclosed four vulnerabilities in OpenClaw that, when chained together, allow an attacker to steal sensitive data, escalate privileges, and establish persistent control over a compromised host. The flaws, collectively dubbed \u201cClaw Chain,\u201d affect OpenClaw\u2019s Ope",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openclaw-claw-chain-vulnerabilities-sandbox-escape",
       "category": "Science",
       "readingTime": 2,
       "score": 5,
-      "why": "Local food prices may become more stable and predictable.",
-      "context": "Scientists are working in fields to protect Zimbabwe's agricultural crops.",
-      "next": "Farmers will adopt new planting techniques to handle changing weather.",
-      "bigger": "Scientific research is becoming the primary defense against climate-driven hunger.",
-      "publishedAt": "2026-05-15T04:30:22+00:00",
+      "why": "Your digital accounts may be vulnerable to new attacks.",
+      "context": "Researchers found major security holes in a popular AI framework.",
+      "next": "Software developers may rush to release security patches.",
+      "bigger": "Rapid AI development is creating significant new cybersecurity vulnerabilities.",
+      "publishedAt": "2026-05-16T10:15:12+00:00",
       "topicFingerprint": [
-        "research",
-        "field",
-        "zimbabwe",
-        "security",
-        "lifeline"
+        "privileges",
+        "openclaw",
+        "plant",
+        "sandbox",
+        "steal"
       ],
       "alternates": []
     },
     {
-      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "description": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo",
+      "title": "WHO revises hantavirus cases lower after US passenger tests negative",
+      "description": "The total global cases has been brought down to 10 from 11.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/who-revises-hantavirus-cases-lower-after-us-passenger-tests-negative",
       "category": "General",
       "readingTime": 2,
       "score": 5,
-      "why": "Safety regulations for dangerous tourist activities may become much stricter.",
-      "context": "A rescue diver lost his life during an underwater search operation.",
-      "next": "The search area will likely be closed to the public indefinitely.",
-      "bigger": "High-risk tourism is leading to more dangerous and costly rescue efforts.",
-      "publishedAt": "2026-05-16T15:01:40+00:00",
+      "why": "Travel restrictions and health alerts may be lifted.",
+      "context": "Health officials lowered the count of global virus cases.",
+      "next": "Health agencies may update their virus tracking procedures.",
+      "bigger": "Improved diagnostic testing is leading to more accurate global health data.",
+      "publishedAt": "2026-05-16T12:10:00+08:00",
       "topicFingerprint": [
-        "maldives",
-        "bodies",
-        "drowned",
-        "caves",
-        "dies"
+        "hantavirus",
+        "lower",
+        "cases",
+        "tests",
+        "negative"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
     "india": [
-      {
-        "title": "PM Modi in Netherlands LIVE: Netherlands hands back Chola dynasty copper plates to India",
-        "description": "PM Narendra Modi on May 16 met King of the Netherlands Willem-Alexander and Queen Maxima at the Royal Palace and discussed close cooperation in digital technology, innovation, fintech and blue economy",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/pm-modi-netherlands-visit-five-nation-tour-energy-trade-diplomatic-relations-live-updates-may-16-2026/article70986095.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T22:27:17+05:30",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: technology"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: innovation"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "financial important keyword match: economy"
-          },
-          {
-            "points": -4,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "technology",
-          "king",
-          "alexander",
-          "netherlands",
-          "willem"
-        ]
-      },
       {
         "title": "PM Modi meets Dutch King, addresses diaspora during Netherlands visit",
         "description": "Narendra Modi meets King Willem-Alexander and Queen Maxima in The Hague, aims to deepen India Netherlands ties in trade, technology, defence, clean energy and strategic sectors",
@@ -577,17 +541,64 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
-        "group_id": 1,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "technology",
-          "king",
-          "alexander",
           "netherlands",
-          "willem"
+          "modi",
+          "king",
+          "meets",
+          "addresses"
+        ]
+      },
+      {
+        "title": "DeBriefed 15 April 2026: Trump-Xi talk energy | \u2018Supercharged\u2019 El Ni\u00f1o | India\u2019s first \u2018heat lounges\u2019",
+        "description": "Welcome to Carbon Brief\u2019s DeBriefed. An essential guide to the week s key developments relating to climate... The post DeBriefed 15 April 2026: Trump-Xi talk energy | \u2018Supercharged\u2019 El Ni\u00f1o | India\u2019s first \u2018heat lounges\u2019 appeared first on Carbon Brief .",
+        "source": "Carbon Brief",
+        "url": "https://www.carbonbrief.org/debriefed-15-april-2026-trump-xi-talk-energy-supercharged-el-nino-indias-first-heat-lounges/",
+        "fromUrl": "https://www.carbonbrief.org/feed/",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-05-15T13:50:06+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: essential"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "trump",
+          "lounges",
+          "talk",
+          "india",
+          "april"
         ]
       }
     ],
@@ -632,104 +643,56 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "april",
-          "india",
+          "trump",
           "lounges",
           "talk",
-          "supercharged"
+          "india",
+          "april"
         ]
       },
       {
-        "title": "Scalpers list Swatch-Audemars Piguet watches hours after launch in Hong Kong",
-        "description": "Many shoppers who queued for days ahead of the launch of a new watch from two Swiss brands have listed the timepieces for sale within hours of buying them, with resale prices nearly seven times their original retail value. A South China Morning Post reporter observed at least 70 people in raincoats ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353819/scalpers-list-swatch-audemars-piguet-watches-hours-after-launch-hong-kong",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T10:31:05+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "financial important keyword match: prices"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "kong",
-          "launch",
-          "scalpers",
-          "hours",
-          "audemars"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "France arrests 6 over Palestinian flag on Eiffel Tower",
-        "description": "Climate activist group Extinction Rebellion France claimed responsibility for draping the large flag.",
+        "title": "Why were there no splashy deals at the Trump-Xi summit?",
+        "description": "Perhaps most surprising of all was the fact that the word \u201ctariff\u201d was not mentioned at all.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/france-arrests-6-over-palestinian-flag-on-eiffel-tower",
+        "url": "https://www.straitstimes.com/world/united-states/why-were-there-no-splashy-deals-at-the-trump-xi-summit",
         "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Environment",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-16T20:08:00+08:00",
+        "publishedAt": "2026-05-16T14:30:00+08:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "flag",
-          "arrests",
-          "tower",
-          "france",
-          "eiffel"
+          "trump",
+          "summit",
+          "deals",
+          "splashy"
         ]
-      },
+      }
+    ],
+    "uk": [
       {
-        "title": "Foreign student fee hikes in France trigger backlash",
-        "description": "A French government plan to charge students from outside the European Union 16 times more than previously has stoked discontent. But how does this compare to the rest of Europe, both inside the EU and out?",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "title": "Keir Starmer could resign soon, report says UK PM 'ready to step down' amid growing turmoil",
+        "description": "The UK Labour government found itself in a crisis amid growing voter dissatisfaction with the Starmer administration.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/keir-starmer-could-resign-soon-report-says-uk-pm-ready-to-step-down-amid-growing-turmoil-labour-party-news-101778968258863.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-05-14T19:52:00+00:00",
+        "publishedAt": "2026-05-17T03:32:51+05:30",
         "reason": "within_48h",
-        "score": 3,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -737,66 +700,37 @@
           },
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: crisis"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
+            "reason": "important keyword match: uk"
           },
           {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 2,
+            "reason": "policy scoring keyword: administration"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: Hindustan Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality words"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "fee",
-          "student",
-          "trigger",
-          "hikes",
-          "foreign"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Ed Miliband emerges as Britain\u2019s power broker a decade after election rout",
-        "description": "As energy secretary, Mr Miliband has enacted policies popular with the Labour left to further Britain\u2019s net zero ambitions.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/ed-miliband-emerges-as-britains-power-broker-a-decade-after-election-rout",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T17:13:00+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "election",
-          "power",
-          "rout",
-          "decade",
-          "britain"
+          "growing",
+          "keir",
+          "starmer",
+          "ready",
+          "amid"
         ]
       },
       {
@@ -843,11 +777,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "uk",
-          "britain",
-          "described",
           "eu",
-          "restrictions"
+          "uk",
+          "described",
+          "britain",
+          "model"
         ]
       }
     ],
@@ -882,17 +816,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "trump",
           "ties",
-          "canada",
-          "deepens",
-          "defense",
-          "nordics"
+          "nordics",
+          "threats",
+          "canada"
         ]
       },
       {
@@ -923,190 +857,34 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "wait",
-          "canada",
-          "them",
           "coming",
+          "some",
+          "dealers",
+          "sell",
           "evs"
         ]
       }
     ],
-    "south_korea": [
+    "france": [
       {
-        "title": "SK Hynix is set to become the 2nd Korean company to hit $1 trln market cap",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/sk-hynix-is-set-to-become-the-2nd-korean-company-to-hit-1-trln-market-cap-4694482",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T17:49:08+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "cap",
-          "hit",
-          "trln",
-          "korean",
-          "set"
-        ]
-      },
-      {
-        "title": "South Korea\u2019s world-beating stock rally  stumbles as global funds sell",
-        "description": "Kospi hits 8,000, but gains vanish as foreign tech selling turns a morning surge into a retreat",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-koreas-world-beating-stock-rally-stumbles-global-funds-sell",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T03:54:25+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "stumbles",
-          "rally",
-          "beating",
-          "funds",
-          "korea"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "ImmunityBio secures exclusive U.S. rights to Tokyo BCG strain",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/company-news/immunitybio-secures-exclusive-us-rights-to-tokyo-bcg-strain-93CH-4694481",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T17:41:49+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "tokyo",
-          "rights",
-          "strain",
-          "bcg",
-          "immunitybio"
-        ]
-      },
-      {
-        "title": "Japan\u2019s biggest banks expect another year of record profit",
-        "description": "They project earnings will scale new heights as rising interest rates spur loan profitability",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/japans-biggest-banks-expect-another-year-record-profit",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-15T10:51:25+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: interest"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "biggest",
-          "another",
-          "banks",
-          "japan",
-          "record"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "WHO revises hantavirus cases lower after US passenger tests negative",
-        "description": "The total global cases has been brought down to 10 from 11.",
+        "title": "France arrests 6 over Palestinian flag on Eiffel Tower",
+        "description": "Climate activist group Extinction Rebellion France claimed responsibility for draping the large flag.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/who-revises-hantavirus-cases-lower-after-us-passenger-tests-negative",
+        "url": "https://www.straitstimes.com/world/europe/france-arrests-6-over-palestinian-flag-on-eiffel-tower",
         "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-05-16T12:10:00+08:00",
+        "publishedAt": "2026-05-16T20:08:00+08:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: climate"
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -1116,13 +894,95 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "tests",
-          "lower",
-          "us",
-          "hantavirus",
-          "cases"
+          "palestinian",
+          "tower",
+          "arrests",
+          "eiffel",
+          "france"
         ]
       },
+      {
+        "title": "France monitoring hantavirus contact cases",
+        "description": "At least one person has tested positive for hantavirus here in France and is currently in intensive care. French authorities are also monitoring four others who were onboard the MV Hondius, the cruise ship at the epicenter of the outbreak. They've also tracked 22 contact cases who've shown no signs ",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260516-france-monitoring-hantavirus-contact-cases",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-05-16T15:28:26+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+            "description": "Canadian officials have reported that one of four Canadians returning from a cruise ship with a hantavirus outbreak has a presumptive positive test result",
+            "source": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-133039187",
+            "category": "Health",
+            "publishedAt": "2026-05-16T18:57:03-04:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "hantavirus",
+              "positive",
+              "cruise",
+              "outbreak",
+              "ship"
+            ],
+            "group_id": 0
+          },
+          {
+            "title": "Canadian from hantavirus-hit cruise ship tests positive",
+            "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+            "source": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c2k2p057ezno",
+            "category": "General",
+            "publishedAt": "2026-05-16T20:36:53+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "hantavirus",
+              "positive",
+              "cruise",
+              "outbreak",
+              "ship"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "hantavirus",
+          "positive",
+          "cruise",
+          "outbreak",
+          "ship"
+        ]
+      }
+    ],
+    "united_states": [
       {
         "title": "Starbucks cuts 300 US corporate jobs and closes some regional offices",
         "description": "It\u2019s also reviewing its international support organisations and expects more job cuts outside the US",
@@ -1159,11 +1019,161 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "corporate",
+          "some",
+          "jobs",
           "starbucks",
-          "us",
-          "offices",
-          "regional",
-          "cuts"
+          "offices"
+        ]
+      },
+      {
+        "title": "US planning to charge ex-Cuban leader Ra\u00fal Castro",
+        "description": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-16T01:37:27+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "leader",
+          "ral",
+          "cuban",
+          "castro",
+          "us"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea\u2019s world-beating stock rally  stumbles as global funds sell",
+        "description": "Kospi hits 8,000, but gains vanish as foreign tech selling turns a morning surge into a retreat",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-koreas-world-beating-stock-rally-stumbles-global-funds-sell",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-15T03:54:25+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "korea",
+          "south",
+          "stock",
+          "sell",
+          "rally"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan\u2019s biggest banks expect another year of record profit",
+        "description": "They project earnings will scale new heights as rising interest rates spur loan profitability",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/japans-biggest-banks-expect-another-year-record-profit",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-15T10:51:25+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "biggest",
+          "record",
+          "another",
+          "profit",
+          "expect"
+        ]
+      }
+    ],
+    "italy": [
+      {
+        "title": "Man drives car into pedestrians in Italy, injuring eight",
+        "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-16T20:36:17+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "car",
+          "pedestrians",
+          "eight",
+          "man",
+          "italy"
         ]
       }
     ],
@@ -1186,7 +1196,7 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
@@ -1201,54 +1211,21 @@
             "score": 3,
             "readingTime": 2,
             "topicFingerprint": [
-              "dead",
-              "whale",
               "danish",
+              "found",
               "island",
-              "found"
+              "rescue",
+              "animal"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "dead",
-          "whale",
           "danish",
+          "found",
           "island",
-          "found"
-        ]
-      }
-    ],
-    "mexico": [
-      {
-        "title": "Mexico teachers threaten World Cup disruption over pay",
-        "description": "Mexico\u2019s teachers are threatening to disrupt next month\u2019s 2026 FIFA World Cup if their demands for higher pay.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-16T13:01:16+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "disruption",
-          "threaten",
-          "mexico",
-          "pay",
-          "teachers"
+          "rescue",
+          "animal"
         ]
       }
     ]
