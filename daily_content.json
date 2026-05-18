@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T05:03:49.768466",
+  "updatedAt": "2026-05-18T06:12:43.160728",
   "insight": {
     "title": "Why You Reject Better Ideas Because They Are Inconvenient",
     "subtitle": "How your daily routine can block real progress",
@@ -46,25 +46,68 @@
   },
   "news": [
     {
+      "title": "Oil prices rise as Trump warns clock is ticking on Iran peace talks",
+      "description": "Oil prices rise as the US and Iran remain deadlocked on peace talks and President Trump warns the clock is ticking, risking a resumption of armed conflict.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/a7af0c52-d86b-4fbb-97f2-113837f52244.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 25,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "Crude costs increased after statements regarding the status of peace negotiations.",
+      "next": "Global markets will monitor diplomatic developments closely.",
+      "bigger": "Geopolitical conflicts continue to drive energy market volatility.",
+      "publishedAt": "2026-05-18T05:12:06+00:00",
+      "topicFingerprint": [
+        "trump",
+        "us_entity",
+        "iran",
+        "china",
+        "war",
+        "president"
+      ],
+      "alternates": [
+        {
+          "title": "Trump warns Iran that 'there won't be anything left of them' without peace deal",
+          "description": "US President Donald Trump warned Iran on Sunday to move quickly towards a peace deal or face destruction, as Washington\u2019s war with Tehran and its allies continues to stall negotiations, drive up energy prices and fuel instability across the Middle East.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260518-trump-warns-iran-peace-deal",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-18T00:09:16+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "trump",
+            "us_entity",
+            "iran",
+            "china",
+            "war",
+            "president"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
       "title": "China\u2019s economy \u2018weaker than expected\u2019 in April as Iran war headwinds bite",
       "description": "The Chinese economy showed signs of slowing in April, as industrial output, retail sales and fixed-asset investment all missed expectations amid a deepening global energy crisis, the latest data shows. Retail sales rose by just 0.2 per cent year on year in April, well below the 1.7 per cent growth r",
       "source": "South China Morning Post",
       "url": "https://www.scmp.com/economy/china-economy/article/3353914/chinas-economy-shows-signs-strain-april-iran-war-headwinds-grow",
       "category": "Economy",
       "readingTime": 2,
-      "score": 21,
-      "why": "Your imported goods and electronics may become more expensive or scarce.",
-      "context": "Manufacturing and retail numbers fell below expectations as global energy issues slowed growth.",
-      "next": "Chinese officials may introduce new spending incentives to boost the economy.",
-      "bigger": "Global production hubs are struggling to maintain pace during energy crises.",
+      "score": 20,
+      "why": "Imported goods may become more expensive or harder to find.",
+      "context": "Recent data shows a slowdown in Chinese industrial and retail activity.",
+      "next": "Chinese officials may introduce new stimulus measures.",
+      "bigger": "Major economies are struggling with shifting global energy costs.",
       "publishedAt": "2026-05-18T02:06:12+00:00",
       "topicFingerprint": [
-        "us_entity",
         "trump",
+        "us_entity",
         "iran",
         "china",
-        "president",
-        "war"
+        "war",
+        "president"
       ],
       "alternates": [
         {
@@ -73,18 +116,18 @@
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/05/18/china-april-retail-sales-industrial-output-investment-unemployment-iran-war.html",
           "category": "Financial",
-          "publishedAt": "2026-05-18T04:40:02+00:00",
+          "publishedAt": "2026-05-18T05:08:49+00:00",
           "score": 16,
           "readingTime": 2,
           "topicFingerprint": [
-            "us_entity",
             "trump",
+            "us_entity",
             "iran",
             "china",
-            "president",
-            "war"
+            "war",
+            "president"
           ],
-          "group_id": 0
+          "group_id": 1
         },
         {
           "title": "China\u2019s economy slows sharply as investment resumes declines",
@@ -93,219 +136,64 @@
           "url": "https://www.cnbctv18.com/economy/chinas-economy-slows-sharply-as-investment-resumes-declines-ws-l-19907749.htm",
           "category": "Financial",
           "publishedAt": "2026-05-18T09:14:48+05:30",
-          "score": 12,
+          "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "us_entity",
             "trump",
+            "us_entity",
             "iran",
             "china",
-            "president",
-            "war"
+            "war",
+            "president"
           ],
-          "group_id": 0
+          "group_id": 1
         }
       ]
     },
     {
-      "title": "Drone strike hits UAE nuclear plant as US-Iran ceasefire teeters",
-      "description": "Donald Trump is expected to hold a meeting soon with his top national security advisers to discuss the options for military action regarding Iran.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/drone-strike-hits-uae-nuclear-plant-as-us-iran-ceasefire-teeters-101779065089661.html",
-      "category": "Geopolitics",
+      "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
+      "description": "G7 finance ministers are due to meet in Paris on Monday and Tuesday as long-term borrowing costs surge.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Shipping delays could lead to higher prices for everyday goods.",
+      "context": "Economic leaders are gathering to address risks from a major shipping route blockage.",
+      "next": "Countries may coordinate on strategic fuel reserves.",
+      "bigger": "Global trade remains highly vulnerable to regional chokepoints.",
+      "publishedAt": "2026-05-17T12:14:30+00:00",
+      "topicFingerprint": [
+        "amid",
+        "closure",
+        "strait",
+        "economic",
+        "finance"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness",
+      "description": "The central bank has also been intervening in the foreign exchange market to support the exchange rate",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/asean/indonesia-rupiah-hits-new-record-low-president-downplays-day-day-impact-currency-weakness",
+      "category": "Financial",
       "readingTime": 2,
       "score": 16,
-      "why": "Your travel and energy costs may rise as regional tensions escalate.",
-      "context": "An attack on a nuclear facility has put regional peace at risk and prompted military reviews.",
-      "next": "Security advisors will likely meet to discuss potential military responses.",
-      "bigger": "Energy infrastructure is increasingly becoming a primary target in modern conflicts.",
-      "publishedAt": "2026-05-18T06:20:13+05:30",
+      "why": "International travel and imported goods will cost you more.",
+      "context": "Indonesia\u2019s currency reached a new low, prompting central bank market intervention.",
+      "next": "The government may introduce new measures to stabilize the exchange rate.",
+      "bigger": "Developing nations are struggling to manage currency volatility.",
+      "publishedAt": "2026-05-18T04:26:41+00:00",
       "topicFingerprint": [
-        "us_entity",
         "trump",
+        "us_entity",
         "iran",
         "china",
-        "president",
-        "war"
+        "war",
+        "president"
       ],
-      "alternates": [
-        {
-          "title": "Why Abu Dhabi's Barakah nuclear power plant, latest target of drone strike, is crucial to UAE",
-          "description": "The United Arab Emirates has recently accused Iran of carrying out attacks targeting the country's energy and economic infrastructure.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/why-abu-dhabi-barakah-nuclear-power-plant-latest-target-of-drone-strike-is-crucial-to-uae-us-iran-war-101779019611618.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-17T18:26:32+05:30",
-          "score": 13,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        },
-        {
-          "title": "Iran-Israel war LIVE: 'Staggering' Iran toll drives up global executions: Amnesty",
-          "description": "UAE reports drone strike at nuclear power plant; Saudi Arabia intercepts three drones from Iraqi airspace",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-israel-war-live-may-18-2026/article70992340.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-18T09:07:41+05:30",
-          "score": 13,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        },
-        {
-          "title": "\u2018Clock is ticking\u2019: Trump warns Iran, asks Tehran to \u2018move fast\u2019 amid stalled peace talks",
-          "description": "Donald Trump is reportedly is likely to meet his top national security team in the Situation Room on Tuesday to discuss military options.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/clock-is-ticking-trump-warns-iran-asks-tehran-to-move-fast-amid-stalled-peace-talks-101779040912476.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-17T23:45:46+05:30",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        },
-        {
-          "title": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on",
-          "description": "A drone strike caused a fire at a nuclear power plant in the United Arab Emirates, officials said Sunday, while Saudi Arabia reported intercepting three drones.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/17/abu-dhabi-says-drone-strike-caused-fire-at-nuclear-power-plant.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-17T21:33:26+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        },
-        {
-          "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
-          "description": "A drone strike sparked a fire near the United Arab Emirates\u2019s Barakah nuclear power plant on Sunday, authorities said, in an attack Abu Dhabi condemned as a threat to regional security. The strike highlighted the possibility of renewed war amid a fragile ceasefire between the United States and Iran.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-17T20:46:52+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        },
-        {
-          "title": "Iran-Israel war highlights: Trump says 'clock is ticking' for Iran",
-          "description": "UAE reports drone strike at nuclear power plant as Iran war deadlock endures",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-18T05:53:58+05:30",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 3
-        }
-      ]
-    },
-    {
-      "title": "Oil touches 2-week high after drone attack on UAE nuclear power plant",
-      "description": "The drone attacks and rhetoric from the US and Iran raised concerns of an escalation in the conflict",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-touches-2-week-high-after-drone-attack-uae-nuclear-power-plant",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "You may see higher prices at the gas pump this week.",
-      "context": "Global fuel prices spiked following security threats to major energy infrastructure.",
-      "next": "Market prices will likely stay volatile until regional security stabilizes.",
-      "bigger": "International conflict remains the primary driver of global energy costs.",
-      "publishedAt": "2026-05-18T00:53:11+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "trump",
-        "iran",
-        "china",
-        "president",
-        "war"
-      ],
-      "alternates": [
-        {
-          "title": "Oil touches 2-week high after drone attack on UAE nuclear power plant",
-          "description": "",
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/business/oil-prices-uae-nuclear-power-plant-drone-attack-6127291",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-18T11:50:58+08:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 6
-        },
-        {
-          "title": "Oil touches two-week high after drone attack on UAE nuclear power plant",
-          "description": "",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-18T04:54:34+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "trump",
-            "iran",
-            "china",
-            "president",
-            "war"
-          ],
-          "group_id": 6
-        }
-      ]
+      "alternates": []
     },
     {
       "title": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
@@ -315,17 +203,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 12,
-      "why": "International travel and border screenings may become more restrictive.",
-      "context": "Health officials have declared a new virus outbreak a global emergency.",
-      "next": "Medical teams and vaccines will likely be sent to the affected regions.",
-      "bigger": "Global health organizations are tightening response protocols for infectious diseases.",
+      "why": "International travel to the region may face strict health screenings.",
+      "context": "Health organizations have classified the current Ebola surge as a global crisis.",
+      "next": "Vaccine distribution efforts will likely scale up in the area.",
+      "bigger": "Regional health crises require faster global coordination.",
       "publishedAt": "2026-05-17T19:52:09+00:00",
       "topicFingerprint": [
         "ebola",
         "outbreak",
         "emergency",
-        "congo",
-        "who_entity"
+        "health",
+        "congo"
       ],
       "alternates": [
         {
@@ -341,8 +229,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -359,8 +247,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -377,8 +265,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -395,8 +283,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -413,8 +301,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -431,26 +319,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "WHO declares latest Ebola outbreak a global health emergency. A rare variant of the disease with no approved treatments is to blame",
-          "description": "Health authorities say the current outbreak is caused by the Bundibugyo virus.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/05/17/who-ebola-outbreak-congo-uganda-global-health-emergency-rare-variant-bundibugyo-virus/",
-          "category": "Health",
-          "publishedAt": "2026-05-17T18:04:28+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -467,14 +337,14 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
         {
           "title": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency",
-          "description": "The WHO has declared the Ebola outbreak in Congo and Uganda a public health emergency of international concern following over 300 suspected cases and 88 deaths.",
+          "description": "WHO declares the Ebola outbreak in Congo and Uganda a public health emergency of international concern, caused by the rare Bundibugyo virus strain.",
           "source": "Frontpage",
           "url": "https://frontpage.ink/b038eb2f-d5d1-4abd-9927-073eaed57050.html",
           "category": "Health",
@@ -485,8 +355,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -503,8 +373,26 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "WHO declares latest Ebola outbreak a global health emergency. A rare variant of the disease with no approved treatments is to blame",
+          "description": "Health authorities say the current outbreak is caused by the Bundibugyo virus.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/05/17/who-ebola-outbreak-congo-uganda-global-health-emergency-rare-variant-bundibugyo-virus/",
+          "category": "Health",
+          "publishedAt": "2026-05-17T18:04:28+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ebola",
+            "outbreak",
+            "emergency",
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -521,8 +409,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -539,8 +427,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -557,8 +445,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         },
@@ -575,26 +463,8 @@
             "ebola",
             "outbreak",
             "emergency",
-            "congo",
-            "who_entity"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "WHO declares Ebola outbreak an international emergency as cases rise in Congo and Uganda",
-          "description": "The WHO has declared the Ebola outbreak in Congo and Uganda an international public health emergency after hundreds of suspected cases and dozens of deaths linked to the rare Bundibugyo virus strain, which currently has no approved vaccine or treatment.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/who-declares-ebola-outbreak-an-international-emergency-as-cases-rise-in-congo-and-uganda-ws-l-19907455.htm",
-          "category": "Health",
-          "publishedAt": "2026-05-17T11:36:09+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "emergency",
-            "congo",
-            "who_entity"
+            "health",
+            "congo"
           ],
           "group_id": 0
         }
@@ -608,17 +478,17 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 10,
-      "why": "Your gadget deliveries and prices may remain stable for now.",
-      "context": "A court ruled that labor protests cannot stop the production of essential electronics components.",
-      "next": "Labor unions will likely seek new ways to negotiate their contracts.",
-      "bigger": "Governments are prioritizing global supply chains over local labor disputes.",
+      "why": "Availability of electronics and computers should remain stable for now.",
+      "context": "A court ruling restricted a planned strike to protect semiconductor production levels.",
+      "next": "The union may seek alternative ways to negotiate better terms.",
+      "bigger": "Governments are increasingly intervening to protect critical supply chains.",
       "publishedAt": "2026-05-18T10:32:00+08:00",
       "topicFingerprint": [
         "union",
         "strike",
         "samsung",
-        "avert",
-        "electronics"
+        "economy",
+        "avert"
       ],
       "alternates": [
         {
@@ -627,17 +497,17 @@
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html",
           "category": "Technology",
-          "publishedAt": "2026-05-18T04:26:26+00:00",
+          "publishedAt": "2026-05-18T05:38:59+00:00",
           "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
             "union",
             "strike",
             "samsung",
-            "avert",
-            "electronics"
+            "economy",
+            "avert"
           ],
-          "group_id": 1
+          "group_id": 2
         }
       ]
     },
@@ -649,61 +519,39 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Competition for office-based roles in the auto industry may increase.",
-      "context": "Major car manufacturers are cutting office staff as automation handles more administrative work.",
-      "next": "More companies will likely replace clerical staff with automated systems.",
-      "bigger": "Artificial intelligence is rapidly reducing the need for traditional corporate roles.",
+      "why": "Finding a professional job in the auto industry may become harder.",
+      "context": "Major automakers are reducing office staff while integrating artificial intelligence tools.",
+      "next": "Other manufacturing sectors may adopt similar automation strategies.",
+      "bigger": "AI is fundamentally reshaping traditional corporate workforce structures.",
       "publishedAt": "2026-05-17T12:33:33+00:00",
       "topicFingerprint": [
-        "jobs",
-        "us_entity",
-        "recent",
         "cuts",
-        "ai"
+        "us_entity",
+        "ai",
+        "jobs",
+        "recent"
       ],
       "alternates": []
     },
     {
-      "title": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness",
-      "description": "The central bank has also been intervening in the foreign exchange market to support the exchange rate",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/asean/indonesia-rupiah-hits-new-record-low-president-downplays-day-day-impact-currency-weakness",
-      "category": "Financial",
+      "title": "Global financial environment is extremely challenging, cautions Chief Economic Advisor Nageswaran",
+      "description": "The country should act with urgency, strategic clarity and institutional confidence to secure its place in a rapidly changing global order. Trade skills such as electricians, skilled construction workers and technicians will remain among the most protected and essential jobs in the emerging economy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/global-financial-environment-is-extremely-challenging-cautions-chief-economic-advisor-nageswaran/article70987329.ece",
+      "category": "Economy",
       "readingTime": 2,
       "score": 12,
-      "why": "Travel and shopping in Indonesia may become cheaper for foreign visitors.",
-      "context": "The local currency dropped to a record low despite government efforts to intervene.",
-      "next": "The central bank may raise interest rates to protect the currency.",
-      "bigger": "Emerging economies are struggling to maintain value against a strong dollar.",
-      "publishedAt": "2026-05-18T04:26:41+00:00",
+      "why": "Loans and credit may become harder to obtain or more expensive.",
+      "context": "India\u2019s top advisor warned of difficult global conditions and trade needs.",
+      "next": "India may accelerate training programs for skilled trade workers.",
+      "bigger": "Nations are prioritizing internal skills to survive global market shifts.",
+      "publishedAt": "2026-05-16T21:07:25+05:30",
       "topicFingerprint": [
-        "downplays",
-        "low",
-        "rupiah",
-        "day",
-        "currency"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Israel\u2019s economy sees a sharp Q1 decline amid conflicts with Iran, Lebanon",
-      "description": "Gross domestic product contracted 3.3% in annualised and seasonally adjusted terms, Israel\u2019s statistics bureau said on Sunday.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/israels-economy-sees-a-sharp-q1-decline-amid-conflicts-with-iran-lebanon-101779015861971.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Daily living costs and taxes in the region may rise significantly.",
-      "context": "Prolonged military engagement has caused a significant drop in national economic output.",
-      "next": "The government may need to take out more loans to cover costs.",
-      "bigger": "Sustained regional warfare is causing deep, long-term damage to local businesses.",
-      "publishedAt": "2026-05-17T16:42:31+05:30",
-      "topicFingerprint": [
-        "conflicts",
+        "union",
+        "strike",
+        "samsung",
         "economy",
-        "sees",
-        "israel",
-        "sharp"
+        "avert"
       ],
       "alternates": []
     },
@@ -715,17 +563,17 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 10,
-      "why": "Local housing and emergency services may be unavailable for some time.",
-      "context": "A powerful tremor destroyed several buildings and forced residents to flee their homes.",
-      "next": "Rescue crews will focus on restoring power and clearing blocked roads.",
-      "bigger": "Dense urban areas remain highly vulnerable to sudden natural disasters.",
+      "why": "Local emergency services and housing resources may become overstretched.",
+      "context": "A strong tremor in Guangxi destroyed homes and triggered mass evacuations.",
+      "next": "Recovery efforts will focus on rebuilding collapsed infrastructure.",
+      "bigger": "Natural disasters continue to threaten densely populated urban areas.",
       "publishedAt": "2026-05-18T10:28:00+08:00",
       "topicFingerprint": [
-        "china",
-        "thousands",
-        "hits",
         "earthquake",
-        "thirteen"
+        "hits",
+        "quake",
+        "thirteen",
+        "guangxi"
       ],
       "alternates": [
         {
@@ -738,37 +586,15 @@
           "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
-            "china",
-            "thousands",
-            "hits",
             "earthquake",
-            "thirteen"
+            "hits",
+            "quake",
+            "thirteen",
+            "guangxi"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Global financial environment is extremely challenging, cautions Chief Economic Advisor Nageswaran",
-      "description": "The country should act with urgency, strategic clarity and institutional confidence to secure its place in a rapidly changing global order. Trade skills such as electricians, skilled construction workers and technicians will remain among the most protected and essential jobs in the emerging economy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/global-financial-environment-is-extremely-challenging-cautions-chief-economic-advisor-nageswaran/article70987329.ece",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "You may need to learn a trade to stay employable soon.",
-      "context": "A top advisor warned that global conditions require a shift toward technical skills.",
-      "next": "National policies will likely shift to favor vocational training over degrees.",
-      "bigger": "Economic security is moving away from offices and toward manual trades.",
-      "publishedAt": "2026-05-16T21:07:25+05:30",
-      "topicFingerprint": [
-        "environment",
-        "financial",
-        "advisor",
-        "challenging",
-        "nageswaran"
-      ],
-      "alternates": []
     },
     {
       "title": "Thai Q1 GDP grows 2.8% y/y, above forecast",
@@ -778,19 +604,78 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 12,
-      "why": "New job opportunities and business investments in the region may increase.",
-      "context": "The economy performed better than expected due to strong local activity.",
-      "next": "The government may ease spending rules to keep the growth going.",
-      "bigger": "Southeast Asian markets are showing resilience despite global economic pressure.",
+      "why": "Business and investment opportunities in the region may increase.",
+      "context": "Thailand\u2019s economy showed stronger growth than analysts anticipated earlier this year.",
+      "next": "The government may adjust its annual growth targets upward.",
+      "bigger": "Southeast Asian economies are showing resilience despite global headwinds.",
       "publishedAt": "2026-05-18T10:42:43+08:00",
       "topicFingerprint": [
-        "grows",
-        "forecast",
-        "thai",
         "above",
-        "gdp"
+        "gdp",
+        "thai",
+        "forecast",
+        "grows"
       ],
       "alternates": []
+    },
+    {
+      "title": "India, Netherlands upgrade ties to 'strategic partnership', deepen defence, chip and Indo-Pacific cooperation",
+      "description": "India and the Netherlands expanded cooperation across defence, semiconductors, AI, clean energy and maritime security, while backing free trade routes through the Strait of Hormuz.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/india-netherlands-upgrade-ties-to-strategic-partnership-deepen-defence-chip-and-indo-pacific-cooperation-ws-l-19907531.htm",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 10,
+      "why": "You may see more high-tech products from these trade partners.",
+      "context": "The two nations agreed to collaborate on critical technology and maritime defense.",
+      "next": "Joint ventures in semiconductor manufacturing are likely to begin.",
+      "bigger": "Middle powers are forming new alliances to secure technology access.",
+      "publishedAt": "2026-05-17T16:23:49+05:30",
+      "topicFingerprint": [
+        "energy",
+        "india",
+        "trade",
+        "strategic",
+        "partnership"
+      ],
+      "alternates": [
+        {
+          "title": "PM Modi\u2019s Sweden visit: AI corridor, trade target and strategic partnership announced",
+          "description": "PM Narendra Modi invited Swedish and European firms to expand investments in India\u2019s AI, green energy and manufacturing sectors during his Sweden visit, stressing fast-paced reforms.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/india/pm-modis-sweden-visit-ai-corridor-trade-target-and-strategic-partnership-announced-ws-l-19907718.htm",
+          "category": "Technology",
+          "publishedAt": "2026-05-18T08:34:39+05:30",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "energy",
+            "india",
+            "trade",
+            "strategic",
+            "partnership"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "PM Modi meets Dutch King, addresses diaspora during Netherlands visit",
+          "description": "Narendra Modi meets King Willem-Alexander and Queen Maxima in The Hague, aims to deepen India Netherlands ties in trade, technology, defence, clean energy and strategic sectors",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/india/pm-modi-meets-dutch-king-addresses-diaspora-during-netherlands-visit-ws-l-19907373.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-16T22:21:47+05:30",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "energy",
+            "india",
+            "trade",
+            "strategic",
+            "partnership"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
@@ -800,81 +685,62 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 6,
-      "why": "New laws and tax policies in Peru may change after June.",
-      "context": "The final two candidates for the presidency have been confirmed after the first vote.",
-      "next": "Both candidates will start intense campaigning before the final election.",
-      "bigger": "Electoral integrity is becoming a major focus for emerging democratic nations.",
+      "why": "Local business regulations and taxes may change after the vote.",
+      "context": "Two candidates moved to a second-round election amid claims of fraud.",
+      "next": "Political campaigning will intensify ahead of the June runoff.",
+      "bigger": "Institutional trust remains a key challenge for Latin American democracies.",
       "publishedAt": "2026-05-17T18:29:29+00:00",
       "topicFingerprint": [
-        "june",
         "runoff",
-        "fujimori",
-        "authorities",
-        "voting"
+        "june",
+        "round",
+        "voting",
+        "election"
       ],
-      "alternates": [
-        {
-          "title": "Fujimori and Sanchez confirmed for Peru's June 7 presidential runoff",
-          "description": "Peru's electoral authorities confirmed conservative Keiko Fujimori and left-wing lawmaker Roberto S\u00e1nchez will face off in a presidential runoff on June 7.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/05915040-2fb6-4e6b-9aaf-276b49ee370f.html",
-          "category": "General",
-          "publishedAt": "2026-05-17T17:15:54+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "june",
-            "runoff",
-            "fujimori",
-            "authorities",
-            "voting"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "Trump's approval ratings on the economy continue to fall in latest CBS News poll",
-      "description": "President Trump's approval rating is now at the lowest level of his second term and only 27% of Americans approve of how he is handling inflation, according to a new CBS News poll. Olivia Rinaldi reports.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/trumps-approval-ratings-on-the-economy-continue-to-fall-in-latest-cbs-news-poll/",
-      "category": "Financial",
+      "title": "Iran war saddles global companies with US$25 billion bill \u2013 and counting",
+      "description": "At least 279 companies have cited the war as a trigger for defensive actions to blunt the financial hit, the analysis shows",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/iran-war-saddles-global-companies-us25-billion-bill-and-counting",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 15,
-      "why": "Political shifts may lead to changes in your tax and spending.",
-      "context": "Public confidence in current economic leadership has reached a new low.",
-      "next": "Political candidates will likely propose new plans to lower daily costs.",
-      "bigger": "The cost of living is now the main driver of voter behavior.",
-      "publishedAt": "2026-05-17T21:37:00-04:00",
+      "score": 18,
+      "why": "Higher business costs could lead to price hikes for consumers.",
+      "context": "International businesses are reporting massive financial losses tied to the Iran conflict.",
+      "next": "Firms may move operations to more stable geographic regions.",
+      "bigger": "Geopolitical conflict is becoming a permanent cost for global corporations.",
+      "publishedAt": "2026-05-18T05:44:23+00:00",
       "topicFingerprint": [
-        "us_entity",
         "trump",
+        "us_entity",
         "iran",
         "china",
-        "president",
-        "war"
+        "war",
+        "president"
       ],
       "alternates": [
         {
-          "title": "5/17: CBS Weekend News",
-          "description": "Fighter jets collide in midair at Idaho air show; Trump's approval ratings on the economy continue to fall in latest CBS News poll.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/051726-cbs-weekend-news/",
-          "category": "General",
-          "publishedAt": "2026-05-17T23:00:00-04:00",
-          "score": 6,
+          "title": "Iran war saddles global companies with $25 billion bill - and counting",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/iran-war-saddles-global-companies-25-billion-bill-and-counting-6127781",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-18T13:06:15+08:00",
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "us_entity",
             "trump",
+            "us_entity",
             "iran",
             "china",
-            "president",
-            "war"
+            "war",
+            "president"
           ],
-          "group_id": 8
+          "group_id": 4
         }
       ]
     },
@@ -886,39 +752,61 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 11,
-      "why": "Your internet and AI services may eventually run from space.",
-      "context": "Technology companies are investigating the use of satellites to host AI computer servers.",
-      "next": "Experimental satellites for data processing will likely be launched soon.",
-      "bigger": "The need for cooling and energy is pushing infrastructure into orbit.",
+      "why": "Your internet services may eventually become faster and more reliable.",
+      "context": "Major technology firms are researching how to host computing infrastructure in space.",
+      "next": "Regulatory bodies will need to address space debris and sovereignty.",
+      "bigger": "The tech industry is looking beyond Earth to solve power needs.",
       "publishedAt": "2026-05-17T13:37:26+00:00",
       "topicFingerprint": [
+        "centres",
         "spacex",
-        "data",
-        "space",
         "google",
-        "centres"
+        "plotting",
+        "data"
       ],
       "alternates": []
     },
     {
-      "title": "Singapore a \u2018trusted partner\u2019 in shaping regional trade rules, \nsays UK\u2019s investment minister",
-      "description": "There is growing interest from Singaporean investors in priority areas such as venture capital for emerging technologies and infrastructure, says Jason Stockwood",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/singapore-trusted-partner-shaping-regional-trade-rules-says-uks-investment-minister",
-      "category": "Geopolitics",
+      "title": "University of Arizona students boo Eric Schmidt\u2019s AI cheerleading during commencement",
+      "description": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
+      "source": "Tech | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "Funding and job openings in the tech sector may grow locally.",
-      "context": "The UK identified Singapore as a priority location for high-tech and infrastructure investment.",
-      "next": "More foreign companies will likely open offices in the region.",
-      "bigger": "International trade is centering around stable and technologically advanced hubs.",
-      "publishedAt": "2026-05-17T07:00:00+00:00",
+      "why": "Entry-level job seekers may feel more anxiety about AI competition.",
+      "context": "Graduates expressed frustration during a speech about the benefits of AI.",
+      "next": "Universities may adjust how they integrate AI into their curriculum.",
+      "bigger": "Public skepticism toward rapid AI adoption is growing among youth.",
+      "publishedAt": "2026-05-17T17:22:23+00:00",
       "topicFingerprint": [
-        "shaping",
-        "singapore",
-        "trusted",
-        "trade",
-        "regional"
+        "ai",
+        "intelligence",
+        "artificial",
+        "tech",
+        "future"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Human rights concerns abound over China\u2019s \u2018state secrets\u2019 regulation in the Uyghur region",
+      "description": "In a region characterized by high levels of security governance and information control, the legal adjustments have significant consequences on the normalization and codification of political repression.",
+      "source": "Global Voices",
+      "url": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Privacy and safety for individuals in the region may decrease.",
+      "context": "Revised laws in the Uyghur region are tightening government control over information.",
+      "next": "International organizations may call for increased transparency and oversight.",
+      "bigger": "Digital authoritarianism is becoming more formalized through national laws.",
+      "publishedAt": "2026-05-18T06:00:31+00:00",
+      "topicFingerprint": [
+        "region",
+        "regulation",
+        "rights",
+        "uyghur",
+        "human"
       ],
       "alternates": []
     },
@@ -930,17 +818,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 8,
-      "why": "Medical supplies and aid in the area may become scarce.",
-      "context": "A new outbreak of the virus has appeared in several conflict-heavy towns.",
-      "next": "Aid groups will struggle to deliver medicine due to local fighting.",
-      "bigger": "Health crises are becoming harder to manage in unstable political zones.",
+      "why": "Local medical resources and food supplies may become scarce.",
+      "context": "The Ebola virus is spreading through several towns amid a humanitarian crisis.",
+      "next": "Aid agencies will likely launch a coordinated emergency response.",
+      "bigger": "Conflict and disease continue to compound humanitarian suffering.",
       "publishedAt": "2026-05-17T16:09:55+00:00",
       "topicFingerprint": [
-        "drc",
-        "deadly",
+        "worsening",
         "faces",
-        "ebola",
-        "worsening"
+        "amid",
+        "deadly",
+        "humanitarian"
       ],
       "alternates": []
     },
@@ -952,16 +840,16 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "You may see more New Zealand produce in your local store.",
-      "context": "Demand for high-quality, safe food exports is rising across Asian markets.",
-      "next": "More farms will likely adopt strict safety tracking for their exports.",
-      "bigger": "Consumers are increasingly prioritizing food safety and traceable origins.",
+      "why": "You may find more high-quality imported groceries in local stores.",
+      "context": "Demand for New Zealand food products is rising across major Asian markets.",
+      "next": "Trade agreements may expand to include more food categories.",
+      "bigger": "Consumer preferences are shifting toward traceable and safe food sources.",
       "publishedAt": "2026-05-18T10:30:35+08:00",
       "topicFingerprint": [
-        "finds",
         "growing",
-        "tables",
+        "place",
         "zealand",
+        "finds",
         "produce"
       ],
       "alternates": []
@@ -974,17 +862,17 @@
       "category": "Science",
       "readingTime": 2,
       "score": 5,
-      "why": "Younger generations may be less aware of important local events.",
-      "context": "A ban on certain platforms has left many young people without a news source.",
-      "next": "Schools may have to find new ways to teach current events.",
-      "bigger": "Restrictions on social media are creating gaps in how people stay informed.",
+      "why": "Younger generations may become less informed about important local events.",
+      "context": "New data indicates that restrictions on platforms are isolating teenagers from news.",
+      "next": "Traditional news outlets may try new ways to reach teens.",
+      "bigger": "Regulation of digital platforms is fundamentally changing how information spreads.",
       "publishedAt": "2026-05-17T20:06:10+00:00",
       "topicFingerprint": [
-        "australian",
-        "teens",
         "media",
-        "research",
-        "impacted"
+        "teens",
+        "ban",
+        "social",
+        "research"
       ],
       "alternates": []
     },
@@ -996,17 +884,17 @@
       "category": "Science",
       "readingTime": 2,
       "score": 4,
-      "why": "New museum exhibits and history books may change what you learn.",
-      "context": "Historians discovered a long-lost poem in a library, changing the timeline of English literature.",
-      "next": "Scholars will use new technology to scan other old library collections.",
-      "bigger": "Digital tools are helping researchers rediscover lost parts of human history.",
+      "why": "Access to new historical and educational resources may soon expand.",
+      "context": "Scholars discovered a significant historical text in an Italian library.",
+      "next": "Experts will conduct further analysis to verify the poem\u2019s origin.",
+      "bigger": "Digital archiving is helping uncover long-lost cultural treasures.",
       "publishedAt": "2026-05-17T09:22:02-04:00",
       "topicFingerprint": [
-        "rome",
+        "stunned",
+        "oldest",
         "medieval",
-        "forgotten",
-        "book",
-        "oldest"
+        "poem",
+        "hiding"
       ],
       "alternates": []
     },
@@ -1018,17 +906,17 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 4,
-      "why": "Your workplace computer and data may become safer from hackers.",
-      "context": "New artificial intelligence tools are being introduced to train staff on digital security.",
-      "next": "Companies will likely replace manual security tests with automated AI simulations.",
-      "bigger": "Professional training is shifting toward personalized, AI-driven learning.",
+      "why": "Your work devices may become more secure against digital threats.",
+      "context": "Artificial intelligence is being integrated into training programs for technical administrators.",
+      "next": "Companies will likely automate more of their internal security audits.",
+      "bigger": "AI is becoming the standard defense in the cybersecurity industry.",
       "publishedAt": "2026-05-16T13:30:58+00:00",
       "topicFingerprint": [
-        "mac",
+        "cybersecurity",
+        "ai",
+        "work",
         "training",
-        "admins",
-        "apple",
-        "going"
+        "change"
       ],
       "alternates": []
     },
@@ -1040,17 +928,17 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 4,
-      "why": "Your mobile phone service options and prices may remain unchanged.",
-      "context": "A major telecommunications deal has been delayed due to a government investigation.",
-      "next": "Regulators will decide if the companies followed all communication rules.",
-      "bigger": "Government oversight of the telecom industry is becoming much more strict.",
+      "why": "Your mobile plan prices or service upgrades may be delayed.",
+      "context": "A telecom company\u2019s sale is on hold while authorities investigate license issues.",
+      "next": "Regulators will release a report on the alleged network violations.",
+      "bigger": "Regulatory scrutiny is tightening on consolidation in the telecom sector.",
       "publishedAt": "2026-05-17T23:50:44+00:00",
       "topicFingerprint": [
-        "keppel",
+        "breaches",
+        "simba",
+        "alleged",
         "sale",
-        "imda",
-        "stalls",
-        "simba"
+        "imda"
       ],
       "alternates": []
     }
@@ -1105,20 +993,24 @@
         ]
       },
       {
-        "title": "China Swap Connect trading volume heads toward 1 trillion yuan",
-        "description": "This projected surge underscores a shift in how global funds engage with the country",
+        "title": "HSBC to lend US$4 billion to help China clean tech scale globally",
+        "description": "The bank will extend credit terms, streamline credit approvals and develop tailored solutions for eligible companies",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/china-swap-connect-trading-volume-heads-toward-1-trillion-yuan",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/hsbc-lend-us4-billion-help-china-clean-tech-scale-globally",
         "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-18T01:35:26+00:00",
+        "publishedAt": "2026-05-18T06:05:56+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -1140,60 +1032,68 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "trading",
-          "swap",
-          "china",
-          "heads",
-          "toward"
+          "billion",
+          "scale",
+          "clean",
+          "help",
+          "globally"
         ]
       }
     ],
     "singapore": [
       {
-        "title": "Singapore key exports accelerate in April, surging 24.5% on AI-related demand",
-        "description": "The growth beat the 11.6 per cent forecast by analysts.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/economy/singapore-key-exports-accelerate-in-april-surging-24-5-on-ai-demand-despite-iran-war",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Technology",
+        "title": "Singapore a \u2018trusted partner\u2019 in shaping regional trade rules, \nsays UK\u2019s investment minister",
+        "description": "There is growing interest from Singaporean investors in priority areas such as venture capital for emerging technologies and infrastructure, says Jason Stockwood",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/singapore-trusted-partner-shaping-regional-trade-rules-says-uks-investment-minister",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-18T08:30:45+08:00",
+        "publishedAt": "2026-05-17T07:00:00+00:00",
         "reason": "within_48h",
         "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: ai"
+            "reason": "important keyword match: investment"
           },
           {
             "points": 2,
-            "reason": "important keyword match: forecast"
+            "reason": "important keyword match: infrastructure"
           },
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: uk"
           },
           {
-            "points": 2,
-            "reason": "technology important keyword match: ai"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": 3,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group in title match: says"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "exports",
-          "april",
-          "ai",
-          "related"
+          "rules",
+          "uk_entity",
+          "partner",
+          "trusted",
+          "trade"
         ]
       },
       {
@@ -1237,59 +1137,10 @@
         "alternates": [],
         "topicFingerprint": [
           "headcount",
-          "singapore",
+          "doubles",
           "street",
-          "office",
-          "capacity"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Australia\u2019s property tax overhaul unpopular with voters, polls show",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economy-news/australias-property-tax-overhaul-unpopular-with-voters-polls-show-4694622",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-18T04:18:45+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tax"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Investing.com"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: tax"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: tax"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "property",
-          "unpopular",
-          "australia",
-          "voters",
-          "polls"
+          "capacity",
+          "move"
         ]
       }
     ],
@@ -1338,11 +1189,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chip",
-          "antitrust",
-          "us_entity",
           "probe",
-          "face"
+          "antitrust",
+          "arm",
+          "face",
+          "chip"
         ]
       },
       {
@@ -1355,7 +1206,7 @@
         "readingTime": 2,
         "publishedAt": "2026-05-17T17:23:13+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
@@ -1364,20 +1215,16 @@
           {
             "points": 3,
             "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "soon",
-          "top",
-          "bring",
           "spiking",
-          "dump"
+          "costs",
+          "borrowing",
+          "money",
+          "debt"
         ]
       }
     ],
@@ -1415,10 +1262,10 @@
         "alternates": [],
         "topicFingerprint": [
           "investors",
+          "monday",
           "sell",
-          "surged",
           "course",
-          "monday"
+          "surged"
         ]
       }
     ],
@@ -1449,52 +1296,112 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "taxis",
-          "hand",
-          "cabbies",
-          "powered",
-          "ready"
-        ]
-      },
-      {
-        "title": "Labour\u2019s Starmer revolt revives thorny debate over Britain rejoining EU",
-        "description": "Former health secretary Wes Streeting called the decision to leave EU in 2016 \u201ca catastrophic mistake\u201d.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/labours-starmer-revolt-revives-thorny-debate-over-britain-rejoining-eu",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-05-18T05:11:40+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
             "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rejoining",
-          "debate",
-          "eu_entity",
+          "powered",
+          "hand",
+          "cabbies",
+          "ai",
+          "taxis"
+        ]
+      },
+      {
+        "title": "It's official: Wes Streeting of the Labour Party wants to be Britain's next prime minister",
+        "description": "Wes Streeting's ambition to head the British government was one of the worst-kept secrets in U.K. politics",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/official-wes-streeting-labour-party-britains-prime-minister-133045646",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-05-17T20:49:55-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "wes",
+          "streeting",
           "uk_entity",
-          "labour"
+          "labour",
+          "revives"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Canadian authorities confirm first case of hantavirus",
+        "description": "The person afflicted was a passenger aboard the cruise ship MV Hondius. The outbreak on the ship led to 12 cases of infection globally",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/canadian-authorities-confirm-first-case-of-hantavirus-101779079456629.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-05-18T10:14:16+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: infection"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Canadian cruise passenger tests positive for hantavirus after ship outbreak",
+            "description": "A Canadian passenger from the MV Hondius cruise ship has tested positive for Andes hantavirus, bringing the total number of cases from the ship to 12.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/0ddf0691-12c1-4cdd-aa55-c979791c31b0.html",
+            "category": "Health",
+            "publishedAt": "2026-05-17T04:12:27+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "outbreak",
+              "hantavirus",
+              "cruise",
+              "ship",
+              "canadian"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "outbreak",
+          "hantavirus",
+          "cruise",
+          "ship",
+          "canadian"
         ]
       }
     ],
@@ -1535,112 +1442,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "asml",
           "tata",
-          "fab",
           "partner",
-          "india"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "One tests positive for hantavirus, Canadian national health agency confirms",
-        "description": "Canada\u2019s national health agency confirms that one of four Canadians returning from a cruise ship with a hantavirus outbreak has tested positive",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/one-tests-positive-for-hantavirus-canadian-national-health-agency-confirms/article70991445.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-05-18T08:14:24+05:30",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: outbreak"
-          },
-          {
-            "points": 1,
-            "reason": "health important keyword match: outbreak"
-          },
-          {
-            "points": 1,
-            "reason": "health important keyword match: outbreak"
-          },
-          {
-            "points": -4,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Canadian cruise passenger tests positive for hantavirus after ship outbreak",
-            "description": "A Canadian passenger from the MV Hondius cruise ship has tested positive for Andes hantavirus, bringing the total number of cases from the ship to 12.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/0ddf0691-12c1-4cdd-aa55-c979791c31b0.html",
-            "category": "Health",
-            "publishedAt": "2026-05-17T04:12:27+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "tested",
-              "positive",
-              "ship",
-              "canadian",
-              "hantavirus"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "tested",
-          "positive",
-          "ship",
-          "canadian",
-          "hantavirus"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "France listening to 10 \u2018new\u2019 suspected victims of Epstein: Prosecutor",
-        "description": "French magistrates investigate possible offences involving French perpetrators who facilitated Jeffrey Epstein s crimes.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-17T17:44:07+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "victims",
-          "suspected",
-          "epstein",
-          "listening",
-          "prosecutor"
+          "asml",
+          "india",
+          "semiconductor"
         ]
       }
     ]
