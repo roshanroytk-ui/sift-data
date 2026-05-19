@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T15:01:54.939553",
+  "updatedAt": "2026-05-19T16:16:15.872752",
   "insight": {
     "title": "The Bike Company That Printed TVs to Stop Shipping Damage",
     "subtitle": "How a simple packaging change saved a startup from logistical bankruptcy.",
@@ -31,16 +31,16 @@
       "url": "https://www.scmp.com/economy/china-economy/article/3354069/world-retreats-us-treasuries-will-sell-deepen",
       "category": "Economy",
       "readingTime": 2,
-      "score": 25,
+      "score": 24,
       "why": "Interest rates on your loans and mortgages may rise soon.",
-      "context": "Global investors are selling off their holdings of US debt.",
-      "next": "Financial markets may experience higher levels of price volatility.",
-      "bigger": "Shifting global trust in the stability of the US dollar.",
+      "context": "Global investors are selling off US government debt at record rates.",
+      "next": "US borrowing costs will likely increase in the coming months.",
+      "bigger": "Global confidence in the US dollar is showing signs of strain.",
       "publishedAt": "2026-05-19T14:00:05+00:00",
       "topicFingerprint": [
         "us_entity",
-        "iran",
         "donald_trump",
+        "iran",
         "china_entity",
         "war",
         "russia"
@@ -55,17 +55,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 12,
-      "why": "International travel may face new health screenings and delays.",
-      "context": "A fast-moving Ebola outbreak is spreading across international borders.",
-      "next": "Health agencies will likely deploy more emergency medical teams.",
-      "bigger": "Growing difficulty in containing infectious diseases in connected regions.",
+      "why": "International travel may face stricter health screenings and delays soon.",
+      "context": "A deadly Ebola strain is spreading rapidly across borders in Africa.",
+      "next": "Global health agencies will likely increase emergency funding and staffing.",
+      "bigger": "Pandemic preparedness remains a critical challenge for global security.",
       "publishedAt": "2026-05-19T07:13:57+00:00",
       "topicFingerprint": [
         "ebola",
         "outbreak",
         "congo",
-        "who_entity",
-        "democratic"
+        "us_entity",
+        "who_entity"
       ],
       "alternates": [
         {
@@ -75,32 +75,14 @@
           "url": "https://www.france24.com/en/funding-and-ebola-epidemic-loom-over-who-s-annual-summit",
           "category": "Health",
           "publishedAt": "2026-05-19T13:17:09+00:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "congo",
-            "who_entity",
-            "democratic"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "World health officials holding emergency meeting on Ebola outbreak",
-          "description": "An Ebola virus outbreak in Congo and Uganda has claimed dozens of lives, according to officials, as concerns grow about the strain spreading. Admire Nyathi, a coordinator for the International Federation of Red Cross and Red Crescent Societies, joins CBS News with more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/world-health-officials-holding-emergency-meeting-on-ebola-outbreak/",
-          "category": "Health",
-          "publishedAt": "2026-05-19T09:18:06-04:00",
           "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -111,32 +93,14 @@
           "url": "https://frontpage.ink/471c5876-02f6-4735-8aeb-da783c8b984a.html",
           "category": "Health",
           "publishedAt": "2026-05-19T03:33:13+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "congo",
-            "who_entity",
-            "democratic"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "WHO worried about 'scale and speed' of Ebola outbreak",
-          "description": "Fresh alarm bells sounded from the World Health Organisation with the Democratic Republic of Congo in the grips of an Ebola outbreak. The body says it's unlikely to disappear quickly, with the number of cases poised to rise.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/who-worried-about-scale-and-speed-of-ebola-outbreak",
-          "category": "Health",
-          "publishedAt": "2026-05-19T13:19:48+00:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -153,8 +117,26 @@
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "WHO worried about 'scale and speed' of Ebola outbreak",
+          "description": "Fresh alarm bells sounded from the World Health Organisation with the Democratic Republic of Congo in the grips of an Ebola outbreak. The body says it's unlikely to disappear quickly, with the number of cases poised to rise.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/who-worried-about-scale-and-speed-of-ebola-outbreak",
+          "category": "Health",
+          "publishedAt": "2026-05-19T13:19:48+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ebola",
+            "outbreak",
+            "congo",
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -171,8 +153,8 @@
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -189,8 +171,8 @@
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -207,8 +189,8 @@
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -219,14 +201,14 @@
           "url": "https://www.thehindu.com/news/international/who-chief-says-deeply-concerned-by-scale-and-speed-of-democratic-republic-congos-ebola-outbreak/article70997237.ece",
           "category": "Health",
           "publishedAt": "2026-05-19T17:55:34+05:30",
-          "score": 6,
+          "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         },
@@ -243,8 +225,8 @@
             "ebola",
             "outbreak",
             "congo",
-            "who_entity",
-            "democratic"
+            "us_entity",
+            "who_entity"
           ],
           "group_id": 0
         }
@@ -258,36 +240,76 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 12,
-      "why": "Traveling to Japan or buying Japanese goods may become pricier.",
-      "context": "Japan's economy grew quickly, prompting plans for higher interest rates.",
-      "next": "The central bank will likely increase borrowing costs soon.",
-      "bigger": "Economic recovery in Asia despite ongoing global geopolitical tensions.",
+      "why": "Goods imported from Japan may become more expensive for you.",
+      "context": "Japan reported stronger economic growth, prompting plans for higher interest rates.",
+      "next": "The Bank of Japan will likely raise borrowing costs soon.",
+      "bigger": "Central banks are ending the era of ultra-cheap money globally.",
       "publishedAt": "2026-05-19T06:41:06+05:30",
       "topicFingerprint": [
         "japan",
-        "rate",
-        "higher",
+        "hike",
         "faster",
-        "east"
+        "costs",
+        "higher"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "New Zealand plans to cut 14% of public sector jobs to slash spending",
+      "description": "New Zealand will cut 8700 public sector jobs by 2029, saving 2.4 billion NZ dollars, as Nicola Willis and Christopher Luxons government pushes budget cuts and AI adoption.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/new-zealand-plans-cut-14-public-sector-jobs-slash-spending-artificial-intelligence-ws-l-19909016.htm",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Access to government services and support may become slower for you.",
+      "context": "The government is launching massive layoffs to reduce national debt levels.",
+      "next": "Other nations may adopt similar austerity measures to curb debt.",
+      "bigger": "Governments are prioritizing fiscal discipline over public sector expansion.",
+      "publishedAt": "2026-05-19T14:47:53+05:30",
+      "topicFingerprint": [
+        "cut",
+        "jobs",
+        "ai_group",
+        "stanchart",
+        "plans"
       ],
       "alternates": [
         {
-          "title": "Japan's economy grows at annualized 2.1% rate in first quarter, beating expectations",
-          "description": "The growth was sharply higher compared with Reuters-polled analysts' average estimate of 1.7%, and against the 1.3% in the previous quarter.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/19/japan-first-quarter-gdp-economy-inflation-energy.html",
-          "category": "General",
-          "publishedAt": "2026-05-19T03:36:05+00:00",
-          "score": 5,
+          "title": "New Zealand's government plans to cut 14% of public sector jobs to slash spending",
+          "description": "The military, teachers and doctors would be exempt from the job losses; measures would also reduce the number of govt departments and agencies from the current 39 to an unspecified figure",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/new-zealands-government-plans-to-cut-14-of-public-sector-jobs-to-slash-spending/article70997402.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-19T15:46:02+05:30",
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "japan",
-            "rate",
-            "higher",
-            "faster",
-            "east"
+            "cut",
+            "jobs",
+            "ai_group",
+            "stanchart",
+            "plans"
           ],
-          "group_id": 1
+          "group_id": 0
+        },
+        {
+          "title": "StanChart to cut over 7,000 jobs globally by 2030 as it scales up automation, AI",
+          "description": "",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/stanchart-to-cut-over-7000-jobs-globally-by-2030-as-it-scales-up-automation-ai/article70998913.ece",
+          "category": "General",
+          "publishedAt": "2026-05-19T20:19:34+05:30",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "cut",
+            "jobs",
+            "ai_group",
+            "stanchart",
+            "plans"
+          ],
+          "group_id": 0
         }
       ]
     },
@@ -299,17 +321,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 12,
-      "why": "Local residents may see significantly higher tax bills soon.",
-      "context": "Pakistan is requiring its provinces to collect massive new tax revenues.",
-      "next": "Provincial governments will likely implement aggressive new collection plans.",
-      "bigger": "Developing nations facing intense pressure from international debt lenders.",
+      "why": "Daily living costs for local residents will likely increase significantly.",
+      "context": "Regional governments must hike taxes to secure international financial aid.",
+      "next": "Protests may erupt over the rising cost of basic necessities.",
+      "bigger": "Debt-distressed nations are facing extreme pressure to reform their economies.",
       "publishedAt": "2026-05-19T14:46:04+05:30",
       "topicFingerprint": [
-        "imf",
-        "struggles",
-        "raise",
         "provinces",
-        "taxes"
+        "raise",
+        "conditions",
+        "imf",
+        "pkr"
       ],
       "alternates": []
     },
@@ -321,15 +343,15 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 18,
-      "why": "High-end electronics and computers may become more widely available.",
-      "context": "Tech leaders and Chinese officials discussed easing semiconductor trade barriers.",
-      "next": "Export restrictions on advanced hardware may be officially adjusted.",
-      "bigger": "Major tech companies navigating the complex US-China trade rivalry.",
+      "why": "High-end electronics and AI features may become more widely available.",
+      "context": "Tech leaders are discussing ways to resume selling advanced computer chips.",
+      "next": "Tech companies may announce new supply deals within the region.",
+      "bigger": "Economic interests are beginning to test geopolitical trade restrictions.",
       "publishedAt": "2026-05-19T11:30:04+00:00",
       "topicFingerprint": [
         "us_entity",
-        "iran",
         "donald_trump",
+        "iran",
         "china_entity",
         "war",
         "russia"
@@ -342,12 +364,12 @@
           "url": "https://thenextweb.com/news/amd-lisa-su-china-he-lifeng-chip-cooperation",
           "category": "Financial",
           "publishedAt": "2026-05-19T12:25:07+00:00",
-          "score": 15,
+          "score": 14,
           "readingTime": 2,
           "topicFingerprint": [
             "us_entity",
-            "iran",
             "donald_trump",
+            "iran",
             "china_entity",
             "war",
             "russia"
@@ -357,51 +379,6 @@
       ]
     },
     {
-      "title": "NATO\u2019s newest member Sweden announces $4 billion defense investment; Saab pops 5%",
-      "description": "Sweden joined the military alliance in 2024 after it said that Russia's invasion of Ukraine had changed the security landscape.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/19/nato-sweden-saab-billion-defense-investment-rheinmetall.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Defense contractors may see a surge in new job openings.",
-      "context": "Sweden significantly increased military spending after joining the NATO alliance.",
-      "next": "Other European nations may follow with similar spending hikes.",
-      "bigger": "The rapid remilitarization of Europe in response to regional conflict.",
-      "publishedAt": "2026-05-19T10:04:39+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "iran",
-        "donald_trump",
-        "china_entity",
-        "war",
-        "russia"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Housing crisis takes centre stage at World Urban Forum in Baku",
-      "description": "Now is the time to place housing at the heart of sustainable development. That was the message delivered on Monday by UN Secretary General Ant\u00f3nio Guterres to participants at a global forum on urban sustainability under way this week in Baku.",
-      "source": "UN News",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167533",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Finding an affordable place to live may remain difficult.",
-      "context": "Global leaders met to address the worldwide shortage of affordable homes.",
-      "next": "Cities may implement new zoning and construction policies.",
-      "bigger": "Rapid urbanization outstripping the supply of safe, affordable housing.",
-      "publishedAt": "2026-05-18T12:00:00+00:00",
-      "topicFingerprint": [
-        "takes",
-        "centre",
-        "stage",
-        "urban",
-        "forum"
-      ],
-      "alternates": []
-    },
-    {
       "title": "How dependent is Russia on its economic ties with China?",
       "description": "Since the start of the invasion of Ukraine, Russia has been subject to Western sanctions. As a result, it has deepened its relationship with China, whether it is in terms of oil or dual-use technology, which help Russia lead its war in Ukraine. FRANCE 24's Angela Diffley looks at how dependent on it",
       "source": "France 24",
@@ -409,15 +386,15 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 23,
-      "why": "Chinese-made products may dominate more of your local markets.",
-      "context": "Russia is increasingly relying on China for trade and technology.",
-      "next": "Trade between the two nations will likely deepen further.",
-      "bigger": "The formation of an economic bloc separate from Western influence.",
+      "why": "Chinese brands may replace Western goods in your local market.",
+      "context": "Global sanctions have forced a major shift in trade toward Chinese markets.",
+      "next": "Trade between the two nations will likely reach record highs.",
+      "bigger": "Global trade is splitting into distinct and competing economic blocs.",
       "publishedAt": "2026-05-19T14:35:57+00:00",
       "topicFingerprint": [
         "us_entity",
-        "iran",
         "donald_trump",
+        "iran",
         "china_entity",
         "war",
         "russia"
@@ -425,24 +402,69 @@
       "alternates": []
     },
     {
-      "title": "Bolivia protests widen with clashes in La Paz as some demand President's ouster",
-      "description": "Violent protests in La Paz demand Bolivian President Rodrigo Paz's resignation amid an economic crisis, causing clashes and severe supply shortages.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/f8cc3130-ce69-4b33-9452-0829f28911cd.html",
-      "category": "Financial",
+      "title": "NATO\u2019s newest member Sweden announces $4 billion defense investment; Saab pops 5%",
+      "description": "Sweden joined the military alliance in 2024 after it said that Russia's invasion of Ukraine had changed the security landscape.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/nato-sweden-saab-billion-defense-investment-rheinmetall.html",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 11,
-      "why": "Severe shortages may make basic groceries harder to find.",
-      "context": "Violent demonstrations erupted in Bolivia over a worsening economic crisis.",
-      "next": "Continued political instability may lead to a change in leadership.",
-      "bigger": "Economic distress triggering widespread civil unrest in South America.",
-      "publishedAt": "2026-05-19T06:16:18+00:00",
+      "score": 17,
+      "why": "Higher taxes or redirected funds may limit other public projects.",
+      "context": "Sweden is significantly increasing military spending following its entry into NATO.",
+      "next": "Defense contractors will likely see a surge in new orders.",
+      "bigger": "European nations are rapidly rearming in response to regional conflict.",
+      "publishedAt": "2026-05-19T10:04:39+00:00",
       "topicFingerprint": [
-        "some",
-        "ouster",
-        "paz",
-        "widen",
-        "clashes"
+        "us_entity",
+        "donald_trump",
+        "iran",
+        "china_entity",
+        "war",
+        "russia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Teen temptations beware: MAHA-era FDA gives vapes, tanning beds a boost",
+      "description": "The Food and Drug Administration is easing restrictions on unauthorized vapes and scrapping a proposed ban on minors using tanning beds, reflecting a tumultuous shift in priorities during the MAHA era . The big picture: The moves risk weakening federal efforts to protect teens from unhealthy habits ",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/15/fda-maha-vape-tanning-booths-teen-temptations",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 3,
+      "why": "You may see more vaping and tanning products in local shops.",
+      "context": "New regulatory changes are making it easier to sell vapes and tanning.",
+      "next": "Health groups will likely challenge these new safety standards.",
+      "bigger": "Federal health policy is shifting toward less restrictive commercial rules.",
+      "publishedAt": "2026-05-19T13:14:31+00:00",
+      "topicFingerprint": [
+        "era",
+        "gives",
+        "temptations",
+        "beds",
+        "tanning"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Uncontrolled California wildfires seen from space",
+      "description": "Some 750 firefighters are tackling the uncontrolled blazes supported by water-dropping helicopters.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Your air quality and insurance rates may worsen this season.",
+      "context": "Massive fires are spreading across the state, resisting containment efforts.",
+      "next": "Evacuation orders will likely expand as the blazes grow.",
+      "bigger": "Extreme weather is making disaster management more difficult and costly.",
+      "publishedAt": "2026-05-19T13:39:45+00:00",
+      "topicFingerprint": [
+        "seen",
+        "wildfires",
+        "uncontrolled",
+        "space",
+        "california"
       ],
       "alternates": []
     },
@@ -454,17 +476,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 5,
-      "why": "Your insurance premiums and food costs may increase soon.",
-      "context": "A new report details intensifying weather disasters across the region.",
-      "next": "Regional governments will likely seek more emergency climate funding.",
-      "bigger": "The rising cost of living in disaster-prone global regions.",
+      "why": "Food prices may rise as crops fail from extreme weather.",
+      "context": "A report highlights the increasing frequency of severe weather events regionally.",
+      "next": "Governments will likely seek more international aid for disaster recovery.",
+      "bigger": "Climate change is becoming a primary driver of regional economic instability.",
       "publishedAt": "2026-05-19T08:23:22+00:00",
       "topicFingerprint": [
-        "caribbean",
-        "latin",
+        "placing",
+        "heat",
+        "growing",
         "meteorological",
-        "organization",
-        "intensifying"
+        "worsening"
       ],
       "alternates": [
         {
@@ -477,287 +499,11 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "caribbean",
-            "latin",
+            "placing",
+            "heat",
+            "growing",
             "meteorological",
-            "organization",
-            "intensifying"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Teen temptations beware: MAHA-era FDA gives vapes, tanning beds a boost",
-      "description": "The Food and Drug Administration is easing restrictions on unauthorized vapes and scrapping a proposed ban on minors using tanning beds, reflecting a tumultuous shift in priorities during the MAHA era . The big picture: The moves risk weakening federal efforts to protect teens from unhealthy habits ",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/15/fda-maha-vape-tanning-booths-teen-temptations",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Health risks for younger family members could potentially increase.",
-      "context": "The FDA is loosening restrictions on vapes and tanning equipment.",
-      "next": "Retailers may begin marketing these products more aggressively.",
-      "bigger": "Federal health policy shifting toward faster deregulation.",
-      "publishedAt": "2026-05-19T13:14:31+00:00",
-      "topicFingerprint": [
-        "beware",
-        "fda",
-        "tanning",
-        "temptations",
-        "gives"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
-      "description": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzr7vr203o",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Taxpayer money may be redirected toward these legal settlements.",
-      "context": "A new fund was created to pay individuals claiming unfair investigations.",
-      "next": "Eligible individuals will begin filing claims for government compensation.",
-      "bigger": "Significant changes in how the government handles internal legal disputes.",
-      "publishedAt": "2026-05-18T19:53:31+00:00",
-      "topicFingerprint": [
-        "donald_trump",
-        "tax",
-        "lawsuit",
-        "irs",
-        "fund"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China trade corridor a good foundation to do more, as bilateral cooperation not sure \u2018win-wins\u2019: SM Lee",
-      "description": "He adds trade is now mixed up with security and rivalry considerations, among others, with more effort needed for positive outcomes",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/china-trade-corridor-good-foundation-do-more-bilateral-cooperation-not-sure-win-wins-sm-lee",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Prices for imported goods may fluctuate due to trade rivalries.",
-      "context": "Singapore\u2019s leader discussed the complexities of trading with China.",
-      "next": "Nations may seek more security-focused bilateral trade agreements.",
-      "bigger": "Global trade becoming increasingly tied to national security interests.",
-      "publishedAt": "2026-05-19T14:42:28+00:00",
-      "topicFingerprint": [
-        "corridor",
-        "wins",
-        "lee",
-        "china_entity",
-        "cooperation"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "STAT+: Dexcom CEO hints at future uses for CGM",
-      "description": "In this edition of STAT Health Tech: Takeaways from a conversation with Dexcom CEO, and updates on WiSeR, and Epic's market share.",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/05/19/dexcom-cgm-sensors-new-uses-health-tech/",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Monitoring your health may soon involve more wearable devices.",
-      "context": "Tech leaders discussed expanding the use of wearable glucose monitors.",
-      "next": "More non-diabetics may start using glucose tracking tools.",
-      "bigger": "The integration of medical-grade sensors into everyday life.",
-      "publishedAt": "2026-05-19T14:10:17+00:00",
-      "topicFingerprint": [
-        "ceo",
-        "dexcom",
-        "uses",
-        "stat",
-        "hints"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China asks\u00a0pork\u00a0producers to spur consumption, curb financial risks",
-      "description": "[BEIJING] China\u2019s agriculture ministry urged the pork industry to rein in overcapacity, stimulate consumption and keep a close watch on the financial risks of...",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/china-asks-pork-producers-spur-consumption-curb-financial-risks",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Meat prices in global markets may soon drop.",
-      "context": "China\u2019s government urged the pork industry to manage oversupply issues.",
-      "next": "Producers will likely cut back on livestock numbers.",
-      "bigger": "Government intervention to stabilize volatile food commodity markets.",
-      "publishedAt": "2026-05-19T08:30:37+00:00",
-      "topicFingerprint": [
-        "curb",
-        "china_entity",
-        "spur",
-        "financial",
-        "risks"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why has FIFA not signed a World Cup broadcast deal in India?",
-      "description": "With the World Cup weeks away, FIFA is struggling to find broadcast rights buyers in the world\u2019s most populous country.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "You may have trouble finding a way to watch games.",
-      "context": "FIFA is struggling to secure a television partner in India.",
-      "next": "Streaming platforms may outbid traditional TV networks for rights.",
-      "bigger": "The shifting landscape of sports media in emerging markets.",
-      "publishedAt": "2026-05-19T14:01:16+00:00",
-      "topicFingerprint": [
-        "fifa",
-        "signed",
-        "cup",
-        "india",
-        "broadcast"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "European-Chinese spacecraft SMILE sent on solar wind exploration mission",
-      "description": "The spacecraft achieved lift-off on a Vega-C rocket at 0352 GMT on Tuesday from Europe's spaceport in Kourou, French Guiana.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/europeanchinese-spacecraft-smile-sent-on-solar-wind-exploration-mission-101779171866101.html",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Communication and GPS services may become more reliable.",
-      "context": "A joint mission launched to study the sun\u2019s impact on Earth.",
-      "next": "Scientists will begin receiving data on solar storm behavior.",
-      "bigger": "Continued international cooperation in the field of space exploration.",
-      "publishedAt": "2026-05-19T13:23:46+05:30",
-      "topicFingerprint": [
-        "smile",
-        "china_entity",
-        "eu_entity",
-        "spacecraft",
-        "achieved"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
-      "description": "Intel CEO Lip-Bu Tan said the company\u2019s Foundry turnaround is gaining traction.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Your electronics and gadgets may be manufactured closer to home.",
-      "context": "Intel reported growing interest in its third-party chip manufacturing services.",
-      "next": "The company will likely expand its domestic factory capacity.",
-      "bigger": "The global push to diversify the semiconductor supply chain.",
-      "publishedAt": "2026-05-18T22:44:30+00:00",
-      "topicFingerprint": [
-        "ceo",
-        "gaining",
-        "interest",
-        "customer",
-        "intel"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The US, Israel and the normalisation of scandal",
-      "description": "Thanks to Netanyahu and Trump, scandal is now our new normal - call it Everythinggate .",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/19/the-us-israel-and-the-normalisation-of-scandal",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Trust in official government information may continue to decline.",
-      "context": "Political controversies are becoming a regular part of public life.",
-      "next": "Leaders may face more frequent legal and ethical challenges.",
-      "bigger": "The erosion of traditional political standards and accountability.",
-      "publishedAt": "2026-05-19T09:46:18+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "israel",
-        "normalisation",
-        "scandal"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Live Results: Georgia midterm congressional primaries",
-      "description": "Voting concludes in the swing state of Georgia on Tuesday in competitive primaries for governor and a U.S. Senate seat that could decide control of the closely divided chamber.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/live-results-georgia-midterm-congressional-primaries",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Your local laws and taxes may change after the election.",
-      "context": "Voters in Georgia are selecting candidates for key government roles.",
-      "next": "Winning candidates will move on to the general election.",
-      "bigger": "Critical local elections determining the national balance of power.",
-      "publishedAt": "2026-05-19T09:00:04-04:00",
-      "topicFingerprint": [
-        "congressional",
-        "midterm",
-        "us_entity",
-        "live",
-        "results"
-      ],
-      "alternates": [
-        {
-          "title": "Live Results: Alabama midterm congressional primaries",
-          "description": "Only three of Alabama's seven congressional districts will hold binding primaries Tuesday in the wake of a U.S. Supreme Court decision that prompted Republicans in a handful of southern states to throw out their congressional maps.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/live-results-alabama-midterm-congressional-primaries",
-          "category": "General",
-          "publishedAt": "2026-05-19T09:00:46-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "congressional",
-            "midterm",
-            "us_entity",
-            "live",
-            "results"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Live Results: Pennsylvania midterm congressional primaries",
-          "description": "Democratic voters in Tuesday's Pennsylvania primary will pick their nominees to flip four seats seen as critical for the party to retake the U.S. House in November.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/live-results-pennsylvania-midterm-congressional-primaries",
-          "category": "General",
-          "publishedAt": "2026-05-19T09:00:19-04:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "congressional",
-            "midterm",
-            "us_entity",
-            "live",
-            "results"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Live Results: Idaho midterm congressional primaries",
-          "description": "The contests will set the stage for the November general election, when Republicans will count on big wins in Idaho to help keep control of the U.S. Senate and House.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/live-results-idaho-midterm-congressional-primaries",
-          "category": "General",
-          "publishedAt": "2026-05-19T09:00:12-04:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "congressional",
-            "midterm",
-            "us_entity",
-            "live",
-            "results"
+            "worsening"
           ],
           "group_id": 0
         }
@@ -771,17 +517,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 6,
-      "why": "National policies on immigration and spending may shift soon.",
-      "context": "A right-wing leader is poised to return to power in Slovenia.",
-      "next": "The new government will likely reorganize several state departments.",
-      "bigger": "The rise of conservative movements across the European continent.",
+      "why": "New laws may change how your taxes and benefits work.",
+      "context": "A prominent conservative leader is returning to lead the nation's government.",
+      "next": "The country will likely shift its stance on European migration policies.",
+      "bigger": "Populist movements are gaining more political power across Europe.",
       "publishedAt": "2026-05-19T09:35:14-04:00",
       "topicFingerprint": [
-        "right",
         "prime",
-        "submitted",
-        "minister",
-        "candidacy"
+        "slovenia",
+        "right",
+        "candidacy",
+        "submitted"
       ],
       "alternates": [
         {
@@ -794,15 +540,309 @@
           "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
-            "right",
             "prime",
-            "submitted",
-            "minister",
-            "candidacy"
+            "slovenia",
+            "right",
+            "candidacy",
+            "submitted"
           ],
           "group_id": 0
         }
       ]
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "How global economic imbalances resemble an ancient parable",
+      "description": "The global economy faces the types of massive imbalances that preceded previous crises \u2014 despite important differences \u2014 and it's not yet clear how this debt cycle will end. Why it matters: The last four decades of economic turbulence trace back to a similar underlying issue, that the world's bigges",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/19/global-economic-policy-trade-tariffs",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Banks may tighten lending, making it harder for you to borrow.",
+      "context": "Experts are warning that massive global debt levels are becoming unsustainable.",
+      "next": "Financial markets could experience high volatility as debt risks grow.",
+      "bigger": "The global financial system is approaching a major correction point.",
+      "publishedAt": "2026-05-19T15:58:04+00:00",
+      "topicFingerprint": [
+        "resemble",
+        "economic",
+        "parable",
+        "imbalances",
+        "ancient"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Housing crisis takes centre stage at World Urban Forum in Baku",
+      "description": "Now is the time to place housing at the heart of sustainable development. That was the message delivered on Monday by UN Secretary General Ant\u00f3nio Guterres to participants at a global forum on urban sustainability under way this week in Baku.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167533",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Rent and home prices may stay high without new construction.",
+      "context": "International leaders met to discuss the global shortage of affordable homes.",
+      "next": "Cities may pass new laws to speed up housing developments.",
+      "bigger": "Urban affordability is becoming a top priority for global stability.",
+      "publishedAt": "2026-05-18T12:00:00+00:00",
+      "topicFingerprint": [
+        "baku",
+        "takes",
+        "crisis",
+        "forum",
+        "urban"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+      "description": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzr7vr203o",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Public funds are being redirected to settle high-profile legal disputes.",
+      "context": "The government created a billion-dollar fund for individuals following a settlement.",
+      "next": "Legal experts will likely debate the fairness of this payout.",
+      "bigger": "Executive power is being used to resolve internal political conflicts.",
+      "publishedAt": "2026-05-18T19:53:31+00:00",
+      "topicFingerprint": [
+        "donald_trump",
+        "tax",
+        "lawsuit",
+        "billion",
+        "irs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China trade corridor a good foundation to do more, as bilateral cooperation not sure \u2018win-wins\u2019: SM Lee",
+      "description": "He adds trade is now mixed up with security and rivalry considerations, among others, with more effort needed for positive outcomes",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/china-trade-corridor-good-foundation-do-more-bilateral-cooperation-not-sure-win-wins-sm-lee",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 11,
+      "why": "The cost of imported electronics and machinery may fluctuate soon.",
+      "context": "Leaders are questioning if trade deals still benefit all parties involved.",
+      "next": "Trade agreements will likely include more strict security requirements.",
+      "bigger": "National security is now dictating the terms of global trade.",
+      "publishedAt": "2026-05-19T14:42:28+00:00",
+      "topicFingerprint": [
+        "trade",
+        "wins",
+        "win",
+        "bilateral",
+        "china_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "STAT+: Dexcom CEO hints at future uses for CGM",
+      "description": "In this edition of STAT Health Tech: Takeaways from a conversation with Dexcom CEO, and updates on WiSeR, and Epic's market share.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/05/19/dexcom-cgm-sensors-new-uses-health-tech/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 11,
+      "why": "You may soon use wearable sensors to track daily health.",
+      "context": "A health tech leader is expanding how glucose monitors are used.",
+      "next": "New medical devices will likely reach the consumer market soon.",
+      "bigger": "Preventive healthcare is moving toward real-time digital monitoring.",
+      "publishedAt": "2026-05-19T14:10:17+00:00",
+      "topicFingerprint": [
+        "cgm",
+        "ceo",
+        "uses",
+        "future",
+        "dexcom"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why has FIFA not signed a World Cup broadcast deal in India?",
+      "description": "With the World Cup weeks away, FIFA is struggling to find broadcast rights buyers in the world\u2019s most populous country.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "You may lose access to watching the matches on television.",
+      "context": "Disagreements over pricing have delayed the sale of tournament viewing rights.",
+      "next": "A last-minute streaming deal will likely be reached before kickoff.",
+      "bigger": "High broadcast costs are changing how sports are viewed globally.",
+      "publishedAt": "2026-05-19T14:01:16+00:00",
+      "topicFingerprint": [
+        "fifa",
+        "broadcast",
+        "signed",
+        "india",
+        "cup"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "European-Chinese spacecraft SMILE sent on solar wind exploration mission",
+      "description": "The spacecraft achieved lift-off on a Vega-C rocket at 0352 GMT on Tuesday from Europe's spaceport in Kourou, French Guiana.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/europeanchinese-spacecraft-smile-sent-on-solar-wind-exploration-mission-101779171866101.html",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Better solar forecasts may prevent your GPS and electronics from failing.",
+      "context": "A joint space mission launched to study how solar activity affects Earth.",
+      "next": "Scientists will likely release new data on space weather risks.",
+      "bigger": "International cooperation continues in space despite tensions on the ground.",
+      "publishedAt": "2026-05-19T13:23:46+05:30",
+      "topicFingerprint": [
+        "wind",
+        "sent",
+        "exploration",
+        "solar",
+        "mission"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The US, Israel and the normalisation of scandal",
+      "description": "Thanks to Netanyahu and Trump, scandal is now our new normal - call it Everythinggate .",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/19/the-us-israel-and-the-normalisation-of-scandal",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Frequent political drama may distract leaders from solving your problems.",
+      "context": "Political controversies are becoming a regular part of the nightly news.",
+      "next": "Trust in government institutions will likely continue to decline.",
+      "bigger": "Political ethics are being redefined by modern leadership styles.",
+      "publishedAt": "2026-05-19T09:46:18+00:00",
+      "topicFingerprint": [
+        "scandal",
+        "israel",
+        "normalisation",
+        "us_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Live Results: Georgia midterm congressional primaries",
+      "description": "Voting concludes in the swing state of Georgia on Tuesday in competitive primaries for governor and a U.S. Senate seat that could decide control of the closely divided chamber.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/live-results-georgia-midterm-congressional-primaries",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Election results may change the laws that affect your taxes.",
+      "context": "Voters are casting ballots to choose candidates for key government positions.",
+      "next": "Winners will begin high-stakes campaigning for the general election.",
+      "bigger": "Swing states are determining the future direction of national policy.",
+      "publishedAt": "2026-05-19T09:00:04-04:00",
+      "topicFingerprint": [
+        "primaries",
+        "us_entity",
+        "results",
+        "midterm",
+        "live"
+      ],
+      "alternates": [
+        {
+          "title": "Live Results: Alabama midterm congressional primaries",
+          "description": "Only three of Alabama's seven congressional districts will hold binding primaries Tuesday in the wake of a U.S. Supreme Court decision that prompted Republicans in a handful of southern states to throw out their congressional maps.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/live-results-alabama-midterm-congressional-primaries",
+          "category": "General",
+          "publishedAt": "2026-05-19T09:00:46-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "primaries",
+            "us_entity",
+            "results",
+            "midterm",
+            "live"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Georgia voters head to polls for major primaries and key local races",
+          "description": "Georgia voters are heading to the polls on Tuesday to decide on candidates for the U.S. Senate, governor and lieutenant governor. Some key local races for agricultural commissioner and state Supreme Court are also in play. CBS News' Skyler Henry has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/georgia-voters-head-to-polls-for-major-primaries-and-key-local-races/",
+          "category": "General",
+          "publishedAt": "2026-05-19T11:10:04-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "primaries",
+            "us_entity",
+            "results",
+            "midterm",
+            "live"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Live Results: Pennsylvania midterm congressional primaries",
+          "description": "Democratic voters in Tuesday's Pennsylvania primary will pick their nominees to flip four seats seen as critical for the party to retake the U.S. House in November.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/live-results-pennsylvania-midterm-congressional-primaries",
+          "category": "General",
+          "publishedAt": "2026-05-19T09:00:19-04:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "primaries",
+            "us_entity",
+            "results",
+            "midterm",
+            "live"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Live Results: Idaho midterm congressional primaries",
+          "description": "The contests will set the stage for the November general election, when Republicans will count on big wins in Idaho to help keep control of the U.S. Senate and House.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/live-results-idaho-midterm-congressional-primaries",
+          "category": "General",
+          "publishedAt": "2026-05-19T09:00:12-04:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "primaries",
+            "us_entity",
+            "results",
+            "midterm",
+            "live"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "G-7 finance ministers vow cooperation to face \u2018heightened risks\u2019",
+      "description": "Their statement highlighted \u201cmultiple and complex global challenges requiring coordinated responses\u201d.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/g-7-finance-ministers-vow-cooperation-to-face-heightened-risks",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Global coordination may help keep your bank account and savings safe.",
+      "context": "Global economic leaders agreed to work together against financial instability.",
+      "next": "New regulations on international banking will likely be introduced.",
+      "bigger": "Top economies are banding together to prevent a global recession.",
+      "publishedAt": "2026-05-19T22:16:00+08:00",
+      "topicFingerprint": [
+        "heightened",
+        "finance",
+        "risks",
+        "cooperation",
+        "ministers"
+      ],
+      "alternates": []
     },
     {
       "title": "To revive an extinct bird, you first need an artificial egg",
@@ -812,54 +852,46 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 5,
-      "why": "You may eventually see long-lost animals in local zoos.",
-      "context": "Scientists created artificial eggs to help bring back extinct species.",
-      "next": "Researchers will attempt to incubate extinct bird DNA.",
-      "bigger": "Advancements in biotechnology challenging the permanence of species extinction.",
+      "why": "New biotechnology may soon help save other endangered local species.",
+      "context": "Scientists created synthetic eggs to help bring back the dodo bird.",
+      "next": "Researchers will likely attempt to hatch the first revived bird.",
+      "bigger": "Humans are gaining the power to reverse historical environmental losses.",
       "publishedAt": "2026-05-19T08:00:16-04:00",
       "topicFingerprint": [
-        "egg",
-        "need",
-        "bird",
+        "extinct",
         "artificial",
+        "bird",
+        "egg",
         "revive"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
+    "united_states": [
       {
-        "title": "China hails latest breakthrough on space solar power technology",
-        "description": "Chinese researchers have built a wireless power transmission system capable of beaming kilowatt-level energy to multiple moving targets simultaneously, potentially a major step towards building space-based solar power stations. The team completed a groundbreaking full-chain ground verification platf",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3354125/china-hails-latest-breakthrough-space-solar-power-technology",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+        "description": "The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian Krebs.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+        "fromUrl": "https://techcrunch.com/feed/",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-19T13:00:05+00:00",
+        "publishedAt": "2026-05-19T15:06:42+00:00",
         "reason": "within_48h",
-        "score": 13,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: cloud"
           },
           {
             "points": 2,
-            "reason": "important keyword match: breakthrough"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: researchers"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: cybersecurity"
           },
           {
             "points": 2,
@@ -873,54 +905,54 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "power",
-          "energy",
-          "stations",
-          "major",
-          "groundbreaking"
+          "keys",
+          "us_entity",
+          "agency",
+          "reams",
+          "web"
         ]
       },
       {
-        "title": "At least 10 dead as huge floods sweep southern and central China",
-        "description": "The affected area extends more than 1,000km (620 miles), according to Chinese meteorologists.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Environment",
+        "title": "iPhone Ultra will take us closer to the long-rumored iPad Fold, suggests leaker",
+        "description": "An iPad Fold has been rumored for years now, but so far none of the predicted launch timings have panned out. One of the more recent reports even suggested that it was a bit of \u201ca wacky experiment\u201d that may never see the light of day. However, one leaker with a decent track record believes that the ",
+        "source": "9To5Mac",
+        "url": "https://9to5mac.com/2026/05/19/iphone-ultra-will-take-us-closer-to-the-long-rumored-ipad-fold-suggests-leaker/",
+        "fromUrl": "https://9to5mac.com/feed/",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-19T08:49:44+00:00",
+        "publishedAt": "2026-05-19T11:03:00+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "important keyword match: floods"
+            "reason": "strong tech event + strong tech term"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "points": -1,
+            "reason": "Low Quality Source match: 9To5Mac"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "huge",
-          "sweep",
-          "dead",
-          "floods",
-          "china_entity"
+          "us",
+          "closer",
+          "iphone",
+          "leaker",
+          "ultra"
         ]
       }
     ],
@@ -973,28 +1005,28 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "transformation",
+          "economic",
           "vinay",
-          "point",
           "us_entity",
+          "anchor",
           "envoy"
         ]
       },
       {
-        "title": "Liberty Mutual raises stake in Liberty General Insurance to 74%",
-        "description": "India remains an important market, increasing shareholding allows us to further develop the business, bring our global capabilities more directly to the market, says Liberty International Insurance APAC president Matthew Jackson",
+        "title": "India among economies driving carbon surge from construction boom",
+        "description": "Buildings and construction now account for around 37% of global carbon emissions, nearly 50% of global material extraction \u2014 the largest of any sector \u2014 and 28% of global energy consumption",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/business/liberty-mutual-raises-stake-in-liberty-general-insurance-to-74/article70993403.ece",
+        "url": "https://www.thehindu.com/news/national/india-among-economies-driving-carbon-surge-from-construction-boom/article70998242.ece",
         "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Financial",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-05-18T21:41:43+05:30",
+        "publishedAt": "2026-05-19T20:46:36+05:30",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: market"
+            "reason": "important keyword match: energy"
           },
           {
             "points": 2,
@@ -1002,41 +1034,29 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
             "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: insurance"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": -1,
-            "reason": "financial low priority keyword match: says"
-          },
-          {
             "points": -4,
             "reason": "Lowerst Quality Source match: The Hindu"
           },
           {
-            "points": -2,
-            "reason": "low quality group match: says"
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "raises",
-          "stake",
-          "general",
-          "mutual",
-          "insurance"
+          "among",
+          "boom",
+          "economies",
+          "driving",
+          "surge"
         ]
       }
     ],
@@ -1077,11 +1097,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "announce",
+          "phase",
           "centre",
+          "data",
           "reef",
-          "uk_entity",
-          "sembcorp"
+          "uk_entity"
         ]
       },
       {
@@ -1116,11 +1136,107 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "beyond",
-          "survival",
-          "elite",
           "reit",
-          "uk_entity"
+          "beyond",
+          "phase",
+          "survival",
+          "growth"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "China asks\u00a0pork\u00a0producers to spur consumption, curb financial risks",
+        "description": "[BEIJING] China\u2019s agriculture ministry urged the pork industry to rein in overcapacity, stimulate consumption and keep a close watch on the financial risks of...",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/china-asks-pork-producers-spur-consumption-curb-financial-risks",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-19T08:30:37+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "curb",
+          "risks",
+          "china_entity",
+          "consumption",
+          "asksporkproducers"
+        ]
+      },
+      {
+        "title": "China economy slows sharply as investment resumes declines",
+        "description": "The jobless rate of the key demographic of early-career workers climbed to the highest in more than two years.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/economy/china-economy-slows-sharply-as-investment-returns-to-contraction",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-18T10:49:00+08:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "financial important keyword match: economy"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "economy",
+          "resumes",
+          "slows",
+          "china_entity",
+          "sharply"
         ]
       }
     ],
@@ -1161,11 +1277,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "nuclear",
           "iaea",
-          "readiness",
-          "experts",
+          "infrastructure",
           "assessing",
-          "nuclear"
+          "start"
         ]
       },
       {
@@ -1209,9 +1325,9 @@
             "score": 4,
             "readingTime": 2,
             "topicFingerprint": [
+              "mixed",
               "sti",
               "index",
-              "higher",
               "regional",
               "singapore"
             ],
@@ -1219,91 +1335,11 @@
           }
         ],
         "topicFingerprint": [
+          "mixed",
           "sti",
           "index",
-          "higher",
           "regional",
           "singapore"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "iPhone Ultra will take us closer to the long-rumored iPad Fold, suggests leaker",
-        "description": "An iPad Fold has been rumored for years now, but so far none of the predicted launch timings have panned out. One of the more recent reports even suggested that it was a bit of \u201ca wacky experiment\u201d that may never see the light of day. However, one leaker with a decent track record believes that the ",
-        "source": "9To5Mac",
-        "url": "https://9to5mac.com/2026/05/19/iphone-ultra-will-take-us-closer-to-the-long-rumored-ipad-fold-suggests-leaker/",
-        "fromUrl": "https://9to5mac.com/feed/",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-05-19T11:03:00+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "strong tech event + strong tech term"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: 9To5Mac"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "fold",
-          "iphone",
-          "leaker",
-          "ipad",
-          "rumored"
-        ]
-      },
-      {
-        "title": "Xi warned Trump against the \u2018Thucydides Trap\u2019 \u2013 here\u2019s what ancient Greece can tell us about US\u2011China relations",
-        "description": "Xi warned Trump against the \u2018Thucydides Trap\u2019 \u2013 here\u2019s what ancient Greece can tell us about US\u2011China relations",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/xi-warned-trump-against-the-thucydides-trap-here-s-what-ancient-greece-can-tell-us-about-us-china-relations-101779169821210.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-19T11:20:20+05:30",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "relations",
-          "warned",
-          "donald_trump",
-          "us",
-          "greece"
         ]
       }
     ],
@@ -1341,8 +1377,8 @@
         "alternates": [],
         "topicFingerprint": [
           "electric",
-          "china_entity",
           "nissaneyesexporting",
+          "china_entity",
           "cars",
           "canada"
         ]
@@ -1377,11 +1413,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "brazil",
+          "lula",
+          "disgraced",
+          "poll",
           "tops",
-          "linking",
-          "banker",
-          "poll"
+          "banker"
         ]
       }
     ],
@@ -1414,60 +1450,50 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "minutes",
+          "hint",
           "near",
-          "pause",
-          "rebounds",
-          "rba"
+          "week",
+          "term",
+          "minutes"
         ]
       }
     ],
-    "germany": [
+    "france": [
       {
-        "title": "Germany preparing to admit and treat US Ebola patient",
-        "description": "The German Health Ministry did not say where and when the patient would be treated.",
+        "title": "France invites European powers to attend July 14 Bastille Day celebrations",
+        "description": "PARIS, May 19 - France has invited European states in Ukraine's \\\"coalition of the willing\\\" to attend its July 14 Bastille Day celebrations, according to an official invitation seen by Reuters on Tuesday.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/germany-says-to-admit-and-treat-us-ebola-patient",
+        "url": "https://www.straitstimes.com/world/europe/france-invites-european-powers-to-attend-july-14-bastille-day-celebrations",
         "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Health",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-05-19T16:45:00+08:00",
+        "publishedAt": "2026-05-19T23:23:51+08:00",
         "reason": "within_48h",
         "score": 4,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: ukraine"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
           },
           {
-            "points": -2,
-            "reason": "low quality group match: say"
-          },
-          {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ebola",
-          "patient",
-          "us_entity",
-          "germany",
-          "treat"
+          "july",
+          "invites",
+          "powers",
+          "eu_entity",
+          "celebrations"
         ]
-      }
-    ],
-    "france": [
+      },
       {
         "title": "The French Open courts are clay, a tricky surface for some. Here's how the pros do it",
         "description": "In tennis, clay has a reputation for being one of the harder surfaces to play on. But a few pros shared some of their tips for staying sharp.",
@@ -1486,48 +1512,50 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "french",
-          "clay",
-          "open",
-          "some",
-          "tricky"
-        ]
-      },
-      {
-        "title": "China\u2019s Zheng Qinwen faces tough French Open draw; Coleman Wong into next qualifying round",
-        "description": "Zheng Qinwen could face a tough draw at the French Open this weekend, after crashing out of the top 50 for the first time in almost four years. A drop of 21 spots in the latest rankings, which were released on Monday, has sent Zheng to 53rd in the world, meaning she will be unseeded for the year\u2019s s",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/sport/china/article/3354054/chinas-zheng-qinwen-crashes-out-womens-top-50-faces-tough-french-open-singles-draw",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-19T08:00:05+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 1,
             "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "tough",
-          "zheng",
-          "qinwen",
+          "some",
+          "clay",
+          "pros",
           "french",
-          "open"
+          "tricky"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "A humanitarian aid ship from Mexico docks in Havana as US-Cuba tensions escalate",
+        "description": "A ship carrying humanitarian aid from Mexico and Uruguay has arrived in Havana to help ease Cuba s spiraling crises",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/humanitarian-aid-ship-mexico-docks-havana-us-cuba-133077353",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-19T11:45:42-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "aid",
+          "ship",
+          "us_entity",
+          "humanitarian",
+          "escalate"
         ]
       }
     ]
