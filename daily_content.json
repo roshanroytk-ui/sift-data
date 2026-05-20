@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T16:49:02.399103",
+  "updatedAt": "2026-05-20T21:32:55.093339",
   "insight": {
     "title": "GPS Satellites Have No Idea You Exist",
     "subtitle": "Why the world's most famous tracking system is entirely blind to you.",
@@ -25,46 +25,50 @@
   },
   "news": [
     {
-      "title": "UK eases sanctions on Russian oil imports as fuel prices soar",
-      "description": "The move will allow the UK to import Russian crude oil refined in third countries, such as India and Turkiye.",
+      "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
+      "description": "Meta cancels hiring plans for 6,000 roles amid ongoing layoffs and a pivot to artificial intelligence development.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar",
-      "category": "Economy",
+      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs",
+      "category": "General",
       "readingTime": 2,
       "score": 25,
-      "why": "Your fuel and transport costs may stabilize or decrease soon.",
-      "context": "The UK is allowing imports of Russian crude refined in third countries.",
-      "next": "Other nations may adjust their own import restrictions on Russian energy.",
-      "bigger": "Geopolitical pressure is forcing a shift in global energy trade policies.",
-      "publishedAt": "2026-05-20T10:46:10+00:00",
+      "why": "Hiring in the tech sector may slow down soon.",
+      "context": "Meta laid off thousands of workers and cancelled thousands of open roles.",
+      "next": "Other major tech firms may announce similar staff reductions.",
+      "bigger": "Artificial intelligence is rapidly replacing traditional tech roles.",
+      "publishedAt": "2026-05-20T17:44:37+00:00",
       "topicFingerprint": [
+        "ai_group",
+        "cuts",
+        "meta",
+        "jobs",
+        "job",
+        "staff"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "UK eases Russian oil sanctions as fuel prices surge",
+      "description": "The UK eased sanctions on Russian oil and LNG to prevent diesel and jet fuel shortages amid rising costs and supply concerns from the Iran war.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/c33a6f6d-71da-4844-a7e2-1332d2253d74.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 24,
+      "why": "British drivers and homeowners may see cheaper fuel prices.",
+      "context": "The UK reduced sanctions on Russian fuel to prevent domestic shortages.",
+      "next": "Other European nations may ease similar fuel sanctions soon.",
+      "bigger": "Energy security is taking priority over geopolitical sanctions.",
+      "publishedAt": "2026-05-20T12:19:22+00:00",
+      "topicFingerprint": [
+        "us_entity",
         "donald_trump",
         "iran",
-        "us_entity",
-        "ai_group",
         "war",
-        "google"
+        "china_entity",
+        "oil"
       ],
       "alternates": [
-        {
-          "title": "UK eases Russian oil sanctions as fuel prices surge",
-          "description": "The UK eased sanctions on Russian oil and LNG to prevent diesel and jet fuel shortages amid rising costs and supply concerns from the Iran war.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/c33a6f6d-71da-4844-a7e2-1332d2253d74.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-20T12:19:22+00:00",
-          "score": 25,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "donald_trump",
-            "iran",
-            "us_entity",
-            "ai_group",
-            "war",
-            "google"
-          ],
-          "group_id": 0
-        },
         {
           "title": "Fuel-thirsty UK relaxes Russian oil sanctions, leaving Ukrainians \u2018very let down\u2019",
           "description": "The UK moved to loosen its Russian sanctions in a controversial move aimed at preventing shortages of diesel and jet fuel, as the war in Iran eats into global oil buffers. The move highlights how Britain has become more reliant on fuel imports than other major European nations, and has prompted poli",
@@ -72,15 +76,15 @@
           "url": "https://www.scmp.com/news/world/europe/article/3354264/fuel-thirsty-uk-relaxes-russian-sanctions-leaving-ukrainians-feeling-very-let-down",
           "category": "Geopolitics",
           "publishedAt": "2026-05-20T11:20:10+00:00",
-          "score": 20,
+          "score": 19,
           "readingTime": 2,
           "topicFingerprint": [
+            "us_entity",
             "donald_trump",
             "iran",
-            "us_entity",
-            "ai_group",
             "war",
-            "google"
+            "china_entity",
+            "oil"
           ],
           "group_id": 0
         },
@@ -94,166 +98,36 @@
           "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
+            "us_entity",
             "donald_trump",
             "iran",
-            "us_entity",
-            "ai_group",
             "war",
-            "google"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Britain eases sanctions on Russian jet fuel and diesel imports",
-          "description": "Britain has also temporarily loosened imports of liquefied natural gas from certain Russian plants.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/britain-eases-sanctions-on-russian-jet-fuel-and-diesel-imports",
-          "category": "General",
-          "publishedAt": "2026-05-20T16:03:00+08:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "donald_trump",
-            "iran",
-            "us_entity",
-            "ai_group",
-            "war",
-            "google"
+            "china_entity",
+            "oil"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Meta, LinkedIn layoffs push tech job losses in 2026 past 110,000 amid AI push",
-      "description": "Meta to cut 8000 jobs and reassign 7000 to AI teams as part of a global restructuring, amid 110223 tech layoffs in 2026 and rising concerns over monitoring and morale",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/photos/world/meta-layoffs-tech-job-cuts-ai-jobs-artificial-intelligence-workforce-restructuring-ws-el-19909658.htm",
-      "category": "General",
+      "title": "Trump's new order increases scrutiny on non-citizens' banking activities",
+      "description": "President Trump's latest executive order increases scrutiny of non-citizens' banking activities without enforcing citizenship data collection.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trumps-new-order-increases-scrutiny-on-non-citizens-banking-activities-101779275035418.html",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 19,
-      "why": "Competition for high-paying tech roles will likely become much tougher.",
-      "context": "Tech giants are cutting staff to shift resources toward AI development.",
-      "next": "More companies may announce similar restructuring plans to prioritize automation.",
-      "bigger": "The workforce is undergoing a massive shift toward AI-centric operations.",
-      "publishedAt": "2026-05-20T10:39:57+05:30",
+      "score": 10,
+      "why": "Foreigners in the US may face delays opening bank accounts.",
+      "context": "A new executive order increases scrutiny on banking for non-citizens.",
+      "next": "Banks may implement stricter identity checks for international customers.",
+      "bigger": "Financial surveillance is increasingly used to control immigration.",
+      "publishedAt": "2026-05-20T16:36:59+05:30",
       "topicFingerprint": [
-        "ai_group",
-        "jobs",
-        "cuts",
-        "job",
-        "meta",
-        "singapore"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why the Iran war is a boost for stalled Russia-China gas pipeline",
-      "description": "The pipeline\u2019s full capacity equals a third of Russia\u2019s exports to Europe before the Ukraine war.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/why-the-iran-war-is-a-boost-for-stalled-russia-china-gas-pipeline",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Energy prices in Asian markets may become more predictable over time.",
-      "context": "Regional conflicts are accelerating the development of the Russia-China gas pipeline.",
-      "next": "Construction on the pipeline will likely receive increased funding and priority.",
-      "bigger": "Global energy alliances are realigning due to ongoing regional instability.",
-      "publishedAt": "2026-05-20T17:16:00+08:00",
-      "topicFingerprint": [
+        "non",
+        "increases",
+        "banking",
         "donald_trump",
-        "iran",
-        "us_entity",
-        "ai_group",
-        "war",
-        "google"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Google and Blackstone launch $5 billion AI cloud venture powered by TPU chips",
-      "description": "Google and Blackstone launch a U.S.-based AI infrastructure company powered by TPU chips to provide a compute-as-a-service platform for AI workloads.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/4afe8fbc-c080-4457-81e2-47958495236b.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 18,
-      "why": "AI tools you use may become faster and more capable.",
-      "context": "A new venture is building massive AI infrastructure using specialized Google chips.",
-      "next": "More companies will likely partner to build specialized AI compute facilities.",
-      "bigger": "The race for AI infrastructure is driving massive private capital investment.",
-      "publishedAt": "2026-05-19T22:38:06+00:00",
-      "topicFingerprint": [
-        "donald_trump",
-        "iran",
-        "us_entity",
-        "ai_group",
-        "war",
-        "google"
-      ],
-      "alternates": [
-        {
-          "title": "Google, Blackstone to create AI cloud firm with in-house chips",
-          "description": "The move adds to a boom in spending on computing infrastructure, which underpins AI models and services.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/google-blackstone-to-create-ai-cloud-firm-with-in-house-chips",
-          "category": "Technology",
-          "publishedAt": "2026-05-19T10:57:46+08:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "donald_trump",
-            "iran",
-            "us_entity",
-            "ai_group",
-            "war",
-            "google"
-          ],
-          "group_id": 5
-        }
-      ]
-    },
-    {
-      "title": "Latest news on Ebola outbreak as experts warn about misinformation online",
-      "description": "The U.S. has activated an Ebola virus task force to help in Africa, where a deadly outbreak has raised concerns worldwide. CBS News' Dr. Celine Gounder joins with more details and a warning about misinformation.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/latest-news-on-ebola-outbreak-as-experts-warn-about-misinformation-online/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Travel advisories and health screening delays may become more frequent.",
-      "context": "A deadly Ebola outbreak has triggered a new task force in Africa.",
-      "next": "Public health agencies will likely increase monitoring of online health claims.",
-      "bigger": "Controlling the rapid spread of misinformation is becoming a health priority.",
-      "publishedAt": "2026-05-20T11:31:21-04:00",
-      "topicFingerprint": [
-        "ebola",
-        "outbreak",
-        "who_entity",
-        "congo",
-        "regional"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Battles to shrink the Federal Reserve's balance sheet begin",
-      "description": "Data: Federal Reserve; Chart: Neil Irwin/Axios Incoming Federal Reserve chief Kevin Warsh's ambition to shrink the central bank's multitrillion-dollar bond portfolio may quickly run into hard limits. Why it matters: For nearly two decades, the Fed's ability to flood markets with liquidity has been a",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/20/warsh-federal-reserve-balance-sheet",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Borrowing costs for mortgages and loans may stay high longer.",
-      "context": "The new Federal Reserve leadership is attempting to reduce bond holdings.",
-      "next": "Financial markets could see volatility as liquidity is pulled back.",
-      "bigger": "Central banks are ending years of loose monetary policy.",
-      "publishedAt": "2026-05-20T16:02:21+00:00",
-      "topicFingerprint": [
-        "balance",
-        "battles",
-        "sheet",
-        "shrink",
-        "begin"
+        "citizens"
       ],
       "alternates": []
     },
@@ -265,83 +139,40 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "Prices for imported consumer goods may become more stable.",
-      "context": "China is showing flexibility regarding U.S. trade tariffs during negotiations.",
-      "next": "Further rounds of trade talks could lead to reduced tariff rates.",
-      "bigger": "Major economies are prioritizing trade stability to support growth.",
+      "why": "Importers of Chinese goods may face slightly higher costs.",
+      "context": "China indicated willingness to accept some US tariff increases.",
+      "next": "Both nations may reach a broader trade agreement soon.",
+      "bigger": "Global trade relations are shifting toward managed economic competition.",
       "publishedAt": "2026-05-20T11:24:35+00:00",
       "topicFingerprint": [
+        "signals",
+        "some",
         "accept",
         "tariff",
-        "some",
-        "increase",
-        "signals"
+        "increase"
       ],
       "alternates": []
     },
     {
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "description": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
+      "title": "Digital bottleneck: How Iran wants to use internet access as leverage in the war",
+      "description": "Tehran is floating the idea of charging the world\u2019s largest tech companies \u2013 including Google, Meta, Microsoft and Amazon \u2013 for using the undersea internet cables crossing the Strait of Hormuz in a new attempt to exploit its control over the critical waterway to ratchet up economic pressure on the W",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260520-digital-bottleneck-how-iran-wants-to-use-internet-access-for-leverage-in-the-war",
       "category": "Economy",
       "readingTime": 2,
-      "score": 11,
-      "why": "Regional travel or shipping routes may face minor monitoring disruptions.",
-      "context": "U.S. reconnaissance aircraft are conducting frequent flights near Cuban territory.",
-      "next": "Diplomatic tensions between the two nations could escalate further.",
-      "bigger": "Military posturing is increasing in key geopolitical flashpoints.",
-      "publishedAt": "2026-05-20T15:36:03+00:00",
+      "score": 22,
+      "why": "Your online services could suffer slower speeds or outages.",
+      "context": "Iran proposed charging major tech companies for undersea cable usage.",
+      "next": "Tech giants may reroute data traffic around the region.",
+      "bigger": "Critical digital infrastructure is becoming a primary geopolitical weapon.",
+      "publishedAt": "2026-05-20T19:18:46+00:00",
       "topicFingerprint": [
-        "jets",
-        "drones",
-        "rise",
-        "cuba",
-        "near"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Climate finance in Asia shifting beyond emission cuts to resilience and energy security, say bank execs",
-      "description": "Speaking to CNA at Ecosperity Week 2026, bank executives said growing climate shocks, energy demand and grid pressures are reshaping investment priorities across the region.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/singapore/ecosperity-week-2026-climate-finance-dbs-hsbc-6131626",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Your utility bills may rise as regional energy grids are upgraded.",
-      "context": "Investors are prioritizing grid reliability and climate resilience over simple decarbonization.",
-      "next": "Infrastructure projects will increasingly focus on extreme weather survival.",
-      "bigger": "The approach to climate change is becoming more pragmatic and defensive.",
-      "publishedAt": "2026-05-20T16:01:34+08:00",
-      "topicFingerprint": [
-        "climate",
-        "resilience",
-        "emission",
-        "asia",
-        "energy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump's new order increases scrutiny on non-citizens' banking activities",
-      "description": "President Trump's latest executive order increases scrutiny of non-citizens' banking activities without enforcing citizenship data collection.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/trumps-new-order-increases-scrutiny-on-non-citizens-banking-activities-101779275035418.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Non-citizens may face longer processing times for banking services.",
-      "context": "New rules require banks to increase monitoring of non-citizen financial transactions.",
-      "next": "Financial institutions will likely implement stricter identity verification software.",
-      "bigger": "Banking regulations are increasingly being used for immigration enforcement.",
-      "publishedAt": "2026-05-20T16:36:59+05:30",
-      "topicFingerprint": [
+        "us_entity",
         "donald_trump",
-        "activities",
-        "non",
-        "citizens",
-        "order"
+        "iran",
+        "war",
+        "china_entity",
+        "oil"
       ],
       "alternates": []
     },
@@ -353,17 +184,305 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 6,
-      "why": "More affordable electric vehicles may remain available in your region.",
-      "context": "BYD is launching its own cargo ships to secure international delivery routes.",
-      "next": "Other major manufacturers might start building their own dedicated shipping fleets.",
-      "bigger": "Companies are taking direct control of logistics to bypass trade barriers.",
+      "why": "Affordable electric vehicles may remain accessible in your market.",
+      "context": "BYD launched its own shipping fleet to deliver electric vehicles.",
+      "next": "Other major manufacturers may buy their own cargo ships.",
+      "bigger": "Global supply chains are becoming more vertically integrated.",
       "publishedAt": "2026-05-20T08:05:23+05:30",
       "topicFingerprint": [
-        "bypass",
+        "tariffs",
         "exports",
         "car",
-        "carrier",
-        "own"
+        "own",
+        "sustain"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "STAT+: Kennedy fires two leaders on preventive services task force",
+      "description": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Your health insurance plan may change its covered benefits.",
+      "context": "Two leaders of a key health advisory panel were dismissed.",
+      "next": "The administration may appoint more conservative medical advisors.",
+      "bigger": "Public health policy is becoming increasingly politicized.",
+      "publishedAt": "2026-05-20T16:44:42+00:00",
+      "topicFingerprint": [
+        "services",
+        "force",
+        "fires",
+        "task",
+        "preventive"
+      ],
+      "alternates": [
+        {
+          "title": "Kennedy fires heads of task force that sets insurance coverage rules",
+          "description": "Health Secretary Robert F. Kennedy Jr. fired the co-chairs of the U.S. Preventive Services Task Force last week. Why it matters: The move could open the task force up to more political influence. It comes as the administration prepares to vet new applicants to the committee, a process in which the c",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/05/20/kennedy-fires-heads-of-task-force-that-sets-insurance-coverage-rules",
+          "category": "Health",
+          "publishedAt": "2026-05-20T16:27:11+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "services",
+            "force",
+            "fires",
+            "task",
+            "preventive"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Putin and Xi hail their friendship and growing energy trade at their meeting in Beijing",
+      "description": "Chinese leader Xi Jinping and Russian President Vladimir Putin hailed their strategic ties and growing energy trade as they met in Beijing Wednesday only days after a visit by U.S. President Donald Trump to China.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/putin-and-xi-hail-their-friendship-and-growing-energy-trade-at-their-meeting-in-beijing",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Global energy supply routes may permanently shift toward Asia.",
+      "context": "The leaders of China and Russia celebrated stronger economic ties.",
+      "next": "Western nations may impose secondary sanctions on Chinese firms.",
+      "bigger": "A powerful Eastern alliance is challenging Western economic dominance.",
+      "publishedAt": "2026-05-20T16:06:59-04:00",
+      "topicFingerprint": [
+        "us_entity",
+        "donald_trump",
+        "iran",
+        "war",
+        "china_entity",
+        "oil"
+      ],
+      "alternates": [
+        {
+          "title": "Xi, Putin hold talks in Beijing days after Trump's visit",
+          "description": "Xi Jinping and Vladimir Putin deepen China Russia ties in Beijing talks on Iran, the Ukraine war and trade, highlighting a growing strategic partnership.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/xi-putin-hold-talks-in-beijing-days-after-trump-visit-ws-el-19909620.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-20T10:04:58+05:30",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "Putin and Xi hail their high-level ties and growing energy trade as they meet in Beijing",
+          "description": "Chinese leader Xi Jinping and Russian President Vladimir Putin have hailed their strategic ties and energy trade during a meeting in Beijing",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/xi-putin-meet-reaffirm-china-russia-ties-days-133138458",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-20T07:21:57-04:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "Substance for Putin, \u2018face\u2019 for Trump: China, Russia deepen alliance to counter US",
+          "description": "Days after US President Donald Trump\u2019s visit framed around managing risks, Chinese President Xi Jinping and Russian President Vladimir Putin reached a raft of agreements and pledged deeper cooperation as they met in Beijing. An analyst in China captured the stark contrast between the two visits as a",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354282/substance-putin-face-trump-china-russia-deepen-alliance-counter-us",
+          "category": "General",
+          "publishedAt": "2026-05-20T15:34:59+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "Taiwan was front and center during Trump's China trip \u2014 but absent from Xi\u2019s meeting with Putin",
+          "description": "The meetings between China's Xi Jinping and his U.S. and Russian counterparts came just days apart, but there was a stark contrast in tone and content.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/20/taiwan-was-central-in-xis-meeting-with-trump-but-not-with-putin.html",
+          "category": "General",
+          "publishedAt": "2026-05-20T12:32:16+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "What\u2019s the significance of the Russian president\u2019s visit to China?",
+          "description": "Xi Jinping hosts Vladimir Putin a week after Donald Trump was in Beijing.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china",
+          "category": "General",
+          "publishedAt": "2026-05-20T19:29:17+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "Russian President Putin meets with China's Xi Jinping, days after Trump's visit",
+          "description": "President Vladimir Putin is in Beijing for talks with President Xi Jinping, in a closely watched visit that comes just days after President Trump's high-profile trip to China.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/05/20/nx-s1-5826921/russian-president-putin-meets-with-chinas-xi-jinping-days-after-trumps-visit",
+          "category": "General",
+          "publishedAt": "2026-05-20T04:48:14-04:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        },
+        {
+          "title": "Putin meets Xi in Beijing: Key takeaways from the China-Russia talks and why they matter",
+          "description": "Russian President Vladimir Putin is currently in Beijing for high-level talks with Chinese President Xi Jinping, in a closely watched visit that comes amid rising tensions between major global powers. The meeting is being seen as a strong signal that ties between China and Russia remain firmly in pl",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/photos/world/putin-meets-xi-in-beijing-key-takeaways-from-the-china-russia-talks-and-why-they-matter-19910134.htm",
+          "category": "General",
+          "publishedAt": "2026-05-20T17:42:05+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "china_entity",
+            "oil"
+          ],
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "title": "Germany arrests married couple on China spying charges",
+      "description": "The couple allegedly established contacts with academics at German research institutions.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/germany-arrests-married-couple-on-china-spying-charges",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Academic institutions may face stricter screening of foreign researchers.",
+      "context": "German authorities arrested two people suspected of spying for China.",
+      "next": "Germany may tighten its security protocols for scientific partnerships.",
+      "bigger": "Industrial espionage is severely straining international research collaboration.",
+      "publishedAt": "2026-05-20T20:47:00+08:00",
+      "topicFingerprint": [
+        "germany",
+        "german",
+        "institutions",
+        "research",
+        "seeks"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Tech private equity is \"frozen\"",
+      "description": "A top tech banker tells Axios that tech buyouts are \"frozen,\" and the data largely backs him up. By the numbers: There's been a total of just $9.3 billion of global tech buyout value in April and May 2026 combined, according to PitchBook. That compares to $52.6 billion in March alone, and a monthly ",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/20/tech-private-equity-frozen",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Tech startups may struggle to find buyers or funding.",
+      "context": "Private equity buyouts of technology firms have dropped significantly.",
+      "next": "Tech companies may cut costs to survive without external funding.",
+      "bigger": "High interest rates are dampening aggressive corporate acquisitions.",
+      "publishedAt": "2026-05-20T15:22:41+00:00",
+      "topicFingerprint": [
+        "tech",
+        "equity",
+        "frozen",
+        "private"
+      ],
+      "alternates": []
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Japan rocked by 5.9-magnitude earthquake, no tsunami warning issued",
+      "description": "The quake caused strong shaking in southwestern Japan, but there were no immediate reports of damage or injuries. Authorities reported no tsunami warning, damage or injuries so far.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/japan-earthquake-kagoshima-amami-islands-tsunami-warning-latest-japan-quake-news-ws-l-19909553.htm",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Travel and local transport in Japan may face minor delays.",
+      "context": "A moderate earthquake struck southwestern Japan without causing major damage.",
+      "next": "Local authorities will inspect infrastructure for hidden structural damage.",
+      "bigger": "Pacific nations are constantly refining their disaster response systems.",
+      "publishedAt": "2026-05-20T08:32:12+05:30",
+      "topicFingerprint": [
+        "magnitude",
+        "tsunami",
+        "issued",
+        "earthquake",
+        "warning"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "CEOs get more demanding as AI threatens job security in top companies; A look at the job market in 2026",
+      "description": "CEOs of top companies demand more from employees or face the risk of being pushed out by new technologies",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/ceos-get-more-demanding-as-ai-threatens-job-security-in-top-companies-a-look-at-the-job-market-in-2026-101779280256160.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Your workplace performance expectations may increase significantly soon.",
+      "context": "Executives are raising performance expectations as AI tools automate tasks.",
+      "next": "Companies may tie promotion opportunities to AI proficiency.",
+      "bigger": "Artificial intelligence is rapidly redefining the standards of corporate employment.",
+      "publishedAt": "2026-05-20T20:04:39+05:30",
+      "topicFingerprint": [
+        "ai_group",
+        "cuts",
+        "meta",
+        "jobs",
+        "job",
+        "staff"
       ],
       "alternates": []
     },
@@ -375,63 +494,61 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 12,
-      "why": "Your access to certain international research or collaborative tech may change.",
-      "context": "China and Russia are strengthening scientific cooperation to counter isolation.",
-      "next": "Global scientific journals may see a shift in the origin of publications.",
-      "bigger": "Geopolitics is creating competing blocs in global scientific research.",
+      "why": "International research grants and opportunities may become more divided.",
+      "context": "China and Russia are collaborating to advance their scientific development.",
+      "next": "Western universities may restrict research sharing with these nations.",
+      "bigger": "Scientific innovation is splitting into competing geopolitical blocs.",
       "publishedAt": "2026-05-20T10:11:04+00:00",
       "topicFingerprint": [
         "centre",
-        "science",
+        "team",
         "shift",
-        "gravity",
-        "team"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Supreme Court rulings loom in four major Trump-related cases",
-      "description": "WASHINGTON, May 20 - President Donald Trump was incensed on February 20 when the U.S. Supreme Court struck down his sweeping global tariffs, an integral part of his economic and foreign policy strategy. That may not be the last disappointment for Trump during the court's current term.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/supreme-court-rulings-loom-in-four-major-trump-related-cases",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 20,
-      "why": "Regulations on trade and policy could shift suddenly following decisions.",
-      "context": "Several high-stakes court cases involving former President Trump are awaiting rulings.",
-      "next": "Major political and economic shifts may occur depending on court outcomes.",
-      "bigger": "The judiciary is playing an increasingly direct role in shaping policy.",
-      "publishedAt": "2026-05-20T18:04:31+08:00",
-      "topicFingerprint": [
-        "supreme",
-        "donald_trump",
-        "major",
-        "rulings",
-        "cases"
+        "science",
+        "gravity"
       ],
       "alternates": []
     },
     {
-      "title": "Japan rocked by 5.9-magnitude earthquake, no tsunami warning issued",
-      "description": "The quake caused strong shaking in southwestern Japan, but there were no immediate reports of damage or injuries. Authorities reported no tsunami warning, damage or injuries so far.",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/japan-earthquake-kagoshima-amami-islands-tsunami-warning-latest-japan-quake-news-ws-l-19909553.htm",
-      "category": "Environment",
+      "title": "US military jets and drones tracked near Cuba as tensions rise",
+      "description": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 14,
-      "why": "Local travel and logistics may face temporary but minor delays.",
-      "context": "A strong earthquake hit southwestern Japan without causing significant damage.",
-      "next": "Emergency services will likely conduct standard safety inspections across the area.",
-      "bigger": "Seismic activity remains a constant risk factor in Pacific regions.",
-      "publishedAt": "2026-05-20T08:32:12+05:30",
+      "score": 11,
+      "why": "Regional flight paths and shipping routes may face disruptions.",
+      "context": "The US military increased aerial surveillance flights near Cuba.",
+      "next": "Cuba may increase its own military readiness in response.",
+      "bigger": "Cold War rivalries are resurfacing in the Caribbean region.",
+      "publishedAt": "2026-05-20T15:36:03+00:00",
       "topicFingerprint": [
-        "issued",
-        "tsunami",
-        "magnitude",
-        "earthquake",
-        "warning"
+        "cuba",
+        "jets",
+        "drones",
+        "tracked",
+        "military"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Bezos says bottom half of U.S. earners should pay no federal income tax",
+      "description": "The Amazon founder said eliminating taxes for lower-income Americans could ease financial pressure and encourage entrepreneurship.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/jeff-bezos-zero-federal-income-tax-lower-earners/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Low-wage workers in the US could see higher take-home pay.",
+      "context": "Jeff Bezos proposed eliminating federal income tax for lower-income Americans.",
+      "next": "Lawmakers may debate potential reforms to the tax code.",
+      "bigger": "Rising wealth inequality is driving debate over tax reform.",
+      "publishedAt": "2026-05-20T13:23:00-04:00",
+      "topicFingerprint": [
+        "tax",
+        "bezos",
+        "earners",
+        "half",
+        "bottom"
       ],
       "alternates": []
     },
@@ -443,17 +560,40 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 11,
-      "why": "You may see fewer service improvements or wage hikes in affected sectors.",
-      "context": "A new report details the massive spending by companies to discourage unionization.",
-      "next": "Labor regulators may face increased pressure to investigate union-avoidance practices.",
-      "bigger": "The divide between management and labor remains a significant economic trend.",
+      "why": "Your workplace benefits and wage negotiations may remain difficult.",
+      "context": "US companies are spending heavily to prevent workers from unionizing.",
+      "next": "Labor organizers may target businesses with more aggressive campaigns.",
+      "bigger": "The struggle between corporate management and labor rights is intensifying.",
       "publishedAt": "2026-05-20T14:00:44+00:00",
       "topicFingerprint": [
-        "labor",
-        "employers",
-        "finds",
         "15bn",
-        "spend"
+        "employers",
+        "unions",
+        "fight",
+        "finds"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nvidia's post-earnings gains may hinge on sales to China. Here's why",
+      "description": "CEO Jensen Huang, who traveled last week to Beijing with President Trump this month, said Monday he believes the Chinese market will reopen to Nvidia.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/20/nvidias-post-earnings-gains-may-hinge-on-sales-to-china-heres-why.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Investors in tech stocks may experience high market volatility.",
+      "context": "Nvidia's stock growth depends heavily on resuming trade with China.",
+      "next": "Nvidia may design specialized chips to bypass US trade bans.",
+      "bigger": "Tech companies are struggling to navigate rising geopolitical trade barriers.",
+      "publishedAt": "2026-05-20T17:43:47+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "google",
+        "search",
+        "gemini",
+        "ceo",
+        "powered"
       ],
       "alternates": []
     },
@@ -465,83 +605,39 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "The banking apps you use in Southeast Asia may change features.",
-      "context": "Grab is restructuring its financial services arm by consolidating regional banking stakes.",
-      "next": "Other digital platforms will likely seek similar consolidation for better efficiency.",
-      "bigger": "Digital platforms are aggressively moving into traditional banking services.",
+      "why": "Southeast Asian consumers may gain access to more digital loans.",
+      "context": "Grab restructured its Indonesian digital banking assets to streamline services.",
+      "next": "Rival tech platforms may consolidate their own financial operations.",
+      "bigger": "Mobile apps are quickly replacing traditional banks in emerging markets.",
       "publishedAt": "2026-05-20T10:09:26+00:00",
       "topicFingerprint": [
-        "financial",
         "transfers",
-        "consolidate",
         "singtel",
-        "superbank"
+        "indonesia",
+        "services",
+        "segment"
       ],
       "alternates": []
     },
     {
-      "title": "London\u2019s Global Healthcare Opportunities and Singapore-based CBC Group to merge creating investment giant: FT",
-      "description": "The merger is expected to create a US$21 billion investor employing more than 200 professionals globally",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/londons-global-healthcare-opportunities-and-singapore-based-cbc-group-merge-creating-investment",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Specialized medical treatments or equipment could see faster innovation funding.",
-      "context": "Two major healthcare investment groups are merging to form a multibillion-dollar entity.",
-      "next": "More healthcare-focused mergers are likely to follow as costs rise.",
-      "bigger": "Consolidation in the healthcare sector is accelerating globally.",
-      "publishedAt": "2026-05-20T06:20:59+00:00",
-      "topicFingerprint": [
-        "creating",
-        "singapore",
-        "healthcare",
-        "opportunities",
-        "merge"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "QIZ Security teams up with Google Cloud to help enterprises brace for the quantum cryptography threat",
-      "description": "The race to protect sensitive data from future quantum computers just gained fresh momentum. QIZ Security, a cryptographic posture management startup, has announced a collaboration with Google Cloud designed to help enterprises accelerate their migration to quantum-resistant cryptography, a shift th",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/qiz-security-teams-up-with-google-cloud-to-help-enterprises-brace-for-the-quantum-cryptography-threat",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Your sensitive online data will likely become more secure against breaches.",
-      "context": "A security firm and Google are partnering to protect data from future quantum computing.",
-      "next": "Companies will start updating encryption standards to remain quantum-resistant.",
-      "bigger": "The threat of quantum-powered cyberattacks is driving rapid security upgrades.",
-      "publishedAt": "2026-05-20T12:53:10+00:00",
-      "topicFingerprint": [
-        "brace",
-        "threat",
-        "enterprises",
-        "security",
-        "google"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The Supreme Court just handed down two surprisingly timid Voting Rights Act decisions",
-      "description": "On Monday, the Supreme Court decided not to thrust another dagger into the nearly lifeless corpse of the Voting Rights Act. The Voting Rights Act of 1965 is arguably the most successful civil rights law in American history. Before the Roberts Court began to dismantle it, the VRA included a web of pr",
-      "source": "VOX",
-      "url": "https://www.vox.com/politics/489134/supreme-court-voting-rights-act-mostly-dead",
+      "title": "Colombian presidential candidate Valencia vows end to 'total peace' policy, will be tougher on security",
+      "description": "BOGOTA, May 20 - Colombian presidential candidate Paloma Valencia said she would scrap the government's \u201ctotal peace\u201d policy and pursue a tougher security strategy against armed groups if elected, marking a sharp shift from leftist President Gustavo Petro's approach.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/colombian-presidential-candidate-valencia-vows-end-to-total-peace-policy-will-be-tougher-on-security",
       "category": "Policy",
       "readingTime": 2,
       "score": 9,
-      "why": "Election administration rules in your area will likely remain unchanged.",
-      "context": "The Supreme Court issued limited rulings regarding the Voting Rights Act of 1965.",
-      "next": "Legal advocates will continue to challenge voting laws in lower courts.",
-      "bigger": "Debates over voting access remain a central focus of legal challenges.",
-      "publishedAt": "2026-05-19T20:05:00+00:00",
+      "why": "Businesses in Colombia may face increased security risks.",
+      "context": "A Colombian candidate promised a harsher military approach to rebels.",
+      "next": "Clashes between the military and armed groups could escalate.",
+      "bigger": "Latin American politics is swinging back toward hardline security policies.",
+      "publishedAt": "2026-05-20T21:04:15+08:00",
       "topicFingerprint": [
-        "supreme",
-        "handed",
-        "timid",
-        "rights",
-        "voting"
+        "total",
+        "tougher",
+        "colombian",
+        "vows",
+        "valencia"
       ],
       "alternates": []
     },
@@ -553,14 +649,14 @@
       "category": "Health",
       "readingTime": 2,
       "score": 9,
-      "why": "Public health responses to crises like Ebola may experience delays.",
-      "context": "Several US health agencies are facing leadership shortages and budget cuts.",
-      "next": "Government health initiatives may struggle to maintain consistent operations.",
-      "bigger": "Administrative instability is complicating national health and safety management.",
+      "why": "Approval of new medical treatments and drugs could face delays.",
+      "context": "Vacant leadership roles are hindering US medical research agencies.",
+      "next": "The government may struggle to quickly contain future disease outbreaks.",
+      "bigger": "Political division is weakening the operations of federal health agencies.",
       "publishedAt": "2026-05-20T11:54:38+00:00",
       "topicFingerprint": [
-        "leadership",
         "vacuum",
+        "leadership",
         "nih"
       ],
       "alternates": []
@@ -573,61 +669,17 @@
       "category": "General",
       "readingTime": 2,
       "score": 9,
-      "why": "The price of your electronics and imported goods could increase.",
-      "context": "Western nations are intensifying efforts to reduce economic reliance on China.",
-      "next": "Businesses will likely continue moving production hubs to alternative countries.",
-      "bigger": "Global supply chains are fracturing into more localized, politically aligned blocks.",
+      "why": "Consumer goods and electronics may become more expensive.",
+      "context": "Western nations are reducing their economic dependence on Chinese manufacturing.",
+      "next": "Companies will likely move factories to alternative developing countries.",
+      "bigger": "The era of unrestricted global trade is coming to an end.",
       "publishedAt": "2026-05-20T15:13:51+00:00",
       "topicFingerprint": [
         "containing",
-        "west",
         "risking",
-        "china_entity",
-        "economy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Germany arrests married couple on China spying charges",
-      "description": "The couple allegedly established contacts with academics at German research institutions.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/germany-arrests-married-couple-on-china-spying-charges",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Academic collaboration and visa processes may become more strictly monitored.",
-      "context": "German authorities detained a couple accused of spying for China at research institutions.",
-      "next": "European universities may implement tighter security vetting for research projects.",
-      "bigger": "Espionage concerns are triggering a crackdown on academic and corporate ties.",
-      "publishedAt": "2026-05-20T20:47:00+08:00",
-      "topicFingerprint": [
-        "arrests",
-        "germany",
-        "charges",
-        "married",
-        "spying"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "2 humpback whales swam record-breaking distance, photos reveal",
-      "description": "The pictures represent the longest-distance ever seen between two pictures of the same humpback whale, researchers said.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/humpback-whales-record-breaking-swim-photos-study/",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Conservation policies for migratory marine life may need to be updated.",
-      "context": "Researchers tracked two humpback whales traveling an unprecedented distance across the ocean.",
-      "next": "Further tracking studies will likely be funded to understand migration patterns.",
-      "bigger": "Scientific understanding of marine migration is expanding rapidly with new data.",
-      "publishedAt": "2026-05-20T10:14:24-04:00",
-      "topicFingerprint": [
-        "humpback",
-        "breaking",
-        "record",
-        "whales",
-        "reveal"
+        "west",
+        "economy",
+        "china_entity"
       ],
       "alternates": []
     }
@@ -644,7 +696,7 @@
         "readingTime": 2,
         "publishedAt": "2026-05-20T07:17:31+00:00",
         "reason": "within_48h",
-        "score": 13,
+        "score": 12,
         "score_debug": [
           {
             "points": 2,
@@ -669,63 +721,115 @@
           {
             "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "climate",
-          "cop33",
-          "diplomacy",
+          "india",
           "withdrawal",
-          "questioned"
+          "cop33",
+          "hosting",
+          "climate"
         ]
       },
       {
-        "title": "Trump\u2019s H-1B visa squeeze paves way for Indian tech exodus",
-        "description": "For generations of Indian tech workers, the H-1B visa has been a golden ticket, turning ambitious engineers from Hyderabad and Bengaluru into Silicon Valley professionals, as it transformed Indian IT firms into global powerhouses. Now, a Trump administration proposal to sharply raise the minimum sal",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/people/article/3354237/trumps-h-1b-visa-squeeze-paves-way-indian-tech-exodus",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Technology",
+        "title": "Nirmala Sitharaman meets US Ambassador Sergio Gor; India-US economic ties, fintech partnership discussed",
+        "description": "Finance Minister Nirmala Sitharaman on Wednesday met US Ambassador to India Sergio Gor, and both had discussions on deepening India-US Economic and Financial Partnership.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/fm-meets-us-ambassador-discusses-deepening-india-us-economic-financial-ties-ws-l-19910373.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T10:00:18+00:00",
+        "publishedAt": "2026-05-21T00:39:59+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: finance"
           },
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
+            "points": -4,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "indian",
-          "donald_trump",
-          "squeeze",
-          "paves",
-          "visa"
+          "sergio",
+          "india",
+          "partnership",
+          "meets",
+          "fintech"
         ]
       }
     ],
     "china": [
+      {
+        "title": "\u2018Phantom limb\u2019: report blames China shock for Germany\u2019s industrial malaise",
+        "description": "Germany has been warned that a \u201cChina shock\u201d to its trade economy is the biggest driver of its industrial slump, in a new report that urges Berlin to throw its weight behind stronger EU measures against Beijing. Much soul-searching has been under way in Berlin over recent years, with the German gove",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3354265/phantom-limb-report-blames-china-shock-germanys-industrial-malaise",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-20T12:00:15+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 16,
+        "alternates": [],
+        "topicFingerprint": [
+          "us_entity",
+          "donald_trump",
+          "iran",
+          "war",
+          "china_entity",
+          "oil"
+        ]
+      },
       {
         "title": "Chinese investment in Europe surges to 7-year high despite rising trade tensions",
         "description": "Chinese investment in Europe hit a seven-year high of \u20ac16.8 billion (US$19.5 billion) in 2025, driven by a strong rebound in mergers and acquisitions (M A) and record greenfield completions, a new report has found. But the annual study, published on Tuesday by Rhodium Group and the Mercator Institut",
@@ -736,7 +840,7 @@
         "readingTime": 2,
         "publishedAt": "2026-05-20T09:04:18+00:00",
         "reason": "within_48h",
-        "score": 10,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
@@ -753,45 +857,175 @@
           {
             "points": 1,
             "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
           "investment",
-          "eu_entity",
-          "tensions",
           "rising",
+          "trade",
+          "eu_entity",
           "surges"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "\u2018Phantom limb\u2019: report blames China shock for Germany\u2019s industrial malaise",
+        "description": "Germany has been warned that a \u201cChina shock\u201d to its trade economy is the biggest driver of its industrial slump, in a new report that urges Berlin to throw its weight behind stronger EU measures against Beijing. Much soul-searching has been under way in Berlin over recent years, with the German gove",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3354265/phantom-limb-report-blames-china-shock-germanys-industrial-malaise",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-20T12:00:15+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 16,
+        "alternates": [],
+        "topicFingerprint": [
+          "us_entity",
+          "donald_trump",
+          "iran",
+          "war",
+          "china_entity",
+          "oil"
         ]
       },
       {
-        "title": "Hong Kong targets July launch for new gold-clearing system",
-        "description": "The government-owned mechanism will mirror the financial infrastructure used in London",
+        "title": "Whale to be removed from Danish island after failed German rescue",
+        "description": "Danish officials will conduct a post mortem examination on the whale, which was released into the sea from a barge more than two weeks ago.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62xrkre9vzo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-20T16:07:24+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "danish",
+          "german",
+          "removed",
+          "failed",
+          "whale"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Singapore economy can overcome tariff and war risks as global trade continues to grow",
+        "description": "Asian economies likely to experience a trade boom as investments in manufacturing surge, analysts say.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/singapore-economy-may-overcome-tariff-and-war-risks-as-global-trade-continues-to-grow",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-21T05:00:00+08:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariff"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: say"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "trade",
+          "overcome",
+          "singapore",
+          "tariff",
+          "war"
+        ]
+      },
+      {
+        "title": "London\u2019s Global Healthcare Opportunities and Singapore-based CBC Group to merge creating investment giant: FT",
+        "description": "The merger is expected to create a US$21 billion investor employing more than 200 professionals globally",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/international/global/hong-kong-targets-july-launch-new-gold-clearing-system",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/londons-global-healthcare-opportunities-and-singapore-based-cbc-group-merge-creating-investment",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T04:14:30+00:00",
+        "publishedAt": "2026-05-20T06:20:59+00:00",
         "reason": "within_48h",
         "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: financial"
+            "reason": "important keyword match: investment"
           },
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: global"
           },
           {
             "points": 2,
-            "reason": "important keyword match: infrastructure"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -805,11 +1039,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "targets",
-          "system",
-          "gold",
-          "hong",
-          "clearing"
+          "cbc",
+          "investment",
+          "healthcare",
+          "opportunities",
+          "london"
         ]
       }
     ],
@@ -850,32 +1084,36 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "historic",
-          "states",
-          "gulf",
+          "trade",
           "uk_entity",
-          "trade"
+          "gulf",
+          "states",
+          "historic"
         ]
       },
       {
-        "title": "Sembcorp, Digital Reef announce phase 1 of 280 MW UK data centre",
-        "description": "The project is expected to begin construction this year at Wilton, a leading industrial site",
+        "title": "London\u2019s Global Healthcare Opportunities and Singapore-based CBC Group to merge creating investment giant: FT",
+        "description": "The merger is expected to create a US$21 billion investor employing more than 200 professionals globally",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/sembcorp-digital-reef-announce-phase-1-280-mw-uk-data-centre",
+        "url": "https://www.businesstimes.com.sg/companies-markets/consumer-healthcare/londons-global-healthcare-opportunities-and-singapore-based-cbc-group-merge-creating-investment",
         "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Technology",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-19T14:15:01+00:00",
+        "publishedAt": "2026-05-20T06:20:59+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: data"
+            "reason": "important keyword match: investment"
           },
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -884,35 +1122,31 @@
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "data",
-          "centre",
-          "digital",
-          "sembcorp",
-          "reef"
+          "cbc",
+          "investment",
+          "healthcare",
+          "opportunities",
+          "london"
         ]
       }
     ],
-    "singapore": [
+    "united_states": [
       {
-        "title": "Singapore tops Indonesia as biggest South-east Asian stock market",
-        "description": "Singapore stocks have benefited from economic and political stability, and govt-led market reforms.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/singapore-tops-indonesia-as-biggest-south-east-asian-stock-market",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "title": "Global EV market goes K-shaped as the US gets left behind",
+        "description": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+        "fromUrl": "https://techcrunch.com/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T09:38:00+08:00",
+        "publishedAt": "2026-05-20T17:34:00+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
@@ -920,83 +1154,80 @@
           },
           {
             "points": 2,
+            "reason": "important keyword match: worldwide"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
             "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "asian",
-          "south",
-          "biggest",
-          "tops"
+          "goes",
+          "behind",
+          "gets",
+          "left",
+          "shaped"
         ]
       },
       {
-        "title": "Singapore stocks end lower amid downbeat regional showing; STI down 0.5%",
-        "description": "Wilmar International leads the gainers on the blue-chip index, rising 2.2%",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-stocks-end-lower-amid-downbeat-regional-showing-sti-down-0-5",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "title": "Nirmala Sitharaman meets US Ambassador Sergio Gor; India-US economic ties, fintech partnership discussed",
+        "description": "Finance Minister Nirmala Sitharaman on Wednesday met US Ambassador to India Sergio Gor, and both had discussions on deepening India-US Economic and Financial Partnership.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/fm-meets-us-ambassador-discusses-deepening-india-us-economic-financial-ties-ws-l-19910373.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T10:14:43+00:00",
+        "publishedAt": "2026-05-21T00:39:59+05:30",
         "reason": "within_48h",
-        "score": 6,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: chip"
+            "reason": "important keyword match: finance"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
+            "points": -4,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Singapore stocks end lower amid downbeat regional showing; STI down 0.5%",
-            "description": "The benchmark Straits Times Index lost 27.43 points to finish at 5,044.91.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/companies-markets/singapore-stocks-end-lower-amid-downbeat-regional-showing-sti-down-0-5",
-            "category": "Financial",
-            "publishedAt": "2026-05-20T18:50:00+08:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "singapore",
-              "downbeat",
-              "index",
-              "lower",
-              "regional"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "downbeat",
-          "index",
-          "lower",
-          "regional"
+          "sergio",
+          "india",
+          "partnership",
+          "meets",
+          "fintech"
         ]
       }
     ],
@@ -1023,17 +1254,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "joint",
+          "defies",
           "space",
+          "earthly",
           "eu_entity",
-          "smile",
-          "defies"
+          "smile"
         ]
       },
       {
@@ -1060,85 +1291,34 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rare",
           "stockpile",
-          "tungsten",
-          "picks",
-          "eu_entity"
+          "gallium",
+          "critical",
+          "earths",
+          "rare"
         ]
       }
     ],
-    "united_states": [
+    "brazil": [
       {
-        "title": "US to cut 5,000 troops from Europe; NATO says defense posture remains strong",
-        "description": "The US is withdrawing 5,000 troops from Germany and halting deployments to Poland, though NATO says its defense posture remains strong.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/c9e1710b-ec1f-43b4-94b5-db1ed5032aff.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Geopolitics",
+        "title": "Brazil's Lula adds pressure on big techs by increasing their liability for illegal user content",
+        "description": "Brazil s President Luiz In cio Lula da Silva signed two decrees on Wednesday to add pressure on big tech companies by making them liable for illegal content shared by its users and opening way for investigations through a government body on their respo...",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/brazils-lula-adds-pressure-big-techs-increasing-liability-133161140",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-19T20:34:10+00:00",
+        "publishedAt": "2026-05-20T15:59:29-04:00",
         "reason": "within_48h",
         "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: defense"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: nato"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group in title match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "cut",
-          "posture",
-          "nato",
-          "defense",
-          "eu_entity"
-        ]
-      },
-      {
-        "title": "Trump directs expanded immigration checks through US banks: Know about impact on Indians and what should NRIs do",
-        "description": "Trump's immigration order could lead to increased scrutiny of financial records for certain immigrants, including Indians.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/uae-news/trump-directs-expanded-immigration-checks-through-us-banks-know-about-impact-on-indians-and-what-should-nris-do-101779275732927.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-20T17:55:36+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: government"
           },
           {
             "points": 2,
@@ -1152,11 +1332,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "indians",
-          "donald_trump",
-          "through",
-          "know",
-          "checks"
+          "lula",
+          "brazil",
+          "user",
+          "pressure",
+          "adds"
         ]
       }
     ],
@@ -1183,17 +1363,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ways",
           "pros",
-          "japanese",
+          "playing",
           "trading",
-          "playing"
+          "ways",
+          "manager"
         ]
       },
       {
@@ -1224,87 +1404,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rare",
           "partly",
+          "rare",
+          "feels",
           "squeeze",
-          "earth",
-          "exports"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Germany\u2019s far-right AfD goes local to woo voters as Merz struggles",
-        "description": "Across Europe, mainstream parties have lost ground to formations such as the AfD.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/as-merz-struggles-germanys-far-right-afd-goes-local-to-woo-voters",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-05-20T16:04:12+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "woo",
-          "far",
-          "local",
-          "goes",
-          "afd"
-        ]
-      },
-      {
-        "title": "Germany seeks to make defence procurement agency more agile",
-        "description": "BERLIN, May 20 - Germany is reorganizing its defence procurement agency to make the system more flexible and responsive, the defence ministry said on Wednesday as it moves ahead with the overhaul of its armed forces after decades of underinvestment.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/germany-seeks-to-make-defence-procurement-agency-more-agile",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-21T00:39:20+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "seeks",
-          "germany",
-          "procurement",
-          "agency",
-          "defence"
+          "only"
         ]
       }
     ],
@@ -1335,16 +1439,16 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ties",
-          "treaty",
           "prepare",
           "foster",
+          "france",
+          "ties",
           "morocco"
         ]
       }
@@ -1390,11 +1494,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "apple",
-          "ambitions",
           "uk",
-          "hit",
-          "roadblock"
+          "italy",
+          "apple",
+          "sky",
+          "rights"
         ]
       }
     ]
