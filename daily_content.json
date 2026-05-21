@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T02:38:53.326364",
+  "updatedAt": "2026-05-21T06:08:06.975207",
   "insight": {
     "title": "Starlings Coordinate Vast Flocks Using Only Seven Neighbors",
     "subtitle": "Thousands of birds fly as a single, fluid wave without a leader, guided by a simple mathematical rule.",
@@ -25,26 +25,69 @@
   },
   "news": [
     {
-      "title": "U.S. cuts Europe troops; planning to reduce commitment to NATO during crises",
-      "description": "The U.S. is withdrawing thousands of troops from Europe and reducing NATO capabilities, pressing European allies to assume greater responsibility for defense.",
+      "title": "U.S. plans to cut troops in Europe and reduce commitment to NATO",
+      "description": "The US plans to cut troops in Europe and reduce NATO commitments under President Trump's \"America first\" agenda, shifting security responsibility to Europe.",
       "source": "Frontpage",
       "url": "https://frontpage.ink/c3f93912-6861-44d2-92d6-ca60d7cf35ed.html",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "European nations may face higher domestic defense costs.",
-      "context": "The U.S. is withdrawing thousands of military troops from Europe.",
-      "next": "European allies will likely increase their own military budgets.",
-      "bigger": "The traditional global security alliance system is shifting.",
+      "why": "European nations may have to spend more on their own defense.",
+      "context": "The United States intends to scale back its military presence in Europe.",
+      "next": "European governments will likely debate new military spending plans.",
+      "bigger": "Global alliances are shifting toward regional self-reliance.",
       "publishedAt": "2026-05-21T00:14:49+00:00",
       "topicFingerprint": [
-        "planning",
         "eu_entity",
-        "crises",
+        "troops",
+        "plans",
         "reduce",
         "nato"
       ],
       "alternates": []
+    },
+    {
+      "title": "Stocks soar on Nvidia earnings, Samsung strike suspension",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/asia/stocks-asia-iran-strait-hormuz-nvidia-samsung-electronics-6133556",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your investment and retirement portfolios may see a value boost.",
+      "context": "Global stock markets rallied following positive tech sector developments.",
+      "next": "Tech stocks could face increased volatility in coming weeks.",
+      "bigger": "Corporate earnings continue to drive short-term market movements.",
+      "publishedAt": "2026-05-21T10:17:00+08:00",
+      "topicFingerprint": [
+        "nvidia",
+        "ai_group",
+        "chip",
+        "billion",
+        "data",
+        "profit"
+      ],
+      "alternates": [
+        {
+          "title": "Short sellers see opportunity as chip stocks rally breaks, bears hold firm into Nvidia earnings",
+          "description": "Despite a pullback across semi shares in recent sessions, traders betting against some of the industry's biggest names have shown little sign of retreating.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/20/short-sellers-see-opportunity-as-chip-stocks-rally-breaks-bears-hold-firm-into-nvidia-earnings.html",
+          "category": "Financial",
+          "publishedAt": "2026-05-20T17:10:12+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "ai_group",
+            "chip",
+            "billion",
+            "data",
+            "profit"
+          ],
+          "group_id": 14
+        }
+      ]
     },
     {
       "title": "Digital bottleneck: How Iran wants to use internet access as leverage in the war",
@@ -54,18 +97,18 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 20,
-      "why": "Your global online services may face slower speeds or higher costs.",
-      "context": "Iran plans to tax tech firms using its undersea internet cables.",
-      "next": "Tech companies may seek alternative physical routes for undersea cables.",
+      "why": "Your online services and cloud apps may experience slow connection speeds.",
+      "context": "Iran is considering charging major tech firms for undersea cable usage.",
+      "next": "Tech companies might seek alternative pathways for global data routing.",
       "bigger": "Geopolitical conflicts are increasingly threatening global digital infrastructure.",
       "publishedAt": "2026-05-20T19:18:46+00:00",
       "topicFingerprint": [
+        "iran",
+        "war",
         "us_entity",
         "donald_trump",
-        "iran",
-        "china_entity",
-        "war",
-        "oil"
+        "oil",
+        "prices"
       ],
       "alternates": []
     },
@@ -76,41 +119,61 @@
       "url": "https://www.cnbctv18.com/economy/japan-maintains-trade-surplus-for-third-straight-month-as-energy-imports-decline-ws-l-19910461.htm",
       "category": "Economy",
       "readingTime": 2,
-      "score": 28,
-      "why": "Japanese consumer goods may become more competitive globally.",
-      "context": "Japan recorded a trade surplus due to strong tech exports.",
-      "next": "The yen may strengthen against other major currencies.",
-      "bigger": "Global demand for artificial intelligence hardware remains highly robust.",
+      "score": 26,
+      "why": "Japanese products may become more price-competitive in global markets.",
+      "context": "Japan recorded another trade surplus due to lower energy import costs.",
+      "next": "Rising fuel costs could soon challenge this trade surplus.",
+      "bigger": "National trade balances remain highly vulnerable to energy market shifts.",
       "publishedAt": "2026-05-21T07:53:26+05:30",
       "topicFingerprint": [
+        "iran",
+        "war",
         "us_entity",
         "donald_trump",
-        "iran",
-        "china_entity",
-        "war",
-        "oil"
+        "oil",
+        "prices"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Japan records bigger exports and imports in April, despite oil supply concerns",
+          "description": "Japan has reported its exports soared nearly 15% in April from a year earlier as its trade remained robust despite worries over supplies of oil and gas due to the war in Iran",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/japan-records-bigger-exports-imports-april-despite-oil-133173374",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-20T23:25:33-04:00",
+          "score": 20,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "war",
+            "us_entity",
+            "donald_trump",
+            "oil",
+            "prices"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "Battles to shrink the Federal Reserve's balance sheet begin",
-      "description": "Data: Federal Reserve; Chart: Neil Irwin/Axios Incoming Federal Reserve chief Kevin Warsh's ambition to shrink the central bank's multitrillion-dollar bond portfolio may quickly run into hard limits. Why it matters: For nearly two decades, the Fed's ability to flood markets with liquidity has been a",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/20/warsh-federal-reserve-balance-sheet",
-      "category": "Financial",
+      "title": "DHS to tighten Ebola-related flight restrictions for some foreign travelers",
+      "description": "The Department of Homeland Security is set to implement new entry restrictions beginning Thursday for foreign travelers coming to the U.S. from countries at the center of the latest Ebola outbreak.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/dhs-ebola-related-flight-restrictions-foreign-travelers-coming-to-u-s/",
+      "category": "Health",
       "readingTime": 2,
-      "score": 13,
-      "why": "Your borrowing costs and mortgage rates may stay high.",
-      "context": "The Federal Reserve faces obstacles in reducing its bond portfolio.",
-      "next": "Financial markets may experience increased volatility during the transition.",
-      "bigger": "Central banks face difficult exits from long-term monetary stimulus.",
-      "publishedAt": "2026-05-20T16:02:21+00:00",
+      "score": 11,
+      "why": "Your international travel may face extra screening and longer delays.",
+      "context": "The US government is restricting entry for travelers from Ebola-affected regions.",
+      "next": "Other nations might implement similar border health checks.",
+      "bigger": "Global health scares quickly trigger stricter international border controls.",
+      "publishedAt": "2026-05-20T20:48:19-04:00",
       "topicFingerprint": [
-        "rate",
-        "fed",
-        "hike",
-        "minutes",
-        "warsh"
+        "ebola",
+        "outbreak",
+        "who_entity",
+        "congo",
+        "strain"
       ],
       "alternates": []
     },
@@ -122,14 +185,14 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "Businesses may see cheaper tariffs on transatlantic trade goods.",
-      "context": "The European Union agreed to implement a frozen U.S. trade deal.",
-      "next": "Trade volumes between both regions will likely increase.",
-      "bigger": "Western allies are prioritizing economic cooperation over trade disputes.",
+      "why": "Transatlantic shipping and trade costs may soon decrease.",
+      "context": "European lawmakers approved a delayed trade agreement with the United States.",
+      "next": "Businesses will likely start exporting goods under the new terms.",
+      "bigger": "Trade agreements remain key to stabilizing major global economies.",
       "publishedAt": "2026-05-20T10:07:13+00:00",
       "topicFingerprint": [
-        "eu_entity",
         "trade",
+        "eu_entity",
         "us_entity",
         "donald_trump",
         "tariffs"
@@ -145,11 +208,118 @@
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "eu_entity",
             "trade",
+            "eu_entity",
             "us_entity",
             "donald_trump",
             "tariffs"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "IMF concludes visit to Pakistan, discussions focus on reforms, FY27 budget and economic stability",
+      "description": "IMF mission concluded Pakistan visit, reviewing reforms and FY2027 budget, targeting 2% primary surplus and tight monetary policy.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/pakistan-imf-bailout-visit-concluded-discussions-focus-on-reforms-fy-2027-budget-economic-stability-ws-l-19910483.htm",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Pakistani citizens may face higher taxes and utility costs.",
+      "context": "International monetary officials finished evaluating economic reforms in Pakistan.",
+      "next": "The Pakistani government will likely announce strict new budget measures.",
+      "bigger": "Developing nations face tough fiscal choices to secure international funding.",
+      "publishedAt": "2026-05-21T08:27:53+05:30",
+      "topicFingerprint": [
+        "fy27",
+        "budget",
+        "imf",
+        "concludes",
+        "pakistan"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "World added more coal power in 2025 but used less coal for electricity",
+      "description": "Global coal power capacity rose in 2025 as China and India opened new plants, but worldwide coal use fell as renewable energy met demand, while the US sharply increased coal generation.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/world-added-more-coal-power-in-2025-but-used-less-coal-for-electricity-ws-l-19910417.htm",
+      "category": "General",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your electricity bills may reflect a mix of energy sources.",
+      "context": "Global coal capacity grew despite a decline in actual coal usage.",
+      "next": "Power companies will likely retire older fossil fuel plants faster.",
+      "bigger": "The global transition to clean energy is progressing unevenly.",
+      "publishedAt": "2026-05-21T07:02:05+05:30",
+      "topicFingerprint": [
+        "power",
+        "less",
+        "coal",
+        "electricity",
+        "added"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China's BYD deploys its own car carrier fleet to bypass tariffs and sustain EV exports",
+      "description": "BYD expands its private car carrier fleet to navigate geopolitical risks, cut shipping costs, and boost global EV exports amid rising tariffs and freight turmoi",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/chinas-byd-deploys-its-own-car-carrier-fleet-to-bypass-tariffs-and-sustain-ev-exports-ws-el-19909539.htm",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 3,
+      "why": "Electric cars may remain affordable despite rising international tariffs.",
+      "context": "A major electric vehicle maker launched its own shipping fleet.",
+      "next": "Other manufacturing giants might buy their own cargo ships.",
+      "bigger": "Corporations are taking direct control of global supply chains.",
+      "publishedAt": "2026-05-20T08:05:23+05:30",
+      "topicFingerprint": [
+        "deploys",
+        "tariffs",
+        "bypass",
+        "sustain",
+        "own"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "General Assembly backs historic World Court climate crisis ruling",
+      "description": "A landmark General Assembly resolution adopted on Wednesday is \u201ca powerful affirmation\u201d of international law, climate justice and science, according to UN chief Ant\u00f3nio Guterres.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167561",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 10,
+      "why": "High-emitting companies may face costly legal challenges worldwide.",
+      "context": "The United Nations supported a major judicial opinion on climate change.",
+      "next": "Activists will likely sue governments for failing environmental targets.",
+      "bigger": "International courts are gaining influence in global environmental policy.",
+      "publishedAt": "2026-05-20T12:00:00+00:00",
+      "topicFingerprint": [
+        "general",
+        "climate",
+        "assembly",
+        "court",
+        "justice"
+      ],
+      "alternates": [
+        {
+          "title": "UN General Assembly backs world court climate ruling, US among nations opposing",
+          "description": "The United Nations General Assembly on Wednesday adopted a resolution reinforcing countries\u2019 obligations to combat climate change, though the text was weakened under pressure from major greenhouse gas emitters. The move follows an advisory opinion by the International Court of Justice last year call",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/environment/20260520-un-general-assembly-backs-world-court-climate-ruling-us-opposes",
+          "category": "Environment",
+          "publishedAt": "2026-05-20T22:28:45+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "general",
+            "climate",
+            "assembly",
+            "court",
+            "justice"
           ],
           "group_id": 0
         }
@@ -162,85 +332,19 @@
       "url": "https://www.scmp.com/tech/article/3354296/nvidias-h200-sales-prospects-china-remain-uncertain-despite-huang-visit",
       "category": "Financial",
       "readingTime": 2,
-      "score": 16,
-      "why": "Tech companies in China may struggle to access top-tier AI hardware.",
-      "context": "Nvidia faces challenges selling its advanced chip to Chinese markets.",
-      "next": "Chinese firms will likely accelerate development of domestic chips.",
-      "bigger": "Tech nationalism is reshaping the global semiconductor supply chain.",
+      "score": 14,
+      "why": "Advanced technology products may face global supply delays.",
+      "context": "Trade restrictions have clouded US chip sales to the Chinese market.",
+      "next": "Tech manufacturers will likely seek alternative buyer markets.",
+      "bigger": "Geopolitical rivalries continue to fracture the global semiconductor industry.",
       "publishedAt": "2026-05-21T01:32:34+00:00",
       "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "iran",
-        "china_entity",
-        "war",
-        "oil"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Russia \u2018dangerously\u2019 intercepts British spy plane over Black Sea: Ministry",
-      "description": "The incident came last month when unarmed Rivet Joint plane was securing NATO s eastern flank in international airspace.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Military personnel face increased risks of accidental direct clashes.",
-      "context": "A Russian fighter jet closely intercepted a British military plane.",
-      "next": "NATO will likely increase patrols over the Black Sea region.",
-      "bigger": "Aerial confrontations near conflict zones are becoming more frequent.",
-      "publishedAt": "2026-05-20T18:01:08+00:00",
-      "topicFingerprint": [
-        "incident",
-        "plane",
-        "russia",
-        "nato",
-        "spy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China's BYD deploys its own car carrier fleet to bypass tariffs and sustain EV exports",
-      "description": "BYD expands its private car carrier fleet to navigate geopolitical risks, cut shipping costs, and boost global EV exports amid rising tariffs and freight turmoi",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/chinas-byd-deploys-its-own-car-carrier-fleet-to-bypass-tariffs-and-sustain-ev-exports-ws-el-19909539.htm",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Cheap electric vehicles may remain highly available in international markets.",
-      "context": "Chinese automaker BYD acquired cargo ships to export its electric vehicles.",
-      "next": "Other major exporters may build private shipping fleets.",
-      "bigger": "Global manufacturers are vertically integrating to bypass trade barriers.",
-      "publishedAt": "2026-05-20T08:05:23+05:30",
-      "topicFingerprint": [
-        "own",
-        "exports",
-        "deploys",
-        "car",
-        "sustain"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "DHS to tighten Ebola-related flight restrictions for some foreign travelers",
-      "description": "The Department of Homeland Security is set to implement new entry restrictions beginning Thursday for foreign travelers coming to the U.S. from countries at the center of the latest Ebola outbreak.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/dhs-ebola-related-flight-restrictions-foreign-travelers-coming-to-u-s/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Traveling from impacted regions will take longer and require screening.",
-      "context": "The U.S. is enforcing stricter entry rules for Ebola-affected countries.",
-      "next": "Other nations may introduce similar travel restrictions soon.",
-      "bigger": "Public health crises continue to disrupt international travel patterns.",
-      "publishedAt": "2026-05-20T20:48:19-04:00",
-      "topicFingerprint": [
-        "dhs",
-        "restrictions",
-        "travelers",
-        "tighten",
-        "some"
+        "nvidia",
+        "ai_group",
+        "chip",
+        "billion",
+        "data",
+        "profit"
       ],
       "alternates": []
     },
@@ -252,143 +356,152 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 13,
-      "why": "Danish households are facing more stable monthly power bills.",
-      "context": "Denmark's renewable energy system protected it from global fuel shocks.",
-      "next": "European nations will likely accelerate green energy transitions.",
-      "bigger": "Energy independence is becoming a primary national security goal.",
+      "why": "Domestic green energy can protect consumers from sudden price spikes.",
+      "context": "Renewable energy projects have protected Denmark from global fuel shocks.",
+      "next": "More European nations will likely accelerate their green energy spending.",
+      "bigger": "Energy self-reliance is becoming a crucial national security strategy.",
       "publishedAt": "2026-05-20T18:25:41-04:00",
       "topicFingerprint": [
-        "denmark",
         "solar",
+        "turmoil",
+        "investments",
         "wind",
-        "shield",
-        "energy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "description": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Local regional tensions could disrupt regional shipping and flights.",
-      "context": "U.S. military aircraft conducted surveillance flights near Cuba.",
-      "next": "Cuba may file formal diplomatic protests against the surveillance.",
-      "bigger": "Cold War-era flashpoints are reheating amid global geopolitical friction.",
-      "publishedAt": "2026-05-20T15:36:03+00:00",
-      "topicFingerprint": [
-        "near",
-        "rise",
-        "drones",
-        "cuba",
-        "jets"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Tech private equity is \"frozen\"",
-      "description": "A top tech banker tells Axios that tech buyouts are \"frozen,\" and the data largely backs him up. By the numbers: There's been a total of just $9.3 billion of global tech buyout value in April and May 2026 combined, according to PitchBook. That compares to $52.6 billion in March alone, and a monthly ",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/20/tech-private-equity-frozen",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Tech startups may struggle to find major buyers or investors.",
-      "context": "Major buyouts of technology companies have sharply declined.",
-      "next": "Tech firms may downsize to conserve existing capital.",
-      "bigger": "Higher interest rates are suppressing massive corporate acquisitions.",
-      "publishedAt": "2026-05-20T15:22:41+00:00",
-      "topicFingerprint": [
-        "tech",
-        "private",
-        "equity",
-        "frozen"
+        "shield"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "IRS settlement blocks tax audits of Trump, his family and businesses",
-      "description": "An IRS settlement prevents the federal government from pursuing tax audits or claims against Donald Trump, his sons, and the Trump organization.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/490289a0-3d0c-44c8-8f0d-88974974714a.html",
-      "category": "Financial",
+      "title": "Three key takeaways from Putin's Beijing trip \u2014 and what they reveal about China-Russia ties",
+      "description": "Putin left Beijing with declarations of enduring friendship with China and a stack of bilateral agreements \u2014 but without the energy breakthrough Moscow desperately sought.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/china-russia-putin-xi-jinping-ties-deals-energy-siberia-pipeline-trump-visits-.html",
+      "category": "Science",
       "readingTime": 2,
-      "score": 10,
-      "why": "The former president avoids immediate federal financial penalties.",
-      "context": "An IRS agreement halted tax investigations into Donald Trump.",
-      "next": "Congressional committees may investigate the settlement's legality.",
-      "bigger": "Legal battles over executive financial scrutiny remain highly politicized.",
-      "publishedAt": "2026-05-20T01:31:15+00:00",
+      "score": 17,
+      "why": "Energy companies may struggle to find new gas export markets.",
+      "context": "Russian and Chinese leaders met but missed a major energy deal.",
+      "next": "Both nations will likely negotiate alternative economic partnerships.",
+      "bigger": "Strategic alliances are being tested by shifting global economic realities.",
+      "publishedAt": "2026-05-21T05:34:36+00:00",
       "topicFingerprint": [
+        "iran",
+        "war",
+        "us_entity",
         "donald_trump",
-        "fund",
-        "sue",
-        "settlement",
-        "family"
+        "oil",
+        "prices"
       ],
-      "alternates": [
-        {
-          "title": "DOJ settlement prevents pending tax investigations of Trump and his family",
-          "description": "A settlement between President Trump and the IRS that created a $1.8 billion \" anti-weaponization \" fund was expanded Tuesday to bar investigations into him, his family and his businesses' previously filed tax returns. Why it matters: The expanded waiver intensifies scrutiny of a controversial settl",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/05/19/trump-tax-settlement-irs-anti-weaponization-fund-doj",
-          "category": "Financial",
-          "publishedAt": "2026-05-19T22:07:09+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "donald_trump",
-            "fund",
-            "sue",
-            "settlement",
-            "family"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Donald Trump-IRS settlement 'forever' bars audits into tax claims for US President and his family",
-          "description": "US drops current tax claims against Donald Trump and family in IRS leak settlement, creates $1.776 billion Anti Weaponisation Fund, critics call move corrupt and unconstitutional",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/donald-trump-irs-settlement-forever-bars-audits-into-tax-claims-for-us-president-and-his-family-ws-l-19909496.htm",
-          "category": "Financial",
-          "publishedAt": "2026-05-20T07:46:17+05:30",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "donald_trump",
-            "fund",
-            "sue",
-            "settlement",
-            "family"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Controlled reopening ends Iran\u2019s lengthy stock market shutdown",
-      "description": "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn t take part in the reopening.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown",
+      "title": "No double standards, we condemn Russia, U.S. and Israel for international law violations: Norway\u2019s Foreign Minister",
+      "description": "In an interview after Modi-Store bilateral, Norwegian FM Eide says India and Norway must resist over-dependence on global powers for trade or technology",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/no-double-standards-we-condemn-russia-us-and-israel-for-international-law-violations-norways-foreign-minister/article71002697.ece",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 14,
+      "why": "International trade partnerships may become more politically complicated.",
+      "context": "Norway criticized major global powers for violating international legal standards.",
+      "next": "Mid-sized nations may form new independent trade alliances.",
+      "bigger": "Trust in traditional global leadership is visibly declining.",
+      "publishedAt": "2026-05-21T08:07:15+05:30",
+      "topicFingerprint": [
+        "norway",
+        "israel",
+        "russia",
+        "law",
+        "standards"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Singamas shares plunge after US DOJ allegations against CEO Teo Siong Seng",
+      "description": "The firm has engaged external legal advisors, and business operations will remain normal in the meantime",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/singamas-shares-plunge-after-us-doj-allegations-against-ceo-teo-siong-seng",
       "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local investors can finally access their frozen financial assets.",
-      "context": "Iran reopened its stock exchange with restricted trading limits.",
-      "next": "Volatility will likely spike as trading restrictions ease.",
-      "bigger": "Escalating military conflicts are severely disrupting domestic financial markets.",
-      "publishedAt": "2026-05-20T17:18:12+00:00",
+      "score": 12,
+      "why": "Shipping clients may experience logistics delays or contract re-negotiations.",
+      "context": "A shipping container company's stock dropped following federal legal accusations.",
+      "next": "The company's board will likely name a temporary replacement leader.",
+      "bigger": "Executive legal issues can instantly threaten corporate financial stability.",
+      "publishedAt": "2026-05-21T04:19:59+00:00",
       "topicFingerprint": [
-        "shutdown",
-        "lengthy",
-        "iran",
-        "controlled",
-        "reopening"
+        "us_entity",
+        "castro",
+        "former",
+        "cuban",
+        "raul"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "TRANSNATIONAL REPRESSION: \u2018China Feels Emboldened to Globalise Its Political Red Lines\u2019",
+      "description": "CIVICUS discusses the cancellation of RightsCon 2026 with Barbora Bukovsk\u00e1, Senior Director for Law and Policy at ARTICLE 19, a human rights organisation that works on freedom of expression and information around the world. On 29 April \u2013 days before RightsCon, the key global gathering of digital rig",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/05/transnational-repression-china-feels-emboldened-to-globalise-its-political-red-lines/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Activists and corporate employees may face increased surveillance abroad.",
+      "context": "A major human rights conference was canceled due to security concerns.",
+      "next": "International organizations will likely seek safer virtual meeting spaces.",
+      "bigger": "Authoritarian influence is expanding beyond national borders.",
+      "publishedAt": "2026-05-21T05:49:46+00:00",
+      "topicFingerprint": [
+        "globalise",
+        "feels",
+        "political",
+        "lines",
+        "red"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India: Climate Diplomacy Questioned After COP33 Hosting Withdrawal",
+      "description": "India has withdrawn its bid to host the 2028 United Nations climate summit, a move that indicates a recalibration of its global climate engagement even as it projects itself as a leader in renewable energy and climate action. India\u2019s environment ministry communicated the decision to the United Natio",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/05/india-climate-diplomacy-questioned-after-cop33-hosting-withdrawal/",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Global green energy funding may shift to other developing regions.",
+      "context": "India withdrew its bid to host a major global climate summit.",
+      "next": "Other nations will likely compete to host the environmental event.",
+      "bigger": "Emerging economies are reassessing their roles in international climate treaties.",
+      "publishedAt": "2026-05-20T07:17:31+00:00",
+      "topicFingerprint": [
+        "climate",
+        "hosting",
+        "questioned",
+        "diplomacy",
+        "india"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "MANN+HUMMEL opens tech, innovation centre in Karnataka",
+      "description": "The new facility is designed to accelerate global product development and customer-centric innovation by integrating advanced research labs, testing infrastructure, digital engineering, and data analytics under one roof.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/mannhummel-opens-tech-innovation-centre-in-karnataka/article71002514.ece",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Local engineers may find new high-skilled employment opportunities.",
+      "context": "A global filtration company launched a new research hub in India.",
+      "next": "The facility will likely release new industrial products soon.",
+      "bigger": "Tech companies continue to expand research operations in emerging markets.",
+      "publishedAt": "2026-05-21T10:23:09+05:30",
+      "topicFingerprint": [
+        "innovation",
+        "opens",
+        "mannhummel",
+        "tech",
+        "karnataka"
       ],
       "alternates": []
     },
@@ -400,39 +513,60 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 10,
-      "why": "Workers may face tougher obstacles when organizing for better pay.",
-      "context": "American companies are spending heavily to block unionization efforts.",
-      "next": "Union groups will likely demand federal policy reforms.",
-      "bigger": "The battle over labor rights remains highly contentious.",
+      "why": "Your workplace benefits and wage negotiations may face steep hurdles.",
+      "context": "Businesses are spending heavily to oppose workers from organizing unions.",
+      "next": "Workers will likely launch more public campaigns for labor rights.",
+      "bigger": "The struggle between corporate management and labor unions is intensifying.",
       "publishedAt": "2026-05-20T14:00:44+00:00",
       "topicFingerprint": [
-        "fight",
-        "15bn",
         "labor",
-        "unions",
-        "finds"
+        "spend",
+        "finds",
+        "fight",
+        "unions"
       ],
       "alternates": []
     },
     {
-      "title": "Jeff Bezos, you were so close to making a good point",
-      "description": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
-      "category": "General",
+      "title": "Grab folds Indonesia\u2019s Superbank into financial services segment; Singtel transfers stake to GXS Bank",
+      "description": "The Indonesian digital lender has a market capitalisation of US$1.6 billion",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/asean/grab-folds-indonesias-superbank-financial-services-segment-singtel-transfers-stake-gxs-bank",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Southeast Asian consumers may see changes to their banking apps.",
+      "context": "A major ride-hailing company restructured its digital banking assets.",
+      "next": "Competitors will likely merge services to match this new scale.",
+      "bigger": "Tech platforms are rapidly consolidating their digital financial services.",
+      "publishedAt": "2026-05-20T10:09:26+00:00",
+      "topicFingerprint": [
+        "indonesia",
+        "grab",
+        "superbank",
+        "transfers",
+        "stake"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Tech private equity is \"frozen\"",
+      "description": "A top tech banker tells Axios that tech buyouts are \"frozen,\" and the data largely backs him up. By the numbers: There's been a total of just $9.3 billion of global tech buyout value in April and May 2026 combined, according to PitchBook. That compares to $52.6 billion in March alone, and a monthly ",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/20/tech-private-equity-frozen",
+      "category": "Technology",
       "readingTime": 2,
       "score": 8,
-      "why": "Public debate over tax fairness may intensify globally.",
-      "context": "Jeff Bezos publicly criticized high tax rates on middle-class workers.",
-      "next": "Lawmakers may face renewed pressure to reform tax codes.",
-      "bigger": "Wealth inequality remains a focal point of global political discourse.",
-      "publishedAt": "2026-05-20T17:10:31+00:00",
+      "why": "Tech startups may struggle to secure crucial funding and buyers.",
+      "context": "Buyouts in the technology sector have slowed down dramatically.",
+      "next": "Companies will likely cut costs to survive without external investment.",
+      "bigger": "High interest rates continue to suppress major corporate acquisitions.",
+      "publishedAt": "2026-05-20T15:22:41+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "cnbc",
-        "jeff",
-        "bezos",
-        "amazon"
+        "tech",
+        "equity",
+        "private",
+        "frozen"
       ],
       "alternates": []
     },
@@ -444,81 +578,59 @@
       "category": "Health",
       "readingTime": 2,
       "score": 8,
-      "why": "Funding approvals for medical research may face significant delays.",
-      "context": "The National Institutes of Health faces vacancies in top leadership roles.",
-      "next": "Critical public health initiatives may experience setbacks.",
-      "bigger": "Political gridlock is weakening key scientific institutions.",
+      "why": "Funding for new medical research grants may face delays.",
+      "context": "Vacancies in federal health leadership are affecting medical agency operations.",
+      "next": "Government officials will likely press for fast leadership appointments.",
+      "bigger": "Political disputes are increasingly disrupting key public health institutions.",
       "publishedAt": "2026-05-20T11:54:38+00:00",
       "topicFingerprint": [
+        "leadership",
         "vacuum",
-        "nih",
-        "leadership"
+        "nih"
       ],
       "alternates": []
     },
     {
-      "title": "\u2018Urgent\u2019: Tesla puts up spate of job ads as it plays catch-up with China self-driving rivals",
-      "description": "The hiring spree includes key auto and tech hubs Beijing, Shanghai, Wuhan and Guangzhou.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/tesla-puts-up-urgent-job-ads-to-catch-up-in-china-with-self-driving-hiring-spree",
+      "title": "80% of companies have an immigrant in a top leadership role\u2014Trump\u2019s visa crackdown is forcing them to make a \u2018plan C,\u2019 warns immigration expert",
+      "description": "Last year, Apple and Google told employees on visas to not leave the U.S. to avoid the risk of getting stranded in another country.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/20/trump-visa-policy-immigration-crackdown-plan-c-employees-stranded-overseas/",
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Tesla drivers may receive self-driving updates sooner.",
-      "context": "Tesla launched rapid hiring for autonomous driving roles in China.",
-      "next": "Tesla will likely expand testing on Chinese public roads.",
-      "bigger": "Global automakers are racing to dominate the autonomous software market.",
-      "publishedAt": "2026-05-20T12:32:00+08:00",
+      "why": "Skilled foreign workers may face sudden visa delays or deportations.",
+      "context": "Strict immigration policies are forcing businesses to relocate key visa holders.",
+      "next": "Companies will likely open more offices outside the United States.",
+      "bigger": "National immigration crackdowns are forcing businesses to decentralize global talent.",
+      "publishedAt": "2026-05-20T19:26:53+00:00",
       "topicFingerprint": [
-        "self",
-        "driving",
-        "tesla",
-        "startup",
-        "million"
+        "plan",
+        "them",
+        "warns",
+        "roledonald_trump",
+        "crackdown"
       ],
       "alternates": []
     },
     {
-      "title": "Android cloning Apple\u2019s Handoff feature is cheeky but a good thing",
-      "description": "The appeal of Apple devices has always been a mix of hardware quality and software features, with the wider ecosystem absolutely key. Effectively, Apple devices gain value as soon as you have more than one of them. Handoff is a perfect example. You can begin working on a document on your Mac, seamle",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/05/20/android-cloning-apples-handoff-feature-is-cheeky-but-a-good-thing/",
-      "category": "Technology",
+      "title": "Noah Wyle on his push to help healthcare workers",
+      "description": "Noah Wyle, who stars in HBO's \"The Pitt,\" joins \"CBS Mornings\" with Dr. Elisabeth Potter to discuss their push to improve mental health and quality of life for healthcare workers.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/noah-wyle-on-his-push-to-help-healthcare-workers/",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 7,
-      "why": "Android users will enjoy seamless transitions between their devices.",
-      "context": "Google is developing a cross-device file-sharing tool for Android.",
-      "next": "Third-party app developers will update software to support this.",
-      "bigger": "Competitors are rapidly copying premium ecosystem features to retain users.",
-      "publishedAt": "2026-05-20T11:44:20+00:00",
+      "score": 4,
+      "why": "Healthcare staff may get better mental health resources at work.",
+      "context": "An actor partnered with doctors to support medical worker welfare.",
+      "next": "Hospitals will likely implement new programs to reduce employee burnout.",
+      "bigger": "Public figures are drawing critical attention to medical system failures.",
+      "publishedAt": "2026-05-20T11:51:00-04:00",
       "topicFingerprint": [
-        "android",
-        "apple",
-        "devices",
-        "ecosystem",
-        "thing"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The Supreme Court just handed down two surprisingly timid Voting Rights Act decisions",
-      "description": "On Monday, the Supreme Court decided not to thrust another dagger into the nearly lifeless corpse of the Voting Rights Act. The Voting Rights Act of 1965 is arguably the most successful civil rights law in American history. Before the Roberts Court began to dismantle it, the VRA included a web of pr",
-      "source": "VOX",
-      "url": "https://www.vox.com/politics/489134/supreme-court-voting-rights-act-mostly-dead",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Minority voters retain their current legal protections against discrimination.",
-      "context": "The U.S. Supreme Court declined to weaken current voting protections.",
-      "next": "Activists will continue challenging state-level voting restrictions.",
-      "bigger": "Legal protections for voting access remain a major national battleground.",
-      "publishedAt": "2026-05-19T20:05:00+00:00",
-      "topicFingerprint": [
-        "handed",
-        "decisions",
-        "voting",
-        "surprisingly",
-        "timid"
+        "noah",
+        "workers",
+        "healthcare",
+        "wyle",
+        "push"
       ],
       "alternates": []
     }
@@ -571,17 +683,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "action",
-          "record",
-          "chongqing",
+          "calls",
           "mayor",
-          "surplus"
+          "surplus",
+          "trade",
+          "chongqing"
         ]
       },
       {
@@ -620,111 +732,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "signals",
           "accept",
           "increase",
           "some",
-          "tariff",
-          "signals"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "India: Climate Diplomacy Questioned After COP33 Hosting Withdrawal",
-        "description": "India has withdrawn its bid to host the 2028 United Nations climate summit, a move that indicates a recalibration of its global climate engagement even as it projects itself as a leader in renewable energy and climate action. India\u2019s environment ministry communicated the decision to the United Natio",
-        "source": "Inter Press Service",
-        "url": "https://www.ipsnews.net/2026/05/india-climate-diplomacy-questioned-after-cop33-hosting-withdrawal/",
-        "fromUrl": "https://www.ipsnews.net/feed/",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-05-20T07:17:31+00:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: environment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "climate",
-          "nations",
-          "united",
-          "general",
-          "assembly"
-        ]
-      },
-      {
-        "title": "Nirmala Sitharaman meets US Ambassador Sergio Gor; India-US economic ties, fintech partnership discussed",
-        "description": "Finance Minister Nirmala Sitharaman on Wednesday met US Ambassador to India Sergio Gor, and both had discussions on deepening India-US Economic and Financial Partnership.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/fm-meets-us-ambassador-discusses-deepening-india-us-economic-financial-ties-ws-l-19910373.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-21T00:39:59+05:30",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: finance"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -4,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sergio",
-          "sitharaman",
-          "nirmala",
-          "ties",
-          "meets"
+          "tariff"
         ]
       }
     ],
@@ -771,17 +783,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
           "singapore",
-          "tariff",
-          "risks",
+          "continues",
+          "trade",
           "grow",
-          "continues"
+          "risks"
         ]
       },
       {
@@ -820,11 +832,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "healthcare",
-          "cbc",
-          "group",
+          "london",
+          "singapore",
           "investment",
-          "giant"
+          "merge",
+          "opportunities"
         ]
       }
     ],
@@ -865,54 +877,50 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "signals",
           "accept",
           "increase",
           "some",
-          "tariff",
-          "signals"
+          "tariff"
         ]
       },
       {
-        "title": "Global EV market goes K-shaped as the US gets left behind",
-        "description": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-        "fromUrl": "https://techcrunch.com/feed/",
-        "category": "Financial",
+        "title": "US military jets and drones tracked near Cuba as tensions rise",
+        "description": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T17:34:00+00:00",
+        "publishedAt": "2026-05-20T15:36:03+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: worldwide"
+            "reason": "important keyword match: data"
           },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 2,
-            "reason": "other category"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
-            "points": 1,
-            "reason": "less than 12 hours"
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "behind",
-          "shaped",
-          "left",
-          "goes",
-          "gets"
+          "military",
+          "cuba",
+          "jets",
+          "drones",
+          "tracked"
         ]
       }
     ],
@@ -925,7 +933,7 @@
         "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T16:00:01+00:00",
+        "publishedAt": "2026-05-21T04:17:01+00:00",
         "reason": "within_48h",
         "score": 10,
         "score_debug": [
@@ -947,17 +955,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gulf",
+          "trade",
           "states",
-          "historic",
           "uk_entity",
-          "trade"
+          "historic",
+          "gulf"
         ]
       },
       {
@@ -996,77 +1004,50 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "healthcare",
-          "cbc",
-          "group",
+          "london",
+          "singapore",
           "investment",
-          "giant"
+          "merge",
+          "opportunities"
         ]
       }
     ],
-    "germany": [
+    "india": [
       {
-        "title": "\u2018Phantom limb\u2019: report blames China shock for Germany\u2019s industrial malaise",
-        "description": "Germany has been warned that a \u201cChina shock\u201d to its trade economy is the biggest driver of its industrial slump, in a new report that urges Berlin to throw its weight behind stronger EU measures against Beijing. Much soul-searching has been under way in Berlin over recent years, with the German gove",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3354265/phantom-limb-report-blames-china-shock-germanys-industrial-malaise",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
+        "title": "Nirmala Sitharaman meets US Ambassador Sergio Gor; India-US economic ties, fintech partnership discussed",
+        "description": "Finance Minister Nirmala Sitharaman on Wednesday met US Ambassador to India Sergio Gor, and both had discussions on deepening India-US Economic and Financial Partnership.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/fm-meets-us-ambassador-discusses-deepening-india-us-economic-financial-ties-ws-l-19910373.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T12:00:15+00:00",
+        "publishedAt": "2026-05-21T00:39:59+05:30",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: economy"
+            "reason": "important keyword match: finance"
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: us"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          }
-        ],
-        "group_id": 2,
-        "alternates": [],
-        "topicFingerprint": [
-          "eu_entity",
-          "trade",
-          "us_entity",
-          "donald_trump",
-          "tariffs"
-        ]
-      },
-      {
-        "title": "Germany seeks to make defence procurement agency more agile",
-        "description": "BERLIN, May 20 - Germany is reorganizing its defence procurement agency to make the system more flexible and responsive, the defence ministry said on Wednesday as it moves ahead with the overhaul of its armed forces after decades of underinvestment.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/germany-seeks-to-make-defence-procurement-agency-more-agile",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-21T00:39:20+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "points": -4,
+            "reason": "Lowerst Quality Source match: CNBC TV"
           },
           {
-            "points": -2,
-            "reason": "low quality group match: said"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": 1,
@@ -1074,32 +1055,56 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
+        "alternates": [],
+        "topicFingerprint": [
+          "nirmala",
+          "ties",
+          "sergio",
+          "gor",
+          "sitharaman"
+        ]
+      },
+      {
+        "title": "Two US men plead guilty to helping Indian call centres scam elderly Americans",
+        "description": "The FBI said the two Americans also advised Indian call centres on how to avoid detection in tech fraud.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/trending/us/two-us-men-plead-guilty-to-helping-indian-call-centres-scam-elderly-americans-101779327815681.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-05-21T07:26:22+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
           {
-            "title": "Germany seeks to make defence procurement agency more agile",
-            "description": "The plans, aimed at creating project teams working closely with research institutions, are intended to emphasize speed and flexibility, with a greater focus on innovative technologies and cooperation with European partners, the German Defense Ministry said.",
-            "source": "CNBC TV",
-            "url": "https://www.cnbctv18.com/world/germany-seeks-to-make-defence-procurement-agency-more-agile-ws-l-19910342.htm",
-            "category": "Geopolitics",
-            "publishedAt": "2026-05-20T22:34:02+05:30",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "seeks",
-              "agile",
-              "ministry",
-              "germany",
-              "procurement"
-            ],
-            "group_id": 0
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
+        "group_id": 0,
+        "alternates": [],
         "topicFingerprint": [
-          "seeks",
-          "agile",
-          "ministry",
-          "germany",
-          "procurement"
+          "tech",
+          "call",
+          "americans",
+          "elderly",
+          "us_entity"
         ]
       }
     ],
@@ -1136,75 +1141,216 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "brazil",
+          "adds",
+          "increasing",
           "techs",
-          "pressure",
-          "illegal",
-          "user",
-          "lula"
+          "user"
         ]
       }
     ],
-    "europe": [
+    "japan": [
       {
-        "title": "SMILE in space: China, EU joint planet defence satellite defies earthly tensions",
-        "description": "China and Europe on Tuesday launched their first jointly developed satellite, a space mission that will explore the precise mechanism of the Earth\u2019s defence against solar wind. The successful collaboration on the Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) comes as Beijing and Brussels",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3354263/smile-space-china-eu-joint-planet-defence-satellite-defies-earthly-tensions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
+        "title": "Japan exports jump 14.8% in April, beating expectations as semiconductor shipments soar",
+        "description": "The figure outperformed the 9.3% estimate from Reuters.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T13:00:06+00:00",
+        "publishedAt": "2026-05-21T05:42:01+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: exports"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "smile",
-          "eu_entity",
-          "defies",
-          "earthly",
-          "joint"
+          "beating",
+          "semiconductor",
+          "exports",
+          "shipments",
+          "soar"
         ]
       },
       {
-        "title": "Montenegro at 20: EU ambitions and Serbian ties",
-        "description": "Twenty years after seceding from the state union with Serbia, Montenegro is seen as a Western Balkan frontrunner for EU membership but remains marked by corruption, unresolved divisions and Serbia's political influence.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/montenegro-at-20-eu-ambitions-and-serbian-ties/a-77233006",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "General",
+        "title": "Macquarie Names Leading Opportunities in Japan\u2019s Tech Sector",
+        "description": "",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/macquarie-names-leading-opportunities-in-japans-tech-sector-93CH-4702948",
+        "fromUrl": "https://www.investing.com/rss/news.rss",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-20T15:43:00+00:00",
+        "publishedAt": "2026-05-21T05:26:18+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: Investing.com"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "macquarie",
+          "leading",
+          "tech",
+          "opportunities",
+          "sector"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Germany's Merz proposes Ukraine as EU \u2018associate member\u2019 without voting rights",
+        "description": "German Chancellor Friedrich Merz has proposed granting Ukraine \u201cassociate member\u201d status in the European Union without voting rights while it pursues full membership, according to a letter seen by AFP on Thursday. The plan would allow Kyiv representation at EU summits, the European Commission and pa",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-05-21T04:12:14+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: voting rights"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: voting"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "associate",
+          "ukraine",
+          "proposes",
+          "voting"
+        ]
+      },
+      {
+        "title": "Germany seeks to make defence procurement agency more agile",
+        "description": "BERLIN, May 20 - Germany is reorganizing its defence procurement agency to make the system more flexible and responsive, the defence ministry said on Wednesday as it moves ahead with the overhaul of its armed forces after decades of underinvestment.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/germany-seeks-to-make-defence-procurement-agency-more-agile",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-21T00:39:20+08:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
-          "ties",
-          "ambitions",
-          "serbian",
-          "montenegro"
+          "agency",
+          "agile",
+          "procurement",
+          "seeks",
+          "germany"
+        ]
+      }
+    ],
+    "italy": [
+      {
+        "title": "PM Modi\u2019s Italy visit: India, Italy set \u20ac20 billion trade target, seal defence pact",
+        "description": "PM Narendra Modi and Italy PM Giorgia Meloni upgraded bilateral ties to a Special Strategic Partnership, signed defence and trade deals, and set a \u20ac20 billion trade target by 2029.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/india-italy-special-strategic-partnership-defence-trade-deals-modi-meloni-visit-ws-l-19910438.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-21T08:07:00+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -4,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "modi",
+          "italy",
+          "pact",
+          "set",
+          "trade"
         ]
       }
     ],
@@ -1219,7 +1365,7 @@
         "readingTime": 2,
         "publishedAt": "2026-05-20T22:39:18+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
             "points": 4,
@@ -1232,10 +1378,6 @@
           {
             "points": -2,
             "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
@@ -1243,28 +1385,28 @@
         "topicFingerprint": [
           "france",
           "ties",
-          "treaty",
+          "prepare",
           "morocco",
-          "prepare"
+          "treaty"
         ]
       }
     ],
-    "japan": [
+    "australia": [
       {
-        "title": "Japan exports rise 14.8% year/year in April",
+        "title": "Laser hair removal device sparks Australia airport evacuation",
         "description": "",
         "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/japan-exports-rise-148-yearyear-in-april-6133411",
+        "url": "https://www.channelnewsasia.com/world/australia-airport-evacuation-laser-hair-removal-6133606",
         "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-21T08:00:35+08:00",
+        "publishedAt": "2026-05-21T11:44:00+08:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: exports"
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -1272,32 +1414,13 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Japan exports jump 14.8% in April, beating expectations as semiconductor shipments soar",
-            "description": "The figure outperformed the 9.3% estimate from Reuters.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/05/21/japan-exports-semiconductor-autos-imports-trade.html",
-            "category": "Technology",
-            "publishedAt": "2026-05-21T01:08:43+00:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "japan",
-              "exports",
-              "april",
-              "shipments",
-              "outperformed"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "japan",
-          "exports",
-          "april",
-          "shipments",
-          "outperformed"
+          "evacuation",
+          "hair",
+          "device",
+          "laser",
+          "airport"
         ]
       }
     ]
