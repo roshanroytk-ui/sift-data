@@ -1,66 +1,87 @@
 {
-  "updatedAt": "2026-05-24T21:46:07.009027",
+  "updatedAt": "2026-05-25T02:05:24.629509",
   "insight": {
-    "title": "The Center of the Earth Is Younger Than Its Crust",
-    "subtitle": "Because gravity warps time, the interior of our planet has experienced less history than the surface.",
-    "notificationHook": "Earth's core is younger than its crust",
-    "readingTime": 2,
+    "title": "Why Relying on Smart Predictions Narrows Your Future",
+    "subtitle": "How letting algorithms anticipate your choices quietly shrinks your ability to think original thoughts",
+    "notificationHook": "Smart predictions are narrowing your mind",
+    "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Deep beneath our feet, the molten iron core of the Earth is ticking at a slower rate than the solid ground we walk on."
+        "text": "You are typing a message, and your phone predicts the next three words. You tap them because it is faster. But saving those seconds slowly trains your brain to think in statistical averages."
       },
       {
         "type": "paragraph",
-        "text": "According to Einstein's relativity, gravity warps the fabric of time. The closer an object is to a massive body's center, the stronger the gravitational pull, and the slower time passes."
+        "text": "In science, this is feedback-loop convergence. When you constantly accept predictive suggestions\u2014from text to music to routes\u2014you outsource your decision-making. Your brain stops generating novel pathways, opting for the algorithm's predictable future."
       },
       {
         "type": "paragraph",
-        "text": "Scientists calculated that this invisible lag has accumulated over billions of years. As a result, the very center of our planet is physically two and a half years younger than its crust."
+        "text": "By choosing only what is highly recommended or predicted, you lose the healthy randomness that drives creativity and problem-solving. True adaptability relies on the unexpected detours your brain is forced to navigate."
       },
       {
         "type": "paragraph",
-        "text": "Our planet is traveling through time at two different speeds."
+        "text": "Try this today: When you type a message today, reject the predicted words and write your own sentence."
+      },
+      {
+        "type": "paragraph",
+        "text": "The future belongs to those who remain unpredictable in an optimized world."
       }
-    ]
+    ],
+    "debug": {
+      "date": "2026-05-25",
+      "day_index": 145,
+      "weekday": 0,
+      "topic_index": 1,
+      "topic": "science",
+      "theme_index": 6,
+      "theme_family": "future scenarios",
+      "content_index": 3,
+      "content_type": "contrarian idea",
+      "tone_index": 3,
+      "tone": "a practical real-world insight",
+      "opening_index": 3,
+      "opening_style": "start with a relatable everyday situation",
+      "angle_index": 1,
+      "angle": "focus on a hidden pattern in everyday life"
+    }
   },
   "news": [
     {
-      "title": "The Gulf was supposed to power the AI boom. Then the war started.",
-      "description": "Two Amazon Web Services data centres in the UAE were targeted early in the Middle East war. Nearly three months later, oil prices remain around $100 a barrel and the Strait of Hormuz remains closed. The Gulf\u2019s ambition to become a global AI hub is facing its first real stress test. Before the confli",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/middle-east-war-gulf-ai-data-centres-energy-risk",
+      "title": "Oil prices sink on signs of U.S.-Iran deal",
+      "description": "Crude oil prices dropped about $5 per barrel Sunday evening in the first major trading since the emergence of rough and tentative outlines of a deal to end the U.S.-Iran conflict. Why it matters: The throttling of the Strait of Hormuz is raising energy costs and weighing down economies worldwide \u2014 i",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/24/oil-prices-iran-war-hormuz-strait-trump-tehran-peace-talks",
       "category": "Economy",
       "readingTime": 2,
-      "score": 22,
-      "why": "Your energy bills and digital services may become more expensive.",
-      "context": "Middle East conflict disrupted tech facilities and drove oil prices up.",
-      "next": "AI developers will likely relocate facilities to safer regions.",
-      "bigger": "Geopolitical conflict is fragmenting global tech supply chains.",
-      "publishedAt": "2026-05-24T16:19:01+00:00",
+      "score": 25,
+      "why": "Your fuel and transport costs may decrease soon.",
+      "context": "Crude oil prices fell sharply following progress toward a U.S.-Iran deal.",
+      "next": "OPEC may adjust production to stabilize global oil prices.",
+      "bigger": "Geopolitical diplomacy heavily dictates global energy market stability.",
+      "publishedAt": "2026-05-24T22:40:33+00:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
-        "war",
         "donald_trump",
+        "war",
         "hormuz",
         "strait"
       ],
       "alternates": [
         {
-          "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
-          "description": "Attacks on data centers in the Middle East and persistently high energy prices have altered the calculus for operators of the facilities, analysts say.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-24T13:21:38+00:00",
-          "score": 13,
+          "title": "Crude oil drops as US inches towards Iran deal to reopen Strait of Hormuz",
+          "description": "Oil dropped at the week\u2019s open as the US and Iran edged towards a deal, although US President Donald Trump said Washington\u2019s blockade of the Strait of Hormuz would remain until an agreement was completed. Global crude benchmark Brent fell as much as 4.2 per cent to US$99.16 a barrel, after declining",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/article/3354707/crude-oil-drops-us-inches-towards-iran-deal-reopen-strait-hormuz",
+          "category": "General",
+          "publishedAt": "2026-05-24T23:16:01+00:00",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
             "iran",
             "us_entity",
-            "war",
             "donald_trump",
+            "war",
             "hormuz",
             "strait"
           ],
@@ -69,111 +90,245 @@
       ]
     },
     {
-      "title": "Rubio touts U.S. energy on India trip meant to repair ties",
-      "description": "Rubio's visit is aimed at shoring up relations battered by Washington's tariffs and engagement with New Delhi's rivals Pakistan and China.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/23/rubios-trip-to-india-signals-the-us-need-to-repair-ties.html",
+      "title": "India, US discuss Middle East, trade as Rubio cites progress on Iran conflict",
+      "description": "",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/india-us-discuss-middle-east-trade-as-us-cites-progress-on-iran-conflict-4708155",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 13,
-      "why": "Indian businesses may secure easier access to American energy exports.",
-      "context": "The US Secretary of State visited India to mend ties.",
-      "next": "The two nations will likely sign new trade agreements.",
-      "bigger": "Western nations are actively competing for alliances in Asia.",
-      "publishedAt": "2026-05-23T15:50:46+00:00",
+      "score": 15,
+      "why": "Trade routes between the regions could become more secure.",
+      "context": "India and the U.S. discussed trade and Middle East geopolitical stability.",
+      "next": "Bilateral trade agreements may be fast-tracked in coming months.",
+      "bigger": "Emerging powers are increasingly shaping Western diplomatic strategies.",
+      "publishedAt": "2026-05-25T01:07:06+00:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
-        "war",
         "donald_trump",
+        "war",
         "hormuz",
         "strait"
       ],
       "alternates": [
         {
-          "title": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
-          "description": "U.S. Secretary of State Marco Rubio held bilateral talks with his Indian counterpart Subrahmanyam Jaishankar on Sunday as the two countries look to steady ties that have fallen to their lowest point in over two decades.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/rubio-aims-to-rebuild-trust-between-washington-and-delhi-during-first-official-visit-to-india",
-          "category": "General",
-          "publishedAt": "2026-05-24T14:24:01-04:00",
-          "score": 7,
+          "title": "WHO and FAO drive regional collaboration to advance food safety competencies in the African, Near East and Eastern Mediterranean regions",
+          "description": "24 May 2026, Cairo, Egypt \u2013 Food crosses borders faster and in greater volumes than at any point in history. The systems meant to keep it safe are struggling to keep pace. As the global food trade expands and supply chains come under growing pressure from conflict, economic instability and climate r",
+          "source": "World Health Organisation",
+          "url": "https://www.emro.who.int/media/news/who-and-fao-drive-regional-collaboration-to-advance-food-safety-competencies-in-the-african-near-east-and-eastern-mediterranean-regions.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-24T16:33:45+03:00",
+          "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
             "iran",
             "us_entity",
-            "war",
             "donald_trump",
+            "war",
             "hormuz",
             "strait"
           ],
-          "group_id": 7
+          "group_id": 9
+        },
+        {
+          "title": "India, U.S. discuss Middle East, trade as Rubio cites progress on Iran conflict",
+          "description": "Successive U.S. administrations have sought to draw historically non-aligned India closer as a counterweight to rising Chinese influence in the Indo-Pacific.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/24/india-us-discuss-middle-east-trade-as-rubio-cites-progress-on-iran.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-24T11:02:48+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "Rubio meets Modi during India visit with energy high on agenda",
+          "description": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-23T11:55:39+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
+          "description": "US President Donald Trump flagged progress in talks with Iran, Tehran has warned that major gaps still stand in the way of dialing down the conflict.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-23T16:28:00+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "Marco Rubio in India highlights: PM Modi, Rubio discuss bilateral ties, West Asia crisis",
+          "description": "Rubio invites PM Modi to White House; they discussed India-U.S. Comprehensive Global Strategic Partnership and issues related to regional and global peace and security",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/marco-rubio-in-india-rubio-visits-kolkata-india-us-ties-live-updates-may-23-2026/article71013451.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-23T22:38:19+05:30",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "US Secretary of State Marco Rubio arrives in India for talks with PM Modi",
+          "description": "The visit comes as India and the United States prepare to discuss a range of issues, including the fallout of the US-Iran conflict on global energy markets and the recent friction over US tariff measures on Indian goods.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-secretary-of-state-marco-rubio-arrives-in-india-for-talks-with-pm-modi-19911905.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-23T08:24:18+05:30",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "Rubio hints at 'good news' on Strait of Hormuz as US, India align on energy, trade and Indo-Pacific",
+          "description": "Rubio said US ties with India remained strategically steady, adding that tactical engagements with other countries, such as Pakistan, did not come at the expense of the US-India partnership.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/india/rubio-hints-at-good-news-on-strait-of-hormuz-as-us-india-align-on-energy-trade-and-indo-pacific-ws-l-19912169.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-24T14:29:04+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
+        },
+        {
+          "title": "\u2018Attempt to distort realities\u2019: Iranian Embassy in India rejects Rubio\u2019s remarks over Tehran\u2019s nuclear programme",
+          "description": "The statement was issued by Iran\u2019s Embassy in India in response to Mr. Rubio\u2019s remarks on talks with Iran",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/statement-by-iran-embassy-in-india-on-marco-rubio-remarks/article71017082.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-24T13:02:21+05:30",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 9
         }
       ]
     },
     {
-      "title": "Lawsuit risk, president\u2019s scorn: Why US companies are tiptoeing into the Trump tariff-refund race",
-      "description": "COMPANIES in the US are wary of saying too much about one particular nugget of good news for their bottom line and...",
+      "title": "Russia\u2019s economy is much worse than it seems, and \u2018elites are increasingly alarmed\u2019 as alternate GDP gauge shows huge contraction",
+      "description": "While Russia has claimed its GDP expanded by about 13% between 2020 and 2024, Sweden's analysis of nighttime luminosity shows the economy actually shrank by 8% during that span.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/24/russian-economy-gdp-contraction-inflation-oil-prices-ukraine-war-elites-financial-crisis/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Doing business with Russian firms may carry higher financial risk.",
+      "context": "Satellite data revealed Russia's economy shrank despite official growth claims.",
+      "next": "Moscow may impose stricter currency controls to mask economic decline.",
+      "bigger": "Alternative data is exposing manipulated state economic statistics.",
+      "publishedAt": "2026-05-24T22:24:46+00:00",
+      "topicFingerprint": [
+        "gauge",
+        "alarmed",
+        "increasingly",
+        "contraction",
+        "seems"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Singapore keeps 2026 economic growth forecast at 2-4% despite higher downside risks from Iran war",
+      "description": "While MTI\u2019s assessment for this year\u2019s outlook has weakened, the economy performed better than expected in Q1.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/singapore-keeps-2026-economic-growth-forecast-at-2-4-despite-higher-downside-risks-from-iran-war",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 23,
+      "why": "Businesses in Southeast Asia may face more volatile operational costs.",
+      "context": "Singapore maintained its medium-term economic growth forecast despite geopolitical risks.",
+      "next": "Trade policies may tighten to shield domestic supply chains.",
+      "bigger": "Global regional hubs are building buffers against distant geopolitical conflicts.",
+      "publishedAt": "2026-05-25T08:00:00+08:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "war",
+        "hormuz",
+        "strait"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Indonesia eyes commodity export policy detail rollout in coming weeks",
+      "description": "Exporters will be required to report their sales of these strategic commodities to Danantara Sumberdaya from Jun 1",
       "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/lawsuit-risk-presidents-scorn-why-us-companies-are-tiptoeing-trump-tariff-refund-race",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/indonesia-eyes-commodity-export-policy-detail-rollout-coming-weeks",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "Corporate legal fears could delay price cuts for retail shoppers.",
-      "context": "US companies are quietly seeking refunds on tariffs despite risks.",
-      "next": "More companies will likely file quiet tariff refund claims.",
-      "bigger": "Trade policies are increasingly dictated by domestic political pressure.",
-      "publishedAt": "2026-05-24T08:06:02+00:00",
+      "why": "Global manufacturing companies may face raw material sourcing delays.",
+      "context": "Indonesia is finalizing mandatory sales reporting for strategic commodity exporters.",
+      "next": "Mining companies may face stricter compliance costs in the region.",
+      "bigger": "Resource nationalism is altering global supply chain dynamics.",
+      "publishedAt": "2026-05-25T01:51:17+00:00",
       "topicFingerprint": [
-        "lawsuit",
-        "donald_trump",
-        "race",
-        "tiptoeing",
-        "refund"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Which countries are affected by Trump's new Green Card plan? Here's what we know",
-      "description": "Recent changes in U.S. immigration policy mandate that temporary visa holders apply for green cards from their home countries.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/which-countries-are-affected-by-trumps-new-green-card-plan-heres-what-we-know-101779567215056.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Foreign workers in the US face costly and disruptive travel.",
-      "context": "New rules require visa holders to return home before applying.",
-      "next": "Affected visa holders may choose to relocate to other countries.",
-      "bigger": "Global talent pools are shifting away from highly restrictive nations.",
-      "publishedAt": "2026-05-24T06:05:07+05:30",
-      "topicFingerprint": [
-        "green",
-        "plan",
-        "donald_trump",
-        "know",
-        "card"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US softens green card stance, eases rule for some \u2018in national interest\u2019",
-      "description": "The USCIS had directed officers to approve adjustment of status applications only in \u201cextraordinary circumstances.\u201d",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-softens-green-card-stance-eases-rule-for-some-in-national-interest-101779580829871.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "High-skilled foreign workers can secure US residency with fewer delays.",
-      "context": "US immigration authorities eased residency rules for essential foreign workers.",
-      "next": "Applications for national interest waivers will likely spike soon.",
-      "bigger": "Nations are competing fiercely to retain top global scientific talent.",
-      "publishedAt": "2026-05-24T06:32:11+05:30",
-      "topicFingerprint": [
-        "green",
-        "interest",
-        "eases",
-        "stance",
-        "card"
+        "rollout",
+        "eyes",
+        "commodity",
+        "indonesia",
+        "weeks"
       ],
       "alternates": []
     },
@@ -185,17 +340,17 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "National security decisions may rely on banned technology systems.",
-      "context": "US spy agencies continue using a blacklisted artificial intelligence tool.",
-      "next": "Congress will likely demand an investigation into intelligence software procurement.",
-      "bigger": "Government reliance on private software complicates national security boundaries.",
+      "why": "Tech regulations may contain exceptions for national security needs.",
+      "context": "U.S. intelligence agencies are using a blacklisted artificial intelligence system.",
+      "next": "Congress may demand an investigation into government software procurement.",
+      "bigger": "Geopolitical security concerns are complicating AI software adoption.",
       "publishedAt": "2026-05-24T15:53:40+00:00",
       "topicFingerprint": [
+        "ai_group",
         "claude",
         "anthropic",
         "security",
-        "ai_group",
-        "problem"
+        "resolve"
       ],
       "alternates": []
     },
@@ -206,18 +361,62 @@
       "url": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713",
       "category": "Technology",
       "readingTime": 2,
-      "score": 11,
-      "why": "Foreign visitors to China face intensive and constant biometric tracking.",
-      "context": "China built an advanced tracking system to monitor international visitors.",
-      "next": "Travel restrictions on foreign business leaders may tighten soon.",
-      "bigger": "State-level surveillance is rapidly eliminating public anonymity worldwide.",
+      "score": 10,
+      "why": "Foreign travelers may experience reduced personal privacy in China.",
+      "context": "China implemented advanced biometric systems to track international visitors.",
+      "next": "Other nations may implement reciprocal surveillance on Chinese travelers.",
+      "bigger": "Facial recognition is redefining global travel and tourism norms.",
       "publishedAt": "2026-05-24T11:36:00+00:00",
       "topicFingerprint": [
-        "surveillance",
         "nowhere",
-        "foreigners",
+        "hide",
         "leaves",
-        "hide"
+        "surveillance",
+        "foreigners"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Second Ebola treatment center set on fire in epicenter of disease's outbreak",
+      "description": "Angry residents of a town at the epicenter of the Ebola outbreak in eastern Congo\u200b attacked and burned a tent that was part of a health center where people are being treated for the virus.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ebola-congo-epicenter-treatment-center-set-on-fire/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Lifesaving medical aid may become unavailable for local patients.",
+      "context": "Locals attacked and destroyed a critical virus treatment facility.",
+      "next": "International health organizations may withdraw staff over safety concerns.",
+      "bigger": "Public distrust of health systems is crippling global epidemic responses.",
+      "publishedAt": "2026-05-24T21:20:38-04:00",
+      "topicFingerprint": [
+        "ebola",
+        "outbreak",
+        "congo",
+        "eastern",
+        "uganda"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China merges lunar programmes as race to moon with US heats up after latest SpaceX launch",
+      "description": "As the race to send humans back to the moon heats up, China has been fine-tuning its plans. On Saturday \u2013 the day after the US company SpaceX successfully launched its largest and most powerful Starship \u2013 the China Manned Space Agency unveiled further details about its plans to integrate its crewed ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/science/article/3354681/china-merges-lunar-programmes-race-moon-us-heats-after-latest-spacex-launch",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Aerospace defense spending may rise in competing countries.",
+      "context": "China consolidated its space initiatives to compete with American missions.",
+      "next": "Private space firms may secure larger government defense contracts.",
+      "bigger": "Space exploration is becoming the new arena for superpower rivalry.",
+      "publishedAt": "2026-05-24T16:00:06+00:00",
+      "topicFingerprint": [
+        "space",
+        "china_entity",
+        "launched",
+        "station",
+        "moon"
       ],
       "alternates": []
     },
@@ -229,98 +428,39 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 9,
-      "why": "Displaced Ukrainian families face losing their homes permanently.",
-      "context": "Russia is forcing Ukrainian property owners to register their homes.",
-      "next": "Displaced citizens may attempt dangerous journeys back to secure property.",
-      "bigger": "Property rights are increasingly weaponized during international conflicts.",
+      "why": "Thousands of refugees may permanently lose access to their homes.",
+      "context": "Russia is forcing displaced property owners to register under its jurisdiction.",
+      "next": "Property disputes may complicate future peace negotiations.",
+      "bigger": "Property nationalization is increasingly used as a weapon of war.",
       "publishedAt": "2026-05-24T06:52:00+00:00",
       "topicFingerprint": [
+        "law",
         "ukrainians",
-        "russian",
+        "risk",
         "displaced",
-        "seizure",
         "home"
       ],
       "alternates": []
     },
     {
-      "title": "China launches rocket to send astronaut on year-long space mission as it eyes 2030 moon landing",
-      "description": "The Shenzhou-23 mission will see a Chinese astronaut spend a full year in orbit for the first time.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/asia/china-astronaut-year-long-space-mission-2030-moon-landing-6138496",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Beijing is moving closer to establishing permanent lunar bases.",
-      "context": "China launched a crewed mission for a year-long spaceflight.",
-      "next": "China will likely launch more preparation missions this year.",
-      "bigger": "The space race is accelerating geopolitical competition beyond Earth.",
-      "publishedAt": "2026-05-25T01:30:44+08:00",
-      "topicFingerprint": [
-        "space",
-        "china_entity",
-        "launches",
-        "mission",
-        "launched"
-      ],
-      "alternates": [
-        {
-          "title": "China launches Shenzhou 23 with 3 astronauts for a year-long space mission",
-          "description": "China launched Shenzhou 23 with three astronauts to the Tiangong space station, marking the first time a Chinese astronaut will spend a full year in orbit.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/c96357a7-811a-4e86-87f4-9ffa341d6f0a.html",
-          "category": "Science",
-          "publishedAt": "2026-05-24T18:17:45+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "space",
-            "china_entity",
-            "launches",
-            "mission",
-            "launched"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "China to send astronaut on year-long space mission as it eyes 2030 moon landing",
-          "description": "Payload specialist Li Jiaying, a former Hong Kong police inspector, will be the first astronaut from the city to take part in a Chinese space mission",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing/article71015852.ece",
-          "category": "Science",
-          "publishedAt": "2026-05-24T05:19:56+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "space",
-            "china_entity",
-            "launches",
-            "mission",
-            "launched"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "title": "Shock absorber: will Asean\u2019s power grid be up to the task by 2045?",
+      "description": "Southeast Asia has been planning a unified electricity grid since 1997. Now, nearly 30 years later, its leaders are giving renewed impetus to the push to get energy flowing seamlessly across borders and seabeds. In Cebu earlier this month, leaders of the Association of Southeast Asian Nations put th",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3354531/shock-absorber-will-aseans-power-grid-be-task-2045",
       "category": "Environment",
       "readingTime": 2,
-      "score": 3,
-      "why": "Solar power development on Earth may face a funding slowdown.",
-      "context": "Tech ventures led by Elon Musk pivoted away from solar.",
-      "next": "Other tech giants may also deprioritize commercial solar projects.",
-      "bigger": "Tech companies are prioritizing immediate power demands over green goals.",
-      "publishedAt": "2026-05-23T13:00:00+00:00",
+      "score": 7,
+      "why": "Regional factories may experience fewer blackouts and cheaper electricity.",
+      "context": "Southeast Asian nations are accelerating plans for a unified electricity grid.",
+      "next": "Cross-border energy infrastructure investments may surge.",
+      "bigger": "Regional integration is critical for transitioning to renewable power.",
+      "publishedAt": "2026-05-25T00:00:14+00:00",
       "topicFingerprint": [
-        "solar",
-        "elon",
-        "power",
-        "given",
-        "earth"
+        "grid",
+        "shock",
+        "absorber",
+        "task",
+        "asean"
       ],
       "alternates": []
     },
@@ -332,17 +472,84 @@
       "category": "Health",
       "readingTime": 2,
       "score": 5,
-      "why": "Millions of chronic patients may lose access to specialized healthcare.",
-      "context": "US federal funding for long COVID treatment was sharply reduced.",
-      "next": "Private charities may have to fund future medical research.",
-      "bigger": "Chronic illness is creating a massive unfunded health burden.",
+      "why": "Patients may struggle to find specialized clinics and effective treatments.",
+      "context": "Federal funding for long-term pandemic illness research has decreased.",
+      "next": "Private healthcare costs for chronic conditions may rise.",
+      "bigger": "Governments are defunding public health initiatives as crisis urgency fades.",
       "publishedAt": "2026-05-24T15:20:32+00:00",
       "topicFingerprint": [
-        "quiet",
         "away",
-        "long",
-        "costs",
-        "keep"
+        "quiet",
+        "keep",
+        "rising",
+        "washington"
+      ],
+      "alternates": []
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Singapore maintains 2026 economic growth forecast at 2-4%",
+      "description": "A better-than-expected Q1 performance offset a weakened economic outlook in the months ahead.",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/singapore/gdp-mti-economic-survey-maintains-6139541",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Local workers may experience stable job security in coming years.",
+      "context": "Singapore kept its medium-term economic projection steady after strong performance.",
+      "next": "Regional trade policies may remain highly predictable.",
+      "bigger": "Strong local governance helps export-driven economies resist global headwinds.",
+      "publishedAt": "2026-05-25T08:00:00+08:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "war",
+        "hormuz",
+        "strait"
+      ],
+      "alternates": [
+        {
+          "title": "Singapore Q1 GDP growth revised up to 6.0%; 2026 outlook maintained",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economic-indicators/singapore-q1-gdp-growth-revised-up-to-60-2026-outlook-maintained-4708263",
+          "category": "Financial",
+          "publishedAt": "2026-05-25T00:54:34+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 7
+        }
+      ]
+    },
+    {
+      "title": "China tech plays to ride out macro volatility",
+      "description": "The China stock play right now is to focus on artificial intelligence-related names, regardless of the slower economic growth, several analysts said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Tech sector investments may yield higher returns despite sluggish growth.",
+      "context": "Investors are shifting focus toward Chinese artificial intelligence stocks.",
+      "next": "Venture capital funding for non-AI startups may decline.",
+      "bigger": "Artificial intelligence is dominating investor sentiment during market downturns.",
+      "publishedAt": "2026-05-24T12:47:03+00:00",
+      "topicFingerprint": [
+        "ride",
+        "tech",
+        "plays",
+        "macro",
+        "volatility"
       ],
       "alternates": []
     },
@@ -353,130 +560,81 @@
       "url": "https://www.bbc.com/news/articles/ce3pdw1z59do",
       "category": "Financial",
       "readingTime": 2,
-      "score": 12,
-      "why": "Ongoing supply disruptions could cause severe fuel and food shortages.",
-      "context": "A Bolivian minister was attacked while trying to clear protests.",
-      "next": "The government will likely deploy military forces to highways.",
-      "bigger": "Economic instability is driving violent civil unrest in Latin America.",
+      "score": 11,
+      "why": "Internal supply lines and transport networks may face severe disruptions.",
+      "context": "Protesters attacked a government convoy during economic demonstrations.",
+      "next": "Security forces may implement stricter curfews in protest zones.",
+      "bigger": "Public anger over inflation is driving violent political instability.",
       "publishedAt": "2026-05-24T11:42:48+00:00",
       "topicFingerprint": [
-        "convoy",
-        "clearance",
-        "roadblock",
+        "ambushed",
         "bolivian",
-        "ambushed"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "WHO and FAO drive regional collaboration to advance food safety competencies in the African, Near East and Eastern Mediterranean regions",
-      "description": "24 May 2026, Cairo, Egypt \u2013 Food crosses borders faster and in greater volumes than at any point in history. The systems meant to keep it safe are struggling to keep pace. As the global food trade expands and supply chains come under growing pressure from conflict, economic instability and climate r",
-      "source": "World Health Organisation",
-      "url": "https://www.emro.who.int/media/news/who-and-fao-drive-regional-collaboration-to-advance-food-safety-competencies-in-the-african-near-east-and-eastern-mediterranean-regions.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Consumers in these regions face lower risks of foodborne illnesses.",
-      "context": "UN agencies launched an initiative to improve regional food safety.",
-      "next": "Local food producers will likely adopt stricter quality control measures.",
-      "bigger": "Developing regions are aligning regulations to boost global trade.",
-      "publishedAt": "2026-05-24T16:33:45+03:00",
-      "topicFingerprint": [
-        "collaboration",
-        "regional",
-        "advance",
-        "east",
-        "drive"
+        "roadblock",
+        "clearance",
+        "convoy"
       ],
       "alternates": []
     },
     {
-      "title": "Benin's Wadagni takes office, vows better living standards, security",
-      "description": "COTONOU, May 24 - Benin's new president, Romuald Wadagni, vowed at his inauguration on Sunday to confront rising security threats and to ensure economic growth translated into concrete improvements in people's lives.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/benins-wadagni-takes-office-vows-better-living-standards-security",
-      "category": "Financial",
+      "title": "Global tensions, funding crisis threaten peacekeeping missions, SIPRI warns",
+      "description": "Geopolitical tensions and a funding crisis are jeopardising peacekeeping missions, particularly those under the auspices of the United Nations, the Stockholm International Peace Research Institute (SIPRI) warned on Monday. Just under 79,000 international staff were deployed in international peacekee",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/europe/article/3354706/global-tension-and-funding-woes-threaten-peacekeeping-missions-sipri-warns",
+      "category": "Science",
       "readingTime": 2,
-      "score": 12,
-      "why": "Citizens in Benin may experience safer streets and better jobs.",
-      "context": "Benin's new president promised to address security and economy.",
-      "next": "The new administration will likely increase military border patrols.",
-      "bigger": "West African nations are prioritizing security to attract investment.",
-      "publishedAt": "2026-05-24T20:23:49+08:00",
+      "score": 9,
+      "why": "Border disputes and regional violence may escalate without oversight.",
+      "context": "Geopolitical rifts and budget deficits are disrupting international peacekeeping.",
+      "next": "Small nations may form local security coalitions for protection.",
+      "bigger": "Multilateral global institutions are losing influence and financial support.",
+      "publishedAt": "2026-05-24T22:32:13+00:00",
       "topicFingerprint": [
-        "living",
-        "vows",
-        "better",
-        "wadagni",
-        "office"
+        "threaten",
+        "sipri",
+        "peacekeeping",
+        "missions",
+        "funding"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Global tension, funding woes threaten peacekeeping missions: SIPRI",
+          "description": "United Nations-led operations are being weakened by a funding crisis.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/global-tension-funding-woes-threaten-peacekeeping-missions-sipri",
+          "category": "General",
+          "publishedAt": "2026-05-25T08:05:00+08:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "threaten",
+            "sipri",
+            "peacekeeping",
+            "missions",
+            "funding"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "SolarSquare in talks to raise up to $60M as India\u2019s rooftop solar market draws major VC interest",
-      "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Indian homeowners may get cheaper access to rooftop solar installations.",
-      "context": "An Indian solar startup is raising significant venture capital funding.",
-      "next": "More clean energy startups in India will likely secure funding.",
-      "bigger": "Venture capital is shifting toward green energy in emerging markets.",
-      "publishedAt": "2026-05-23T20:03:13+00:00",
-      "topicFingerprint": [
-        "india",
-        "raise",
-        "solar",
-        "rooftop",
-        "60m"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "A college degree once ensured prosperity \u2013 but gen z is finding \u2018just not much out there\u2019",
-      "description": "Survey after survey show gen Z experiencing deep economic instability, plus eroding trust in US leadership and weakened social connections Jes Vesconte graduated from one of California\u2019s most prestigious art schools, did a Fulbright in Germany and got a master\u2019s from Columbia University. Yet Vescont",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/24/gen-z-college-degree-employment",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "New graduates may struggle to pay off high student debt.",
-      "context": "Young graduates face high unemployment despite holding college degrees.",
-      "next": "More young people may opt out of traditional college education.",
-      "bigger": "The economic value of higher education is undergoing a decline.",
-      "publishedAt": "2026-05-24T10:00:53+00:00",
-      "topicFingerprint": [
-        "degree",
-        "once",
-        "ensured",
-        "college",
-        "prosperity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Apple\u2019s latest MacBook Air is $200 off in both sizes for Memorial Day",
-      "description": "If you\u2019re looking for a laptop that\u2019ll still perform well several years from now, Apple\u2019s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB [ ]",
-      "source": "Tech | The Verge",
-      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+      "title": "Aims Apac Reit eyes data centre growth as it expands beyond industrial assets",
+      "description": "Government endorsement for two Sydney sites gives the manager the option to develop them into data centre assets",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/aims-apac-reit-eyes-data-centre-growth-it-expands-beyond-industrial-assets",
       "category": "Technology",
       "readingTime": 2,
       "score": 8,
-      "why": "You can buy a high-performance laptop at a lower price.",
-      "context": "Major retailers discounted Apple's newest laptop models for a holiday.",
-      "next": "Stock of discounted laptops will likely sell out quickly.",
-      "bigger": "Holiday sales events continue to drive short-term consumer electronics spending.",
-      "publishedAt": "2026-05-24T15:00:00+00:00",
+      "why": "Cloud services and internet infrastructure may expand in Australia.",
+      "context": "A real estate trust is converting industrial sites into data centers.",
+      "next": "Industrial property prices may rise as digital storage demand grows.",
+      "bigger": "Artificial intelligence expansion is driving a global real estate shift.",
+      "publishedAt": "2026-05-24T23:00:00+00:00",
       "topicFingerprint": [
-        "macbook",
-        "air",
-        "both",
-        "memorial",
-        "apple"
+        "manager",
+        "centre",
+        "industrial",
+        "data",
+        "eyes"
       ],
       "alternates": []
     },
@@ -488,83 +646,59 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Renters in Madrid face being priced out of their neighborhoods.",
-      "context": "Thousands protested in Madrid against high rents and housing shortages.",
-      "next": "Local governments may introduce strict caps on short-term rentals.",
-      "bigger": "Urban housing crises are sparking social unrest in European cities.",
+      "why": "Renters may face higher costs or relocation outside major cities.",
+      "context": "Protesters marched to demand government action against high rental prices.",
+      "next": "Local governments may impose strict caps on short-term tourist rentals.",
+      "bigger": "Mass tourism is pricing local populations out of major cities.",
       "publishedAt": "2026-05-24T16:33:00+00:00",
       "topicFingerprint": [
-        "madrid",
         "housing",
+        "madrid",
+        "costs",
         "spain",
-        "thousands",
-        "rallied"
+        "thousands"
       ],
       "alternates": []
     },
     {
-      "title": "Remains of lost arctic explorers identified with DNA, nearly two centuries later",
-      "description": "New research shines a light on the lost Franklin Expedition, a 19th century voyage to the Canadian Arctic gone awry.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5821266/remains-of-lost-arctic-explorers-identified-with-dna-nearly-two-centuries-later",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Descendants can now identify long-lost relatives through DNA testing.",
-      "context": "Scientists identified the remains of historic Arctic explorers using DNA.",
-      "next": "Researchers will likely apply these techniques to other historical mysteries.",
-      "bigger": "Forensics and genetic testing are rewriting early exploration records.",
-      "publishedAt": "2026-05-24T17:06:06-04:00",
-      "topicFingerprint": [
-        "remains",
-        "arctic",
-        "centuries",
-        "identified",
-        "nearly"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "A Surprising Climate Fix Both Democrats and Republicans Can Get Behind",
-      "description": "This story was originally published by Grist and is reproduced here as part of the Climate Desk collaboration. Democrats and Republicans agree on virtually nothing at this point, except the desperate need to build more housing in the United States. Depending on your viewpoint, the country needs new ",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/environment/2026/05/housing-affordability-apartments-multifamily-electricity-climate-solutions/",
+      "title": "As solar panel adoption rises in Singapore, more condominiums weigh its worth",
+      "description": "While solar energy can cut electricity costs, building constraints and regulatory limits mean it may not work for every estate.",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/singapore/solar-panels-condominium-mcst-costs-sustainability-6123186",
       "category": "Environment",
       "readingTime": 2,
-      "score": 6,
-      "why": "Businesses may receive new tax credits for reducing emissions.",
-      "context": "US lawmakers from both parties are backing a climate policy.",
-      "next": "Green energy companies may see a boost from targeted policies.",
-      "bigger": "Economic pragmatism is occasionally bridging deep political divides.",
-      "publishedAt": "2026-05-24T12:00:00+00:00",
+      "score": 7,
+      "why": "Homeowners may see lower monthly electricity bills after installation.",
+      "context": "High-rise residential buildings are evaluating the feasibility of solar energy.",
+      "next": "Building regulations may adapt to simplify solar panel installations.",
+      "bigger": "Urban high-rises are key to achieving national green energy goals.",
+      "publishedAt": "2026-05-25T06:00:00+08:00",
       "topicFingerprint": [
-        "democrats",
-        "surprising",
-        "behind",
-        "republicans",
-        "fix"
+        "weigh",
+        "panel",
+        "adoption",
+        "condominiums",
+        "worth"
       ],
       "alternates": []
     },
     {
-      "title": "500,000 people were locked in state psychiatric hospitals. Their descendants can\u2019t find out why",
-      "description": "Breta Meria Conole was in a state psychiatric hospital for more than two decades. But the reason why is a family mystery. Debby Hannigan, her great grandniece, tried for years to access Conole s medical records, because she thought they might hold clues to mental health issues in her family, includi",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/24/psychiatric-hospital-records-sealed-descendants-states/",
-      "category": "Health",
+      "title": "\u2018Trump needs a deal, no matter how bad it is\u2019",
+      "description": "Harlan Ullman argues that US President Donald Trump is chasing any Iran deal to relieve mounting pressure at home.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it",
+      "category": "General",
       "readingTime": 2,
-      "score": 5,
-      "why": "Families cannot access medical records to trace hereditary health risks.",
-      "context": "Strict privacy laws block families from accessing old mental asylum records.",
-      "next": "Advocacy groups will likely lobby for changes to privacy laws.",
-      "bigger": "Privacy regulations are creating unintended barriers to historical family research.",
-      "publishedAt": "2026-05-24T15:00:04+00:00",
+      "score": 7,
+      "why": "Global business with Iran could resume under less restrictive terms.",
+      "context": "Analysts argue the U.S. president is rushing an Iran agreement.",
+      "next": "Congressional critics may challenge any concessions made to Tehran.",
+      "bigger": "Domestic pressure often forces hasty shifts in foreign policy decisions.",
+      "publishedAt": "2026-05-24T20:25:51+00:00",
       "topicFingerprint": [
-        "find",
-        "locked",
-        "hospitals",
-        "psychiatric",
-        "people"
+        "bad",
+        "needs",
+        "donald_trump"
       ],
       "alternates": []
     },
@@ -576,122 +710,42 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 4,
-      "why": "Apple users will soon create much higher quality AI images.",
-      "context": "Apple is planning significant upgrades to its visual AI models.",
-      "next": "Competitors will likely update their own models to keep pace.",
-      "bigger": "Mobile devices are rapidly becoming primary hubs for advanced AI.",
+      "why": "Your mobile creative tools may produce higher-quality results.",
+      "context": "Apple is planning significant upgrades to its native image generation models.",
+      "next": "Competitors may rush to update their own mobile AI engines.",
+      "bigger": "On-device processing is becoming the main battleground for smartphone makers.",
       "publishedAt": "2026-05-24T14:57:31+00:00",
       "topicFingerprint": [
-        "upgrades",
-        "intelligence",
+        "major",
+        "visual",
+        "models",
         "boast",
-        "ios",
-        "models"
+        "intelligence"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
-      {
-        "title": "Why Hainan holds the key to survival for China\u2019s aircraft carriers",
-        "description": "The PLA Navy\u2019s aircraft carrier base in Hainan could prove vital to the fleet\u2019s survivability and crucial in countering US containment along the first island chain in wartime, according to a prominent mainland Chinese magazine. Such a posture could also support efforts to impose a maritime blockade ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-24T14:00:05+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "aircraft",
-          "carriers",
-          "survival",
-          "holds",
-          "hainan"
-        ]
-      },
-      {
-        "title": "Can currency swaps make China a lender of last resort? Ex-PBOC official weighs in",
-        "description": "China should position itself as an international lender of last resort to help out in global emergencies and expand use of the yuan around the world, according to a former senior Chinese central bank official. Zhu Min, a former deputy managing director of the International Monetary Fund and former d",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3354683/can-currency-swaps-make-china-lender-last-resort-ex-pboc-official-weighs",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-24T13:00:06+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 1,
-            "reason": "large scale impact boost"
-          },
-          {
-            "points": 4,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "swaps",
-          "pboc",
-          "currency",
-          "weighs",
-          "lender"
-        ]
-      }
-    ],
     "united_states": [
       {
-        "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-        "description": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "title": "Lawsuit risk, president\u2019s scorn: Why US companies are tiptoeing into the Trump tariff-refund race",
+        "description": "COMPANIES in the US are wary of saying too much about one particular nugget of good news for their bottom line and...",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/lawsuit-risk-presidents-scorn-why-us-companies-are-tiptoeing-trump-tariff-refund-race",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-22T22:32:12+00:00",
+        "publishedAt": "2026-05-24T08:06:02+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: refund"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariff"
           },
           {
             "points": 2,
@@ -702,22 +756,18 @@
             "reason": "geopolitics category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "releases",
-          "sighting",
-          "directions",
-          "ufo",
-          "swarming"
+          "race",
+          "donald_trump",
+          "tariff",
+          "risk",
+          "scorn"
         ]
       },
       {
@@ -752,79 +802,46 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "blockade",
-          "sends",
-          "harsh",
           "cuba",
-          "aid"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "France bans far-right Israeli minister Ben-Gvir over treatment of activists",
-        "description": "France has banned Israeli National Security Minister Itamar Ben-Gvir following his reprehensible behavior toward activists from a Gaza-bound aid flotilla.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/2958c95c-7d0d-4401-94cc-2a6e7ad680a5.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-05-23T16:28:41+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "treatment",
-          "gaza",
           "aid",
-          "activists",
-          "flotilla"
+          "harsh",
+          "blockade",
+          "sends"
         ]
       }
     ],
-    "india": [
+    "china": [
       {
-        "title": "What next for India's Cockroach Party?",
-        "description": "The story of how an online joke became a viral sensation on social media, and started what appears to be the grassroots of a political movement.The Cockroach Party was founded by a public relations student to parody the comments made by India's supreme court judge. Abhijeet Dipke set up The Cockroac",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/spotlight/20260524-cockroaches-in-power-from-a-parody-movement-to-real-political-hopes",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "General",
+        "title": "China\u2019s machinery giant XCMG eyes bigger scoop of global sales with green, autonomous tech",
+        "description": "XCMG Group, mainland China\u2019s largest construction machinery maker, aims to achieve annual overseas sales of 100 billion yuan (US$14.7 billion), luring more international clients by turning its excavators, cranes and specialised vehicles greener and more automated. Yang Dongsheng, chairman of the sta",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/china-business/article/3354691/chinas-machinery-giant-xcmg-eyes-bigger-scoop-global-sales-green-autonomous-tech",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-24T18:11:54+00:00",
+        "publishedAt": "2026-05-25T01:00:35+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: supreme court"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: global"
           },
           {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -834,46 +851,89 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "india",
-          "cockroach",
-          "party"
+          "green",
+          "eyes",
+          "sales",
+          "tech",
+          "giant"
         ]
       },
       {
-        "title": "Estonia can be India\u2019s gateway to northern Europe: Envoy Ashish Sinha",
-        "description": "Envoy Ashish Sinha highlighted growth opportunities for cooperation in trade, technology and digital innovation",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/estonia-can-be-indias-gateway-to-northern-europe-envoy-ashish-sinha/article71014075.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "title": "Why Hainan holds the key to survival for China\u2019s aircraft carriers",
+        "description": "The PLA Navy\u2019s aircraft carrier base in Hainan could prove vital to the fleet\u2019s survivability and crucial in countering US containment along the first island chain in wartime, according to a prominent mainland Chinese magazine. Such a posture could also support efforts to impose a maritime blockade ",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-23T16:15:38+05:30",
+        "publishedAt": "2026-05-24T14:00:05+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "important keyword match: innovation"
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "holds",
+          "hainan",
+          "survival",
+          "carriers",
+          "aircraft"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "SolarSquare in talks to raise up to $60M as India\u2019s rooftop solar market draws major VC interest",
+        "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-23T20:03:13+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
             "reason": "important keyword match: india"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "geopolitics important keyword match: trade"
+            "reason": "large scale impact boost"
           },
           {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
+            "points": 4,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority title match: interest"
           },
           {
             "points": -3,
@@ -883,11 +943,116 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ashish",
+          "raise",
+          "rooftop",
           "india",
-          "eu_entity",
-          "northern",
-          "envoy"
+          "60m",
+          "million"
+        ]
+      },
+      {
+        "title": "India\u2019s SolarSquare is raising $60M at a $500M valuation. It has powered 50,000 homes.",
+        "description": "SolarSquare, an Indian rooftop solar startup, is in advanced talks to raise $55 million to $60 million at a valuation between $450 million and $500 million, TechCrunch reports. B Capital and Lightspeed Venture Partners are set to co-lead the Series C round. The deal would more than double SolarSquar",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/solarsquare-series-c-60-million-india-rooftop-solar",
+        "fromUrl": "https://thenextweb.com/feed",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-24T14:48:57+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: The Next Web"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "raise",
+          "rooftop",
+          "india",
+          "60m",
+          "million"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "Iran moving World Cup training base from U.S. to Mexico",
+        "description": "Iran had been scheduled to train in Tucson, Arizona, but it will now move its training base to Tijuana, Mexico, just south of San Diego.",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iran-moving-world-cup-training-base-from-us-to-mexico/",
+        "fromUrl": "https://www.cbsnews.com/latest/rss/main",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-23T23:40:12-04:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "training",
+          "iran",
+          "cup",
+          "mexico",
+          "base"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Kimi Antonelli takes fourth straight win as George Russell retires in Canada",
+        "description": "Kimi Antonelli claimed his fourth consecutive victory at the Canadian Grand Prix, extending his lead as George Russell retired due to a power unit failure.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/a1af83ba-8015-424c-88a0-53acd653342b.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-25T01:19:57+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "fourth",
+          "retires",
+          "canada",
+          "takes",
+          "george"
         ]
       }
     ]
