@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T21:50:26.611323",
+  "updatedAt": "2026-05-30T23:52:04.811572",
   "insight": {
     "title": "Museum Stairs Are Intentionally Hard to Walk On",
     "subtitle": "Wide, shallow steps are architecturally engineered to force your body into a posture of respect.",
@@ -33,10 +33,10 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 19,
-      "why": "Your fuel and shipping costs may drop soon.",
-      "context": "Global crude oil prices fell sharply due to potential diplomatic breakthroughs.",
-      "next": "Energy companies may adjust their production targets soon.",
-      "bigger": "Easing energy costs could help lower global inflation rates.",
+      "why": "Your fuel and transport costs may soon become cheaper.",
+      "context": "Global oil prices are dropping rapidly due to easing geopolitical tensions.",
+      "next": "Energy markets will likely stabilize if diplomatic talks succeed.",
+      "bigger": "Global inflation pressures may ease as energy costs decline.",
       "publishedAt": "2026-05-29T15:27:25+00:00",
       "topicFingerprint": [
         "us_entity",
@@ -64,26 +64,7 @@
             "oil",
             "hegseth"
           ],
-          "group_id": 0
-        },
-        {
-          "title": "Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal",
-          "description": "Oil prices fell Friday after President Trump said he would meet in the White House Situation Room to make a final decision about a deal with Iran.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html",
-          "category": "Financial",
-          "publishedAt": "2026-05-29T20:13:49+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "iran",
-            "war",
-            "donald_trump",
-            "oil",
-            "hegseth"
-          ],
-          "group_id": 0
+          "group_id": 1
         },
         {
           "title": "Oil falls on hopes for US-Iran ceasefire agreement",
@@ -102,7 +83,7 @@
             "oil",
             "hegseth"
           ],
-          "group_id": 0
+          "group_id": 1
         },
         {
           "title": "Crude Oil prices drop on reports of US-Iran truce; Brent set for worst month since 2020",
@@ -121,9 +102,32 @@
             "oil",
             "hegseth"
           ],
-          "group_id": 0
+          "group_id": 1
         }
       ]
+    },
+    {
+      "title": "British foreign minister due to visit China and India to discuss global issues",
+      "description": "It comes at a time of heightened geopolitical tensions and soaring oil prices.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/uk-foreign-minister-due-to-visit-china-and-india-to-discuss-global-issues",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 24,
+      "why": "Trade and diplomatic agreements could reshape international business costs.",
+      "context": "The UK foreign minister is traveling to China and India.",
+      "next": "The leaders will likely negotiate security and energy deals.",
+      "bigger": "Western nations are actively reshaping their diplomatic alliances.",
+      "publishedAt": "2026-05-31T07:05:01+08:00",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "war",
+        "donald_trump",
+        "oil",
+        "hegseth"
+      ],
+      "alternates": []
     },
     {
       "title": "Trump plans to appeal ruling letting importers seek refunds of paid struck-down tariffs",
@@ -133,17 +137,17 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 21,
-      "why": "Importers may face long delays in recovering their cash.",
-      "context": "Donald Trump is fighting a court ruling that allows tariff refunds.",
-      "next": "High-level legal battles will likely delay payouts to businesses.",
-      "bigger": "Trade policy battles are increasingly decided in federal courts.",
+      "why": "US businesses may face delays in recovering their import tax payments.",
+      "context": "Trump plans to challenge a court decision allowing import tariff refunds.",
+      "next": "Courts will review the legal limits of executive trade powers.",
+      "bigger": "Trade disputes could increasingly be decided in federal courts.",
       "publishedAt": "2026-05-30T17:23:46-04:00",
       "topicFingerprint": [
+        "struck",
+        "importers",
         "letting",
-        "paid",
-        "appeal",
-        "ruling",
-        "plans"
+        "tariffs",
+        "appeal"
       ],
       "alternates": []
     },
@@ -155,10 +159,10 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 16,
-      "why": "Shipping through critical Asian waterways could face sudden disruptions.",
-      "context": "Leaders at an Asian summit raised concerns over superpower tensions.",
-      "next": "Nations may increase military spending to secure local trade routes.",
-      "bigger": "Power struggles in Asia are reshaping global maritime security.",
+      "why": "Shipping delays could raise prices for goods across the region.",
+      "context": "An Asian defense summit opened amid tensions over maritime security.",
+      "next": "Nations may increase naval patrols in critical trade lanes.",
+      "bigger": "Geopolitical competition is driving military buildup in Asia.",
       "publishedAt": "2026-05-29T20:11:46-04:00",
       "topicFingerprint": [
         "us_entity",
@@ -186,7 +190,7 @@
             "oil",
             "hegseth"
           ],
-          "group_id": 3
+          "group_id": 4
         },
         {
           "title": "Asia\u2019s defense summit opens with China and doubts about US priorities topping concerns",
@@ -205,9 +209,31 @@
             "oil",
             "hegseth"
           ],
-          "group_id": 3
+          "group_id": 4
         }
       ]
+    },
+    {
+      "title": "China and Japan aren\u2019t talking. Will their rare earth trade go quiet?",
+      "description": "When China broke out one of its \u201cbig guns\u201d in last year\u2019s trade war with the US \u2013 an array of export controls on rare earth elements \u2013 it helped spur a temporary truce in the pitched conflict between the two economic superpowers. After Beijing\u2019s announcement, many around the world expressed shock at",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/global-economy/article/3355326/china-and-japan-arent-talking-will-their-rare-earth-trade-go-quiet",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Tech manufacturers may face higher costs for essential raw materials.",
+      "context": "Diplomatic silence between China and Japan threatens rare earth trade.",
+      "next": "Electronics companies will likely seek alternative mineral suppliers.",
+      "bigger": "Supply chain decoupling is forcing countries to diversify mining.",
+      "publishedAt": "2026-05-30T22:00:09+00:00",
+      "topicFingerprint": [
+        "quiet",
+        "japan",
+        "rare",
+        "earth",
+        "trade"
+      ],
+      "alternates": []
     },
     {
       "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
@@ -216,11 +242,11 @@
       "url": "https://www.bbc.com/news/articles/c99ldxykz4zo",
       "category": "Health",
       "readingTime": 2,
-      "score": 15,
-      "why": "Local communities face severe health risks and potential lockdowns.",
-      "context": "Health officials warned that Ebola is spreading rapidly in Congo.",
-      "next": "International health agencies will likely deploy emergency medical teams.",
-      "bigger": "Fragmented healthcare systems remain highly vulnerable to viral outbreaks.",
+      "score": 14,
+      "why": "Local communities face severe health risks and restricted medical access.",
+      "context": "Health organizations warn of a dangerous Ebola surge in Congo.",
+      "next": "International aid groups will deploy more medical personnel.",
+      "bigger": "Global health bodies are struggling to contain localized outbreaks.",
       "publishedAt": "2026-05-30T21:10:06+00:00",
       "topicFingerprint": [
         "ebola",
@@ -237,7 +263,7 @@
           "url": "https://www.pbs.org/newshour/world/who-chief-visits-congo-ebola-epicenter-as-cases-outpace-response",
           "category": "Health",
           "publishedAt": "2026-05-30T12:04:28-04:00",
-          "score": 9,
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
@@ -255,7 +281,7 @@
           "url": "https://www.france24.com/en/africa/20260530-who-chief-visits-eastern-dr-congo-amid-ebola-outbreak",
           "category": "Health",
           "publishedAt": "2026-05-30T16:57:06+00:00",
-          "score": 8,
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
@@ -273,7 +299,7 @@
           "url": "https://www.channelnewsasia.com/world/who-chief-visits-epicentre-ebola-outbreak-in-dr-congo-6151746",
           "category": "Health",
           "publishedAt": "2026-05-31T03:00:00+08:00",
-          "score": 8,
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
@@ -291,7 +317,7 @@
           "url": "https://www.straitstimes.com/world/who-chief-arrives-at-epicentre-of-drcs-ebola-outbreak",
           "category": "Health",
           "publishedAt": "2026-05-30T19:40:00+08:00",
-          "score": 5,
+          "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
             "ebola",
@@ -305,50 +331,6 @@
       ]
     },
     {
-      "title": "Russian spies aggressively seeking Western technology as sanctions bite: Officials",
-      "description": "Russian intelligence agencies have grown more aggressive in their efforts to steal Western technology and defense secrets as sanctions squeeze the country s wartime economy",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/russian-spies-aggressively-seeking-western-technology-sanctions-bite-133441329",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Western tech firms may face increased risks of cyber espionage.",
-      "context": "Russian intelligence agencies are stepping up efforts to steal technology.",
-      "next": "Western governments will likely tighten security rules on tech exports.",
-      "bigger": "Geopolitical rivalries are driving a massive surge in corporate espionage.",
-      "publishedAt": "2026-05-30T02:19:34-04:00",
-      "topicFingerprint": [
-        "bite",
-        "western",
-        "aggressively",
-        "sanctions",
-        "officials"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "description": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Undersea internet cables and energy pipelines may get better protection.",
-      "context": "Three allied nations agreed to develop advanced underwater defense drones.",
-      "next": "Naval forces will begin testing these autonomous systems soon.",
-      "bigger": "Undersea infrastructure is becoming a key military battleground.",
-      "publishedAt": "2026-05-30T12:16:26+00:00",
-      "topicFingerprint": [
-        "australia",
-        "uk_entity",
-        "develop",
-        "aukus",
-        "undersea"
-      ],
-      "alternates": []
-    },
-    {
       "title": "Over a thousand Palestinians from Gaza held in Israeli detention without charge",
       "description": "A controversial law allows Israel to hold Palestinians in prison without charge or trial. Israel says it's a necessary for security, but rights groups say it leaves detainees in a legal limbo.",
       "source": "NPR",
@@ -356,38 +338,62 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 10,
-      "why": "Detainees may face prolonged imprisonment without any formal trial.",
-      "context": "Israel is holding many Palestinians under a controversial detention law.",
-      "next": "Human rights groups will likely launch more legal challenges.",
-      "bigger": "The use of indefinite detention worsens deep regional political divisions.",
+      "why": "Detainees face prolonged legal limbo without access to trials.",
+      "context": "Israel is holding many Gaza residents without formal charges.",
+      "next": "Human rights groups will likely mount legal challenges.",
+      "bigger": "Arbitrary detention laws are drawing intense international scrutiny.",
       "publishedAt": "2026-05-30T17:08:42-04:00",
       "topicFingerprint": [
-        "detention",
-        "rights",
-        "groups",
-        "israeli",
-        "law"
+        "thousand",
+        "palestinians",
+        "held",
+        "without",
+        "israeli"
       ],
-      "alternates": [
-        {
-          "title": "Rights groups sue over conditions at largest US immigration detention center",
-          "description": "",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/world-news/rights-groups-sue-over-conditions-at-largest-us-immigration-detention-center-4717779",
-          "category": "Policy",
-          "publishedAt": "2026-05-30T18:30:29+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "detention",
-            "rights",
-            "groups",
-            "israeli",
-            "law"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "Millions of Americans are losing their health insurance",
+      "description": "One of the clearest success stories in US healthcare over the past 20 years has been the dramatic decline in the number of Americans without health insurance. In 2010, the year the Affordable Care Act was enacted, 16 percent of the population lacked coverage. By 2025, according to estimates from the",
+      "source": "VOX",
+      "url": "https://www.vox.com/good-medicine-newsletter/489937/us-healthcare-insurance-marketplace-aca-enrollment",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 3,
+      "why": "Many families may face higher out-of-pocket medical bills.",
+      "context": "Millions of US citizens are losing their medical coverage.",
+      "next": "Medical clinics will likely see a rise in unpaid bills.",
+      "bigger": "Rising healthcare costs are eroding public health safety nets.",
+      "publishedAt": "2026-05-29T11:00:00+00:00",
+      "topicFingerprint": [
+        "americans",
+        "insurance",
+        "losing",
+        "millions"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump administration appears to downplay impact of green card policy changes",
+      "description": "The Department of Homeland Security issued a statement Saturday saying recent green card policy changes restated \"longstanding law and policy.\"",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-administration-appears-to-downplay-impact-of-green-card-policy-changes/",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Immigrants may find it harder to obtain permanent residency.",
+      "context": "The US government minimized the effects of green card changes.",
+      "next": "Immigration lawyers will likely challenge these rules in court.",
+      "bigger": "Nations are tightening immigration policies to restrict foreign workers.",
+      "publishedAt": "2026-05-30T16:17:06-04:00",
+      "topicFingerprint": [
+        "impact",
+        "appears",
+        "green",
+        "changes",
+        "downplay"
+      ],
+      "alternates": []
     },
     {
       "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
@@ -397,17 +403,17 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 11,
-      "why": "Energy consumers in the Balkans may pay higher utility rates.",
-      "context": "A probe revealed suspicious energy deals linked to political figures.",
-      "next": "Investigative bodies may launch official inquiries into these contracts.",
-      "bigger": "Political influence continues to shape major international infrastructure deals.",
+      "why": "Local taxpayers may pay more for politically influenced energy projects.",
+      "context": "A Trump-linked firm secured major energy contracts in the Balkans.",
+      "next": "Regulators may investigate the bidding process for these contracts.",
+      "bigger": "Political influence is increasingly shaping global infrastructure investments.",
       "publishedAt": "2026-05-30T12:00:19+00:00",
       "topicFingerprint": [
+        "contracts",
         "obscure",
-        "1bn",
-        "energy",
-        "going",
-        "connected"
+        "balkans",
+        "donald_trump",
+        "1bn"
       ],
       "alternates": []
     },
@@ -419,17 +425,17 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "Bilateral trade between the two nations could face sudden restrictions.",
-      "context": "Colombia accused Ecuador of meddling in its upcoming presidential vote.",
-      "next": "Diplomatic relations between both countries will likely cool further.",
-      "bigger": "Trade policies are increasingly being used as political leverage.",
+      "why": "Trade relations and cross-border commerce could face sudden disruptions.",
+      "context": "Colombia accused Ecuador of meddling in its democratic election.",
+      "next": "Both nations may recall diplomats as tensions escalate.",
+      "bigger": "Regional political rivalries are fracturing South American trade alliances.",
       "publishedAt": "2026-05-30T15:08:03-04:00",
       "topicFingerprint": [
+        "colombian",
         "candidate",
         "tariffs",
-        "ecuador",
         "election",
-        "colombia"
+        "ecuador"
       ],
       "alternates": [
         {
@@ -442,11 +448,11 @@
           "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
+            "colombian",
             "candidate",
             "tariffs",
-            "ecuador",
             "election",
-            "colombia"
+            "ecuador"
           ],
           "group_id": 0
         },
@@ -460,88 +466,11 @@
           "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
+            "colombian",
             "candidate",
             "tariffs",
-            "ecuador",
             "election",
-            "colombia"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Malta votes in snap parliamentary election",
-      "description": "Voting is underway in Malta's parliamentary election. Opinion polls show Prime Minister Robert Abela on course for reelection in the shadow of the Middle East crisis.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Local businesses may face tax and regulatory changes soon.",
-      "context": "Malta held an early election amid regional geopolitical tensions.",
-      "next": "The winning party will quickly form a new government cabinet.",
-      "bigger": "European domestic policies are increasingly shaped by external global crises.",
-      "publishedAt": "2026-05-30T08:40:00+00:00",
-      "topicFingerprint": [
-        "malta",
-        "parliamentary",
-        "robert",
-        "abela",
-        "polls"
-      ],
-      "alternates": [
-        {
-          "title": "Voting starts in Malta parliamentary elections, ruling party set to win",
-          "description": "VALLETTA, May 30 - Voting in parliamentary elections opened in Malta on Saturday, with opinion polls showing the ruling Labour Party on course to win a record-breaking fourth term.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/voting-starts-in-malta-parliamentary-elections-ruling-party-set-to-win",
-          "category": "Policy",
-          "publishedAt": "2026-05-30T13:35:27+08:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "malta",
-            "parliamentary",
-            "robert",
-            "abela",
-            "polls"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Malta votes in snap parliamentary elections as ruling party set to win",
-          "description": "Malta holds snap parliamentary elections as the ruling Labour Party and PM Robert Abela are tipped for a record-breaking fourth term.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/9a65709a-5f7d-4857-9fd4-bb542e3f2b6c.html",
-          "category": "General",
-          "publishedAt": "2026-05-30T14:12:11+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "malta",
-            "parliamentary",
-            "robert",
-            "abela",
-            "polls"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Voters in Malta head to polls for early elections",
-          "description": "Maltese voters are at the polls after PM Robert Abela called a snap election.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections",
-          "category": "General",
-          "publishedAt": "2026-05-30T17:20:17+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "malta",
-            "parliamentary",
-            "robert",
-            "abela",
-            "polls"
+            "ecuador"
           ],
           "group_id": 0
         }
@@ -554,21 +483,23 @@
       "url": "https://www.straitstimes.com/world/canadas-broader-citizenship-rules-draw-strong-american-interest-data-shows",
       "category": "Policy",
       "readingTime": 2,
-      "score": 16,
-      "why": "American applicants may experience longer wait times for citizenship.",
-      "context": "More Americans are exploring moving north under relaxed Canadian rules.",
-      "next": "Canada may adjust its processing capacity to handle the demand.",
-      "bigger": "Political dissatisfaction is driving skilled workers to migrate internationally.",
+      "score": 15,
+      "why": "US citizens may find it easier to relocate to Canada.",
+      "context": "More Americans are seeking Canadian citizenship under relaxed rules.",
+      "next": "Canada will likely process a surge of immigration applications.",
+      "bigger": "Political division is driving skilled workers to migrate across borders.",
       "publishedAt": "2026-05-30T18:10:20+08:00",
       "topicFingerprint": [
+        "rules",
+        "citizenship",
         "broader",
-        "strong",
-        "canada",
         "data",
         "draw"
       ],
       "alternates": []
-    },
+    }
+  ],
+  "candidatePool": [
     {
       "title": "How AI is changing what satellites can do in orbit",
       "description": "Muon Space President Gregory Smirin and Voyager Technologies CEO Dylan Taylor discuss how satellites are evolving from simple data collectors into more capable systems that can process information in orbit. From wildfire detection to always-on connectivity and future orbital data centers, they expla",
@@ -577,14 +508,14 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 12,
-      "why": "Earth data and weather predictions may become much faster.",
-      "context": "Aerospace companies are integrating artificial intelligence into orbital satellites.",
-      "next": "Operators will launch more AI-equipped satellites into orbit.",
-      "bigger": "Space-based data processing is transforming environmental and defense monitoring.",
+      "why": "Farmers and emergency workers will get critical weather alerts faster.",
+      "context": "Satellites are integrating AI to process data directly in space.",
+      "next": "Space companies will launch more smart satellites next year.",
+      "bigger": "Edge computing is revolutionizing the global aerospace industry.",
       "publishedAt": "2026-05-30T06:30:01+00:00",
       "topicFingerprint": [
-        "ai_group",
         "data",
+        "ai_group",
         "centers",
         "softbank",
         "investment"
@@ -600,8 +531,8 @@
           "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
-            "ai_group",
             "data",
+            "ai_group",
             "centers",
             "softbank",
             "investment"
@@ -609,30 +540,6 @@
           "group_id": 0
         }
       ]
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill",
-      "description": "New York City's tax on second homes is now in effect after backlash from billionaires, including the Citadel CEO.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ken-griffin-pay-mamdani-nyc-pied-a-terre-tax-2026-5",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Wealthy property owners will pay higher annual real estate taxes.",
-      "context": "New York City enacted a new tax targeting second homes.",
-      "next": "Other major cities may introduce similar luxury property taxes.",
-      "bigger": "Urban municipalities are searching for new ways to tax extreme wealth.",
-      "publishedAt": "2026-05-30T09:56:01+00:00",
-      "topicFingerprint": [
-        "pied",
-        "did",
-        "bill",
-        "terre",
-        "math"
-      ],
-      "alternates": []
     },
     {
       "title": "Meta is reportedly developing an AI pendant",
@@ -642,17 +549,39 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 11,
-      "why": "You may soon manage tasks hands-free using wearable devices.",
-      "context": "Meta is building a new wearable artificial intelligence device.",
-      "next": "Competitors will likely announce their own wearable AI accessories.",
-      "bigger": "Tech giants are shifting from smartphones to wearable ambient hardware.",
+      "why": "You may soon use wearable devices to manage daily tasks.",
+      "context": "Meta is designing a wearable artificial intelligence pendant.",
+      "next": "Tech developers will likely test these devices in public trials.",
+      "bigger": "Silicon Valley is shifting focus from smartphones to wearable AI.",
       "publishedAt": "2026-05-30T15:59:58+00:00",
       "topicFingerprint": [
-        "pendant",
-        "meta",
         "ai_group",
-        "hardware",
-        "wearables"
+        "work",
+        "meta",
+        "pendant",
+        "hardware"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill",
+      "description": "New York City's tax on second homes is now in effect after backlash from billionaires, including the Citadel CEO.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ken-griffin-pay-mamdani-nyc-pied-a-terre-tax-2026-5",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Wealthy property owners will face much higher annual tax bills.",
+      "context": "New York enacted a tax on second homes for billionaires.",
+      "next": "Luxury real estate buyers may look for homes outside the city.",
+      "bigger": "Cities are targeting luxury properties to boost public revenue.",
+      "publishedAt": "2026-05-30T09:56:01+00:00",
+      "topicFingerprint": [
+        "terre",
+        "tax",
+        "pied",
+        "griffin",
+        "math"
       ],
       "alternates": []
     },
@@ -664,17 +593,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "Tax-evading buyers risk losing their entire real estate investments.",
-      "context": "Singapore warned property buyers against using fake deals to avoid taxes.",
-      "next": "Regulators will likely audit suspicious property transactions more aggressively.",
-      "bigger": "Tax authorities are using advanced tracking tools to stop evasion.",
+      "why": "Dishonest buyers risk losing their entire real estate investments.",
+      "context": "Tax authorities are penalizing property investors using sham tax avoidance.",
+      "next": "Courts will likely reject legal claims from tax-evading buyers.",
+      "bigger": "Governments are intensifying crackdowns on real estate tax loopholes.",
       "publishedAt": "2026-05-31T05:00:00+08:00",
       "topicFingerprint": [
         "avoid",
+        "tax",
         "absd",
-        "investors",
         "properties",
-        "tax"
+        "investors"
       ],
       "alternates": []
     },
@@ -686,17 +615,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "Schools may get extra funding to support student mental health.",
-      "context": "Tech firms settled a lawsuit with a school district over health impacts.",
-      "next": "Other school districts will likely file similar massive lawsuits.",
-      "bigger": "Tech platforms are facing real legal accountability for minor safety.",
+      "why": "Schools will have extra funds to support student mental health.",
+      "context": "Social media firms settled a school lawsuit over student mental health.",
+      "next": "Other school districts may file similar lawsuits for payouts.",
+      "bigger": "Tech giants face rising liability for their platforms' social impacts.",
       "publishedAt": "2026-05-30T15:52:43+00:00",
       "topicFingerprint": [
-        "million",
-        "meta",
+        "snap",
+        "school",
         "kentucky",
-        "tiktok",
-        "school"
+        "trial",
+        "meta"
       ],
       "alternates": [
         {
@@ -709,11 +638,11 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "million",
-            "meta",
+            "snap",
+            "school",
             "kentucky",
-            "tiktok",
-            "school"
+            "trial",
+            "meta"
           ],
           "group_id": 0
         }
@@ -727,19 +656,96 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 8,
-      "why": "Your energy bills and cooling costs may rise significantly.",
-      "context": "Extreme heat domes are shattering temperature records across the globe.",
-      "next": "Cities will likely upgrade local grids to prevent power outages.",
-      "bigger": "Rapid warming is forcing immediate changes in global urban planning.",
+      "why": "Your energy bills may rise to keep your home cool.",
+      "context": "Record-breaking heatwaves are impacting regions across the globe.",
+      "next": "Cities will likely implement emergency cooling centers this summer.",
+      "bigger": "Extreme weather is straining global power grids and infrastructure.",
       "publishedAt": "2026-05-29T17:31:36+00:00",
       "topicFingerprint": [
+        "eu_entity",
+        "heat",
         "week",
         "climate",
-        "heat",
-        "eu_entity",
-        "western"
+        "some"
       ],
       "alternates": []
+    },
+    {
+      "title": "Malta votes in snap parliamentary election",
+      "description": "Voting is underway in Malta's parliamentary election. Opinion polls show Prime Minister Robert Abela on course for reelection in the shadow of the Middle East crisis.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Maltese citizens will decide their nation's future economic policies.",
+      "context": "Malta is holding a snap election amidst regional tensions.",
+      "next": "The winning party will form a new government next week.",
+      "bigger": "European nations are facing political shifts amid global crises.",
+      "publishedAt": "2026-05-30T08:40:00+00:00",
+      "topicFingerprint": [
+        "malta",
+        "snap",
+        "polls",
+        "parliamentary",
+        "robert"
+      ],
+      "alternates": [
+        {
+          "title": "Voting starts in Malta parliamentary elections, ruling party set to win",
+          "description": "VALLETTA, May 30 - Voting in parliamentary elections opened in Malta on Saturday, with opinion polls showing the ruling Labour Party on course to win a record-breaking fourth term.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/voting-starts-in-malta-parliamentary-elections-ruling-party-set-to-win",
+          "category": "Policy",
+          "publishedAt": "2026-05-30T13:35:27+08:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "malta",
+            "snap",
+            "polls",
+            "parliamentary",
+            "robert"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Malta votes in snap parliamentary elections as ruling party set to win",
+          "description": "Malta holds snap parliamentary elections as the ruling Labour Party and PM Robert Abela are tipped for a record-breaking fourth term.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/9a65709a-5f7d-4857-9fd4-bb542e3f2b6c.html",
+          "category": "General",
+          "publishedAt": "2026-05-30T14:12:11+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "malta",
+            "snap",
+            "polls",
+            "parliamentary",
+            "robert"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Voters in Malta head to polls for early elections",
+          "description": "Maltese voters are at the polls after PM Robert Abela called a snap election.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections",
+          "category": "General",
+          "publishedAt": "2026-05-30T17:20:17+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "malta",
+            "snap",
+            "polls",
+            "parliamentary",
+            "robert"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
@@ -749,17 +755,17 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Concertgoers will lose access to planned events and face refunds.",
-      "context": "Italian authorities blocked major hip-hop shows due to safety worries.",
-      "next": "Venues may implement much stricter crowd control measures for artists.",
-      "bigger": "Historic cities are limiting mass events to protect old infrastructure.",
+      "why": "Music fans will lose access to planned live entertainment events.",
+      "context": "Italian authorities banned major hip-hop concerts due to safety risks.",
+      "next": "Promoters will likely seek alternative venues in nearby countries.",
+      "bigger": "Public safety concerns are leading to stricter event hosting rules.",
       "publishedAt": "2026-05-30T20:13:31+00:00",
       "topicFingerprint": [
-        "scott",
-        "concerns",
-        "concerts",
         "travis",
-        "security"
+        "kanye",
+        "security",
+        "concerts",
+        "scott"
       ],
       "alternates": [
         {
@@ -772,37 +778,15 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "scott",
-            "concerns",
-            "concerts",
             "travis",
-            "security"
+            "kanye",
+            "security",
+            "concerts",
+            "scott"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "U.S. Embassy in India launches Trump-themed rickshaws to mark America's 250th birthday",
-      "description": "Delhi's rickshaws are plying the roads with a new message: \"HAPPY BIRTHDAY AMERICA\" emblazoned with Trump's face. Drivers were offered sweeteners to host the signs: tea bags, soda, and an empty plastic bottle.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5833149/u-s-embassy-in-india-launches-trump-themed-rickshaws-to-mark-americas-250th-birthday",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Indian drivers receive free goods for promoting the campaign.",
-      "context": "The American embassy deployed decorated rickshaws in New Delhi.",
-      "next": "Similar public outreach campaigns may launch in other Indian cities.",
-      "bigger": "Diplomatic missions are using local cultural symbols for public relations.",
-      "publishedAt": "2026-05-30T07:42:03-04:00",
-      "topicFingerprint": [
-        "embassy",
-        "india",
-        "birthday",
-        "mark",
-        "themed"
-      ],
-      "alternates": []
     },
     {
       "title": "NASA readies the X-59 for its first supersonic flight, SpaceX's Starship grounded and more science stories",
@@ -812,38 +796,17 @@
       "category": "Science",
       "readingTime": 2,
       "score": 6,
-      "why": "Air travel may eventually become twice as fast.",
-      "context": "NASA prepared a quiet supersonic jet while SpaceX faced groundings.",
-      "next": "Engineers will conduct high-speed flight tests over populated areas.",
-      "bigger": "Private and public space efforts are facing tighter regulatory scrutiny.",
+      "why": "Commercial air travelers could eventually experience much faster flight times.",
+      "context": "NASA is preparing its quiet supersonic aircraft for flight testing.",
+      "next": "Engineers will analyze sound data from the initial test flights.",
+      "bigger": "Aerospace innovation is focusing on sustainable and quiet high-speed travel.",
       "publishedAt": "2026-05-30T16:30:00+00:00",
       "topicFingerprint": [
+        "stories",
+        "science",
         "readies",
-        "supersonic",
-        "nasa",
-        "starship",
-        "science"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The new fight over raw milk, explained",
-      "description": "Almost a century ago, public health agencies began mandating that milk be pasteurized for human consumption. We\u2019ve been fighting about it ever since. Many, many scientific studies have shown that the process of pasteurization \u2014 heating milk to 161\u00b0 F for 15 seconds and then rapidly cooling it \u2014 sign",
-      "source": "VOX",
-      "url": "https://www.vox.com/podcasts/489961/raw-milk-dairy-pasteurization-e-coli-fda-rfk-jr",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Consumers may face stricter rules or bans on raw dairy.",
-      "context": "A heated debate is growing over the safety of unpasteurized milk.",
-      "next": "Health regulators will likely launch new safety campaigns on milk.",
-      "bigger": "Tension between traditional food and modern safety rules is growing.",
-      "publishedAt": "2026-05-30T11:00:00+00:00",
-      "topicFingerprint": [
-        "explained",
-        "milk",
-        "raw",
-        "fight"
+        "spacex",
+        "supersonic"
       ],
       "alternates": []
     }
@@ -886,54 +849,66 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chief",
+          "defense",
           "dialogue",
-          "losing",
+          "chief",
           "chance",
-          "german"
+          "shangri"
         ]
       },
       {
-        "title": "The Philippines is in for a 'long-term struggle' with China over territory, Manila's defense secretary tells CNBC",
-        "description": "The Philippines is going to be locked in a long-term struggle with China over the South China Sea, the country's national defense secretary tells CNBC.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/30/philippines-in-for-struggle-with-china-on-territory-defense-secretary.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Geopolitics",
+        "title": "BYD debuts chip for self-driving cars it calls China\u2019s most powerful",
+        "description": "The semiconductor breakthrough steps up the rivalry with Chinese tech giant Huawei.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/byd-debuts-smart-driving-chip-it-calls-chinas-most-powerful",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-05-30T11:27:24+00:00",
+        "publishedAt": "2026-05-29T10:34:00+08:00",
         "reason": "within_48h",
-        "score": 11,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: defense"
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: breakthrough"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
           },
           {
             "points": 2,
             "reason": "important keyword match: china"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "strong tech event + strong tech term"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
+            "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "secretary",
-          "manila",
-          "term",
-          "philippines",
-          "struggle"
+          "self",
+          "debuts",
+          "chip",
+          "byd",
+          "driving"
         ]
       }
     ],
@@ -974,11 +949,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chief",
+          "defense",
           "dialogue",
-          "losing",
+          "chief",
           "chance",
-          "german"
+          "shangri"
         ]
       },
       {
@@ -1018,10 +993,10 @@
         "alternates": [],
         "topicFingerprint": [
           "tensions",
-          "deepens",
-          "ties",
+          "taiwan",
           "germany",
-          "taiwan"
+          "ties",
+          "deepens"
         ]
       }
     ],
@@ -1098,25 +1073,29 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rbi",
           "indian",
-          "remain",
           "asia",
-          "resilient"
+          "impact",
+          "rbi",
+          "remain"
         ]
       },
       {
-        "title": "Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing",
-        "description": "Dabbawalas, who deliver home-cooked meals, are leaving the trade as remote work and rising costs threaten their future.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c202d0l92weo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "title": "Canada says relations with India continue to see \u2018positive momentum\u2019 after Goyal\u2019s visit",
+        "description": "Canada\u2019s Minister of International Trade Maninder Sidhu said, \u201cCanada and India share a strong, growing economic partnership that is creating real opportunities for Canadian workers and businesses\u201d",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/canada-says-relations-with-india-continue-to-see-positive-momentum-after-goyal-s-visit-101780121954594.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-29T23:04:40+00:00",
+        "publishedAt": "2026-05-30T11:49:14+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
           {
             "points": 4,
             "reason": "geopolitics category"
@@ -1126,18 +1105,26 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group in title match: says"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "mumbai",
-          "fed",
-          "disappearing",
-          "dabbawalas",
-          "years"
+          "india",
+          "positive",
+          "goyal",
+          "canada",
+          "momentum"
         ]
       }
     ],
@@ -1179,9 +1166,9 @@
         "alternates": [],
         "topicFingerprint": [
           "vietnam",
-          "probe",
+          "launches",
+          "property",
           "protections",
-          "trade",
           "intellectual"
         ]
       },
@@ -1222,10 +1209,10 @@
         "alternates": [],
         "topicFingerprint": [
           "goes",
-          "future",
           "agency",
           "initiative",
-          "belt"
+          "road",
+          "future"
         ]
       }
     ],
@@ -1273,9 +1260,9 @@
             "topicFingerprint": [
               "open",
               "french",
-              "eliminated",
-              "champion",
-              "anastasia"
+              "anastasia",
+              "round",
+              "eliminated"
             ],
             "group_id": 0
           },
@@ -1291,9 +1278,9 @@
             "topicFingerprint": [
               "open",
               "french",
-              "eliminated",
-              "champion",
-              "anastasia"
+              "anastasia",
+              "round",
+              "eliminated"
             ],
             "group_id": 0
           }
@@ -1301,9 +1288,9 @@
         "topicFingerprint": [
           "open",
           "french",
-          "eliminated",
-          "champion",
-          "anastasia"
+          "anastasia",
+          "round",
+          "eliminated"
         ]
       },
       {
@@ -1332,17 +1319,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "strong",
           "heatwave",
           "deadly",
           "storms",
-          "warns"
+          "france",
+          "strong"
         ]
       }
     ],
@@ -1387,56 +1374,65 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "goyal",
           "india",
-          "visit",
-          "see",
-          "positive"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "How Philippines and Japan future-proofed ties amid China tensions, US wavering",
-        "description": "The upgrading of a comprehensive strategic partnership between the Philippines and Japan underscores how the allies are future-proofing their ties amid growing uncertainty in the Indo-Pacific, analysts say. \u201cThis milestone reflects the strength, depth and breadth of our ties as we respond to the evo",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3355392/how-philippines-and-japan-future-proofed-ties-amid-china-tensions-us-wavering",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-30T03:21:08+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: say"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "japan",
-          "tensions",
-          "future",
-          "philippines",
-          "wavering"
+          "positive",
+          "goyal",
+          "canada",
+          "momentum"
         ]
       }
     ],
     "europe": [
+      {
+        "title": "Russia recalls Armenia ambassador over EU ties",
+        "description": "The recall comes a day after Putin warned Armenia against seeking EU membership and alluded to the \"Ukrainian scenario.\" Armenia historically has strong ties with Russia but has pivoted toward the West in recent years.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-30T09:27:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Russia recalls ambassador from Armenia over EU ties ahead of vote",
+            "description": "Russia recalls its ambassador to Armenia in protest of the country's rapprochement with the EU and shift toward Europe ahead of a June 7 election.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/ef28a425-ebe4-4a45-a21e-63358201da40.html",
+            "category": "General",
+            "publishedAt": "2026-05-30T12:14:07+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "armenia",
+              "recalls",
+              "eu_entity",
+              "ambassador",
+              "ties"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "armenia",
+          "recalls",
+          "eu_entity",
+          "ambassador",
+          "ties"
+        ]
+      },
       {
         "title": "What Hungary must do to receive EU funds frozen under Orban",
         "description": "Prime Minister Peter Magyar and European Commission President Ursula von der Leyen announced a deal that could free up over \u20ac16 billion in EU funds for Hungary. Now, Magyar's new government needs to deliver.",
@@ -1447,7 +1443,7 @@
         "readingTime": 2,
         "publishedAt": "2026-05-30T11:11:00+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1456,39 +1452,49 @@
           {
             "points": 2,
             "reason": "Highest Quality Source match: Deutsche Welle"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [
+        "alternates": [],
+        "topicFingerprint": [
+          "orban",
+          "must",
+          "eu_entity",
+          "funds",
+          "frozen"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan PM vows \u2018breakthrough\u2019 with North Korea in abduction issue",
+        "description": "Prime Minister Sanae Takaichi on Saturday expressed her determination to achieve a \u201cbreakthrough\u201d in resolving the long-standing issue of Japanese nationals abducted by North Korea, vowing to weigh all options, including summit talks. At a rally in Tokyo calling for the return of Japanese abductees,",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3355417/japan-pm-vows-breakthrough-north-korea-abduction-issue",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Science",
+        "readingTime": 2,
+        "publishedAt": "2026-05-30T11:15:20+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
           {
-            "title": "European Union unlocks \u20ac16.4 billion in funds for Hungary at Magyar's Brussels visit",
-            "description": "The EU has unlocked \u20ac16.4 billion in funds for Hungary after new Prime Minister Peter Magyar enacted reforms to weed out corruption. It caps off weeks of negotiations between his government and the EU to release funding crucial to Hungary's slumping economy. Details by Camille Knight.",
-            "source": "France 24",
-            "url": "https://www.france24.com/en/european-union-unlocks-16-4-billion-euros-in-funds-for-hungary-at-magyar-s-brussels-visit",
-            "category": "Policy",
-            "publishedAt": "2026-05-30T10:49:01+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "peter",
-              "hungary",
-              "magyar",
-              "funds",
-              "billion"
-            ],
-            "group_id": 0
+            "points": 2,
+            "reason": "important keyword match: breakthrough"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           }
         ],
+        "group_id": 0,
+        "alternates": [],
         "topicFingerprint": [
-          "peter",
-          "hungary",
-          "magyar",
-          "funds",
-          "billion"
+          "japan",
+          "breakthrough",
+          "vows",
+          "korea",
+          "issue"
         ]
       }
     ],
@@ -1517,44 +1523,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "australian",
           "farmers",
-          "battle",
           "plague",
           "decaying",
           "body"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "How did tattoo artists become legal in South Korea?",
-        "description": "The BBC is in Seoul, where tattooist from all over the country have gathered to celebrate their art, following decades of underground work.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c9we0ln71llo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-30T10:35:31+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "artists",
-          "sk_entity",
-          "tattoo",
-          "did",
-          "legal"
         ]
       }
     ]
