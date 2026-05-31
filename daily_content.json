@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T06:47:26.673659",
+  "updatedAt": "2026-05-31T11:27:26.618991",
   "insight": {
     "title": "Why Shortcut Apps Make Your Commute Longer",
     "subtitle": "When technology gives everyone the fastest route, the secret shortcut ceases to exist.",
@@ -33,17 +33,18 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 19,
-      "why": "Your fuel and shipping costs may decrease soon.",
-      "context": "Global crude oil prices are dropping significantly due to peace talks.",
-      "next": "Fuel retailers may lower retail gasoline prices next month.",
-      "bigger": "Global inflation rates could begin to cool down.",
+      "why": "Your fuel and shipping costs may drop soon.",
+      "context": "Global crude oil prices are falling significantly amid peace talks.",
+      "next": "OPEC nations might cut production to stabilize prices.",
+      "bigger": "Easing energy costs could slow down global inflation.",
       "publishedAt": "2026-05-29T15:27:25+00:00",
       "topicFingerprint": [
         "us_entity",
-        "oil",
         "iran",
-        "ceasefire",
-        "hopes"
+        "war",
+        "donald_trump",
+        "defence",
+        "china_entity"
       ],
       "alternates": [
         {
@@ -57,10 +58,30 @@
           "readingTime": 2,
           "topicFingerprint": [
             "us_entity",
-            "oil",
             "iran",
-            "ceasefire",
-            "hopes"
+            "war",
+            "donald_trump",
+            "defence",
+            "china_entity"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "EU weighs freezing Russian oil price cap as Middle East war lifts crude prices",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/eu-weighs-freezing-russian-oil-price-cap-as-middle-east-war-lifts-crude-prices-4717835",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-31T09:58:49+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "war",
+            "donald_trump",
+            "defence",
+            "china_entity"
           ],
           "group_id": 0
         },
@@ -75,55 +96,58 @@
           "readingTime": 2,
           "topicFingerprint": [
             "us_entity",
-            "oil",
             "iran",
-            "ceasefire",
-            "hopes"
+            "war",
+            "donald_trump",
+            "defence",
+            "china_entity"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "SoftBank Plans Up to \u20ac75 Billion Investment in French AI Centers",
-      "description": "SoftBank plans to invest up to \u20ac75 billion to build 5 gigawatts of AI data center capacity in France, making it a top European hub for AI infrastructure.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/c835b9ac-3748-46e6-86cb-812e67739d5c.html",
-      "category": "Financial",
+      "title": "The strait may reopen, but global confidence may not return",
+      "description": "The next phase of the Strait of Hormuz crisis may be defined less by its closure than by conditional access.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return",
+      "category": "General",
       "readingTime": 2,
-      "score": 13,
-      "why": "European tech startups will gain faster access to powerful computing resources.",
-      "context": "SoftBank is funding massive artificial intelligence data centers across France.",
-      "next": "France could become the leading artificial intelligence hub in Europe.",
-      "bigger": "Global competition for AI infrastructure dominance is intensifying.",
-      "publishedAt": "2026-05-31T01:10:01+00:00",
+      "score": 7,
+      "why": "Deliveries of imported goods could face long delays.",
+      "context": "Restricted access to the Strait of Hormuz threatens global shipping routes.",
+      "next": "Maritime insurance rates will likely surge for cargo ships.",
+      "bigger": "Global trade routes are becoming increasingly fragmented.",
+      "publishedAt": "2026-05-31T08:30:28+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "data",
-        "build",
-        "billion",
-        "infrastructure"
+        "strait",
+        "confidence",
+        "return",
+        "reopen"
       ],
-      "alternates": [
-        {
-          "title": "SoftBank plans up to \u20ac75 billion investment in French AI centers",
-          "description": "SoftBank\u2019s initial investment plans to deliver data centers in Dunkirk, Bosquel and Bouchain.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/05/30/softbank-75-billion-investment-french-ai-data-centers-masayoshi-son-emmanuel-macron/",
-          "category": "Financial",
-          "publishedAt": "2026-05-30T21:02:10+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "data",
-            "build",
-            "billion",
-            "infrastructure"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "Brazil is set to cut in on China's rare earths dominance",
+      "description": "Brazil is seeing increasing demand for its vast reserves of rare earth elements. Global mining giants are betting on Brazil as the next powerhouse for critical magnetic metals and an alternative to China's dominance.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Tech manufacturers may gain cheaper, alternative component sources.",
+      "context": "Mining companies are investing in Brazil to extract critical rare earths.",
+      "next": "Brazil will likely approve new large-scale mining licenses.",
+      "bigger": "Western nations are actively diversifying critical mineral supply chains.",
+      "publishedAt": "2026-05-31T08:36:00+00:00",
+      "topicFingerprint": [
+        "dominance",
+        "brazil",
+        "rare",
+        "set",
+        "cut"
+      ],
+      "alternates": []
     },
     {
       "title": "Trump plans to appeal ruling letting importers seek refunds of paid struck-down tariffs",
@@ -132,86 +156,240 @@
       "url": "https://www.pbs.org/newshour/economy/trump-plans-to-appeal-ruling-letting-importers-seek-refunds-of-paid-struck-down-tariffs",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 21,
-      "why": "Importers may face long delays in getting their money back.",
-      "context": "The US government plans to appeal a ruling allowing tariff refunds.",
-      "next": "Federal courts will likely review the president's tariff-setting powers.",
-      "bigger": "Trade policies are facing increasing legal challenges from corporate groups.",
+      "score": 20,
+      "why": "Importers may face prolonged delays in recovering their cash.",
+      "context": "Legal battles continue over refunding controversial import tariffs to businesses.",
+      "next": "The Supreme Court may hear a final appeal on tariff refunds.",
+      "bigger": "Executive trade powers face growing constitutional scrutiny in courts.",
       "publishedAt": "2026-05-30T17:23:46-04:00",
       "topicFingerprint": [
-        "struck",
-        "plans",
-        "appeal",
+        "ruling",
         "importers",
-        "ruling"
+        "seek",
+        "letting",
+        "donald_trump"
       ],
       "alternates": []
     },
     {
-      "title": "China and Japan aren\u2019t talking. Will their rare earth trade go quiet?",
-      "description": "When China broke out one of its \u201cbig guns\u201d in last year\u2019s trade war with the US \u2013 an array of export controls on rare earth elements \u2013 it helped spur a temporary truce in the pitched conflict between the two economic superpowers. After Beijing\u2019s announcement, many around the world expressed shock at",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/global-economy/article/3355326/china-and-japan-arent-talking-will-their-rare-earth-trade-go-quiet",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Electronics manufacturers may face shortages of essential manufacturing materials.",
-      "context": "Diplomatic silence between China and Japan threatens their rare earth trade.",
-      "next": "Japan may accelerate plans to source materials from alternative countries.",
-      "bigger": "Geopolitical rivalries are reshaping the global supply chain for critical technologies.",
-      "publishedAt": "2026-05-30T22:00:09+00:00",
-      "topicFingerprint": [
-        "aren",
-        "earth",
-        "trade",
-        "quiet",
-        "talking"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a 'negotiating chip' with China",
-      "description": "President Donald Trump has referred to $14 billion in arms sales to the island, which has been approved by Congress, as a \"negotiating chip\" with China.",
+      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
+      "description": "The summit sees top world leaders, defence officials and key executives gathering in Singapore from May 29 to 31",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/us-support-taiwan-reaffirmed-members-congress.html",
-      "category": "Technology",
+      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Tech supply chains in East Asia face heightened regional security risks.",
-      "context": "US lawmakers pledged continued military backing for Taiwan despite political disputes.",
-      "next": "Congress may push through new defense export packages for Taiwan.",
-      "bigger": "Superpower rivalry in the Pacific continues to dictate global trade security.",
-      "publishedAt": "2026-05-30T07:10:44+00:00",
+      "score": 19,
+      "why": "Governments may redirect more public funds toward military spending.",
+      "context": "Global leaders gathered in Singapore to discuss rising Asian security threats.",
+      "next": "Asian nations will likely increase joint military exercises.",
+      "bigger": "Regional military alliances are strengthening in response to China.",
+      "publishedAt": "2026-05-31T09:35:52+00:00",
       "topicFingerprint": [
-        "support",
-        "arms",
-        "negotiating",
-        "congress",
-        "sales"
+        "us_entity",
+        "iran",
+        "war",
+        "donald_trump",
+        "defence",
+        "china_entity"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Asia defense summit opens amid doubts over U.S. priorities",
+          "description": "The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-29T08:57:25-04:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "war",
+            "donald_trump",
+            "defence",
+            "china_entity"
+          ],
+          "group_id": 1
+        }
+      ]
     },
     {
-      "title": "Indian economy to remain resilient in FY27 despite West Asia conflict impact: RBI in Annual Report",
-      "description": "\u201cGrowth prospects are supported by India\u2019s strong macroeconomic fundamentals, including robust domestic demand, relatively lower dependence on exports as a growth driver, and a stable policy environment,\u201d says Central Bank",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/indian-economy-to-remain-resilient-in-fy27-despite-west-asia-conflict-impact-rbi-in-annual-report/article71036323.ece",
-      "category": "Economy",
+      "title": "SoftBank plans up to 75 billion euro investment in French AI centres",
+      "description": "The commitment is the Japanese tech conglomerate\u2019s biggest artificial intelligence infrastructure investments in Europe",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/softbank-plans-75-billion-euro-investment-french-ai-centres",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Indian consumers will benefit from stable domestic job and credit markets.",
-      "context": "India's central bank projects steady economic growth despite Middle East tensions.",
-      "next": "Domestic investment in Indian industries is expected to rise further.",
-      "bigger": "Emerging economies are increasingly relying on domestic demand to resist global shocks.",
-      "publishedAt": "2026-05-29T13:25:04+05:30",
+      "score": 12,
+      "why": "Tech jobs and AI research opportunities in Europe will expand.",
+      "context": "A major tech investor announced massive funding for French AI infrastructure.",
+      "next": "France could become the leading AI hub in continental Europe.",
+      "bigger": "Global tech giants are shifting infrastructure investments to Europe.",
+      "publishedAt": "2026-05-31T08:55:46+00:00",
       "topicFingerprint": [
-        "annual",
-        "indian",
-        "conflict",
-        "asia",
-        "fy27"
+        "ai_group",
+        "eu_entity",
+        "infrastructure",
+        "billion",
+        "softbank"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "SoftBank to invest up to \u20ac75 billion in French AI data centers",
+          "description": "SoftBank to invest up to \u20ac75 billion in French AI data centers, aiming to make France a top European hub for AI infrastructure.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/c835b9ac-3748-46e6-86cb-812e67739d5c.html",
+          "category": "Financial",
+          "publishedAt": "2026-05-31T01:10:01+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "eu_entity",
+            "infrastructure",
+            "billion",
+            "softbank"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "SoftBank is investing \u20ac75 billion to build 5 gigawatts of AI data centres in France. It\u2019s Son\u2019s biggest European bet.",
+          "description": "SoftBank plans to invest as much as \u20ac75 billion ($87 billion) to build 5 gigawatts of AI data centre capacity in France. It is the Japanese conglomerate\u2019s biggest AI infrastructure commitment in Europe. CEO Masayoshi Son and President Emmanuel Macron are expected to formally announce the deal at the",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/softbank-75-billion-ai-data-centres-france-macron",
+          "category": "Financial",
+          "publishedAt": "2026-05-31T08:50:13+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "eu_entity",
+            "infrastructure",
+            "billion",
+            "softbank"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
+      "description": "Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency has sought to examine the facility.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Nearby residents could face serious radioactive safety hazards.",
+      "context": "Inspectors requested access to a Ukrainian nuclear plant after drone strikes.",
+      "next": "The United Nations may deploy emergency safety monitors.",
+      "bigger": "Nuclear facilities are becoming highly vulnerable targets in modern warfare.",
+      "publishedAt": "2026-05-31T03:04:00+00:00",
+      "topicFingerprint": [
+        "nuclear",
+        "drone",
+        "plant",
+        "zaporizhzhia",
+        "facility"
+      ],
+      "alternates": [
+        {
+          "title": "Kyiv denies Russian claims that a Ukrainian drone struck Zaporizhzhia nuclear plant",
+          "description": "Ukraine\u2019s military dismissed the claim as \u201cyet another propaganda ploy\u201d.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant",
+          "category": "Geopolitics",
+          "publishedAt": "2026-05-30T23:19:56+08:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nuclear",
+            "drone",
+            "plant",
+            "zaporizhzhia",
+            "facility"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "description": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Local communities face immediate, life-threatening health risks.",
+      "context": "Health organizations warned of a rapid Ebola outbreak in Congo.",
+      "next": "International agencies will likely send emergency vaccines to the region.",
+      "bigger": "Weak healthcare infrastructure continues to hinder global outbreak containment.",
+      "publishedAt": "2026-05-31T06:47:05+00:00",
+      "topicFingerprint": [
+        "ebola",
+        "outbreak",
+        "who_entity",
+        "congo",
+        "visits"
+      ],
+      "alternates": [
+        {
+          "title": "WHO chief visits Congo Ebola epicenter as cases outpace response",
+          "description": "The head of the WHO on Saturday visited eastern Congo's Bunia, a city at the heart of an outbreak of a rare type of Ebola, where the virus is spreading faster than the response despite better-organized health facilities and new aid arrivals.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/who-chief-visits-congo-ebola-epicenter-as-cases-outpace-response",
+          "category": "Health",
+          "publishedAt": "2026-05-30T12:04:28-04:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ebola",
+            "outbreak",
+            "who_entity",
+            "congo",
+            "visits"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "WHO chief visits eastern DR Congo amid Ebola outbreak",
+          "description": "The head of the World Health Organization (WHO) Tedros Adhanom Ghebreyesus traveled to Bunia, in DR Congo on Saturday to show his support to the residents of the capital of Ituri Province, the epicentre of a severe Ebola virus outbreak. There have been at least 1,077 suspected cases in the country s",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/africa/20260530-who-chief-visits-eastern-dr-congo-amid-ebola-outbreak",
+          "category": "Health",
+          "publishedAt": "2026-05-30T16:57:06+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ebola",
+            "outbreak",
+            "who_entity",
+            "congo",
+            "visits"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
+          "description": "Mr Tedros earlier said he will \u201chelp\u201d and \u201clisten to\u201d the people facing the worst of the outbreak.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/who-chief-arrives-at-epicentre-of-drcs-ebola-outbreak",
+          "category": "Health",
+          "publishedAt": "2026-05-30T19:40:00+08:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ebola",
+            "outbreak",
+            "who_entity",
+            "congo",
+            "visits"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "British foreign minister due to visit China and India to discuss global issues",
@@ -220,18 +398,18 @@
       "url": "https://www.straitstimes.com/world/europe/uk-foreign-minister-due-to-visit-china-and-india-to-discuss-global-issues",
       "category": "Economy",
       "readingTime": 2,
-      "score": 20,
-      "why": "British exporters may face new rules and tariffs when trading.",
-      "context": "The British foreign minister is traveling to Asia for political talks.",
-      "next": "New trade agreements could be announced after the meetings.",
-      "bigger": "Western nations are actively seeking to stabilize relations with major Asian economies.",
+      "score": 19,
+      "why": "Exporters may see shifts in trade regulations between these nations.",
+      "context": "The British foreign minister planned diplomatic visits to India and China.",
+      "next": "Bilateral trade agreements could be renegotiated in coming months.",
+      "bigger": "Western nations are recalibrating their diplomatic ties with Asian powers.",
       "publishedAt": "2026-05-31T07:05:01+08:00",
       "topicFingerprint": [
-        "discuss",
-        "due",
-        "issues",
+        "visit",
         "foreign",
-        "india"
+        "india",
+        "uk_entity",
+        "china_entity"
       ],
       "alternates": [
         {
@@ -244,74 +422,11 @@
           "score": 17,
           "readingTime": 2,
           "topicFingerprint": [
-            "discuss",
-            "due",
-            "issues",
+            "visit",
             "foreign",
-            "india"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Over a thousand Palestinians from Gaza held in Israeli detention without charge",
-      "description": "A controversial law allows Israel to hold Palestinians in prison without charge or trial. Israel says it's a necessary for security, but rights groups say it leaves detainees in a legal limbo.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5831351/over-a-thousand-palestinians-from-gaza-held-in-israeli-detention-without-charge",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Detained individuals face prolonged loss of freedom without legal recourse.",
-      "context": "Israel is detaining over one thousand Palestinians without official charges.",
-      "next": "International human rights bodies will likely file formal legal challenges.",
-      "bigger": "The conflict continues to test international humanitarian laws and detention standards.",
-      "publishedAt": "2026-05-30T17:08:42-04:00",
-      "topicFingerprint": [
-        "thousand",
-        "detention",
-        "without",
-        "held",
-        "palestinians"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Congo expands Ebola testing as outbreak\u2019s real scale eludes officials",
-      "description": "US health authorities have agreed to support Congo\u2019s use of an experimental antibody treatment.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/congo-expands-ebola-testing-as-outbreaks-real-scale-eludes-officials",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Local communities face increased risks of infection and quarantine measures.",
-      "context": "Health officials in Congo are expanding testing for the Ebola virus.",
-      "next": "International medical teams will deploy more experimental treatments to the region.",
-      "bigger": "Global health organizations are improving rapid response strategies for deadly outbreaks.",
-      "publishedAt": "2026-05-31T14:00:00+08:00",
-      "topicFingerprint": [
-        "ebola",
-        "outbreak",
-        "congo",
-        "who_entity",
-        "chief"
-      ],
-      "alternates": [
-        {
-          "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
-          "description": "BUNIA, Democratic Republic of Congo, May 30 - The World Health Organisation chief travelled on Saturday to the Congolese province hardest hit by an Ebola outbreak, urging residents to seek treatment and practice safe burials as officials scramble to contain the fatal disease.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding",
-          "category": "Health",
-          "publishedAt": "2026-05-30T19:54:56+08:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ebola",
-            "outbreak",
-            "congo",
-            "who_entity",
-            "chief"
+            "india",
+            "uk_entity",
+            "china_entity"
           ],
           "group_id": 0
         }
@@ -325,17 +440,122 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 10,
-      "why": "Energy consumers in the Balkans could face higher electricity prices.",
-      "context": "An investigation revealed massive Balkan energy contracts linked to Donald Trump.",
-      "next": "Congressional committees may launch investigations into foreign business ties.",
-      "bigger": "Public scrutiny over political influence in international corporate deals is rising.",
+      "why": "Local taxpayers may pay higher energy prices due to corruption.",
+      "context": "A probe revealed suspicious energy contracts awarded to a connected firm.",
+      "next": "Watchdogs will likely demand an official inquiry into the deals.",
+      "bigger": "Political influence continues to disrupt fair competition in public procurement.",
       "publishedAt": "2026-05-30T12:00:19+00:00",
       "topicFingerprint": [
-        "going",
+        "energy",
+        "connected",
         "balkans",
-        "1bn",
-        "obscure",
-        "energy"
+        "donald_trump",
+        "going"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "How China will play a major role in Benin\u2019s economic growth as a new era is ushered in",
+      "description": "In Cotonou, Benin\u2019s largest city and economic capital located on the southern Atlantic coast, construction crews are busy building major projects, stretching from large-scale port upgrades to the asphalt-paving of the commercial hub\u2019s main roads. At the Autonomous Port of Cotonou, China Harbour Engi",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3355283/how-china-will-play-major-role-benins-economic-growth-new-era-ushered",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Local workers may gain thousands of new construction jobs.",
+      "context": "China is funding massive infrastructure projects in Benin.",
+      "next": "Benin will likely sign more long-term trade deals with Beijing.",
+      "bigger": "Chinese investment remains a dominant driver of African infrastructure development.",
+      "publishedAt": "2026-05-31T04:00:05+00:00",
+      "topicFingerprint": [
+        "role",
+        "major",
+        "play",
+        "ushered",
+        "growth"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Colombians weigh leftist\u00a0reforms against right-wing crackdowns in presidential vote",
+      "description": "BOGOTA, May 31 - Colombians will cast ballots on Sunday in what is likely to be the first round of a presidential election, choosing between a leftist pledging to expand reforms begun by the current government, an independent businessman promising a security crackdown and a right-wing senator seekin",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/colombians-weigh-leftist-reforms-against-right-wing-crackdowns-in-presidential-vote",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Citizens may experience drastic changes to public services and taxes.",
+      "context": "Colombians prepare to vote in a highly polarized presidential election.",
+      "next": "The election will likely head to a tense runoff vote.",
+      "bigger": "South America continues to swing between starkly different political ideologies.",
+      "publishedAt": "2026-05-31T19:10:12+08:00",
+      "topicFingerprint": [
+        "presidential",
+        "wing",
+        "vote",
+        "right",
+        "election"
+      ],
+      "alternates": [
+        {
+          "title": "Colombia's presidential election pits Petro allies against pro-Trump candidates",
+          "description": "Colombia's presidential election pits leftist Ivan Cepeda against right-wing rivals in a vote seen as a referendum on President Gustavo Petro\u2019s policies.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/2868483a-5233-43d3-9b42-b06aa3007e6a.html",
+          "category": "Policy",
+          "publishedAt": "2026-05-31T10:13:09+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "presidential",
+            "wing",
+            "vote",
+            "right",
+            "election"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Colombians weigh leftist\u00a0reforms against right-wing crackdowns in presidential vote",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/economy-news/colombians-weigh-leftistreforms-against-rightwing-crackdowns-in-presidential-vote-4717841",
+          "category": "Policy",
+          "publishedAt": "2026-05-31T11:06:27+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "presidential",
+            "wing",
+            "vote",
+            "right",
+            "election"
+          ],
+          "group_id": 0
+        }
+      ]
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Canada's broader citizenship rules draw strong American interest, data shows",
+      "description": "TORONTO, May 30 - While U.S.-Canadian relations have frayed under U.S. President Donald Trump, data on Canadian citizenship approvals under recently widened rules suggests many Americans would welcome the chance to become Canadian.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/canadas-broader-citizenship-rules-draw-strong-american-interest-data-shows",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Eligible Americans can easily secure access to Canadian public healthcare.",
+      "context": "Expanded Canadian citizenship rules have attracted significant interest from Americans.",
+      "next": "Canada may see a surge in official citizenship applications.",
+      "bigger": "Relaxed immigration laws are shifting cross-border demographics in North America.",
+      "publishedAt": "2026-05-30T18:10:20+08:00",
+      "topicFingerprint": [
+        "data",
+        "canada",
+        "strong",
+        "broader",
+        "interest"
       ],
       "alternates": []
     },
@@ -346,18 +566,18 @@
       "url": "https://www.pbs.org/newshour/world/colombia-accuses-ecuador-of-interfering-in-its-general-election",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 12,
-      "why": "Cross-border trade and shipping between the two nations may face delays.",
-      "context": "Colombia accused Ecuador of interfering in its election using trade tariffs.",
-      "next": "Colombia may impose retaliatory trade restrictions on imports from Ecuador.",
-      "bigger": "Trade policies are increasingly being weaponized to influence foreign political elections.",
+      "score": 11,
+      "why": "Cross-border trade could face sudden disruptions and new tariffs.",
+      "context": "Colombia accused Ecuador of interfering in its upcoming national election.",
+      "next": "Diplomatic relations between the two neighbors may turn cold.",
+      "bigger": "Trade policies are increasingly being used as political leverage.",
       "publishedAt": "2026-05-30T15:08:03-04:00",
       "topicFingerprint": [
-        "colombia",
-        "tariffs",
-        "ecuador",
+        "deliberate",
         "colombian",
-        "election"
+        "tariffs",
+        "general",
+        "candidate"
       ],
       "alternates": [
         {
@@ -370,101 +590,15 @@
           "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
-            "colombia",
-            "tariffs",
-            "ecuador",
+            "deliberate",
             "colombian",
-            "election"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-          "description": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
-          "category": "Geopolitics",
-          "publishedAt": "2026-05-30T20:40:07+00:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "colombia",
             "tariffs",
-            "ecuador",
-            "colombian",
-            "election"
+            "general",
+            "candidate"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Ghana lawmakers pass bill criminalizing LGBTQ people, activities and promotion",
-      "description": "Ghana's parliament approved a bill criminalizing LGBTQ people, activities, and promotion. The law now awaits ratification by President John Mahama.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/580abda8-6bcc-4fe2-a954-dc586cfc6050.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "LGBTQ residents in Ghana face immediate threats of arrest and violence.",
-      "context": "Ghana's parliament approved a bill criminalizing LGBTQ advocacy and relationships.",
-      "next": "International aid donors may freeze financial support to the Ghanaian government.",
-      "bigger": "Human rights disputes are straining relations between African nations and Western partners.",
-      "publishedAt": "2026-05-30T07:13:42+00:00",
-      "topicFingerprint": [
-        "bill",
-        "ghana",
-        "people",
-        "activities",
-        "criminalizing"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Canada's broader citizenship rules draw strong American interest, data shows",
-      "description": "TORONTO, May 30 - While U.S.-Canadian relations have frayed under U.S. President Donald Trump, data on Canadian citizenship approvals under recently widened rules suggests many Americans would welcome the chance to become Canadian.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/canadas-broader-citizenship-rules-draw-strong-american-interest-data-shows",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 15,
-      "why": "American applicants could experience longer wait times for Canadian citizenship approvals.",
-      "context": "Easier citizenship guidelines have attracted high interest from American applicants.",
-      "next": "More US professionals may relocate their businesses and families to Canada.",
-      "bigger": "Changing political landscapes are driving high-skilled workers to migrate across borders.",
-      "publishedAt": "2026-05-30T18:10:20+08:00",
-      "topicFingerprint": [
-        "broader",
-        "data",
-        "citizenship",
-        "canada",
-        "strong"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill",
-      "description": "New York City's tax on second homes is now in effect after backlash from billionaires, including the Citadel CEO.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ken-griffin-pay-mamdani-nyc-pied-a-terre-tax-2026-5",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Wealthy property owners will pay significantly higher annual property taxes.",
-      "context": "New York City has implemented a new tax on luxury second-homes.",
-      "next": "Elite buyers may purchase luxury homes in low-tax states instead.",
-      "bigger": "Cities are targeting luxury real estate to generate public funding.",
-      "publishedAt": "2026-05-30T09:56:01+00:00",
-      "topicFingerprint": [
-        "bill",
-        "did",
-        "math",
-        "terre",
-        "tax"
-      ],
-      "alternates": []
     },
     {
       "title": "Meta is reportedly developing an AI pendant",
@@ -474,17 +608,17 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 10,
-      "why": "You may soon buy specialized wearable tech to replace phone apps.",
-      "context": "Meta is reportedly developing a wearable artificial intelligence pendant.",
-      "next": "Competitors will likely announce their own wearable AI accessories.",
-      "bigger": "Big tech is shifting focus from screens to ambient, wearable intelligence.",
+      "why": "You may soon access digital assistants without using a phone.",
+      "context": "Tech giant Meta is reportedly creating a wearable AI device.",
+      "next": "Competitors will likely announce their own specialized AI wearables.",
+      "bigger": "Tech companies are moving away from traditional screen-based hardware.",
       "publishedAt": "2026-05-30T15:59:58+00:00",
       "topicFingerprint": [
         "ai_group",
         "pendant",
         "meta",
-        "hardware",
-        "wearables"
+        "work",
+        "hardware"
       ],
       "alternates": []
     },
@@ -496,82 +630,85 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 10,
-      "why": "Local farmers face immediate loss of crops, livestock, and homes.",
-      "context": "Heavy flooding of the Euphrates River caused severe damage in Syria.",
-      "next": "Regional food prices may rise due to destroyed agricultural land.",
-      "bigger": "Extreme weather events are threatening agricultural security in vulnerable regions.",
+      "why": "Local families face immediate displacement and severe food shortages.",
+      "context": "Severe flooding in eastern Syria forced emergency evacuations of farmers.",
+      "next": "Disease outbreaks could surge due to contaminated standing water.",
+      "bigger": "Extreme weather events are heavily impacting vulnerable agricultural regions.",
       "publishedAt": "2026-05-31T00:27:27+00:00",
       "topicFingerprint": [
+        "euphrates",
+        "rescues",
         "river",
         "syria",
-        "rescues",
-        "eastern",
-        "euphrates"
+        "banks"
       ],
       "alternates": []
     },
     {
-      "title": "Avoiding ABSD with sham deals can cause you to lose the properties",
-      "description": "Property investors who use sham arrangements to avoid tax can expect to face problems in their claims.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/invest/avoiding-absd-with-sham-deals-can-cause-you-to-lose-the-properties",
+      "title": "Over a thousand Palestinians from Gaza held in Israeli detention without charge",
+      "description": "A controversial law allows Israel to hold Palestinians in prison without charge or trial. Israel says it's a necessary for security, but rights groups say it leaves detainees in a legal limbo.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/30/nx-s1-5831351/over-a-thousand-palestinians-from-gaza-held-in-israeli-detention-without-charge",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Detainees lack access to basic legal representation and trials.",
+      "context": "Israel is holding many Palestinians in detention without formal charges.",
+      "next": "Human rights groups will likely launch fresh legal challenges.",
+      "bigger": "Indefinite detention policies continue to fuel severe international criticism.",
+      "publishedAt": "2026-05-30T17:08:42-04:00",
+      "topicFingerprint": [
+        "charge",
+        "israeli",
+        "without",
+        "thousand",
+        "palestinians"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Apple has five new products coming that could launch at WWDC",
+      "description": "Apple will unveil iOS 27, the new Siri, and a lot more in just over a week . But will any new hardware launch at WWDC? We\u2019re currently expecting a software-only slate of announcements, but here are five upcoming Apple products with the best chance of surprising us at WWDC. more\u2026",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Your Apple devices may soon receive powerful new features.",
+      "context": "Apple is expected to announce major software and hardware updates.",
+      "next": "Developers will begin testing beta versions of the new software.",
+      "bigger": "Smart assistants are becoming the core focus of consumer tech.",
+      "publishedAt": "2026-05-29T17:19:24+00:00",
+      "topicFingerprint": [
+        "coming",
+        "products",
+        "wwdc",
+        "five",
+        "launch"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump giving out $1,000 to some families: Check eligibility and requirements to claim free money",
+      "description": "The Trump administration has launched the Trump Accounts app, enabling families to create tax-deferred savings accounts for children under 18.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trump-giving-out-1-000-to-some-families-check-eligibility-and-requirements-to-claim-free-money-101780224590889.html",
       "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "Dishonest property investors face the loss of their real estate holdings.",
-      "context": "Singapore warned investors that using deceptive schemes to bypass taxes risks forfeiture.",
-      "next": "Tax agencies will increase audits on high-value property transactions.",
-      "bigger": "Governments are clamping down hard on tax avoidance in hot housing markets.",
-      "publishedAt": "2026-05-31T05:00:00+08:00",
+      "why": "Eligible American families can build tax-free savings for their kids.",
+      "context": "The US administration launched tax-deferred savings accounts for children.",
+      "next": "Millions of parents will download the new enrollment app.",
+      "bigger": "Governments are using targeted digital platforms to distribute financial aid.",
+      "publishedAt": "2026-05-31T16:31:40+05:30",
       "topicFingerprint": [
-        "absd",
-        "investors",
-        "tax",
-        "avoid",
-        "properties"
+        "eligibility",
+        "giving",
+        "claim",
+        "donald_trump",
+        "money"
       ],
       "alternates": []
-    },
-    {
-      "title": "Trump administration appears to downplay impact of green card policy changes",
-      "description": "The Department of Homeland Security issued a statement Saturday saying recent green card policy changes restated \"longstanding law and policy.\"",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-administration-appears-to-downplay-impact-of-green-card-policy-changes/",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Green card applicants may face stricter vetting and longer wait times.",
-      "context": "The US administration defended its updated green card policies as standard.",
-      "next": "Immigration lawyers will likely launch legal challenges against the new rules.",
-      "bigger": "Nations are tightening administrative controls to regulate foreign immigration.",
-      "publishedAt": "2026-05-30T16:17:06-04:00",
-      "topicFingerprint": [
-        "department",
-        "card",
-        "green",
-        "security",
-        "homeland"
-      ],
-      "alternates": [
-        {
-          "title": "US reverses new rule on overseas applications for green cards",
-          "description": "The Trump administration has walked back its announcement that non-citizens seeking permanent US residency, commonly called a green card, would need to return to their home country to apply, The New York Times reported. The Department of Homeland Security (DHS) told the newspaper on Friday that its ",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3355436/us-reverses-new-rule-overseas-applications-green-cards",
-          "category": "General",
-          "publishedAt": "2026-05-31T00:37:14+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "department",
-            "card",
-            "green",
-            "security",
-            "homeland"
-          ],
-          "group_id": 0
-        }
-      ]
     },
     {
       "title": "NASA taps 2 companies to develop buggies for its moon base program",
@@ -581,174 +718,44 @@
       "category": "Science",
       "readingTime": 2,
       "score": 7,
-      "why": "Private space firms will secure lucrative long-term government contracts.",
-      "context": "NASA selected two commercial firms to build transport vehicles for the moon.",
-      "next": "The selected companies will begin prototype testing in simulated lunar environments.",
-      "bigger": "Space exploration is shifting toward permanent commercial partnerships.",
+      "why": "Astronauts will soon traverse the moon with greater ease.",
+      "context": "NASA contracted private companies to build lunar exploration rovers.",
+      "next": "Engineering teams will test prototypes in simulated lunar environments.",
+      "bigger": "Private aerospace companies are increasingly driving national space programs.",
       "publishedAt": "2026-05-30T20:31:00-04:00",
       "topicFingerprint": [
-        "moon",
-        "taps",
+        "buggies",
         "program",
-        "nasa",
+        "base",
+        "moon",
         "develop"
       ],
       "alternates": []
     },
     {
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "description": "Authorities in Reggio Emilia, Italy, have banned Kanye West and Travis Scott concerts over security concerns and public safety.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/9841fcd6-b327-47ea-b6e6-86f3791ad209.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Ticket holders will miss the events and must seek refunds.",
-      "context": "Italian officials banned major rap concerts in Reggio Emilia over safety.",
-      "next": "Concert promoters may file lawsuits to recoup lost event revenue.",
-      "bigger": "Historic European cities are tightening crowdsourcing rules for major entertainment events.",
-      "publishedAt": "2026-05-30T20:13:31+00:00",
-      "topicFingerprint": [
-        "kanye",
-        "travis",
-        "concerts",
-        "bans",
-        "security"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump health update: POTUS' BMI nears obesity range despite 'excellent health' verdict",
-      "description": "US President Donald Trump's latest medical report reveals a BMI of 29.7, nearing obesity.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/trump-health-update-potus-bmi-nears-obesity-range-despite-excellent-health-verdict-101780148763426.html",
+      "title": "How Nigeria\u2019s \u2018algorithmic apothecary\u2019 fuels a surge in risky herbal cures",
+      "description": "Unverified herbal remedies promoted on social media are driving rising health risks and delayed treatment in Nigeria.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/how-nigerias-algorithmic-apothecary-fuels-a-surge-in-risky-herbal-cures",
       "category": "Health",
       "readingTime": 2,
-      "score": 6,
-      "why": "The president's physical health may affect his ability to govern effectively.",
-      "context": "A medical report showed the US president is close to being obese.",
-      "next": "The White House medical team may suggest dietary changes for the president.",
-      "bigger": "Public transparency regarding the health of aging political leaders is growing.",
-      "publishedAt": "2026-05-30T19:24:06+05:30",
+      "score": 5,
+      "why": "Local consumers face severe poisoning and delayed medical treatment.",
+      "context": "Unregulated herbal remedies are spreading rapidly on Nigerian social media.",
+      "next": "Health regulators may demand social platforms ban these promotions.",
+      "bigger": "Online misinformation is increasingly driving public health crises globally.",
+      "publishedAt": "2026-05-31T05:23:00+00:00",
       "topicFingerprint": [
-        "range",
-        "potus",
-        "update",
-        "bmi",
-        "nears"
+        "algorithmic",
+        "risky",
+        "herbal",
+        "apothecary",
+        "cures"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
-      {
-        "title": "How China will play a major role in Benin\u2019s economic growth as a new era is ushered in",
-        "description": "In Cotonou, Benin\u2019s largest city and economic capital located on the southern Atlantic coast, construction crews are busy building major projects, stretching from large-scale port upgrades to the asphalt-paving of the commercial hub\u2019s main roads. At the Autonomous Port of Cotonou, China Harbour Engi",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3355283/how-china-will-play-major-role-benins-economic-growth-new-era-ushered",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-05-31T04:00:05+00:00",
-        "reason": "within_48h",
-        "score": 16,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "large scale impact boost"
-          },
-          {
-            "points": 4,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
-            "reason": "large scale impact boost"
-          },
-          {
-            "points": 4,
-            "reason": "Impact priority base match: economic growth"
-          },
-          {
-            "points": 1,
-            "reason": "large scale impact boost"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority title match: economic growth"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ushered",
-          "play",
-          "benin",
-          "era",
-          "growth"
-        ]
-      },
-      {
-        "title": "Why the US Navy must look to allies if it wants to catch up to China at sea",
-        "description": "Washington\u2019s plans to work with allies on warship design and construction face steep opposition at home, but analysts warn that the US must outsource shipbuilding to South Korea and Japan if it wants to close its gap in fleet size with China. The US budget submission for the next financial year incl",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/military/article/3355413/why-us-navy-must-look-allies-if-it-wants-catch-china-sea",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-31T02:00:17+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: budget"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "wants",
-          "catch",
-          "sea",
-          "must",
-          "look"
-        ]
-      }
-    ],
     "united_states": [
       {
         "title": "Why the US Navy must look to allies if it wants to catch up to China at sea",
@@ -784,83 +791,118 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "wants",
-          "catch",
           "sea",
-          "must",
-          "look"
+          "catch",
+          "look",
+          "navy",
+          "must"
         ]
       },
       {
-        "title": "From nuclear submarines to trade, South Korea and US remain deadlocked ahead of talks",
-        "description": "South Korea and the United States are heading into talks in Seoul next week with different priorities over the implementation of last year\u2019s summit agreement, with President Lee Jae Myung pushing for the supply of nuclear-powered submarines and Washington seeking progress on a major investment pledg",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3355362/nuclear-submarines-trade-south-korea-and-us-remain-deadlocked-ahead-talks",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
+        "title": "Trump sends senior US diplomat to Haiti and Dominican Republic for talks on security, economy",
+        "description": "U.S. Deputy Secretary of State Christopher Landau will meet with officials in the Dominican Republic as part of an official two-day trip that included a stop in neighboring Haiti",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/trump-sends-senior-us-diplomat-haiti-dominican-republic-133447557",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-05-31T01:30:19+00:00",
+        "publishedAt": "2026-05-30T10:54:17-04:00",
         "reason": "within_48h",
-        "score": 10,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: investment"
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
           },
           {
             "points": 2,
             "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "nuclear",
-          "seoul",
-          "powered",
-          "sk_entity",
-          "different"
+          "sends",
+          "republic",
+          "senior",
+          "donald_trump",
+          "security"
         ]
       }
     ],
-    "south_korea": [
+    "china": [
       {
-        "title": "From nuclear submarines to trade, South Korea and US remain deadlocked ahead of talks",
-        "description": "South Korea and the United States are heading into talks in Seoul next week with different priorities over the implementation of last year\u2019s summit agreement, with President Lee Jae Myung pushing for the supply of nuclear-powered submarines and Washington seeking progress on a major investment pledg",
+        "title": "Why the US Navy must look to allies if it wants to catch up to China at sea",
+        "description": "Washington\u2019s plans to work with allies on warship design and construction face steep opposition at home, but analysts warn that the US must outsource shipbuilding to South Korea and Japan if it wants to close its gap in fleet size with China. The US budget submission for the next financial year incl",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3355362/nuclear-submarines-trade-south-korea-and-us-remain-deadlocked-ahead-talks",
+        "url": "https://www.scmp.com/news/china/military/article/3355413/why-us-navy-must-look-allies-if-it-wants-catch-china-sea",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-05-31T01:30:19+00:00",
+        "publishedAt": "2026-05-31T02:00:17+00:00",
         "reason": "within_48h",
-        "score": 10,
+        "score": 13,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: investment"
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: budget"
           },
           {
             "points": 2,
             "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sea",
+          "catch",
+          "look",
+          "navy",
+          "must"
+        ]
+      },
+      {
+        "title": "As EU mulls economic tools, China vows to take steps against any new trade restrictions",
+        "description": "China has renewed warnings to the European Union that it will retaliate against any new trade restrictions imposed by Brussels. \u201cIf the EU insists on unilaterally introducing new trade instruments and imposing discriminatory restrictions, China will resolutely retaliate and take effective measures t",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3355453/eu-mulls-economic-tools-china-vows-take-steps-against-any-new-trade-restrictions",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T07:11:55+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
             "points": 4,
@@ -871,6 +913,10 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
             "points": 1,
             "reason": "less than 6 hours"
           }
@@ -878,11 +924,87 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "nuclear",
-          "seoul",
-          "powered",
-          "sk_entity",
-          "different"
+          "tools",
+          "vows",
+          "trade",
+          "restrictions",
+          "mulls"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "As EU mulls economic tools, China vows to take steps against any new trade restrictions",
+        "description": "China has renewed warnings to the European Union that it will retaliate against any new trade restrictions imposed by Brussels. \u201cIf the EU insists on unilaterally introducing new trade instruments and imposing discriminatory restrictions, China will resolutely retaliate and take effective measures t",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3355453/eu-mulls-economic-tools-china-vows-take-steps-against-any-new-trade-restrictions",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T07:11:55+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "tools",
+          "vows",
+          "trade",
+          "restrictions",
+          "mulls"
+        ]
+      },
+      {
+        "title": "Russia recalls ambassador from Armenia over EU ties ahead of vote",
+        "description": "Russia recalls its ambassador to Armenia in protest of the country's rapprochement with the EU and shift toward Europe ahead of a June 7 election.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/ef28a425-ebe4-4a45-a21e-63358201da40.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-30T12:14:07+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "russia",
+          "ambassador",
+          "recalls",
+          "ahead",
+          "ties"
         ]
       }
     ],
@@ -919,79 +1041,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chief",
-          "german",
-          "defense",
+          "shangri",
+          "losing",
           "dialogue",
-          "chance"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "US to send only used nuclear subs to Australia in amended defence deal",
-        "description": "US to send only used nuclear subs to Australia in amended defence deal",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/us-to-send-only-used-nuclear-subs-to-australia-in-amended-defence-deal-101780201269563.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-05-31T09:51:09+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "amended",
-          "defence",
-          "australia",
-          "nuclear",
-          "subs"
-        ]
-      },
-      {
-        "title": "'It's like a decaying body': Australian farmers battle mouse plague",
-        "description": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c794g80lw74o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-05-30T20:58:05+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "australian",
-          "decaying",
-          "body",
-          "plague",
-          "farmers"
+          "chance",
+          "german"
         ]
       }
     ],
@@ -1024,11 +1078,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "storms",
-          "deadly",
           "france",
           "strong",
-          "warns"
+          "warns",
+          "heatwave",
+          "deadly"
         ]
       },
       {
@@ -1065,38 +1119,38 @@
             "readingTime": 2,
             "topicFingerprint": [
               "open",
-              "anastasia",
-              "defending",
               "potapova",
-              "gauff"
+              "gauff",
+              "champion",
+              "french"
             ],
             "group_id": 0
           },
           {
-            "title": "Defending champion Coco Gauff eliminated by Potapova in French Open third round",
-            "description": "Defending champion Coco Gauff was defeated by Anastasia Potapova in three sets (4-6, 7-6(1), 6-4) in the third round of the French Open.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/ec571ab8-11aa-42c0-8ca1-ac3558fdc7cf.html",
+            "title": "Holder Gauff beaten by Potapova; Sabalenka solid at French Open",
+            "description": "Gauff s exit leaves four-time champion Swiatek and world number one Sabalenka as top contenders for the women s title.",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/sports/2026/5/31/holder-gauff-beaten-by-potapova-sabalenka-solid-at-french-open",
             "category": "General",
-            "publishedAt": "2026-05-30T19:13:53+00:00",
+            "publishedAt": "2026-05-31T08:26:20+00:00",
             "score": 3,
             "readingTime": 2,
             "topicFingerprint": [
               "open",
-              "anastasia",
-              "defending",
               "potapova",
-              "gauff"
+              "gauff",
+              "champion",
+              "french"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
           "open",
-          "anastasia",
-          "defending",
           "potapova",
-          "gauff"
+          "gauff",
+          "champion",
+          "french"
         ]
       }
     ],
@@ -1130,10 +1184,10 @@
         "alternates": [],
         "topicFingerprint": [
           "india",
-          "250th",
+          "embassy",
           "rickshaws",
-          "birthday",
-          "donald_trump"
+          "donald_trump",
+          "birthday"
         ]
       },
       {
@@ -1184,30 +1238,34 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "concerned",
           "india",
           "data",
           "rbi",
+          "flowing",
           "dollars"
         ]
       }
     ],
-    "europe": [
+    "italy": [
       {
-        "title": "Russia recalls ambassador from Armenia over EU ties ahead of vote",
-        "description": "Russia recalls its ambassador to Armenia in protest of the country's rapprochement with the EU and shift toward Europe ahead of a June 7 election.",
+        "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+        "description": "Authorities in Reggio Emilia, Italy, have banned Kanye West and Travis Scott concerts over security concerns and public safety.",
         "source": "Frontpage",
-        "url": "https://frontpage.ink/ef28a425-ebe4-4a45-a21e-63358201da40.html",
+        "url": "https://frontpage.ink/9841fcd6-b327-47ea-b6e6-86f3791ad209.html",
         "fromUrl": "https://frontpage.ink/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-05-30T12:14:07+00:00",
+        "publishedAt": "2026-05-30T20:13:31+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: russia"
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: safety"
           },
           {
             "points": 2,
@@ -1215,69 +1273,245 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Russia recalls Armenia ambassador over EU ties",
-            "description": "The recall comes a day after Putin warned Armenia against seeking EU membership and alluded to the \"Ukrainian scenario.\" Armenia historically has strong ties with Russia but has pivoted toward the West in recent years.",
-            "source": "Deutsche Welle",
-            "url": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081",
-            "category": "General",
-            "publishedAt": "2026-05-30T09:27:00+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ambassador",
-              "recalls",
-              "toward",
-              "armenia",
-              "eu_entity"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "ambassador",
-          "recalls",
-          "toward",
-          "armenia",
-          "eu_entity"
+          "italy",
+          "bans",
+          "security",
+          "scott",
+          "concerts"
         ]
-      },
+      }
+    ],
+    "uk": [
       {
-        "title": "What Hungary must do to receive EU funds frozen under Orban",
-        "description": "Prime Minister Peter Magyar and European Commission President Ursula von der Leyen announced a deal that could free up over \u20ac16 billion in EU funds for Hungary. Now, Magyar's new government needs to deliver.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Policy",
+        "title": "Samsung\u2019s UK boss keeps a signed $100 bill she\u2019s never allowed to spend\u2014and shares her best and worst investments",
+        "description": "Samsung's top UK exec bought her first flat at auction with two credit cards, she admits work-life balance is a lie and always has a $100 bill on her.",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/31/samsung-uk-vp-signed-100-bill-emergency-gift-closet-working-parent-career-advice/",
+        "fromUrl": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-05-30T11:11:00+00:00",
+        "publishedAt": "2026-05-31T09:54:00+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: uk"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "hungary",
-          "frozen",
-          "receive",
-          "eu_entity",
-          "must"
+          "keeps",
+          "she",
+          "bill",
+          "her",
+          "never"
         ]
       }
     ],
-    "mexico": [
+    "singapore": [
       {
-        "title": "Mexico beat Australia 1-0 ahead of World Cup squad submission deadline",
+        "title": "Mizuho plans more Singapore hiring to power next phase of Asia growth",
+        "description": "India tops the list of preferred investment destinations for Japanese clients, says Apac CEO Koichi Zaiki",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/mizuho-plans-more-singapore-hiring-power-next-phase-asia-growth",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T09:00:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "financial low priority keyword match: says"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -3,
+            "reason": "low corporate opinion signal"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "mizuho",
+          "phase",
+          "hiring",
+          "asia",
+          "growth"
+        ]
+      },
+      {
+        "title": "Singapore\u2019s CapitaLand sheds 10% of China staff amid downturn",
+        "description": "Headcount in its Singapore base has also been reduced, though the proportion stays unchanged at 24% of global employees",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/singapores-capitaland-sheds-10-china-staff-amid-downturn",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T09:45:11+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "capitaland",
+          "staff",
+          "sheds",
+          "downturn",
+          "singapore"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "India, Canada optimistic on free trade deal as CEPA talks gain momentum",
+        "description": "Indian and Canadian officials voiced confidence in ongoing free trade negotiations during the Western Canada-India Leaders Summit in Regina. The renewed engagement comes after talks stalled in 2023, with both countries now aiming to conclude a CEPA deal and significantly expand bilateral trade by 20",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/india-canada-optimistic-on-free-trade-deal-as-cepa-talks-gain-momentum-ws-l-19916410.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T16:40:08+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "india",
+          "canada",
+          "trade",
+          "optimistic",
+          "free"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "The seed guardian of Brazil\u2019s Caatinga",
+        "description": "In Minas Gerais, Brazil, a catingueiro shares his home with the memory of his ancestors and generations of plant varieties.",
+        "source": "Global Voices",
+        "url": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+        "fromUrl": "https://globalvoices.org/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T09:00:42+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "seed",
+          "brazil",
+          "guardian",
+          "caatinga"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
         "description": "The warm-up friendly simulated World Cup conditions, including cooling breaks for the players, at the Rose Bowl stadium.",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline",
@@ -1300,11 +1534,44 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "submission",
-          "mexico",
           "squad",
-          "ahead",
-          "australia"
+          "beat",
+          "submission",
+          "deadline",
+          "cup"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
+        "description": "The warm-up friendly simulated World Cup conditions, including cooling breaks for the players, at the Rose Bowl stadium.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-05-31T06:07:18+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "squad",
+          "beat",
+          "submission",
+          "deadline",
+          "cup"
         ]
       }
     ]
