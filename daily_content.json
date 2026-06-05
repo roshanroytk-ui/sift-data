@@ -1,72 +1,377 @@
 {
-  "updatedAt": "2026-06-04T16:19:57.242056",
+  "updatedAt": "2026-06-05T03:58:12.788811",
   "insight": {
-    "title": "Why a Period Feels Like a Threat",
-    "subtitle": "How the internet turned basic grammar into a passive-aggressive weapon.",
-    "notificationHook": "Why a single period feels so hostile.",
+    "title": "Coffee Lids Have a Tiny Second Hole to Save Your Face",
+    "subtitle": "Without this microscopic design feature, your morning brew would violently splash with every sip.",
+    "notificationHook": "Why coffee lids need a second hole",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Receiving a text that ends in a period used to mean a sentence was finished. Now, it feels like an active threat, signaling unspoken anger, coldness, or a total conversational shutdown."
+        "text": "Look closely at your disposable coffee lid. Opposite the drinking spout sits a microscopic pinhole. It seems useless\u2014even counterintuitive for a lid meant to prevent spills. But it is entirely intentional."
       },
       {
         "type": "paragraph",
-        "text": "In digital spaces, we communicate tone through absence. Because we usually send messages without punctuation, adding a formal period feels deliberate\u2014a silent, sharp exclamation point of disapproval."
+        "text": "Without that tiny hole, pouring liquid out creates a vacuum inside the cup. Air fights to get in through the drinking spout, causing the hot coffee to glug, splash, and scald your face."
       },
       {
         "type": "paragraph",
-        "text": "We\u2019ve built an entire unwritten syntax of emotional safety. \"lol\" is no longer a laugh; it\u2019s a shield. Lowercase is intimate. Proper grammar is reserved for enemies and bosses."
+        "text": "The pinhole lets air enter the cup as coffee leaves. This neutralizes the pressure, allowing a smooth, continuous stream of caffeine to flow safely onto your tongue instead of exploding onto your shirt."
       },
       {
         "type": "paragraph",
-        "text": "We didn't kill the period; we just weaponized it."
+        "text": "One microscopic hole keeps your morning commute stain-free."
       }
     ]
   },
   "news": [
     {
-      "title": "OECD predicts spate of recessions globally if Iran conflict drags into 2027",
-      "description": "Policy forum lays out \u2018prolonged disruption\u2019 scenario in which world\u2019s GDP falls to 2.1% this year from 3.4% in 2025 Rural UK \u2018particularly at risk\u2019 of diesel shortages If the Middle East conflict drags on into next year it would hit global growth hard, driving some economies into recession and caus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/oecd-predicts-spate-of-recessions-globally-if-iran-conflict-drags-into-2027",
-      "category": "Economy",
+      "title": "Ships stranded in Persian Gulf quietly coordinate with U.S. Navy to exit Hormuz",
+      "description": "Clashes erupted between the U.S. and Iran over commercial ships earlier this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/04/iran-war-strait-hormuz-persian-gulf-oil-tanker-transit.html",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 19,
-      "why": "Your cost of living and fuel prices may rise significantly soon.",
-      "context": "Economic forecasters warned of widespread recessions if Middle East conflicts persist.",
-      "next": "Central banks may delay interest rate cuts to combat persistent inflation.",
-      "bigger": "Prolonged regional conflicts are increasingly destabilizing the integrated global economy.",
-      "publishedAt": "2026-06-03T07:00:45+00:00",
+      "score": 11,
+      "why": "Your imported goods and fuel could face delivery delays.",
+      "context": "Stranded commercial vessels are secretly working with the U.S. Navy.",
+      "next": "More merchant ships may request military escorts through the gulf.",
+      "bigger": "Geopolitical tensions are redrawing international maritime trade routes.",
+      "publishedAt": "2026-06-04T20:52:54+00:00",
       "topicFingerprint": [
-        "iran",
+        "stranded",
+        "exit",
+        "persian",
+        "hormuz",
+        "ships"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "BOJ expected to raise interest rates in June: sources",
+      "description": "Markets are pricing in an 80% chance that the bank will raise its short-term policy rate to 1% from 0.75%",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-expected-raise-interest-rates-june-sources",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Borrowing costs may rise for businesses trading with Japan.",
+      "context": "Japan's central bank is prepared to increase borrowing costs soon.",
+      "next": "Investors may shift capital back into Japanese financial assets.",
+      "bigger": "Global central banks are ending years of ultra-low interest rates.",
+      "publishedAt": "2026-06-04T07:50:30+00:00",
+      "topicFingerprint": [
+        "rates",
+        "interest",
+        "raise",
+        "expected",
+        "boj"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "ST Explains: What does Trump\u2019s new tariff on \u2018forced labour\u2019 mean for Singapore trade?",
+      "description": "US trade partners, including Singapore, China and India, would face higher duties of 12.5 per cent.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/st-explains-what-does-trumps-new-tariff-on-forced-labour-mean-for-singapore-trade",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Singaporean exporters face higher costs and reduced profit margins.",
+      "context": "Proposed U.S. tariffs threaten to increase duties on Singaporean goods.",
+      "next": "Affected companies may shift their manufacturing plants to other nations.",
+      "bigger": "Global supply chains are fracturing due to rising protectionist policies.",
+      "publishedAt": "2026-06-04T12:30:00+08:00",
+      "topicFingerprint": [
+        "us_entity",
+        "forced",
+        "labour",
+        "tariff",
+        "trade"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "South Korea stocks fall 4% as tech heavyweights follow plunge in Wall Street's AI-linked names",
+      "description": "Asia-Pacific markets fell on Friday as investors assessed a rotation out of chip stocks on Wall Street that lifted the Dow Jones Industrial Average to a record close.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 17,
+      "why": "Tech investment funds may lose value for global investors.",
+      "context": "South Korean tech shares tumbled following a selloff in U.S. chipmakers.",
+      "next": "Stock markets may experience heightened volatility in the coming weeks.",
+      "bigger": "Investor enthusiasm for artificial intelligence hardware is starting to cool.",
+      "publishedAt": "2026-06-05T03:22:00+00:00",
+      "topicFingerprint": [
         "us_entity",
         "war",
+        "iran",
         "donald_trump",
-        "israel",
-        "lebanon"
+        "ukraine",
+        "israel"
       ],
       "alternates": [
         {
-          "title": "OECD cuts global growth forecast, warns prolonged US-Iran war could trigger recessions",
-          "description": "OECD cautioned that a prolonged West Asia conflict would have far more severe consequences. Under a scenario where shipping disruptions and damage to energy infrastructure continue into 2027, global growth could slow to 2.1% in 2026 and 1.8% in 2027.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/economy/oecd-cuts-global-growth-forecast-prolonged-us-iran-war-may-trigger-recessions-ws-el-19918563.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-03T13:49:42+05:30",
-          "score": 10,
+          "title": "Asia tech stocks drop after Broadcom rattles AI trade and drags Wall Street names lower",
+          "description": "Asian technology shares fell, tracking losses in U.S. semiconductor stocks after disappointing earnings Broadcom sparked a rotation out of AI-linked names.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html",
+          "category": "Financial",
+          "publishedAt": "2026-06-05T01:40:30+00:00",
+          "score": 16,
           "readingTime": 2,
           "topicFingerprint": [
-            "iran",
             "us_entity",
             "war",
+            "iran",
             "donald_trump",
-            "israel",
-            "lebanon"
+            "ukraine",
+            "israel"
           ],
-          "group_id": 3
+          "group_id": 8
+        },
+        {
+          "title": "Asia stocks pressured by tech losses; Nikkei, KOSPI slide on chip losses",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-pressured-by-tech-losses-nikkei-kospi-slide-on-chip-losses-4727820",
+          "category": "Financial",
+          "publishedAt": "2026-06-05T03:05:09+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "israel"
+          ],
+          "group_id": 8
         }
       ]
+    },
+    {
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "description": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "American livestock safety and meat supplies face elevated risks.",
+      "context": "The U.S. is deploying biological tools to combat an invasive pest.",
+      "next": "Authorities may expand quarantine zones across affected southern states.",
+      "bigger": "Climate change is accelerating the spread of destructive agricultural pests.",
+      "publishedAt": "2026-06-05T00:56:42+00:00",
+      "topicFingerprint": [
+        "dogs",
+        "flesh",
+        "eating",
+        "outbreak",
+        "fight"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Putin envoy says Russia-US talks on energy, economy continue",
+      "description": "ST. PETERSBURG, Russia, June 4 - Russia-U.S. talks on economic and energy issues continue despite a pause in Ukraine peace negotiations, President Vladimir Putin's special envoy Kirill Dmitriev told Reuters on Thursday, adding he spoke to U.S. counterparts a day earlier.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/putin-envoy-says-russia-us-talks-on-energy-economy-continue",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Energy markets may experience sudden price shifts from these talks.",
+      "context": "U.S. and Russian officials are still discussing economic issues.",
+      "next": "The two nations may negotiate behind-the-scenes energy supply deals.",
+      "bigger": "Behind-the-scenes diplomacy persists even during major geopolitical conflicts.",
+      "publishedAt": "2026-06-05T01:11:37+08:00",
+      "topicFingerprint": [
+        "us_entity",
+        "war",
+        "iran",
+        "donald_trump",
+        "ukraine",
+        "israel"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Chinese investors behind Indonesia's nickel boom scout alternatives as policy changes bite",
+      "description": "Jakarta\u2019s taxes, mining quotas and pricing rules unsettle investors.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/chinese-investors-behind-indonesias-nickel-boom-scout-alternatives-as-policy-changes-bite",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Electric vehicle batteries could become more expensive to manufacture.",
+      "context": "Chinese mining companies are seeking new countries for mineral projects.",
+      "next": "Investors may redirect billions in capital to African mining markets.",
+      "bigger": "Resource nationalism is forcing companies to diversify global supply chains.",
+      "publishedAt": "2026-06-05T11:38:00+08:00",
+      "topicFingerprint": [
+        "behind",
+        "scout",
+        "boom",
+        "nickel",
+        "indonesia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump signs order to make it easier to fire 8,000 highly paid federal workers",
+      "description": "Order strips job protections from workers earning up to about $200,000 a year and deemed to be \u2018influencing\u2019 policy Donald Trump has signed an executive order making it easier to fire thousands of the best-paid workers in the US government aspart of a broader drive by his administration to overhaul ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-order-federal-workers",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Access to government services could face sudden administrative delays.",
+      "context": "A new executive order reduces job security for senior U.S. officials.",
+      "next": "Legal challenges from labor unions will likely delay the order.",
+      "bigger": "Executive power is expanding to reshape the civil service landscape.",
+      "publishedAt": "2026-06-03T20:35:08+00:00",
+      "topicFingerprint": [
+        "us_entity",
+        "sanctions",
+        "donald_trump",
+        "cuban",
+        "cuba"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "description": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your online search results may become more accurate and secure.",
+      "context": "Estonia tested how different AI systems handle state-sponsored disinformation.",
+      "next": "Tech companies will likely update their models to filter propaganda.",
+      "bigger": "Artificial intelligence is the new battleground for global information warfare.",
+      "publishedAt": "2026-06-04T20:44:31+00:00",
+      "topicFingerprint": [
+        "llms",
+        "russian",
+        "propaganda",
+        "resisting"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "EU invests in ocean monitoring as US cuts funding",
+      "description": "The EU is expanding its ocean monitoring network with underwater drones and satellites as climate change intensifies heat waves and storms",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/eu-invests-ocean-monitoring-us-cuts-funding-133596637",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Maritime weather forecasts may become less reliable in some regions.",
+      "context": "Europe is funding underwater technology to replace American tracking programs.",
+      "next": "European tech firms will win new government surveillance contracts.",
+      "bigger": "Scientific leadership is shifting as Western powers alter spending priorities.",
+      "publishedAt": "2026-06-04T15:22:31-04:00",
+      "topicFingerprint": [
+        "monitoring",
+        "ocean",
+        "change",
+        "climate",
+        "underwater"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "NASA ends MAVEN mission after Mars spacecraft is declared dead",
+      "description": "NASA ends the MAVEN mission after the Mars spacecraft, which studied the planet's atmosphere and evolution for over a decade, was declared unrecoverable.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/333c7579-c8d9-4803-a0bf-a97f0ee09227.html",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Scientists will lose access to live data about Mars' atmosphere.",
+      "context": "NASA terminated a long-running planetary science mission after communication failed.",
+      "next": "Space agencies will redirect resources toward upcoming lunar exploration missions.",
+      "bigger": "Aging deep-space infrastructure is reaching the end of its lifespan.",
+      "publishedAt": "2026-06-04T18:17:35+00:00",
+      "topicFingerprint": [
+        "nasa",
+        "mission",
+        "mars",
+        "maven",
+        "spacecraft"
+      ],
+      "alternates": [
+        {
+          "title": "NASA declares its Mars Maven spacecraft dead after 6 months of silence",
+          "description": "The space agency confirmed Wednesday that the mission had ended after more than a decade of observations.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/science/nasa-declares-its-mars-maven-spacecraft-dead-after-6-months-of-silence",
+          "category": "Science",
+          "publishedAt": "2026-06-04T17:12:53-04:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nasa",
+            "mission",
+            "mars",
+            "maven",
+            "spacecraft"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Coastal communities will face lower risks from flooding and storms.",
+      "context": "Coastal mangrove ecosystems are successfully recovering across the globe.",
+      "next": "Governments may increase funding for natural coastal defense projects.",
+      "bigger": "Nature-based solutions are becoming central to global climate action plans.",
+      "publishedAt": "2026-06-04T23:11:15+00:00",
+      "topicFingerprint": [
+        "healing",
+        "forests",
+        "mangrove",
+        "decades",
+        "human"
+      ],
+      "alternates": []
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Gold steadies as uncertainty surrounds progress in US-Iran talks",
+      "description": "The war\u2019s protracted disruption to energy flows via the Strait of Hormuz has driven oil prices higher",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-steadies-uncertainty-surrounds-progress-us-iran-talks",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 21,
+      "why": "Your fuel costs may rise if oil transport remains threatened.",
+      "context": "Gold prices stabilized as diplomatic negotiations between adversaries stalled.",
+      "next": "Safe-haven assets like gold may see sudden buying surges.",
+      "bigger": "Commodity prices remain highly sensitive to Middle Eastern geopolitics.",
+      "publishedAt": "2026-06-05T00:51:14+00:00",
+      "topicFingerprint": [
+        "us_entity",
+        "war",
+        "iran",
+        "donald_trump",
+        "ukraine",
+        "israel"
+      ],
+      "alternates": []
     },
     {
       "title": "Gold rises as dip-buyers return after Israel-Lebanon ceasefire",
@@ -75,19 +380,19 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-rises-dip-buyers-return-after-israel-lebanon-ceasefire",
       "category": "Financial",
       "readingTime": 2,
-      "score": 24,
-      "why": "Your purchasing power may decline as global inflation pressure remains high.",
-      "context": "Gold prices increased as investors sought safety amid ongoing global inflation worries.",
-      "next": "Investors will likely buy more precious metals if geopolitical tensions persist.",
-      "bigger": "Rising commodity prices reflect growing systemic distrust in traditional paper currencies.",
+      "score": 21,
+      "why": "Your everyday cost of living may remain elevated.",
+      "context": "Investors bought more gold despite a temporary regional peace agreement.",
+      "next": "Central banks may continue purchasing precious metals to hedge risks.",
+      "bigger": "Regional peace deals do not instantly stabilize global energy markets.",
       "publishedAt": "2026-06-04T01:19:59+00:00",
       "topicFingerprint": [
-        "iran",
         "us_entity",
         "war",
+        "iran",
         "donald_trump",
-        "israel",
-        "lebanon"
+        "ukraine",
+        "israel"
       ],
       "alternates": [
         {
@@ -100,432 +405,202 @@
           "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
-            "iran",
             "us_entity",
             "war",
+            "iran",
             "donald_trump",
-            "israel",
-            "lebanon"
+            "ukraine",
+            "israel"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "BOJ expected to raise interest rates in June: sources",
-      "description": "Markets are pricing in an 80% chance that the bank will raise its short-term policy rate to 1% from 0.75%",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-expected-raise-interest-rates-june-sources",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Mortgages and business loans in Japan will likely become more expensive.",
-      "context": "The Bank of Japan prepares to increase its benchmark borrowing costs.",
-      "next": "The Japanese yen could strengthen against other major global currencies.",
-      "bigger": "Global central banks are slowly ending the era of cheap credit.",
-      "publishedAt": "2026-06-04T07:50:30+00:00",
-      "topicFingerprint": [
-        "expected",
-        "rates",
-        "sources",
-        "boj",
-        "june"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump orders US Customs to crack down on tariff cheats",
-      "description": "Foreign companies that bring goods into the US will also face stricter compliance requirements.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/economy/trump-orders-us-customs-to-crack-down-on-tariff-cheats",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 10,
-      "why": "US consumers may face higher prices for imported daily goods.",
-      "context": "The US presidency ordered a strict crackdown on businesses avoiding import tariffs.",
-      "next": "Foreign exporters will face intensive audits and potential delays at borders.",
-      "bigger": "Global trade systems are transitioning from free markets to protectionist barriers.",
-      "publishedAt": "2026-06-04T13:00:00+08:00",
-      "topicFingerprint": [
-        "tariff",
-        "donald_trump",
-        "crack",
-        "orders",
-        "customs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Meta accuses Australia of breaching Free Trade Agreement, invokes US 'trade action'",
-      "description": "Meta accused Australia of violating a free trade agreement with US by proposing a new tax on tech giants, Australian govt. remains firm, provoking trade action.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/meta-accuses-australia-of-breaching-free-trade-agreement-invokes-us-trade-action-101780546179555.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Australian social media users may lose access to key online services.",
-      "context": "Meta threatened legal trade retaliation over Australia's proposed digital tax laws.",
-      "next": "Other multinational tech giants may pause their investments in Australian infrastructure.",
-      "bigger": "Digital taxation disputes are creating deeper political divisions between trading nations.",
-      "publishedAt": "2026-06-04T10:11:19+05:30",
-      "topicFingerprint": [
-        "agreement",
-        "free",
-        "meta",
-        "australia",
-        "trade"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump plans $700 million investment in new coal plants and terminal",
-      "description": "The money is expected to fund new and existing coal plants, as well as an export terminal in California.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-coal-industry-funding-boost/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 10,
-      "why": "US energy firms may pivot back to traditional fossil fuel production.",
-      "context": "The US administration announced heavy funding for coal power and export infrastructure.",
-      "next": "Environmental organizations will likely file federal lawsuits to block these developments.",
-      "bigger": "The global transition toward renewable energy faces severe domestic political resistance.",
-      "publishedAt": "2026-06-04T10:34:42-04:00",
-      "topicFingerprint": [
-        "terminal",
-        "plans",
-        "coal",
-        "investment",
-        "donald_trump"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump signs order to make it easier to fire 8,000 highly paid federal workers",
-      "description": "Order strips job protections from workers earning up to about $200,000 a year and deemed to be \u2018influencing\u2019 policy Donald Trump has signed an executive order making it easier to fire thousands of the best-paid workers in the US government aspart of a broader drive by his administration to overhaul ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-order-federal-workers",
-      "category": "Policy",
+      "title": "Chinese satellite company releases images of Nvidia, Apple HQs",
+      "description": "After it was sanctioned by the US government for allegedly helping Iran, a Chinese satellite company has released high-definition images of the Nvidia and Apple headquarters in California\u2019s Silicon Valley. They were among photos posted on social media on Monday by Changguang Satellite based in Chang",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/science/article/3355930/chinese-satellite-company-releases-images-nvidia-apple-hqs",
+      "category": "Technology",
       "readingTime": 2,
       "score": 13,
-      "why": "Many senior public officials face an immediate risk of termination.",
-      "context": "A new executive order reduces employment protections for senior government employees.",
-      "next": "Displaced civil servants may challenge the policy changes in federal court.",
-      "bigger": "Governments are increasingly exerting direct political control over traditional civil services.",
-      "publishedAt": "2026-06-03T20:35:08+00:00",
+      "why": "Tech companies may face increased physical and corporate espionage risks.",
+      "context": "A sanctioned Chinese firm published high-resolution photographs of U.S. tech hubs.",
+      "next": "U.S. authorities may tighten regulations on commercial satellite photography.",
+      "bigger": "Private space technology is being weaponized in geopolitical disputes.",
+      "publishedAt": "2026-06-04T22:00:06+00:00",
       "topicFingerprint": [
+        "images",
+        "satellite",
+        "apple",
+        "releases",
+        "hqs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "description": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts throu",
+      "source": "Mit Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Legal proceedings may take much longer to resolve.",
+      "context": "AI tools are flooding courts with automated legal claims.",
+      "next": "Judges will likely introduce strict verification rules for filed documents.",
+      "bigger": "Generative AI is rapidly overwhelming traditional administrative systems.",
+      "publishedAt": "2026-06-04T12:10:00+00:00",
+      "topicFingerprint": [
+        "power",
+        "data",
         "ai_group",
-        "build",
-        "models",
-        "microsoft",
-        "donald_trump",
-        "model"
+        "plants",
+        "centers"
       ],
       "alternates": [
         {
-          "title": "Trump signs order to make it easier to fire 8,000 federal workers",
-          "description": "President Trump signed an executive order making it easier to fire approximately 8,000 high-ranking federal workers as part of a federal workforce overhaul.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/7d4736ad-3c13-4b54-8a8c-79785a12602b.html",
-          "category": "Policy",
-          "publishedAt": "2026-06-03T22:15:25+00:00",
-          "score": 4,
+          "title": "How courts are coping with a flood of AI-generated lawsuits",
+          "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
+          "source": "Mit Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+          "category": "Technology",
+          "publishedAt": "2026-06-04T10:50:18+00:00",
+          "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
+            "power",
+            "data",
             "ai_group",
-            "build",
-            "models",
-            "microsoft",
-            "donald_trump",
-            "model"
+            "plants",
+            "centers"
           ],
           "group_id": 0
         },
         {
-          "title": "Trump order eases firing of 8,000 senior federal workers influencing policy",
-          "description": "US President Donald Trump signed an executive order easing the removal of about 8,000 senior federal employees, curbing job protections as part of a broader push to reshape the US workforce.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/trump-order-eases-firing-of-8000-senior-federal-workers-influencing-policy-ws-l-19919162.htm",
-          "category": "Policy",
-          "publishedAt": "2026-06-04T08:20:30+05:30",
-          "score": 4,
+          "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
+          "description": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. 5 key points in Trump s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising t",
+          "source": "Mit Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+          "category": "Technology",
+          "publishedAt": "2026-06-03T12:10:00+00:00",
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
+            "power",
+            "data",
             "ai_group",
-            "build",
-            "models",
-            "microsoft",
-            "donald_trump",
-            "model"
+            "plants",
+            "centers"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "10,000 Boomers a day, $39 trillion in debt, and no benefit cuts: Bessent stakes Social Security on the Trump economy",
-      "description": "Bessent vowed, \"the senior citizen does not not pay more taxes and the senior citizen does not get less benefits.\" Meanwhile the trust fund is going broke.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/04/scott-bessent-social-security-10000-boomers-a-day-growth-spending-plan/",
-      "category": "General",
+      "title": "Rupee trades in narrow range against U.S. dollar in early trade",
+      "description": "Forex traders said prolonged West Asia crisis poses a major risk for India, which relies heavily on energy imports",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/markets/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71059683.ece",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 12,
-      "why": "American taxpayers may face higher national debt to fund senior pensions.",
-      "context": "The US Treasury pick pledged to protect senior citizen pension benefits.",
-      "next": "Lawmakers will debate alternative tax reforms to sustain the pension system.",
-      "bigger": "Aging demographics are putting unprecedented pressure on Western public finance systems.",
-      "publishedAt": "2026-06-04T15:38:12+00:00",
+      "score": 11,
+      "why": "Indian consumers may face higher prices for imported goods.",
+      "context": "The Indian currency remained flat amid persistent Middle East tensions.",
+      "next": "India's central bank may intervene to stabilize the local currency.",
+      "bigger": "Emerging market currencies are highly vulnerable to global energy shocks.",
+      "publishedAt": "2026-06-04T10:32:55+05:30",
       "topicFingerprint": [
-        "social",
-        "boomers",
-        "benefit",
-        "donald_trump",
-        "trillion"
+        "energy",
+        "trade",
+        "india",
+        "crisis",
+        "venezuela"
       ],
       "alternates": []
     },
     {
-      "title": "SoftBank shares plunge over 11% amid broader tech sell-off",
-      "description": "Shares of SoftBank fell 11% following an overnight sell-off in the U.S. market on the back of wider profit taking in the tech sector.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/04/softbanks-shares-are-down-10percent-amid-broader-tech-sell-off.html",
+      "title": "Slovenia's parliament approves Jansa's centre-right government",
+      "description": "LJUBLJANA, June 4 - Slovenia's parliament on Thursday approved Prime Minister Janez Jansa's centre-right government, which has pledged tax cuts, targeted spending and an anti-corruption drive.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/slovenias-parliament-approves-jansas-centre-right-government",
       "category": "Financial",
       "readingTime": 2,
       "score": 11,
-      "why": "Tech startups may find it harder to secure early-stage venture funding.",
-      "context": "SoftBank experienced a severe stock drop during a global technology sell-off.",
-      "next": "Tech stock indices may continue to decline as retail investors panic.",
-      "bigger": "Venture capital companies are reducing their exposure to highly speculative businesses.",
-      "publishedAt": "2026-06-04T10:23:54+00:00",
+      "why": "Slovenian citizens will soon pay lower income taxes.",
+      "context": "Slovenian lawmakers voted to approve a new conservative administration.",
+      "next": "The new government will begin drafting its targeted spending plan.",
+      "bigger": "European politics continues to shift toward center-right fiscal policies.",
+      "publishedAt": "2026-06-05T01:31:08+08:00",
       "topicFingerprint": [
-        "softbank",
-        "plunge",
-        "sell",
-        "tech",
-        "broader"
+        "parliament",
+        "approves",
+        "centre",
+        "jansa",
+        "right"
       ],
       "alternates": []
     },
     {
-      "title": "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
-      "description": "The monsoon rains are essential for driving India s $4 trillion economy.",
+      "title": "Russia\u2019s Andreeva beats Ukraine\u2019s Kostyuk in no-handshake French Open semi",
+      "description": "No handshake and no photo as Mirra Andreeva of Russia beats Marta Kostyuk of Ukraine to reach French Open final.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests",
+      "url": "https://www.aljazeera.com/sports/2026/6/4/russias-andreeva-beats-ukraines-kostyuk-in-no-handshake-french-open-semi",
       "category": "General",
       "readingTime": 2,
-      "score": 9,
-      "why": "Indian consumers may benefit from cheaper, more stable local food prices.",
-      "context": "Vital monsoon rains arrived in India, bringing relief to agricultural regions.",
-      "next": "Farmers will begin planting key seasonal crops like rice and soybeans.",
-      "bigger": "Emerging market economies remain highly dependent on unpredictable seasonal weather patterns.",
-      "publishedAt": "2026-06-04T11:10:33+00:00",
-      "topicFingerprint": [
-        "kerala",
-        "save",
-        "harvests",
-        "indian",
-        "late"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Google's new open source Gemma 4 12B analyzes audio, video \u2014 and runs entirely locally on a typical 16GB enterprise laptop",
-      "description": "While many AI open source model providers are pursuing larger and more powerful models, Google is still giving attention to the smaller, more local side of the market. Today, the tech giant released Gemma 4 12B , an 11.95-billion-parameter open-weights model with permissive Apache 2.0 license optimi",
-      "source": "Venturebeat",
-      "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "You can run advanced media tools offline without expensive cloud subscriptions.",
-      "context": "Google launched a small artificial intelligence model that processes media locally.",
-      "next": "Software developers will integrate this tool into common everyday consumer apps.",
-      "bigger": "Artificial intelligence is shifting from massive remote servers to personal devices.",
-      "publishedAt": "2026-06-03T18:49:00+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "build",
-        "models",
-        "microsoft",
-        "donald_trump",
-        "model"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Defense tech is flooded with money, but who\u2019s built to last?",
-      "description": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those government contracts, but according to Ross Fubini, the venture in",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Tech workers may find many high-paying jobs in the military sector.",
-      "context": "Private investment in military and defense technology companies is rising rapidly.",
-      "next": "Military startups will secure larger procurement contracts from global defense departments.",
-      "bigger": "National security concerns are redrawing the map of venture capital investments.",
-      "publishedAt": "2026-06-03T20:51:41+00:00",
-      "topicFingerprint": [
-        "flooded",
-        "money",
-        "defense",
-        "tech",
-        "built"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Inside India newsletter: Why Taiwan and South Korea's stock markets have surged past India within a week",
-      "description": "The Indian equity market is losing favour with global investors, as its domestic consumption story weakens and the country lags in AI.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/04/why-taiwan-and-south-koreas-stock-markets-have-surged-past-india.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Indian companies may struggle to attract foreign capital for industrial expansion.",
-      "context": "Global investors shifted capital from Indian stocks to East Asian tech-heavy markets.",
-      "next": "India may introduce tax incentives to lure foreign institutional investors back.",
-      "bigger": "Global investment capital is increasingly prioritizing artificial intelligence readiness over raw consumption.",
-      "publishedAt": "2026-06-04T00:24:11+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "build",
-        "models",
-        "microsoft",
-        "donald_trump",
-        "model"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Every US state's economy, ranked from worst to best",
-      "description": "A recent WalletHub study ranked all US states and Washington, DC, based on economic activity, economic health, and innovation potential.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/us-state-economies-ranked-study-2026-6",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 12,
-      "why": "American job seekers can identify regions with the best career opportunities.",
-      "context": "A comprehensive study ranked the economic strength of all US states.",
-      "next": "Businesses may relocate their corporate offices to highly ranked economic states.",
-      "bigger": "Regional tax and policy differences are widening economic inequality across America.",
-      "publishedAt": "2026-06-04T13:06:01+00:00",
-      "topicFingerprint": [
-        "ranked",
-        "every",
-        "worst",
-        "us_entity",
-        "economy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Rights group sues South African government over US arms exports",
-      "description": "Case challenges permits approved by South Africa\u2019s arms control body, citing compliance failures and oversight gaps.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "South African defense manufacturers face potential delays or bans on shipments.",
-      "context": "Activists initiated legal action against South Africa over its military exports.",
-      "next": "The judiciary will review government compliance with international arms control treaties.",
-      "bigger": "Civil society groups are increasingly using national courts to challenge military policies.",
-      "publishedAt": "2026-06-04T13:23:17+00:00",
-      "topicFingerprint": [
-        "sues",
-        "arms",
-        "group",
-        "african",
-        "rights"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Tire giant Pirelli vows legal action as short seller alleges \u2018close relationship\u2019 with Russia",
-      "description": "Pirelli has instructed lawyers to take legal action after short seller Grizzly Research claimed the firm has a \"close relationship\" with Russia.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/04/pirelli-grizzly-research-russia-legal-action.html",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Pirelli stock investors face volatile price movements during the legal dispute.",
-      "context": "Pirelli initiated legal proceedings against a researcher alleging Russian business ties.",
-      "next": "Short sellers may publish more reports targeting European firms with Russian links.",
-      "bigger": "Companies operating globally face high reputational risks from geopolitical business affiliations.",
-      "publishedAt": "2026-06-04T11:11:28+00:00",
-      "topicFingerprint": [
-        "seller",
-        "pirelli",
-        "russia",
-        "close",
-        "legal"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Latest news on U.S. plans for facility in Kenya to navigate Ebola outbreak",
-      "description": "Flights to Kenya appear to be carrying medical equipment for a controversial planned facility to contain the Ebola outbreak in Africa. CBS News' Ramy Inocencio reports.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/latest-news-on-us-plans-for-facility-in-kenya-to-navigate-ebola-outbreak/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Kenyan citizens may gain quicker access to emergency life-saving medical care.",
-      "context": "The US transported medical gear to establish a disease containment facility.",
-      "next": "Local health agencies will begin training workers at the new facility.",
-      "bigger": "Superpowers are expanding their geopolitical influence through international health security aid.",
-      "publishedAt": "2026-06-04T10:22:46-04:00",
-      "topicFingerprint": [
-        "plans",
-        "navigate",
-        "outbreak",
-        "facility",
-        "kenya"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Rubbish as a resource: How communities in Mozambique transform waste into climate solutions",
-      "description": "Faced with rapid urbanization, fragile waste management systems, youth unemployment and growing climate vulnerability, artists, activists, musicians, and community entrepreneurs in Mozambique develop local responses to address an environmental crisis.",
-      "source": "Global Voices",
-      "url": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Unemployed youth in Mozambique can earn income through local recycling programs.",
-      "context": "Local initiatives in Mozambique started converting city waste into ecological products.",
-      "next": "More neighborhoods will likely set up community-led plastic processing hubs.",
-      "bigger": "Grassroots community actions are filling public service gaps in developing nations.",
-      "publishedAt": "2026-06-02T18:00:51+00:00",
-      "topicFingerprint": [
-        "waste",
-        "mozambique",
-        "climate",
-        "communities",
-        "transform"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Pinterest deepens Amazon partnership with $4 billion cloud deal",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/pinterest-deepens-amazon-partnership-4-billion-cloud-deal-6162551",
-      "category": "Technology",
-      "readingTime": 2,
       "score": 7,
-      "why": "Pinterest users may experience faster page loading times and better security.",
-      "context": "Pinterest signed a massive cloud services contract with Amazon's web division.",
-      "next": "Amazon Web Services will deploy more servers to support Pinterest's traffic.",
-      "bigger": "E-commerce platforms are increasingly relying on tech giants for core infrastructure.",
-      "publishedAt": "2026-06-04T21:08:37+08:00",
+      "why": "Sports tournaments will continue to face political tensions and protests.",
+      "context": "A Russian tennis player defeated her Ukrainian opponent in Paris.",
+      "next": "Tennis associations may change post-match protocol rules to reduce friction.",
+      "bigger": "International athletic competitions cannot escape broader geopolitical warfare.",
+      "publishedAt": "2026-06-04T15:58:13+00:00",
       "topicFingerprint": [
-        "pinterest",
-        "partnership",
-        "cloud",
-        "amazon",
-        "billion"
+        "reach",
+        "beats",
+        "french",
+        "final",
+        "andreeva"
+      ],
+      "alternates": [
+        {
+          "title": "Russian teen Andreeva beats Kostyuk to reach French Open final",
+          "description": "Russian teen Mirra Andreeva defeated Marta Kostyuk 6-1, 6-3 to reach her first Grand Slam final at the French Open. She will face qualifier Maja Chwalinska.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/8e4185fc-26bd-4851-8ebe-9aaf525cdfe6.html",
+          "category": "General",
+          "publishedAt": "2026-06-04T16:12:23+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "reach",
+            "beats",
+            "french",
+            "final",
+            "andreeva"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "White House to replace National Security Council\u2019s Europe chief amid broader shake-up",
+      "description": "The shake-up may put more of US Secretary of State Marco Rubio's aides in important positions.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/white-house-to-replace-national-security-councils-europe-chief-amid-broader-shake-up",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Diplomatic negotiations with the U.S. may face sudden delays.",
+      "context": "The U.S. presidency is changing its top European policy advisor.",
+      "next": "The administration will announce new appointments to key security posts.",
+      "bigger": "Political transitions frequently lead to sudden reshuffles in foreign policy.",
+      "publishedAt": "2026-06-05T05:01:11+08:00",
+      "topicFingerprint": [
+        "secretary",
+        "us_entity",
+        "house",
+        "security",
+        "white"
       ],
       "alternates": []
     },
@@ -536,62 +611,40 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167646",
       "category": "Science",
       "readingTime": 2,
-      "score": 7,
-      "why": "Coastal communities may face severe economic losses from declining fish stocks.",
-      "context": "International experts gathered in New York to warn about marine ecosystem collapse.",
-      "next": "Nations will negotiate stricter fishing quotas at upcoming environmental summits.",
-      "bigger": "Rapid oceanic decline is forcing closer cooperation between scientists and policy makers.",
+      "score": 6,
+      "why": "Your seafood options could become more limited and expensive.",
+      "context": "Experts gathered in New York to discuss declining marine health.",
+      "next": "Nations may agree on stricter commercial fishing quotas soon.",
+      "bigger": "Environmental degradation is forcing rapid changes in global food industries.",
       "publishedAt": "2026-06-04T12:00:00+00:00",
       "topicFingerprint": [
         "need",
-        "highlights",
-        "assessment",
         "science",
+        "highlights",
+        "urgent",
         "ocean"
       ],
       "alternates": []
     },
     {
-      "title": "At GEF\u2019s Eighth Assembly, Uzbekistan Signals New Role as Donor",
-      "description": "In a significant policy shift symbolising rising environmental ambition, Uzbekistan on Thursday announced that it will become a donor of international environmental funding to the Global Environment Facility (GEF), as the Eighth GEF Assembly opened in the historic city of Samarkand. The announcement",
-      "source": "Inter Press Service",
-      "url": "https://www.ipsnews.net/2026/06/at-gefs-eighth-assembly-uzbekistan-signals-new-role-as-donor/",
-      "category": "Environment",
+      "title": "Federal inspector reports chokehold, pen stabbing at ICE facility",
+      "description": "A surprise federal inspection found a prohibited chokehold, an officer who stabbed a detainee with a pen, and other issues that threatened health and safety at one of the largest ICE detention facilities in the U.S. Why it matters: Unannounced inspections are one of the few ways to get a clear look ",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/04/ice-detention-center-pen-stabbing-chokehold",
+      "category": "Health",
       "readingTime": 2,
-      "score": 7,
-      "why": "Central Asian green projects may receive more funding and technical support.",
-      "context": "Uzbekistan announced it will begin donating funds to global environmental initiatives.",
-      "next": "Uzbekistan will coordinate with global bodies to distribute its new donations.",
-      "bigger": "Developing nations are taking active leadership roles in funding climate action.",
-      "publishedAt": "2026-06-04T12:34:17+00:00",
+      "score": 6,
+      "why": "Detainees face immediate threats to their safety and human rights.",
+      "context": "A surprise audit revealed severe physical abuse at a detention center.",
+      "next": "Lawmakers will demand a formal investigation into the facility's management.",
+      "bigger": "Private prison systems face intense scrutiny over lack of accountability.",
+      "publishedAt": "2026-06-04T18:28:42+00:00",
       "topicFingerprint": [
-        "uzbekistan",
-        "gef",
-        "assembly",
-        "eighth",
-        "signals"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "NASA\u2019s X-59 nears first flight; surprising details emerge about the \u2018successor to Concorde\u2019 promising London-NYC travel",
-      "description": "The aircraft forms part of NASA\u2019s broader effort to revive supersonic air travel in a way that is quieter and more commercially practical than Concorde.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/nasas-x-59-nears-first-flight-surprising-details-emerge-about-the-successor-to-concorde-promising-london-nyc-travel-101780583788472.html",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Your international flight times could decrease significantly in the near future.",
-      "context": "NASA prepared its quiet supersonic research aircraft for its inaugural flight.",
-      "next": "Engineers will conduct test flights over inhabited areas to measure noise.",
-      "bigger": "Aerospace manufacturers are prioritizing sonic boom reduction to allow overland supersonic flight.",
-      "publishedAt": "2026-06-04T20:33:27+05:30",
-      "topicFingerprint": [
-        "flight",
-        "details",
-        "nasa",
-        "surprising",
-        "emerge"
+        "facility",
+        "inspector",
+        "stabbing",
+        "pen",
+        "chokehold"
       ],
       "alternates": []
     },
@@ -603,54 +656,733 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 3,
-      "why": "Gamers can play their portable consoles for longer without charging breaks.",
-      "context": "Belkin announced gaming accessories that extend the battery of Nintendo's console.",
-      "next": "Competitors will launch similar charging grips before the console's official release.",
-      "bigger": "Accessory brands are building specialized ecosystems around highly anticipated gaming hardware.",
+      "why": "Your gaming sessions may last significantly longer.",
+      "context": "Belkin announced power-boosting accessories for the upcoming Nintendo console.",
+      "next": "Other accessory manufacturers will launch competing power products.",
+      "bigger": "Third-party companies are capitalizing on major gaming console launches.",
       "publishedAt": "2026-06-04T16:00:00+00:00",
       "topicFingerprint": [
-        "belkin",
         "grips",
-        "battery",
         "switch",
+        "belkin",
+        "con",
         "joy"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
+    "united_states": [
       {
-        "title": "Why wind and solar power is going to \u2018waste\u2019 in China in the global energy crisis",
-        "description": "China is wasting a huge amount of green energy as the world grapples with an energy shortage because of the Strait of Hormuz crisis. The \u201cwasted\u201d wind and solar energy stems from inflexible grid management that continues to rely on coal for baseload power and stymies a clean energy expansion that co",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3355954/many-wind-and-solar-power-plants-china-are-strangled-amid-global-energy-crisis-report",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Environment",
+        "title": "US stocks from $20, no brokerage fees: The savings plan that does the hard work for you",
+        "description": "Webull\u2019s regular savings plan automatically adjusts your investment amounts based on market movements, so you don\u2019t have to time the market or track it daily.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/invest/webull-us-stocks-no-brokerage-fees-savings-plan-that-does-the-hard-work",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-04T09:01:36+00:00",
+        "publishedAt": "2026-06-05T04:00:00+08:00",
         "reason": "within_48h",
-        "score": 13,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: energy"
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: investment"
           },
           {
             "points": 2,
-            "reason": "important keyword match: crisis"
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -1,
+            "reason": "Low opinion keyword: you"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "does",
+          "plan",
+          "work",
+          "savings",
+          "brokerage"
+        ]
+      },
+      {
+        "title": "The US Army wants to fight future wars on the move, and is betting it can hide its command centers in digital noise",
+        "description": "Soldiers can stay connected and keep analyzing targets while on the move, while also blending into the electromagnetic spectrum.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/army-on-move-future-war-hiding-command-posts-in-spectrum-2026-6",
+        "fromUrl": "https://feeds.businessinsider.com/custom/all",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T17:25:08+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "future",
+          "wants",
+          "centers",
+          "hide",
+          "digital"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India to drop capital gains tax for foreign investors in government bonds, source says",
+        "description": "India\u2019s benchmark bond yield eased \u2060one basis point to 7.01% in opening trade, although it was not immediately clear when the plan would take effect.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/Economy/india-to-drop-capital-gains-tax-for-foreign-investors-in-government-bonds-source-says/article71062426.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T22:19:34+05:30",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: tax"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group in title match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "gains",
+          "source",
+          "tax",
+          "drop",
+          "foreign"
+        ]
+      },
+      {
+        "title": "India among Russia's top foreign trade partners: PM Mishustin",
+        "description": "In the financial year 2024\u201325, total India-Russia trade reached an all-time high of about $68.7 billion, up sharply from roughly $13 billion in 2021, marking nearly a five - to six- fold increase over four years.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/india-among-russias-top-foreign-trade-partners-pm-mishustin/article70531079.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T06:40:58+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "billion",
+          "ramp",
+          "round",
+          "iconiq",
+          "ontario"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "EU trade chief swipes at China\u2019s overcapacity, but seeks \u2018meaningful\u2019 talks with Beijing",
+        "description": "EU trade chief Maros Sefcovic has called for practical approaches and \u201cmeaningful discussion\u201d to tackle the growing trade concerns between Brussels and Beijing, following his meeting with China\u2019s chief international trade negotiator, Li Chenggang, on the sideline of a ministerial meeting at the Orga",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3356007/eu-trade-chief-swipes-chinas-overcapacity-seeks-meaningful-talks-beijing",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T16:06:31+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "trade",
+          "beijing",
+          "eu_entity",
+          "swipes",
+          "overcapacity"
+        ]
+      },
+      {
+        "title": "China\u2019s gaokao exam gets less competitive as more teens opt to skip university",
+        "description": "China has reported a second consecutive decline in the number of students sitting the country\u2019s national university-entrance exams, as a graduate jobs crunch leads many teenagers to decide against pursuing an academic degree. A total of 12.9 million students have registered for this year\u2019s National ",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/china-economy/article/3355965/chinas-gaokao-exam-gets-less-competitive-more-teens-opt-skip-university",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T03:00:12+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: jobs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exam"
           },
           {
             "points": 2,
             "reason": "important keyword match: china"
           },
           {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "opt",
+          "university",
+          "teens",
+          "skip",
+          "less"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "EU trade chief swipes at China\u2019s overcapacity, but seeks \u2018meaningful\u2019 talks with Beijing",
+        "description": "EU trade chief Maros Sefcovic has called for practical approaches and \u201cmeaningful discussion\u201d to tackle the growing trade concerns between Brussels and Beijing, following his meeting with China\u2019s chief international trade negotiator, Li Chenggang, on the sideline of a ministerial meeting at the Orga",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3356007/eu-trade-chief-swipes-chinas-overcapacity-seeks-meaningful-talks-beijing",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T16:06:31+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
             "points": 2,
-            "reason": "important keyword match: shortage"
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "trade",
+          "beijing",
+          "eu_entity",
+          "swipes",
+          "overcapacity"
+        ]
+      },
+      {
+        "title": "German asylum benefits cuts violate EU law, top court rules",
+        "description": "In a victory for rejected asylum-seekers, the European Court of Justice has ruled they must be given more than just the bare minimum to survive. But as the EU's new migration pact kicks in, will relief be short-lived?",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T16:13:00+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "law",
+          "benefits",
+          "violate",
+          "eu_entity",
+          "cuts"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "German asylum benefits cuts violate EU law, top court rules",
+        "description": "In a victory for rejected asylum-seekers, the European Court of Justice has ruled they must be given more than just the bare minimum to survive. But as the EU's new migration pact kicks in, will relief be short-lived?",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T16:13:00+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "law",
+          "benefits",
+          "violate",
+          "eu_entity",
+          "cuts"
+        ]
+      },
+      {
+        "title": "German far-right party takes aim at domestic security services",
+        "description": "BERLIN, June 4 - The man Germany's far-right AfD hopes will become the party's first state premier took aim at the domestic intelligence service, which he accused on Thursday of being \\\"politically directed\\\" by the ruling conservatives to spy on political opponents.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/german-far-right-party-takes-aim-at-domestic-security-services",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T00:51:13+08:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "far",
+          "security",
+          "aim",
+          "party",
+          "right"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Switzerland to deploy 4,000 troops for G7 summit security near French border",
+        "description": "G7-SUMMIT-SWISS:Switzerland to deploy 4,000 troops on its side of border as France hosts G-7 summit",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/switzerland-to-deploy-4-000-troops-for-g7-summit-security-near-french-border-101780611294094.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T03:52:09+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Switzerland to deploy 4,000 troops on its side of border as France hosts G-7 summit",
+            "description": "GENEVA, June 4 - Switzerland will deploy around 4,000 troops inside its territory to reinforce security as world leaders gather for the G7 summit in neighboring France in mid-June, the Swiss army said on Thursday.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/switzerland-to-deploy-4000-troops-on-its-side-of-border-as-france-hosts-g-7-summit",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-04T23:56:06+08:00",
+            "score": 6,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "switzerland",
+              "security",
+              "troops",
+              "france",
+              "side"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "switzerland",
+          "security",
+          "troops",
+          "france",
+          "side"
+        ]
+      },
+      {
+        "title": "French billionaire Sterin lays bare right\u2011wing agenda in first public hearing",
+        "description": "PARIS, June 4 - French billionaire Pierre-Edouard Sterin used his first appearance before lawmakers on Thursday to lay out his campaign to bring free-market and conservative ideas into power, less than a year before France\u2019s next presidential election.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/french-billionaire-sterin-lays-bare-right-wing-agenda-in-first-public-hearing",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T05:06:16+08:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "agenda",
+          "lays",
+          "billionaire",
+          "french",
+          "sterin"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "Asia steps up currency defence as South Korea, Indonesia vow action",
+        "description": "Authorities are also guarding against speculative activity in offshore markets",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asia-steps-currency-defence-south-korea-indonesia-vow-action",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T06:08:26+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "vow",
+          "currency",
+          "asia",
+          "indonesia",
+          "sk_entity"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "China speeds past Japan in Australian car imports on EV bonanza",
+        "description": "Electric vehicles and hybrids account for almost half of the cars sold in Australia in May",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/china-speeds-past-japan-australian-car-imports-ev-bonanza",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T02:47:35+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: imports"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "car",
+          "bonanza",
+          "past",
+          "australian",
+          "speeds"
+        ]
+      },
+      {
+        "title": "US dollar slips from two-month high amid Iran talks, yen trades near 160",
+        "description": "The US dollar index falls 0.2% to 99.23, from 99.56 in the previous session",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-dollar-slips-two-month-high-amid-iran-talks-yen-trades-near-160",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T12:28:36+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "yen",
+          "near",
+          "slips",
+          "trades",
+          "month"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "China speeds past Japan in Australian car imports on EV bonanza",
+        "description": "Electric vehicles and hybrids account for almost half of the cars sold in Australia in May",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/china-speeds-past-japan-australian-car-imports-ev-bonanza",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T02:47:35+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: imports"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "car",
+          "bonanza",
+          "past",
+          "australian",
+          "speeds"
+        ]
+      },
+      {
+        "title": "Startup Battlefield is returning to Australia \u2014 here\u2019s what happened the last time we came to Sydney",
+        "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T20:55:38+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
           },
           {
             "points": 2,
@@ -664,317 +1396,15 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "waste",
-          "power",
-          "wind",
-          "crisis",
-          "energy"
-        ]
-      },
-      {
-        "title": "US-China policy under Donald Trump is heading for \u2018unpredictable drift\u2019: expert",
-        "description": "Soon after Donald Trump concluded a visit to China that he hailed as a great success, America\u2019s top diplomat joined his Indian, Japanese and Australian counterparts in New Delhi for a meeting of the Quadrilateral Security Dialogue. At the meeting on May 26, US Secretary of State Marco Rubio and the ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3355977/us-china-policy-under-donald-trump-heading-unpredictable-drift-expert",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T11:30:06+00:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "heading",
-          "unpredictable",
-          "drift",
-          "expert",
-          "donald_trump"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "Shanghai urged to unify incentives as EU firms in China flag mounting business hurdles",
-        "description": "Europe\u2019s leading business lobby in China has called for a unified \u201cone Shanghai\u201d policy, urging authorities to offer economic support across all of the financial centre rather than isolating benefits in remote districts as a means of reducing operational hurdles. \u201cWe do believe that Shanghai should ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3355923/shanghai-urged-unify-incentives-eu-firms-china-flag-mounting-business-hurdles",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T08:00:09+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "mounting",
-          "hurdles",
-          "flag",
-          "unify",
-          "incentives"
-        ]
-      },
-      {
-        "title": "China rejects OECD report on industrial subsidies as \u2018one-sided\u2019 amid EU trade tensions",
-        "description": "China has rejected a recent OECD report that said its firms receive far higher government subsidies than international peers, calling the findings \u201cone-sided and arbitrary\u201d at a time when EU concerns over Beijing\u2019s industrial policy are intensifying. \u201cThe report\u2019s definition of \u2018subsidies\u2019 lacks a u",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/global-economy/article/3355941/china-rejects-oecd-report-industrial-subsidies-one-sided-amid-eu-trade-tensions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T09:00:07+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: subsidies"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "concerns",
-          "beijing",
-          "trade",
-          "eu_entity",
-          "china_entity"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "US-China policy under Donald Trump is heading for \u2018unpredictable drift\u2019: expert",
-        "description": "Soon after Donald Trump concluded a visit to China that he hailed as a great success, America\u2019s top diplomat joined his Indian, Japanese and Australian counterparts in New Delhi for a meeting of the Quadrilateral Security Dialogue. At the meeting on May 26, US Secretary of State Marco Rubio and the ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3355977/us-china-policy-under-donald-trump-heading-unpredictable-drift-expert",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T11:30:06+00:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "heading",
-          "unpredictable",
-          "drift",
-          "expert",
-          "donald_trump"
-        ]
-      },
-      {
-        "title": "Apple agrees to submit India financials in long-pending antitrust case",
-        "description": "Apple has long \u200cargued the case should be paused because it is separately seeking to quash India\u2019s new antitrust penalty law that empowers the CCI to penalise companies on the basis of their global, not just Indian, turnover",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/sci-tech/technology/apple-agrees-to-submit-india-financials-in-long-pending-antitrust-case/article71058383.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-03T23:00:58+05:30",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "company keyword match: apple"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "india",
-          "apple",
-          "agrees",
-          "antitrust",
-          "seeking"
+          "battlefield",
+          "sydney",
+          "returning",
+          "came",
+          "happened"
         ]
       }
     ],
     "singapore": [
-      {
-        "title": "Potential Trump tariffs of 12.5% could hit one-third of Singapore exports to the US: MTI",
-        "description": "Singapore\u2019s Ministry of Trade and Industry says it is assessing the potential impact of the proposed measures and will continue to engage the Office of the United States Trade Representative (USTR).",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/singapore/us-tariffs-forced-labour-probe-singapore-assesses-impact-6162281",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T20:31:00+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariffs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: exports"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: exports"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -2,
-            "reason": "low quality + colon headline match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "mti",
-          "singapore",
-          "ministry",
-          "donald_trump",
-          "third"
-        ]
-      },
       {
         "title": "Record Singapore-US rate gap may widen further on inflows and hawkish Fed outlook",
         "description": "Borrowing costs in the city state tend to closely track global interest rates, especially those of the US",
@@ -985,7 +1415,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-04T02:01:42+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1010,363 +1440,24 @@
           {
             "points": 4,
             "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "record",
-          "singapore",
-          "widen",
+          "inflows",
           "gap",
+          "record",
+          "fed",
           "further"
         ]
       }
     ],
-    "united_states": [
-      {
-        "title": "As US seeks to block Chinese carriers, Beijing opens telecoms pilots to foreign outfits",
-        "description": "China\u2019s decision to greenlight over 100 foreign-invested entities to pilot value-added telecommunications services (VAS) in the country could be a major boon for some multinationals, though its impact on the domestic market is likely to be limited, according to industry analysts. The Ministry of Ind",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/policy/article/3355973/us-seeks-block-chinese-carriers-beijing-opens-telecoms-pilots-foreign-outfits",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T11:00:07+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "outfits",
-          "opens",
-          "foreign",
-          "carriers",
-          "telecoms"
-        ]
-      },
-      {
-        "title": "US Senate starts debate and voting on ICE funding package",
-        "description": "The Republican-led Senate has voted to debate a $70 billion bill to fund the Border Patrol and ICE through the end of President Trump's term.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/1e2fa86a-cd49-437d-b885-15f2bf8b3c01.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T14:19:03+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: bill"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [
-          {
-            "title": "Senate Republicans to grapple with Trump's 'anti-weaponization' fund as ICE funding vote nears",
-            "description": "WASHINGTON, June 4 - U.S. Senate Republicans will have to grapple with the ultimate fate of President Donald Trump's sidelined $1.8 billion \\\"anti-weaponization\\\" fund on Thursday, in a marathon session before voting on a $70 billion bill to fund an immigration crackdown.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/senate-republicans-to-grapple-with-trumps-anti-weaponization-fund-as-ice-funding-vote-nears",
-            "category": "Policy",
-            "publishedAt": "2026-06-04T22:41:08+08:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "bill",
-              "donald_trump",
-              "fund",
-              "senate",
-              "ice"
-            ],
-            "group_id": 1
-          }
-        ],
-        "topicFingerprint": [
-          "bill",
-          "donald_trump",
-          "fund",
-          "senate",
-          "ice"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Asia steps up currency defence as South Korea, Indonesia vow action",
-        "description": "Authorities are also guarding against speculative activity in offshore markets",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asia-steps-currency-defence-south-korea-indonesia-vow-action",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T06:08:26+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sk_entity",
-          "vow",
-          "indonesia",
-          "currency",
-          "defence"
-        ]
-      },
-      {
-        "title": "South Korean ruling party\u2019s \u2018flawed landslide\u2019 election win dents Lee\u2019s reform drive",
-        "description": "South Korean President Lee Jae Myung\u2019s ruling party swept most of the country\u2019s major local elections, but a narrow defeat in Seoul has given conservatives a foothold to challenge his reform agenda. The loss in the capital, South Korea\u2019s political and property-market centre, has taken the shine off ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3355947/south-korean-ruling-partys-flawed-landslide-election-win-dents-lees-reform-drive",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T09:00:14+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "election",
-          "defeat",
-          "capital",
-          "drive",
-          "anna"
-        ]
-      }
-    ],
-    "mexico": [
-      {
-        "title": "Mexico's popular former president blasts Trump as US ties hit low",
-        "description": "MEXICO CITY, June 3 - Former Mexican President Andr\u00e9s Manuel L\u00f3pez Obrador accused Washington on Wednesday of employing \\\"interventionist and unscrupulous practices\\\" to bolster Mexico\u2019s right-wing opposition and weaken his leftist political movement.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/mexicos-popular-former-president-blasts-trump-as-us-ties-hit-low",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T14:16:22+08:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "right",
-          "wing",
-          "june",
-          "former",
-          "opposition"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Disney racks up $4.2bn deficit on Paris parks",
-        "description": "Exclusive: Analysis shows resort has yet to recoup Disney\u2019s investment despite record revenue and 16m annual visitors Disney has still not recouped $4.2bn of its investment in Disneyland Paris after more than 30 years, even though the resort is now its best-performing international outpost, accordin",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit",
-        "fromUrl": "https://www.theguardian.com/business/rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T11:00:06+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: The Guardian"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "parks",
-          "racks",
-          "deficit",
-          "paris",
-          "disney"
-        ]
-      },
-      {
-        "title": "Switzerland to deploy 4,000 troops on its side of border as France hosts G-7 summit",
-        "description": "GENEVA, June 4 - Switzerland will deploy around 4,000 troops inside its territory to reinforce security as world leaders gather for the G7 summit in neighboring France in mid-June, the Swiss army said on Thursday.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/switzerland-to-deploy-4000-troops-on-its-side-of-border-as-france-hosts-g-7-summit",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T23:56:06+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "side",
-          "summit",
-          "deploy",
-          "border",
-          "france"
-        ]
-      }
-    ],
     "uk": [
-      {
-        "title": "Pro-Palestinian badges should not be worn by NHS staff, UK review suggests",
-        "description": "Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T15:48:36+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "palestinian",
-          "uk_entity",
-          "staff",
-          "review",
-          "worn"
-        ]
-      },
       {
         "title": "Amazon expands 30-minute delivery to two UK cities, plans reach to 100 cities in India",
         "description": "Amazon is expanding its Amazon Now quick-commerce service to Manchester and Birmingham while scaling operations across 100 Indian cities, highlighting its global rapid-delivery ambitions.",
@@ -1377,7 +1468,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-04T15:06:35+05:30",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
@@ -1398,209 +1489,35 @@
           {
             "points": -5,
             "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "uk_entity",
-          "cities",
-          "india",
-          "reach",
-          "plans"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Germany and France pitch swifter benefits for EU hopefuls in Balkans, Moldova",
-        "description": "BRUSSELS, June 4 - Germany and France have proposed giving aspiring European Union members more opportunities to join EU programmes and access the single market before joining the bloc, according to a discussion paper seen by Reuters on Thursday.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/germany-and-france-pitch-swifter-benefits-for-eu-hopefuls-in-balkans-moldova",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T22:36:05+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
+        "alternates": [
           {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "title": "Amazon expands ultra-fast deliveries in UK and adds same-day fruit and veg",
+            "description": "Deliveries in 30 minutes or less coming to Manchester and Birmingham and fresh groceries service to start in London Amazon is expanding fast-track deliveries in the UK, including adding fresh fruit and vegetables to same-day services, after closing its standalone grocery stores . The firm said it wo",
+            "source": "The Guardian",
+            "url": "https://www.theguardian.com/technology/2026/jun/04/amazon-uk-ultra-fast-deliveries-same-day-fruit-veg",
+            "category": "General",
+            "publishedAt": "2026-06-04T15:06:47+00:00",
+            "score": 6,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "expands",
+              "birmingham",
+              "expanding",
+              "manchester",
+              "amazon"
+            ],
+            "group_id": 0
           }
         ],
-        "group_id": 0,
-        "alternates": [],
         "topicFingerprint": [
-          "germany",
-          "pitch",
-          "hopefuls",
-          "moldova",
-          "swifter"
-        ]
-      },
-      {
-        "title": "German far-right AfD party official meets with Putin adviser, Gazprom boss",
-        "description": "BERLIN, June 4 - A senior member of Germany's far-right Alternative for Germany (AfD) met one of Russian President Vladimir Putin's top advisers as well as the head of energy group Gazprom and called for a reopening of the Nord Stream gas pipeline.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/german-far-right-afd-party-official-meets-with-putin-adviser-gazprom-boss",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T18:16:09+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "adviser",
-          "afd",
-          "gazprom",
-          "putin",
-          "meets"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "US dollar slips from two-month high amid Iran talks, yen trades near 160",
-        "description": "The US dollar index falls 0.2% to 99.23, from 99.56 in the previous session",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-dollar-slips-two-month-high-amid-iran-talks-yen-trades-near-160",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T12:28:36+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "yen",
-          "month",
-          "slips",
-          "iran",
-          "near"
-        ]
-      },
-      {
-        "title": "Are Japan-Philippines talks a maritime red line for China\u2019s blue-water ambitions?",
-        "description": "Beijing\u2019s strong opposition to maritime boundary talks between Manila and Tokyo reflects growing wariness over a shifting balance of power in the western Pacific. And, experts warn, these talks \u2013 part of a highly calculated geopolitical effort by US allies \u2013 could reinforce the so-called first islan",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3355969/are-japan-philippines-talks-maritime-red-line-chinas-blue-water-ambitions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T14:00:13+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "blue",
-          "philippines",
-          "water",
-          "japan",
-          "line"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "Shark predicts winning start for Brazil at FIFA World Cup",
-        "description": "Shark predicts winning start for Brazil at FIFA World Cup.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/shark-predicts-winning-start-for-brazil-at-fifa-world-cup",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T14:02:13+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "predicts",
-          "brazil",
-          "winning",
-          "cup",
-          "start"
+          "expands",
+          "birmingham",
+          "expanding",
+          "manchester",
+          "amazon"
         ]
       }
     ]
