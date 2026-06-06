@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T00:01:04.898850",
+  "updatedAt": "2026-06-06T06:23:03.367599",
   "insight": {
     "title": "Why Eyeliner Was Originally Invented",
     "subtitle": "An ancient Egyptian survival tool is now a staple of the modern beauty industry.",
@@ -26,24 +26,25 @@
   },
   "news": [
     {
-      "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-      "description": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypym3q7p1o",
-      "category": "Geopolitics",
+      "title": "Gold steadies as uncertainty surrounds progress in US-Iran talks",
+      "description": "The war\u2019s protracted disruption to energy flows via the Strait of Hormuz has driven oil prices higher",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-steadies-uncertainty-surrounds-progress-us-iran-talks",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 12,
-      "why": "Regional security alliances may shift as diplomatic ties strengthen.",
-      "context": "The Chinese president is planning a rare diplomatic visit to North Korea.",
-      "next": "Both nations could announce new trade or military agreements.",
-      "bigger": "Beijing is asserting its influence against Western pressure in Asia.",
-      "publishedAt": "2026-06-05T05:17:13+00:00",
+      "score": 15,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "War-driven oil shipping disruptions kept gold prices steady.",
+      "next": "Oil prices may experience further volatile price spikes.",
+      "bigger": "Geopolitical conflicts are increasingly fracturing global energy supplies.",
+      "publishedAt": "2026-06-05T00:51:14+00:00",
       "topicFingerprint": [
-        "north",
-        "korea",
-        "fuel",
-        "nuclear",
-        "jong"
+        "war",
+        "iran",
+        "us_entity",
+        "oil",
+        "israel",
+        "prices"
       ],
       "alternates": []
     },
@@ -55,144 +56,125 @@
       "category": "General",
       "readingTime": 2,
       "score": 12,
-      "why": "Your borrowing costs may stay higher for longer.",
-      "context": "American job growth surged past expectations while unemployment remained steady.",
-      "next": "The Federal Reserve will likely delay cutting interest rates.",
-      "bigger": "The American labor market is proving highly resilient despite inflation.",
+      "why": "US borrowing costs may remain high for longer.",
+      "context": "United States job growth surged past expectations last month.",
+      "next": "The Federal Reserve may delay cutting interest rates.",
+      "bigger": "High interest rates are becoming a semi-permanent economic fixture.",
       "publishedAt": "2026-06-05T18:51:00+00:00",
       "topicFingerprint": [
-        "unemployment",
         "payrolls",
         "expected",
+        "unemployment",
         "us_entity"
       ],
       "alternates": []
     },
     {
-      "title": "Google to pay SpaceX $920 million a month for cloud compute at xAI data centers",
-      "description": "Google will pay SpaceX $920 million a month through June 2029 for cloud compute capacity, including 110,000 Nvidia GPUs, starting this October.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/0d9e1abc-7405-4587-b828-29792e5a9cb6.html",
-      "category": "Technology",
+      "title": "Global tech sell-off spreads to Europe as chip shares fall",
+      "description": "A sell-off in tech stocks gripped U.S. and Asian markets overnight after an earnings report from Broadcom earlier in the week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/global-tech-sell-off-euopean-markets.html",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 13,
-      "why": "Competition for advanced artificial intelligence infrastructure is intensifying.",
-      "context": "Google secured a massive cloud computing deal using SpaceX infrastructure.",
-      "next": "Other tech giants may scramble to secure remaining server capacity.",
-      "bigger": "Private aerospace infrastructure is becoming critical to artificial intelligence development.",
-      "publishedAt": "2026-06-05T21:16:41+00:00",
+      "score": 12,
+      "why": "Technology investment funds could see sudden drop in value.",
+      "context": "A massive global technology stock sell-off spread to European markets.",
+      "next": "Tech stocks may face further losses in coming weeks.",
+      "bigger": "Global stock markets are increasingly dependent on chip industry health.",
+      "publishedAt": "2026-06-05T16:56:28+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "google",
-        "spacex",
-        "compute",
-        "ipo"
+        "tech",
+        "eu_entity",
+        "chip",
+        "broadcom",
+        "among"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "BOJ expected to raise interest rates in June: sources",
+      "description": "Markets are pricing in an 80% chance that the bank will raise its short-term policy rate to 1% from 0.75%",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-expected-raise-interest-rates-june-sources",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Borrowing costs for Japanese businesses and households will rise.",
+      "context": "The Bank of Japan is preparing to raise interest rates.",
+      "next": "The Japanese yen may strengthen against foreign currencies.",
+      "bigger": "Central banks worldwide are ending cheap money eras.",
+      "publishedAt": "2026-06-04T07:50:30+00:00",
+      "topicFingerprint": [
+        "sources",
+        "boj",
+        "expected",
+        "rates",
+        "june"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "description": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Southern livestock farms face severe livestock safety risks.",
+      "context": "The United States is deploying biologically targeted tools against invasive pests.",
+      "next": "Farmers may face stricter quarantine rules for livestock.",
+      "bigger": "Invasive species outbreaks are threatening domestic food security systems.",
+      "publishedAt": "2026-06-06T01:55:03+00:00",
+      "topicFingerprint": [
+        "flesh",
+        "outbreak",
+        "fight",
+        "screwworm",
+        "plans"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump\u2019s latest tariff salvo may not be fix for global issue of forced labour",
+      "description": "One-third of Singapore\u2019s exports could be slapped with a new 12.5 per cent tariff.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/trumps-latest-tariff-salvo-no-fix-for-global-issue-of-forced-labour",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Imported goods from Southeast Asia may become more expensive.",
+      "context": "Proposed import tariffs may fail to solve systemic global labor issues.",
+      "next": "Trade tensions between Washington and Asian exporters may escalate.",
+      "bigger": "Tariffs are increasingly being used as diplomatic leverage.",
+      "publishedAt": "2026-06-05T15:05:00+08:00",
+      "topicFingerprint": [
+        "forced",
+        "donald_trump",
+        "labour",
+        "tariff",
+        "us_entity"
       ],
       "alternates": [
         {
-          "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-          "description": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-          "category": "Financial",
-          "publishedAt": "2026-06-05T21:01:53+00:00",
-          "score": 8,
+          "title": "Trump\u2019s latest tariff salvo no fix for global issue of forced labour",
+          "description": "Critics warn tariffs may be counterproductive, driven by trade politics not human rights concerns",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/trumps-latest-tariff-salvo-no-fix-global-issue-forced-labour",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-05T09:07:19+00:00",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "ai_group",
-            "google",
-            "spacex",
-            "compute",
-            "ipo"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
-          "description": "",
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/business/spacex-lands-google-ai-compute-deal-after-anthropic-pact-ahead-ipo-6165421",
-          "category": "Financial",
-          "publishedAt": "2026-06-06T02:58:50+08:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "google",
-            "spacex",
-            "compute",
-            "ipo"
+            "forced",
+            "donald_trump",
+            "labour",
+            "tariff",
+            "us_entity"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Some House Republicans vote with Democrats to send more aid to Ukraine",
-      "description": "The House of Representatives approved new funding for Ukraine after 18 Republicans broke with GOP leaders and voted with Democrats. Eleanor Mueller, Semafor White House economic policy reporter, and Igor Bobic, U.S. Senate reporter for NOTUS, join \"The Takeout\" to discuss.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/some-gops-vote-democrats-send-more-aid-ukraine/",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Ukraine will receive a vital boost in military supplies.",
-      "context": "The US House approved new funding for Ukraine through bipartisan support.",
-      "next": "The newly approved military equipment will begin shipping overseas soon.",
-      "bigger": "Bipartisan coalitions remain crucial for passing major foreign policy decisions.",
-      "publishedAt": "2026-06-05T18:35:00-04:00",
-      "topicFingerprint": [
-        "ukraine",
-        "house",
-        "aid",
-        "send",
-        "republicans"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "First phase of bilateral trade pact expected by next month: Piyush Goyal on US trade deal",
-      "description": "The remarks come amid President Trump's threat to implement a 12.5% additional tariff on 60 countries, including India",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/first-phase-of-bilateral-trade-pact-expected-by-next-month-piyush-goyal-on-us-trade-deal-101780659846827.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Importing and exporting goods between both countries may become cheaper.",
-      "context": "India and the United States are finalizing an initial trade agreement.",
-      "next": "Leaders will sign the preliminary agreement in the coming weeks.",
-      "bigger": "Countries are rushing to secure trade deals before new tariffs hit.",
-      "publishedAt": "2026-06-05T19:43:54+05:30",
-      "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "trade",
-        "tariff",
-        "india"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Gold steadies as uncertainty surrounds progress in US-Iran talks",
-      "description": "The war\u2019s protracted disruption to energy flows via the Strait of Hormuz has driven oil prices higher",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-steadies-uncertainty-surrounds-progress-us-iran-talks",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Rising geopolitical tensions are driving up global energy costs.",
-      "context": "Gold prices stabilized as diplomatic discussions between the US and Iran stall.",
-      "next": "Investors may buy more precious metals if diplomatic talks fail.",
-      "bigger": "Global commodity markets remain highly sensitive to Middle East conflicts.",
-      "publishedAt": "2026-06-05T00:51:14+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "war",
-        "iran",
-        "ukraine",
-        "donald_trump",
-        "israel"
-      ],
-      "alternates": []
     },
     {
       "title": "India's economy expands at 7.8% over January to March \u2014 faster than expected",
@@ -202,17 +184,17 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 10,
-      "why": "Indian businesses may see increased consumer spending and investment.",
-      "context": "India recorded stronger economic growth than anticipated despite global trade conflicts.",
-      "next": "The central bank may keep interest rates steady to control inflation.",
-      "bigger": "Emerging markets are driving global economic growth despite geopolitical headwinds.",
+      "why": "Indian job seekers may find more employment opportunities soon.",
+      "context": "India recorded stronger than expected economic growth early this year.",
+      "next": "Indian policymakers may increase spending on infrastructure projects.",
+      "bigger": "Emerging markets are driving global economic growth momentum.",
       "publishedAt": "2026-06-05T11:09:09+00:00",
       "topicFingerprint": [
-        "march",
-        "india",
         "expected",
         "january",
-        "faster"
+        "expands",
+        "march",
+        "india"
       ],
       "alternates": []
     },
@@ -223,18 +205,99 @@
       "url": "https://www.straitstimes.com/business/companies-markets/chinese-investors-behind-indonesias-nickel-boom-scout-alternatives-as-policy-changes-bite",
       "category": "Policy",
       "readingTime": 2,
-      "score": 11,
-      "why": "Global electric vehicle battery manufacturers could face supply disruptions.",
-      "context": "Foreign investors are looking outside Indonesia due to strict new mining regulations.",
-      "next": "Mining companies will likely shift their capital to other resource-rich nations.",
-      "bigger": "Resource nationalism is forcing global supply chains to find new partners.",
+      "score": 8,
+      "why": "Electric vehicle battery manufacturers may face higher raw material costs.",
+      "context": "Chinese mining companies are seeking alternative investments outside Indonesia.",
+      "next": "Chinese capital may shift toward African mineral markets.",
+      "bigger": "Resource nationalism is shaking up global clean energy supply chains.",
       "publishedAt": "2026-06-05T11:38:00+08:00",
       "topicFingerprint": [
-        "bite",
-        "investors",
+        "scout",
+        "indonesia",
+        "changes",
         "alternatives",
-        "behind",
-        "changes"
+        "boom"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India scraps tax on overseas bond investors in bid to attract foreign capital and shore up the rupee",
+      "description": "India has announced several measures to boost capital inflows, including the scrapping of capital gains tax for foreign investors in government bonds.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/india-tax-overseas-bond-investors.html",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Foreign investment inflows into Indian markets may rise.",
+      "context": "India removed taxes on foreign bondholders to support its currency.",
+      "next": "The Indian rupee may stabilize against the US dollar.",
+      "bigger": "Developing nations are aggressively competing for foreign capital.",
+      "publishedAt": "2026-06-05T08:44:07+00:00",
+      "topicFingerprint": [
+        "capital",
+        "tax",
+        "gains",
+        "foreign",
+        "bonds"
+      ],
+      "alternates": [
+        {
+          "title": "Govt. exempts capital gains tax on FPI investment in G-Secs",
+          "description": "",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/govt-exempts-capital-gains-tax-on-fpi-investment-in-g-secs/article71065995.ece",
+          "category": "Financial",
+          "publishedAt": "2026-06-05T20:31:50+05:30",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "capital",
+            "tax",
+            "gains",
+            "foreign",
+            "bonds"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "India to drop capital gains tax for foreign investors in government bonds, source says",
+          "description": "India\u2019s benchmark bond yield eased \u2060one basis point to 7.01% in opening trade, although it was not immediately clear when the plan would take effect.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/india-to-drop-capital-gains-tax-for-foreign-investors-in-government-bonds-source-says/article71062426.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-04T22:19:34+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "capital",
+            "tax",
+            "gains",
+            "foreign",
+            "bonds"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "China fueling U.S. data center resistance, AI groups claim",
+      "description": "The AI industry , battling concerns about its impact on jobs and energy costs, is accusing China-linked actors of using social media to fan opposition to the data centers powering America's AI boom. Why it matters: As the U.S. and China race for AI supremacy, resistance to data centers is threatenin",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 15,
+      "why": "New US data center construction projects could face delays.",
+      "context": "Artificial intelligence firms accused Chinese groups of instigating local protests.",
+      "next": "Tech firms may request government protection against foreign disinformation.",
+      "bigger": "Technological infrastructure is the new front in global information warfare.",
+      "publishedAt": "2026-06-05T09:25:06+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "anthropic",
+        "data",
+        "human",
+        "pause"
       ],
       "alternates": []
     },
@@ -246,219 +309,19 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 26,
-      "why": "Finding a retail job in the UK will become much harder.",
-      "context": "Major British retail brands are laying off workers to offset rising costs.",
-      "next": "Stores may cut operating hours or close locations to save money.",
-      "bigger": "Rising corporate tax rates are forcing service industries to automate faster.",
+      "why": "British retail workers may face fewer job opportunities.",
+      "context": "Major British retail firms eliminated thousands of customer service positions.",
+      "next": "High street stores may accelerate self-checkout technology installations.",
+      "bigger": "Higher corporate taxes are accelerating automation across service industries.",
       "publishedAt": "2026-06-05T07:17:50+00:00",
       "topicFingerprint": [
-        "jobs",
-        "uk_entity",
+        "taxes",
+        "rising",
         "retailers",
         "cut",
-        "taxes"
+        "jobs"
       ],
       "alternates": []
-    },
-    {
-      "title": "ISS astronauts take shelter on SpaceX Dragon amid air-leak repairs, asked to prepare for evacuation",
-      "description": "NASA has urged its ISS astronauts to prepare for potential evacuation as the Russia crew tries to fix the leak on their side",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/nasa-orders-evacuation-of-iss-astronauts-over-worsening-air-leak-101780671891174.html",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Astronauts face increased safety risks during orbital emergencies.",
-      "context": "Space station crew members prepared for evacuation during critical leak repairs.",
-      "next": "Engineers will conduct emergency inspections on the aging space station.",
-      "bigger": "Space agencies are struggling to maintain aging international space infrastructure safely.",
-      "publishedAt": "2026-06-05T21:58:52+05:30",
-      "topicFingerprint": [
-        "astronauts",
-        "leak",
-        "station",
-        "space",
-        "nasa"
-      ],
-      "alternates": [
-        {
-          "title": "Astronauts take shelter as air leaks worsen on International Space Station",
-          "description": "A worsening air leak aboard the International Space Station prompted five astronauts to take shelter and prepare for evacuation for roughly two hours on Friday as Russia attempted to \u200cfix a crack on its portion of the orbital laboratory, Nasa said. The four astronauts of Nasa\u2019s Crew-12 mission aboar",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356173/astronauts-take-shelter-air-leaks-worsen-international-space-station",
-          "category": "Science",
-          "publishedAt": "2026-06-05T16:57:45+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "astronauts",
-            "leak",
-            "station",
-            "space",
-            "nasa"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "NASA puts ISS astronauts on evacuation alert over air leaks",
-          "description": "NASA ordered ISS astronauts to shelter in their SpaceX Crew Dragon and prepare for evacuation due to air leaks in the Russian portion of the space station.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/ae53565d-a889-4145-9f80-9e0507056b15.html",
-          "category": "Science",
-          "publishedAt": "2026-06-05T15:16:54+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "astronauts",
-            "leak",
-            "station",
-            "space",
-            "nasa"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "NASA orders astronauts to take shelter after new leak aboard the International Space Station",
-          "description": "The five astronauts moved into the SpaceX capsule that is docked at the station while cosmonauts worked to fix the leak, which is on the Russian side of the orbiting laboratory.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/science/nasa-orders-astronauts-to-take-shelter-after-new-leak-aboard-the-international-space-station",
-          "category": "Science",
-          "publishedAt": "2026-06-05T11:50:35-04:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "astronauts",
-            "leak",
-            "station",
-            "space",
-            "nasa"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Who is aboard the International Space Station during the air leak?",
-          "description": "WASHINGTON, June 5 - NASA ordered five astronauts aboard the International Space Station to take shelter and prepare for possible evacuation for on Friday as a Russian crew tried to fix a leak of air on its portion of the orbital laboratory.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/who-is-aboard-the-international-space-station-during-the-air-leak",
-          "category": "Science",
-          "publishedAt": "2026-06-06T00:06:35+08:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "astronauts",
-            "leak",
-            "station",
-            "space",
-            "nasa"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "NASA places ISS astronauts on evacuation alert as air leak worsens",
-          "description": "",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/science/20260605-nasa-places-iss-astronauts-on-evacuation-alert-as-air-leak-worsens",
-          "category": "Science",
-          "publishedAt": "2026-06-05T15:01:13+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "astronauts",
-            "leak",
-            "station",
-            "space",
-            "nasa"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
-      "description": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Farmers could face higher costs to protect livestock from infections.",
-      "context": "US officials are deploying biological defenses to contain a dangerous insect outbreak.",
-      "next": "Agricultural inspectors will increase patrols along southern border states.",
-      "bigger": "Climate shifts are helping invasive pests spread to new territories.",
-      "publishedAt": "2026-06-05T00:56:42+00:00",
-      "topicFingerprint": [
-        "flies",
-        "fight",
-        "screwworm",
-        "eating",
-        "dogs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Vulnerable coastal communities will have better protection from severe storms.",
-      "context": "Coastal mangrove ecosystems are recovering globally thanks to conservation efforts.",
-      "next": "More regions will fund restoration projects to shield their coastlines.",
-      "bigger": "Targeted ecological restoration can successfully reverse decades of environmental damage.",
-      "publishedAt": "2026-06-04T23:11:15+00:00",
-      "topicFingerprint": [
-        "decades",
-        "mangrove",
-        "destruction",
-        "healing",
-        "forests"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
-      "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war US employers added 172,000 jobs in May while the country\u2019s unemployment rate held steady at 4.3%, a sign of a resilient labor market despite rising inflation and economic uncertainty brough",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 34,
-      "why": "Your mortgage and loan rates may stay high for now.",
-      "context": "The American job market remained strong despite persistent inflation concerns.",
-      "next": "Businesses will continue competing for workers with steady wages.",
-      "bigger": "High employment is keeping inflation elevated across the global economy.",
-      "publishedAt": "2026-06-05T20:10:11+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "war",
-        "iran",
-        "ukraine",
-        "donald_trump",
-        "israel"
-      ],
-      "alternates": [
-        {
-          "title": "Why hiring surged in May despite economic strain from the Iran war",
-          "description": "There was surprising strength in the latest U.S. jobs report. Employers added 172,000 jobs in May, the third straight month of job gains. Overall, the labor market appears strong despite concerns about the Iran war, rising prices and artificial intelligence. Amna Nawaz speaks with Diane Swonk, chief",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/why-hiring-surged-in-may-despite-economic-strain-from-the-iran-war",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-05T18:55:32-04:00",
-          "score": 25,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "war",
-            "iran",
-            "ukraine",
-            "donald_trump",
-            "israel"
-          ],
-          "group_id": 0
-        }
-      ]
     },
     {
       "title": "Watch: RBI lowers growth forecast to 6.6%",
@@ -468,18 +331,18 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 28,
-      "why": "Borrowing money in India is likely to remain expensive.",
-      "context": "India's central bank reduced its economic growth outlook due to rising costs.",
-      "next": "Businesses may delay expansion plans due to higher capital costs.",
-      "bigger": "Global energy shocks are putting pressure on fast-growing emerging economies.",
+      "why": "Indian households may face higher everyday living costs.",
+      "context": "India\u2019s central bank reduced economic growth expectations for this year.",
+      "next": "The central bank may keep interest rates elevated longer.",
+      "bigger": "Global energy shocks are dragging down emerging market growth.",
       "publishedAt": "2026-06-05T17:01:32+05:30",
       "topicFingerprint": [
-        "us_entity",
         "war",
         "iran",
-        "ukraine",
-        "donald_trump",
-        "israel"
+        "us_entity",
+        "oil",
+        "israel",
+        "prices"
       ],
       "alternates": [
         {
@@ -492,12 +355,12 @@
           "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "us_entity",
             "war",
             "iran",
-            "ukraine",
-            "donald_trump",
-            "israel"
+            "us_entity",
+            "oil",
+            "israel",
+            "prices"
           ],
           "group_id": 1
         }
@@ -506,46 +369,67 @@
   ],
   "candidatePool": [
     {
+      "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
+      "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war US employers added 172,000 jobs in May while the country\u2019s unemployment rate held steady at 4.3%, a sign of a resilient labor market despite rising inflation and economic uncertainty brough",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 33,
+      "why": "Borrowers in the US may face prolonged high loan rates.",
+      "context": "United States employment grew steadily despite rising economic headwinds.",
+      "next": "The Federal Reserve could postpone potential interest rate cuts.",
+      "bigger": "Strong labor markets are complicating global efforts to curb inflation.",
+      "publishedAt": "2026-06-05T20:10:11+00:00",
+      "topicFingerprint": [
+        "war",
+        "iran",
+        "us_entity",
+        "oil",
+        "israel",
+        "prices"
+      ],
+      "alternates": [
+        {
+          "title": "Why hiring surged in May despite economic strain from the Iran war",
+          "description": "There was surprising strength in the latest U.S. jobs report. Employers added 172,000 jobs in May, the third straight month of job gains. Overall, the labor market appears strong despite concerns about the Iran war, rising prices and artificial intelligence. Amna Nawaz speaks with Diane Swonk, chief",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/why-hiring-surged-in-may-despite-economic-strain-from-the-iran-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-05T18:55:32-04:00",
+          "score": 22,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "us_entity",
+            "oil",
+            "israel",
+            "prices"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
       "title": "DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US \u2018dismantling\u2019 oceans research | China\u2019s solar slump",
       "description": "Welcome to Carbon Brief\u2019s DeBriefed. An essential guide to the week s key developments relating to climate... The post DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US \u2018dismantling\u2019 oceans research | China\u2019s solar slump appeared first on Carbon Brief .",
       "source": "Carbon Brief",
       "url": "https://www.carbonbrief.org/debriefed-5-june-2026-uk-eyes-2040-emissions-cut-us-dismantling-oceans-research-chinas-solar-slump/",
       "category": "Science",
       "readingTime": 2,
-      "score": 15,
-      "why": "Diverging national policies are complicating global green energy transitions.",
-      "context": "Key environmental developments show shifting global policies on climate and research.",
-      "next": "Green technology manufacturers may face unpredictable international markets.",
-      "bigger": "National political shifts are fracturing international climate agreements.",
+      "score": 14,
+      "why": "Climate policy changes may alter global green energy transitions.",
+      "context": "Key nations adjusted climate goals and cut maritime science funding.",
+      "next": "Activist groups may launch legal challenges against state policies.",
+      "bigger": "International consensus on climate change actions is splintering.",
       "publishedAt": "2026-06-05T13:35:57+00:00",
       "topicFingerprint": [
-        "carbon",
         "solar",
-        "brief",
         "appeared",
+        "brief",
+        "carbon",
         "china_entity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Talent fight heats up in India finance hub as DBS, Standard Chartered chiefs quit",
-      "description": "Global banks are expanding their presence in Gift City, lured by tax incentives and a lighter regulatory framework",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/talent-fight-heats-india-finance-hub-dbs-standard-chartered-chiefs-quit",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Finance professionals in the region could secure higher salaries.",
-      "context": "Top banking executives resigned as competition intensifies in India's financial zone.",
-      "next": "Global banks will launch aggressive recruitment campaigns to attract talent.",
-      "bigger": "Emerging financial centers are successfully challenging established global banking hubs.",
-      "publishedAt": "2026-06-05T05:27:33+00:00",
-      "topicFingerprint": [
-        "talent",
-        "chiefs",
-        "standard",
-        "india",
-        "fight"
       ],
       "alternates": []
     },
@@ -556,79 +440,64 @@
       "url": "https://www.pbs.org/newshour/economy/treasury-warns-banks-of-red-flags-tied-to-customers-in-the-us-illegally",
       "category": "Financial",
       "readingTime": 2,
-      "score": 14,
-      "why": "Opening or maintaining a bank account may require stricter verification.",
-      "context": "The US government instructed banks to watch for financial fraud patterns.",
-      "next": "Banks will implement automated screening tools to detect suspicious transactions.",
-      "bigger": "Governments are shifting the burden of immigration enforcement to financial institutions.",
+      "score": 13,
+      "why": "Bank customers may face stricter identity verification checks.",
+      "context": "United States financial regulators warned banks about potential illicit transactions.",
+      "next": "Banks may lock suspicious accounts for deeper security reviews.",
+      "bigger": "Financial surveillance is intensifying to combat systemic identity fraud.",
       "publishedAt": "2026-06-05T12:21:52-04:00",
       "topicFingerprint": [
-        "red",
-        "banks",
-        "treasury",
+        "illegally",
         "warns",
-        "tied"
+        "tied",
+        "treasury",
+        "flags"
       ],
       "alternates": []
     },
     {
-      "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
-      "description": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Meta hack shows there\u2019s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta\u2019s AI customer support agent to steal Instagram",
-      "source": "Mit Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "category": "Technology",
+      "title": "Tech sell-off, Bitcoin drop test retail investor strength ahead of SpaceX IPO",
+      "description": "[NEW YORK] For years, Wall Street has benefited from one of the most reliable forces in modern markets: a retail-trader army willing...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/tech-sell-bitcoin-drop-test-retail-investor-strength-ahead-spacex-ipo",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 13,
-      "why": "Your online data faces new types of security risks.",
-      "context": "Recent technological studies explored artificial intelligence security flaws and psychological effects.",
-      "next": "Tech companies will roll out patches to secure their software.",
-      "bigger": "Rapid AI deployment is outpacing our understanding of its societal consequences.",
-      "publishedAt": "2026-06-05T12:10:00+00:00",
+      "score": 11,
+      "why": "Individual retail investors may suffer significant portfolio losses.",
+      "context": "Falling technology stocks and cryptocurrency prices challenged individual traders.",
+      "next": "Demand for upcoming stock market listings may decline.",
+      "bigger": "Market volatility is cooling public enthusiasm for speculative investments.",
+      "publishedAt": "2026-06-06T04:13:00+00:00",
       "topicFingerprint": [
+        "google",
         "ai_group",
-        "meta",
-        "agent",
-        "attackers",
-        "support"
+        "ahead",
+        "spacex",
+        "month"
       ],
-      "alternates": [
-        {
-          "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
-          "description": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
-          "source": "Mit Technology Review",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-          "category": "Technology",
-          "publishedAt": "2026-06-05T09:00:00+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "meta",
-            "agent",
-            "attackers",
-            "support"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-          "description": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts throu",
-          "source": "Mit Technology Review",
-          "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-          "category": "Technology",
-          "publishedAt": "2026-06-04T12:10:00+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "meta",
-            "agent",
-            "attackers",
-            "support"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/indonesia-central-bank-finance-minister-agree-boost-asset-yields-aid-rupiah-6166116",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Foreign investors can secure higher returns on Indonesian bonds.",
+      "context": "Indonesian authorities coordinated efforts to strengthen their national currency.",
+      "next": "Import costs for Indonesian businesses may begin to fall.",
+      "bigger": "Developing nations are raising yields to defend against capital flight.",
+      "publishedAt": "2026-06-06T12:54:15+08:00",
+      "topicFingerprint": [
+        "asset",
+        "rupiah",
+        "indonesia",
+        "yields",
+        "finance"
+      ],
+      "alternates": []
     },
     {
       "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
@@ -637,18 +506,18 @@
       "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
       "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "Your workplace could face data theft from physical impostors.",
-      "context": "Cybercriminals are posing as technical support staff to steal corporate data.",
-      "next": "Offices will implement stricter visitor security and ID checks.",
-      "bigger": "Hackers are blending physical deception with digital attacks to bypass firewalls.",
+      "score": 9,
+      "why": "Corporate offices face severe on-site data theft risks.",
+      "context": "Cybercriminals are posing as technical support staff to infiltrate offices.",
+      "next": "Companies may implement stricter visitor check-in security protocols.",
+      "bigger": "Cyber threats are shifting from digital networks to physical social engineering.",
       "publishedAt": "2026-06-05T16:07:46+00:00",
       "topicFingerprint": [
+        "sends",
+        "google",
         "fbi",
-        "ransomware",
-        "person",
-        "group",
-        "google"
+        "hack",
+        "person"
       ],
       "alternates": []
     },
@@ -659,16 +528,177 @@
       "url": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/",
       "category": "Health",
       "readingTime": 2,
-      "score": 9,
-      "why": "Some popular energy drinks may face sales bans or ingredient restrictions.",
-      "context": "State officials are probing the marketing and safety of energy drinks.",
-      "next": "Manufacturers may be forced to change their warning labels.",
-      "bigger": "State regulators are taking an active role in enforcing public health.",
+      "score": 8,
+      "why": "Energy drink brands may face new marketing restrictions.",
+      "context": "Texas legal authorities launched a probe into popular beverage companies.",
+      "next": "Other states could launch similar investigations into beverage safety.",
+      "bigger": "Consumer safety regulations on high-caffeine products are tightening.",
       "publishedAt": "2026-06-05T13:17:35+00:00",
       "topicFingerprint": [
         "texas",
-        "drinks",
-        "investigatingenergy"
+        "investigatingenergy",
+        "drinks"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "NASA reverses evacuation order for ISS after leak concerns",
+      "description": "NASA has reversed an evacuation order on the International Space Station due to concerns over two small air leaks in the Russian section. Retired NASA astronaut Scott Parazynski joins CBS News with more.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/nasa-reverses-evacuation-order-iss-leak-concerns/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Astronauts on board can safely continue their scientific missions.",
+      "context": "Space agency officials cleared astronauts to remain on the space station.",
+      "next": "Engineers will monitor the orbital laboratory for further air leaks.",
+      "bigger": "Aging space infrastructure is posing growing risks to international missions.",
+      "publishedAt": "2026-06-05T20:42:27-04:00",
+      "topicFingerprint": [
+        "air",
+        "leak",
+        "station",
+        "space",
+        "evacuation"
+      ],
+      "alternates": [
+        {
+          "title": "Astronauts take shelter as air leaks worsen on International Space Station",
+          "description": "A worsening air leak aboard the International Space Station prompted five astronauts to take shelter and prepare for evacuation for roughly two hours on Friday as Russia attempted to \u200cfix a crack on its portion of the orbital laboratory, Nasa said. The four astronauts of Nasa\u2019s Crew-12 mission aboar",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356173/astronauts-take-shelter-air-leaks-worsen-international-space-station",
+          "category": "Science",
+          "publishedAt": "2026-06-05T16:57:45+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "air",
+            "leak",
+            "station",
+            "space",
+            "evacuation"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "NASA puts ISS astronauts on evacuation alert over air leaks",
+          "description": "NASA ordered ISS astronauts to shelter in their SpaceX Crew Dragon and prepare for evacuation due to air leaks in the Russian portion of the space station.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/ae53565d-a889-4145-9f80-9e0507056b15.html",
+          "category": "Science",
+          "publishedAt": "2026-06-05T15:16:54+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "air",
+            "leak",
+            "station",
+            "space",
+            "evacuation"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Who is aboard the International Space Station during the air leak?",
+          "description": "WASHINGTON, June 5 - NASA ordered five astronauts aboard the International Space Station to take shelter and prepare for possible evacuation for on Friday as a Russian crew tried to fix a leak of air on its portion of the orbital laboratory.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/who-is-aboard-the-international-space-station-during-the-air-leak",
+          "category": "Science",
+          "publishedAt": "2026-06-06T00:06:35+08:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "air",
+            "leak",
+            "station",
+            "space",
+            "evacuation"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "NASA places ISS astronauts on evacuation alert as air leak worsens",
+          "description": "",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/science/20260605-nasa-places-iss-astronauts-on-evacuation-alert-as-air-leak-worsens",
+          "category": "Science",
+          "publishedAt": "2026-06-05T15:01:13+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "air",
+            "leak",
+            "station",
+            "space",
+            "evacuation"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
+      "description": "\"We're living in a world where it's almost impossible for smaller entrants to come in and build healthier spaces,\" Bluesky's COO, Rose Wang, told CNBC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/06/bluesky-teen-social-media-ban-monopolies.html",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Digital consumers may have fewer social media alternatives.",
+      "context": "Industry experts warned that minor safety regulations help tech monopolies.",
+      "next": "Governments may face pressure to revise child safety laws.",
+      "bigger": "Safety regulations are unintentionally reinforcing big tech market dominance.",
+      "publishedAt": "2026-06-06T05:00:01+00:00",
+      "topicFingerprint": [
+        "media",
+        "social",
+        "exec",
+        "warns",
+        "grip"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "description": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s \u2014 a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Affected corporate clients may have suffered undetected data exposure.",
+      "context": "A lawsuit accused a major technology firm of hiding cyberattacks.",
+      "next": "Federal regulators may open formal investigations into the company.",
+      "bigger": "Whistleblowers are increasingly exposing corporate cybersecurity failures.",
+      "publishedAt": "2026-06-05T20:31:04+00:00",
+      "topicFingerprint": [
+        "executive",
+        "breaches",
+        "cyber",
+        "former",
+        "turned"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Young South Koreans embrace \u2018plogging\u2019 to cope with climate anxiety",
+      "description": "As South Koreans brace for another sweltering summer, a grim joke has taken hold in casual conversation: \u201cThis will be the coolest summer for the rest of our lives.\u201d For many young people, that line is no longer dark humour but a blunt summary of how the climate crisis feels \u2013 relentless, immediate ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3356185/young-south-koreans-embrace-plogging-cope-climate-anxiety",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Participants can improve local environments while managing mental stress.",
+      "context": "South Korean youth are combining jogging with trash collection.",
+      "next": "Local governments may sponsor more community-led cleanup programs.",
+      "bigger": "Young generations are turning to local activism to battle anxiety.",
+      "publishedAt": "2026-06-06T02:36:34+00:00",
+      "topicFingerprint": [
+        "south",
+        "koreans",
+        "plogging",
+        "cope",
+        "anxiety"
       ],
       "alternates": []
     },
@@ -679,62 +709,18 @@
       "url": "https://frontpage.ink/d34a5056-99b1-408d-90f6-2092e3386f7e.html",
       "category": "General",
       "readingTime": 2,
-      "score": 7,
-      "why": "Public pressure for stricter scrutiny of royal finances may increase.",
-      "context": "An official audit revealed a royal member profited from state-owned properties.",
-      "next": "Parliament may introduce new transparency laws for royal estates.",
-      "bigger": "Taxpayers are demanding greater accountability for public funds and privileges.",
+      "score": 6,
+      "why": "British taxpayers may demand stricter oversight of royal finances.",
+      "context": "A public audit revealed unauthorized commercial use of royal residences.",
+      "next": "Parliament may introduce laws regulating royal asset management.",
+      "bigger": "Public tolerance for royal financial privileges is rapidly declining.",
       "publishedAt": "2026-06-05T16:12:42+00:00",
       "topicFingerprint": [
-        "andrew",
-        "rent",
-        "subletting",
+        "free",
         "money",
-        "cottages"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Chrome is now \u2018faster than ever,\u2019 and Google wrote a technical love letter to prove it",
-      "description": "Google lays out the engineering behind Chrome's recent performance boost.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-chrome-faster-than-ever-benchmarks-3674956/",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 4,
-      "why": "Your web pages will load faster and use less battery.",
-      "context": "Google upgraded its web browser code to deliver better performance.",
-      "next": "Rival browsers will release updates to keep up with Google.",
-      "bigger": "Software developers are focusing on efficiency to optimize heavy web applications.",
-      "publishedAt": "2026-06-05T17:00:40+00:00",
-      "topicFingerprint": [
-        "wrote",
-        "chrome",
-        "google",
-        "ever",
-        "faster"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "EU invests in ocean monitoring as US cuts funding",
-      "description": "The EU is expanding its ocean monitoring network with underwater drones and satellites as climate change intensifies heat waves and storms",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/eu-invests-ocean-monitoring-us-cuts-funding-133596637",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Scientists may lack comprehensive global data to predict severe weather.",
-      "context": "Europe is funding maritime tracking projects while America scales back research.",
-      "next": "European tech firms will secure major maritime surveillance contracts.",
-      "bigger": "Europe is stepping up to lead global environmental research initiatives.",
-      "publishedAt": "2026-06-04T15:22:31-04:00",
-      "topicFingerprint": [
-        "ocean",
-        "funding",
-        "eu_entity",
-        "cuts",
-        "invests"
+        "prince",
+        "former",
+        "andrew"
       ],
       "alternates": []
     }
@@ -775,34 +761,34 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "indonesian",
           "tech",
           "police",
           "equipment",
-          "indonesian",
           "china_entity"
         ]
       },
       {
-        "title": "Chinese EVs reclaim momentum as tech upgrades, incentives squeeze gains of foreign marques",
-        "description": "International marques have failed to sustain the market share they regained in China early this year after consumers fell back in love with electric vehicles (EVs), a sector where domestic brands continue to enjoy an overwhelming advantage. Foreign carmakers from Volkswagen to Toyota held a combined",
+        "title": "Targeting US$610 billion longevity market, biotech firms race to reverse ageing",
+        "description": "For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs building up in a complex software system \u2013 it happens once errors begin to accumulate in the genetic code of human cells, such as their DNA sequences. \u201cThose errors can be reprogrammed. It becomes possible to use AI to rea",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/china-evs/article/3356147/chinese-evs-reclaim-momentum-tech-upgrades-incentives-squeeze-gains-foreign-marques",
+        "url": "https://www.scmp.com/business/china-business/article/3356154/targeting-us610-billion-longevity-market-biotech-firms-race-reverse-ageing",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-05T12:00:18+00:00",
+        "publishedAt": "2026-06-06T00:00:20+00:00",
         "reason": "within_48h",
         "score": 11,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: ai"
           },
           {
             "points": 2,
@@ -810,11 +796,68 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: consumers"
+            "reason": "important keyword match: software"
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 3,
+        "alternates": [],
+        "topicFingerprint": [
+          "ai_group",
+          "anthropic",
+          "data",
+          "human",
+          "pause"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Talent fight heats up in India finance hub as DBS, Standard Chartered chiefs quit",
+        "description": "Global banks are expanding their presence in Gift City, lured by tax incentives and a lighter regulatory framework",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/talent-fight-heats-india-finance-hub-dbs-standard-chartered-chiefs-quit",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T05:27:33+00:00",
+        "reason": "within_48h",
+        "score": 12,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: finance"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
@@ -822,17 +865,88 @@
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: tax"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
-        "group_id": 1,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "capital",
-          "gains",
-          "tax",
-          "foreign",
-          "bonds"
+          "standard",
+          "fight",
+          "dbs",
+          "quit",
+          "heats"
+        ]
+      },
+      {
+        "title": "PM Modi\u2013Delcy Rodriguez meeting: Key takeaways from India-Venezuela talks on energy, trade and investment",
+        "description": "Prime Minister Narendra Modi met Venezuela's Acting President Delcy Rodriguez in New Delhi on June 4, with both sides focusing on energy security, trade, investment and new areas of economic cooperation. Here are the key takeaways from the talks.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/photos/india/pm-modi-delcy-rodriguez-meeting-key-takeaways-from-india-venezuela-talks-on-energy-trade-and-investment-ws-e-19919716.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-04T20:02:22+05:30",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "india",
+          "delhi",
+          "cockroach",
+          "party",
+          "movement"
         ]
       }
     ],
@@ -847,7 +961,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-05T16:08:04+00:00",
         "reason": "within_48h",
-        "score": 12,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
@@ -868,20 +982,16 @@
           {
             "points": 3,
             "reason": "Impact priority base match: interest"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "odds",
+          "jump",
           "prediction",
-          "fed",
           "hike",
-          "jump"
+          "fed",
+          "odds"
         ]
       },
       {
@@ -916,31 +1026,27 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "offshore",
+          "us_entity56",
           "billion",
-          "brokers",
           "fight",
-          "wall",
-          "us_entity56"
+          "pump"
         ]
       }
     ],
     "europe": [
       {
-        "title": "EU needs a \u2018dedicated instrument\u2019 to unwind China dependencies, trade chief says",
-        "description": "The EU\u2019s trade chief has confirmed publicly for the first time that the bloc is considering a specific rule to compel companies to diversify their suppliers, as Europe looks to unwind its dependencies on China. \u201cDiversification now requires a dedicated instrument,\u201d Trade and Economic Security Commis",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "EU weighs rules to cut reliance on China through broader supply chains",
+        "description": "BRUSSELS, June 5 - The European Commission is weighing legislation that could force companies in sensitive sectors to cut reliance on single suppliers - notably in China - and diversify to at least three sources, European Trade Commissioner Maros Sefcovic said on Friday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/eu-weighs-rules-to-cut-reliance-on-china-through-broader-supply-chains",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-05T13:10:23+00:00",
+        "publishedAt": "2026-06-05T23:56:37+08:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 6,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
           {
             "points": 2,
             "reason": "important keyword match: china"
@@ -954,273 +1060,115 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
           },
           {
             "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group in title match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "low quality group match: said"
           }
         ],
         "group_id": 0,
-        "alternates": [],
+        "alternates": [
+          {
+            "title": "EU weighs rules to cut reliance on China through broader supply chains",
+            "description": "The proposal would be part of a broader review of EU trade defences due by the third quarter, including steps to speed up anti-dumping and anti-subsidy cases and potential new measures to tackle overcapacity.",
+            "source": "CNBC TV",
+            "url": "https://www.cnbctv18.com/world/eu-weighs-rules-to-cut-reliance-on-china-through-broader-supply-chains-ws-l-19920616.htm",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-05T23:20:14+05:30",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "cut",
+              "weighs",
+              "rules",
+              "broader",
+              "trade"
+            ],
+            "group_id": 0
+          }
+        ],
         "topicFingerprint": [
-          "trade",
-          "eu_entity",
-          "china_entity",
-          "diversify",
-          "suppliers"
+          "cut",
+          "weighs",
+          "rules",
+          "broader",
+          "trade"
         ]
       },
       {
-        "title": "German asylum benefits cuts violate EU law, top court rules",
-        "description": "In a victory for rejected asylum-seekers, the European Court of Justice has ruled they must be given more than just the bare minimum to survive. But as the EU's new migration pact kicks in, will relief be short-lived?",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Policy",
+        "title": "EU leaders at Western Balkans summit in Montenegro advance expansion plans",
+        "description": "EU leaders gather in Montenegro to advance expansion plans for Western Balkan countries, focusing on single market integration and streamlining accession rules.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/4acb7c7e-faf2-422d-8fd4-874bda2fe734.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-04T16:13:00+00:00",
+        "publishedAt": "2026-06-05T10:13:32+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
+            "reason": "other category"
           },
           {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "asylum",
-          "violate",
+          "expansion",
           "eu_entity",
-          "cuts",
-          "german"
+          "western",
+          "balkans",
+          "summit"
         ]
       }
     ],
-    "india": [
+    "france": [
       {
-        "title": "Target seafood exports worth $30 billion in next five years: Piyush Goyal",
-        "description": "Despite high tariffs (55.8%) by the U.S., India's exporters ensured a rise in exports to the European Union, Japan, China, and Southeast Asia to offset any losses",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/business/Industry/target-seafood-exports-worth-30-billion-in-next-five-years-piyush-goyal/article71065115.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-05T18:40:52+05:30",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariffs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: exports"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: exports"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": -4,
-            "reason": "profile opinion"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "target",
-          "years",
-          "billion",
-          "five",
-          "goyal"
-        ]
-      },
-      {
-        "title": "India\u2019s Cockroach Party fights attempts to discredit the movement",
-        "description": "On this edition of Access Asia, we explore how India\u2019s nascent Cockroach Janta Party has tapped into the frustrations of the country\u2019s youth. We speak with the party\u2019s spokesperson, Saurav Das, who tells us that the movement is demanding accountability from the government. Political scientist Christ",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/access-asia/20260605-india-s-cockroach-party-fights-attempts-to-discredit-the-movement",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-05T13:53:29+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "india",
-          "cockroach",
-          "movement",
-          "discredit",
-          "attempts"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "BOJ expected to raise interest rates in June: sources",
-        "description": "Markets are pricing in an 80% chance that the bank will raise its short-term policy rate to 1% from 0.75%",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-expected-raise-interest-rates-june-sources",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T07:50:30+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: interest"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: interest"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sources",
-          "expected",
-          "boj",
-          "raise",
-          "rates"
-        ]
-      },
-      {
-        "title": "China speeds past Japan in Australian car imports on EV bonanza",
-        "description": "Electric vehicles and hybrids account for almost half of the cars sold in Australia in May",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/china-speeds-past-japan-australian-car-imports-ev-bonanza",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "title": "Mali sentences French diplomat to 20 years for undermining state security",
+        "description": "A Mali court sentenced a French intelligence agent to 20 years in prison for undermining state security in a plot to destabilize the country.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/3fc5bb9c-62ec-4b4f-b14c-57c9351f816b.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-05T02:47:35+00:00",
+        "publishedAt": "2026-06-05T23:14:09+00:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: security"
           },
           {
             "points": 2,
-            "reason": "important keyword match: imports"
+            "reason": "Highest Quality Source match: Frontpage"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: Business Times"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "japan",
-          "speeds",
-          "australian",
-          "bonanza",
-          "past"
+          "mali",
+          "french",
+          "years",
+          "undermining",
+          "sentenced"
         ]
-      }
-    ],
-    "france": [
+      },
       {
         "title": "French billionaire Pierre-Edouard Sterin pleads for law change to disinherit children",
         "description": "French billionaire Pierre-Edouard Sterin is pleading with lawmakers to modify rules so he can give his fortune to charity.",
@@ -1246,205 +1194,10 @@
         "alternates": [],
         "topicFingerprint": [
           "sterin",
-          "pierre",
-          "children",
+          "edouard",
           "disinherit",
-          "edouard"
-        ]
-      },
-      {
-        "title": "Cobolli into final as virus-struck Arnaldi pulls out of French Open",
-        "description": "Tenth seed Flavio Cobolli will \u200btake on German second seed Alexander Zverev in \u2060final after Matteo Arnaldi withdrawal.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/5/cobolli-into-final-as-virus-struck-arnaldi-pulls-out-of-french-open",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-06-05T20:32:10+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Cobolli to face Zverev in French Open final after Arnaldi withdraws with virus",
-            "description": "Flavio Cobolli will face Alexander Zverev in the French Open final after semi-final opponent Matteo Arnaldi withdrew due to a virus.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/3bf5fcc2-0987-45eb-b6f8-9f4c3c0ae8c8.html",
-            "category": "Health",
-            "publishedAt": "2026-06-05T21:19:38+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zverev",
-              "cobolli",
-              "open",
-              "alexander",
-              "flavio"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Zverev powers past Mensik to reach French Open final, one win away from title",
-            "description": "Germany's Alexander Zverev defeated Jakub Mensik to reach the French Open final, where he will face Flavio Cobolli this Sunday for his first Grand Slam title.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/bf1eecbe-bcc6-4379-b6f2-cc344009a376.html",
-            "category": "General",
-            "publishedAt": "2026-06-05T17:28:21+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zverev",
-              "cobolli",
-              "open",
-              "alexander",
-              "flavio"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Zverev cruises past Mensik to reach second French Open final",
-            "description": "Alexander Zverev will face either Flavio Cobolli or Matteo Arnaldi in final, after beating Jakub Mensik at French Open.",
-            "source": "Al Jazeera",
-            "url": "https://www.aljazeera.com/sports/2026/6/5/zverev-cruises-past-mensik-to-reach-second-french-open-final",
-            "category": "General",
-            "publishedAt": "2026-06-05T16:28:33+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zverev",
-              "cobolli",
-              "open",
-              "alexander",
-              "flavio"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "zverev",
-          "cobolli",
-          "open",
-          "alexander",
-          "flavio"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "China speeds past Japan in Australian car imports on EV bonanza",
-        "description": "Electric vehicles and hybrids account for almost half of the cars sold in Australia in May",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/china-speeds-past-japan-australian-car-imports-ev-bonanza",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-05T02:47:35+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: imports"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "japan",
-          "speeds",
-          "australian",
-          "bonanza",
-          "past"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Asia steps up currency defence as South Korea, Indonesia vow action",
-        "description": "Authorities are also guarding against speculative activity in offshore markets",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asia-steps-currency-defence-south-korea-indonesia-vow-action",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-04T06:08:26+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "defence",
-          "vow",
-          "asia",
-          "sk_entity",
-          "currency"
-        ]
-      },
-      {
-        "title": "South Korean stocks slide as cracks emerge in world-beating rally",
-        "description": "Retail investors, once key drivers, are showing less willingness to commit fresh cash",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-korean-stocks-slide-cracks-emerge-world-beating-rally",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-05T01:22:48+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 5,
-        "alternates": [],
-        "topicFingerprint": [
-          "tech",
-          "asian",
-          "sell",
-          "broadcom",
-          "asia"
+          "french",
+          "pierre"
         ]
       }
     ],
@@ -1481,11 +1234,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "german",
           "asylum",
-          "violate",
           "eu_entity",
-          "cuts",
-          "german"
+          "benefits",
+          "top"
         ]
       }
     ],
@@ -1530,11 +1283,44 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "deliveries",
-          "fruit",
+          "ultra",
           "uk_entity",
-          "amazon",
-          "expands"
+          "veg",
+          "deliveries",
+          "adds"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Why are devastating mice plagues happening in Australia?",
+        "description": "Crops are being ravaged and homes are being invaded by the rodents - and it\u2019s costing farmers hundreds of thousands of dollars.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn9p9y07d94o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-05T22:01:20+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "australia",
+          "plagues",
+          "mice",
+          "devastating",
+          "happening"
         ]
       }
     ]
