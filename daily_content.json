@@ -1,199 +1,115 @@
 {
-  "updatedAt": "2026-06-12T05:27:23.672560",
+  "updatedAt": "2026-06-13T00:16:34.522832",
   "insight": {
-    "title": "Why Coins Have Ridges on the Edges",
-    "subtitle": "A clever trick invented by Sir Isaac Newton to stop medieval thieves still protects your spare change today.",
-    "notificationHook": "Why quarters have those tiny ridges",
+    "title": "The Manager Who Told His Engineer to Take Off His Hat",
+    "subtitle": "How a single sentence silenced the engineers warning of the Challenger disaster.",
+    "notificationHook": "A seven-word phrase destroyed Challenger",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Run your thumb along the edge of a quarter, and you will feel dozens of tiny ridges. They aren\u2019t there for grip\u2014they were designed by Sir Isaac Newton to catch thieves."
+        "text": "January 27, 1986. Engineers fought desperately to halt the Challenger launch. Freezing temperatures would ruin the rocket's rubber seals. But NASA was furious about delays, demanding an immediate, final decision."
       },
       {
         "type": "paragraph",
-        "text": "In the 1690s, criminals secretly shaved precious silver off the smooth edges of coins to melt down and sell. Newton, running the Royal Mint, added ridges so shaved coins were instantly spotted."
+        "text": "Pressured, executive Jerry Mason turned to his hesitating vice president of engineering. He uttered the fatal command: \"Take off your engineering hat and put on your management hat.\""
       },
       {
         "type": "paragraph",
-        "text": "Today, coins are no longer made of precious metals, but governments kept the ridges. They help the visually impaired identify denominations and allow vending machines to verify authentic coins instantly."
+        "text": "The engineer yielded and signed the launch approval. The next morning, seventy-three seconds after liftoff, the frozen seals failed, destroying the shuttle and killing all seven crew members."
       },
       {
         "type": "paragraph",
-        "text": "Isaac Newton\u2019s anti-theft design is still jingling in your pocket."
+        "text": "Physics does not care about management hats."
       }
     ]
   },
   "news": [
     {
-      "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'",
-      "description": "Hours earlier, Trump warned that the U.S. would attack Iran \"VERY HARD TONIGHT\" and soon take over Iran's oil infrastructure assets, including Kharg Island.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
-      "category": "Geopolitics",
+      "title": "Rate hikes unlikely despite hot inflation and strong jobs in US: Amundi",
+      "description": "Former Fed chair Janet Yellen also does not expect rate increases soon, due to uncertainty over oil prices",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/singapore/economy-policy/rate-hikes-unlikely-despite-hot-inflation-and-strong-jobs-us-amundi",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 17,
-      "why": "Global fuel and energy costs may soon begin to stabilize.",
-      "context": "Donald Trump announced a tentative peace agreement to end the conflict with Iran.",
-      "next": "Diplomatic teams will work to finalize the official treaty terms.",
-      "bigger": "Middle East geopolitical dynamics are shifting toward diplomatic resolution.",
-      "publishedAt": "2026-06-11T20:49:53+00:00",
+      "score": 20,
+      "why": "Borrowing costs for loans and mortgages may not rise further.",
+      "context": "US officials suggest interest rate hikes are unlikely despite current inflation and job growth.",
+      "next": "The Federal Reserve will likely maintain current interest rates.",
+      "bigger": "Central banks balance inflation control with economic stability.",
+      "publishedAt": "2026-06-12T00:31:46+00:00",
       "topicFingerprint": [
         "iran",
-        "donald_trump",
         "us_entity",
         "war",
-        "strikes",
+        "donald_trump",
+        "spacex",
         "oil"
       ],
       "alternates": []
     },
     {
-      "title": "ECB raises interest rates for first time since 2023 to tackle inflation surge",
-      "description": "The European Central Bank raised its main deposit rate to 2.25% to tackle inflation driven by the war in Iran, while cutting its growth outlook.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/409854fe-4d96-4189-9f0e-ee1ef503563a.html",
-      "category": "Economy",
+      "title": "EU agrees launch of accession process for Ukraine and Moldova",
+      "description": "Progress for Kyiv s membership bid given the green light after Hungary s new government lifts Budapest s veto.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 30,
-      "why": "Loans and mortgages will become more expensive for European borrowers.",
-      "context": "The European Central Bank increased interest rates to combat rising inflation.",
-      "next": "Other global central banks may adjust their monetary policies accordingly.",
-      "bigger": "Global economic growth is slowing amid persistent inflationary pressures.",
-      "publishedAt": "2026-06-11T13:24:10+00:00",
+      "score": 7,
+      "why": "Ukraine and Moldova gain a clearer path toward European integration.",
+      "context": "The EU has agreed to start membership talks for Ukraine and Moldova.",
+      "next": "Formal negotiations for EU membership will begin.",
+      "bigger": "The EU expands its influence amidst geopolitical shifts.",
+      "publishedAt": "2026-06-12T20:58:19+00:00",
       "topicFingerprint": [
-        "iran",
-        "donald_trump",
-        "us_entity",
-        "war",
-        "strikes",
-        "oil"
+        "eu_entity",
+        "ukraine",
+        "membership",
+        "agrees",
+        "launch"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "AI boom drives memory chip prices to \u2018insane\u2019 levels in US, adding to inflation pressures",
+      "description": "Software and computer accessories are up a record 14.5% in May from a year earlier",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-boom-drives-memory-chip-prices-insane-levels-us-adding-inflation-pressures",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 22,
+      "why": "Prices for electronics and software may continue to increase.",
+      "context": "High demand from the AI boom is causing memory chip prices to surge in the US.",
+      "next": "Tech companies may face higher production costs.",
+      "bigger": "AI demand reshapes global technology supply chains.",
+      "publishedAt": "2026-06-12T04:25:14+00:00",
+      "topicFingerprint": [
+        "inflation",
+        "prices",
+        "ai_group",
+        "memory",
+        "insane"
       ],
       "alternates": [
         {
-          "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
-          "description": "The European Central Bank also raised its inflation forecasts and cut its growth outlook.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-11T13:57:33+00:00",
-          "score": 25,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "donald_trump",
-            "us_entity",
-            "war",
-            "strikes",
-            "oil"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "ECB raises interest rates for first time in 3 years as inflation hurts euro zone economies",
-          "description": "The European Central Bank raised interest rates for the first time since 2023, citing inflationary pressures from the ongoing Iran war and higher energy costs. The ECB also lifted its inflation forecasts while lowering growth projections for the euro zone amid concerns over the conflict\u2019s impact on ",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/economy/ecb-raises-interest-rates-for-first-time-in-3-years-as-inflation-hurts-euro-zone-economies-ws-el-19923916.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-11T18:28:47+05:30",
+          "title": "AI has become latest US inflation problem with memory chips at \u2018insane\u2019 prices",
+          "description": "Prices of software and computer accessories were up a record 14.5 per cent in May from a year earlier.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/economy/ai-has-become-latest-us-inflation-problem-with-memory-chips-at-insane-prices",
+          "category": "Financial",
+          "publishedAt": "2026-06-12T11:39:00+08:00",
           "score": 20,
           "readingTime": 2,
           "topicFingerprint": [
-            "iran",
-            "donald_trump",
-            "us_entity",
-            "war",
-            "strikes",
-            "oil"
+            "inflation",
+            "prices",
+            "ai_group",
+            "memory",
+            "insane"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Rare \u2018Super\u2019 El Ni\u00f1o Is Officially Here: What to Expect",
-      "description": "NOAA announces the arrival of a rare 'super' El Ni\u00f1o, which could be the strongest of the century and trigger extreme weather and record global temperatures.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/d74317b3-6f38-4591-aab2-351bc5695f09.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Extreme weather may disrupt your local food supplies and power grids.",
-      "context": "Meteorologists confirmed the arrival of an exceptionally strong El Ni\u00f1o climate pattern.",
-      "next": "Governments will likely implement emergency drought and flood preparation plans.",
-      "bigger": "Climate change is intensifying the severity of seasonal weather patterns.",
-      "publishedAt": "2026-06-11T20:12:02+00:00",
-      "topicFingerprint": [
-        "super",
-        "nio",
-        "rare",
-        "expect",
-        "officially"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "AI wave sparks alarm in China with call to protect worker rights",
-      "description": "Beijing has reportedly started to warn employers, particularly tech companies, not to cut jobs as they adopt AI.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/economy/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Job security for tech workers in China faces growing pressure.",
-      "context": "Chinese authorities urged technology firms to limit layoffs during AI adoption.",
-      "next": "Regulators may introduce stricter rules governing workplace AI deployment.",
-      "bigger": "Governments worldwide are struggling to manage AI-driven labor displacement.",
-      "publishedAt": "2026-06-11T15:41:00+08:00",
-      "topicFingerprint": [
-        "alarm",
-        "rights",
-        "call",
-        "worker",
-        "ai_group"
-      ],
-      "alternates": [
-        {
-          "title": "AI sparks alarm in China with call to protect worker rights",
-          "description": "Evidence is already mounting that AI is causing heavy job losses in countries like the US",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/international/global/ai-sparks-alarm-china-call-protect-worker-rights",
-          "category": "Policy",
-          "publishedAt": "2026-06-11T11:43:59+00:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "alarm",
-            "rights",
-            "call",
-            "worker",
-            "ai_group"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Congo\u2019s Ebola outbreak spreads to new health zones",
-      "description": "There are over 500 health zones in the country.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Local families face a higher risk of contracting the deadly virus.",
-      "context": "An Ebola outbreak has reached additional regions within the country.",
-      "next": "Health organizations will deploy additional emergency medical aid to the region.",
-      "bigger": "Weak healthcare infrastructure continues to hinder regional disease containment.",
-      "publishedAt": "2026-06-12T06:38:22+08:00",
-      "topicFingerprint": [
-        "zones",
-        "spreads",
-        "outbreak",
-        "ebola",
-        "congo"
-      ],
-      "alternates": []
     },
     {
       "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
@@ -202,18 +118,18 @@
       "url": "https://www.npr.org/2026/06/12/nx-s1-5856122/ousted-south-korean-president-yoon-prison-drone-flights-pyongyang",
       "category": "Economy",
       "readingTime": 2,
-      "score": 11,
-      "why": "Regional security tensions could ease following this judicial accountability.",
-      "context": "South Korea's former president was sentenced to prison over unauthorized drone missions.",
-      "next": "Legal teams will likely appeal the severe court ruling.",
-      "bigger": "Political accountability for military actions is tightening in East Asia.",
+      "score": 10,
+      "why": "Political leaders face severe consequences for alleged illegal activities.",
+      "context": "Ousted South Korean President Yoon Suk Yeol was sentenced to 30 years in prison.",
+      "next": "South Korea's political landscape will likely remain turbulent.",
+      "bigger": "Accountability for former leaders impacts national governance.",
       "publishedAt": "2026-06-12T01:21:43-04:00",
       "topicFingerprint": [
+        "sentenced",
         "years",
-        "yoon",
-        "north",
-        "korea",
-        "sk_entity"
+        "prison",
+        "pyongyang",
+        "korea"
       ],
       "alternates": [
         {
@@ -223,56 +139,190 @@
           "url": "https://abcnews.com/International/wireStory/ousted-south-korean-president-yoon-prison-term-drone-133806058",
           "category": "Geopolitics",
           "publishedAt": "2026-06-11T23:24:02-04:00",
-          "score": 7,
+          "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
+            "sentenced",
             "years",
-            "yoon",
-            "north",
-            "korea",
-            "sk_entity"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "South Korean court sentences ex-president Yoon to 30 years over Pyongyang drone plot",
-          "description": "A South Korean court sentenced ex-president Yoon Suk-yeol to 30 years in prison on Friday for sending military drones into North Korea, saying he planned the action as pretext for his disastrous martial law declaration in 2024. The drone flights two months before Yoon suspended civilian rule, had sp",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3356833/south-korean-court-sentences-ex-president-yoon-30-years-over-pyongyang-drone-plot",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-12T02:31:46+00:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "years",
-            "yoon",
-            "north",
-            "korea",
-            "sk_entity"
+            "prison",
+            "pyongyang",
+            "korea"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "description": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "category": "Technology",
+      "title": "Ebola outbreak spreads to crowded displacement camp in Congo",
+      "description": "The Kpangba camp hosts 30,000 internally displaced people.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo",
+      "category": "Health",
       "readingTime": 2,
-      "score": 10,
-      "why": "Your personal data held by these companies may be compromised.",
-      "context": "Oracle revealed a major software vulnerability used in corporate cyberattacks.",
-      "next": "Corporate IT departments will rush to install the security patch.",
-      "bigger": "Software supply chain vulnerabilities remain a critical target for hackers.",
-      "publishedAt": "2026-06-11T20:27:25+00:00",
+      "score": 5,
+      "why": "The disease now poses a severe health risk to vulnerable populations.",
+      "context": "An Ebola outbreak has reached a crowded displacement camp in Congo.",
+      "next": "Public health agencies will intensify containment efforts.",
+      "bigger": "Disease outbreaks threaten global health security.",
+      "publishedAt": "2026-06-12T19:53:40+08:00",
       "topicFingerprint": [
-        "hackers",
-        "security",
-        "breach",
-        "warns",
-        "bug"
+        "spreads",
+        "crowded",
+        "ebola",
+        "camp",
+        "outbreak"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China opens its first photonic computing lab as it bets on light to outrun US chip curbs",
+      "description": "China has launched its first dedicated photonic computing laboratory in Shanghai, signalling that Beijing sees light-based chips as a strategic route around Washington\u2019s tightening grip on conventional semiconductor exports. The Shanghai Key Laboratory of Integrated Photonic Computing Chips and Syst",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/china-photonics-lab-ai-chips-us-curbs",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 13,
+      "why": "China seeks alternative tech to reduce reliance on foreign chips.",
+      "context": "China opened its first photonic computing lab to bypass US chip restrictions.",
+      "next": "China will accelerate research into light-based computing.",
+      "bigger": "Nations compete to develop advanced computing technologies.",
+      "publishedAt": "2026-06-12T19:28:58+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "data",
+        "centers",
+        "power",
+        "chip"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+      "description": "U.K. GDP fell 0.1% in April as services activity declined and companies cited pressure from the Middle East conflict.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 17,
+      "why": "UK businesses and consumers may face economic slowdown.",
+      "context": "The UK economy contracted in April, partly due to the Iran conflict.",
+      "next": "The UK government may implement new economic policies.",
+      "bigger": "Geopolitical events significantly affect national economies.",
+      "publishedAt": "2026-06-12T07:01:15+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "war",
+        "donald_trump",
+        "spacex",
+        "oil"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake",
+      "description": "Canadian Prime Minister Mark Carney's speech at the World Economic Forum in Davos, Switzerland, became a symbol of middle-power resistance in January, when he declared the global rules-based order over and condemned coercion by great powers on smaller countries.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/ahead-of-g7-canadas-carney-softens-tone-toward-trump-with-trade-talks-at-stake",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Canada aims to secure favorable trade terms with the US.",
+      "context": "Canada's Carney softened his stance on Trump before G7 trade talks.",
+      "next": "Trade negotiations between Canada and the US may intensify.",
+      "bigger": "Geopolitical shifts influence international trade diplomacy.",
+      "publishedAt": "2026-06-12T17:12:53-04:00",
+      "topicFingerprint": [
+        "softens",
+        "trade",
+        "prime",
+        "ahead",
+        "toward"
+      ],
+      "alternates": [
+        {
+          "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
+          "description": "Canadian Prime Minister Mark Carney became a symbol of middle power resistance after a celebrated speech earlier this year",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-12T04:33:30-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "softens",
+            "trade",
+            "prime",
+            "ahead",
+            "toward"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "PBOC asks big banks to curb interbank lending to ease cash glut: sources",
+      "description": "The move is aimed at correcting market expectations around access to liquidity",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/pboc-asks-big-banks-curb-interbank-lending-ease-cash-glut-sources",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 8,
+      "why": "China's banking system aims to control market liquidity levels.",
+      "context": "China's central bank asked major banks to limit interbank lending.",
+      "next": "Chinese banks will likely adjust their lending practices.",
+      "bigger": "Central banks manage liquidity to stabilize financial markets.",
+      "publishedAt": "2026-06-12T05:48:38+00:00",
+      "topicFingerprint": [
+        "lending",
+        "curb",
+        "sources",
+        "glut",
+        "asks"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "description": "The IPO market is back, and it s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS \u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same windo",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 19,
+      "why": "New tech companies are poised to enter public stock markets.",
+      "context": "Major tech companies like SpaceX and OpenAI are preparing for IPOs.",
+      "next": "Investors may soon gain access to new high-growth tech stocks.",
+      "bigger": "The IPO market is seeing renewed interest in innovative tech.",
+      "publishedAt": "2026-06-12T16:23:25+00:00",
+      "topicFingerprint": [
+        "hot",
+        "summer",
+        "ipo",
+        "spacex",
+        "anthropic"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Pakistan Budget tests growth push against IMF constraints",
+      "description": "In his speech to lawmakers in parliament, Finance Minister Muhammad Aurangzeb outlined a budget willing to boost taxes but also provide some tax relief and industrial incentives.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/pakistan-budget-tests-growth-push-against-imf-constraints-19924832.htm",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Pakistani citizens and industries may face new tax policies.",
+      "context": "Pakistan's new budget aims for growth while facing IMF restrictions.",
+      "next": "Pakistan's parliament will debate and approve the budget.",
+      "bigger": "Developing nations balance growth with international debt obligations.",
+      "publishedAt": "2026-06-12T22:27:40+05:30",
+      "topicFingerprint": [
+        "push",
+        "pakistan",
+        "tests",
+        "constraints",
+        "budget"
       ],
       "alternates": []
     },
@@ -283,260 +333,260 @@
       "url": "https://www.straitstimes.com/business/chips-still-king-of-spore-exports-amid-non-tech-upswing-in-asia",
       "category": "Technology",
       "readingTime": 2,
-      "score": 12,
-      "why": "Global tech manufacturing remains heavily dependent on Asian chip supply.",
-      "context": "Semiconductor exports continue to drive Singapore's trade growth.",
-      "next": "Tech manufacturers will secure more long-term supply agreements.",
-      "bigger": "Advanced hardware remains the core driver of modern global trade.",
+      "score": 11,
+      "why": "Singapore's economy continues its strong reliance on chip manufacturing.",
+      "context": "Semiconductor chips remain Singapore's top export, even with other Asian growth.",
+      "next": "Singapore will likely maintain its focus on high-tech manufacturing.",
+      "bigger": "Global demand for semiconductors continues to drive economies.",
       "publishedAt": "2026-06-12T08:30:00+08:00",
       "topicFingerprint": [
-        "king",
+        "tech",
+        "chips",
         "non",
-        "upswing",
         "pore",
-        "chips"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India willing to let fiscal deficit widen to 4.8% of GDP, Bloomberg News reports",
-      "description": "",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/economy-news/india-willing-to-let-fiscal-deficit-widen-to-48-of-gdp-bloomberg-news-reports-4738904",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Indian taxpayers may face higher public debt burden over time.",
-      "context": "India is reportedly planning to allow a larger government budget deficit.",
-      "next": "The government will likely increase spending on domestic infrastructure projects.",
-      "bigger": "Developing nations are prioritizing economic growth over strict fiscal discipline.",
-      "publishedAt": "2026-06-12T04:30:47+00:00",
-      "topicFingerprint": [
-        "fiscal",
-        "widen",
-        "let",
-        "india",
-        "gdp"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The workers Meta and Google desperately need aren't in Silicon Valley",
-      "description": "As AI drives a data center boom, tech giants are backing trade programs to help fill a growing construction labor shortage.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/google-meta-invest-trades-training-ai-data-center-boom-2026-6",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 20,
-      "why": "New data centers may face construction delays and higher costs.",
-      "context": "Tech giants are facing a severe shortage of skilled construction labor.",
-      "next": "Tech companies will increase funding for vocational training programs.",
-      "bigger": "The rapid AI expansion is straining physical infrastructure and labor markets.",
-      "publishedAt": "2026-06-11T18:46:35+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "data",
-        "media",
-        "social",
-        "center"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Slovenia lifts ban on arms trade with Israel",
-      "description": "June 11 - Slovenia's government has revoked a 2025 decision banning the export and transit of weapons and military equipment to Israel, as well as most arms imports from the country, the Defence Ministry said on Thursday.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/slovenia-lifts-ban-on-arms-trade-with-israel",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Israeli defense forces will gain access to Slovenian military equipment.",
-      "context": "Slovenia reversed its decision to block military trade with Israel.",
-      "next": "Defense contractors in both nations will resume shipping military cargo.",
-      "bigger": "European defense policies are shifting amid global security alignments.",
-      "publishedAt": "2026-06-12T00:38:10+08:00",
-      "topicFingerprint": [
-        "trade",
-        "arms",
-        "ban",
-        "lifts",
-        "israel"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "South Korea fines Coupang record $409 million over massive data breach",
-      "description": "South Korea fined Coupang a record $409 million for a data breach affecting up to 37.5 million users, the largest privacy penalty in the nation's history.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/1f30c01a-f683-4ff5-94b8-225e75c97f1a.html",
-      "category": "Cybersecurity",
-      "readingTime": 2,
-      "score": 6,
-      "why": "South Korean shoppers face heightened risk of identity theft.",
-      "context": "South Korea penalized an e-commerce giant for a massive data leak.",
-      "next": "Coupang will likely implement stronger digital security measures.",
-      "bigger": "Regulators are imposing harsher penalties to protect consumer data privacy.",
-      "publishedAt": "2026-06-11T07:12:02+00:00",
-      "topicFingerprint": [
-        "record",
-        "sk_entity",
-        "breach",
-        "data",
-        "million"
+        "king"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "Rate hikes unlikely despite hot inflation and strong jobs in US: Amundi",
-      "description": "Former Fed chair Janet Yellen also does not expect rate increases soon, due to uncertainty over oil prices",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/singapore/economy-policy/rate-hikes-unlikely-despite-hot-inflation-and-strong-jobs-us-amundi",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 21,
-      "why": "Your borrowing costs may remain stable for the near term.",
-      "context": "Analysts predict the Federal Reserve will pause interest rate increases.",
-      "next": "Investors will adjust their portfolios to prepare for steady rates.",
-      "bigger": "Central banks are prioritizing economic stability over aggressive inflation targets.",
-      "publishedAt": "2026-06-12T00:31:46+00:00",
-      "topicFingerprint": [
-        "strong",
-        "amundi",
-        "rate",
-        "unlikely",
-        "jobs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Deutsche Bank names Robert Huray South-east Asia investment banking head",
-      "description": "The changes come at a time as Hong Kong and China now drive most dealmaking and revenue for global banks operating in Asia",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/deutsche-bank-names-robert-huray-south-east-asia-investment-banking-head",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Regional corporate clients may see changes in investment banking services.",
-      "context": "Deutsche Bank appointed a new leader for its Southeast Asian operations.",
-      "next": "The new executive will restructure the bank's regional advisory teams.",
-      "bigger": "Global financial institutions are reshuffling leadership to capture Asian growth.",
-      "publishedAt": "2026-06-12T01:33:49+00:00",
-      "topicFingerprint": [
-        "hong",
-        "kong",
-        "banks",
-        "banking",
-        "asia"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "When you borrow money from your best friend",
-      "description": "Many are increasingly turning to friends for financial support, especially as interest rates on personal loans remain high.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/invest/when-you-borrow-money-from-your-best-friend",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Personal relationships may suffer strain due to unpaid financial debts.",
-      "context": "High bank interest rates are driving people to borrow from friends.",
-      "next": "More people will use formal written agreements for informal loans.",
-      "bigger": "Tight credit conditions are pushing consumers toward alternative lending methods.",
-      "publishedAt": "2026-06-12T05:00:00+08:00",
-      "topicFingerprint": [
-        "borrow",
-        "money",
-        "friend"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Nvidia hires veteran lobbyist Bruce Andrews to head government affairs",
-      "description": "The veteran lobbyist was previously chipmaking rival Intel\u2019s government affairs chief.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/nvidia-hires-veteran-lobbyist-bruce-andrews-to-head-government-affairs",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "The company aims to protect its global chip distribution networks.",
-      "context": "Nvidia appointed a seasoned lobbyist to lead its government relations.",
-      "next": "Nvidia will increase lobbying efforts against chip export restrictions.",
-      "bigger": "Tech giants are expanding political influence to navigate trade conflicts.",
-      "publishedAt": "2026-06-12T08:37:00+08:00",
-      "topicFingerprint": [
-        "lobbyist",
-        "veteran",
-        "hires",
-        "andrews",
-        "affairs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-      "description": "Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.",
+      "title": "How the Gulf will manage collective security after the Iran war ends",
+      "description": "An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment",
-      "category": "Health",
+      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 9,
-      "why": "Severely ill Gazans may finally gain access to lifesaving healthcare.",
-      "context": "American politicians urged Israel to permit medical evacuations from Gaza.",
-      "next": "International aid groups will coordinate transport logistics for patients.",
-      "bigger": "Humanitarian concerns are driving diplomatic pressure in active war zones.",
-      "publishedAt": "2026-06-11T21:49:27+00:00",
+      "score": 15,
+      "why": "Regional security dynamics in the Gulf may soon change.",
+      "context": "Gulf nations are considering new security arrangements post-Iran war.",
+      "next": "Gulf states may engage in new defense collaborations.",
+      "bigger": "Post-conflict periods reshape regional power balances.",
+      "publishedAt": "2026-06-12T18:48:41+00:00",
       "topicFingerprint": [
-        "treatment",
-        "lawmakers",
-        "patients",
-        "let",
-        "israel"
+        "iran",
+        "us_entity",
+        "war",
+        "donald_trump",
+        "spacex",
+        "oil"
       ],
       "alternates": []
     },
     {
-      "title": "Amnesty accuses Israel's government of 'ethnic cleansing' of West Bank Palestinians",
-      "description": "The London-based rights group says the Israeli government is deliberately trying to annex the Palestinian territory.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank",
-      "category": "Policy",
+      "title": "Facing US chip curbs, China launches photonics lab to power AI with light",
+      "description": "China has established a top-level laboratory in Shanghai dedicated to photonic computing as the country strives to bypass the power constraints and US technology curbs hobbling its ambitions in artificial intelligence development. The Shanghai Key Laboratory of Integrated Photonic Computing Chips an",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-war/article/3356901/facing-us-chip-curbs-china-launches-photonics-lab-power-ai-light",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 7,
-      "why": "International diplomatic pressure on the Israeli government may increase significantly.",
-      "context": "A prominent rights group accused Israel of forced Palestinian displacement.",
-      "next": "Israel will likely reject the allegations as politically motivated.",
-      "bigger": "Human rights monitoring is intensifying focus on territorial conflicts.",
-      "publishedAt": "2026-06-11T02:13:40-04:00",
+      "score": 13,
+      "why": "China aims to develop domestic AI computing solutions.",
+      "context": "China launched a high-level photonics lab to bypass US chip limits for AI.",
+      "next": "China will accelerate development of its own AI computing solutions.",
+      "bigger": "Nations seek technological self-sufficiency amid global competition.",
+      "publishedAt": "2026-06-12T11:30:05+00:00",
       "topicFingerprint": [
-        "west",
-        "accuses",
-        "cleansing",
-        "amnesty",
-        "ethnic"
+        "ai_group",
+        "data",
+        "centers",
+        "power",
+        "chip"
       ],
       "alternates": []
     },
     {
-      "title": "World Cup players challenged by dangerously hot weather",
-      "description": "The World Cup kicked off on Thursday as South Africa squared off against Mexico, one of this year's host countries. Several American cities hosting these opening matches will be sweltering this weekend, making stadiums feel more like a sauna than a playing field. Climate Central's Ben Tracy shows us",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/world-cup-players-challenged-by-dangerously-hot-weather",
+      "title": "Inside David Solomon's letter to Goldman interns: SpaceX, more M&A, and how to thrive in an 'innovation supercycle'",
+      "description": "Goldman Sachs CEO David Solomon advised interns to \"manage your energy\" as they enter the firm during an \"innovation supercycle.\"",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/david-solomon-goldman-sachs-summer-intern-letter-spacex-2026-6",
       "category": "Environment",
       "readingTime": 2,
-      "score": 7,
-      "why": "Match schedules and fan travel may face sudden delays.",
-      "context": "Extreme heat conditions are threatening players at the World Cup.",
-      "next": "Organizers will likely introduce mandatory cooling breaks during games.",
-      "bigger": "Rising global temperatures are forcing major changes in outdoor sports.",
-      "publishedAt": "2026-06-11T18:20:45-04:00",
+      "score": 9,
+      "why": "New professionals are entering a period of rapid technological change.",
+      "context": "Goldman Sachs CEO advised interns on thriving in an \"innovation supercycle.\"",
+      "next": "Financial firms will likely focus on tech-driven growth strategies.",
+      "bigger": "Innovation cycles reshape industries and career paths.",
+      "publishedAt": "2026-06-12T16:38:25+00:00",
       "topicFingerprint": [
-        "players",
-        "dangerously",
-        "weather",
-        "cup",
-        "challenged"
+        "thrive",
+        "solomon",
+        "supercycle",
+        "goldman",
+        "interns"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Judge rules White House UFC event can proceed",
+      "description": "A federal judge ruled that a UFC event can proceed at the White House this weekend, rejecting a lawsuit alleging that the event breaks American law.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/d45409fb-9bac-4a95-a7aa-7fad0683928c.html",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "A contentious public event will proceed despite legal challenges.",
+      "context": "A federal judge approved a UFC event at the White House.",
+      "next": "The planned UFC event will take place at the White House.",
+      "bigger": "Legal challenges often shape the execution of public events.",
+      "publishedAt": "2026-06-12T18:12:48+00:00",
+      "topicFingerprint": [
+        "rules",
+        "proceed",
+        "ufc",
+        "house",
+        "white"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The Supreme Court invented a special legal rule solely to screw Planned Parenthood",
+      "description": "About a year ago, the Supreme Court handed down a baffling decision in Medina v. Planned Parenthood (2025). In Medina, South Carolina committed an obvious violation of federal Medicaid law, but the Court\u2019s Republican majority seemed to bend over backward to prevent the patients affected by this lega",
+      "source": "VOX",
+      "url": "https://www.vox.com/politics/491777/supreme-court-medina-planned-parenthodd-fs-credit-abortion",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Access to certain healthcare services may become restricted.",
+      "context": "The Supreme Court created a special legal rule affecting Planned Parenthood's standing.",
+      "next": "Planned Parenthood may face increased legal hurdles.",
+      "bigger": "Judicial rulings significantly impact healthcare access and rights.",
+      "publishedAt": "2026-06-12T17:00:00+00:00",
+      "topicFingerprint": [
+        "planned",
+        "special",
+        "supreme",
+        "parenthood",
+        "solely"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
+      "description": "Reuters reports UAE agreed to unlock billions for Iran, but Abu Dhabi swiftly issued a categorical denial.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Financial sanctions on Iran remain unchanged despite conflicting reports.",
+      "context": "Reports claimed UAE would unfreeze Iranian funds, but Abu Dhabi denied it.",
+      "next": "Diplomatic efforts regarding Iran's assets will continue.",
+      "bigger": "Geopolitical tensions influence international financial flows.",
+      "publishedAt": "2026-06-12T20:58:41+00:00",
+      "topicFingerprint": [
+        "billions",
+        "uae_entity",
+        "sources",
+        "agreed",
+        "unlock"
+      ],
+      "alternates": [
+        {
+          "title": "UAE to unlock billions of dollars for Iran, sources say",
+          "description": "DUBAI/LONDON, June 12 - The United Arab Emirates has agreed to unlock billions of dollars for Iran, four sources said, in a tactical shift after weeks of Iranian attacks on the wealthy Gulf Arab state during the U.S.-Israeli war with the Islamic Republic.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/uae-to-unlock-billions-of-dollars-for-iran-sources-say",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-13T02:13:25+08:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "billions",
+            "uae_entity",
+            "sources",
+            "agreed",
+            "unlock"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Facebook and Instagram down? Meta apps hit by query errors; users report global outage",
+      "description": "Facebook faced a global outage affecting users' ability to log in. Some users also reported problems on Instagram and WhatsApp services.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/facebook-and-instagram-down-meta-apps-hit-by-query-errors-users-report-global-outage-101781273910446.html",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "You may be unable to access Meta's social media platforms.",
+      "context": "Facebook, Instagram, and WhatsApp experienced a global outage.",
+      "next": "Meta will work to restore all services and prevent future outages.",
+      "bigger": "Global reliance on digital platforms brings connectivity risks.",
+      "publishedAt": "2026-06-12T19:52:57+05:30",
+      "topicFingerprint": [
+        "instagram",
+        "users",
+        "outage",
+        "meta",
+        "facebook"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The Pixel punches way above its weight in the smartphone space [Video]",
+      "description": "Despite a single-digit market share in practically every global region, Google still has a fairly strong foothold in the smartphone space with the Pixel, but why?",
+      "source": "9To5Google",
+      "url": "https://9to5google.com/2026/06/12/the-pixel-punches-way-above-its-weight-in-the-smartphone-space-video/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Unique features and user experience differentiate some products.",
+      "context": "Google's Pixel phone holds a strong market position despite low share.",
+      "next": "Google will likely continue to innovate its Pixel smartphone line.",
+      "bigger": "Niche products can succeed against dominant market leaders.",
+      "publishedAt": "2026-06-12T16:30:00+00:00",
+      "topicFingerprint": [
+        "way",
+        "pixel",
+        "video",
+        "above",
+        "weight"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+      "description": "Outbreak responses are still playing catch-up as US works to isolate itself.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Public health responses struggle to contain outbreaks amidst global tensions.",
+      "context": "Ebola cases increased in DRC amidst protests in Kenya over US plans.",
+      "next": "International health organizations will face more challenges.",
+      "bigger": "Global health crises intersect with geopolitical dynamics.",
+      "publishedAt": "2026-06-12T11:30:23+00:00",
+      "topicFingerprint": [
+        "ebola",
+        "rise",
+        "kenya",
+        "cases",
+        "erupt"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The &#8220;clean energy&#8221; mine that could put one of America&#8217;s most pristine wilderness areas at risk",
+      "description": "There\u2019s no such thing as a truly pristine landscape \u2014 humans have, over millennia, shaped every environment on Earth \u2014 but the Boundary Waters wilderness of northeastern Minnesota comes pretty darn close. Stretching across more than a million acres near the Canadian border, about four hours north of",
+      "source": "VOX",
+      "url": "https://www.vox.com/climate/491617/boundary-waters-copper-mine-twin-metals-clean-energy",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Environmental protections face new challenges from energy development.",
+      "context": "A \"clean energy\" mine risks a pristine wilderness area in Minnesota.",
+      "next": "Debates over environmental protection versus energy needs will intensify.",
+      "bigger": "Green energy projects often have local environmental costs.",
+      "publishedAt": "2026-06-12T11:15:00+00:00",
+      "topicFingerprint": [
+        "areas",
+        "put",
+        "pristine",
+        "clean",
+        "wilderness"
       ],
       "alternates": []
     },
@@ -547,62 +597,18 @@
       "url": "https://www.cnbc.com/2026/06/12/bts-busan-concert-taylor-swift-swiftnomics-south-korea-gdp.html",
       "category": "Progress",
       "readingTime": 2,
-      "score": 7,
-      "why": "South Korean businesses will benefit from increased foreign tourist spending.",
-      "context": "Intense global popularity of K-pop group BTS is boosting tourism.",
-      "next": "The government will launch new tourism campaigns featuring the band.",
-      "bigger": "Pop culture exports have become vital drivers of national economies.",
+      "score": 6,
+      "why": "Cultural phenomena can significantly fuel a nation's economic growth.",
+      "context": "BTS-related fan spending and tourism are expected to boost South Korea's economy.",
+      "next": "South Korea will likely see continued economic benefits from K-pop.",
+      "bigger": "Pop culture exports drive tourism and national brand value.",
       "publishedAt": "2026-06-12T02:39:11+00:00",
       "topicFingerprint": [
-        "mania",
         "sk_entity",
-        "poised",
+        "future",
+        "mania",
         "bts",
-        "future"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "From neon mosquitoes to winged migrations, top images captured by scientists",
-      "description": "Five winning images from a photo contest show scientists at work and capture the wonder of research and discovery.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853165/scientists-at-work-nature-photography",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Public interest in scientific discoveries may grow through visual media.",
-      "context": "A science photography contest revealed outstanding images of natural research.",
-      "next": "Museums will display these award-winning photographs to the public.",
-      "bigger": "Visual communication is becoming crucial for funding and science education.",
-      "publishedAt": "2026-06-11T05:00:00-04:00",
-      "topicFingerprint": [
-        "mosquitoes",
-        "images",
-        "top",
-        "migrations",
-        "neon"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Microsoft\u2019s Xbox plans major\u00a0layoffs\u00a0in July: Sources",
-      "description": "New CEO says Xbox needs to rethink its portfolio in the weeks and months to come.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/microsofts-xbox-plans-for-major-layoffs-in-july",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Gaming industry professionals will face a more competitive job market.",
-      "context": "Microsoft is planning significant job cuts within its gaming division.",
-      "next": "The company will consolidate its development studios and game projects.",
-      "bigger": "Tech giants are restructuring entertainment divisions to improve profit margins.",
-      "publishedAt": "2026-06-11T07:35:00+08:00",
-      "topicFingerprint": [
-        "majorlayoffsin",
-        "sources",
-        "microsoft",
-        "plans",
-        "xbox"
+        "poised"
       ],
       "alternates": []
     }
@@ -610,117 +616,14 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "Asian investors look for novel ways to join SpaceX\u2019s US IPO excitement",
-        "description": "Investors across Asia have been largely shut out of the world\u2019s largest-ever initial public offering, which has forced them to find creative ways to make bets on SpaceX\u2019s US$75 billion global spectacle. With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along ",
+        "title": "China\u2019s chip design software firms back Huawei\u2019s new scaling law. But can they catch US rivals?",
+        "description": "China\u2019s chip design software industry is rallying behind Huawei Technologies\u2019 ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/article/3356844/asian-investors-look-novel-ways-join-spacexs-us-ipo-excitement",
+        "url": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T04:24:52+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Locked out of IPO, Asia investors find new ways to bet on SpaceX",
-            "description": "SpaceX on June 11 priced the biggest US initial public offering ever at US$135 (S$173.36) a share.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
-            "category": "Financial",
-            "publishedAt": "2026-06-12T08:17:00+08:00",
-            "score": 10,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ipo",
-              "spacex",
-              "musk",
-              "elon",
-              "billion"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "ipo",
-          "spacex",
-          "musk",
-          "elon",
-          "billion"
-        ]
-      },
-      {
-        "title": "False alarm over air quality at US Pentagon\u00a0triggers brief shelter-in-place order",
-        "description": "People were evacuated from several floors of the Pentagon building, according to reports.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/pentagon-on-lockdown-over-reports-of-hazardous-materials-incident",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-11T23:17:57+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: pentagon"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "shelter",
-          "order",
-          "pentagon",
-          "air",
-          "place"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "EVs capture two-thirds of China\u2019s car market in record-breaking week",
-        "description": "Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country\u2019s battery-powered carmakers are benefiting from the global energy crisis. Two out of every three new cars sold on the mainland in the seven days e",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/china-evs/article/3356789/evs-capture-two-thirds-chinas-car-market-record-breaking-week",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T00:00:20+00:00",
+        "publishedAt": "2026-06-12T10:54:32+00:00",
         "reason": "within_48h",
         "score": 13,
         "score_debug": [
@@ -730,7 +633,7 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: energy"
+            "reason": "important keyword match: law"
           },
           {
             "points": 2,
@@ -738,7 +641,15 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: crisis"
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: software"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -749,259 +660,68 @@
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "evs",
-          "capture",
-          "record",
-          "week",
-          "thirds"
+          "design",
+          "law",
+          "catch",
+          "scaling",
+          "firms"
         ]
       },
       {
-        "title": "Asian investors look for novel ways to join SpaceX\u2019s US IPO excitement",
-        "description": "Investors across Asia have been largely shut out of the world\u2019s largest-ever initial public offering, which has forced them to find creative ways to make bets on SpaceX\u2019s US$75 billion global spectacle. With no direct access to the IPO, traders from Seoul to Shanghai are piling into companies along ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/article/3356844/asian-investors-look-novel-ways-join-spacexs-us-ipo-excitement",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "US surveillance law to expire for first time after lawmakers reject Trump\u2019s controversial pick to lead spy agencies",
+        "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T04:24:52+00:00",
+        "publishedAt": "2026-06-12T11:43:32+00:00",
         "reason": "within_48h",
-        "score": 10,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: law"
           },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": 3,
+            "reason": "policy scoring keyword: law"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Locked out of IPO, Asia investors find new ways to bet on SpaceX",
-            "description": "SpaceX on June 11 priced the biggest US initial public offering ever at US$135 (S$173.36) a share.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
-            "category": "Financial",
-            "publishedAt": "2026-06-12T08:17:00+08:00",
-            "score": 10,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ipo",
-              "spacex",
-              "musk",
-              "elon",
-              "billion"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "ipo",
-          "spacex",
-          "musk",
-          "elon",
-          "billion"
+          "controversial",
+          "law",
+          "expire",
+          "section",
+          "donald_trump"
         ]
       }
     ],
-    "europe": [
+    "china": [
       {
-        "title": "Brussels court convicts three over Russia sanctions evasion scheme",
-        "description": "BRUSSELS, June 11 - A Brussels court on Thursday sentenced three men over a scheme to circumvent EU sanctions by exporting restricted goods to Russia through intermediary countries, finding they operated a criminal organisation to sustain trade with the Russian defence sector.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/brussels-court-convicts-three-over-russia-sanctions-evasion-scheme",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T00:53:12+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: sanctions"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "evasion",
-          "russia",
-          "convicts",
-          "brussels",
-          "scheme"
-        ]
-      },
-      {
-        "title": "EU presidency proposes small cut to bloc's 2028-2034 budget to kick off negotiations",
-        "description": "BRUSSELS, June 11 - The European Union's budget for 2028-2034 should be 2% smaller than the 2 trillion euros proposed last year, the Cypriot EU presidency proposed on Thursday, opening months of negotiations on what EU policies should get funding.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/eu-presidency-proposes-small-cut-to-blocs-2028-2034-budget-to-kick-off-negotiations",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "title": "China\u2019s chip design software firms back Huawei\u2019s new scaling law. But can they catch US rivals?",
+        "description": "China\u2019s chip design software industry is rallying behind Huawei Technologies\u2019 ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T00:33:21+08:00",
+        "publishedAt": "2026-06-12T10:54:32+00:00",
         "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: budget"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "proposes",
-          "kick",
-          "cut",
-          "negotiations",
-          "presidency"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "India's economic growth rate to weaken at 6.6% in FY27 on slower investments, consumption: BMI",
-        "description": "Business Monitor International's projection is in line with Reserve Bank of India's 6.6% growth estimates for FY27",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/business/Economy/indias-economic-growth-rate-to-weaken-on-slower-investments-consumption-bmi/article71087948.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-11T13:43:41+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic growth"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: economic growth"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "fy27",
-          "bmi",
-          "consumption",
-          "rate",
-          "investments"
-        ]
-      },
-      {
-        "title": "India: West Bengal deportations raise human rights concerns",
-        "description": "Deporting thousands from India's West Bengal state fulfills a key Modi promise but strains ties with neighboring Bangladesh over verification and repatriation.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/india-west-bengal-deportations-raise-human-rights-concerns/a-77505192",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-11T13:52:00+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: rights"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "west",
-          "concerns",
-          "deportations",
-          "human",
-          "bengal"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Japan moves to regulate crypto like stocks in market growth push",
-        "description": "The country approved the issuance of the first yen-backed stablecoin in 2025",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/international/japan-moves-regulate-crypto-stocks-market-growth-push",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-11T07:20:11+00:00",
-        "reason": "within_48h",
-        "score": 5,
+        "score": 13,
         "score_debug": [
           {
             "points": 2,
@@ -1009,40 +729,107 @@
           },
           {
             "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: software"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "moves",
-          "japan",
-          "regulate",
-          "push",
-          "crypto"
+          "design",
+          "law",
+          "catch",
+          "scaling",
+          "firms"
         ]
-      }
-    ],
-    "mexico": [
+      },
       {
-        "title": "Families of Mexico\u2019s disappeared march in the capital as World Cup kicks off",
-        "description": "Some groups tore down fences and clashed with security forces.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/families-of-mexicos-disappeared-march-in-the-capital-as-world-cup-kicks-off",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
+        "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
+        "description": "While the U.S. channels support to tech winners indirectly via incentives, Chinese governments at every level take direct equity stakes.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T08:18:12+08:00",
+        "publishedAt": "2026-06-12T01:21:00+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: security"
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "unfolding",
+          "tech",
+          "dilemma",
+          "start",
+          "funding"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "Four UK pro-Palestinian activists jailed over raid at Israeli firm Elbit",
+        "description": "LONDON, June 12 - Four British pro-Palestinian activists were sentenced to a total of more than 20 years over a 2024 raid on a factory operated by Israeli defence firm Elbit which caused more than \u00a31 million of damage, with the judge giving longer terms after determining there was a \\\"terrorism conn",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/four-uk-pro-palestinian-activists-jailed-over-raid-at-israeli-firm-elbit",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-13T03:08:15+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
@@ -1053,31 +840,72 @@
             "reason": "less than 6 hours"
           }
         ],
-        "group_id": 0,
-        "alternates": [],
+        "group_id": 1,
+        "alternates": [
+          {
+            "title": "London judge sentences Palestine Action activists for raid at Israeli defense factory",
+            "description": "A London judge has sentenced four Palestine Action activists to several years in prison for what he called an act of terrorism.",
+            "source": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/london-judge-sentences-palestine-action-activists-raid-israeli-133827045",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-12T15:09:56-04:00",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "sentenced",
+              "years",
+              "prison",
+              "pyongyang",
+              "korea"
+            ],
+            "group_id": 1
+          }
+        ],
         "topicFingerprint": [
-          "march",
-          "families",
-          "mexico",
-          "capital",
-          "disappeared"
+          "sentenced",
+          "years",
+          "prison",
+          "pyongyang",
+          "korea"
         ]
-      },
+      }
+    ],
+    "india": [
       {
-        "title": "Mexico beat South Africa 2-0 to kick off 2026 World Cup",
-        "description": "Mexico beat South Africa 2-0 to open the 2026 World Cup at Estadio Azteca, with goals from Julian Quinones and Raul Jimenez and a record three red cards.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/504552ff-5421-4d67-8b87-7cd226e9e90b.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
+        "title": "Iran criticises US attacks on vessels with Indian crew",
+        "description": "Iran's Foreign Ministry spokesperson Esmaeil Baqaei on Friday criticised the US attacks on merchant ships with Indian crew, saying such actions \"threaten global peace and security\".",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/iran-criticises-us-attacks-on-vessels-with-indian-crew-ws-el-19924702.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-11T19:34:13+00:00",
+        "publishedAt": "2026-06-12T18:26:09+05:30",
         "reason": "within_48h",
-        "score": 3,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: ministry"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
           },
           {
             "points": 1,
@@ -1087,103 +915,33 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "kick",
-          "mexico",
-          "sa_entity",
-          "cup",
-          "beat"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Singapore Kitchen Equipment defends move to keep CEO, senior manager in jobs despite criminal charges",
-        "description": "It also names executive director Alan Lee as backup CEO",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-kitchen-equipment-defends-move-keep-ceo-senior-manager-jobs-despite-criminal-charges",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T02:10:49+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ceo"
-          },
-          {
-            "points": -2,
-            "reason": "Singapore-local Business Times article"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "singapore",
-          "senior",
-          "kitchen",
-          "manager",
-          "criminal"
+          "vessels",
+          "criticises",
+          "indian",
+          "crew",
+          "iran"
         ]
       },
       {
-        "title": "Popular South Korean pizza chain Pizza Maru officially halal-certified in Singapore",
-        "description": "Pizza Maru has announced that it is officially halal-certified. To commemorate the occasion, the South Korean pizza chain is offering dine-in customers 50 per cent off all its Ban Ban pizzas from Jun 25 to 27.",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/dining/pizza-maru-singapore-halal-6178406",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
+        "title": "India\u2019s West Bengal pushes out Muslim Bangladeshis",
+        "description": "Thousands of Muslim Bangladeshis have been detained or deported under West Bengal s new BJP government.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/indias-west-bengal-pushes-out-muslim-bangladeshis",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T10:51:00+08:00",
+        "publishedAt": "2026-06-12T18:21:15+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: customers"
+            "reason": "important keyword match: government"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "singapore",
-          "pizza",
-          "chain",
-          "maru",
-          "popular"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea stage late comeback to beat Czechia on World Cup opening day",
-        "description": "Second-half goals by Oh Hyeon-gyu and Hwang In-beom steered South Korea to a win over Czechia in a Group A encounter.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T04:52:50+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
           {
             "points": 2,
             "reason": "Highest Quality Source match: Al Jazeera"
@@ -1193,31 +951,68 @@
             "reason": "less than 6 hours"
           }
         ],
-        "group_id": 1,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "comeback",
-          "sk_entity",
-          "win",
-          "cup",
-          "group"
+          "west",
+          "india",
+          "pushes",
+          "bengal",
+          "muslim"
         ]
-      },
+      }
+    ],
+    "japan": [
       {
-        "title": "Popular South Korean pizza chain Pizza Maru officially halal-certified in Singapore",
-        "description": "Pizza Maru has announced that it is officially halal-certified. To commemorate the occasion, the South Korean pizza chain is offering dine-in customers 50 per cent off all its Ban Ban pizzas from Jun 25 to 27.",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/dining/pizza-maru-singapore-halal-6178406",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
+        "title": "Bank of Japan set to hike rates to 31-year high, drop hawkish signals",
+        "description": "The decision would align the BOJ with other central banks shifting towards tighter policy",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japan-set-hike-rates-31-year-high-drop-hawkish-signals",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T10:51:00+08:00",
+        "publishedAt": "2026-06-12T01:49:07+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: customers"
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: policy"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "japan",
+          "rates",
+          "set",
+          "signals",
+          "drop"
+        ]
+      },
+      {
+        "title": "Pay cut for Japan Airlines boss after crew members hid preflight drinking",
+        "description": "Japan\u2019s transport ministry on Friday reprimanded Japan Airlines and urged it to compile preventive measures by July 17 after an incident in which two cabin attendants drank the day before a flight in May, delaying a scheduled flight for about 40 minutes. The female JAL employees had falsely reported",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3356964/pay-cut-japan-airlines-boss-after-crew-members-hid-preflight-drinking",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T23:30:05+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: ministry"
           },
           {
             "points": 1,
@@ -1227,11 +1022,269 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "japan",
+          "airlines",
+          "cut",
+          "boss",
+          "crew"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "EU countries agree to maintain compensation paid to passengers for flight delays",
+        "description": "BRUSSELS, June 12 - European Union countries agreed on Friday to maintain the current three-hour flight delay threshold for compensation in the EU's next set of airline passenger rights and to ask for more price transparency on fees for carry-on items, a senior EU diplomat told reporters.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/eu-countries-agree-to-maintain-compensation-paid-to-passengers-for-flight-delays",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-13T03:13:22+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "financial important keyword match: price"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "june",
+          "passenger",
+          "fees",
+          "agreed"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
+        "description": "Cyle Larin s equaliser gives Canada first World Cup points after Jovo Lukic put Bosnia in the lead in the first half.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T22:06:22+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "draw",
+          "bosnia",
+          "cup",
+          "cyle",
+          "canada"
+        ]
+      },
+      {
+        "title": "Thomas Partey denied entry to Canada for Ghana's World Cup opener",
+        "description": "Ghana midfielder Thomas Partey will miss the 2026 World Cup opener against Panama in Toronto after the Canadian government refused his visa application.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/88c4bfba-4dff-47fa-8502-26ce93710e57.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T19:20:37+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "thomas",
+          "partey",
+          "opener",
+          "ghana",
+          "cup"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Can Singapore-linked growth deliver votes for Johor\u2019s ruling party?",
+        "description": "The state elections in Johor and Negeri Sembilan, scheduled for July 11 and August 1, have opened two battlegrounds where economic issues take precedence over the political wrangling of Malaysia\u2019s coalition parties. The ballot will also test whether Singapore-linked rail projects, economic zones and",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/politics/article/3356944/can-singapore-linked-growth-deliver-votes-johors-ruling-party",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T11:19:37+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "votes",
           "singapore",
-          "pizza",
-          "chain",
-          "maru",
-          "popular"
+          "deliver",
+          "johor",
+          "growth"
+        ]
+      },
+      {
+        "title": "Singapore Kitchen Equipment defends decision to retain CEO, senior manager despite fraud charges",
+        "description": "Executive director Alan Lee, co-founder and CEO's husband, will take over helm if needed.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/singapore-kitchen-equipment-defends-decision-to-retain-ceo-senior-manager-despite-fraud-charges",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T14:11:13+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Singapore Kitchen Equipment defends move to keep CEO, senior manager in jobs despite criminal charges",
+            "description": "Executive director Alan Lee is the company\u2019s backup chief executive",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/singapore-kitchen-equipment-defends-move-keep-ceo-senior-manager-jobs-despite-criminal-charges",
+            "category": "General",
+            "publishedAt": "2026-06-12T02:10:49+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "alan",
+              "executive",
+              "equipment",
+              "singapore",
+              "lee"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "alan",
+          "executive",
+          "equipment",
+          "singapore",
+          "lee"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Germany pulled the plug on flagship FCAS fighter jet \u2013 the implications for European defence are worrying",
+        "description": "The programme got bogged down by disputes over leadership, workshare and intellectual property.",
+        "source": "The Conversation",
+        "url": "https://theconversation.com/germany-pulled-the-plug-on-flagship-fcas-fighter-jet-the-implications-for-european-defence-are-worrying-285090",
+        "fromUrl": "https://theconversation.com/global/articles.atom",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T10:03:10+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "flagship",
+          "jet",
+          "defence",
+          "pulled"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "French town buries murdered child as questions mount over police failings",
+        "description": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy9rq21dqego",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T16:19:12+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "police",
+          "town",
+          "questions",
+          "failings",
+          "buries"
         ]
       }
     ]
