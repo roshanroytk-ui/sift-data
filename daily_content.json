@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:16:34.522832",
+  "updatedAt": "2026-06-13T05:15:55.952520",
   "insight": {
     "title": "The Manager Who Told His Engineer to Take Off His Hat",
     "subtitle": "How a single sentence silenced the engineers warning of the Challenger disaster.",
@@ -26,27 +26,230 @@
   },
   "news": [
     {
-      "title": "Rate hikes unlikely despite hot inflation and strong jobs in US: Amundi",
-      "description": "Former Fed chair Janet Yellen also does not expect rate increases soon, due to uncertainty over oil prices",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/singapore/economy-policy/rate-hikes-unlikely-despite-hot-inflation-and-strong-jobs-us-amundi",
-      "category": "Financial",
+      "title": "Analyzing a potential U.S., Iran agreement and the economic impact of the war",
+      "description": "The U.S. and Iran appear closer than ever to an agreement that would launch negotiations on a long-term peace deal. CBS News national security contributor Sam Vinograd has analysis, and Linda Bilmes, a senior lecturer at the Harvard Kennedy School, discusses the Iran war's economic impact.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/analyzing-potential-us-iran-agreement-economic-impact-war/",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 20,
-      "why": "Borrowing costs for loans and mortgages may not rise further.",
-      "context": "US officials suggest interest rate hikes are unlikely despite current inflation and job growth.",
-      "next": "The Federal Reserve will likely maintain current interest rates.",
-      "bigger": "Central banks balance inflation control with economic stability.",
-      "publishedAt": "2026-06-12T00:31:46+00:00",
+      "score": 18,
+      "why": "Your energy and fuel costs may begin to stabilize.",
+      "context": "The U.S. and Iran are nearing negotiations for a peace deal.",
+      "next": "Official diplomatic talks could begin in the coming weeks.",
+      "bigger": "Middle East geopolitical tensions may finally start to ease.",
+      "publishedAt": "2026-06-12T23:49:29-04:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
-        "war",
-        "donald_trump",
         "spacex",
-        "oil"
+        "war",
+        "ipo",
+        "peace"
       ],
       "alternates": []
+    },
+    {
+      "title": "Anthropic disables top AI models after US order limiting foreign access",
+      "description": "Anthropic disabled its Fable 5 and Mythos 5 AI models for foreign nationals following a US government export control directive citing security risks.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/6a0a468b-acfb-4435-9141-a1e9d5b13648.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 22,
+      "why": "International developers may lose access to advanced software tools.",
+      "context": "Anthropic blocked foreign access to its advanced AI models.",
+      "next": "Other American AI firms could face similar export restrictions.",
+      "bigger": "The tech cold war is fracturing global software access.",
+      "publishedAt": "2026-06-13T04:10:16+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "anthropic",
+        "models",
+        "mythos",
+        "access"
+      ],
+      "alternates": [
+        {
+          "title": "US blocks foreign access to Anthropic\u2019s newest AI models over security risks",
+          "description": "Washington has ordered Anthropic \u2013 a leading entity in America\u2019s AI sector \u2013 to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure \u2013 the first to t",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-13T05:06:27+00:00",
+          "score": 18,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic to disable access to Mythos and Fable models to comply with the Trump Administration's export control",
+          "description": "Anthropic's latest AI models, Fable 5 and Mythos 5, will be disabled due to US export controls that cited national security risks.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-disable-mythos-fable-us-export-control-national-security-2026-6",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-13T02:21:35+00:00",
+          "score": 17,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic blocks all customers' access to Fable 5 and Mythos 5",
+          "description": "Anthropic has suspended all access to its new AI models Fable 5 and Mythos 5 to comply with a government order citing national security concerns.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2193656/anthropic-blocks-access-fable-5-mythos-5/",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T04:21:39+00:00",
+          "score": 16,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access",
+          "description": "The directive would even bars Anthropic's own foreign employees from using Fable and Mythos. Anthropic called the government position \"a misunderstanding\".",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T04:25:25+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic disables top-tier AI models after US order limiting foreign access",
+          "description": "Anthropic said it received a government directive banning all foreign nationals, even those working at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns.",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/anthropic-united-states-block-advanced-ai-models-foreign-governments-6180561",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T08:02:00+08:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic disables most advanced AI models after US order limiting foreign access",
+          "description": "Anthropic said it is working to restore access to the models.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/us-blocks-foreign-access-to-anthropics-most-advanced-ai-models-axios-reports",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T09:15:00+08:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic disables Fable 5 and Mythos 5 after US government suspends all foreign access to models",
+          "description": "US issues export control directive blocking foreign access to Anthropic PBC AI models Fable 5 and Mythos 5, forcing Anthropic to disable them, company calls it a misunderstanding",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/business/anthropic-disables-fable-5-and-mythos-5-after-us-government-suspends-all-foreign-access-to-models-ws-l-19924907.htm",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T07:40:16+05:30",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
+          "description": "Anthropic confirmed tonight that it has disabled access to Claude Fable 5 and Claude Mythos 5 to all customers, following an export control directive from the US government. Here are the details.",
+          "source": "9To5Mac",
+          "url": "https://9to5mac.com/2026/06/12/anthropic-pulls-claude-mythos-5-and-claude-fable-5-following-us-government-directive/",
+          "category": "Policy",
+          "publishedAt": "2026-06-13T01:30:14+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic cuts access to AI models over U.S. \u2018national security\u2019 order",
+          "description": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
+          "category": "Technology",
+          "publishedAt": "2026-06-13T08:57:06+05:30",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "description": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+          "category": "General",
+          "publishedAt": "2026-06-13T03:00:34+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "anthropic",
+            "models",
+            "mythos",
+            "access"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "EU agrees launch of accession process for Ukraine and Moldova",
@@ -56,99 +259,79 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Ukraine and Moldova gain a clearer path toward European integration.",
-      "context": "The EU has agreed to start membership talks for Ukraine and Moldova.",
-      "next": "Formal negotiations for EU membership will begin.",
-      "bigger": "The EU expands its influence amidst geopolitical shifts.",
+      "why": "European trade corridors and regulatory structures will expand eastward.",
+      "context": "The EU approved starting membership talks with Ukraine and Moldova.",
+      "next": "Both nations must now align their laws with EU standards.",
+      "bigger": "European political integration is accelerating to counter Russian influence.",
       "publishedAt": "2026-06-12T20:58:19+00:00",
       "topicFingerprint": [
-        "eu_entity",
         "ukraine",
+        "eu_entity",
         "membership",
-        "agrees",
+        "moldova",
         "launch"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "AI boom drives memory chip prices to \u2018insane\u2019 levels in US, adding to inflation pressures",
-      "description": "Software and computer accessories are up a record 14.5% in May from a year earlier",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-boom-drives-memory-chip-prices-insane-levels-us-adding-inflation-pressures",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 22,
-      "why": "Prices for electronics and software may continue to increase.",
-      "context": "High demand from the AI boom is causing memory chip prices to surge in the US.",
-      "next": "Tech companies may face higher production costs.",
-      "bigger": "AI demand reshapes global technology supply chains.",
-      "publishedAt": "2026-06-12T04:25:14+00:00",
-      "topicFingerprint": [
-        "inflation",
-        "prices",
-        "ai_group",
-        "memory",
-        "insane"
       ],
       "alternates": [
         {
-          "title": "AI has become latest US inflation problem with memory chips at \u2018insane\u2019 prices",
-          "description": "Prices of software and computer accessories were up a record 14.5 per cent in May from a year earlier.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/economy/ai-has-become-latest-us-inflation-problem-with-memory-chips-at-insane-prices",
-          "category": "Financial",
-          "publishedAt": "2026-06-12T11:39:00+08:00",
-          "score": 20,
+          "title": "EU agrees to launch membership talks for Ukraine and Moldova",
+          "description": "EU ambassadors have agreed to advance membership talks with Ukraine and Moldova, starting Monday, after Hungary lifted its long-standing veto.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/a3651258-a9f1-4595-a4b8-b6d6a70e501e.html",
+          "category": "General",
+          "publishedAt": "2026-06-12T21:12:18+00:00",
+          "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
-            "inflation",
-            "prices",
-            "ai_group",
-            "memory",
-            "insane"
+            "ukraine",
+            "eu_entity",
+            "membership",
+            "moldova",
+            "launch"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
-      "description": "South Korea's ousted President Yoon Suk Yeol and his former defense minister were sentenced to 30 years in prison Friday in a case alleging Yoon ordered drone flights over Pyongyang in 2024 to heighten tensions with North Korea and justify declaring martial law at home.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/12/nx-s1-5856122/ousted-south-korean-president-yoon-prison-drone-flights-pyongyang",
+      "title": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+      "description": "U.K. GDP fell 0.1% in April as services activity declined and companies cited pressure from the Middle East conflict.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html",
       "category": "Economy",
       "readingTime": 2,
-      "score": 10,
-      "why": "Political leaders face severe consequences for alleged illegal activities.",
-      "context": "Ousted South Korean President Yoon Suk Yeol was sentenced to 30 years in prison.",
-      "next": "South Korea's political landscape will likely remain turbulent.",
-      "bigger": "Accountability for former leaders impacts national governance.",
-      "publishedAt": "2026-06-12T01:21:43-04:00",
+      "score": 17,
+      "why": "British consumers may face higher prices and tighter household budgets.",
+      "context": "The British economy contracted slightly due to Middle East tensions.",
+      "next": "The Bank of England might delay cutting interest rates.",
+      "bigger": "Remote geopolitical conflicts are directly stalling western economic growth.",
+      "publishedAt": "2026-06-12T07:01:15+00:00",
       "topicFingerprint": [
-        "sentenced",
-        "years",
-        "prison",
-        "pyongyang",
-        "korea"
+        "iran",
+        "us_entity",
+        "spacex",
+        "war",
+        "ipo",
+        "peace"
       ],
       "alternates": [
         {
-          "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
-          "description": "South Korea s ousted President Yoon Suk Yeol and his former defense minister have been sentenced to 30 years in prison in a case alleging Yoon ordered drone flights over Pyongyang to heighten tensions with North Korea and and justify declaring martial ...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/ousted-south-korean-president-yoon-prison-term-drone-133806058",
+          "title": "UK economy shrank in April as Iran war impacts growth",
+          "description": "UK GDP fell 0.1% in April after strong Q1, services declined as the Iran war drove energy costs and rates higher, pressuring BOE policy and Prime Minister Keir Starmer",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/economy/uk-economy-shrank-in-april-as-iran-war-impacts-growth-ws-l-19924370.htm",
           "category": "Geopolitics",
-          "publishedAt": "2026-06-11T23:24:02-04:00",
-          "score": 6,
+          "publishedAt": "2026-06-12T12:33:02+05:30",
+          "score": 14,
           "readingTime": 2,
           "topicFingerprint": [
-            "sentenced",
-            "years",
-            "prison",
-            "pyongyang",
-            "korea"
+            "iran",
+            "us_entity",
+            "spacex",
+            "war",
+            "ipo",
+            "peace"
           ],
-          "group_id": 0
+          "group_id": 2
         }
       ]
     },
@@ -160,17 +343,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 5,
-      "why": "The disease now poses a severe health risk to vulnerable populations.",
-      "context": "An Ebola outbreak has reached a crowded displacement camp in Congo.",
-      "next": "Public health agencies will intensify containment efforts.",
-      "bigger": "Disease outbreaks threaten global health security.",
+      "why": "Thousands of displaced families face immediate, life-threatening health risks.",
+      "context": "An Ebola outbreak reached a major refugee camp in Congo.",
+      "next": "Humanitarian organizations could struggle to contain the virus's spread.",
+      "bigger": "Crowded refugee camps remain highly vulnerable to severe health crises.",
       "publishedAt": "2026-06-12T19:53:40+08:00",
       "topicFingerprint": [
-        "spreads",
+        "outbreak",
+        "displacement",
         "crowded",
-        "ebola",
-        "camp",
-        "outbreak"
+        "congo",
+        "spreads"
       ],
       "alternates": []
     },
@@ -182,83 +365,19 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 13,
-      "why": "China seeks alternative tech to reduce reliance on foreign chips.",
-      "context": "China opened its first photonic computing lab to bypass US chip restrictions.",
-      "next": "China will accelerate research into light-based computing.",
-      "bigger": "Nations compete to develop advanced computing technologies.",
+      "why": "Global supply chains for computer chips may soon divide further.",
+      "context": "China launched a light-based computing lab to bypass U.S. sanctions.",
+      "next": "Chinese tech companies might achieve hardware independence from Western firms.",
+      "bigger": "Nations are building separate tech infrastructure to survive trade blockades.",
       "publishedAt": "2026-06-12T19:28:58+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "data",
-        "centers",
-        "power",
-        "chip"
+        "light",
+        "outrun",
+        "lab",
+        "curbs",
+        "computing"
       ],
       "alternates": []
-    },
-    {
-      "title": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-      "description": "U.K. GDP fell 0.1% in April as services activity declined and companies cited pressure from the Middle East conflict.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 17,
-      "why": "UK businesses and consumers may face economic slowdown.",
-      "context": "The UK economy contracted in April, partly due to the Iran conflict.",
-      "next": "The UK government may implement new economic policies.",
-      "bigger": "Geopolitical events significantly affect national economies.",
-      "publishedAt": "2026-06-12T07:01:15+00:00",
-      "topicFingerprint": [
-        "iran",
-        "us_entity",
-        "war",
-        "donald_trump",
-        "spacex",
-        "oil"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake",
-      "description": "Canadian Prime Minister Mark Carney's speech at the World Economic Forum in Davos, Switzerland, became a symbol of middle-power resistance in January, when he declared the global rules-based order over and condemned coercion by great powers on smaller countries.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/ahead-of-g7-canadas-carney-softens-tone-toward-trump-with-trade-talks-at-stake",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Canada aims to secure favorable trade terms with the US.",
-      "context": "Canada's Carney softened his stance on Trump before G7 trade talks.",
-      "next": "Trade negotiations between Canada and the US may intensify.",
-      "bigger": "Geopolitical shifts influence international trade diplomacy.",
-      "publishedAt": "2026-06-12T17:12:53-04:00",
-      "topicFingerprint": [
-        "softens",
-        "trade",
-        "prime",
-        "ahead",
-        "toward"
-      ],
-      "alternates": [
-        {
-          "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
-          "description": "Canadian Prime Minister Mark Carney became a symbol of middle power resistance after a celebrated speech earlier this year",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-12T04:33:30-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "softens",
-            "trade",
-            "prime",
-            "ahead",
-            "toward"
-          ],
-          "group_id": 0
-        }
-      ]
     },
     {
       "title": "PBOC asks big banks to curb interbank lending to ease cash glut: sources",
@@ -268,17 +387,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "China's banking system aims to control market liquidity levels.",
-      "context": "China's central bank asked major banks to limit interbank lending.",
-      "next": "Chinese banks will likely adjust their lending practices.",
-      "bigger": "Central banks manage liquidity to stabilize financial markets.",
+      "why": "Chinese businesses may find it harder to secure cheap credit.",
+      "context": "China's central bank ordered lenders to limit interbank loans.",
+      "next": "Domestic interest rates in China could begin to rise.",
+      "bigger": "Central banks are struggling to balance market liquidity and inflation.",
       "publishedAt": "2026-06-12T05:48:38+00:00",
       "topicFingerprint": [
-        "lending",
-        "curb",
+        "pboc",
+        "banks",
+        "interbank",
         "sources",
-        "glut",
-        "asks"
+        "curb"
       ],
       "alternates": []
     },
@@ -289,18 +408,41 @@
       "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
       "category": "Financial",
       "readingTime": 2,
-      "score": 19,
-      "why": "New tech companies are poised to enter public stock markets.",
-      "context": "Major tech companies like SpaceX and OpenAI are preparing for IPOs.",
-      "next": "Investors may soon gain access to new high-growth tech stocks.",
-      "bigger": "The IPO market is seeing renewed interest in innovative tech.",
+      "score": 18,
+      "why": "Retail investors will gain direct access to elite technology stocks.",
+      "context": "Major aerospace and AI firms are preparing to go public.",
+      "next": "Wall Street could see a massive wave of tech IPOs.",
+      "bigger": "Public markets are shifting focus from old tech to AI.",
       "publishedAt": "2026-06-12T16:23:25+00:00",
       "topicFingerprint": [
-        "hot",
-        "summer",
-        "ipo",
+        "iran",
+        "us_entity",
         "spacex",
-        "anthropic"
+        "war",
+        "ipo",
+        "peace"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The next AI safety fight may actually be about DNA",
+      "description": "AI company CEOs Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), and Dario Amodei (Anthropic) disagree on a lot, like how fast the technology should develop, the best way to regulate it, and how to prepare society for smarter-than-human AI, among other things. That makes it all the more remark",
+      "source": "VOX",
+      "url": "https://www.vox.com/future-perfect/491660/artificial-intelligence-openai-anthropic-dna-bioweapons",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Strict new rules may limit access to advanced medical research.",
+      "context": "Tech leaders are debating regulations on AI-generated biological designs.",
+      "next": "Governments could introduce laws targeting bio-design software platforms.",
+      "bigger": "AI integration with biotechnology is creating unprecedented security challenges.",
+      "publishedAt": "2026-06-12T11:00:00+00:00",
+      "topicFingerprint": [
+        "dna",
+        "safety",
+        "fight",
+        "actually",
+        "ai_group"
       ],
       "alternates": []
     },
@@ -311,87 +453,109 @@
       "url": "https://www.cnbctv18.com/world/pakistan-budget-tests-growth-push-against-imf-constraints-19924832.htm",
       "category": "Progress",
       "readingTime": 2,
-      "score": 9,
-      "why": "Pakistani citizens and industries may face new tax policies.",
-      "context": "Pakistan's new budget aims for growth while facing IMF restrictions.",
-      "next": "Pakistan's parliament will debate and approve the budget.",
-      "bigger": "Developing nations balance growth with international debt obligations.",
+      "score": 8,
+      "why": "Pakistani citizens will pay more for everyday goods and services.",
+      "context": "Pakistan introduced a budget balancing tax hikes and business incentives.",
+      "next": "Public protests over rising living costs could erupt across Pakistan.",
+      "bigger": "Developing nations are struggling to meet strict global lending conditions.",
       "publishedAt": "2026-06-12T22:27:40+05:30",
       "topicFingerprint": [
-        "push",
-        "pakistan",
-        "tests",
+        "growth",
+        "imf",
         "constraints",
-        "budget"
+        "budget",
+        "pakistan"
       ],
       "alternates": []
     },
     {
-      "title": "Chips still king of S\u2019pore exports amid non-tech upswing in Asia",
-      "description": "The powerful wafers have become a cornerstone of the modern economy.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/chips-still-king-of-spore-exports-amid-non-tech-upswing-in-asia",
-      "category": "Technology",
+      "title": "The &#8220;clean energy&#8221; mine that could put one of America&#8217;s most pristine wilderness areas at risk",
+      "description": "There\u2019s no such thing as a truly pristine landscape \u2014 humans have, over millennia, shaped every environment on Earth \u2014 but the Boundary Waters wilderness of northeastern Minnesota comes pretty darn close. Stretching across more than a million acres near the Canadian border, about four hours north of",
+      "source": "VOX",
+      "url": "https://www.vox.com/climate/491617/boundary-waters-copper-mine-twin-metals-clean-energy",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 11,
-      "why": "Singapore's economy continues its strong reliance on chip manufacturing.",
-      "context": "Semiconductor chips remain Singapore's top export, even with other Asian growth.",
-      "next": "Singapore will likely maintain its focus on high-tech manufacturing.",
-      "bigger": "Global demand for semiconductors continues to drive economies.",
-      "publishedAt": "2026-06-12T08:30:00+08:00",
+      "score": 6,
+      "why": "Local residents could suffer from contaminated water and ruined habitats.",
+      "context": "A proposed mining project threatens a pristine Minnesota wilderness area.",
+      "next": "Environmental groups will likely file lawsuits to block the project.",
+      "bigger": "Clean energy transitions are forcing difficult trade-offs with conservation efforts.",
+      "publishedAt": "2026-06-12T11:15:00+00:00",
       "topicFingerprint": [
-        "tech",
-        "chips",
-        "non",
-        "pore",
-        "king"
+        "clean",
+        "energy",
+        "risk",
+        "wilderness",
+        "pristine"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why gold may rebound 13% this year \u2013 and what could hold it back",
+      "description": "Gold prices may rise at least 13 per cent by year-end in a reversal of recent sell-offs, as diversification demand from central banks remains intact and hopes for a diplomatic solution to Middle East tensions dial back inflation expectations, according to some money managers. The precious metal coul",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/business/china-business/article/3356885/why-gold-may-rebound-13-year-and-what-could-hold-it-back",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Your jewelry purchases and gold investments may cost more soon.",
+      "context": "Analysts predict gold prices could rise significantly by year-end.",
+      "next": "Central banks might accelerate their purchases of physical gold reserves.",
+      "bigger": "Investors are seeking safe-haven assets during times of global instability.",
+      "publishedAt": "2026-06-13T01:30:09+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "spacex",
+        "war",
+        "ipo",
+        "peace"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "How the Gulf will manage collective security after the Iran war ends",
-      "description": "An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends",
-      "category": "Geopolitics",
+      "title": "Dominican Republic pushes for tax increases to offset surge in oil prices",
+      "description": "The Dominican government says it plans to increase or implement new taxes to generate some $800 million in additional revenue a year to offset a surge in oil prices blamed on the Iran war",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/dominican-republic-pushes-tax-increases-offset-surge-oil-133801032",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 15,
-      "why": "Regional security dynamics in the Gulf may soon change.",
-      "context": "Gulf nations are considering new security arrangements post-Iran war.",
-      "next": "Gulf states may engage in new defense collaborations.",
-      "bigger": "Post-conflict periods reshape regional power balances.",
-      "publishedAt": "2026-06-12T18:48:41+00:00",
+      "score": 23,
+      "why": "Dominican citizens will face higher daily living and energy expenses.",
+      "context": "The Dominican Republic proposed tax hikes to combat rising fuel costs.",
+      "next": "Parliament will debate the tax package amid potential public backlash.",
+      "bigger": "Developing economies are vulnerable to energy shocks from foreign conflicts.",
+      "publishedAt": "2026-06-11T20:49:48-04:00",
       "topicFingerprint": [
-        "iran",
-        "us_entity",
+        "oil",
+        "prices",
         "war",
-        "donald_trump",
-        "spacex",
-        "oil"
+        "surge",
+        "increases"
       ],
       "alternates": []
     },
     {
-      "title": "Facing US chip curbs, China launches photonics lab to power AI with light",
-      "description": "China has established a top-level laboratory in Shanghai dedicated to photonic computing as the country strives to bypass the power constraints and US technology curbs hobbling its ambitions in artificial intelligence development. The Shanghai Key Laboratory of Integrated Photonic Computing Chips an",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/tech-war/article/3356901/facing-us-chip-curbs-china-launches-photonics-lab-power-ai-light",
+      "title": "Five cloud security mistakes that start at the architecture level",
+      "description": "Cloud Architect Nodir Safarov, who leads migration and infrastructure automation for thousands of global clients at SOTI Inc., identifies the architectural failures behind the most common cloud security gaps and the design principles that prevent them. Enterprise cloud adoption has accelerated faste",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/cloud-security-mistakes-architecture-level-enterprises",
       "category": "Technology",
       "readingTime": 2,
-      "score": 13,
-      "why": "China aims to develop domestic AI computing solutions.",
-      "context": "China launched a high-level photonics lab to bypass US chip limits for AI.",
-      "next": "China will accelerate development of its own AI computing solutions.",
-      "bigger": "Nations seek technological self-sufficiency amid global competition.",
-      "publishedAt": "2026-06-12T11:30:05+00:00",
+      "score": 10,
+      "why": "Corporate systems remain highly vulnerable to massive customer data leaks.",
+      "context": "A cloud expert identified common structural design flaws in networks.",
+      "next": "Companies may audit and redesign their cloud infrastructure systems.",
+      "bigger": "Rapid digital migration is outpacing basic cybersecurity safety measures.",
+      "publishedAt": "2026-06-12T19:39:32+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "data",
-        "centers",
-        "power",
-        "chip"
+        "start",
+        "cloud",
+        "five",
+        "architecture",
+        "level"
       ],
       "alternates": []
     },
@@ -402,62 +566,40 @@
       "url": "https://www.businessinsider.com/david-solomon-goldman-sachs-summer-intern-letter-spacex-2026-6",
       "category": "Environment",
       "readingTime": 2,
-      "score": 9,
-      "why": "New professionals are entering a period of rapid technological change.",
-      "context": "Goldman Sachs CEO advised interns on thriving in an \"innovation supercycle.\"",
-      "next": "Financial firms will likely focus on tech-driven growth strategies.",
-      "bigger": "Innovation cycles reshape industries and career paths.",
+      "score": 8,
+      "why": "Young finance workers must adapt to longer hours and faster AI.",
+      "context": "Goldman Sachs' CEO advised interns on navigating a changing market.",
+      "next": "Investment firms may increase workload expectations for entry-level staff.",
+      "bigger": "Wall Street is restructuring its labor model around advanced technologies.",
       "publishedAt": "2026-06-12T16:38:25+00:00",
       "topicFingerprint": [
-        "thrive",
         "solomon",
-        "supercycle",
-        "goldman",
-        "interns"
+        "inside",
+        "interns",
+        "letter",
+        "innovation"
       ],
       "alternates": []
     },
     {
-      "title": "Judge rules White House UFC event can proceed",
-      "description": "A federal judge ruled that a UFC event can proceed at the White House this weekend, rejecting a lawsuit alleging that the event breaks American law.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/d45409fb-9bac-4a95-a7aa-7fad0683928c.html",
-      "category": "Policy",
+      "title": "China has the world\u2019s largest smoking population. Is it harming the economy?",
+      "description": "A recent incident in Shenzhen that went viral has put China\u2019s widespread smoking habit under renewed scrutiny, reviving a long-running debate over whether Beijing should raise tobacco taxes for the first time in more than a decade. On a rainy afternoon in April, a woman asked a smoker to put out a c",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/china-economy/article/3356912/china-has-worlds-largest-smoking-population-it-harming-economy",
+      "category": "General",
       "readingTime": 2,
       "score": 8,
-      "why": "A contentious public event will proceed despite legal challenges.",
-      "context": "A federal judge approved a UFC event at the White House.",
-      "next": "The planned UFC event will take place at the White House.",
-      "bigger": "Legal challenges often shape the execution of public events.",
-      "publishedAt": "2026-06-12T18:12:48+00:00",
+      "why": "Smokers in China may soon pay much more for cigarettes.",
+      "context": "A viral incident restarted debates over raising Chinese tobacco taxes.",
+      "next": "The government could implement stricter public smoking bans in cities.",
+      "bigger": "Nations are balancing tobacco tax revenues against soaring healthcare costs.",
+      "publishedAt": "2026-06-13T01:00:13+00:00",
       "topicFingerprint": [
-        "rules",
-        "proceed",
-        "ufc",
-        "house",
-        "white"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The Supreme Court invented a special legal rule solely to screw Planned Parenthood",
-      "description": "About a year ago, the Supreme Court handed down a baffling decision in Medina v. Planned Parenthood (2025). In Medina, South Carolina committed an obvious violation of federal Medicaid law, but the Court\u2019s Republican majority seemed to bend over backward to prevent the patients affected by this lega",
-      "source": "VOX",
-      "url": "https://www.vox.com/politics/491777/supreme-court-medina-planned-parenthodd-fs-credit-abortion",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Access to certain healthcare services may become restricted.",
-      "context": "The Supreme Court created a special legal rule affecting Planned Parenthood's standing.",
-      "next": "Planned Parenthood may face increased legal hurdles.",
-      "bigger": "Judicial rulings significantly impact healthcare access and rights.",
-      "publishedAt": "2026-06-12T17:00:00+00:00",
-      "topicFingerprint": [
-        "planned",
-        "special",
-        "supreme",
-        "parenthood",
-        "solely"
+        "population",
+        "harming",
+        "smoking",
+        "china_entity",
+        "economy"
       ],
       "alternates": []
     },
@@ -469,17 +611,17 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Financial sanctions on Iran remain unchanged despite conflicting reports.",
-      "context": "Reports claimed UAE would unfreeze Iranian funds, but Abu Dhabi denied it.",
-      "next": "Diplomatic efforts regarding Iran's assets will continue.",
-      "bigger": "Geopolitical tensions influence international financial flows.",
+      "why": "Mideast financial sanctions will remain tight, limiting Iran's economic access.",
+      "context": "The UAE denied reports of unlocking billions in frozen Iranian funds.",
+      "next": "Diplomatic negotiations between the US and Iran could stall further.",
+      "bigger": "Financial blockades remain a primary weapon in modern global diplomacy.",
       "publishedAt": "2026-06-12T20:58:41+00:00",
       "topicFingerprint": [
-        "billions",
-        "uae_entity",
-        "sources",
+        "iranian",
         "agreed",
-        "unlock"
+        "sources",
+        "billions",
+        "uae_entity"
       ],
       "alternates": [
         {
@@ -492,57 +634,79 @@
           "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
-            "billions",
-            "uae_entity",
-            "sources",
+            "iranian",
             "agreed",
-            "unlock"
+            "sources",
+            "billions",
+            "uae_entity"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Facebook and Instagram down? Meta apps hit by query errors; users report global outage",
-      "description": "Facebook faced a global outage affecting users' ability to log in. Some users also reported problems on Instagram and WhatsApp services.",
+      "title": "Gabbard blows lid off massive US biolab network: 120+ labs in over 30 countries funded for years, Ukraine highlighted",
+      "description": "Tulsi Gabbard has released information on government-funded biolabs as Trump pushes to end federal funding for certain gain-of-function research projects.",
       "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/facebook-and-instagram-down-meta-apps-hit-by-query-errors-users-report-global-outage-101781273910446.html",
-      "category": "General",
+      "url": "https://www.hindustantimes.com/world-news/us-news/gabbard-blows-lid-off-massive-us-biolab-network-120-labs-in-over-30-countries-funded-for-years-ukraine-highlighted-101781291060125.html",
+      "category": "Science",
       "readingTime": 2,
-      "score": 6,
-      "why": "You may be unable to access Meta's social media platforms.",
-      "context": "Facebook, Instagram, and WhatsApp experienced a global outage.",
-      "next": "Meta will work to restore all services and prevent future outages.",
-      "bigger": "Global reliance on digital platforms brings connectivity risks.",
-      "publishedAt": "2026-06-12T19:52:57+05:30",
+      "score": 7,
+      "why": "Global trust in international health research facilities may decline significantly.",
+      "context": "Tulsi Gabbard exposed a vast network of American-funded foreign biolabs.",
+      "next": "Congress could launch investigations into foreign research funding programs.",
+      "bigger": "Biological research safety is becoming a highly politicized security issue.",
+      "publishedAt": "2026-06-13T03:25:40+05:30",
       "topicFingerprint": [
-        "instagram",
-        "users",
-        "outage",
-        "meta",
-        "facebook"
+        "massive",
+        "years",
+        "blows",
+        "lid",
+        "network"
       ],
       "alternates": []
     },
     {
-      "title": "The Pixel punches way above its weight in the smartphone space [Video]",
-      "description": "Despite a single-digit market share in practically every global region, Google still has a fairly strong foothold in the smartphone space with the Pixel, but why?",
-      "source": "9To5Google",
-      "url": "https://9to5google.com/2026/06/12/the-pixel-punches-way-above-its-weight-in-the-smartphone-space-video/",
-      "category": "Science",
+      "title": "The Supreme Court invented a special legal rule solely to screw Planned Parenthood",
+      "description": "About a year ago, the Supreme Court handed down a baffling decision in Medina v. Planned Parenthood (2025). In Medina, South Carolina committed an obvious violation of federal Medicaid law, but the Court\u2019s Republican majority seemed to bend over backward to prevent the patients affected by this lega",
+      "source": "VOX",
+      "url": "https://www.vox.com/politics/491777/supreme-court-medina-planned-parenthodd-fs-credit-abortion",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Low-income patients in certain states may lose access to healthcare.",
+      "context": "The Supreme Court ruled against Planned Parenthood in a Medicaid dispute.",
+      "next": "Red states could defund reproductive health clinics using this precedent.",
+      "bigger": "Judicial rulings are reshaping healthcare access for vulnerable domestic populations.",
+      "publishedAt": "2026-06-12T17:00:00+00:00",
+      "topicFingerprint": [
+        "invented",
+        "planned",
+        "legal",
+        "screw",
+        "rule"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Watch: Four UFO videos newly declassified by US government",
+      "description": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo",
+      "category": "Policy",
       "readingTime": 2,
       "score": 6,
-      "why": "Unique features and user experience differentiate some products.",
-      "context": "Google's Pixel phone holds a strong market position despite low share.",
-      "next": "Google will likely continue to innovate its Pixel smartphone line.",
-      "bigger": "Niche products can succeed against dominant market leaders.",
-      "publishedAt": "2026-06-12T16:30:00+00:00",
+      "why": "Public interest and scrutiny regarding secret military operations will rise.",
+      "context": "The US government declassified four videos of unidentified aerial phenomena.",
+      "next": "Congress may demand deeper intelligence briefings on airspace safety threats.",
+      "bigger": "Transparency demands are forcing military branches to share classified data.",
+      "publishedAt": "2026-06-12T14:59:52+00:00",
       "topicFingerprint": [
-        "way",
-        "pixel",
-        "video",
-        "above",
-        "weight"
+        "ufo",
+        "videos",
+        "sky",
+        "orbs",
+        "us_entity"
       ],
       "alternates": []
     },
@@ -554,39 +718,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 6,
-      "why": "Public health responses struggle to contain outbreaks amidst global tensions.",
-      "context": "Ebola cases increased in DRC amidst protests in Kenya over US plans.",
-      "next": "International health organizations will face more challenges.",
-      "bigger": "Global health crises intersect with geopolitical dynamics.",
+      "why": "Regional instability could delay essential medical aid to outbreak zones.",
+      "context": "Ebola infections rose in Congo while protests began in Kenya.",
+      "next": "Health authorities might expand travel restrictions to neighboring African nations.",
+      "bigger": "Medical emergencies are increasingly complicated by regional political unrest.",
       "publishedAt": "2026-06-12T11:30:23+00:00",
       "topicFingerprint": [
-        "ebola",
-        "rise",
-        "kenya",
+        "drc",
+        "plans",
         "cases",
-        "erupt"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The &#8220;clean energy&#8221; mine that could put one of America&#8217;s most pristine wilderness areas at risk",
-      "description": "There\u2019s no such thing as a truly pristine landscape \u2014 humans have, over millennia, shaped every environment on Earth \u2014 but the Boundary Waters wilderness of northeastern Minnesota comes pretty darn close. Stretching across more than a million acres near the Canadian border, about four hours north of",
-      "source": "VOX",
-      "url": "https://www.vox.com/climate/491617/boundary-waters-copper-mine-twin-metals-clean-energy",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Environmental protections face new challenges from energy development.",
-      "context": "A \"clean energy\" mine risks a pristine wilderness area in Minnesota.",
-      "next": "Debates over environmental protection versus energy needs will intensify.",
-      "bigger": "Green energy projects often have local environmental costs.",
-      "publishedAt": "2026-06-12T11:15:00+00:00",
-      "topicFingerprint": [
-        "areas",
-        "put",
-        "pristine",
-        "clean",
-        "wilderness"
+        "erupt",
+        "ebola"
       ],
       "alternates": []
     },
@@ -597,239 +739,146 @@
       "url": "https://www.cnbc.com/2026/06/12/bts-busan-concert-taylor-swift-swiftnomics-south-korea-gdp.html",
       "category": "Progress",
       "readingTime": 2,
-      "score": 6,
-      "why": "Cultural phenomena can significantly fuel a nation's economic growth.",
-      "context": "BTS-related fan spending and tourism are expected to boost South Korea's economy.",
-      "next": "South Korea will likely see continued economic benefits from K-pop.",
-      "bigger": "Pop culture exports drive tourism and national brand value.",
+      "score": 3,
+      "why": "Korean tourism and entertainment businesses will see sustained revenue growth.",
+      "context": "Ongoing global fandom surrounding BTS continues boosting South Korea's economy.",
+      "next": "The government may expand subsidies for cultural export industries.",
+      "bigger": "Soft power and pop culture are becoming primary economic drivers.",
       "publishedAt": "2026-06-12T02:39:11+00:00",
       "topicFingerprint": [
         "sk_entity",
-        "future",
         "mania",
         "bts",
+        "future",
         "poised"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "canada": [
       {
-        "title": "China\u2019s chip design software firms back Huawei\u2019s new scaling law. But can they catch US rivals?",
-        "description": "China\u2019s chip design software industry is rallying behind Huawei Technologies\u2019 ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T10:54:32+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: software"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -3,
-            "reason": "financial lowest priority keyword match: firms"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "design",
-          "law",
-          "catch",
-          "scaling",
-          "firms"
-        ]
-      },
-      {
-        "title": "US surveillance law to expire for first time after lawmakers reject Trump\u2019s controversial pick to lead spy agencies",
-        "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-        "fromUrl": "https://techcrunch.com/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T11:43:32+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "controversial",
-          "law",
-          "expire",
-          "section",
-          "donald_trump"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "China\u2019s chip design software firms back Huawei\u2019s new scaling law. But can they catch US rivals?",
-        "description": "China\u2019s chip design software industry is rallying behind Huawei Technologies\u2019 ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T10:54:32+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: software"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -3,
-            "reason": "financial lowest priority keyword match: firms"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "design",
-          "law",
-          "catch",
-          "scaling",
-          "firms"
-        ]
-      },
-      {
-        "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-        "description": "While the U.S. channels support to tech winners indirectly via incentives, Chinese governments at every level take direct equity stakes.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T01:21:00+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "unfolding",
-          "tech",
-          "dilemma",
-          "start",
-          "funding"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Four UK pro-Palestinian activists jailed over raid at Israeli firm Elbit",
-        "description": "LONDON, June 12 - Four British pro-Palestinian activists were sentenced to a total of more than 20 years over a 2024 raid on a factory operated by Israeli defence firm Elbit which caused more than \u00a31 million of damage, with the judge giving longer terms after determining there was a \\\"terrorism conn",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/four-uk-pro-palestinian-activists-jailed-over-raid-at-israeli-firm-elbit",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake",
+        "description": "Canadian Prime Minister Mark Carney's speech at the World Economic Forum in Davos, Switzerland, became a symbol of middle-power resistance in January, when he declared the global rules-based order over and condemned coercion by great powers on smaller countries.",
+        "source": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/ahead-of-g7-canadas-carney-softens-tone-toward-trump-with-trade-talks-at-stake",
+        "fromUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-13T03:08:15+08:00",
+        "publishedAt": "2026-06-12T17:12:53-04:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 12,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: global"
           },
           {
             "points": 4,
             "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
+            "description": "Canadian Prime Minister Mark Carney became a symbol of middle power resistance after a celebrated speech earlier this year",
+            "source": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-12T04:33:30-04:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "trade",
+              "became",
+              "middle",
+              "prime",
+              "toward"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "trade",
+          "became",
+          "middle",
+          "prime",
+          "toward"
+        ]
+      },
+      {
+        "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
+        "description": "Cyle Larin s equaliser gives Canada first World Cup points after Jovo Lukic put Bosnia in the lead in the first half.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T22:06:22+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "bosnia",
+          "canada",
+          "cup",
+          "larin",
+          "cyle"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "US Justice Department clears Paramount\u2019s acquisition of Warner Bros",
+        "description": "Analysts had expected the DOJ not to challenge the deal due to Paramount\u2019s political connections.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/us-justice-department-clears-paramounts-acquisition-of-warner-bros",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-13T07:55:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -841,36 +890,15 @@
           }
         ],
         "group_id": 1,
-        "alternates": [
-          {
-            "title": "London judge sentences Palestine Action activists for raid at Israeli defense factory",
-            "description": "A London judge has sentenced four Palestine Action activists to several years in prison for what he called an act of terrorism.",
-            "source": "ABC News",
-            "url": "https://abcnews.com/International/wireStory/london-judge-sentences-palestine-action-activists-raid-israeli-133827045",
-            "category": "Geopolitics",
-            "publishedAt": "2026-06-12T15:09:56-04:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "sentenced",
-              "years",
-              "prison",
-              "pyongyang",
-              "korea"
-            ],
-            "group_id": 1
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "sentenced",
-          "years",
-          "prison",
-          "pyongyang",
-          "korea"
+          "warner",
+          "bros",
+          "paramount",
+          "department",
+          "skydance"
         ]
-      }
-    ],
-    "india": [
+      },
       {
         "title": "Iran criticises US attacks on vessels with Indian crew",
         "description": "Iran's Foreign Ministry spokesperson Esmaeil Baqaei on Friday criticised the US attacks on merchant ships with Indian crew, saying such actions \"threaten global peace and security\".",
@@ -881,7 +909,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-12T18:26:09+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -906,37 +934,86 @@
           {
             "points": -5,
             "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
           "vessels",
-          "criticises",
           "indian",
-          "crew",
-          "iran"
+          "attacks",
+          "criticises",
+          "crew"
         ]
-      },
+      }
+    ],
+    "india": [
       {
-        "title": "India\u2019s West Bengal pushes out Muslim Bangladeshis",
-        "description": "Thousands of Muslim Bangladeshis have been detained or deported under West Bengal s new BJP government.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/indias-west-bengal-pushes-out-muslim-bangladeshis",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "title": "Iran criticises US attacks on vessels with Indian crew",
+        "description": "Iran's Foreign Ministry spokesperson Esmaeil Baqaei on Friday criticised the US attacks on merchant ships with Indian crew, saying such actions \"threaten global peace and security\".",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/iran-criticises-us-attacks-on-vessels-with-indian-crew-ws-el-19924702.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T18:21:15+00:00",
+        "publishedAt": "2026-06-12T18:26:09+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: ministry"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "vessels",
+          "indian",
+          "attacks",
+          "criticises",
+          "crew"
+        ]
+      },
+      {
+        "title": "Dinesh Trivedi reaches Bangladesh ahead of taking charge as High Commissioner",
+        "description": "High Commissioner-designate calls for stronger India-Bangladesh cooperation in health, technology and education as he arrives in Dhaka",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/dinesh-trivedi-reaches-bangladesh-ahead-of-taking-charge-as-high-commissioner/article71092837.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T15:30:44+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: health"
           },
           {
             "points": 2,
@@ -944,89 +1021,25 @@
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "important keyword match: education"
           },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "west",
-          "india",
-          "pushes",
-          "bengal",
-          "muslim"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Bank of Japan set to hike rates to 31-year high, drop hawkish signals",
-        "description": "The decision would align the BOJ with other central banks shifting towards tighter policy",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japan-set-hike-rates-31-year-high-drop-hawkish-signals",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T01:49:07+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: policy"
+            "reason": "other category"
           },
           {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "japan",
-          "rates",
-          "set",
-          "signals",
-          "drop"
-        ]
-      },
-      {
-        "title": "Pay cut for Japan Airlines boss after crew members hid preflight drinking",
-        "description": "Japan\u2019s transport ministry on Friday reprimanded Japan Airlines and urged it to compile preventive measures by July 17 after an incident in which two cabin attendants drank the day before a flight in May, delaying a scheduled flight for about 40 minutes. The female JAL employees had falsely reported",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3356964/pay-cut-japan-airlines-boss-after-crew-members-hid-preflight-drinking",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T23:30:05+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: ministry"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "japan",
-          "airlines",
-          "cut",
-          "boss",
-          "crew"
+          "trivedi",
+          "ahead",
+          "dinesh",
+          "bangladesh",
+          "charge"
         ]
       }
     ],
@@ -1057,172 +1070,140 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
+          "rights",
           "june",
-          "passenger",
-          "fees",
-          "agreed"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Bosnia, Canada share points in hard-fought draw at World Cup",
-        "description": "Cyle Larin s equaliser gives Canada first World Cup points after Jovo Lukic put Bosnia in the lead in the first half.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/12/bosnia-canada-share-points-in-hard-fought-draw-at-world-cup",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T22:06:22+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "draw",
-          "bosnia",
-          "cup",
-          "cyle",
-          "canada"
+          "eu_entity",
+          "agreed",
+          "passenger"
         ]
       },
       {
-        "title": "Thomas Partey denied entry to Canada for Ghana's World Cup opener",
-        "description": "Ghana midfielder Thomas Partey will miss the 2026 World Cup opener against Panama in Toronto after the Canadian government refused his visa application.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/88c4bfba-4dff-47fa-8502-26ce93710e57.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T19:20:37+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "thomas",
-          "partey",
-          "opener",
-          "ghana",
-          "cup"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Can Singapore-linked growth deliver votes for Johor\u2019s ruling party?",
-        "description": "The state elections in Johor and Negeri Sembilan, scheduled for July 11 and August 1, have opened two battlegrounds where economic issues take precedence over the political wrangling of Malaysia\u2019s coalition parties. The ballot will also test whether Singapore-linked rail projects, economic zones and",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3356944/can-singapore-linked-growth-deliver-votes-johors-ruling-party",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "European shares snap four-day losing streak as investors weigh ECB rate hike",
+        "description": "The central bank raises borrowing costs by an expected 25 basis points",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-snap-four-day-losing-streak-investors-weigh-ecb-rate-hike",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T11:19:37+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "votes",
-          "singapore",
-          "deliver",
-          "johor",
-          "growth"
-        ]
-      },
-      {
-        "title": "Singapore Kitchen Equipment defends decision to retain CEO, senior manager despite fraud charges",
-        "description": "Executive director Alan Lee, co-founder and CEO's husband, will take over helm if needed.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/singapore-kitchen-equipment-defends-decision-to-retain-ceo-senior-manager-despite-fraud-charges",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-12T14:11:13+08:00",
+        "publishedAt": "2026-06-11T21:38:00+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: ceo"
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: central bank"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "streak",
+          "weigh",
+          "ecb",
+          "rate",
+          "investors"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
+        "description": "While the U.S. channels support to tech winners indirectly via incentives, Chinese governments at every level take direct equity stakes.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T01:21:00+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "unfolding",
+          "beijing",
+          "exposes",
+          "cracks",
+          "funding"
+        ]
+      },
+      {
+        "title": "Chinese pharma firm WuXi AppTec sues Pentagon over blacklisting",
+        "description": "Among the other 80 companies on the blacklist were Alibaba, Baidu and BYD.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/chinese-pharma-firm-wuxi-apptec-sues-pentagon-over-blacklisting",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T11:14:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: pentagon"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Singapore Kitchen Equipment defends move to keep CEO, senior manager in jobs despite criminal charges",
-            "description": "Executive director Alan Lee is the company\u2019s backup chief executive",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/singapore-kitchen-equipment-defends-move-keep-ceo-senior-manager-jobs-despite-criminal-charges",
-            "category": "General",
-            "publishedAt": "2026-06-12T02:10:49+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "alan",
-              "executive",
-              "equipment",
-              "singapore",
-              "lee"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "alan",
-          "executive",
-          "equipment",
-          "singapore",
-          "lee"
+          "sues",
+          "apptec",
+          "pharma",
+          "blacklisting",
+          "pentagon"
         ]
       }
     ],
@@ -1247,44 +1228,147 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
-          "flagship",
+          "fcas",
+          "plug",
+          "fighter",
           "jet",
-          "defence",
-          "pulled"
+          "germany"
         ]
       }
     ],
-    "france": [
+    "japan": [
       {
-        "title": "French town buries murdered child as questions mount over police failings",
-        "description": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy9rq21dqego",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
+        "title": "Pay cut for Japan Airlines boss after crew members hid preflight drinking",
+        "description": "Japan\u2019s transport ministry on Friday reprimanded Japan Airlines and urged it to compile preventive measures by July 17 after an incident in which two cabin attendants drank the day before a flight in May, delaying a scheduled flight for about 40 minutes. The female JAL employees had falsely reported",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3356964/pay-cut-japan-airlines-boss-after-crew-members-hid-preflight-drinking",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-12T16:19:12+00:00",
+        "publishedAt": "2026-06-12T23:30:05+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 4,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "points": 3,
+            "reason": "policy scoring keyword: ministry"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "police",
-          "town",
-          "questions",
-          "failings",
-          "buries"
+          "pay",
+          "boss",
+          "airlines",
+          "drinking",
+          "preflight"
+        ]
+      },
+      {
+        "title": "Bank of Japan set to hike rates to 31-year high, drop hawkish signals",
+        "description": "The decision would align the BOJ with other central banks shifting towards tighter policy",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japan-set-hike-rates-31-year-high-drop-hawkish-signals",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T01:49:07+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: policy"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "hawkish",
+          "signals",
+          "hike",
+          "drop",
+          "rates"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Travelling soon? Find out where the Singapore dollar stretches the furthest in Asia",
+        "description": "The rupiah, peso, won, yen and baht have all weakened against the Singdollar in 2026.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/travelling-soon-these-5-charts-show-where-the-sing-stretches-the-furthest-in-asia",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T21:51:07+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "find",
+          "dollar",
+          "furthest",
+          "asia",
+          "travelling"
+        ]
+      },
+      {
+        "title": "Singapore Kitchen Equipment defends decision to retain CEO, senior manager despite fraud charges",
+        "description": "Executive director Alan Lee, co-founder and CEO's husband, will take over helm if needed.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/singapore-kitchen-equipment-defends-decision-to-retain-ceo-senior-manager-despite-fraud-charges",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-12T14:11:13+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "fraud",
+          "retain",
+          "manager",
+          "defends",
+          "equipment"
         ]
       }
     ]
