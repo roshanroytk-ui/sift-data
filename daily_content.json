@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T07:15:19.901015",
+  "updatedAt": "2026-06-14T20:59:57.701123",
   "insight": {
     "title": "Why Free Shipping Makes You Spend More",
     "subtitle": "The strange math of buying things you don't want just to avoid a delivery fee.",
@@ -26,24 +26,105 @@
   },
   "news": [
     {
-      "title": "US and Iran inch closer to peace deal to end war and reopen Strait of Hormuz",
-      "description": "The US and Iran are nearing a peace deal to end their war, reopen the Strait of Hormuz, and prevent Iran from obtaining nuclear weapons.",
+      "title": "Trump speaks with Putin and Zelenskyy even as peace talks are on hold",
+      "description": "Donald Trump held calls with Putin and Zelenskyy to discuss ending the war in Ukraine, though US-brokered peace talks between Kyiv and Moscow remain stalled.",
       "source": "Frontpage",
-      "url": "https://frontpage.ink/05876838-0ab8-4d17-84d9-d99cb61f4e9a.html",
+      "url": "https://frontpage.ink/fc7d6a13-41d9-47f2-b349-3ec8f57ac2f7.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 12,
-      "why": "Your fuel and shipping costs may fall soon.",
-      "context": "The US and Iran are finalizing a peace agreement.",
-      "next": "Both nations may sign the formal treaty soon.",
-      "bigger": "Middle East trade routes could become more secure.",
-      "publishedAt": "2026-06-14T01:13:00+00:00",
+      "score": 16,
+      "why": "Regional energy and grain shipping costs may remain highly volatile.",
+      "context": "Donald Trump held separate calls with the Russian and Ukrainian presidents.",
+      "next": "Formal peace negotiations could resume under heavy American pressure.",
+      "bigger": "Direct leader-to-leader diplomacy is shifting traditional international alliance dynamics.",
+      "publishedAt": "2026-06-14T20:10:33+00:00",
       "topicFingerprint": [
+        "us_entity",
+        "donald_trump",
         "iran",
         "war",
-        "donald_trump",
+        "israel",
+        "peace"
+      ],
+      "alternates": [
+        {
+          "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
+          "description": "Russia\u2019s Vladimir Putin and Ukraine\u2019s Volodomyr Zelensky on Sunday held separate calls with US President Donald Trump as the latter prepared to celebrate his 80th birthday. The leaders discussed the war in Ukraine and their perceptions on how the more then four-year conflict could be ended.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T18:03:46+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
+          ],
+          "group_id": 2
+        },
+        {
+          "title": "Trump speaks with Putin, Zelensky on his 80th birthday as peace talks remain on hold",
+          "description": "US-brokered talks between Kyiv and Moscow on ending the war remain stalled with Trump focused on the conflict with Iran.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/trump-speaks-with-putin-zelensky-even-as-peace-talks-are-on-hold",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-15T01:23:46+08:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
+          ],
+          "group_id": 2
+        },
+        {
+          "title": "Putin and Zelensky hold phone calls with Trump as US president marks his 80th birthday",
+          "description": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky each held phone calls with US President Donald Trump on Sunday, as Trump marked his 80th birthday and the war in Ukraine remained a flashpoint ahead of this week\u2019s G7 summit. Putin\u2019s call with Trump lasted just under an hour",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3357081/putin-and-zelensky-hold-phone-calls-trump-us-president-marks-his-80th-birthday",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T18:16:26+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
+          ],
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "title": "Why the US economy keeps defying the odds",
+      "description": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po",
+      "category": "General",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Your borrowing costs and mortgage rates may remain elevated.",
+      "context": "The American economy continues outperforming peer nations despite global economic challenges.",
+      "next": "Global central banks could delay expected interest rate cuts.",
+      "bigger": "Strong consumer spending is driving resilient global market growth.",
+      "publishedAt": "2026-06-14T05:14:17+00:00",
+      "topicFingerprint": [
+        "keeps",
+        "odds",
+        "defying",
         "us_entity",
-        "timing"
+        "economy"
       ],
       "alternates": []
     },
@@ -54,38 +135,21 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 20,
-      "why": "The AI tools you use may become restricted.",
-      "context": "Amazon research prompted a US ban on certain AI exports.",
-      "next": "Other AI developers could face similar export bans.",
-      "bigger": "Tech security concerns are shaping national trade policies.",
+      "score": 18,
+      "why": "Access to advanced AI tools may become increasingly restricted globally.",
+      "context": "US regulators blocked Anthropic AI exports following Amazon cybersecurity findings.",
+      "next": "Other AI developers could face similar national security export bans.",
+      "bigger": "Governments are tightening control over critical dual-use technology distribution.",
       "publishedAt": "2026-06-13T21:39:26+00:00",
       "topicFingerprint": [
-        "anthropic",
-        "ai_group",
-        "fable",
-        "mythos",
-        "models"
+        "us_entity",
+        "donald_trump",
+        "iran",
+        "war",
+        "israel",
+        "peace"
       ],
       "alternates": [
-        {
-          "title": "Amazon\u2019s CEO reportedly triggered the government crackdown that shut down Anthropic\u2019s most powerful AI",
-          "description": "Amazon CEO Andy Jassy was reportedly the source of security concerns that led the US government to force Anthropic to shut down Fable 5 and Mythos 5 for every customer on Friday. The Wall Street Journal reported that Jassy told Treasury Secretary Scott Bessent and other officials that Amazon researc",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/amazon-jassy-triggered-anthropic-fable-mythos-crackdown",
-          "category": "Technology",
-          "publishedAt": "2026-06-13T23:26:58+00:00",
-          "score": 18,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
-          ],
-          "group_id": 0
-        },
         {
           "title": "90-min ultimatum, tense calls, wellness retreat: How White House and Amazon got Anthropic to disable its top AI model",
           "description": "Soon after the calls ended, the Trump administration moved ahead with export controls targeting the Fable 5 and Mythos 5 models.",
@@ -93,14 +157,15 @@
           "url": "https://www.hindustantimes.com/world-news/90-min-ultimatum-tense-calls-wellness-retreat-how-white-house-amazon-got-anthropic-to-disable-its-top-ai-model-fable-5-101781417511508.html",
           "category": "Geopolitics",
           "publishedAt": "2026-06-14T12:14:15+05:30",
-          "score": 17,
+          "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
           ],
           "group_id": 0
         },
@@ -111,14 +176,15 @@
           "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
           "category": "Geopolitics",
           "publishedAt": "2026-06-13T12:24:00+00:00",
-          "score": 13,
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
           ],
           "group_id": 0
         },
@@ -129,139 +195,375 @@
           "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
           "category": "Policy",
           "publishedAt": "2026-06-13T19:11:41+00:00",
-          "score": 11,
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Anthropic disables Fable 5 and Mythos 5 after US government suspends all foreign access to models",
-          "description": "US issues export control directive blocking foreign access to Anthropic PBC AI models Fable 5 and Mythos 5, forcing Anthropic to disable them, company calls it a misunderstanding",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/business/anthropic-disables-fable-5-and-mythos-5-after-us-government-suspends-all-foreign-access-to-models-ws-l-19924907.htm",
-          "category": "Technology",
-          "publishedAt": "2026-06-13T07:40:16+05:30",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Anthropic pulls Claude Mythos 5 and Claude Fable 5 following US government directive",
-          "description": "Anthropic confirmed tonight that it has disabled access to Claude Fable 5 and Claude Mythos 5 to all customers, following an export control directive from the US government. Here are the details.",
-          "source": "9To5Mac",
-          "url": "https://9to5mac.com/2026/06/12/anthropic-pulls-claude-mythos-5-and-claude-fable-5-following-us-government-directive/",
-          "category": "Policy",
-          "publishedAt": "2026-06-13T01:30:14+00:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "anthropic",
-            "ai_group",
-            "fable",
-            "mythos",
-            "models"
+            "us_entity",
+            "donald_trump",
+            "iran",
+            "war",
+            "israel",
+            "peace"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Why is the price of gold trending down?",
-      "description": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down",
-      "category": "Economy",
+      "title": "Swiss reject population cap in referendum, avoiding EU clash and cheering business",
+      "description": "ZURICH, June 14 - Switzerland on Sunday rejected a proposal to cap its population at 10 million as voters prioritised economic stability and ties with the European Union over worries immigration was stretching public services and pushing up rents.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/switzerland-votes-on-proposal-to-cap-population-at-10-million",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 14,
-      "why": "Buying physical gold and jewelry may become cheaper.",
-      "context": "Gold prices are falling amid geopolitical conflict.",
-      "next": "Investors may shift capital to other safe assets.",
-      "bigger": "Geopolitical crises are shifting traditional commodity markets.",
-      "publishedAt": "2026-06-14T00:56:36+00:00",
+      "score": 8,
+      "why": "European businesses can continue hiring foreign workers without new restrictions.",
+      "context": "Swiss voters rejected a proposal to limit the country's population.",
+      "next": "Switzerland will negotiate new trade and labor treaties with Europe.",
+      "bigger": "Economic integration is prevailing over isolationist immigration policies.",
+      "publishedAt": "2026-06-14T08:03:37+08:00",
       "topicFingerprint": [
-        "trending",
-        "gold",
-        "price"
+        "population",
+        "swiss",
+        "cap",
+        "million",
+        "voters"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Switzerland: After rapid population growth, right-wing party supports cap vote",
+          "description": "Swiss voters will decide the fate of a divisive anti-immigration proposal on Sunday to cap the country's population, and another referendum on restricting access to conscientious objection to military service. France 24's John Zarocostas tells us more.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20260614-switzerland-after-rapid-population-growth-right-wing-party-supports-cap-vote",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T10:56:33+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss right-wing plan to cap population rejected by narrow margins",
+          "description": "Swiss voters reject a proposed population cap that would cap the country\u2019s population at 10 million.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins",
+          "category": "Policy",
+          "publishedAt": "2026-06-14T20:30:29+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss voters reject population cap proposal",
+          "description": "A proposal to introduce a population cap of 10 million in the country has failed. It was put forward by a hard-right party.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/swiss-voters-reject-population-cap-proposal/a-77543868",
+          "category": "Policy",
+          "publishedAt": "2026-06-14T11:19:00+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss voters reject 10 million population cap",
+          "description": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c20ygjem17zo",
+          "category": "General",
+          "publishedAt": "2026-06-14T18:23:52+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss voters reject right-wing plan to cap population at 10 million",
+          "description": "The Swiss appeared to have voted down a divisive anti-immigration proposal to cap the country\u2019s population, early projections showed on Sunday. Shortly after polls closed at noon, initial projections from the GfS.bern institute indicated around 55 per cent opposition to the initiative, which had spa",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3357070/swiss-voters-reject-right-wing-plan-cap-population-10-million",
+          "category": "Policy",
+          "publishedAt": "2026-06-14T12:58:38+00:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss cast ballots on right-wing's bid to cap country's population at 10 million",
+          "description": "Voters in Switzerland are casting final ballots on a proposal to cap the country's population at 10 million",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/swiss-cast-ballots-wings-bid-cap-countrys-population-133858491",
+          "category": "Policy",
+          "publishedAt": "2026-06-14T04:37:14-04:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Early results show Swiss voters reject right-wing's bid to cap population at 10 million",
+          "description": "The populist Swiss People's Party, which has the most seats in Parliament, has stirred up and fostered anti-migration sentiment over the years, notably about an influx of workers from the neighbouring European Union",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/early-results-show-swiss-voters-reject-right-wings-bid-to-cap-population-at-10-million/article71101986.ece",
+          "category": "Policy",
+          "publishedAt": "2026-06-14T21:49:11+05:30",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss reject plan to cap its population at 10 million, avoiding EU clash and cheering business",
+          "description": "The referendum had put businesses on edge due to concerns it could lead to the end of free movement of labor between Switzerland and the EU.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/14/swiss-voters-set-to-reject-population-cap-in-referendum.html",
+          "category": "General",
+          "publishedAt": "2026-06-14T16:41:07+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swiss reject population cap in referendum, avoiding EU clash and cheering business",
+          "description": "Polls had forecast a close outcome. In the end, the 'no' camp's victory was clearer than many analysts had expected.",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/swiss-reject-population-cap-in-referendum-avoiding-eu-clash-and-cheering-business-6182531",
+          "category": "General",
+          "publishedAt": "2026-06-15T02:10:58+08:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "population",
+            "swiss",
+            "cap",
+            "million",
+            "voters"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
-      "description": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/",
+      "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
+      "description": "Confirmed Ebola cases in the Democratic Republic of Congo have spiked up to 782.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims",
       "category": "Health",
       "readingTime": 2,
-      "score": 6,
-      "why": "International travelers may face health screenings and delays.",
-      "context": "The WHO chief raised alarms over an Ebola outbreak.",
-      "next": "International aid teams could deploy to the region.",
-      "bigger": "Weak local health systems struggle to contain deadly diseases.",
-      "publishedAt": "2026-06-13T13:00:00+00:00",
+      "score": 5,
+      "why": "Containing dangerous infectious diseases may take much longer.",
+      "context": "Healthcare workers in Congo face local resistance during Ebola outbreaks.",
+      "next": "International health agencies could deploy specialized community liaison teams.",
+      "bigger": "Public misinformation is severely hindering global disease response efforts.",
+      "publishedAt": "2026-06-14T20:23:29+00:00",
       "topicFingerprint": [
-        "director",
-        "area",
-        "concerned",
         "ebola",
-        "who_entity"
+        "congo",
+        "democratic",
+        "confirmed",
+        "republic"
       ],
       "alternates": []
     },
     {
-      "title": "Will the new EU migration rules work?",
-      "description": "The European Union s new migration policy has come into force.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/13/will-the-new-eu-migration-rules-work",
-      "category": "Policy",
+      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "description": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 12,
-      "why": "Border crossings and visa processes may take longer.",
-      "context": "The European Union implemented a new migration policy.",
-      "next": "European nations will begin implementing the framework.",
-      "bigger": "Western nations are tightening controls over border security.",
-      "publishedAt": "2026-06-13T20:05:19+00:00",
+      "score": 14,
+      "why": "Global shipping costs and marine insurance premiums may rise.",
+      "context": "UK authorities detained a tanker suspected of dodging Russian oil sanctions.",
+      "next": "Western nations could seize more unregistered vessels carrying sanctioned cargo.",
+      "bigger": "Economic warfare is forcing illicit trade into riskier maritime channels.",
+      "publishedAt": "2026-06-14T04:45:23-04:00",
       "topicFingerprint": [
-        "rules",
-        "migration",
-        "eu_entity",
-        "work"
+        "uk_entity",
+        "shadow",
+        "fleet",
+        "oil",
+        "tanker"
       ],
-      "alternates": []
-    },
-    {
-      "title": "Trump to meet Mideast leaders, attend Ukraine session and dine at G7 in France",
-      "description": "President Donald Trump travels to France for the G7 summit to attend a Ukraine session and meet leaders from France, India, Egypt, Qatar, and the UAE.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/989c5649-cfd1-4a80-aac7-19537689e1f2.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Global trade and tariff rules may change soon.",
-      "context": "Donald Trump is traveling to France for G7 meetings.",
-      "next": "Leaders will negotiate new security and trade agreements.",
-      "bigger": "Western alliances are reshuffling global diplomatic priorities.",
-      "publishedAt": "2026-06-13T17:12:31+00:00",
-      "topicFingerprint": [
-        "dine",
-        "leaders",
-        "attend",
-        "ukraine",
-        "france"
-      ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+          "description": "British armed forces intercepted an oil tanker believed to be part of Russia\u2019s sanctioned shadow fleet.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T15:39:23+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Britain detains sanctioned oil tanker suspected of ties to Russia's shadow fleet",
+          "description": "Royal Marine commandos rappelled from helicopters onto the vessel, the Smyrtos, in the English Channel, in what the country's Defense Ministry called \"the first U.K.-led operation of its kind.\"",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/britain-detains-sanctioned-oil-tanker-suspected-of-ties-to-russias-shadow-fleet",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T14:39:27-04:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "British commandos board Russian shadow fleet tanker, Zelensky grateful",
+          "description": "British armed forces intercepted a sanctioned Russian shadow fleet oil tanker in the English Channel on Sunday, for the first time leading an operation to disrupt the oil revenue \u200cthat helps fund Russia\u2019s war in Ukraine. The vessel Smyrtos, sailing under the Cameroon flag, was boarded by Royal Marin",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3357059/british-commandos-board-russian-shadow-fleet-tanker-zelensky-grateful",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T10:24:24+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "UK forces board sanctioned Russian shadow fleet oil tanker",
+          "description": "The U.K.'s Ministry of Defence says the SMYRTOS was in the English Channel and will be held off the south coast during investigations.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T09:32:40+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "UK intercepts Russian shadow fleet vessel in Channel: ministry",
+          "description": "British forces on Sunday intercepted a sanctioned oil tanker belonging to Russia's shadow fleet in the English Channel, the defence ministry said, in a six-hour operation hailed by Kyiv.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20260614-uk-intercepts-russian-shadow-fleet-vessel-in-channel-ministry",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-14T16:00:36+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "UK forces intercept Russian shadow fleet oil tanker in English Channel",
+          "description": "UK forces intercepted and boarded the Smyrtos, a sanctioned Russian shadow fleet oil tanker, in the English Channel to prevent sanctions evasion.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/6163a5b9-19ea-4c78-b57d-63d702edf9ec.html",
+          "category": "General",
+          "publishedAt": "2026-06-14T09:12:52+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Britain detains sanctioned oil tanker believed to be linked to Russia\u2019s shadow fleet",
+          "description": "Britain s armed forces boarded and detained a sanctioned tanker, the Smyrtos, in the English Channel on Sunday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/britain-detains-sanctioned-oil-tanker-believed-linked-russias-133859203",
+          "category": "General",
+          "publishedAt": "2026-06-14T04:37:04-04:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "uk_entity",
+            "shadow",
+            "fleet",
+            "oil",
+            "tanker"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
@@ -270,250 +572,215 @@
       "url": "https://frontpage.ink/158b7a37-0862-4556-bc05-7ee82efbb917.html",
       "category": "Financial",
       "readingTime": 2,
-      "score": 11,
-      "why": "The AI tools you use may change safety settings.",
-      "context": "US prosecutors are investigating OpenAI over user safety.",
-      "next": "The company's public listing could face major delays.",
-      "bigger": "Regulatory oversight of artificial intelligence is rapidly expanding.",
+      "score": 8,
+      "why": "The AI platforms you use may implement stricter safety restrictions.",
+      "context": "Dozens of US attorneys general are investigating OpenAI over user safety.",
+      "next": "Regulators could impose heavy fines before the company goes public.",
+      "bigger": "Tech giants face intensifying legal scrutiny over consumer protection standards.",
       "publishedAt": "2026-06-13T17:08:02+00:00",
       "topicFingerprint": [
+        "general",
+        "data",
+        "handling",
         "openai",
-        "multistate",
-        "possible",
-        "probe",
-        "ipo"
-      ],
-      "alternates": [
-        {
-          "title": "OpenAI hit with multistate probe into possible user harm, days after filing for a highly anticipated IPO",
-          "description": "\u201cAI is a new and powerful technology, and we work every day to safely bring its benefits to people in a responsible way,\" OpenAI said.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/06/13/openai-multistate-probe-possible-user-harm-confidential-filing-ipo/",
-          "category": "Financial",
-          "publishedAt": "2026-06-13T21:14:09+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "openai",
-            "multistate",
-            "possible",
-            "probe",
-            "ipo"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-          "description": "The company behind the popular chatbot ChatGPT said it will respond to the inquiry \"constructively\" and that it already has in place measures to protect its customers.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
-          "category": "Financial",
-          "publishedAt": "2026-06-13T15:52:18-04:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "openai",
-            "multistate",
-            "possible",
-            "probe",
-            "ipo"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "With uncertainty around H-1B visa fee, U.S. businesses unsure how to move forward",
-      "description": "Earlier this week, a federal judge invalidated the White House's $100,000 H-1B fee policy in response to a lawsuit brought by 20 states.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/uncertainty-h-1b-visa-fee-us-businesses-unsure-how-to-move-forward/",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Hiring foreign tech talent may remain affordable for businesses.",
-      "context": "A judge blocked a steep H-1B visa fee.",
-      "next": "The government could appeal the court's ruling.",
-      "bigger": "US immigration battles continue to disrupt corporate hiring.",
-      "publishedAt": "2026-06-13T20:04:00-04:00",
-      "topicFingerprint": [
-        "white",
-        "house",
-        "lawsuit",
-        "us_entity",
-        "judge"
+        "faces"
       ],
       "alternates": []
     },
     {
-      "title": "Switzerland votes on proposal to cap population at 10 million",
-      "description": "ZURICH, June 14 - Swiss voters decide on Sunday whether to back a proposal to cap the country's population in a referendum likened to Britain's Brexit vote, which could have far-reaching consequences for the economy and Bern's relations with the European Union.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/switzerland-votes-on-proposal-to-cap-population-at-10-million",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Moving to or working in Switzerland could become harder.",
-      "context": "Swiss citizens are voting on capping their national population.",
-      "next": "Voters will cast their ballots this coming Sunday.",
-      "bigger": "European nations are turning toward stricter isolationist policies.",
-      "publishedAt": "2026-06-14T08:03:37+08:00",
-      "topicFingerprint": [
-        "population",
-        "million",
-        "cap",
-        "switzerland",
-        "vote"
-      ],
-      "alternates": [
-        {
-          "title": "Swiss to vote on whether to cap population at 10 million",
-          "description": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy \u2014 and the country's European neighbors \u2014 if they approve the proposal?",
-          "source": "Deutsche Welle",
-          "url": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750",
-          "category": "Policy",
-          "publishedAt": "2026-06-13T05:35:00+00:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "population",
-            "million",
-            "cap",
-            "switzerland",
-            "vote"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "The fight over America's vaccine future",
-      "description": "A pivotal series of decisions in the next few months will determine the shape of U.S. vaccine policy for years to come \u2014 and influence American's perceptions of the shots as a public health tool. Why it matters: Health Secretary Robert F. Kennedy Jr. came into office promising to restore public trus",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/13/kennedy-vaccine-policy",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 6,
-      "why": "American citizens may face new public health rules.",
-      "context": "US officials are debating future national vaccine policies.",
-      "next": "Federal regulators will issue new clinical guidance soon.",
-      "bigger": "Political divisions are undermining trust in public health.",
-      "publishedAt": "2026-06-13T16:56:05+00:00",
-      "topicFingerprint": [
-        "vaccine",
-        "future",
-        "fight",
-        "us_entity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China-linked influence operations tap US divisions on AI",
+      "title": "China-linked influence operations tapping US divisions on AI",
       "description": "OpenAI uncovers alleged networks that used ChatGPT to stoke anger against data centres.",
       "source": "The Straits Times",
       "url": "https://www.straitstimes.com/world/united-states/china-linked-influence-operations-tap-us-divisions-on-ai",
       "category": "Technology",
       "readingTime": 2,
-      "score": 17,
-      "why": "Online misinformation could make digital platforms less trustworthy.",
-      "context": "Foreign networks used AI tools to inflame US divisions.",
-      "next": "Tech platforms may block more suspicious foreign accounts.",
-      "bigger": "Foreign states are weaponizing generative AI for espionage.",
+      "score": 16,
+      "why": "Your social media feeds may contain more deceptive automated content.",
+      "context": "State-backed actors used AI chatbots to spread political discord online.",
+      "next": "Social media platforms could enforce stricter account verification rules.",
+      "bigger": "Generative AI is rapidly lowering the cost of foreign propaganda.",
       "publishedAt": "2026-06-14T13:05:00+08:00",
       "topicFingerprint": [
         "divisions",
-        "operations",
+        "tapping",
         "linked",
-        "tap",
+        "operations",
         "influence"
       ],
       "alternates": []
     },
     {
-      "title": "Why China is attracting wealthy Gulf families in search of education, tech and business",
-      "description": "In April, a family from the United Arab Emirates \u2013 four adults, three children and a nanny \u2013 spent about 300,000 yuan (US$44,228) on a seven-day educational and business tour to China. The trip was nearly cancelled as the Iran war repeatedly disrupted their flights and travel plans, but they eventua",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/china-economy/article/3356923/why-china-attracting-wealthy-gulf-families-search-education-tech-and-business",
-      "category": "Economy",
+      "title": "Hegseth: \"Manufactured story\" that U.S. faces munitions stockpile shortage",
+      "description": "Defense Secretary Pete Hegseth testified before the Senate Armed Service Committee earlier this year that replenishing the stockpile could take \"months and years.\"",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/pete-hegseth-stockpile-shortage-senate-armed-services-testimony-face-the-nation/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Defense contractors may secure steady, long-term government funding.",
+      "context": "The US Defense Secretary dismissed claims of critical weapons shortages.",
+      "next": "Congress could demand detailed audits of military inventory levels.",
+      "bigger": "Military readiness remains a central point of geopolitical posturing.",
+      "publishedAt": "2026-06-14T15:58:51-04:00",
+      "topicFingerprint": [
+        "secretary",
+        "defense",
+        "brennan",
+        "margaret",
+        "face"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nara Organics recalls baby formula after multistate infant botulism outbreak",
+      "description": "Nara Organics recalled its organic baby formula sold nationwide in Target stores and online Saturday after a multistate outbreak of infant botulism, federal authorities said.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/nara-organics-recalls-baby-formula-after-multistate-infant-botulism-outbreak",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Infant formula supplies in retail stores may shrink temporarily.",
+      "context": "A major organic baby formula brand was recalled after illnesses.",
+      "next": "Federal inspectors could shut down the contaminated production facilities.",
+      "bigger": "Organic food brands face growing scrutiny over manufacturing safety standards.",
+      "publishedAt": "2026-06-14T13:37:55-04:00",
+      "topicFingerprint": [
+        "recalls",
+        "organics",
+        "multistate",
+        "formula",
+        "infant"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "These longevity meal swaps may lower your biological age \u2014 while saving time and money",
+      "description": "A new study suggests swapping some, but not all, of your meat for plant proteins can help improve longevity.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/longevity-diet-simple-swaps-to-live-longer-and-save-money-2026-6",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 3,
+      "why": "Swapping processed meat for plants can lower your grocery bills.",
+      "context": "Research shows substituting meat with plant proteins improves overall health.",
+      "next": "Food manufacturers could expand their plant-based product lines.",
+      "bigger": "Consumer demand is shifting toward affordable, science-backed wellness diets.",
+      "publishedAt": "2026-06-14T10:41:01+00:00",
+      "topicFingerprint": [
+        "longevity",
+        "swaps",
+        "meal",
+        "age",
+        "money"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why Apple built a third-party AI system for Siri and then refused to show it at WWDC",
+      "description": "Apple\u2019s iOS 27 developer beta contains underlying support for a feature the company never mentioned at its WWDC keynote on June 8: an Extensions framework that would allow iPhone users to swap between ChatGPT, Anthropic\u2019s Claude, and Google\u2019s Gemini directly inside Siri. Bloomberg\u2019s Mark Gurman has ",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc",
+      "category": "Technology",
       "readingTime": 2,
       "score": 12,
-      "why": "Chinese tourism and education businesses may see higher revenues.",
-      "context": "Wealthy Gulf families are traveling to China for business.",
-      "next": "Travel agencies could launch more custom Gulf-China tours.",
-      "bigger": "Economic ties between China and the Middle East are growing.",
-      "publishedAt": "2026-06-14T07:00:05+00:00",
+      "why": "You may soon choose which AI runs on your smartphone.",
+      "context": "Apple developed a hidden framework allowing users to swap AI assistants.",
+      "next": "Rival AI developers could build custom integrations for Apple devices.",
+      "bigger": "Tech platforms are moving away from closed, proprietary ecosystems.",
+      "publishedAt": "2026-06-14T16:10:45+00:00",
       "topicFingerprint": [
-        "search",
-        "families",
-        "education",
-        "tech",
-        "wealthy"
+        "siri",
+        "wwdc",
+        "ios",
+        "keynote",
+        "ai_group"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "US, Iran inch closer to deal to end Middle East war, timing remains unclear",
-      "description": "Draft terms described by multiple sources indicate the US would begin releasing billions of dollars in frozen Iranian assets and waive sanctions on its oil exports, in return for Iran opening the Strait of Hormuz.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/world/us-iran-inch-closer-deal-end-middle-east-war-timing-remains-unclear-6181876",
-      "category": "Geopolitics",
+      "title": "Me, worry? For US small businesses, Trump\u2019s tariffs are now a non-issue",
+      "description": "A year ago it was the hot topic, but business owners have seen there\u2019s a limit to the president\u2019s royal decrees In two weeks, I\u2019m speaking to a group of companies in the packaging industry about issues affecting their businesses this year. I\u2019m going to discuss the economy, navigating higher costs, l",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/14/small-business-trump-tariffs",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 19,
-      "why": "International energy and shipping markets could stabilize.",
-      "context": "The US and Iran are negotiating a diplomatic breakthrough.",
-      "next": "Negotiators will work to finalize the timeline.",
-      "bigger": "Diplomatic deals are replacing military standoffs in the region.",
-      "publishedAt": "2026-06-14T12:40:37+08:00",
+      "score": 11,
+      "why": "Small businesses may keep product prices stable for consumers.",
+      "context": "Small business owners are becoming less concerned about potential import tariffs.",
+      "next": "Companies could diversify their suppliers to bypass future trade penalties.",
+      "bigger": "Domestic supply chains are adapting to permanent global trade friction.",
+      "publishedAt": "2026-06-14T14:00:44+00:00",
       "topicFingerprint": [
-        "iran",
-        "war",
+        "businesses",
+        "issue",
+        "worry",
         "donald_trump",
-        "us_entity",
-        "timing"
+        "non"
       ],
       "alternates": []
     },
     {
-      "title": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
-      "description": "DAKAR, June 13 - The meetings have become routine. Every few months, jihadists in Mali affiliated with al Qaeda summon the men of Poutchi to a mud-brick mosque to collect tax on their crops and cattle, and later distribute food, medicine and animals to the poor.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/al-qaeda-linked-militants-curb-their-brutality-in-seized-malian-territory",
+      "title": "SpaceX surge further boosts Saudi billionaire prince\u2019s fortune",
+      "description": "Alwaleed Talal\u2019s investment firm holds 42.4 million shares in SpaceX, valued at US$6.8 billion",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/spacex-surge-further-boosts-saudi-billionaire-princes-fortune",
       "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local farmers and traders may face safer working conditions.",
-      "context": "Militants in Mali are adopting softer governance tactics.",
-      "next": "Insurgents could seek broader political legitimacy in Mali.",
-      "bigger": "Rebel groups are using governance to consolidate territorial control.",
-      "publishedAt": "2026-06-13T16:08:31+08:00",
+      "score": 8,
+      "why": "Sovereign wealth funds may increase investments in private space enterprises.",
+      "context": "A rise in SpaceX valuation significantly increased a Saudi investor's wealth.",
+      "next": "SpaceX could secure additional funding for deep-space exploration projects.",
+      "bigger": "Private aerospace firms are dominating high-value venture capital investments.",
+      "publishedAt": "2026-06-14T09:57:04+00:00",
       "topicFingerprint": [
-        "territory",
-        "malian",
-        "brutality",
-        "curb",
-        "linked"
+        "investment",
+        "talal",
+        "billion",
+        "prince",
+        "firm"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "SpaceX surge further boosts Saudi billionaire prince\u2019s fortune",
+          "description": "Prince Alwaleed bin Talal\u2019s investment firm Kingdom Holding Co. surged after SpaceX\u2019s share gains on its first day of trading drove the value of the firm\u2019s holding to almost $7 billion.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/06/14/spacex-stock-saudi-billionaire-prince-alwaleed-bin-talal-kingdom-holding/",
+          "category": "Financial",
+          "publishedAt": "2026-06-14T15:20:01+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "investment",
+            "talal",
+            "billion",
+            "prince",
+            "firm"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "Palestinians are being locked out of the digital economy",
-      "description": "A new 7amleh report finds Palestinians are systematically excluded from digital payments, e-commerce, and remote work \u2014 structural barriers that deepen economic strangulation under occupation",
-      "source": "Global Voices",
-      "url": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
+      "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
+      "description": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
       "category": "Financial",
       "readingTime": 2,
-      "score": 9,
-      "why": "Local workers cannot easily receive foreign remote payments.",
-      "context": "A report highlights Palestinian exclusion from digital financial systems.",
-      "next": "Advocacy groups will lobby global tech firms for access.",
-      "bigger": "Digital banking blockades are widening the global wealth gap.",
-      "publishedAt": "2026-06-14T06:00:27+00:00",
+      "score": 8,
+      "why": "Satellite internet and cloud services may become more tightly integrated.",
+      "context": "SpaceX and Google strengthened business ties following a recent market event.",
+      "next": "Tech giants could announce new joint ventures in satellite data.",
+      "bigger": "Interdependent infrastructure networks are uniting fierce tech industry rivals.",
+      "publishedAt": "2026-06-14T11:30:01+00:00",
       "topicFingerprint": [
-        "locked",
-        "digital",
-        "palestinians",
-        "economy"
+        "musk",
+        "closer",
+        "ipo",
+        "spacex",
+        "held"
       ],
       "alternates": []
     },
@@ -524,106 +791,128 @@
       "url": "https://www.straitstimes.com/business/invest/using-company-data-for-new-job-woman-sued-for-keeping-work-e-mails-in-own-account",
       "category": "Policy",
       "readingTime": 2,
-      "score": 9,
-      "why": "You could be sued for keeping old employer files.",
-      "context": "A woman faced a lawsuit for saving work emails.",
-      "next": "Courts will clarify digital ownership rules for remote workers.",
-      "bigger": "Companies are aggressively policing proprietary data during employee departures.",
+      "score": 8,
+      "why": "Your new employer may strictly monitor personal email account access.",
+      "context": "A court penalized an employee for retaining former company data.",
+      "next": "Firms could install tighter software blocks on personal cloud storage.",
+      "bigger": "Intellectual property protection is redefining remote work privacy standards.",
       "publishedAt": "2026-06-14T05:00:00+08:00",
       "topicFingerprint": [
-        "account",
-        "woman",
         "own",
+        "sued",
+        "woman",
         "work",
-        "job"
+        "data"
       ],
       "alternates": []
     },
     {
-      "title": "Trump, Macron and other G7 leaders are meeting without China. Is that a mistake?",
-      "description": "China\u2019s exclusion from the informal club's summits also looks odd, given its now immense sway over the world's economic well-being and affairs.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/g7-summit-news-trump-macron-and-other-g7-leaders-are-meeting-without-china-is-that-a-mistake-101781401024776.html",
-      "category": "Financial",
+      "title": "\u2018Unacceptable\u2019: London protesters slam illegal Israeli settlement land sale",
+      "description": "Demonstrators denounce event promoting Israeli settlement land and property sales as a violation of international law.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale",
+      "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Global trade agreements may become harder to coordinate.",
-      "context": "G7 leaders are holding summit talks without China.",
-      "next": "China may form separate economic pacts with developing nations.",
-      "bigger": "Global economic governance is fracturing into competing Western and Eastern blocs.",
-      "publishedAt": "2026-06-14T07:35:05+05:30",
+      "why": "Controversial property sales events may face disruptive local protests.",
+      "context": "Demonstrators in London protested against real estate sales in occupied territories.",
+      "next": "Activists could launch coordinated legal challenges against the organizers.",
+      "bigger": "Public protests are targeting the commercial financial pipelines of conflicts.",
+      "publishedAt": "2026-06-14T15:49:33+00:00",
       "topicFingerprint": [
-        "meeting",
-        "macron",
-        "mistake",
-        "without",
-        "leaders"
+        "unacceptable",
+        "illegal",
+        "london",
+        "protesters",
+        "sale"
       ],
       "alternates": []
     },
     {
-      "title": "After battling armed attacks, Mauritania attempts to revive tourism",
-      "description": "Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism",
-      "category": "Progress",
+      "title": "Knicks' first title in 53 years sparks celebrations and chaos in New York City",
+      "description": "New York Knicks end 53-year title drought, triggering wild celebrations and mayhem in NYC. A victory parade will be held this Thursday in Manhattan.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/61b38d1a-9183-4b01-b76f-de0f641482f0.html",
+      "category": "Environment",
       "readingTime": 2,
       "score": 7,
-      "why": "Travelers can access new desert destinations safely.",
-      "context": "Mauritania is promoting tourism after improving security.",
-      "next": "Tour operators will launch new travel packages to Mauritania.",
-      "bigger": "Developing nations are using tourism to rebuild local economies.",
-      "publishedAt": "2026-06-14T01:08:42+00:00",
+      "why": "Commuters in Manhattan may face severe traffic and transit delays.",
+      "context": "The New York Knicks won their first championship in decades.",
+      "next": "City officials could deploy extra police forces for the parade.",
+      "bigger": "Major sports victories trigger massive local economic and security challenges.",
+      "publishedAt": "2026-06-14T17:12:00+00:00",
       "topicFingerprint": [
-        "battling",
-        "attacks",
-        "revive",
-        "tourism",
-        "mauritania"
+        "celebrations",
+        "city",
+        "title",
+        "years",
+        "york"
       ],
       "alternates": []
     },
     {
-      "title": "Want a Deal on a Heat Pump? Team up With Your Neighbors.",
-      "description": "This story was originally published by Canary Media and is reproduced here as part of the Climate Desk collaboration. Last year, Marie Tai needed a better way to keep her condo cool. Her window air-conditioning units were borderline ineffective, even running at full blast. Summers have been getting ",
+      "title": "Georgia's vote-counting method will soon be banned. Lawmakers will try to find a fix this week",
+      "description": "Legislators passed a law two years ago barring the use of the QR code printed on ballots that the state relies on to tally votes beyond July 1 of this year, but no replacement method was ever implemented.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/georgias-vote-counting-method-will-soon-be-banned-lawmakers-will-try-to-find-a-fix-this-week",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Voters in Georgia may experience longer lines at polling stations.",
+      "context": "Georgia legislators are rushing to replace its outlawed ballot-tallying technology.",
+      "next": "Hand-counting ballots could become the temporary method for local elections.",
+      "bigger": "Political debates over election security are reshaping voting infrastructure.",
+      "publishedAt": "2026-06-14T12:22:54-04:00",
+      "topicFingerprint": [
+        "week",
+        "counting",
+        "fix",
+        "method",
+        "banned"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "In Tijuana, Iran's tiny diaspora agrees on little \u2014 except Team Melli",
+      "description": "TIJUANA, Mexico, June 14 - Some 25 miles (40 km) south of the U.S.-Mexico border, nestled between taquerias in the suburbs of Tijuana, hangs a flag in the Mexican colors of green, white and red. But its design is far from common in these parts.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/middle-east/in-tijuana-irans-tiny-diaspora-agrees-on-little-except-team-melli",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Sports events may bridge deep political divides within immigrant communities.",
+      "context": "Iranian immigrants in Mexico united to support their national soccer team.",
+      "next": "Community organizers could host more neutral, sports-focused public gatherings.",
+      "bigger": "International sports teams serve as powerful cultural anchors for diasporas.",
+      "publishedAt": "2026-06-14T19:08:59+08:00",
+      "topicFingerprint": [
+        "team",
+        "except",
+        "tijuana",
+        "agrees",
+        "tiny"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nature No Longer Smells So Natural\u2014and That\u2019s Our Fault",
+      "description": "This story was originally published by Yale e360 and is reproduced here as part of the Climate Desk collaboration. Across the globe, human activities are changing the way our planet smells. In Egypt, increasing temperatures are shrinking yields of aromatic jasmine flowers; in France, extreme drought",
       "source": "Mother Jones",
-      "url": "https://www.motherjones.com/environment/2026/06/heat-pump-group-deals-installation-savings/",
+      "url": "https://www.motherjones.com/environment/2026/06/nature-smells-olfactory-sensory-smellscape-animals-plants-insects-pollinators/",
       "category": "Environment",
       "readingTime": 2,
       "score": 3,
-      "why": "You can save money on home cooling by buying collectively.",
-      "context": "Communities are bulk-purchasing heat pumps to lower individual costs.",
-      "next": "More neighborhood groups will organize local clean energy drives.",
-      "bigger": "Grassroots community action is driving the green energy transition.",
-      "publishedAt": "2026-06-13T11:30:00+00:00",
+      "why": "Outdoor recreation and nature tourism may become less appealing.",
+      "context": "Human pollution is altering natural outdoor scents across the globe.",
+      "next": "Researchers could develop sensory indicators to measure environmental degradation.",
+      "bigger": "Climate change is fundamentally transforming global sensory and ecological systems.",
+      "publishedAt": "2026-06-14T12:01:00+00:00",
       "topicFingerprint": [
-        "team",
-        "want",
-        "neighbors",
-        "pump",
-        "heat"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Natural diamond firms turn to blockchain traceability amid lab-grown competition",
-      "description": "Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jewels, in a move that industry observers say will boost sales. De Beers Group, the",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/business/commodities/article/3356999/natural-diamond-firms-turn-blockchain-traceability-amid-lab-grown-competition",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Buyers can verify if their jewelry is genuinely mined.",
-      "context": "Natural diamond companies are using blockchain to fight synthetic competitors.",
-      "next": "Retailers will roll out digital tracking certificates for gems.",
-      "bigger": "Traditional industries are adopting blockchain to secure consumer trust.",
-      "publishedAt": "2026-06-14T01:30:12+00:00",
-      "topicFingerprint": [
-        "traceability",
-        "turn",
-        "lab",
-        "grown",
-        "firms"
+        "our",
+        "smells",
+        "fault",
+        "nature",
+        "longer"
       ],
       "alternates": []
     }
@@ -631,75 +920,28 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "China will be a neighbour Mongolia can rely on, Foreign Minister Wang Yi pledges",
-        "description": "Chinese Foreign Minister Wang Yi pushed for stronger cross-border transport and trade ties during a visit to Mongolia over the weekend as Beijing sought to anchor the country\u2019s newly formed government within its economic orbit. \u201cChina\u2019s policy towards Mongolia maintains stability and continuity, and",
+        "title": "Why China is attracting wealthy Gulf families in search of education, tech and business",
+        "description": "In April, a family from the United Arab Emirates \u2013 four adults, three children and a nanny \u2013 spent about 300,000 yuan (US$44,228) on a seven-day educational and business tour to China. The trip was nearly cancelled as the Iran war repeatedly disrupted their flights and travel plans, but they eventua",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3357043/china-will-be-neighbour-mongolia-can-rely-foreign-minister-wang-yi-pledges",
+        "url": "https://www.scmp.com/economy/china-economy/article/3356923/why-china-attracting-wealthy-gulf-families-search-education-tech-and-business",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-14T05:59:44+00:00",
+        "publishedAt": "2026-06-14T07:00:05+00:00",
         "reason": "within_48h",
-        "score": 15,
+        "score": 11,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "rely",
-          "foreign",
-          "mongolia",
-          "neighbour",
-          "wang"
-        ]
-      },
-      {
-        "title": "China\u2019s universities cut 12,000 \u2018obsolete\u2019 degrees amid race to embrace AI era",
-        "description": "China\u2019s universities are undertaking a massive reshuffling of their academic offerings as part of a drive to better align higher education with the nation\u2019s development goals \u2013 culling thousands of so-called obsolete degrees in favour of new, tech-focused programmes. The sweeping campaign comes as C",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3356913/chinas-universities-cut-12000-obsolete-degrees-amid-race-embrace-ai-era",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T03:00:11+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: ai"
-          },
           {
             "points": 2,
             "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
           },
           {
             "points": 2,
@@ -710,12 +952,296 @@
             "reason": "important keyword match: education"
           },
           {
+            "points": 4,
+            "reason": "geopolitics category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "tech",
+          "wealthy",
+          "families",
+          "education",
+          "attracting"
+        ]
+      },
+      {
+        "title": "European wealth turns to Hong Kong as 30 family offices eye operations in the city",
+        "description": "Around 30 European family offices have expressed interest in establishing operations in Hong Kong, drawn by the city\u2019s tax incentives and growing optimism about the prospects for China\u2019s technology sector and Hong Kong\u2019s property market, according to InvestHK and industry participants. Jason Fong, I",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/banking-finance/article/3356945/european-wealth-turns-hong-kong-30-family-offices-eye-operations-city",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T08:00:12+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -4,
+            "reason": "South China regional news"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: tax"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: i"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "investhk",
+          "wealth",
+          "offices",
+          "city",
+          "operations"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "Takaichi hails UK defence ties despite next-gen jet spending uncertainty",
+        "description": "Japanese Prime Minister Sanae Takaichi hailed increasing defence cooperation with the UK during a meeting with her British counterpart Keir Starmer on Sunday, amid uncertainty about a new fighter jet programme. \u201cThe UK is a very important partner to Japan given the deepening of ties across a wide ra",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3357072/takaichi-hails-uk-defence-ties-despite-next-gen-jet-spending-uncertainty",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T14:08:14+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Japan PM Takaichi hails UK defence ties despite jet uncertainty",
+            "description": "British PM Keir Starmer and Japan PM Sanae Takaichi were also expected to discuss the strengthening of economic security ties.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/japan-pm-takaichi-hails-uk-defence-ties-despite-jet-uncertainty",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-14T21:39:00+08:00",
+            "score": 13,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "ties",
+              "uncertainty",
+              "sanae",
+              "defence",
+              "keir"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "ties",
+          "uncertainty",
+          "sanae",
+          "defence",
+          "keir"
+        ]
+      },
+      {
+        "title": "How Brexit has made Britain poorer \u2013 in charts",
+        "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EU As the 10th anniversary of the Brexit vote approaches, the verdict on Britain\u2019s economic performance is clear: voting to leave has resulted in severe costs for households and businesses. The immed",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+        "fromUrl": "https://www.theguardian.com/business/rss",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T05:00:34+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: recession"
+          },
+          {
             "points": 2,
             "reason": "other category"
           },
           {
             "points": 2,
-            "reason": "technology important keyword match: ai"
+            "reason": "Highest Quality Source match: The Guardian"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: we"
+          },
+          {
+            "points": -1,
+            "reason": "Low opinion keyword: we"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "poorer",
+          "brexit",
+          "charts",
+          "uk_entity"
+        ]
+      }
+    ],
+    "italy": [
+      {
+        "title": "Italy\u2019s Meloni faces a far-right dilemma as 'Il Generale' Vannacci rises",
+        "description": "Roberto Vannacci, a former Italian army general, is shaking up Italy's political scene with his new party, Futuro Nazionale",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/italys-meloni-faces-dilemma-il-generale-vannacci-rises-133864215",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T10:59:04-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Italian former general starts far-right party in attack on PM Meloni, EU",
+            "description": "In a packed auditorium steps from the Vatican, Roberto Vannacci \u2013 the former Italian army general known to supporters as \u2018Il Generale\u2019 \u2013 is rallying followers of his fledgling party, casting himself as an outsider while reshaping Italy\u2019s right and challenging Prime Minister Giorgia Meloni, a close a",
+            "source": "South China Morning Post",
+            "url": "https://www.scmp.com/news/world/europe/article/3357074/italian-former-general-starts-far-right-party-attack-pm-meloni-eu",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-14T14:33:33+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "party",
+              "italy",
+              "far",
+              "right",
+              "general"
+            ],
+            "group_id": 0
+          },
+          {
+            "title": "Italian general launches far-right party, threatening PM Meloni\u2019s election hopes",
+            "description": "He is seeking to pull Italy in a more hardline, nationalist direction ahead of elections in 2026.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/italian-general-launches-far-right-party-threatening-melonis-election-hopes",
+            "category": "Policy",
+            "publishedAt": "2026-06-14T22:33:47+08:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "party",
+              "italy",
+              "far",
+              "right",
+              "general"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "party",
+          "italy",
+          "far",
+          "right",
+          "general"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "UK and Japan agree \u00a318bn investment deal",
+        "description": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T20:29:15+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: infrastructure"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "financial low priority keyword match: says"
+          },
+          {
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
           },
           {
             "points": 1,
@@ -725,198 +1251,144 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "obsolete",
-          "era",
-          "race",
-          "embrace",
-          "universities"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Starmer tells NATO\u2019s Rutte UK will publish defence plan before July 7 summit",
-        "description": "Britain\u2019s defence investment plan had been due in 2025.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/starmer-tells-natos-rutte-uk-will-publish-defence-plan-before-summit",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-13T22:53:32+08:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: nato"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "publish",
-          "plan",
-          "july",
-          "nato",
+          "investment",
+          "agree",
+          "18bn",
+          "japan",
           "uk_entity"
         ]
       },
       {
-        "title": "UK Defence spending under scrutiny as former minister warns \"Putin will be watching this carefully\"",
-        "description": "When he came into office, British Prime Minister Keir Starmer declared that the first duty of a leader is to keep the country safe. His defence secretary, John Healey, resigned this week, telling his boss that he was making the country less safe. It was a stinging letter, claiming Sir Keir was unabl",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/spotlight/20260613-uk-defence-spending-under-scrutiny-as-former-minister-warns-putin-will-be-watching-this-carefully",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-13T19:00:58+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "healey",
-          "resigned",
-          "starmer",
-          "defence",
-          "john"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Japan adds Indonesia to \u2018network of navies\u2019 after Australia, Philippines",
-        "description": "Indonesia sits at the confluence of the world\u2019s busiest sea lanes. Its coastline stretches nearly 55,000km (34,000 miles) and its waters encompass the Malacca and Lombok straits, chokepoints through which trillions of US dollars in global trade pass annually. Yet for years the nation\u2019s navy has lack",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3356934/japan-adds-indonesia-network-navies-after-australia-philippines",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T00:17:03+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "australia",
-          "network",
-          "adds",
-          "philippines",
-          "japan"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Japan adds Indonesia to \u2018network of navies\u2019 after Australia, Philippines",
-        "description": "Indonesia sits at the confluence of the world\u2019s busiest sea lanes. Its coastline stretches nearly 55,000km (34,000 miles) and its waters encompass the Malacca and Lombok straits, chokepoints through which trillions of US dollars in global trade pass annually. Yet for years the nation\u2019s navy has lack",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/politics/article/3356934/japan-adds-indonesia-network-navies-after-australia-philippines",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T00:17:03+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "australia",
-          "network",
-          "adds",
-          "philippines",
-          "japan"
-        ]
-      },
-      {
-        "title": "Woman critically injured by shark at Sydney's Coogee Beach, saved by lifeguard",
-        "description": "A 35-year-old woman is in critical condition after being bitten by an 11-foot shark at Sydney's Coogee Beach. She was saved by lifeguard Charlie Verco.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/67a4fdd0-7cdf-4bf5-a64d-6727ab5a20f7.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
+        "title": "LIVE: Netherlands vs Japan \u2013 World Cup 2026",
+        "description": "Follow our live build-up, with full team news coverage, ahead of our live text commentary stream.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/14/netherlands-vs-japan-live-world-cup-2026",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-13T21:24:54+00:00",
+        "publishedAt": "2026-06-14T16:04:44+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "netherlands",
+          "japan",
+          "cup",
+          "live"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea\u2019s world-beating stock market eyes  MSCI developed status",
+        "description": "Investors are awaiting MSCI\u2019s annual market-classification review on Jun 23",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-koreas-world-beating-stock-market-eyes-msci-developed-status",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T07:28:29+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "msci",
+          "beating",
+          "developed",
+          "sk_entity",
+          "status"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Mag 7? Mangos? SpaceX IPO forces name rethink on Wall Street\u2019s tech-stock moniker",
+        "description": "With trillion-dollar contenders waiting in the IPO wings, the Mag 7 club may soon need a name change",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/mag-7-mangos-spacex-ipo-forces-name-rethink-wall-streets-tech-stock-moniker",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T03:57:28+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "moniker",
+          "name",
+          "forces",
+          "tech",
+          "ipo"
+        ]
+      },
+      {
+        "title": "US Navy rescues 14 Indian crew members after Indian vessel sinks off Oman coast due to mechanical failure",
+        "description": "A rescue operation has been launched and the crew members have been transferred safely to a liferaft, the embassy said.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/indian-vessel-with-14-crew-members-involved-in-incident-off-oman-coast-search-ops-underway-101781428518094.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T14:46:25+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -2,
+            "reason": "geopolitics low priority keyword match: rescue"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
           },
           {
             "points": 1,
@@ -926,34 +1398,30 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "sydney",
-          "woman",
-          "critically",
-          "beach",
-          "lifeguard"
+          "indian",
+          "due",
+          "members",
+          "failure",
+          "oman"
         ]
       }
     ],
-    "italy": [
+    "europe": [
       {
-        "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-        "description": "Thousands of police deployed to keep the rallies apart as far-right remigration initiative gains traction.",
+        "title": "EU set to hold membership talks with Ukraine",
+        "description": "EU set to hold membership talks with Ukraine",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine",
         "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-13T20:46:23+00:00",
+        "publishedAt": "2026-06-14T14:39:12+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: migration"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
+            "reason": "important keyword match: ukraine"
           },
           {
             "points": 2,
@@ -965,71 +1433,15 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Thousands march in Rome in anti- and pro-migration rallies",
-            "description": "Tens of thousands of people marched in Rome in rival demonstrations over migration",
-            "source": "ABC News",
-            "url": "https://abcnews.com/International/wireStory/thousands-march-rome-anti-pro-migration-rallies-133849530",
-            "category": "General",
-            "publishedAt": "2026-06-13T17:56:08-04:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "anti",
-              "migration",
-              "rallies",
-              "pro",
-              "thousands"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "anti",
-          "migration",
-          "rallies",
-          "pro",
-          "thousands"
-        ]
-      },
-      {
-        "title": "Far-right demo in Italy calls for \u2018remigration\u2019 of foreigners",
-        "description": "A retired general, meanwhile, launched a new far-right party.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/far-right-demo-in-italy-calls-for-remigration-of-foreigners",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T05:19:20+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "far",
-          "foreigners",
-          "right",
-          "calls",
-          "demo"
+          "hold",
+          "set",
+          "membership",
+          "eu_entity",
+          "ukraine"
         ]
-      }
-    ],
-    "europe": [
+      },
       {
         "title": "Germany faces EU penalty over gender pay gap directive",
         "description": "Germany was required to incorporate the EU Pay Transparency Directive into its national law, but it has missed the deadline.",
@@ -1040,7 +1452,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-13T15:21:00+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1053,50 +1465,19 @@
           {
             "points": 2,
             "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gender",
+          "directive",
           "pay",
-          "penalty",
-          "gap",
-          "directive"
-        ]
-      },
-      {
-        "title": "\u2018A global rupture\u2019: Carney calls for Canada-EU unity before G7 summit",
-        "description": "Canada s prime minister has warned that the rules-based global order is breaking down amid superpower dominance.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-13T19:54:46+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "rupture",
-          "canada",
-          "summit",
-          "calls",
+          "gender",
+          "faces",
           "eu_entity"
         ]
       }
@@ -1112,7 +1493,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-13T15:21:00+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1125,152 +1506,51 @@
           {
             "points": 2,
             "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gender",
+          "directive",
           "pay",
-          "penalty",
-          "gap",
-          "directive"
+          "gender",
+          "faces",
+          "eu_entity"
         ]
       }
     ],
-    "united_states": [
+    "india": [
       {
-        "title": "Mag 7? Mangos? SpaceX IPO forces name rethink on Wall Street\u2019s tech-stock moniker",
-        "description": "With trillion-dollar contenders waiting in the IPO wings, the Mag 7 club may soon need a name change",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/mag-7-mangos-spacex-ipo-forces-name-rethink-wall-streets-tech-stock-moniker",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
+        "title": "US Navy rescues 14 Indian crew members after Indian vessel sinks off Oman coast due to mechanical failure",
+        "description": "A rescue operation has been launched and the crew members have been transferred safely to a liferaft, the embassy said.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/indian-vessel-with-14-crew-members-involved-in-incident-off-oman-coast-search-ops-underway-101781428518094.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-14T03:57:28+00:00",
+        "publishedAt": "2026-06-14T14:46:25+05:30",
         "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "mangos",
-          "street",
-          "forces",
-          "tech",
-          "ipo"
-        ]
-      },
-      {
-        "title": "US FDA approves expanded use of Sanofi\u2019s Type 1 diabetes drug in children aged 8 to 17",
-        "description": "However, the drug, Tzield, has also been under FDA scrutiny over safety concerns.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/us-fda-approves-expanded-use-of-sanofis-type-1-diabetes-drug-in-children-aged-8-to-17",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-13T16:38:00+08:00",
-        "reason": "within_48h",
-        "score": 5,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: safety"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "type",
-          "expanded",
-          "sanofi",
-          "diabetes",
-          "approves"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
-        "description": "World Cup opener ends in a draw for Morocco and Brazil as local fans celebrate New York Knicks basketball triumph.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T06:30:42+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
+            "points": -2,
+            "reason": "geopolitics low priority keyword match: rescue"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "draw",
-          "brazil",
-          "cup",
-          "opener",
-          "morocco"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "\u2018A global rupture\u2019: Carney calls for Canada-EU unity before G7 summit",
-        "description": "Canada s prime minister has warned that the rules-based global order is breaking down amid superpower dominance.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-13T19:54:46+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "points": -2,
+            "reason": "low quality group match: said"
           },
           {
             "points": 1,
@@ -1280,65 +1560,22 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rupture",
-          "canada",
-          "summit",
-          "calls",
-          "eu_entity"
+          "indian",
+          "due",
+          "members",
+          "failure",
+          "oman"
         ]
-      }
-    ],
-    "south_korea": [
+      },
       {
-        "title": "South Korea household loans surge as investors pile into stocks",
+        "title": "Pakistan spiral under spin pressure as Sharma leads India to victory in T20 World Cup",
         "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economy-news/south-korea-household-loans-surge-as-investors-pile-into-stocks-4741064",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
-        "category": "Financial",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/sport/pakistan-spiral-under-spin-pressure-sharma-leads-india-victory-in-t20-world-cup-6182671",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-14T05:59:41+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: loans"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Investing.com"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "surge",
-          "loans",
-          "household",
-          "pile",
-          "sk_entity"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Why are there protests in PoK? | Explained",
-        "description": "Why was the Joint Awami Action Committee formed in 2023 and what are their demands? What are the economic concerns in the region? Why is the demand for the abolishment of reservation for 12 refugee seats in the PoK Assembly at the heart of the protests? How has India reacted?",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/why-are-there-protests-in-pok-explained/article71098668.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-14T10:35:36+05:30",
+        "publishedAt": "2026-06-15T02:00:39+08:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
@@ -1347,18 +1584,6 @@
             "reason": "important keyword match: india"
           },
           {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
             "points": 1,
             "reason": "less than 6 hours"
           }
@@ -1366,9 +1591,94 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "explained",
-          "pok",
-          "protests"
+          "pressure",
+          "pakistan",
+          "cup",
+          "india",
+          "t20"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Strands of new world order could be woven at G7 meet in France:\u2009Carney",
+        "description": "Canadian PM Carney suggests the G7 Summit in France could shape a new world order, involving outreach partners like India and Brazil for broader solutions.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/strands-of-new-world-order-could-be-woven-at-g7-meet-in-francecarney-101781429149120.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T14:55:48+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "strands",
+          "francecarney",
+          "order",
+          "woven"
+        ]
+      },
+      {
+        "title": "Why Shein\u2019s French fines are a warning to Chinese firms going global",
+        "description": "On June 3, French authorities said they had imposed two new fines on Shein totalling more than \u20ac22 million (US$25.4 million), citing problems related to product traceability, environmental information, return rights and delivery times. Shein called the penalties disproportionate and said it would co",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3356613/why-sheins-french-fines-are-warning-chinese-firms-going-global",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-14T12:30:05+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: environmental"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
+          },
+          {
+            "points": -5,
+            "reason": "Opinion detected"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "warning",
+          "going",
+          "fines",
+          "shein",
+          "french"
         ]
       }
     ]
