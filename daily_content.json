@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:42:20.058727",
+  "updatedAt": "2026-06-15T22:14:00.050054",
   "insight": {
     "title": "The Star on Elevator Buttons Isn't a Decoration",
     "subtitle": "It is a tactile escape route mandated by building codes to guide you out in a pitch-black emergency.",
@@ -26,47 +26,27 @@
   },
   "news": [
     {
-      "title": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
-      "description": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-      "category": "Economy",
+      "title": "Inflation, gas prices and interest rates: 3 key ways US-Iran peace deal could impact global economy",
+      "description": "US-Iran peace deal may lower oil prices, slow inflation and ease cost of living, but impact is uncertain and may take time to show results.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/inflation-gas-prices-and-interest-rates-3-key-ways-us-iran-peace-deal-could-impact-global-economy-101781554955189.html",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 18,
-      "why": "Global energy and shipping costs may stabilize soon.",
-      "context": "The U.S. and Iran reached an initial agreement to end their conflict. It aims to reopen the Strait of Hormuz.",
-      "next": "Further negotiations will address unresolved critical issues.",
-      "bigger": "Diplomatic efforts can de-escalate major global conflicts.",
-      "publishedAt": "2026-06-15T05:55:23-04:00",
+      "score": 45,
+      "why": "Global oil prices may fall, reducing your fuel and living costs.",
+      "context": "A potential US-Iran peace deal could impact global economic factors.",
+      "next": "Negotiations for a peace deal will likely continue.",
+      "bigger": "Geopolitical agreements can significantly shift global energy markets.",
+      "publishedAt": "2026-06-16T02:16:00+05:30",
       "topicFingerprint": [
         "iran",
         "us_entity",
         "war",
+        "peace",
         "hormuz",
-        "donald_trump",
-        "peace"
+        "donald_trump"
       ],
-      "alternates": [
-        {
-          "title": "Trump's Iran deal could reshape Middle East, keep Strait of Hormuz open long term: JD Vance",
-          "description": "JD Vance said the US and Iran are entering a new phase of engagement, with negotiations focused on nuclear verification, sanctions relief and long-term stability in one of the world's most critical energy corridors.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/us-iran-deal-strait-of-hormuz-reopening-jd-vance-trump-middle-east-peace-ws-l-19925848.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-15T19:06:05+05:30",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "us_entity",
-            "war",
-            "hormuz",
-            "donald_trump",
-            "peace"
-          ],
-          "group_id": 6
-        }
-      ]
+      "alternates": []
     },
     {
       "title": "US order forces Anthropic to block global access to top AI models",
@@ -76,22 +56,22 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 18,
-      "why": "Access to advanced AI tools may become restricted.",
-      "context": "Anthropic blocked global access to its advanced AI models due to a US order. This affects Claude Fable 5 and Mythos 5.",
-      "next": "Other AI companies may face similar export controls.",
-      "bigger": "Geopolitical tensions are shaping global technology access.",
+      "why": "Access to advanced AI tools may become restricted for many users.",
+      "context": "A US order forced Anthropic to block global AI model access.",
+      "next": "Other AI developers may face similar export restrictions.",
+      "bigger": "Governments are increasing control over critical AI technology exports.",
       "publishedAt": "2026-06-15T15:15:27+00:00",
       "topicFingerprint": [
-        "models",
         "anthropic",
+        "models",
         "ai_group",
-        "mythos",
-        "us_entity"
+        "us_entity",
+        "mythos"
       ],
       "alternates": [
         {
           "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
-          "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+          "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
           "source": "Techcrunch",
           "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
           "category": "Geopolitics",
@@ -99,11 +79,11 @@
           "score": 16,
           "readingTime": 2,
           "topicFingerprint": [
-            "models",
             "anthropic",
+            "models",
             "ai_group",
-            "mythos",
-            "us_entity"
+            "us_entity",
+            "mythos"
           ],
           "group_id": 0
         },
@@ -117,36 +97,36 @@
           "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "models",
             "anthropic",
+            "models",
             "ai_group",
-            "mythos",
-            "us_entity"
+            "us_entity",
+            "mythos"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Trump threatens 100% tariff on French wine over digital tax",
-      "description": "Donald Trump threatens a 100% tariff on French wines and champagnes unless France removes its digital services tax targeting U.S. tech giants.",
+      "title": "Trump threatens 100% tariff on French wines over digital tax",
+      "description": "Donald Trump threatens 100% tariffs on French wines and champagnes unless Paris scraps its digital services tax targeting U.S. tech giants.",
       "source": "Frontpage",
       "url": "https://frontpage.ink/79d80470-cd0b-4288-9f86-daa519ee50b5.html",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 21,
-      "why": "French wines may become much more expensive for US consumers.",
-      "context": "Donald Trump threatened high tariffs on French wine over a digital services tax. This targets French wines and champagnes.",
+      "why": "French wines and champagnes may become much more expensive.",
+      "context": "Trump threatened 100% tariffs on French wines over a digital tax.",
       "next": "France may reconsider its digital services tax policy.",
-      "bigger": "Digital taxation is fueling new international trade disputes.",
+      "bigger": "Digital taxation is a growing source of international trade disputes.",
       "publishedAt": "2026-06-15T11:08:59+00:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
         "war",
+        "peace",
         "hormuz",
-        "donald_trump",
-        "peace"
+        "donald_trump"
       ],
       "alternates": [
         {
@@ -162,11 +142,11 @@
             "iran",
             "us_entity",
             "war",
+            "peace",
             "hormuz",
-            "donald_trump",
-            "peace"
+            "donald_trump"
           ],
-          "group_id": 2
+          "group_id": 3
         },
         {
           "title": "Trump threatens 100% tariff on French wines over digital tax on tech firms",
@@ -181,11 +161,30 @@
             "iran",
             "us_entity",
             "war",
+            "peace",
             "hormuz",
-            "donald_trump",
-            "peace"
+            "donald_trump"
           ],
-          "group_id": 2
+          "group_id": 3
+        },
+        {
+          "title": "Trump threatens 100% tariffs on French wines",
+          "description": "Ahead of his arrival in the French Alps for a G7 summit, US President Donald Trump said in a media interview that the US had \"no choice\" but to impose 100% tariffs on French wines if Paris didn't scrap its digital services tax on tech firms. French president Emmanuel Macron has already ruled out dro",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/business/20260615-trump-threatens-100-tariffs-on-french-wines",
+          "category": "Financial",
+          "publishedAt": "2026-06-15T20:51:47+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "peace",
+            "hormuz",
+            "donald_trump"
+          ],
+          "group_id": 3
         }
       ]
     },
@@ -197,16 +196,16 @@
       "category": "Health",
       "readingTime": 2,
       "score": 8,
-      "why": "Public health measures may intensify to contain the outbreak.",
-      "context": "Congo reported its highest daily surge in Ebola cases since the outbreak began. The virus is spreading rapidly.",
-      "next": "International health organizations will likely increase aid.",
-      "bigger": "Rapidly spreading diseases remain a global health threat.",
+      "why": "The uncontained Ebola outbreak poses a growing regional health risk.",
+      "context": "Congo reported a record daily increase in Ebola cases.",
+      "next": "Public health efforts will intensify to contain the rapid spread.",
+      "bigger": "Rapidly spreading diseases remain a significant global health threat.",
       "publishedAt": "2026-06-15T08:58:05-04:00",
       "topicFingerprint": [
-        "cases",
         "congo",
         "ebola",
         "outbreak",
+        "cases",
         "daily"
       ],
       "alternates": [
@@ -220,10 +219,10 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "cases",
             "congo",
             "ebola",
             "outbreak",
+            "cases",
             "daily"
           ],
           "group_id": 0
@@ -231,183 +230,48 @@
       ]
     },
     {
-      "title": "Treasury yields slide as Iran deal drives rethink on Fed interest rate hikes",
-      "description": "The yield on the 10-year U.S. Treasury note \u2014 the key benchmark for U.S. government borrowing \u2014 fell almost 3 basis points to 4.457%.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/15/treasury-yields-peace-deal-investor-fears-interest-rates.html",
-      "category": "Financial",
+      "title": "This successful Arctic fishing treaty has kept Russia, China, the US and others working together for 5 years \u2013 it could be a model for future diplomacy",
+      "description": "As sea ice melts, more of the Arctic Ocean opens up. A former ambassador explains how this treaty creates time for scientists to figure out what lives there.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 16,
-      "why": "Borrowing costs for governments and businesses may decrease.",
-      "context": "U.S. Treasury yields fell following the Iran deal. This caused a rethink on future Fed interest rate hikes.",
-      "next": "The Federal Reserve may pause interest rate increases.",
-      "bigger": "Geopolitical events influence global financial market stability.",
-      "publishedAt": "2026-06-15T17:46:51+00:00",
+      "score": 14,
+      "why": "The treaty protects Arctic marine life and supports scientific research.",
+      "context": "An Arctic fishing treaty fostered cooperation among major powers.",
+      "next": "Other regions facing new access issues may adopt similar agreements.",
+      "bigger": "Melting Arctic ice is creating new geopolitical and environmental challenges.",
+      "publishedAt": "2026-06-15T12:44:46+00:00",
       "topicFingerprint": [
-        "yields",
-        "fed",
-        "rate",
-        "hikes",
-        "interest"
+        "russia",
+        "others",
+        "fishing",
+        "arctic",
+        "kept"
       ],
       "alternates": []
     },
     {
-      "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
-      "description": "Markets welcome US-Iran peace deal but prices may stay high as buyers race to refill depleted emergency crude stockpiles Oil prices hit three-month low and markets rally After more than 100 days of the greatest recorded disruption to the world\u2019s energy supplies, the global oil and gas markets have b",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
+      "title": "China credit data shows sluggish demand, more household deleveraging amid weak investment",
+      "description": "Beijing\u2019s long-standing efforts to reinvigorate the domestic economy continue to face headwinds, as the latest credit data points to persistently sluggish consumption and weak investment across China, with the tech sector standing out as a lone bright spot amid the central government\u2019s push for inno",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/china-economy/article/3357179/china-credit-data-shows-sluggish-demand-more-household-deleveraging-amid-weak-investment",
       "category": "Financial",
       "readingTime": 2,
-      "score": 22,
-      "why": "Your fuel and energy costs may remain high.",
-      "context": "Oil and gas prices may remain elevated despite the Iran deal. Buyers are refilling depleted stockpiles.",
-      "next": "Global crude stockpiles will slowly be replenished.",
-      "bigger": "Geopolitical conflicts create lasting energy market impacts.",
-      "publishedAt": "2026-06-15T14:48:36+00:00",
+      "score": 13,
+      "why": "Weaker demand in China could impact global trade and export markets.",
+      "context": "China's credit data shows sluggish demand and weak investment.",
+      "next": "Beijing will likely implement new policies to stimulate its economy.",
+      "bigger": "China's economic stability is crucial for global financial health.",
+      "publishedAt": "2026-06-15T12:30:09+00:00",
       "topicFingerprint": [
-        "iran",
-        "us_entity",
-        "war",
-        "hormuz",
-        "donald_trump",
-        "peace"
+        "investment",
+        "data",
+        "weak",
+        "household",
+        "sluggish"
       ],
-      "alternates": [
-        {
-          "title": "Explainer-Middle East oil and gas output will take months to fully recover",
-          "description": "LONDON, June 15 - A framework agreement between the U.S. and Iran on terms to end their war and reopen the Strait of Hormuz sent oil prices tumbling, as traders anticipated the return of flows.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/explainer-middle-east-oil-and-gas-output-will-take-months-to-fully-recover",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-15T22:19:07+08:00",
-          "score": 19,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "us_entity",
-            "war",
-            "hormuz",
-            "donald_trump",
-            "peace"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Oil drops and stocks rise after US-Iran deal to reopen Strait of Hormuz",
-          "description": "Oil prices drop and stocks rally following a US-Iran interim peace agreement to reopen the Strait of Hormuz and end nearly four months of conflict.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/7b72be53-1c04-4e51-86e2-164c7bdb7e0d.html",
-          "category": "Financial",
-          "publishedAt": "2026-06-15T05:16:02+00:00",
-          "score": 14,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "us_entity",
-            "war",
-            "hormuz",
-            "donald_trump",
-            "peace"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
-      "description": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
-      "category": "General",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Online access for young people will be restricted.",
-      "context": "Britain plans to ban social media access for children under 16. This includes major platforms like TikTok and YouTube.",
-      "next": "Other countries may follow with similar age restrictions.",
-      "bigger": "Governments are increasing regulation on social media companies.",
-      "publishedAt": "2026-06-15T06:32:39-04:00",
-      "topicFingerprint": [
-        "uk_entity",
-        "starmer",
-        "media",
-        "social",
-        "keir"
-      ],
-      "alternates": [
-        {
-          "title": "UK bans children younger than 16 from using social media apps including TikTok and YouTube",
-          "description": "Starmer acknowledges that some teens might bypass the ban but emphasizes the importance of children's safety and happiness.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/uk-bans-children-younger-than-16-from-using-social-media-apps-including-tiktok-and-youtube",
-          "category": "General",
-          "publishedAt": "2026-06-15T12:02:23-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "starmer",
-            "media",
-            "social",
-            "keir"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "UK to ban under 16s from social media apps including TikTok, YouTube",
-          "description": "Britain will ban children under 16 from using a range of social media apps including Snapchat, TikTok and YouTube to protect young people from harmful content and excessive screen time, Prime Minister Keir Starmer said on Monday. Starmer told a news conference that he will fight back if technology c",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3357181/uk-ban-under-16s-social-media-apps-including-tiktok-youtube",
-          "category": "Technology",
-          "publishedAt": "2026-06-15T10:45:00+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "starmer",
-            "media",
-            "social",
-            "keir"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "UK declares under-16 social media ban to protect children, but experts warn of enforcement challenges",
-          "description": "The ban could include platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/15/uk-social-media-ban-under-16s.html",
-          "category": "General",
-          "publishedAt": "2026-06-15T13:14:58+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "starmer",
-            "media",
-            "social",
-            "keir"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "UK unveils sweeping social media ban for users under 16",
-          "description": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
-          "category": "General",
-          "publishedAt": "2026-06-15T14:36:56+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "starmer",
-            "media",
-            "social",
-            "keir"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
       "title": "Japan, Italy to boost tech, critical minerals cooperation",
@@ -417,39 +281,61 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 10,
-      "why": "Critical technology supply chains may become more stable.",
-      "context": "Japan and Italy agreed to increase cooperation in advanced technologies. This includes semiconductors and critical minerals.",
-      "next": "Both nations will develop joint technology research projects.",
-      "bigger": "Nations are seeking to secure vital technology supply chains.",
+      "why": "This cooperation aims to secure supply chains for crucial technologies.",
+      "context": "Japan and Italy agreed to boost tech and critical minerals cooperation.",
+      "next": "Both nations will develop joint projects in technology and minerals.",
+      "bigger": "Nations are increasingly cooperating to secure critical resource supplies.",
       "publishedAt": "2026-06-15T15:03:14+00:00",
       "topicFingerprint": [
-        "japan",
+        "tech",
         "cooperation",
         "italy",
-        "minerals",
+        "japan",
         "critical"
       ],
       "alternates": []
     },
     {
-      "title": "Adani and Jabil plan to build AI data-centre hardware in India",
-      "description": "Adani and Jabil are teaming up to make AI hardware in India. The Adani Group, India\u2019s infrastructure-and-energy conglomerate, and Jabil, the US contract manufacturer, said on Monday they intend to form a strategic alliance to build a vertically integrated AI and data-centre hardware platform in the ",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/adani-jabil-ai-data-centre-hardware-india",
-      "category": "Geopolitics",
+      "title": "Australia\u2019s central bank set for first rate pause of 2026 as bets on further hike ebb",
+      "description": "The country\u2019s policy decision comes in a week when several major central banks are expected to stay on hold",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/australias-central-bank-set-first-rate-pause-2026-bets-further-hike-ebb",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 16,
-      "why": "India's capacity for advanced tech manufacturing will grow.",
-      "context": "Adani and Jabil plan to manufacture AI data center hardware in India. They are forming a partnership.",
-      "next": "India may become a larger hub for AI hardware production.",
-      "bigger": "Global AI supply chains are diversifying beyond existing hubs.",
-      "publishedAt": "2026-06-15T15:05:09+00:00",
+      "score": 12,
+      "why": "Australian borrowers may see stable or lower loan and mortgage costs.",
+      "context": "Australia's central bank is expected to pause interest rate hikes.",
+      "next": "Other central banks may also hold their interest rates steady.",
+      "bigger": "Global inflation trends are influencing central bank interest rate decisions.",
+      "publishedAt": "2026-06-14T23:43:54+00:00",
       "topicFingerprint": [
-        "hardware",
-        "adani",
-        "jabil",
-        "data",
-        "india"
+        "ebb",
+        "hike",
+        "rate",
+        "set",
+        "pause"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Stock market moves on from SpaceX with Iran deal, US Fed in focus",
+      "description": "The next major event risk looms on Jun 17, when the US central bank votes on interest rates",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/stock-market-moves-spacex-iran-deal-us-fed-focus",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 17,
+      "why": "The US central bank's decision will influence global borrowing costs.",
+      "context": "Financial markets are now focused on a US Fed rate vote.",
+      "next": "Global markets will react to the Federal Reserve's rate announcement.",
+      "bigger": "Central bank policy decisions heavily influence market stability worldwide.",
+      "publishedAt": "2026-06-14T23:06:32+00:00",
+      "topicFingerprint": [
+        "moves",
+        "iran",
+        "fed",
+        "spacex",
+        "us_entity"
       ],
       "alternates": []
     },
@@ -461,16 +347,16 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 14,
-      "why": "Immigrants in Sweden face stricter residency rules.",
-      "context": "Sweden passed a law allowing deportation of immigrants for \"bad behavior.\" Examples include unpaid debts or criminality.",
-      "next": "More European countries might adopt similar immigration policies.",
-      "bigger": "Immigration policies are tightening in several European nations.",
+      "why": "Immigrants in Sweden now face stricter rules for residency.",
+      "context": "Sweden passed a law to deport immigrants for \"bad behaviour.\"",
+      "next": "More immigrants may face deportation for listed infractions.",
+      "bigger": "Nations are tightening immigration policies based on conduct criteria.",
       "publishedAt": "2026-06-16T00:13:56+08:00",
       "topicFingerprint": [
-        "good",
-        "kick",
+        "passes",
+        "sweden",
         "misbehaving",
-        "law",
+        "kick",
         "behaviour"
       ],
       "alternates": []
@@ -483,105 +369,167 @@
       "category": "Science",
       "readingTime": 2,
       "score": 7,
-      "why": "The safety of space station operations may improve.",
-      "context": "Russia seems ready to address long-standing cracks on its space station module. This resolves a dispute with NASA.",
-      "next": "Repairs will commence on the aging space station modules.",
-      "bigger": "International space collaboration faces ongoing technical challenges.",
+      "why": "The structural integrity of the International Space Station is at risk.",
+      "context": "Russia is preparing to address serious cracks on its space station module.",
+      "next": "Repair efforts will be crucial to ensure astronaut safety.",
+      "bigger": "Maintaining aging space infrastructure presents complex international challenges.",
       "publishedAt": "2026-06-15T13:54:02+00:00",
       "topicFingerprint": [
-        "appears",
-        "station",
-        "cracks",
+        "term",
         "serious",
-        "finally"
+        "russia",
+        "space",
+        "long"
       ],
       "alternates": []
     },
     {
-      "title": "Tesla presented misleading \u2018Full Self-Driving\u2019 safety data to European regulators",
-      "description": "Researchers interviewed by Reuters said Tesla\u2019s figures are highly misleading",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/tesla-presented-misleading-full-self-driving-safety-data-european-regulators",
+      "title": "Amateur saboteurs: The young men carrying out attacks for gangs, Russia and Iran",
+      "description": "Lured on social media, they carry out serious criminal acts on behalf of shadowy online figures for money, which they may never receive.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/amateur-saboteurs-the-young-men-carrying-out-attacks-for-gangs-russia-and-iran",
       "category": "General",
       "readingTime": 2,
-      "score": 9,
-      "why": "Trust in autonomous driving safety claims may decrease.",
-      "context": "Tesla reportedly provided misleading \"Full Self-Driving\" safety data to EU regulators. Researchers found the figures problematic.",
-      "next": "European regulators may investigate Tesla's safety data.",
-      "bigger": "Scrutiny over AI and autonomous vehicle safety is rising.",
-      "publishedAt": "2026-06-15T08:25:55+00:00",
+      "score": 6,
+      "why": "Online recruitment platforms make you vulnerable to criminal exploitation.",
+      "context": "Young men are recruited online to commit acts of sabotage.",
+      "next": "Law enforcement agencies will target these online recruitment networks.",
+      "bigger": "Online platforms are exploited for criminal and state-backed sabotage.",
+      "publishedAt": "2026-06-16T00:34:08+08:00",
       "topicFingerprint": [
-        "regulators",
-        "misleading",
-        "driving",
-        "safety",
-        "data"
+        "carrying",
+        "men",
+        "russia",
+        "attacks",
+        "amateur"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "Stock market moves on from SpaceX with Iran deal, US Fed in focus",
-      "description": "The next major event risk looms on Jun 17, when the US central bank votes on interest rates",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/stock-market-moves-spacex-iran-deal-us-fed-focus",
-      "category": "Financial",
+      "title": "Lead negotiator on 2015 Iran nuclear deal weighs in on what's next for Trump's deal",
+      "description": "NPR's Ailsa Chang talks with Wendy Sherman, the lead U.S. negotiator on the 2015 Iran nuclear agreement, about the road ahead for U.S. negotiators aiming to strike a new deal to end the Iran war.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858933/lead-negotiator-on-2015-iran-nuclear-deal-weighs-in-on-whats-next-for-trumps-deal",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 17,
-      "why": "Future loan and investment costs are now uncertain.",
-      "context": "Stock markets are now focusing on the U.S. Federal Reserve's interest rate decision. The Iran deal is no longer the main driver.",
-      "next": "The US central bank will vote on interest rate changes soon.",
-      "bigger": "Central bank decisions remain key drivers for global markets.",
-      "publishedAt": "2026-06-14T23:06:32+00:00",
+      "why": "Geopolitical stability in the Middle East remains a complex diplomatic challenge.",
+      "context": "A former US negotiator discussed the path to a new Iran deal.",
+      "next": "Diplomatic efforts will continue to seek a lasting resolution.",
+      "bigger": "International relations frequently involve complex, multi-party negotiations.",
+      "publishedAt": "2026-06-15T16:21:13-04:00",
       "topicFingerprint": [
-        "spacex",
-        "fed",
-        "moves",
         "iran",
-        "us_entity"
+        "us_entity",
+        "war",
+        "peace",
+        "hormuz",
+        "donald_trump"
       ],
       "alternates": []
     },
     {
-      "title": "Does the G7 still shape the global economy?",
-      "description": "Trade tensions, wars and Asia s rise are testing the influence and unity of the Group of Seven (G7).",
+      "title": "US judge dismisses Musk\u2019s xAI trade secret lawsuit against OpenAI",
+      "description": "The lawsuit originally filed in September focused on broader alleged misappropriation of confidential information.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/15/does-the-g7-still-shape-the-global-economy",
-      "category": "Economy",
+      "url": "https://www.aljazeera.com/economy/2026/6/15/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 14,
-      "why": "Global economic governance may become less unified.",
-      "context": "The G7's influence on the global economy is being questioned. Trade tensions and Asia's rise challenge its unity.",
-      "next": "The G7 will likely seek new ways to assert its relevance.",
-      "bigger": "Power dynamics in the global economy are shifting rapidly.",
-      "publishedAt": "2026-06-15T16:27:17+00:00",
+      "score": 13,
+      "why": "This ruling may affect future intellectual property disputes in AI.",
+      "context": "A US judge dismissed Elon Musk's xAI lawsuit against OpenAI.",
+      "next": "OpenAI can continue its operations without legal distraction.",
+      "bigger": "Intellectual property protection is a growing challenge in AI development.",
+      "publishedAt": "2026-06-15T19:11:41+00:00",
       "topicFingerprint": [
-        "does",
-        "shape",
-        "economy"
+        "lawsuit",
+        "openai",
+        "xai",
+        "trade",
+        "musk"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "US judge dismisses Elon Musk\u2019s xAI trade secret lawsuit against OpenAI",
+          "description": "A federal judge on Monday dismissed a lawsuit by Elon Musk\u2019s artificial intelligence company, xAI, that accused rival Sam Altman\u2019s OpenAI of stealing \u200ctrade secrets for chatbots. US District Judge Rita Lin in San Francisco, California, said xAI failed to show that OpenAI induced former xAI senior en",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3357213/us-judge-dismisses-elon-musks-xai-trade-secret-lawsuit-against-openai",
+          "category": "Technology",
+          "publishedAt": "2026-06-15T18:13:06+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "openai",
+            "xai",
+            "trade",
+            "musk"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
+          "description": "US District Judge Rita Lin in San Francisco said xAI failed to show that OpenAI induced former xAI engineer Xuechen Li to misappropriate trade secrets or that Li disclosed xAI trade secrets in a presentation he delivered while OpenAI was recruiting him.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/openai-wins-dismissal-of-trade-secret-lawsuit-by-musks-xai-ws-l-19925963.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-15T22:09:54+05:30",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "openai",
+            "xai",
+            "trade",
+            "musk"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
-      "description": "The agreement came after more than three months of stop-start negotiations and bouts of fighting since late February, roiling global energy and commodities markets.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
+      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "description": "Microsoft CEO Satya Nadella published a sweeping essay on Sunday laying out what he describes as the defining economic challenge of the AI era: the risk that a handful of frontier models will absorb the expertise of entire industries and commoditize it, leaving businesses stripped of their competiti",
+      "source": "Venturebeat",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
       "category": "Financial",
       "readingTime": 2,
       "score": 13,
-      "why": "Global energy and commodities markets may stabilize.",
-      "context": "World leaders welcomed the U.S.-Iran deal. Europe plans sanctions relief and urges the Strait of Hormuz reopening.",
-      "next": "Sanctions against Iran could be gradually lifted by Europe.",
-      "bigger": "Diplomacy can offer pathways to geopolitical de-escalation.",
-      "publishedAt": "2026-06-15T07:44:07+00:00",
+      "why": "AI advancements may shift job markets and industry structures significantly.",
+      "context": "Satya Nadella warned AI could hollow out entire industries.",
+      "next": "Industries will need to adapt rapidly to new AI capabilities.",
+      "bigger": "Advanced AI technology is poised to reshape global labor and economies.",
+      "publishedAt": "2026-06-15T19:49:14+00:00",
       "topicFingerprint": [
-        "signals",
-        "us_entityiran",
-        "urges",
-        "reopening",
-        "hormuz"
+        "warns",
+        "satya",
+        "damage",
+        "globalization",
+        "echoing"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The UK\u2019s big new social media ban should have under-16s everywhere feeling nervous",
+      "description": "Not to mention adults who don't want to give big tech their IDs.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/uk-social-media-ban-3677682/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Young users will face new age verification rules for social media.",
+      "context": "The UK introduced a new social media ban for under-16s.",
+      "next": "Other countries may consider similar age verification mandates.",
+      "bigger": "Governments are increasing regulation on social media for youth protection.",
+      "publishedAt": "2026-06-15T20:47:05+00:00",
+      "topicFingerprint": [
+        "uk_entity",
+        "ban",
+        "media",
+        "social",
+        "starmer"
       ],
       "alternates": []
     },
@@ -593,121 +541,83 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 10,
-      "why": "Tesla owners may gain new in-car entertainment options.",
-      "context": "Apple and Tesla are reportedly collaborating to bring CarPlay to Tesla vehicles. A new CarPlay technology could enable this.",
-      "next": "Tesla may integrate Apple CarPlay into its infotainment system.",
-      "bigger": "Tech giants are expanding their software into more vehicle brands.",
+      "why": "Tesla drivers may soon gain access to Apple CarPlay in their vehicles.",
+      "context": "Apple and Tesla are reportedly working to integrate CarPlay.",
+      "next": "Tesla vehicles may soon receive software updates for CarPlay.",
+      "bigger": "Tech giants are expanding their software ecosystems into more vehicles.",
       "publishedAt": "2026-06-15T14:47:24+00:00",
       "topicFingerprint": [
-        "carplay",
         "support",
         "tesla",
         "change",
+        "carplay",
         "missing"
       ],
       "alternates": []
     },
     {
       "title": "Florida sues TikTok, claiming it violates state child safety law",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/florida-sues-tiktok-claiming-it-violates-state-child-safety-law-6185411",
+      "description": "TIKTOK-FLORIDA/LAWSUIT (PIX):Florida sues TikTok, claiming it violates state child safety law",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/florida-sues-tiktok-claiming-it-violates-state-child-safety-law-101781549555170.html",
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Your children's online privacy and safety concerns may rise.",
-      "context": "Florida is suing TikTok, alleging it violates the state's child safety law. The lawsuit focuses on children's online safety.",
-      "next": "TikTok will likely face increased legal scrutiny in the US.",
-      "bigger": "Governments are intensifying legal challenges against social media.",
-      "publishedAt": "2026-06-16T02:55:55+08:00",
+      "why": "TikTok's operations may face restrictions due to child safety concerns.",
+      "context": "Florida is suing TikTok over alleged child safety law violations.",
+      "next": "Other US states may file similar lawsuits against social media.",
+      "bigger": "Governments are increasing legal pressure on social media companies for child safety.",
+      "publishedAt": "2026-06-16T00:22:34+05:30",
       "topicFingerprint": [
         "florida",
-        "claiming",
-        "safety",
-        "law",
-        "tiktok"
+        "tiktok",
+        "child",
+        "sues",
+        "claiming"
       ],
-      "alternates": [
-        {
-          "title": "Florida sues TikTok, claiming it violates state child safety law",
-          "description": "TIKTOK-FLORIDA/LAWSUIT (PIX):Florida sues TikTok, claiming it violates state child safety law",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/florida-sues-tiktok-claiming-it-violates-state-child-safety-law-101781549555170.html",
-          "category": "Policy",
-          "publishedAt": "2026-06-16T00:22:34+05:30",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "florida",
-            "claiming",
-            "safety",
-            "law",
-            "tiktok"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
-      "description": "EU diplomacy chief Kaja Kallas confirms EU remains divided on sanctioning Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir",
-      "category": "Policy",
+      "title": "Tesla presented misleading \u2018Full Self-Driving\u2019 safety data to European regulators",
+      "description": "Researchers interviewed by Reuters said Tesla\u2019s figures are highly misleading",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/tesla-presented-misleading-full-self-driving-safety-data-european-regulators",
+      "category": "General",
       "readingTime": 2,
       "score": 8,
-      "why": "European Union foreign policy unity faces challenges.",
-      "context": "The EU could not agree on sanctions for Israeli minister Ben-Gvir. Divisions persist regarding sanctioning Israel.",
-      "next": "EU member states will continue internal discussions on sanctions.",
-      "bigger": "Geopolitical disagreements are straining international alliances.",
-      "publishedAt": "2026-06-15T18:47:22+00:00",
+      "why": "The safety of autonomous driving technology may face closer scrutiny.",
+      "context": "Tesla presented misleading Full Self-Driving safety data to regulators.",
+      "next": "Regulators may impose stricter testing for autonomous vehicles.",
+      "bigger": "Regulators face challenges in overseeing emerging self-driving technologies.",
+      "publishedAt": "2026-06-15T08:25:55+00:00",
       "topicFingerprint": [
-        "kallas",
-        "sanctions",
-        "right",
-        "israel",
-        "eu_entity"
+        "presented",
+        "tesla",
+        "data",
+        "eu_entity",
+        "full"
       ],
-      "alternates": [
-        {
-          "title": "No consensus for EU sanctions against Israel's Ben-Gvir, top diplomat says",
-          "description": "BRUSSELS, June 15 - EU foreign ministers have not reached a consensus to approve sanctions against Israel's far-right National Security Minister Itamar Ben-Gvir, EU's top diplomat Kaja Kallas said on Monday.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/no-consensus-for-eu-sanctions-against-israels-ben-gvir-top-diplomat-says",
-          "category": "Policy",
-          "publishedAt": "2026-06-15T22:18:55+08:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "kallas",
-            "sanctions",
-            "right",
-            "israel",
-            "eu_entity"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "macOS 26.6 beta 2 rolling out now, plus iPadOS 26.6, watchOS 26.6, tvOS 26.6, more",
-      "description": "After last week\u2019s release of the first developer betas for the operating systems announced during the WWDC keynote, Apple is now releasing a new round of betas for its current software lineup. Here are the details.",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/06/15/macos-26-6-beta-2-rolling-out-now-plus-ipados-26-6-watchos-26-6-tvos-26-6-more/",
-      "category": "Technology",
+      "title": "Australia\u2019s richest person just bought a SpaceX stake worth more than $1 billion. \u2018Elon has done what very few people in history have done\u2019",
+      "description": "Gina Rinehart, a mining mogul, is backing the rocket-maker, citing Musk\u2019s record on space travel and government.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/15/australias-richest-person-gina-rinehart-spacex-investment-billion-elon-musk/",
+      "category": "Science",
       "readingTime": 2,
       "score": 7,
-      "why": "Developers will access updated features and tools.",
-      "context": "Apple released new beta versions for its operating systems. This includes macOS, iPadOS, watchOS, and tvOS.",
-      "next": "Public beta releases may follow for wider testing.",
-      "bigger": "Software development relies on iterative beta testing processes.",
-      "publishedAt": "2026-06-15T17:08:46+00:00",
+      "why": "Large private investments are fueling the growth of commercial space ventures.",
+      "context": "Australia's richest person invested over $1 billion in SpaceX.",
+      "next": "SpaceX will likely use this capital to fund new projects.",
+      "bigger": "Private capital is increasingly driving innovation in the space industry.",
+      "publishedAt": "2026-06-15T20:40:28+00:00",
       "topicFingerprint": [
-        "plus",
-        "rolling",
-        "watchos",
-        "ipados",
-        "tvos"
+        "spacex",
+        "ipo",
+        "billion",
+        "elon",
+        "musk"
       ],
       "alternates": []
     },
@@ -719,17 +629,39 @@
       "category": "Health",
       "readingTime": 2,
       "score": 5,
-      "why": "Access to home healthcare services may become harder.",
-      "context": "State Medicaid crackdowns are straining home care services. This affects vulnerable individuals.",
-      "next": "Home care providers may face increased financial pressures.",
-      "bigger": "Healthcare systems worldwide grapple with funding and access issues.",
+      "why": "Access to home healthcare for vulnerable patients may diminish.",
+      "context": "State Medicaid crackdowns are straining home healthcare services.",
+      "next": "Home care providers may face reduced funding and operational challenges.",
+      "bigger": "Healthcare systems face increasing financial strain and policy changes.",
       "publishedAt": "2026-06-15T11:56:24+00:00",
       "topicFingerprint": [
-        "science",
-        "stat",
+        "democracy",
         "ago",
         "years",
-        "democracy"
+        "stat",
+        "science"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Italian fans look to global icons and underdogs to cure World Cup blues",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/sport/italian-fans-look-global-icons-and-underdogs-cure-world-cup-blues-6185706",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Italian football fans will seek new teams for entertainment.",
+      "context": "Italian fans seek other teams after World Cup disappointment.",
+      "next": "Italian football culture may shift towards broader international interests.",
+      "bigger": "National sports performance can profoundly influence fan culture.",
+      "publishedAt": "2026-06-16T05:46:22+08:00",
+      "topicFingerprint": [
+        "look",
+        "cure",
+        "cup",
+        "underdogs",
+        "italian"
       ],
       "alternates": []
     },
@@ -741,213 +673,42 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 3,
-      "why": "Public services and traffic in New York City will be disrupted.",
-      "context": "The New York Knicks won their first title in 53 years. This sparked widespread celebrations and chaos in NYC.",
-      "next": "A victory parade will take place in Manhattan.",
-      "bigger": "Major sports victories often create significant public events.",
+      "why": "Public celebrations in New York City will cause temporary disruption.",
+      "context": "The New York Knicks won their first title in 53 years.",
+      "next": "A victory parade will further celebrate the team's championship.",
+      "bigger": "Major sports victories often spark widespread public celebration and impact local life.",
       "publishedAt": "2026-06-14T17:12:00+00:00",
       "topicFingerprint": [
         "york",
+        "knicks",
+        "sparks",
         "city",
-        "years",
-        "title",
-        "sparks"
+        "years"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
-      {
-        "title": "This successful Arctic fishing treaty has kept Russia, China, the US and others working together for 5 years \u2013 it could be a model for future diplomacy",
-        "description": "As sea ice melts, more of the Arctic Ocean opens up. A former ambassador explains how this treaty creates time for scientists to figure out what lives there.",
-        "source": "The Conversation",
-        "url": "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820",
-        "fromUrl": "https://theconversation.com/global/articles.atom",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-15T12:44:46+00:00",
-        "reason": "within_48h",
-        "score": 14,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: treaty"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: diplomacy"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "future",
-          "working",
-          "arctic",
-          "fishing",
-          "years"
-        ]
-      },
-      {
-        "title": "China credit data shows sluggish demand, more household deleveraging amid weak investment",
-        "description": "Beijing\u2019s long-standing efforts to reinvigorate the domestic economy continue to face headwinds, as the latest credit data points to persistently sluggish consumption and weak investment across China, with the tech sector standing out as a lone bright spot amid the central government\u2019s push for inno",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3357179/china-credit-data-shows-sluggish-demand-more-household-deleveraging-amid-weak-investment",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-15T12:30:09+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: data"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "financial important keyword match: economy"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "credit",
-          "data",
-          "deleveraging",
-          "weak",
-          "household"
-        ]
-      }
-    ],
     "united_states": [
       {
-        "title": "This successful Arctic fishing treaty has kept Russia, China, the US and others working together for 5 years \u2013 it could be a model for future diplomacy",
-        "description": "As sea ice melts, more of the Arctic Ocean opens up. A former ambassador explains how this treaty creates time for scientists to figure out what lives there.",
-        "source": "The Conversation",
-        "url": "https://theconversation.com/this-successful-arctic-fishing-treaty-has-kept-russia-china-the-us-and-others-working-together-for-5-years-it-could-be-a-model-for-future-diplomacy-284820",
-        "fromUrl": "https://theconversation.com/global/articles.atom",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-15T12:44:46+00:00",
-        "reason": "within_48h",
-        "score": 14,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: treaty"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: diplomacy"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "future",
-          "working",
-          "arctic",
-          "fishing",
-          "years"
-        ]
-      },
-      {
-        "title": "US judge dismisses Musk\u2019s xAI trade secret lawsuit against OpenAI",
-        "description": "The lawsuit originally filed in September focused on broader alleged misappropriation of confidential information.",
+        "title": "US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base",
+        "description": "It was not immediately clear if there were any casualties in crash at base north of Los Angeles, California.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/6/15/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai",
+        "url": "https://www.aljazeera.com/news/2026/6/15/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says",
         "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-15T19:11:41+00:00",
+        "publishedAt": "2026-06-15T19:27:25+00:00",
         "reason": "within_48h",
-        "score": 13,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 3,
-            "reason": "company keyword match: openai"
-          },
-          {
             "points": 4,
             "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
           },
           {
             "points": 2,
@@ -961,48 +722,109 @@
         "group_id": 0,
         "alternates": [
           {
-            "title": "US judge dismisses Elon Musk\u2019s xAI trade secret lawsuit against OpenAI",
-            "description": "A federal judge on Monday dismissed a lawsuit by Elon Musk\u2019s artificial intelligence company, xAI, that accused rival Sam Altman\u2019s OpenAI of stealing \u200ctrade secrets for chatbots. US District Judge Rita Lin in San Francisco, California, said xAI failed to show that OpenAI induced former xAI senior en",
-            "source": "South China Morning Post",
-            "url": "https://www.scmp.com/news/world/united-states-canada/article/3357213/us-judge-dismisses-elon-musks-xai-trade-secret-lawsuit-against-openai",
-            "category": "Technology",
-            "publishedAt": "2026-06-15T18:13:06+00:00",
-            "score": 5,
+            "title": "US B-52 bomber crashes after takeoff at Edwards Air Force Base in California",
+            "description": "A U.S. Air Force B-52 Stratofortress bomber crashed shortly after takeoff Monday morning at Edwards Air Force Base in California's Mojave Desert.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/3bb18e6b-caf8-4098-a9f6-b03d3390e223.html",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-15T20:24:32+00:00",
+            "score": 9,
             "readingTime": 2,
             "topicFingerprint": [
-              "xai",
-              "lawsuit",
-              "trade",
-              "openai",
-              "musk"
+              "takeoff",
+              "crashes",
+              "california",
+              "force",
+              "base"
             ],
             "group_id": 0
           },
           {
-            "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
-            "description": "US District Judge Rita Lin in San Francisco said xAI failed to show that OpenAI induced former xAI engineer Xuechen Li to misappropriate trade secrets or that Li disclosed xAI trade secrets in a presentation he delivered while OpenAI was recruiting him.",
-            "source": "CNBC TV",
-            "url": "https://www.cnbctv18.com/world/openai-wins-dismissal-of-trade-secret-lawsuit-by-musks-xai-ws-l-19925963.htm",
+            "title": "B-52 bomber crashes after takeoff at Edwards Air Force Base",
+            "description": "Emergency crews responded to the scene, with the situation \"ongoing,\" according to Edwards Air Force Base.",
+            "source": "CBS News",
+            "url": "https://www.cbsnews.com/news/us-air-force-b-52-crashes-edwards-air-force-base/",
             "category": "Geopolitics",
-            "publishedAt": "2026-06-15T22:09:54+05:30",
-            "score": 4,
+            "publishedAt": "2026-06-15T15:22:00-04:00",
+            "score": 5,
             "readingTime": 2,
             "topicFingerprint": [
-              "xai",
-              "lawsuit",
-              "trade",
-              "openai",
-              "musk"
+              "takeoff",
+              "crashes",
+              "california",
+              "force",
+              "base"
+            ],
+            "group_id": 0
+          },
+          {
+            "title": "B-52 military jet crashes at Edwards Air Force Base in California",
+            "description": "An Air Force B-52 crashed shortly after takeoff at California's Edwards Air Force Base on Monday, the base said. Emergency crews are responding.",
+            "source": "CBS News",
+            "url": "https://www.cbsnews.com/video/b-52-military-jet-crashes-edwards-air-force-base/",
+            "category": "Geopolitics",
+            "publishedAt": "2026-06-15T16:37:20-04:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "takeoff",
+              "crashes",
+              "california",
+              "force",
+              "base"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "xai",
-          "lawsuit",
-          "trade",
-          "openai",
-          "musk"
+          "takeoff",
+          "crashes",
+          "california",
+          "force",
+          "base"
+        ]
+      },
+      {
+        "title": "Key witness in US probe of Turkey's Halkbank to be sentenced 9 years after plea",
+        "description": "NEW YORK, June 15 - A key cooperating witness in the U.S. government's criminal investigation into Turkish lender Halkbank's alleged role in helping Iran evade sanctions is due to be sentenced in July, nearly nine years after he pleaded guilty, court records showed on Monday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/key-witness-in-us-probe-of-turkeys-halkbank-to-be-sentenced-9-years-after-plea",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-16T01:48:57+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sentenced",
+          "probe",
+          "witness",
+          "halkbank",
+          "years"
         ]
       }
     ],
@@ -1037,17 +859,101 @@
           },
           {
             "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "trade",
+          "israeli",
+          "several",
+          "stands",
+          "shuts"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "From start-up to Hong Kong IPO: How global standards drove this S\u2019pore biomedical firm\u2019s expansion",
+        "description": "For Mirxes, treating standards as infrastructure helped it scale a cancer-detection business beyond Singapore.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/how-global-standards-certifications-drove-biomedical-firm-expansion-enterprise-singapore",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-16T04:00:00+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: infrastructure"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "france",
-          "several",
-          "defence",
-          "shuts",
-          "israeli"
+          "start",
+          "kong",
+          "expansion",
+          "drove",
+          "firm"
+        ]
+      },
+      {
+        "title": "Hong Kong insurance regulator vows crackdown on rule-breakers",
+        "description": "This includes companies that evade recent curbs on broker fees and policy rates",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/hong-kong-insurance-regulator-vows-crackdown-rule-breakers",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-15T07:30:59+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: insurance"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: policy"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "kong",
+          "insurance",
+          "crackdown",
+          "rule",
+          "vows"
         ]
       }
     ],
@@ -1084,83 +990,46 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "dying",
-          "attempt",
-          "assisted",
+          "debate",
           "failed",
-          "uk_entity"
+          "change",
+          "dying",
+          "law"
         ]
       },
       {
-        "title": "UK Court upholds ban on Palestine Action as \u2018terrorist\u2019 group",
-        "description": "UK Court upholds ban on Palestine Action as \u2018terrorist\u2019 group",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-court-upholds-ban-on-palestine-action-as-terrorist-group",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "title": "Right-wing feud strengthens Andy Burnham's bid to be next British prime minister",
+        "description": "ASHTON-IN-MAKERFIELD, England, June 15 - If Andy Burnham wins Thursday's election in Makerfield, the seat he needs to challenge Prime Minister Keir Starmer for the country's leadership, it may have less to do with his own appeal than the feuding of two populist right-wing parties splitting their vot",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/right-wing-feud-strengthens-andy-burnhams-bid-to-be-next-british-prime-minister",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-15T16:15:42+00:00",
+        "publishedAt": "2026-06-15T22:43:55+08:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "points": 3,
+            "reason": "policy scoring keyword: right"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "UK Court of Appeal upholds ban on Palestine Action as terrorist group",
-            "description": "The UK Court of Appeal has upheld the ban on Palestine Action as a terrorist organization, ruling that the government's action was lawful and proportionate.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/54786e6f-3ff9-4dbe-a8b5-d3b3c3b89b48.html",
-            "category": "Policy",
-            "publishedAt": "2026-06-15T13:26:17+00:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ban",
-              "upholds",
-              "uk_entity",
-              "palestine",
-              "action"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "British court upholds terrorism ban on activist group Palestine Action",
-            "description": "The ban puts the pro-Palestine group on a government blacklist that also includes Hamas and Hezbollah.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/british-court-upholds-terrorism-ban-on-activist-group-palestine-action",
-            "category": "Policy",
-            "publishedAt": "2026-06-15T20:00:00+08:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ban",
-              "upholds",
-              "uk_entity",
-              "palestine",
-              "action"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "ban",
-          "upholds",
+          "wing",
+          "feud",
+          "right",
           "uk_entity",
-          "palestine",
-          "action"
+          "bid"
         ]
       }
     ],
@@ -1194,10 +1063,67 @@
         "alternates": [],
         "topicFingerprint": [
           "launches",
-          "meloni",
-          "rival",
           "party",
-          "general"
+          "right",
+          "italian",
+          "threatening"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan\u2019s property sector looks strong. So why are investors going abroad?",
+        "description": "When it comes to the performance of real estate markets in the Asia-Pacific, Japan reigns supreme. Asia\u2019s second largest economy is the deepest, most widely traded, and the safest market in the region. Last year, Japan accounted for 28 per cent of direct investment in Asia-Pacific commercial real es",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3357114/japans-property-sector-looks-strong-so-why-are-investors-going-abroad",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-15T21:30:05+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "financial important keyword match: economy"
+          },
+          {
+            "points": -5,
+            "reason": "Opinion detected"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "going",
+          "strong",
+          "property",
+          "abroad",
+          "investors"
         ]
       }
     ],
@@ -1230,11 +1156,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "software",
+          "admits",
+          "agrees",
           "asx",
-          "misleading",
           "million",
-          "a205"
+          "penalty"
         ]
       },
       {
@@ -1261,11 +1187,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "probes",
-          "lendlease",
+          "auditor",
           "change",
-          "kpmg",
-          "regulator"
+          "lendlease",
+          "probes",
+          "kpmg"
         ]
       }
     ],
@@ -1299,66 +1225,10 @@
         "alternates": [],
         "topicFingerprint": [
           "crises",
-          "agreement",
-          "future",
+          "leaders",
           "prevent",
-          "brazil"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Franco-German group unveils new battle tank at Eurosatory defence fair",
-        "description": "Franco-German defence group KNDS on Monday unveiled a new battle tank at the Eurosatory defence industry exhibition near Paris, a week after the two European countries dropped their \u200bjoint FCAS fighter jet programme.",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/france/20260615-franco-german-defence-group-unveils-new-battle-tank-eurosatory-exhibition",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-15T13:51:44+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Franco-German KNDS launches new tank for France as joint project lags",
-            "description": "PARIS, June 15 - Defence group KNDS launched a new battle tank on Monday as a stopgap replacement for France's ageing Leclerc fleet, as questions grow over the future of a long-delayed joint French and German project to develop a next-generation tank.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/knds-unveils-new-tank-for-france-as-joint-franco-german-project-lags",
-            "category": "Geopolitics",
-            "publishedAt": "2026-06-15T20:40:03+08:00",
-            "score": 6,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "battle",
-              "defence",
-              "franco",
-              "tank"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "german",
-          "battle",
-          "defence",
-          "franco",
-          "tank"
+          "brazil",
+          "pandemic"
         ]
       }
     ],
@@ -1399,50 +1269,15 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gulf",
-          "protect",
           "explained",
-          "india",
-          "seafarers"
+          "protect",
+          "gulf",
+          "seafarers",
+          "india"
         ]
       }
     ],
     "singapore": [
-      {
-        "title": "Foundation Healthcare plans to file IPO in Singapore soon",
-        "description": "It is seeking to raise as much as $500 million in the IPO.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/foundation-healthcare-said-to-be-planning-to-file-ipo-prospectus-in-singapore-soon",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-15T17:27:00+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ipo",
-          "singapore",
-          "soon",
-          "plans",
-          "file"
-        ]
-      },
       {
         "title": "Singapore to offer OTC gold clearing, central bank vaulting by end-2026 amid gold-hub push",
         "description": "SGX is also exploring the relaunch of a physically deliverable gold futures contract",
@@ -1476,10 +1311,41 @@
         "alternates": [],
         "topicFingerprint": [
           "singapore",
-          "offer",
-          "hub",
           "vaulting",
+          "clearing",
+          "offer",
           "push"
+        ]
+      },
+      {
+        "title": "Foundation Healthcare plans to file IPO in Singapore soon",
+        "description": "It is seeking to raise as much as $500 million in the IPO.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/foundation-healthcare-said-to-be-planning-to-file-ipo-prospectus-in-singapore-soon",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-15T17:27:00+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singapore",
+          "plans",
+          "soon",
+          "file",
+          "foundation"
         ]
       }
     ]
