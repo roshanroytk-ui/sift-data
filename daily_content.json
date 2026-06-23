@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T21:06:21.222157",
+  "updatedAt": "2026-06-23T22:19:20.235150",
   "insight": {
     "title": "Why City Streets Are Often Angled at 45 Degrees",
     "subtitle": "A centuries-old desire for sunlight and airflow still dictates the orientation of our modern neighborhoods.",
@@ -26,24 +26,47 @@
   },
   "news": [
     {
-      "title": "\u2018Bibi is hysterical\u2019: Israel worried over US boosting Iran's strength in Lebanon",
-      "description": "The 14-point memorandum of understanding, signed by the US and Iran last week, includes a cessation of hostilities in Lebanon.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/bibi-is-hysterical-israel-worried-us-iran-talks-mou-lebanon-hezbollah-netanyahu-trump-ceasefire-101782205611741.html",
-      "category": "General",
+      "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+      "description": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 7,
-      "why": "Middle East security dynamics are shifting with new accords.",
-      "context": "The US and Iran signed a deal including a ceasefire in Lebanon. Israel fears this empowers Iran and raises security concerns.",
-      "next": "Regional conflicts could reshape alliances and policy.",
-      "bigger": "Geopolitical alliances are increasingly complex and fluid.",
-      "publishedAt": "2026-06-23T14:57:01+05:30",
+      "score": 17,
+      "why": "Global shipping could face significant delays and higher costs.",
+      "context": "UN began evacuating sailors stranded in the Strait of Hormuz. Iran had closed the vital waterway due to conflict.",
+      "next": "More international efforts may focus on reopening critical shipping routes.",
+      "bigger": "Geopolitical conflicts increasingly threaten global trade and logistics.",
+      "publishedAt": "2026-06-23T21:00:32+00:00",
       "topicFingerprint": [
-        "worried",
-        "israel",
-        "hysterical",
-        "bibi",
-        "iran"
+        "iran",
+        "donald_trump",
+        "war",
+        "us_entity",
+        "strait",
+        "hormuz"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Global farming, Chinese food imports at stake as El Nino threatens drought",
+      "description": "A dry, hot El Nino climate pattern is threatening agriculture in much of the world, the United Nations\u2019 Food and Agriculture Organization (FAO) said, while an analyst warned of a possible challenge to China\u2019s food supplies. The \u201csharpest\u201d El Nino risks would occur in parts of Southeast Asia, South A",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/global-economy/article/3358030/global-farming-chinese-food-imports-stake-el-nino-threatens-drought",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Global food prices may rise due to reduced harvests.",
+      "context": "El Nino threatens global agriculture with widespread drought conditions. Chinese food imports face challenges due to this.",
+      "next": "Countries may implement measures to secure food supplies and manage prices.",
+      "bigger": "Climate change impacts intensify risks to global food security.",
+      "publishedAt": "2026-06-23T11:30:06+00:00",
+      "topicFingerprint": [
+        "threatens",
+        "stake",
+        "imports",
+        "nino",
+        "food"
       ],
       "alternates": []
     },
@@ -55,17 +78,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 21,
-      "why": "Your investment portfolio values may see broader declines.",
-      "context": "A sell-off in US AI stocks caused global market losses. Investors questioned high AI valuations and spending.",
-      "next": "Tech stock valuations may undergo further re-evaluation.",
-      "bigger": "The tech sector faces a critical period of market correction.",
+      "why": "Investor confidence in AI growth prospects may decrease.",
+      "context": "A US AI stock sell-off spread globally, shaking markets. Investors questioned high AI valuations and spending.",
+      "next": "AI sector valuations may be re-evaluated, leading to further market volatility.",
+      "bigger": "Tech market volatility reflects concerns over rapid sector growth.",
       "publishedAt": "2026-06-23T14:16:24+00:00",
       "topicFingerprint": [
-        "tech",
         "ai_group",
-        "sell",
+        "tech",
+        "street",
         "wall",
-        "street"
+        "investors"
       ],
       "alternates": [
         {
@@ -78,37 +101,15 @@
           "score": 17,
           "readingTime": 2,
           "topicFingerprint": [
-            "tech",
             "ai_group",
-            "sell",
+            "tech",
+            "street",
             "wall",
-            "street"
+            "investors"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Armed Conflict, Funding Cuts and Supply Chain Pressures Deepen Global Hunger Risks",
-      "description": "Armed conflict, economic shocks, and climate pressures are driving worsening food insecurity across many of the world s most vulnerable regions, according to the latest Hunger Hotspots report outlook for June-November 2026, jointly released by the World Food Programme (WFP) and the Food and Agricult",
-      "source": "Inter Press Service",
-      "url": "https://www.ipsnews.net/2026/06/armed-conflict-funding-cuts-and-supply-chain-pressures-deepen-global-hunger-risks/",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Food availability and affordability may worsen for many.",
-      "context": "Global hunger risks are deepening due to conflict, funding cuts, and supply chain issues. Vulnerable regions face worsening food insecurity.",
-      "next": "More humanitarian aid may be urgently required worldwide.",
-      "bigger": "Global food systems face increasing stress from multiple crises.",
-      "publishedAt": "2026-06-23T06:44:08+00:00",
-      "topicFingerprint": [
-        "funding",
-        "cuts",
-        "armed",
-        "hunger",
-        "pressures"
-      ],
-      "alternates": []
     },
     {
       "title": "Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz",
@@ -117,63 +118,19 @@
       "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
       "category": "Economy",
       "readingTime": 2,
-      "score": 22,
-      "why": "Your fuel and transport costs may remain unpredictable.",
-      "context": "Oil prices edged lower as markets watched Strait of Hormuz traffic. Investors also hoped for Middle East de-escalation.",
-      "next": "Geopolitical events will continue influencing energy markets.",
-      "bigger": "Energy security remains vulnerable to regional instability.",
+      "score": 20,
+      "why": "Your fuel costs may stabilize or slightly decrease soon.",
+      "context": "Oil prices edged lower as markets monitored Strait of Hormuz traffic. Investors hope the Middle East conflict may end.",
+      "next": "Oil markets will remain sensitive to geopolitical developments in the region.",
+      "bigger": "Geopolitical stability heavily influences global energy market prices.",
       "publishedAt": "2026-06-23T19:13:19+00:00",
       "topicFingerprint": [
         "iran",
         "donald_trump",
         "war",
         "us_entity",
-        "nuclear",
-        "senate"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Global farming, Chinese food imports at stake as El Nino threatens drought",
-      "description": "A dry, hot El Nino climate pattern is threatening agriculture in much of the world, the United Nations\u2019 Food and Agriculture Organization (FAO) said, while an analyst warned of a possible challenge to China\u2019s food supplies. The \u201csharpest\u201d El Nino risks would occur in parts of Southeast Asia, South A",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/global-economy/article/3358030/global-farming-chinese-food-imports-stake-el-nino-threatens-drought",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Your grocery bills may rise due to crop shortages.",
-      "context": "El Nino is threatening global agriculture with drought. This could impact farming and Chinese food imports.",
-      "next": "Global food supply chains could face significant disruptions.",
-      "bigger": "Climate change impacts are increasingly affecting food security.",
-      "publishedAt": "2026-06-23T11:30:06+00:00",
-      "topicFingerprint": [
-        "imports",
-        "nino",
-        "farming",
-        "stake",
-        "food"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
-      "description": "Fran\u00e7ois Picard is pleased to welcome Wayne Jordash, President of Global Rights Compliance Foundation. He argues that the European Union's approach to alumina exports exposes a fundamental flaw: while seeking to constrain Russia's military-industrial capabilities through sanctions, European authorit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Sanction enforcement loopholes may enable ongoing conflict.",
-      "context": "An Irish company is accused of aiding crimes by supplying alumina to Russia. This highlights an EU sanctions policy flaw.",
-      "next": "Sanctions regimes may face increased scrutiny and revisions.",
-      "bigger": "Wartime economies are exploiting complex international supply chains.",
-      "publishedAt": "2026-06-23T17:26:00+00:00",
-      "topicFingerprint": [
-        "assisting",
-        "alumina",
-        "russia",
-        "ukraine",
-        "crimes"
+        "strait",
+        "hormuz"
       ],
       "alternates": []
     },
@@ -185,166 +142,170 @@
       "category": "Health",
       "readingTime": 2,
       "score": 9,
-      "why": "Disease outbreaks in Africa may become harder to contain.",
-      "context": "DR Congo reported a record 1,000 Ebola cases in one month. Kenya halted a US-backed Ebola quarantine center.",
-      "next": "International health organizations may deploy more resources.",
-      "bigger": "Global health systems face ongoing threats from emerging pathogens.",
+      "why": "Regional public health systems may face increased strain.",
+      "context": "DR Congo reported a record 1,000 Ebola cases in one month. Kenya halted a US-backed Ebola quarantine program.",
+      "next": "More international aid may be deployed to contain the growing outbreak.",
+      "bigger": "Disease outbreaks remain a persistent, significant global health threat.",
       "publishedAt": "2026-06-23T18:48:00+00:00",
       "topicFingerprint": [
-        "congo",
-        "ebola",
         "outbreak",
+        "ebola",
+        "congo",
         "cases",
         "month"
       ],
       "alternates": []
     },
     {
-      "title": "Trump to announce $17.5 billion loan plan for Westinghouse nuclear reactors; key details here",
-      "description": "Trump plans $17.5 billion in loans for Westinghouse AP1000 reactors, boosting US nuclear energy, power supply and AI-driven electricity demand.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/trump-to-announce-17-5-billion-loan-plan-for-westinghouse-nuclear-reactors-101782223897744.html",
-      "category": "Geopolitics",
+      "title": "New Lebanon-Israel talks to begin, in shadow of US-Iran deal",
+      "description": "The US-Iran deal on Jun 17 stipulated an end to fighting across all fronts, including Lebanon",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/new-lebanon-israel-talks-begin-shadow-us-iran-deal",
+      "category": "General",
       "readingTime": 2,
-      "score": 16,
-      "why": "US energy supply may become more stable and resilient.",
-      "context": "Trump plans $17.5 billion in loans for Westinghouse nuclear reactors. This aims to boost US nuclear energy and power supply.",
-      "next": "Investment in nuclear energy infrastructure could significantly increase.",
-      "bigger": "Nations are prioritizing energy security and diversifying sources.",
-      "publishedAt": "2026-06-23T20:15:33+05:30",
+      "score": 7,
+      "why": "Regional tensions could ease, improving stability and security.",
+      "context": "New Lebanon-Israel talks are set to begin. This follows a US-Iran deal to end fighting.",
+      "next": "Diplomatic efforts will continue to solidify peace agreements in the region.",
+      "bigger": "International diplomacy plays a crucial role in de-escalating conflicts.",
+      "publishedAt": "2026-06-23T06:49:11+00:00",
       "topicFingerprint": [
+        "shadow",
+        "lebanon",
+        "begin",
         "iran",
-        "donald_trump",
-        "war",
-        "us_entity",
-        "nuclear",
-        "senate"
-      ],
-      "alternates": [
-        {
-          "title": "U.S. energy secretary announces $17.5 billion in loans for 10 new large nuclear reactors",
-          "description": "The Trump administration is providing $17.5 billion to speed the development of 10 new large nuclear reactors to meet the skyrocketing power demand from massive data centers. T",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/u-s-energy-secretary-announces-17-5-billion-in-loans-for-10-new-large-nuclear-reactors",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-23T14:01:38-04:00",
-          "score": 15,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "donald_trump",
-            "war",
-            "us_entity",
-            "nuclear",
-            "senate"
-          ],
-          "group_id": 2
-        }
-      ]
-    },
-    {
-      "title": "US Supreme Court backs Trump policy on green card holder rights",
-      "description": "Court rules 6-3 that suspicion alone justifies placing green card holders on immigration parole at border crossings.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Green card holders entering the US may face increased scrutiny.",
-      "context": "The US Supreme Court backed a Trump policy. Green card holders can be paroled at borders based on mere suspicion.",
-      "next": "US immigration policies may become stricter for non-citizens.",
-      "bigger": "National immigration policies are becoming more restrictive globally.",
-      "publishedAt": "2026-06-23T18:24:26+00:00",
-      "topicFingerprint": [
-        "immigration",
-        "card",
-        "holders",
-        "supreme",
-        "green"
-      ],
-      "alternates": [
-        {
-          "title": "Green Card alert: Trump administration's big win on immigration case dealing with lawful permanent resident",
-          "description": "Green Card alert: The Supreme Court ruled 6-3 in favor of the Trump administration on immigration parole for green card holders.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/green-card-alert-trump-administrations-big-win-on-immigration-case-dealing-with-lawful-permanent-resident-muk-choi-lau-101782235426468.html",
-          "category": "Policy",
-          "publishedAt": "2026-06-23T23:05:22+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "immigration",
-            "card",
-            "holders",
-            "supreme",
-            "green"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "U.S. fights with Brazil for China's giant soybean market",
-      "description": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Global trade dynamics for key commodities are shifting.",
-      "context": "The US is competing with Brazil for China's large soybean market. US farmers emphasize quality to win back business.",
-      "next": "Agricultural trade relationships between nations may intensify.",
-      "bigger": "Geopolitical competition is increasingly impacting global trade.",
-      "publishedAt": "2026-06-23T09:43:57+00:00",
-      "topicFingerprint": [
-        "soybean",
-        "giant",
-        "brazil",
-        "fights",
-        "us_entity"
+        "israel"
       ],
       "alternates": []
     },
     {
-      "title": "US slaps new sanctions on Cuban companies key to island's crumbling economy",
-      "description": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/us-slaps-new-sanctions-cuban-companies-key-islands-134138588",
-      "category": "Financial",
+      "title": "Digital euro clears key hurdle as EU seeks to break free from US credit cards",
+      "description": "[FRANKFURT] The European Central Bank (ECB) secured key parliamentary backing on Tuesday (Jun 23) for the launch of a digital euro, an...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/digital-euro-clears-key-hurdle-eu-seeks-break-free-us-credit-cards",
+      "category": "General",
       "readingTime": 2,
-      "score": 16,
-      "why": "Cuba's economic crisis may deepen, affecting its citizens.",
-      "context": "The US imposed new sanctions on key Cuban companies. This aims to spook investors and deepen Cuba's economic crisis.",
-      "next": "Foreign investment in Cuba may further decline or halt.",
-      "bigger": "Sanctions remain a powerful tool in international diplomacy.",
-      "publishedAt": "2026-06-23T13:18:19-04:00",
+      "score": 7,
+      "why": "European digital payment options may become more diverse.",
+      "context": "The European Central Bank received backing for a digital euro. This aims to reduce reliance on US credit cards.",
+      "next": "Further legislative steps and technical development are needed before launch.",
+      "bigger": "Central banks are exploring digital currencies for financial independence.",
+      "publishedAt": "2026-06-23T11:29:02+00:00",
       "topicFingerprint": [
-        "slaps",
-        "foreign",
-        "expected",
-        "sanctions",
-        "investors"
+        "clears",
+        "digital",
+        "cards",
+        "hurdle",
+        "seeks"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "U.S. energy secretary announces $17.5 billion in loans for 10 new large nuclear reactors",
+      "description": "The Trump administration is providing $17.5 billion to speed the development of 10 new large nuclear reactors to meet the skyrocketing power demand from massive data centers. T",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/u-s-energy-secretary-announces-17-5-billion-in-loans-for-10-new-large-nuclear-reactors",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 13,
+      "why": "US energy supply will become more reliable for large consumers.",
+      "context": "US announced $17.5 billion in loans for 10 new nuclear reactors. This aims to meet soaring power demand.",
+      "next": "Construction and regulatory approvals for new nuclear plants will accelerate.",
+      "bigger": "Governments invest in nuclear power to meet growing energy needs.",
+      "publishedAt": "2026-06-23T14:01:38-04:00",
+      "topicFingerprint": [
+        "energy",
+        "billion",
+        "reactors",
+        "power",
+        "loans"
       ],
       "alternates": [
         {
-          "title": "U.S slaps new sanctions on Cuban companies key to island's economy",
-          "description": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/u-s-slaps-new-sanctions-on-cuban-companies-key-to-islands-economy",
-          "category": "Financial",
-          "publishedAt": "2026-06-23T14:06:47-04:00",
-          "score": 16,
+          "title": "Trump to announce $17.5 billion loan plan for Westinghouse nuclear reactors; key details here",
+          "description": "Trump plans $17.5 billion in loans for Westinghouse AP1000 reactors, boosting US nuclear energy, power supply and AI-driven electricity demand.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/trump-to-announce-17-5-billion-loan-plan-for-westinghouse-nuclear-reactors-101782223897744.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-23T20:15:33+05:30",
+          "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "slaps",
-            "foreign",
-            "expected",
-            "sanctions",
-            "investors"
+            "energy",
+            "billion",
+            "reactors",
+            "power",
+            "loans"
           ],
           "group_id": 0
         }
       ]
+    },
+    {
+      "title": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/us-presses-meta-agree-ai-reviews-security-concerns-rise-nyt-reports-6204916",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 18,
+      "why": "Meta's AI product development may face increased scrutiny.",
+      "context": "US authorities are reportedly pressing Meta to agree to AI reviews. This comes amidst rising security concerns.",
+      "next": "Tech companies may face stricter regulations on AI development.",
+      "bigger": "Governments are increasing oversight on emerging AI technologies.",
+      "publishedAt": "2026-06-24T05:38:59+08:00",
+      "topicFingerprint": [
+        "ai_group",
+        "enterprise",
+        "security",
+        "models",
+        "anthropic"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
+      "description": "Fran\u00e7ois Picard is pleased to welcome Wayne Jordash, President of Global Rights Compliance Foundation. He argues that the European Union's approach to alumina exports exposes a fundamental flaw: while seeking to constrain Russia's military-industrial capabilities through sanctions, European authorit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Companies involved in trade with Russia may face increased scrutiny.",
+      "context": "An Irish company is accused of supplying Russia with alumina. This highlights an EU export policy loophole.",
+      "next": "EU may tighten sanctions or export controls on critical materials.",
+      "bigger": "War efforts reveal gaps in international sanctions enforcement.",
+      "publishedAt": "2026-06-23T17:26:00+00:00",
+      "topicFingerprint": [
+        "ukraine",
+        "commission",
+        "assisting",
+        "crimes",
+        "supplying"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "U.S slaps new sanctions on Cuban companies key to island's economy",
+      "description": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/u-s-slaps-new-sanctions-on-cuban-companies-key-to-islands-economy",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Cuba's economy may face deeper crisis and reduced foreign investment.",
+      "context": "US imposed new sanctions on key Cuban companies. This could deter foreign investors and worsen Cuba's economy.",
+      "next": "Cuba may seek alternative economic partners or adjust domestic policies.",
+      "bigger": "Sanctions remain a key tool in international foreign policy.",
+      "publishedAt": "2026-06-23T14:06:47-04:00",
+      "topicFingerprint": [
+        "slaps",
+        "cuban",
+        "sanctions",
+        "island",
+        "us_entity"
+      ],
+      "alternates": []
     },
     {
       "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
@@ -354,17 +315,17 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 13,
-      "why": "Your personal data held by tech companies may be at risk.",
-      "context": "Tata Electronics, a major tech supplier, confirmed a data breach. This occurred as it expands in global supply chains.",
-      "next": "Tech companies may increase investment in cybersecurity measures.",
-      "bigger": "Supply chain vulnerabilities are a growing concern for tech giants.",
+      "why": "Data security for global tech supply chains faces new risks.",
+      "context": "Tata Electronics, a major tech supplier, confirmed a data breach. The incident occurred during its supply chain expansion.",
+      "next": "Companies may review their cybersecurity protocols for supplier networks.",
+      "bigger": "Cybersecurity threats increasingly target critical supply chain infrastructure.",
       "publishedAt": "2026-06-22T19:25:00+00:00",
       "topicFingerprint": [
-        "tata",
-        "apple",
-        "tesla",
         "breach",
-        "electronics"
+        "electronics",
+        "tesla",
+        "apple",
+        "tech"
       ],
       "alternates": [
         {
@@ -374,14 +335,14 @@
           "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/indias-tata-electronics-hit-cyber-breach-claiming-expose-apple-tesla-trade-secrets",
           "category": "Technology",
           "publishedAt": "2026-06-23T09:54:50+00:00",
-          "score": 11,
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "tata",
-            "apple",
-            "tesla",
             "breach",
-            "electronics"
+            "electronics",
+            "tesla",
+            "apple",
+            "tech"
           ],
           "group_id": 0
         }
@@ -390,6 +351,28 @@
   ],
   "candidatePool": [
     {
+      "title": "U.S. fights with Brazil for China's giant soybean market",
+      "description": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Global agricultural trade competition is intensifying among major producers.",
+      "context": "US and Brazil are competing fiercely for China's soybean market. US farmers aim to regain market share.",
+      "next": "Soybean exporters will continue to differentiate their products and pricing.",
+      "bigger": "Geopolitics and trade policies shape global agricultural markets.",
+      "publishedAt": "2026-06-23T09:43:57+00:00",
+      "topicFingerprint": [
+        "fights",
+        "soybean",
+        "giant",
+        "brazil",
+        "china_entity"
+      ],
+      "alternates": []
+    },
+    {
       "title": "Trump's America faces global side-eye",
       "description": "Data: Pew Research Center ; Chart: Danielle Alberti/Axios The U.S. is losing standing abroad as President Trump's foreign policy fuels doubts about whether America can still be counted on, according to new polling. Why it matters: The Pew Research Center findings capture how Trump's second-term appr",
       "source": "Axios",
@@ -397,17 +380,60 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 14,
-      "why": "Global alliances and diplomatic relations could shift significantly.",
-      "context": "The US is losing global standing under Trump's foreign policy. This fuels doubts about its reliability as an ally.",
-      "next": "International cooperation on global issues may face challenges.",
-      "bigger": "Nationalist foreign policies are reshaping international relations.",
+      "why": "International partners may question US commitment and reliability.",
+      "context": "US global standing is reportedly declining under President Trump. Foreign policy decisions are raising doubts about reliability.",
+      "next": "US diplomacy may face increased skepticism on the global stage.",
+      "bigger": "Leadership changes can significantly alter a nation's global image.",
       "publishedAt": "2026-06-23T20:12:51+00:00",
       "topicFingerprint": [
-        "eye",
-        "side",
         "faces",
+        "side",
+        "eye",
         "donald_trump",
         "us_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US stock market closes lower: S&P 500 falls 1.3%, Nasdaq drops 2% as global chip sell-off hits tech stocks",
+      "description": "US stocks closed lower as a global chip sell-off hit tech shares. The S P 500 fell 1.3%, Nasdaq dropped 2%, while the Dow finished nearly flat.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/us-stock-market-closes-lower-s-p-500-falls-1-3-nasdaq-drops-2-as-global-chip-sell-off-hits-tech-stocks-101782244525460.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Investment portfolios exposed to tech stocks may see reduced value.",
+      "context": "US stock markets closed lower due to a global chip sell-off. Tech stocks were particularly hit.",
+      "next": "Investors will closely monitor tech sector performance and chip industry trends.",
+      "bigger": "Interconnected global markets mean local events can trigger widespread impacts.",
+      "publishedAt": "2026-06-24T01:49:09+05:30",
+      "topicFingerprint": [
+        "tech",
+        "sell",
+        "lower",
+        "hike",
+        "fed"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Stand Up for Research, Innovation, and Education",
+      "description": "Right now, MIT alumni and friends are voicing their support for: America\u2019s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t",
+      "source": "Mit Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Public funding and policy support for science may increase.",
+      "context": "MIT alumni are advocating for research, innovation, and education. They support US scientific leadership and affordable education.",
+      "next": "Advocates will continue pressing for policies that bolster these sectors.",
+      "bigger": "Public and private support drives national scientific advancement.",
+      "publishedAt": "2026-06-23T21:00:00+00:00",
+      "topicFingerprint": [
+        "innovation",
+        "stand",
+        "education",
+        "research"
       ],
       "alternates": []
     },
@@ -419,37 +445,15 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 12,
-      "why": "Families may soon gain improved access to affordable childcare.",
-      "context": "Politicians are now prioritizing universal childcare due to affordability and waitlist issues.",
-      "next": "Governments may allocate more funds for early childhood education.",
-      "bigger": "Social welfare policies are being re-evaluated for economic impact.",
+      "why": "Access to affordable childcare may become more widely available.",
+      "context": "Politicians are recognizing early childhood education as essential. Families have long struggled with childcare costs.",
+      "next": "Debates on effective universal childcare policies will intensify.",
+      "bigger": "Childcare is gaining recognition as critical economic infrastructure.",
       "publishedAt": "2026-06-23T10:23:00+00:00",
       "topicFingerprint": [
-        "universal",
         "childcare",
-        "screw"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax if it passes",
-      "description": "California has over 200 billionaires that could be hit by a proposed wealth tax. Several have moved assets out of the state.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "High-net-worth individuals may alter residency and investments.",
-      "context": "California's proposed wealth tax could affect over 200 billionaires. Some have already moved assets out of state.",
-      "next": "Other states may consider similar wealth tax proposals.",
-      "bigger": "Governments are seeking new ways to tax extreme wealth.",
-      "publishedAt": "2026-06-23T18:34:33+00:00",
-      "topicFingerprint": [
-        "proposed",
-        "list",
-        "plus",
-        "california",
-        "billionaires"
+        "screw",
+        "universal"
       ],
       "alternates": []
     },
@@ -461,19 +465,60 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 9,
-      "why": "Your daily routines may be disrupted by extreme weather.",
-      "context": "Hundreds of UK schools closed due to a rare red heat warning and record-breaking heatwave.",
-      "next": "Public services may need to adapt to more frequent heatwaves.",
-      "bigger": "Climate change is increasing the frequency of extreme weather events.",
+      "why": "Daily routines and public services in the UK face disruption.",
+      "context": "Hundreds of UK schools closed due to a record-breaking heatwave. A rare red heat warning was issued.",
+      "next": "UK authorities may implement more widespread heatwave preparedness measures.",
+      "bigger": "Extreme weather events increasingly impact daily life and infrastructure.",
       "publishedAt": "2026-06-24T00:00:06+08:00",
       "topicFingerprint": [
+        "heatwave",
+        "eu_entity",
         "heat",
         "temperatures",
-        "issued",
-        "red",
-        "heatwave"
+        "france"
       ],
       "alternates": []
+    },
+    {
+      "title": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
+      "description": "The US Supreme Court made it easier for US companies to seek compensation from Cuba s government for assets seized.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "US companies may find it easier to recover seized Cuban assets.",
+      "context": "US Supreme Court allowed ExxonMobil to sue Cuba over seized property. This makes compensation claims easier for US companies.",
+      "next": "More US companies may pursue legal action against the Cuban government.",
+      "bigger": "International property rights disputes continue to shape foreign relations.",
+      "publishedAt": "2026-06-23T18:35:13+00:00",
+      "topicFingerprint": [
+        "exxonmobil",
+        "castro",
+        "oks",
+        "supreme",
+        "lawsuit"
+      ],
+      "alternates": [
+        {
+          "title": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's government",
+          "description": "The 6-3 decision was the second in as many months in favor of U.S. owners of Cuban property that was confiscated by the Communist government more than 65 years ago.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-oks-exxonmobil-lawsuit-over-cuban-property-seized-by-fidel-castros-government",
+          "category": "Policy",
+          "publishedAt": "2026-06-23T11:04:51-04:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "exxonmobil",
+            "castro",
+            "oks",
+            "supreme",
+            "lawsuit"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "Supreme Court rules Rastafari man can't sue Louisiana prison officials who cut his dreadlocks",
@@ -483,16 +528,16 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Inmates' religious freedom rights may be harder to defend.",
-      "context": "The Supreme Court ruled a Rastafari man cannot sue prison officials for cutting his dreadlocks. This limits religious rights lawsuits for damages.",
-      "next": "Advocacy groups may challenge the scope of this ruling.",
-      "bigger": "Legal systems are defining limits on religious freedom protections.",
+      "why": "Inmates' ability to sue for religious rights violations is limited.",
+      "context": "Supreme Court ruled a Rastafari man cannot sue prison officials. This was for cutting his dreadlocks.",
+      "next": "Advocates for prisoners' rights may seek legislative changes.",
+      "bigger": "Legal interpretations continuously shape individual rights in custody.",
       "publishedAt": "2026-06-23T10:52:42-04:00",
       "topicFingerprint": [
         "supreme",
-        "court",
         "religious",
-        "louisiana",
+        "court",
+        "man",
         "sue"
       ],
       "alternates": [
@@ -507,9 +552,9 @@
           "readingTime": 2,
           "topicFingerprint": [
             "supreme",
-            "court",
             "religious",
-            "louisiana",
+            "court",
+            "man",
             "sue"
           ],
           "group_id": 0
@@ -525,116 +570,14 @@
           "readingTime": 2,
           "topicFingerprint": [
             "supreme",
-            "court",
             "religious",
-            "louisiana",
-            "sue"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Supreme Court rules ex-inmate can't sue prison officials for shaving dreadlocks",
-          "description": "The Supreme Court rejected a former Louisiana inmate's effort to sue state prison officials after they shaved his dreadlocks in violation of his religious beliefs.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/supreme-court-inmate-dreadlocks-landor-v-louisiana-department-of-corrections/",
-          "category": "Policy",
-          "publishedAt": "2026-06-23T13:31:27-04:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "supreme",
             "court",
-            "religious",
-            "louisiana",
-            "sue"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Supreme Court bars Rastafarian man from suing prison officials who shaved dreadlocks",
-          "description": "In a 6-3 ruling, the Supreme Court ruled that a devout Rastafari man in Louisiana can't sue the state prison officials who forcibly shaved his dreadlocks. CBS News' chief legal correspondent Jan Crawford reports on the court's most recent and upcoming cases.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/supreme-court-bars-rastafari-man-from-suing-prison-officials-who-shaved-dreadlocks/",
-          "category": "Policy",
-          "publishedAt": "2026-06-23T13:24:00-04:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "supreme",
-            "court",
-            "religious",
-            "louisiana",
+            "man",
             "sue"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Amazon Prime Day 2026 live: Best limited-time deals on tech, beauty and home products",
-      "description": "Amazon Prime Day 2026 is live through June 26, featuring Lightning Deals on tech, beauty, home products and gift cards with discounts up to 70%.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/amazon-prime-day-2026-live-best-limited-time-deals-on-tech-beauty-and-home-products-101782229202101.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 8,
-      "why": "You can find major discounts on many consumer goods now.",
-      "context": "Amazon Prime Day 2026 is live, offering significant discounts on various products until June 26.",
-      "next": "Other retailers may launch competing sales events soon.",
-      "bigger": "Major online sales events are driving consumer purchasing trends.",
-      "publishedAt": "2026-06-23T21:35:54+05:30",
-      "topicFingerprint": [
-        "prime",
-        "amazon",
-        "deals",
-        "low",
-        "watch"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "New Lebanon-Israel talks to begin, in shadow of US-Iran deal",
-      "description": "The US-Iran deal on Jun 17 stipulated an end to fighting across all fronts, including Lebanon",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/new-lebanon-israel-talks-begin-shadow-us-iran-deal",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Regional diplomatic efforts are intensifying to de-escalate conflict.",
-      "context": "New Lebanon-Israel talks are starting, following a US-Iran deal that stipulated an end to fighting in Lebanon.",
-      "next": "Peace negotiations in the Middle East may gain new momentum.",
-      "bigger": "International diplomacy seeks to manage complex regional conflicts.",
-      "publishedAt": "2026-06-23T06:49:11+00:00",
-      "topicFingerprint": [
-        "israel",
-        "shadow",
-        "iran",
-        "begin",
-        "lebanon"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-      "description": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 5,
-      "why": "International public health initiatives may face local resistance.",
-      "context": "Kenya's minister halted construction of a US-backed Ebola quarantine center, defying a court order.",
-      "next": "Diplomatic tensions between Kenya and the US could increase.",
-      "bigger": "Public health efforts can face complex political and legal hurdles.",
-      "publishedAt": "2026-06-23T11:50:36+00:00",
-      "topicFingerprint": [
-        "centre",
-        "backed",
-        "ebola",
-        "kenya",
-        "construction"
-      ],
-      "alternates": []
     }
   ],
   "regionalNewsByCountry": {
@@ -679,11 +622,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "proposed",
-          "testify",
           "plans",
-          "tariffs",
-          "bolsonaro"
+          "bolsonaro",
+          "testify",
+          "brazil",
+          "proposed"
         ]
       },
       {
@@ -715,14 +658,14 @@
             "reason": "Impact priority base match: interest"
           }
         ],
-        "group_id": 0,
+        "group_id": 4,
         "alternates": [],
         "topicFingerprint": [
-          "fed",
+          "tech",
+          "sell",
+          "lower",
           "hike",
-          "traders",
-          "bets",
-          "slip"
+          "fed"
         ]
       }
     ],
@@ -767,28 +710,42 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "proposed",
-          "testify",
           "plans",
-          "tariffs",
-          "bolsonaro"
+          "bolsonaro",
+          "testify",
+          "brazil",
+          "proposed"
         ]
-      },
+      }
+    ],
+    "india": [
       {
-        "title": "Scotland look to give Tartan Army reason to drink Miami dry after Brazil clash",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/sport/scotland-look-give-tartan-army-reason-drink-miami-dry-after-brazil-clash-6204801",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "title": "37-year-old NRI from NYC with $3M net worth seeks advice on moving back to India. Gets mixed response",
+        "description": "A $3M Indian American weighing a return to India sparked debate on Reddit, with NRIs sharing the emotional, financial and lifestyle trade-offs of moving back.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/37yearold-nri-from-nyc-with-3m-net-worth-seeks-advice-on-moving-back-to-india-gets-mixed-response-101782248706716.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-24T04:38:28+08:00",
+        "publishedAt": "2026-06-24T02:53:11+05:30",
         "reason": "within_48h",
-        "score": 5,
+        "score": 10,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
           {
             "points": 4,
             "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
           },
           {
             "points": 1,
@@ -798,11 +755,62 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "look",
-          "scotland",
-          "clash",
-          "tartan",
-          "army"
+          "advice",
+          "worth",
+          "india",
+          "old",
+          "nyc"
+        ]
+      },
+      {
+        "title": "Indian startup ecosystem may have a reason to cheer in Andy Burnham's road to Downing Street",
+        "description": "Long before his name began featuring in discussions around 10 Downing Street, Burnham had identified Bengaluru and India's technology sector as key partners in his vision to transform Manchester into a global innovation hub.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/indian-startup-ecosystem-may-have-a-reason-to-cheer-in-andy-burnhams-road-to-downing-street-19930773.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-23T17:53:45+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: innovation"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "andy",
+          "downing",
+          "cheer",
+          "burnham",
+          "road"
         ]
       }
     ],
@@ -847,11 +855,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "apple",
-          "lawsuit",
+          "icloud",
           "uk_entity",
+          "lawsuit",
           "ahead",
-          "icloud"
+          "apple"
         ]
       },
       {
@@ -899,10 +907,10 @@
         "alternates": [],
         "topicFingerprint": [
           "changed",
-          "uk_entity",
+          "charts",
+          "brexit",
           "years",
-          "politics",
-          "brexit"
+          "politics"
         ]
       }
     ],
@@ -939,11 +947,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "worry",
-          "less",
           "summoning",
+          "beijing",
+          "less",
           "executives",
-          "beijing"
+          "causing"
         ]
       },
       {
@@ -975,10 +983,10 @@
         "alternates": [],
         "topicFingerprint": [
           "app",
+          "store",
           "apple",
-          "details",
-          "developers",
-          "store"
+          "antitrust",
+          "file"
         ]
       }
     ],
@@ -1019,11 +1027,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "survey",
-          "employers",
-          "list",
-          "sought",
-          "dbs"
+          "tops",
+          "graduates",
+          "fresh",
+          "dbs",
+          "survey"
         ]
       },
       {
@@ -1054,130 +1062,15 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "growing",
-          "list",
           "joins",
-          "others",
-          "cutting"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Australia refuses release of climate fund reports for Pacific nation Tuvalu",
-        "description": "Australia has refused to release internal papers about a trust fund for a climate-vulnerable Pacific nation, telling Agence France-Presse (AFP) that the documents could inflict diplomatic \u201cdamage\u201d. Gravely threatened by rising seas, low-lying island nation Tuvalu relies on a US$200 million trust fun",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/australasia/article/3358071/australia-refuses-release-climate-fund-reports-pacific-nation-tuvalu",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T09:47:43+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "nation",
-          "fund",
-          "release",
-          "pacific",
-          "australia"
-        ]
-      },
-      {
-        "title": "Australian shares fall for fourth day as miners, tech drag",
-        "description": "Tech stocks fell 4 per cent",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/australian-shares-fall-fourth-day-miners-tech-drag",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T08:18:01+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 11,
-        "alternates": [],
-        "topicFingerprint": [
-          "tech",
-          "ai_group",
-          "sell",
-          "wall",
-          "street"
+          "growing",
+          "cutting",
+          "jobs",
+          "list"
         ]
       }
     ],
     "europe": [
-      {
-        "title": "Digital euro clears key hurdle as EU seeks to break free from US credit cards",
-        "description": "[FRANKFURT] The European Central Bank (ECB) secured key parliamentary backing on Tuesday (Jun 23) for the launch of a digital euro, an...",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/international/digital-euro-clears-key-hurdle-eu-seeks-break-free-us-credit-cards",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T11:29:02+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "digital",
-          "seeks",
-          "eu_entity",
-          "free",
-          "clears"
-        ]
-      },
       {
         "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
         "description": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
@@ -1200,89 +1093,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
-            "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
-            "source": "ABC News",
-            "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
-            "category": "General",
-            "publishedAt": "2026-06-23T06:10:10-04:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "eu_entity",
-              "taliban",
-              "deportations",
-              "closed",
-              "meeting"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "eu_entity",
-          "taliban",
-          "deportations",
-          "closed",
-          "meeting"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Indian startup ecosystem may have a reason to cheer in Andy Burnham's road to Downing Street",
-        "description": "Long before his name began featuring in discussions around 10 Downing Street, Burnham had identified Bengaluru and India's technology sector as key partners in his vision to transform Manchester into a global innovation hub.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/indian-startup-ecosystem-may-have-a-reason-to-cheer-in-andy-burnhams-road-to-downing-street-19930773.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T17:53:45+05:30",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: technology"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: innovation"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 1,
             "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "street",
-          "startup",
-          "ecosystem",
-          "indian",
-          "cheer"
+          "meeting",
+          "deportations",
+          "eu_entity",
+          "taliban",
+          "criticized"
         ]
       },
       {
@@ -1342,10 +1163,10 @@
         "alternates": [],
         "topicFingerprint": [
           "northeast",
+          "india",
           "betting",
-          "eu_entity",
-          "story",
-          "india"
+          "growth",
+          "story"
         ]
       }
     ],
@@ -1376,17 +1197,136 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "city",
+          "french",
           "heat",
           "hell",
-          "city",
-          "battles",
-          "earth"
+          "record"
+        ]
+      },
+      {
+        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
+        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T07:51:00-04:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: nato"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "plans",
+          "knds",
+          "germany",
+          "leopard",
+          "tank"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australia refuses release of climate fund reports for Pacific nation Tuvalu",
+        "description": "Australia has refused to release internal papers about a trust fund for a climate-vulnerable Pacific nation, telling Agence France-Presse (AFP) that the documents could inflict diplomatic \u201cdamage\u201d. Gravely threatened by rising seas, low-lying island nation Tuvalu relies on a US$200 million trust fun",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/australasia/article/3358071/australia-refuses-release-climate-fund-reports-pacific-nation-tuvalu",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-06-23T09:47:43+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "release",
+          "fund",
+          "australia",
+          "refuses",
+          "pacific"
+        ]
+      },
+      {
+        "title": "Australian shares fall for fourth day as miners, tech drag",
+        "description": "Tech stocks fell 4 per cent",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/australian-shares-fall-fourth-day-miners-tech-drag",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-23T08:18:01+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 11,
+        "alternates": [],
+        "topicFingerprint": [
+          "ai_group",
+          "tech",
+          "street",
+          "wall",
+          "investors"
         ]
       }
     ],
@@ -1423,11 +1363,95 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "sign",
-          "arctic",
           "billion",
-          "horizon",
-          "australia"
+          "arctic",
+          "australia",
+          "canada",
+          "sign"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Germany rail network comes to complete halt due to IT malfunction",
+        "description": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-23T22:06:47+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: nationwide"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "due",
+          "rail",
+          "halt",
+          "germany",
+          "malfunction"
+        ]
+      },
+      {
+        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
+        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T07:51:00-04:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: nato"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "plans",
+          "knds",
+          "germany",
+          "leopard",
+          "tank"
         ]
       }
     ],
@@ -1464,11 +1488,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "libya",
-          "italy",
           "activists",
           "release",
-          "detained"
+          "italy",
+          "detained",
+          "flotilla"
         ]
       },
       {
@@ -1511,50 +1535,15 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "jet",
           "italy",
           "project",
+          "gcap",
           "nations",
           "join"
         ]
       }
     ],
     "south_korea": [
-      {
-        "title": "Singapore-based activist fund targets Samsung S1 corp in test of S. Korean governance reforms",
-        "description": "Flashlight Capital Partners is seeking changes to the board of Samsung affiliate S1 Corp.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/singapore-based-activist-fund-targets-samsung-s1-corp-in-test-of-s-korean-governance-reforms",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T17:17:00+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "corp",
-          "activist",
-          "test",
-          "reforms",
-          "fund"
-        ]
-      },
       {
         "title": "Former South Korean justice minister gets 25 years for role in martial law",
         "description": "Former South Korean Justice Minister Park Sung-jae was sentenced to 25 years for his role in former President Yoon Suk Yeol's failed martial law attempt.",
@@ -1587,11 +1576,42 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "role",
           "former",
-          "law",
-          "justice",
-          "years",
-          "korean"
+          "martial",
+          "korean",
+          "years"
+        ]
+      },
+      {
+        "title": "Singapore-based activist fund targets Samsung S1 corp in test of S. Korean governance reforms",
+        "description": "Flashlight Capital Partners is seeking changes to the board of Samsung affiliate S1 Corp.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/singapore-based-activist-fund-targets-samsung-s1-corp-in-test-of-s-korean-governance-reforms",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-23T17:17:00+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "test",
+          "samsung",
+          "korean",
+          "activist",
+          "fund"
         ]
       }
     ]
