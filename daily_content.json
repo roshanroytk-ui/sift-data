@@ -1,70 +1,204 @@
 {
-  "updatedAt": "2026-06-22T22:34:22.806405",
+  "updatedAt": "2026-06-23T00:04:11.092324",
   "insight": {
-    "title": "Why Complicated Explanations Usually Hide a Lack of Knowledge",
-    "subtitle": "How to spot when someone is covering up what they do not know",
-    "notificationHook": "Complexity is often a shield for ignorance",
-    "readingTime": 3,
+    "title": "Why City Streets Are Often Angled at 45 Degrees",
+    "subtitle": "A centuries-old desire for sunlight and airflow still dictates the orientation of our modern neighborhoods.",
+    "notificationHook": "Why streets are often tilted",
+    "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "When ancient cartographers reached the edge of their known world, they didn\u2019t leave blank spaces. Instead, they drew terrifying sea monsters. They used dramatic illustrations to disguise their lack of actual information."
+        "text": "When you walk through grid-patterned cities like New York or Chicago, you\u2019ll notice many blocks aren\u2019t perfectly aligned north-to-south. Instead, they tilt at an angle, skewing the city\u2019s footprint against the compass."
       },
       {
         "type": "paragraph",
-        "text": "We do the exact same thing today. When people don\u2019t understand a project, market, or problem, they rarely admit it. Instead, they use dense jargon and over-complicated plans to shield themselves."
+        "text": "This wasn't an accident or a surveyor\u2019s mistake. Architects in the 19th century intentionally angled street grids to ensure that sunlight could reach the lower floors of buildings, preventing the \"canyon effect\" of permanent shadows."
       },
       {
         "type": "paragraph",
-        "text": "This means complexity is often a defensive reaction, not a sign of expertise. True mastery simplifies; insecurity overcomplicates to prevent you from asking questions that might expose their lack of depth."
+        "text": "By tilting the grid, city planners maximized the hours of direct solar exposure on both sides of the street. This subtle geometry remains the reason your apartment gets light at specific times each day."
       },
       {
         "type": "paragraph",
-        "text": "Try this today: When you hear someone use heavy jargon today, look for the blank space they are hiding."
-      },
-      {
-        "type": "paragraph",
-        "text": "The next time someone confuses you, remember they might just be drawing dragons."
+        "text": "The sun doesn't follow the grid, so the grid followed the sun."
       }
-    ],
-    "debug": {
-      "date": "2026-06-22",
-      "day_index": 173,
-      "weekday": 0,
-      "topic_index": 5,
-      "topic": "human behavior",
-      "theme_index": 2,
-      "theme_family": "historical lessons",
-      "content_index": 3,
-      "content_type": "contrarian idea",
-      "tone_index": 3,
-      "tone": "a practical real-world insight",
-      "opening_index": 3,
-      "opening_style": "start with a relatable everyday situation",
-      "angle_index": 1,
-      "angle": "focus on a hidden pattern in everyday life"
-    }
+    ]
   },
   "news": [
     {
-      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "description": "Ukraine has intensified its drone attacks on the Russian-controlled territory of Crimea, prompting a fuel shortage on the peninsula. The campaign has prompted officials there to halt gasoline sales to the public and has caused a larger threat to Russia's fleet in the Black Sea. FRANCE 24's Monte Fra",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainian-attacks-prompt-russian-held-crimea-to-halt-civilian-gasoline-sales",
-      "category": "General",
+      "title": "European shares close higher on US-Iran talks; UK\u2019s Starmer resigns",
+      "description": "The benchmark Stoxx index hit a record high last week on optimism over Middle East peace talks",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-close-higher-us-iran-talks-uks-starmer-resigns",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 6,
-      "why": "Crimean residents will face severe travel restrictions.",
-      "context": "Ukraine's drone attacks on Russian-controlled Crimea caused fuel shortages. Officials halted gasoline sales to civilians on the peninsula.",
-      "next": "Fuel supplies to Crimea may remain disrupted as attacks continue.",
-      "bigger": "Geopolitical conflicts can directly disrupt essential civilian services.",
-      "publishedAt": "2026-06-22T18:42:18+00:00",
+      "score": 16,
+      "why": "Your fuel and heating costs may soon decrease.",
+      "context": "European stock markets surged following progress in diplomatic talks between the US and Iran.",
+      "next": "Diplomatic negotiations will likely shift toward official treaty drafts.",
+      "bigger": "De-escalation in the Middle East could stabilize global trade routes.",
+      "publishedAt": "2026-06-22T21:37:49+00:00",
       "topicFingerprint": [
-        "ukraine",
-        "russian",
-        "fuel",
-        "attacks",
-        "crimea"
+        "iran",
+        "us_entity",
+        "oil",
+        "switzerland",
+        "vance",
+        "iranian"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump rebuilds US tariff wall with new claims of trade unfairness",
+      "description": "His administration wants the rebuilt wall of import taxes to mirror those Trump put on every major trading partner in 2025",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/trump-rebuilds-us-tariff-wall-new-claims-trade-unfairness",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Imported goods and daily essentials may become more expensive.",
+      "context": "The US administration plans to reinstate extensive import taxes on major global trading partners.",
+      "next": "Affected nations will likely retaliate with their own tariffs.",
+      "bigger": "Global supply chains are shifting toward localized production.",
+      "publishedAt": "2026-06-22T06:02:43+00:00",
+      "topicFingerprint": [
+        "claims",
+        "unfairness",
+        "tariff",
+        "rebuilds",
+        "wall"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
+      "description": "WASHINGTON, June 22 - U.S. President Donald Trump on Monday ordered a push to build a powerful quantum computer for scientific research and speed efforts to protect government systems from related cyber threats, bolstering U.S. efforts in its race with China for a technology that could upend science",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Your personal online data may eventually require much stronger encryption.",
+      "context": "The US government ordered the accelerated development of advanced quantum computing and cybersecurity systems.",
+      "next": "Tech firms will compete for lucrative government quantum research contracts.",
+      "bigger": "The global race for technological supremacy is rapidly accelerating.",
+      "publishedAt": "2026-06-23T04:35:48+08:00",
+      "topicFingerprint": [
+        "data",
+        "ai_group",
+        "center",
+        "power",
+        "signs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo\u2019s most vulnerable",
+      "description": "As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the eastern part of the Democratic Republic of the Congo (DRC), while efforts increase to treat prisoners near the epicentre of the current outbreak, UN agencies warned on Monday.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "International health response budgets will face severe financial strain.",
+      "context": "An Ebola outbreak has spread in the Democratic Republic of the Congo, putting millions of children at risk.",
+      "next": "Relief agencies will deploy more medical personnel to the region.",
+      "bigger": "Infectious diseases continue to threaten weak healthcare infrastructures globally.",
+      "publishedAt": "2026-06-22T12:00:00+00:00",
+      "topicFingerprint": [
+        "top",
+        "democratic",
+        "ebola",
+        "congo",
+        "cases"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Senate passes landmark housing affordability bill after bipartisan breakthrough",
+      "description": "The Senate passed a bill aimed at lowering housing costs on Monday after a major breakthrough and rare bipartisan consensus.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/senate-passes-landmark-housing-affordability-bill/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "American homebuyers and renters may see lower monthly living costs.",
+      "context": "US lawmakers approved a major legislative bill designed to lower housing costs across the country.",
+      "next": "The House of Representatives will vote on the bill next.",
+      "bigger": "Governments are increasingly intervening to solve domestic cost-of-living crises.",
+      "publishedAt": "2026-06-22T18:45:00-04:00",
+      "topicFingerprint": [
+        "bipartisan",
+        "bill",
+        "major",
+        "housing",
+        "rare"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "European Central Bank\u2019s President Lagarde urges talks on yuan undervaluation",
+      "description": "European Central \u2060Bank President Christine Lagarde \u2060on Monday urged global leaders to discuss undervaluation of the Chinese currency as a facet of the imbalances endangering the global economy. China has \u200cconsistently denied that it manipulates its currency for trade advantage but its surging trade ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Chinese exports may face new tariffs or restrictions in Europe.",
+      "context": "The European Central Bank called for global discussions regarding the artificially low value of the Chinese yuan.",
+      "next": "Global trade watchdogs may launch formal investigations into currency manipulation.",
+      "bigger": "Trade tensions between Western economies and China are steadily intensifying.",
+      "publishedAt": "2026-06-22T18:13:40+00:00",
+      "topicFingerprint": [
+        "undervaluation",
+        "lagarde",
+        "yuan",
+        "eu_entity",
+        "urges"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
+      "description": "Colombia wakes up to a sharp political turn to right as Abelardo de la Espriella's preliminary victory redraws the country's path on security, economy, and peace.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Foreign investors in Colombia may see more business-friendly regulations.",
+      "context": "A conservative candidate won Colombia\u2019s presidential election, promising a shift in security and economic policies.",
+      "next": "The new administration will likely tighten national security measures immediately.",
+      "bigger": "Latin America is experiencing a renewed political shift toward conservatism.",
+      "publishedAt": "2026-06-21T22:12:22-04:00",
+      "topicFingerprint": [
+        "election",
+        "count",
+        "abelardo",
+        "colombia",
+        "wing"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint",
+      "description": "India and Pakistan are locked in a dispute over the Indus Water Treaty after New Delhi suspended the pact, raising concerns about regional stability.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Millions of farmers in the region may face severe water shortages.",
+      "context": "Tensions between India and Pakistan rose after New Delhi suspended a long-standing water-sharing agreement.",
+      "next": "International mediators may step in to prevent a military escalation.",
+      "bigger": "Climate change and resource scarcity are driving geopolitical conflicts.",
+      "publishedAt": "2026-06-22T07:46:48+00:00",
+      "topicFingerprint": [
+        "water",
+        "india",
+        "flashpoint",
+        "pakistan",
+        "treaty"
       ],
       "alternates": []
     },
@@ -76,17 +210,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 26,
-      "why": "Your investment portfolio could see significant daily changes.",
-      "context": "US stock futures rose due to easing Iran tensions and falling oil prices. Investors awaited key inflation data this week.",
-      "next": "Investor sentiment will remain cautious as new economic data is released.",
-      "bigger": "Global markets are highly sensitive to geopolitical events and economic indicators.",
+      "why": "Your retirement savings and investment portfolios may shrink in value.",
+      "context": "US stock indices declined due to a selloff in technology shares and investor anticipation of inflation data.",
+      "next": "Markets will react sharply when the official inflation data is released.",
+      "bigger": "Investors are shifting away from high-risk tech stocks toward safer assets.",
       "publishedAt": "2026-06-22T19:37:50+05:30",
       "topicFingerprint": [
-        "tech",
-        "investors",
-        "iran",
-        "us_entity",
-        "data"
+        "data",
+        "inflation",
+        "fell",
+        "selloff",
+        "oil"
       ],
       "alternates": [
         {
@@ -99,169 +233,15 @@
           "score": 24,
           "readingTime": 2,
           "topicFingerprint": [
-            "tech",
-            "investors",
-            "iran",
-            "us_entity",
-            "data"
+            "data",
+            "inflation",
+            "fell",
+            "selloff",
+            "oil"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Trump rebuilds US tariff wall with new claims of trade unfairness",
-      "description": "His administration wants the rebuilt wall of import taxes to mirror those Trump put on every major trading partner in 2025",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/trump-rebuilds-us-tariff-wall-new-claims-trade-unfairness",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 19,
-      "why": "Imported goods may become more expensive for US consumers.",
-      "context": "The Trump administration plans to rebuild import taxes on major trading partners. This aims to mirror previous tariffs from 2025.",
-      "next": "Trading partners may impose retaliatory tariffs on US exports.",
-      "bigger": "Protectionist trade policies can increase global trade tensions.",
-      "publishedAt": "2026-06-22T06:02:43+00:00",
-      "topicFingerprint": [
-        "wall",
-        "donald_trump",
-        "tariff",
-        "trade",
-        "claims"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "SK Hynix dethrones Samsung as South Korea\u2019s most valuable company",
-      "description": "SK Hynix is the dominant supplier of HBM chips used in AI systems for customers such as Nvidia and Google.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Your next-gen AI tools will rely on specialized chip advancements.",
-      "context": "SK Hynix surpassed Samsung to become South Korea's most valuable company. This is driven by its dominant HBM chip supply for AI systems.",
-      "next": "SK Hynix will likely expand its lead in high-bandwidth memory production.",
-      "bigger": "The demand for specialized AI hardware is reshaping the tech industry.",
-      "publishedAt": "2026-06-22T12:28:13+08:00",
-      "topicFingerprint": [
-        "valuable",
-        "samsung",
-        "sk_entity",
-        "hynix",
-        "systems"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
-      "description": "Imagine being one of a family of nine and sitting down to a meal of potato peelings and other scraps, boiled up into a soup. This is the harsh reality for many of Afghanistan\u2019s most vulnerable families, forced on them by climate change and drought, widespread malnutrition and increasing restrictions",
-      "source": "UN News",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167774",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Millions of Afghans suffer from severe food insecurity and hardship.",
-      "context": "Afghanistan faces a severe humanitarian crisis with widespread drought and malnutrition. Many families struggle with extreme hunger.",
-      "next": "Humanitarian aid efforts will face increasing challenges amid worsening conditions.",
-      "bigger": "Climate change and political instability exacerbate global humanitarian crises.",
-      "publishedAt": "2026-06-22T12:00:00+00:00",
-      "topicFingerprint": [
-        "malnutrition",
-        "drought",
-        "crisis",
-        "worsening",
-        "afghanistan"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "European Central Bank\u2019s President Lagarde urges talks on yuan undervaluation",
-      "description": "European Central \u2060Bank President Christine Lagarde \u2060on Monday urged global leaders to discuss undervaluation of the Chinese currency as a facet of the imbalances endangering the global economy. China has \u200cconsistently denied that it manipulates its currency for trade advantage but its surging trade ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Global trade balances may shift if currency valuations are addressed.",
-      "context": "ECB President Lagarde urged global leaders to discuss the undervalued Chinese yuan. She believes it contributes to global economic imbalances.",
-      "next": "International discussions on currency policies and trade imbalances may intensify.",
-      "bigger": "Currency valuations play a significant role in global economic stability and trade.",
-      "publishedAt": "2026-06-22T18:13:40+00:00",
-      "topicFingerprint": [
-        "lagarde",
-        "urges",
-        "undervaluation",
-        "yuan",
-        "eu_entity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Geo Energy doesn\u2019t expect material impact from Jakarta\u2019s plans to centralise commodity exports",
-      "description": "It is confident its operations and engagement with the government will enable it to adapt to evolving regulations",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/geo-energy-doesnt-expect-material-impact-jakartas-plans-centralise-commodity-exports",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Commodity export regulations may change, affecting supply chains.",
-      "context": "Geo Energy believes Jakarta's plan to centralize commodity exports will not materially impact its operations. They are confident in adapting to new regulations.",
-      "next": "Other commodity exporters may face adjustments due to new regulations.",
-      "bigger": "Government policies can reshape national resource export industries.",
-      "publishedAt": "2026-06-22T10:55:15+00:00",
-      "topicFingerprint": [
-        "material",
-        "impact",
-        "centralise",
-        "exports",
-        "jakarta"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Amazon's first ever ChatGPT ads reveal a key part of the e-commerce giant's AI strategy",
-      "description": "Amazon buys ChatGPT ads to reach more shoppers while limiting OpenAI's access to its shopping data.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/amazon-first-chatgpt-ads-ai-strategy-openai-data-2026-6",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Your online shopping experience may become more personalized.",
-      "context": "Amazon is running ChatGPT ads to reach more shoppers. This strategy also limits OpenAI's access to Amazon's shopping data.",
-      "next": "More companies will likely use AI advertising while protecting their data.",
-      "bigger": "Companies are strategically using AI for marketing while safeguarding proprietary data.",
-      "publishedAt": "2026-06-22T20:43:37+00:00",
-      "topicFingerprint": [
-        "ads",
-        "part",
-        "ai_group",
-        "reveal",
-        "strategy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
-      "description": "Colombia wakes up to a sharp political turn to right as Abelardo de la Espriella's preliminary victory redraws the country's path on security, economy, and peace.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Colombia's security, economy, and peace policies will likely change.",
-      "context": "Right-wing candidate Abelardo de la Espriella won the initial count in Colombia's election. This marks a significant political shift.",
-      "next": "The new administration will begin implementing its conservative agenda.",
-      "bigger": "National elections can drastically alter a country's political and economic direction.",
-      "publishedAt": "2026-06-21T22:12:22-04:00",
-      "topicFingerprint": [
-        "espriella",
-        "count",
-        "wins",
-        "abelardo",
-        "colombia"
-      ],
-      "alternates": []
     },
     {
       "title": "Anthropic\u2019s new privacy policy collects biometric data from flagged Claude users",
@@ -271,152 +251,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 9,
-      "why": "Your privacy settings and data requirements for AI tools may change.",
-      "context": "Anthropic updated its privacy policy for Claude users. It now requires some flagged users to provide government ID and selfies for verification.",
-      "next": "Other AI companies may adopt stricter identity verification processes.",
-      "bigger": "User privacy and data collection practices are evolving in the AI industry.",
+      "why": "Your personal biometric data may be collected to access AI tools.",
+      "context": "Anthropic updated its privacy policy to require some users to provide government ID and facial scans.",
+      "next": "Other major AI developers will likely adopt similar identification measures.",
+      "bigger": "Tech platforms are facing heavier pressure to verify user identities.",
       "publishedAt": "2026-06-22T20:27:41+00:00",
       "topicFingerprint": [
-        "collects",
         "flagged",
-        "claude",
+        "anthropic",
         "biometric",
-        "privacy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Global banks drive India asset-backed securities sales to record",
-      "description": "Overseas lenders have made US$5.6 billion worth of purchases in the financial year ended March 2026",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/global-banks-drive-india-asset-backed-securities-sales-record",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "India's financial markets are attracting significant global investment.",
-      "context": "Global banks purchased a record US$5.6 billion in India's asset-backed securities. This occurred in the financial year ending March 2026.",
-      "next": "India's financial sector may see continued growth and foreign capital inflows.",
-      "bigger": "Emerging markets are becoming key destinations for international financial investment.",
-      "publishedAt": "2026-06-22T07:38:38+00:00",
-      "topicFingerprint": [
-        "drive",
-        "india",
-        "banks",
-        "sales",
-        "record"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Guinea bans exports of raw gold to boost local refining",
-      "description": "The prohibition is intended to boost the country's economy by refining gold domestically.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjegydvzpzqo",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Guinea's economy aims to gain more value from its gold resources.",
-      "context": "Guinea banned raw gold exports to promote domestic refining. This aims to boost the country's economy.",
-      "next": "Guinea will likely invest in and expand its domestic gold refining capacity.",
-      "bigger": "Resource-rich nations are seeking to industrialize by processing raw materials locally.",
-      "publishedAt": "2026-06-22T13:41:22+00:00",
-      "topicFingerprint": [
-        "exports",
-        "guinea",
-        "raw",
-        "local",
-        "gold"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "European shares close higher on US-Iran talks; UK\u2019s Starmer resigns",
-      "description": "The benchmark Stoxx index hit a record high last week on optimism over Middle East peace talks",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-close-higher-us-iran-talks-uks-starmer-resigns",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Your European stock investments may rise with global peace prospects.",
-      "context": "European shares closed higher, reaching a record, on optimism from US-Iran peace talks.",
-      "next": "Markets will likely continue to react to developments in international relations.",
-      "bigger": "Geopolitical events have a profound and immediate impact on global financial markets.",
-      "publishedAt": "2026-06-22T21:37:49+00:00",
-      "topicFingerprint": [
-        "iran",
-        "us_entity",
-        "switzerland",
-        "oil",
-        "vance",
-        "progress"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Solar manufacturing group seeks US tariff probe into Korean imports",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/solar-manufacturing-group-seeks-us-tariff-probe-korean-imports-6201971",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 12,
-      "why": "US solar panel prices may increase due to potential tariffs.",
-      "context": "A solar manufacturing group requested a US tariff probe into Korean imports.",
-      "next": "The US government will investigate potential unfair trade practices.",
-      "bigger": "Trade disputes are common as countries protect domestic manufacturing.",
-      "publishedAt": "2026-06-23T05:13:14+08:00",
-      "topicFingerprint": [
-        "manufacturing",
-        "tariff",
-        "korean",
-        "solar",
-        "probe"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "A leftward lurch? What to know about the Democratic primaries in New York",
-      "description": "Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "New York's political landscape and policy priorities may shift leftward.",
-      "context": "Democratic socialist candidates are vying for an edge in New York primaries. Key issues include Israel policy and inequality.",
-      "next": "Primary election results will determine the direction of the Democratic Party.",
-      "bigger": "Internal party dynamics influence national political agendas and policy debates.",
-      "publishedAt": "2026-06-22T18:28:13+00:00",
-      "topicFingerprint": [
-        "democratic",
-        "lurch",
-        "york",
-        "leftward",
-        "primaries"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Singapore shares rise after further US-Iran peace talks; STI closes 0.2% higher",
-      "description": "Across the broader market, losers beat gainers 306 to 270, after 1.3 billion securities worth S$2 billion change hands",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-rise-after-further-us-iran-peace-talks-sti-closes-0-2-higher",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Your portfolio may see gains from improving international relations.",
-      "context": "Singapore shares rose, with the STI closing higher. This followed further positive developments in US-Iran peace talks.",
-      "next": "Singapore's market will continue to track global geopolitical developments.",
-      "bigger": "Geopolitical stability is a significant driver of investor sentiment worldwide.",
-      "publishedAt": "2026-06-22T12:21:34+00:00",
-      "topicFingerprint": [
-        "closes",
-        "sti",
-        "singapore",
-        "further",
-        "rise"
+        "collects",
+        "claude"
       ],
       "alternates": []
     },
@@ -428,39 +273,195 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "Northeast India is attracting increased foreign investment and development.",
-      "context": "The EU sees Northeast India as a fast-growing economic region. It views the area as a promising destination for business and investment.",
-      "next": "European businesses may increase their presence and investment in the region.",
-      "bigger": "Emerging regional economies attract international interest for growth opportunities.",
+      "why": "Local businesses in Northeast India may secure significant foreign funding.",
+      "context": "The European Union is increasing its investments and business partnerships in Northeast India.",
+      "next": "European trade delegations will visit the region to finalize new projects.",
+      "bigger": "Western powers are diversifying supply chains away from mainland China.",
       "publishedAt": "2026-06-22T20:19:37+05:30",
       "topicFingerprint": [
         "betting",
-        "increasingly",
         "india",
+        "increasingly",
         "longer",
-        "herv"
+        "fast"
       ],
       "alternates": []
     },
     {
-      "title": "Shaw Towers Realty hits snag in bid to lower proposed tax valuation for Shaw Tower",
-      "description": "Tribunal highlights the importance of finality, saying the company should not be allowed to \u2018cherry-pick\u2019",
+      "title": "Guinea bans exports of raw gold to boost local refining",
+      "description": "The prohibition is intended to boost the country's economy by refining gold domestically.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjegydvzpzqo",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Global gold buyers may face temporary supply delays and higher prices.",
+      "context": "Guinea prohibited the export of unprocessed gold to encourage domestic refining industries.",
+      "next": "Foreign mining companies will have to build local processing facilities.",
+      "bigger": "Resource-rich nations are asserting more control over their raw materials.",
+      "publishedAt": "2026-06-22T13:41:22+00:00",
+      "topicFingerprint": [
+        "local",
+        "guinea",
+        "raw",
+        "gold",
+        "refining"
+      ],
+      "alternates": []
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Amazon's first ever ChatGPT ads reveal a key part of the e-commerce giant's AI strategy",
+      "description": "Amazon buys ChatGPT ads to reach more shoppers while limiting OpenAI's access to its shopping data.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/amazon-first-chatgpt-ads-ai-strategy-openai-data-2026-6",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 17,
+      "why": "The AI tools you use will display more targeted shopping advertisements.",
+      "context": "Amazon began purchasing advertisements on ChatGPT to attract shoppers while protecting its customer data.",
+      "next": "Competitors will launch their own advertising campaigns inside popular AI apps.",
+      "bigger": "Tech giants are turning generative AI platforms into major advertising hubs.",
+      "publishedAt": "2026-06-22T20:43:37+00:00",
+      "topicFingerprint": [
+        "part",
+        "ads",
+        "reveal",
+        "amazon",
+        "chatgpt"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Gold advances after negotiators flag headway in US-Iran talks",
+      "description": "The near-closure of Hormuz has choked oil and natural gas flows and pushed up energy prices",
       "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/reits-property/shaw-towers-realty-hits-snag-bid-lower-proposed-tax-valuation-shaw-tower",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-advances-after-negotiators-flag-headway-us-iran-talks",
       "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Property developers must carefully plan tax valuations to avoid disputes.",
-      "context": "Shaw Towers Realty faced a setback in lowering Shaw Tower's tax valuation. A tribunal emphasized the importance of finality.",
-      "next": "Shaw Towers Realty may explore alternative strategies for its property valuation.",
-      "bigger": "Real estate tax valuations are complex and often lead to legal challenges.",
-      "publishedAt": "2026-06-22T10:00:40+00:00",
+      "score": 13,
+      "why": "Safe-haven assets may become more expensive for global investors.",
+      "context": "Gold prices increased as investors reacted to progress in diplomatic talks between the US and Iran.",
+      "next": "Precious metal prices will fluctuate as final negotiation terms emerge.",
+      "bigger": "Geopolitical negotiations continue to dictate short-term commodity market trends.",
+      "publishedAt": "2026-06-22T23:41:18+00:00",
       "topicFingerprint": [
-        "snag",
-        "towers",
-        "proposed",
-        "hits",
-        "bid"
+        "negotiators",
+        "iran",
+        "gold",
+        "flag",
+        "headway"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "A leftward lurch? What to know about the Democratic primaries in New York",
+      "description": "Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "New York residents may see shifts in local tax and welfare policies.",
+      "context": "Left-wing candidates are challenging mainstream Democrats in New York primary elections on key social issues.",
+      "next": "Primary election turnouts will determine the party's future national platform.",
+      "bigger": "Internal ideological battles are reshaping major political parties in the West.",
+      "publishedAt": "2026-06-22T18:28:13+00:00",
+      "topicFingerprint": [
+        "know",
+        "primaries",
+        "leftward",
+        "york",
+        "lurch"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Singapore shares rise after further US-Iran peace talks; STI closes 0.2% higher",
+      "description": "Across the broader market, losers beat gainers 306 to 270, after 1.3 billion securities worth S$2 billion change hands",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-rise-after-further-us-iran-peace-talks-sti-closes-0-2-higher",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Asian investors may see more stable returns on their equities.",
+      "context": "Singapore stock markets gained value following positive developments in Middle East peace negotiations.",
+      "next": "Trading volumes will likely increase as geopolitical risks subside.",
+      "bigger": "Global market performance remains highly sensitive to diplomatic breakthroughs.",
+      "publishedAt": "2026-06-22T12:21:34+00:00",
+      "topicFingerprint": [
+        "further",
+        "iran",
+        "singapore",
+        "sti",
+        "closes"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Global banks drive India asset-backed securities sales to record",
+      "description": "Overseas lenders have made US$5.6 billion worth of purchases in the financial year ended March 2026",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/global-banks-drive-india-asset-backed-securities-sales-record",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Indian financial institutions will have more capital to offer consumer loans.",
+      "context": "International banks purchased record amounts of Indian asset-backed securities over the past fiscal year.",
+      "next": "More foreign investment firms will enter India's debt market.",
+      "bigger": "Emerging markets are becoming vital destinations for global debt investments.",
+      "publishedAt": "2026-06-22T07:38:38+00:00",
+      "topicFingerprint": [
+        "asset",
+        "india",
+        "record",
+        "banks",
+        "securities"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Geo Energy doesn\u2019t expect material impact from Jakarta\u2019s plans to centralise commodity exports",
+      "description": "It is confident its operations and engagement with the government will enable it to adapt to evolving regulations",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/geo-energy-doesnt-expect-material-impact-jakartas-plans-centralise-commodity-exports",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Energy stock investors may face lower regulatory risks with this company.",
+      "context": "Geo Energy announced that Indonesia's plan to centralize commodity exports will not disrupt its mining operations.",
+      "next": "Other regional miners will release statements regarding the centralized policy.",
+      "bigger": "Resource nationalism is prompting corporate adaptations across Southeast Asia.",
+      "publishedAt": "2026-06-22T10:55:15+00:00",
+      "topicFingerprint": [
+        "geo",
+        "doesn",
+        "impact",
+        "energy",
+        "plans"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
+      "description": "Imagine being one of a family of nine and sitting down to a meal of potato peelings and other scraps, boiled up into a soup. This is the harsh reality for many of Afghanistan\u2019s most vulnerable families, forced on them by climate change and drought, widespread malnutrition and increasing restrictions",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167774",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Millions of Afghans may lose access to basic daily nutrition.",
+      "context": "Afghanistan is suffering from severe drought and extreme food shortages, leaving families in poverty.",
+      "next": "International aid groups will appeal for urgent emergency food funding.",
+      "bigger": "Extreme weather patterns are exacerbating humanitarian crises in vulnerable nations.",
+      "publishedAt": "2026-06-22T12:00:00+00:00",
+      "topicFingerprint": [
+        "drought",
+        "worsening",
+        "afghanistan",
+        "situation",
+        "crisis"
       ],
       "alternates": []
     },
@@ -472,17 +473,39 @@
       "category": "General",
       "readingTime": 2,
       "score": 8,
-      "why": "Job security in the electric vehicle sector may face new challenges.",
-      "context": "EV maker Lucid laid off 18% of its US workforce. It also eliminated the COO role to save $158 million annually.",
-      "next": "Lucid will continue its restructuring efforts to achieve cost savings.",
-      "bigger": "Rapid growth industries can experience significant workforce adjustments.",
+      "why": "Job seekers in the electric vehicle sector may face fewer opportunities.",
+      "context": "Electric vehicle manufacturer Lucid laid off eighteen percent of its staff and restructured its executive leadership.",
+      "next": "Other struggling EV startups will likely announce similar cost-cutting measures.",
+      "bigger": "The electric vehicle industry is entering a phase of intense consolidation.",
       "publishedAt": "2026-06-23T03:15:16+05:30",
       "topicFingerprint": [
-        "winterhoff",
+        "coo",
         "cuts",
-        "marc",
         "savings",
-        "maker"
+        "workforce",
+        "lucid"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "All US passengers from hantavirus-hit ship return to home states",
+      "description": "No cases of hantavirus disease occurred in the United States as a result of this outbreak.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Travelers face no immediate risk of a domestic outbreak.",
+      "context": "American passengers from a cruise ship affected by hantavirus safely returned home without any infections.",
+      "next": "Health authorities will conduct final sanitization checks on the vessel.",
+      "bigger": "Maritime industries are adopting stricter health screening protocols for passengers.",
+      "publishedAt": "2026-06-23T07:00:39+08:00",
+      "topicFingerprint": [
+        "ship",
+        "home",
+        "states",
+        "passengers",
+        "return"
       ],
       "alternates": []
     },
@@ -494,16 +517,16 @@
       "category": "Science",
       "readingTime": 2,
       "score": 7,
-      "why": "Key climate research and scientists will gain further recognition.",
-      "context": "Carbon Brief created a large database of climate change research. It now ranks the most highly cited climate scientists.",
-      "next": "The ranking may influence future climate research funding and collaboration.",
-      "bigger": "Identifying influential researchers helps shape scientific discourse and policy.",
+      "why": "Policymakers will use these scientists' research to design future environmental rules.",
+      "context": "Carbon Brief published a comprehensive ranking of the world\u2019s most influential climate change researchers.",
+      "next": "The top-ranked scientists will receive increased funding for new studies.",
+      "bigger": "Data-driven metrics are increasingly shaping global scientific credibility and funding.",
       "publishedAt": "2026-06-22T13:00:00+00:00",
       "topicFingerprint": [
-        "brief",
         "appeared",
-        "cosmos",
+        "brief",
         "carbon",
+        "cosmos",
         "climate"
       ],
       "alternates": [
@@ -517,10 +540,10 @@
           "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "brief",
             "appeared",
-            "cosmos",
+            "brief",
             "carbon",
+            "cosmos",
             "climate"
           ],
           "group_id": 0
@@ -535,10 +558,10 @@
           "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
-            "brief",
             "appeared",
-            "cosmos",
+            "brief",
             "carbon",
+            "cosmos",
             "climate"
           ],
           "group_id": 0
@@ -546,92 +569,162 @@
       ]
     },
     {
-      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
-      "description": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy6vk44pwo",
-      "category": "Health",
+      "title": "Tata cyberattack allegedly exposes confidential Apple documents",
+      "description": "Tata Electronics confirmed today that it was recently targeted by a cyberattack, with hackers claiming to have stolen and leaked confidential documents from Apple and Tesla. Here are the details.",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/06/22/tata-cyberattack-allegedly-exposes-confidential-apple-documents/",
+      "category": "General",
       "readingTime": 2,
-      "score": 5,
-      "why": "Kenya's public health infrastructure projects may face delays.",
-      "context": "A Kenyan minister was found in contempt of court. He defied an order to stop building a US-funded Ebola facility.",
-      "next": "The minister may face legal penalties, and the project's future is uncertain.",
-      "bigger": "Rule of law is crucial for the implementation of public health initiatives.",
-      "publishedAt": "2026-06-22T16:34:39+00:00",
+      "score": 6,
+      "why": "Your next smartphone or vehicle purchase could face manufacturing delays.",
+      "context": "A cyberattack on Tata Electronics reportedly resulted in the theft of proprietary documents belonging to Apple and Tesla.",
+      "next": "Affected companies will enhance their supplier cybersecurity requirements.",
+      "bigger": "Subcontractors are becoming prime targets for espionage against major tech firms.",
+      "publishedAt": "2026-06-22T20:22:10+00:00",
       "topicFingerprint": [
-        "facility",
-        "ebola",
-        "duale",
-        "contempt",
-        "court"
-      ],
-      "alternates": [
-        {
-          "title": "Kenya's health minister found in contempt of court over U.S.-backed Ebola facility",
-          "description": "Kenya's Health Minister Aden Duale was found in contempt of court on Monday for failing to halt the construction of an Ebola quarantine facility intended for Americans, despite existing court orders.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/kenyas-health-minister-found-in-contempt-of-court-over-u-s-backed-ebola-facility",
-          "category": "Health",
-          "publishedAt": "2026-06-22T17:17:44-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "facility",
-            "ebola",
-            "duale",
-            "contempt",
-            "court"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Tight security as Indian students resit medical exam after alleged paper leak",
-      "description": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy0gjqv783o",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 5,
-      "why": "Students face added stress and delays due to exam irregularities.",
-      "context": "Indian students are resitting a medical exam under tight security. This follows an alleged paper leak.",
-      "next": "Authorities will likely implement stricter measures to prevent future leaks.",
-      "bigger": "Exam security failures can undermine educational fairness and public trust.",
-      "publishedAt": "2026-06-21T11:06:31+00:00",
-      "topicFingerprint": [
-        "students",
-        "medical",
-        "tight",
-        "alleged",
-        "paper"
+        "tata",
+        "electronics",
+        "tesla",
+        "apple",
+        "expands"
       ],
       "alternates": []
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "title": "Info-Tech Systems wants to leverage customers\u2019 overseas expansion for future growth",
+      "description": "It wants to follow its customers to expand into Indonesia, the Philippines, Vietnam as this will improve customer stickiness",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/info-tech-systems-wants-leverage-customers-overseas-expansion-future-growth",
       "category": "Progress",
       "readingTime": 2,
-      "score": 3,
-      "why": "Early registration offers financial benefits for conference attendees.",
-      "context": "Pass rates for the TechCrunch Founder Summit 2026 are increasing by June 26. Founders can save up to $190 by registering early.",
-      "next": "More founders will likely register before the discounted pass rate expires.",
-      "bigger": "Industry conferences are vital for networking and securing business opportunities.",
-      "publishedAt": "2026-06-22T14:00:00+00:00",
+      "score": 4,
+      "why": "Corporate clients will gain access to unified software across multiple countries.",
+      "context": "Info-Tech Systems plans to grow its business by following its expanding clients into Southeast Asian markets.",
+      "next": "The company will open physical offices in Indonesia and the Philippines.",
+      "bigger": "Technology service providers are rapidly globalizing to retain high-value clients.",
+      "publishedAt": "2026-06-21T23:00:00+00:00",
       "topicFingerprint": [
-        "rates",
-        "pass",
-        "conference",
-        "summit",
-        "june"
+        "info",
+        "customers",
+        "growth",
+        "leverage",
+        "overseas"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
+    "south_korea": [
+      {
+        "title": "SK Hynix dethrones Samsung as South Korea\u2019s most valuable company",
+        "description": "SK Hynix is the dominant supplier of HBM chips used in AI systems for customers such as Nvidia and Google.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/sk-hynix-dethrones-samsung-electronics-as-south-koreas-most-valuable-company",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T12:28:13+08:00",
+        "reason": "within_48h",
+        "score": 15,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ai"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: customers"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: google"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: nvidia"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "technology important keyword match: ai"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "hynix",
+          "samsung",
+          "sk_entity",
+          "valuable",
+          "customers"
+        ]
+      },
+      {
+        "title": "Former South Korean justice minister gets 25 years for role in martial law",
+        "description": "Former South Korean Justice Minister Park Sung-jae was sentenced to 25 years for his role in former President Yoon Suk Yeol's failed martial law attempt.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/37a82a68-b491-4df9-beff-331897f05dd0.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T12:16:53+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Former S. Korean minister gets 25-year prison term for role in martial law imposition",
+            "description": "A former South Korean justice minister has been sentenced to 25 years in prison",
+            "source": "ABC News",
+            "url": "https://abcnews.com/International/wireStory/former-south-korean-justice-minister-gets-25-year-134088127",
+            "category": "Policy",
+            "publishedAt": "2026-06-22T06:18:11-04:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "role",
+              "justice",
+              "former",
+              "gets",
+              "law"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "role",
+          "justice",
+          "former",
+          "gets",
+          "law"
+        ]
+      }
+    ],
     "united_states": [
       {
         "title": "China restricts US firms in retaliation for Pentagon blacklist",
@@ -675,31 +768,12 @@
           }
         ],
         "group_id": 1,
-        "alternates": [
-          {
-            "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
-            "description": "The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
-            "category": "Technology",
-            "publishedAt": "2026-06-22T03:45:13+00:00",
-            "score": 12,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "firms",
-              "china_entity",
-              "us_entity",
-              "tech",
-              "military"
-            ],
-            "group_id": 1
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
           "firms",
-          "china_entity",
-          "us_entity",
           "tech",
+          "us_entity",
+          "china_entity",
           "military"
         ]
       },
@@ -744,10 +818,10 @@
         "alternates": [],
         "topicFingerprint": [
           "prime",
+          "amazon",
+          "basics",
           "gauge",
-          "strain",
-          "shifts",
-          "basics"
+          "shifts"
         ]
       }
     ],
@@ -794,65 +868,87 @@
           }
         ],
         "group_id": 1,
-        "alternates": [
-          {
-            "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
-            "description": "The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
-            "category": "Technology",
-            "publishedAt": "2026-06-22T03:45:13+00:00",
-            "score": 12,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "firms",
-              "china_entity",
-              "us_entity",
-              "tech",
-              "military"
-            ],
-            "group_id": 1
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
           "firms",
-          "china_entity",
-          "us_entity",
           "tech",
+          "us_entity",
+          "china_entity",
           "military"
         ]
       },
       {
-        "title": "Hong Kong, Fujian sign 6 deals to deepen finance, tourism and education ties",
-        "description": "Hong Kong has signed six agreements with Fujian to step up collaboration in finance, trade, tourism and education, with Chief Executive John Lee Ka-chiu encouraging businesses from the mainland Chinese province to list on the city\u2019s bourse for overseas expansion. At the fifth Hong Kong-Fujian Cooper",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3357960/hong-kong-fujian-sign-6-deals-deepen-finance-tourism-and-education-ties",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
+        "title": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
+        "description": "Beijing is summoning tech executives for meetings as it did in 2021, but now it has less room to wield a heavy hand due to deflation and rivalry with the U.S.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-06-22T14:12:04+00:00",
+        "publishedAt": "2026-06-22T23:28:15+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: finance"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: education"
+            "reason": "important keyword match: u.s"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
           },
           {
             "points": 1,
-            "reason": "geopolitics important keyword match: trade"
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "causing",
+          "less",
+          "beijing",
+          "worry",
+          "summoning"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "WhatsApp gets new chief as Meta taps India\u2019s CRED founder Kunal Shah and invests $900M in startup",
+        "description": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T15:21:42+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
           },
           {
-            "points": -4,
-            "reason": "South China regional news"
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: meta"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -860,54 +956,68 @@
           }
         ],
         "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "finance",
-          "hong",
-          "deals",
-          "ties",
-          "sign"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint",
-        "description": "India and Pakistan are locked in a dispute over the Indus Water Treaty after New Delhi suspended the pact, raising concerns about regional stability.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T07:46:48+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
+        "alternates": [
           {
-            "points": 2,
-            "reason": "important keyword match: india"
+            "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+            "description": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
+            "source": "BBC News",
+            "url": "https://www.bbc.com/news/articles/c8e2195k5j2o",
+            "category": "General",
+            "publishedAt": "2026-06-22T15:57:46+00:00",
+            "score": 8,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "founder",
+              "whatsapp",
+              "meta",
+              "cathcart",
+              "cred"
+            ],
+            "group_id": 0
           },
           {
-            "points": 2,
-            "reason": "important keyword match: treaty"
+            "title": "WhatsApp gets Indian boss: Meta picks Cred founder Kunal Shah, pumps $900 million into his company too",
+            "description": "Kunal Shah replaces Will Cathcart, who has been running the popular messaging service for roughly seven years",
+            "source": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/india-news/cred-founder-kunal-shah-to-be-new-boss-of-whatsapp-meta-announces-101782134843308.html",
+            "category": "General",
+            "publishedAt": "2026-06-22T19:02:29+05:30",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "founder",
+              "whatsapp",
+              "meta",
+              "cathcart",
+              "cred"
+            ],
+            "group_id": 0
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
+            "title": "Cred founder Kunal Shah tapped as WhatsApp global chief",
+            "description": "WhatsApp parent Meta, which also owns Instagram and Facebook, will invest $900 million (around \u20b98,550 crore) in Cred as a part of this hire, enabling Cred to move forward with ESOP buybacks",
+            "source": "The Hindu",
+            "url": "https://www.thehindu.com/business/Industry/cred-founder-kunal-shah-tapped-as-whatsapp-global-chief/article71133928.ece",
+            "category": "Financial",
+            "publishedAt": "2026-06-22T21:36:53+05:30",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "founder",
+              "whatsapp",
+              "meta",
+              "cathcart",
+              "cred"
+            ],
+            "group_id": 0
           }
         ],
-        "group_id": 0,
-        "alternates": [],
         "topicFingerprint": [
-          "india",
-          "treaty",
-          "flashpoint",
-          "becoming",
-          "old"
+          "founder",
+          "whatsapp",
+          "meta",
+          "cathcart",
+          "cred"
         ]
       },
       {
@@ -920,7 +1030,7 @@
         "readingTime": 2,
         "publishedAt": "2026-06-22T16:50:18+05:30",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
@@ -957,256 +1067,16 @@
           {
             "points": -2,
             "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
           "crucial",
-          "begin",
           "india",
           "delhi",
-          "trade"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Former South Korean justice minister gets 25 years for role in martial law",
-        "description": "Former South Korean Justice Minister Park Sung-jae was sentenced to 25 years for his role in former President Yoon Suk Yeol's failed martial law attempt.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/37a82a68-b491-4df9-beff-331897f05dd0.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T12:16:53+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Former S. Korean minister gets 25-year prison term for role in martial law imposition",
-            "description": "A former South Korean justice minister has been sentenced to 25 years in prison",
-            "source": "ABC News",
-            "url": "https://abcnews.com/International/wireStory/former-south-korean-justice-minister-gets-25-year-134088127",
-            "category": "Policy",
-            "publishedAt": "2026-06-22T06:18:11-04:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "former",
-              "sentenced",
-              "south",
-              "martial",
-              "korean"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "former",
-          "sentenced",
-          "south",
-          "martial",
-          "korean"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
-        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T07:51:00-04:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: nato"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "tank",
-          "leopard",
-          "joining",
-          "knds",
-          "germany"
-        ]
-      },
-      {
-        "title": "Defense giant KNDS moves closer to IPO after France-Germany stake deal",
-        "description": "France and Germany agreed on a KNDS framework as Germany seeks a 40% stake ahead of a potential multibillion-euro IPO.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/knds-ipo-france-germany-defense-stake.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T10:28:41+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -3,
-            "reason": "financial lowest priority keyword match: defense"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "knds",
-          "germany",
-          "moves",
-          "stake",
-          "defense"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
-        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T07:51:00-04:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: nato"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "tank",
-          "leopard",
-          "joining",
-          "knds",
-          "germany"
-        ]
-      },
-      {
-        "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-        "description": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0jy9g96086o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T16:42:23+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: forecast"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "heat",
-          "temperatures",
-          "italy",
-          "forecast",
-          "issued"
+          "begin",
+          "negotiating"
         ]
       }
     ],
@@ -1245,24 +1115,24 @@
             "url": "https://frontpage.ink/b19cdbb4-aa80-4ee4-a226-16fbd3506663.html",
             "category": "Geopolitics",
             "publishedAt": "2026-06-22T11:10:02+00:00",
-            "score": 9,
+            "score": 8,
             "readingTime": 2,
             "topicFingerprint": [
-              "range",
-              "australia",
               "canada",
-              "system",
-              "radar"
+              "australia",
+              "range",
+              "sign",
+              "long"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "range",
-          "australia",
           "canada",
-          "system",
-          "radar"
+          "australia",
+          "range",
+          "sign",
+          "long"
         ]
       }
     ],
@@ -1301,24 +1171,24 @@
             "url": "https://frontpage.ink/b19cdbb4-aa80-4ee4-a226-16fbd3506663.html",
             "category": "Geopolitics",
             "publishedAt": "2026-06-22T11:10:02+00:00",
-            "score": 9,
+            "score": 8,
             "readingTime": 2,
             "topicFingerprint": [
-              "range",
-              "australia",
               "canada",
-              "system",
-              "radar"
+              "australia",
+              "range",
+              "sign",
+              "long"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "range",
-          "australia",
           "canada",
-          "system",
-          "radar"
+          "australia",
+          "range",
+          "sign",
+          "long"
         ]
       },
       {
@@ -1345,11 +1215,296 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "danone",
+          "buying",
           "australia",
-          "protein",
           "asia",
-          "buying"
+          "tap",
+          "protein"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
+        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T07:51:00-04:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: nato"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "stakeholder",
+          "joining",
+          "germany",
+          "tank",
+          "plans"
+        ]
+      },
+      {
+        "title": "Defense giant KNDS moves closer to IPO after France-Germany stake deal",
+        "description": "France and Germany agreed on a KNDS framework as Germany seeks a 40% stake ahead of a potential multibillion-euro IPO.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/knds-ipo-france-germany-defense-stake.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T10:28:41+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "financial lowest priority keyword match: defense"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "moves",
+          "germany",
+          "defense",
+          "closer",
+          "stake"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
+        "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T07:51:00-04:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: nato"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "stakeholder",
+          "joining",
+          "germany",
+          "tank",
+          "plans"
+        ]
+      },
+      {
+        "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+        "description": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0jy9g96086o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T16:42:23+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: forecast"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "temperatures",
+          "heat",
+          "red",
+          "spain",
+          "40c"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "EU courts Brazil as strategic partner in global race for critical minerals",
+        "description": "RIO DE JANEIRO, June 22 - The European Union is turning to Brazil as a strategic partner in its push to diversify its critical mineral supplies, offering a deal that it says will be beneficial to Brazil's development goals, EU Commissioner for International Partnerships Jozef Sikela told Reuters on ",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/eu-courts-brazil-as-strategic-partner-in-global-race-for-critical-minerals",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T18:30:46+08:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "brazil",
+          "critical",
+          "eu_entity",
+          "strategic",
+          "minerals"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "EU courts Brazil as strategic partner in global race for critical minerals",
+        "description": "RIO DE JANEIRO, June 22 - The European Union is turning to Brazil as a strategic partner in its push to diversify its critical mineral supplies, offering a deal that it says will be beneficial to Brazil's development goals, EU Commissioner for International Partnerships Jozef Sikela told Reuters on ",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/eu-courts-brazil-as-strategic-partner-in-global-race-for-critical-minerals",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T18:30:46+08:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "brazil",
+          "critical",
+          "eu_entity",
+          "strategic",
+          "minerals"
+        ]
+      },
+      {
+        "title": "Brazil\u2019s former First Lady juggles Christian conservatism, cracks open the far right\u2019s gender contradictions",
+        "description": "With a personable approach to politics and a pastoral tone to her speeches, Michelle Bolsonaro juggles the roles of being her imprisoned husband\u2019s caretaker and a political figure wannabe",
+        "source": "Global Voices",
+        "url": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
+        "fromUrl": "https://globalvoices.org/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-22T06:00:51+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "cracks",
+          "lady",
+          "christian",
+          "conservatism",
+          "brazil"
         ]
       }
     ],
@@ -1380,46 +1535,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "heat",
           "temperatures",
-          "italy",
-          "forecast",
-          "issued"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "Brazil\u2019s former First Lady juggles Christian conservatism, cracks open the far right\u2019s gender contradictions",
-        "description": "With a personable approach to politics and a pastoral tone to her speeches, Michelle Bolsonaro juggles the roles of being her imprisoned husband\u2019s caretaker and a political figure wannabe",
-        "source": "Global Voices",
-        "url": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
-        "fromUrl": "https://globalvoices.org/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-22T06:00:51+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "contradictions",
-          "former",
-          "gender",
-          "cracks",
-          "open"
+          "heat",
+          "red",
+          "spain",
+          "40c"
         ]
       }
     ],
@@ -1456,30 +1582,30 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "hawkish",
+          "set",
           "dollar",
-          "fed",
           "analysts",
-          "singapore",
-          "set"
+          "gain"
         ]
       }
     ],
     "japan": [
       {
-        "title": "Japan's Katayama, US Treasury's Bessent hold online talks to discuss yen, TBS reports",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/japans-katayama-us-treasurys-bessent-hold-online-talks-discuss-yen-tbs-reports-6202046",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "title": "\u2018Stop genocide\u2019: Activist stopped by police at Tokyo\u2019s Israeli Embassy",
+        "description": "An activist in Japan was surrounded by police after he approached the Israeli Embassy in Tokyo on Monday and shouted.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-23T05:47:02+08:00",
+        "publishedAt": "2026-06-22T22:03:24+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "Highest Quality Source match: Al Jazeera"
           },
           {
             "points": 1,
@@ -1489,44 +1615,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "tbs",
-          "discuss",
-          "katayama",
-          "treasury",
-          "bessent"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "UK considers forcing social media firms to prioritise trusted news",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/uk-considers-forcing-social-media-firms-prioritise-trusted-news-6202006",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-23T05:33:13+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "prioritise",
-          "considers",
-          "trusted",
-          "firms",
-          "media"
+          "stopped",
+          "police",
+          "activist",
+          "embassy",
+          "stop"
         ]
       }
     ]
