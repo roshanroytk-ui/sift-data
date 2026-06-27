@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T14:24:33.490246",
+  "updatedAt": "2026-06-27T22:55:45.760441",
   "insight": {
     "title": "Container Ships Play 3D Tetris With Gravity",
     "subtitle": "Behind every global shipment is a hyper-optimized algorithm balancing weight, destination, and ocean physics.",
@@ -26,22 +26,65 @@
   },
   "news": [
     {
+      "title": "New strikes test the Iran ceasefire",
+      "description": "The ceasefire between the U.S. and Iran is being tested after new attacks in the Strait of Hormuz. Mideast expert Paul Salem explains what's happened and whether the deal can still hold.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Shipping costs and fuel prices could rise if tensions escalate further.",
+      "context": "Recent military attacks are threatening a ceasefire deal between the US and Iran.",
+      "next": "Diplomats will scramble to salvage the fragile peace agreement.",
+      "bigger": "Proxy conflicts continue to threaten vital global trade routes.",
+      "publishedAt": "2026-06-27T17:05:57-04:00",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "strikes",
+        "hormuz",
+        "strait",
+        "ceasefire"
+      ],
+      "alternates": [
+        {
+          "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/world-news/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-in-hormuz-escalating-hostilities-4764056",
+          "category": "Geopolitics",
+          "publishedAt": "2026-06-27T22:36:34+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "strikes",
+            "hormuz",
+            "strait",
+            "ceasefire"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
       "title": "Trump threatens 100% tariff on European countries that impose digital tax",
       "description": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies. Writing on Truth Social on Friday, the US president ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 20,
-      "why": "European imports may become much more expensive for American consumers.",
-      "context": "Donald Trump threatened import tariffs on European nations taxing digital services.",
-      "next": "European nations may reconsider or delay their digital tax plans.",
+      "score": 19,
+      "why": "Imported European goods could become significantly more expensive for US consumers.",
+      "context": "Donald Trump threatened massive tariffs on European nations implementing digital taxes.",
+      "next": "European leaders may reconsider their planned digital services taxes.",
       "bigger": "Transatlantic trade wars could disrupt global supply chains.",
       "publishedAt": "2026-06-27T10:20:46+00:00",
       "topicFingerprint": [
-        "threatens",
         "donald_trump",
         "digital",
+        "threatens",
         "services",
         "tax"
       ],
@@ -53,12 +96,12 @@
           "url": "https://frontpage.ink/bb0112ca-c83e-48c5-83d7-f96a4d60d673.html",
           "category": "Geopolitics",
           "publishedAt": "2026-06-26T18:36:20+00:00",
-          "score": 16,
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "threatens",
             "donald_trump",
             "digital",
+            "threatens",
             "services",
             "tax"
           ],
@@ -71,30 +114,12 @@
           "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
           "category": "Geopolitics",
           "publishedAt": "2026-06-26T18:25:36+00:00",
-          "score": 16,
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "threatens",
             "donald_trump",
             "digital",
-            "services",
-            "tax"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Trump threatens 100% tariff on any country that imposes digital services tax",
-          "description": "The US President accused \"numerous European countries\" of seeking to tax US companies.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/trump-threatens-100-tariff-on-any-country-that-imposes-digital-services-tax",
-          "category": "Geopolitics",
-          "publishedAt": "2026-06-27T01:01:49+08:00",
-          "score": 14,
-          "readingTime": 2,
-          "topicFingerprint": [
             "threatens",
-            "donald_trump",
-            "digital",
             "services",
             "tax"
           ],
@@ -110,9 +135,9 @@
           "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "threatens",
             "donald_trump",
             "digital",
+            "threatens",
             "services",
             "tax"
           ],
@@ -125,12 +150,12 @@
           "url": "https://www.cnbctv18.com/world/trump-threatens-100-tariff-on-any-country-that-imposes-digital-services-tax-19933203.htm",
           "category": "Geopolitics",
           "publishedAt": "2026-06-26T22:44:03+05:30",
-          "score": 7,
+          "score": 4,
           "readingTime": 2,
           "topicFingerprint": [
-            "threatens",
             "donald_trump",
             "digital",
+            "threatens",
             "services",
             "tax"
           ],
@@ -139,215 +164,68 @@
       ]
     },
     {
-      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models \u2014 but only accessible to limited preview partners for now, per US Gov",
-      "description": "OpenAI is announcing a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: Sol, Terra, and Luna. Sol is for the hardest problems, such as complex coding and security research; Terra is for high-volume business tasks like customer support, internal tools and",
-      "source": "Venturebeat",
-      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 17,
-      "why": "You cannot access these powerful new AI tools yet.",
-      "context": "OpenAI released a new family of advanced AI models to select partners.",
-      "next": "The company may slowly roll these models out to the public.",
-      "bigger": "Tech giants are racing to build highly specialized AI systems.",
-      "publishedAt": "2026-06-26T17:00:00+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "ai_group",
-        "anthropic",
-        "model",
-        "access",
-        "mythos"
-      ],
-      "alternates": [
-        {
-          "title": "OpenAI staggers release of new AI model after US government request",
-          "description": "OpenAI is staggering the release of GPT 5.6 Sol following a US government request, granting limited access to partners due to security concerns.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/d123d0c3-60bb-4e4e-be7d-e578d716fc0d.html",
-          "category": "Technology",
-          "publishedAt": "2026-06-26T15:19:22+00:00",
-          "score": 17,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "ai_group",
-            "anthropic",
-            "model",
-            "access",
-            "mythos"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "OpenAI releases its most powerful AI model to just 20 partners, each one approved by the US government",
-          "description": "OpenAI has released GPT-5.6 Sol, its most powerful model, to roughly 20 partners whose names were individually approved by the US government. The release is the first time an American AI company has launched a frontier model under a government-managed access list, a step beyond the voluntary pre-rel",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/openai-gpt-5-6-sol-limited-preview-government-approved-partners",
-          "category": "Technology",
-          "publishedAt": "2026-06-26T18:25:11+00:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "ai_group",
-            "anthropic",
-            "model",
-            "access",
-            "mythos"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
-          "description": "OpenAI's GPT-5.6 comes in three variants, including its most powerful and its most affordable models yet.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
-          "category": "General",
-          "publishedAt": "2026-06-27T04:23:40+00:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "ai_group",
-            "anthropic",
-            "model",
-            "access",
-            "mythos"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
-      "description": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 19,
-      "why": "Borrowing costs and interest rates may remain high for longer.",
-      "context": "Donald Trump reduced pressure on the Federal Reserve chairman regarding interest rates.",
-      "next": "The Federal Reserve may keep interest rates steady at its next meeting.",
-      "bigger": "Political leaders continue to struggle with balancing inflation control and growth.",
-      "publishedAt": "2026-06-26T17:39:09+00:00",
-      "topicFingerprint": [
-        "eases",
-        "chairman",
-        "tops",
-        "inflation",
-        "warsh"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Iran survived 3 months of war. Can it survive the aftermath?",
-      "description": "Three months of war with the United States and Israel may not have broken Iran\u2019s resistance, but its economy has been brought to its knees. Forty days of American and Israeli bombing in March and early April \u2013 targeting energy grids, steel mills, petrochemical plants, ports and transport corridors \u2013",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/politics/article/3358522/iran-survived-3-months-war-can-it-survive-aftermath",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Millions of Iranian citizens may face severe shortages of basic goods.",
-      "context": "Intense military conflict has severely damaged the Iranian economy.",
-      "next": "Regional instability could trigger a deeper humanitarian crisis.",
-      "bigger": "Long-term warfare leaves deep economic scars that take decades to heal.",
-      "publishedAt": "2026-06-27T05:00:09+00:00",
-      "topicFingerprint": [
-        "war",
-        "survive",
-        "months",
-        "survived",
-        "aftermath"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Two tropical storms pound Japan, causing flooding and landslides",
-      "description": "Two major storm systems have pounded Japan on Saturday, causing landslides and floods",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/tropical-storms-pound-japan-causing-flooding-landslides-134269072",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Residents face immediate travel disruptions, property damage, and safety risks.",
-      "context": "Two major storms triggered severe floods and landslides across Japan.",
-      "next": "Rescue operations and infrastructure repairs will likely begin immediately.",
-      "bigger": "Extreme weather events are increasingly threatening key industrial regions.",
-      "publishedAt": "2026-06-27T09:03:50-04:00",
-      "topicFingerprint": [
-        "tropical",
-        "flooding",
-        "causing",
-        "storms",
-        "landslides"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "VW reportedly plans to cut up to 100,000 jobs and close four plants",
-      "description": "Volkswagen reportedly plans to cut up to 100,000 jobs and close four German plants in a radical overhaul to revive profits and increase competitiveness.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/38286d24-07a6-4835-a0ba-ac21aee6c66a.html",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Thousands of automotive workers may lose their livelihoods soon.",
-      "context": "Volkswagen reportedly plans massive layoffs and factory closures in Germany.",
-      "next": "Labor unions will likely launch major protests against the cuts.",
-      "bigger": "Traditional carmakers are struggling to survive the shift to electric vehicles.",
-      "publishedAt": "2026-06-26T11:15:32+00:00",
-      "topicFingerprint": [
-        "jobs",
-        "german",
-        "cut",
-        "volkswagen",
-        "four"
-      ],
-      "alternates": []
-    },
-    {
       "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
       "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of",
       "source": "Techcrunch",
       "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
       "category": "Financial",
       "readingTime": 2,
-      "score": 20,
-      "why": "Tech companies may reduce their reliance on a single chip supplier.",
-      "context": "Major tech companies are designing custom microchips to challenge Nvidia's dominance.",
-      "next": "Nvidia may lower its prices to remain competitive in the market.",
-      "bigger": "The global semiconductor industry is becoming highly fragmented.",
+      "score": 17,
+      "why": "AI services and tech products may become cheaper to access.",
+      "context": "Major tech firms are designing custom chips to reduce Nvidia reliance.",
+      "next": "Nvidia will likely slash prices to retain its market dominance.",
+      "bigger": "The global semiconductor industry is shifting toward specialized in-house production.",
       "publishedAt": "2026-06-26T17:43:22+00:00",
       "topicFingerprint": [
+        "openai",
         "everyone",
         "spacex",
-        "turning",
-        "openai",
-        "own"
+        "chips",
+        "turning"
       ],
       "alternates": []
     },
     {
-      "title": "Polestar barred from future US sales under Chinese tech rules",
-      "description": "The rules are designed to block connected vehicles with Chinese software, hardware or ownership ties on national security grounds",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/polestar-barred-future-us-sales-under-chinese-tech-rules",
-      "category": "Technology",
+      "title": "Why investors may want to prioritize bond markets outside the U.S.",
+      "description": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "American buyers will lose access to certain electric vehicle models.",
-      "context": "The United States blocked Polestar vehicle sales over Chinese software connections.",
-      "next": "Polestar may rebuild its software supply chain outside of China.",
-      "bigger": "National security concerns are dividing the global automotive market.",
-      "publishedAt": "2026-06-26T14:02:33+00:00",
+      "score": 21,
+      "why": "Investors may find better returns by diversifying outside the US.",
+      "context": "Financial advisors are steering clients toward international bond markets over US ones.",
+      "next": "Capital may flow rapidly out of US debt markets.",
+      "bigger": "Global monetary policy is becoming increasingly decoupled from US decisions.",
+      "publishedAt": "2026-06-27T15:00:01+00:00",
       "topicFingerprint": [
-        "rules",
-        "tech",
-        "sales",
-        "future",
-        "polestar"
+        "bond",
+        "outside",
+        "want",
+        "prioritize",
+        "investors"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US activates highest-level response to Ebola outbreak",
+      "description": "Doses of an experimental treatment will also be sent to the DRC and Uganda.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/us-activates-highest-level-response-to-ebola-outbreak",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "International travel restrictions and health screenings may tighten soon.",
+      "context": "The United States deployed top-tier emergency resources to combat Ebola overseas.",
+      "next": "Medical teams will ship experimental treatments to affected African nations.",
+      "bigger": "Global health agencies are accelerating efforts to contain infectious diseases.",
+      "publishedAt": "2026-06-27T08:03:00+08:00",
+      "topicFingerprint": [
+        "outbreak",
+        "level",
+        "highest",
+        "response",
+        "activates"
       ],
       "alternates": []
     },
@@ -359,87 +237,168 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 18,
-      "why": "Global markets may continue to see cheap Chinese exports.",
-      "context": "Chinese factory earnings remained strong despite ongoing domestic economic issues.",
-      "next": "Western nations may impose more tariffs to protect local industries.",
-      "bigger": "Export dependence remains China's primary strategy for economic growth.",
+      "why": "Cheap manufactured goods may continue flooding international markets.",
+      "context": "Chinese factories maintained strong profits despite a domestic real estate slump.",
+      "next": "Western nations may impose new tariffs to protect local industries.",
+      "bigger": "China is doubling down on manufacturing to sustain economic growth.",
       "publishedAt": "2026-06-27T11:13:01+00:00",
       "topicFingerprint": [
-        "exports",
+        "stay",
+        "factories",
         "resilient",
-        "leans",
         "profits",
-        "industrial"
+        "exports"
       ],
       "alternates": []
     },
     {
-      "title": "S&P keeps U.S. sovereign rating at AA+ with stable outlook",
-      "description": "\u201cThe US economy\u2019s resilience should support solid fiscal revenue collection, including from continued tariffs, and stabilize fiscal deficits over the next several years.\u201d",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/27/sp-global-us-sovereign-credit-rating-aa-stable-outlook-debt-deficits/",
+      "title": "OpenAI defers public roll-out of GPT\u20115.6 as US seeks early access to frontier AI models",
+      "description": "OpenAI had presented its plans and the models\u2019 capabilities to the US government prior to the launch.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/openai-defers-public-roll-out-of-gpt-5-6-as-us-seeks-early-access-to-frontier-ai-models",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 16,
+      "why": "The launch of advanced AI tools you use may be delayed.",
+      "context": "OpenAI delayed its latest model release for US government safety reviews.",
+      "next": "Other AI developers may face similar governmental review processes.",
+      "bigger": "National security concerns are increasingly delaying consumer technology releases.",
+      "publishedAt": "2026-06-27T09:43:00+08:00",
+      "topicFingerprint": [
+        "us_entity",
+        "ai_group",
+        "anthropic",
+        "access",
+        "mythos"
+      ],
+      "alternates": [
+        {
+          "title": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
+          "description": "The decision underscores growing concern in Washington over the national security risks posed by powerful AI systems",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-defers-public-rollout-gpt-5-6-us-seeks-early-access-frontier-ai-models",
+          "category": "Technology",
+          "publishedAt": "2026-06-27T06:58:28+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "ai_group",
+            "anthropic",
+            "access",
+            "mythos"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Iran survived 3 months of war. Can it survive the aftermath?",
+      "description": "Three months of war with the United States and Israel may not have broken Iran\u2019s resistance, but its economy has been brought to its knees. Forty days of American and Israeli bombing in March and early April \u2013 targeting energy grids, steel mills, petrochemical plants, ports and transport corridors \u2013",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/week-asia/politics/article/3358522/iran-survived-3-months-war-can-it-survive-aftermath",
       "category": "Economy",
       "readingTime": 2,
-      "score": 11,
-      "why": "Federal borrowing costs should remain stable in the near term.",
-      "context": "S&P kept the United States credit rating at its current level.",
-      "next": "The government will likely continue relying heavily on tariff revenues.",
-      "bigger": "Major economies are managing massive debt loads through resilient tax collections.",
-      "publishedAt": "2026-06-27T14:09:31+00:00",
+      "score": 12,
+      "why": "Iranian citizens may face severe shortages of food and medicine.",
+      "context": "Intense military conflicts have left the Iranian economy severely damaged.",
+      "next": "Internal unrest could grow as economic conditions worsen.",
+      "bigger": "Prolonged military conflicts leave deep, lasting scars on national infrastructure.",
+      "publishedAt": "2026-06-27T05:00:09+00:00",
       "topicFingerprint": [
-        "sovereign",
-        "keeps",
-        "outlook",
-        "stable",
-        "rating"
+        "survived",
+        "survive",
+        "months",
+        "war",
+        "aftermath"
       ],
       "alternates": []
     },
     {
-      "title": "Three finalists emerge to lead FDA",
-      "description": "White House aide Heidi Overton, oncologist Jeffrey Vacirca and senior Pentagon health official Stephen Ferrara are all in the running to be the next FDA commissioner , sources tell Axios. Why it matters: The agency is moving to repair its relationship with industry and rehire critical staff since th",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/fda-finalists-white-house-trump-makary",
-      "category": "Geopolitics",
+      "title": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
+      "description": "eSafety is actively investigating \u2060possible non-compliance by five platforms: Meta's Instagram and Facebook, Google's YouTube, Snap's Snapchat, and TikTok.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/27/australia-toughens-kids-social-media-ban-doubles-tech-firm-fines.html",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 7,
-      "why": "New leadership could change how drugs and medical devices are approved.",
-      "context": "Three candidates emerged as finalists to head the food safety agency.",
-      "next": "The president will nominate one finalist for Senate confirmation.",
-      "bigger": "Federal healthcare policy will likely shift based on the new leader.",
-      "publishedAt": "2026-06-26T14:45:13+00:00",
+      "score": 13,
+      "why": "Australian teenagers may lose access to major social media platforms.",
+      "context": "Australia increased fines for platforms failing to keep children off social media.",
+      "next": "Other democratic nations may draft similar restrictive age-limit laws.",
+      "bigger": "Governments worldwide are taking direct control over digital youth safety.",
+      "publishedAt": "2026-06-27T13:03:43+00:00",
       "topicFingerprint": [
-        "emerge",
-        "finalists",
-        "lead",
-        "fda"
+        "media",
+        "social",
+        "australia",
+        "ban",
+        "tech"
+      ],
+      "alternates": [
+        {
+          "title": "Australia toughens under-16 social media ban and doubles tech firm penalties",
+          "description": "Australia toughens its under-16 social media ban, doubling maximum penalties for non-compliant tech firms to 99 million dollars.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/4b8ad0d3-19da-49be-b19e-338ab4044d75.html",
+          "category": "Technology",
+          "publishedAt": "2026-06-27T13:10:10+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "media",
+            "social",
+            "australia",
+            "ban",
+            "tech"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "World\u2019s largest particle smasher halts for 4 years in upgrade to boost hunt for dark matter",
+      "description": "The upgrades are aimed to further increase the precision and intensity of particle collisions.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/worlds-largest-particle-smasher-halts-for-upgrade-to-boost-hunt-for-dark-matter",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 4,
+      "why": "Breakthrough scientific discoveries may be delayed for several years.",
+      "context": "The Large Hadron Collider paused operations for major technological upgrades.",
+      "next": "Engineers will install highly sensitive instruments to detect new particles.",
+      "bigger": "Scientific progress relies heavily on massive global infrastructure projects.",
+      "publishedAt": "2026-06-27T23:10:00+08:00",
+      "topicFingerprint": [
+        "hunt",
+        "dark",
+        "particle",
+        "halts",
+        "upgrade"
       ],
       "alternates": []
     },
     {
-      "title": "Strong earthquakes strike northern Japan and near Mt Fuji, no tsunami threat",
-      "description": "A magnitude 5.6 earthquake struck Yamanashi prefecture, west of Tokyo, late Friday. No tsunami threat or serious injuries were reported.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/379c653a-7a5d-4866-b907-81b55d645f0c.html",
+      "title": "2 tropical storms pound Japan with floods and landslides, killing 1",
+      "description": "Two major storms are pounding Japan, causing landslides and floods",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/tropical-storms-pound-japan-causing-flooding-landslides-134269072",
       "category": "Environment",
       "readingTime": 2,
-      "score": 19,
-      "why": "Local residents may experience structural damage and temporary power cuts.",
-      "context": "A powerful earthquake shook parts of Japan without causing a tsunami.",
-      "next": "Seismologists will monitor the area for potential aftershocks.",
-      "bigger": "Highly active seismic zones require constant infrastructure reinforcement.",
-      "publishedAt": "2026-06-26T15:14:14+00:00",
+      "score": 8,
+      "why": "Local residents face severe travel delays and power outages.",
+      "context": "Two powerful storms triggered deadly flooding and landslides across Japan.",
+      "next": "Emergency services will work to rescue stranded citizens.",
+      "bigger": "Extreme weather events are putting global infrastructure under unprecedented stress.",
+      "publishedAt": "2026-06-27T11:13:56-04:00",
       "topicFingerprint": [
-        "earthquakes",
-        "threat",
-        "strong",
-        "fuji",
-        "tsunami"
+        "landslides",
+        "pound",
+        "tropical",
+        "killing",
+        "storms"
       ],
       "alternates": []
-    }
-  ],
-  "candidatePool": [
+    },
     {
       "title": "OpenAI poaches Uber India\u2019s chief to run its biggest market outside the United States",
       "description": "OpenAI has appointed Prabhjeet Singh, the outgoing president of Uber India and South Asia, as its first managing director for India. Singh will join in September and report to Kiran Mani, the company\u2019s managing director for Asia Pacific, OpenAI told TechCrunch. He will oversee consumer growth, enter",
@@ -448,17 +407,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 13,
-      "why": "Indian businesses may see rapid deployment of localized AI tools.",
-      "context": "OpenAI hired a prominent ride-hailing executive to lead its Indian operations.",
-      "next": "OpenAI will likely establish a physical headquarters in India soon.",
-      "bigger": "AI companies are aggressively targeting emerging digital economies for growth.",
+      "why": "Tech job opportunities in India's AI sector could rise.",
+      "context": "OpenAI hired Uber India's former president to lead its Indian operations.",
+      "next": "OpenAI will launch customized, localized AI services in India.",
+      "bigger": "Global tech firms are shifting primary growth strategies toward India.",
       "publishedAt": "2026-06-27T13:59:22+00:00",
       "topicFingerprint": [
         "openai",
+        "poaches",
         "chief",
-        "india",
         "outside",
-        "poaches"
+        "biggest"
       ],
       "alternates": [
         {
@@ -468,19 +427,21 @@
           "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
           "category": "Financial",
           "publishedAt": "2026-06-26T18:19:36+00:00",
-          "score": 11,
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
             "openai",
+            "poaches",
             "chief",
-            "india",
             "outside",
-            "poaches"
+            "biggest"
           ],
           "group_id": 0
         }
       ]
-    },
+    }
+  ],
+  "candidatePool": [
     {
       "title": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
       "description": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
@@ -489,56 +450,176 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "Better local strategies may help Ukrainian forces hold their ground longer.",
-      "context": "A military expert analyzed Ukraine's tactical capabilities in its ongoing war.",
-      "next": "Both military forces will continue adapting their drone tactics.",
-      "bigger": "Technological adaptation is redefining traditional battlefield dominance in modern warfare.",
+      "why": "European security dynamics may shift if Ukrainian tactics succeed.",
+      "context": "A military expert evaluated Ukraine's tactical advantages in its ongoing war.",
+      "next": "Both sides will likely adjust their frontline drone strategies.",
+      "bigger": "Modern warfare is rapidly evolving through localized technological innovations.",
       "publishedAt": "2026-06-27T07:40:20-04:00",
       "topicFingerprint": [
-        "ukraine",
+        "whether",
+        "localized",
+        "analyzes",
         "modern",
-        "historian",
-        "power",
-        "advantage"
+        "combat"
       ],
       "alternates": []
     },
     {
-      "title": "Newsom urges a national 'billionaires' tax' while fighting one in California",
-      "description": "The governor announced his agenda a day after an influential health care union in California pledged to go forward with a ballot measure that would impose a one-time 5% tax on the assets of billionaires living in the state as of Jan. 1, 2026. Newsom opposes that measure.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california",
+      "title": "Reporter's Notebook: What its like to report from an Ebola outbreak",
+      "description": "Covering an Ebola outbreak means taking extra precautions. In this Reporter's Notebook, NPR's Emmet Livingstone takes us behind the reporting in eastern Congo.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak",
       "category": "Health",
       "readingTime": 2,
       "score": 9,
-      "why": "Wealthy individuals may face different tax rules depending on where they live.",
-      "context": "California's governor proposed a federal wealth tax while opposing state-level efforts.",
-      "next": "Labor unions will push forward with state-level ballot measures.",
-      "bigger": "Political leaders face intense pressure to balance tax revenues and business retention.",
-      "publishedAt": "2026-06-26T14:56:44-04:00",
+      "why": "Accurate health news from danger zones may become harder to access.",
+      "context": "A journalist shared the strict safety protocols of reporting on Ebola.",
+      "next": "Media outlets may reduce on-the-ground reporting in active disease zones.",
+      "bigger": "Media organizations face rising safety risks when covering global health crises.",
+      "publishedAt": "2026-06-27T17:05:56-04:00",
       "topicFingerprint": [
-        "california",
-        "billionaires",
-        "ballot",
-        "tax",
-        "governor"
+        "outbreak",
+        "reporter",
+        "notebook",
+        "ebola"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump threatens 100% tax on European imports if countries impose tax on digital services",
+      "description": "Trump said the new tax would supersede any previously negotiated trade deals",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services/article71152030.ece",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Prices for European luxury goods and cars may skyrocket soon.",
+      "context": "Donald Trump renewed threats of massive tariffs over European digital taxes.",
+      "next": "The European Union may prepare retaliatory tariffs on American goods.",
+      "bigger": "Protectionist policies are increasingly threatening traditional global trade alliances.",
+      "publishedAt": "2026-06-27T12:53:51+05:30",
+      "topicFingerprint": [
+        "donald_trump",
+        "digital",
+        "threatens",
+        "services",
+        "tax"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Man with same name as U.S. Sen. Dan Sullivan is eligible for Alaska's primary ballot, judge rules",
+      "description": "The judge ruled that the division's decision to exclude Dan J. Sullivan because his candidacy was not \"in good faith\" was not based on the Constitution, Alaska law or the division's own regulations.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/man-with-same-name-as-u-s-sen-dan-sullivan-is-eligible-for-alaskas-primary-ballot-judge-rules",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Alaskan voters may face confusion on their upcoming primary ballots.",
+      "context": "A judge allowed an Alaskan candidate to run despite sharing a senator's name.",
+      "next": "Election officials will print ballots featuring both identical names.",
+      "bigger": "Courts are strictly limiting state power to exclude candidates from ballots.",
+      "publishedAt": "2026-06-27T18:35:24-04:00",
+      "topicFingerprint": [
+        "sullivan",
+        "name",
+        "dan",
+        "alaska",
+        "primary"
       ],
       "alternates": [
         {
-          "title": "Newsom urges national billionaire tax as California one will appear on ballot",
-          "description": "California voters will decide on a one-time 5% wealth tax for billionaires. Governor Newsom opposes the state measure but urges a national billionaire tax.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/4a943ac6-d321-429b-854c-089e10feae3f.html",
-          "category": "Financial",
-          "publishedAt": "2026-06-26T13:14:49+00:00",
-          "score": 8,
+          "title": "Second Dan Sullivan eligible for ballot in Alaska Senate race, judge rules",
+          "description": "A man with the same name and party affiliation as Alaska Republican U.S. Sen. Dan Sullivan is eligible to challenge the senator in the August primary, a judge ruled Friday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/two-dan-sullivan-alaska-senate-race-ballot-judge-ruling/",
+          "category": "Policy",
+          "publishedAt": "2026-06-27T17:48:05-04:00",
+          "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "california",
-            "billionaires",
-            "ballot",
-            "tax",
-            "governor"
+            "sullivan",
+            "name",
+            "dan",
+            "alaska",
+            "primary"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Dan Sullivan can challenge US Senator Dan Sullivan in Alaska primary, judge rules",
+          "description": "A man with the same name and party affiliation as Alaska Republican US Senator Dan Sullivan is eligible to challenge the senator in the August primary, a judge ruled on Friday. Superior Court Judge Thomas Matthews\u2019 ruling overturns a June 15 decision by Division of Elections Director Carol Beecher t",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358620/dan-sullivan-can-challenge-us-senator-dan-sullivan-alaska-primary-judge-rules",
+          "category": "General",
+          "publishedAt": "2026-06-27T19:30:38+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "sullivan",
+            "name",
+            "dan",
+            "alaska",
+            "primary"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Tens of thousands march in the first Budapest Pride since Viktor Orb&aacute;n was voted out",
+      "description": "Saturday's Pride march came a little more than a year after Orb\u00e1n's nationalist-populist government passed legislation and a constitutional amendment to outlaw the event, drawing criticism from human rights groups and politicians across the European Union.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/tens-of-thousands-march-in-the-first-budapest-pride-since-viktor-orban-was-voted-out",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Citizens may experience greater safety and freedom during public demonstrations.",
+      "context": "Large crowds gathered for Budapest Pride following a shift in government.",
+      "next": "The new Hungarian government may officially repeal anti-LGBTQ legislation.",
+      "bigger": "Political transitions in Eastern Europe can rapidly alter civil rights landscapes.",
+      "publishedAt": "2026-06-27T13:06:24-04:00",
+      "topicFingerprint": [
+        "viktor",
+        "pride",
+        "budapest",
+        "thousands",
+        "march"
+      ],
+      "alternates": [
+        {
+          "title": "Budapest pride continues despite heat",
+          "description": "This Saturday marks Budapest's first official Pride march since longtime LGBTQ rights opponent Viktor Orb\u00e1n left office as prime minister. Thousands of people are expected to take part despite soaring temperatures. While this year's parade has been fully authorised, tensions remain. France 24 corres",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/budapest-pride-continues-despite-heat",
+          "category": "Policy",
+          "publishedAt": "2026-06-27T12:30:04+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "viktor",
+            "pride",
+            "budapest",
+            "thousands",
+            "march"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Tens of thousands brave record heatwave for first post-Orban Budapest Pride",
+          "description": "Tens of thousands braved record heat for Budapest's 31st annual Pride march, the first since Viktor Orb\u00e1n left office following his April election defeat.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/e1b145ae-5b07-41c5-88e0-60d4dc482c00.html",
+          "category": "General",
+          "publishedAt": "2026-06-27T19:10:45+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "viktor",
+            "pride",
+            "budapest",
+            "thousands",
+            "march"
           ],
           "group_id": 0
         }
@@ -552,61 +633,61 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Your online networking habits could delay your visa approval.",
+      "why": "Your online connections may delay or block your US immigration status.",
       "context": "Immigration lawyers warned that social media activity could affect citizenship applications.",
-      "next": "Applicants may scrub their social media profiles before filing paperwork.",
-      "bigger": "Governments are increasingly scrutinizing digital footprints for immigration vetting.",
+      "next": "Applicants will likely begin scrubbing their professional online profiles.",
+      "bigger": "Government agencies are heavily relying on digital footprints for vetting procedures.",
       "publishedAt": "2026-06-27T18:01:28+05:30",
       "topicFingerprint": [
-        "linkedin",
-        "backlash",
+        "citizenship",
         "weighs",
-        "faces",
+        "backlash",
+        "impact",
         "request"
       ],
       "alternates": []
     },
     {
-      "title": "Who is Kondragunta Mahalakshmamma? Woman, 94, renounces US citizenship, wants to spend final days in \u2018motherland India\u2019",
-      "description": "Kondragunta Mahalakshmamma, 94, requested the reinstatement of her Indian citizenship after renouncing her U.S. citizenship.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/who-is-kondragunta-mahalakshmamma-woman-94-renounces-us-citizenship-wants-to-spend-final-days-in-motherland-india-101782559887315.html",
-      "category": "Policy",
+      "title": "\u2018This is an unhealthy environment\u2019: Arctic researcher Li Xueke leaves the US for Hong Kong",
+      "description": "For climate scientist Li Xueke, the decision to leave the University of Pennsylvania for Hong Kong was a pivot to the front lines of the global green economy. As climate change turns the Arctic into a seasonally navigable ocean, Li\u2019s research on critical new shipping routes could shed light on the e",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/science/article/3358589/unhealthy-environment-arctic-researcher-li-xueke-leaves-us-hong-kong",
+      "category": "Environment",
       "readingTime": 2,
       "score": 8,
-      "why": "She will lose access to US social benefits and travel privileges.",
-      "context": "An elderly woman gave up her American citizenship to return to India.",
-      "next": "Indian authorities will process her residency and citizenship requests.",
-      "bigger": "Aging immigrants are increasingly returning to their home countries for retirement.",
-      "publishedAt": "2026-06-27T17:13:47+05:30",
+      "why": "US universities may lose critical research talent to Asian institutions.",
+      "context": "A prominent climate scientist left a US university for Hong Kong.",
+      "next": "More Chinese-born scientists may exit American research programs.",
+      "bigger": "Geopolitical tensions are disrupting global scientific collaboration and talent retention.",
+      "publishedAt": "2026-06-27T12:00:07+00:00",
       "topicFingerprint": [
-        "mahalakshmamma",
-        "india",
-        "woman",
-        "kondragunta",
-        "renounces"
+        "environment",
+        "hong",
+        "arctic",
+        "leaves",
+        "researcher"
       ],
       "alternates": []
     },
     {
-      "title": "Fact check: Throwing cold water on heat wave disinformation",
-      "description": "An outdated air-conditioning law, a viral health myth about sleeping with the fan on and the age-old climate change hoax allegation: DW checked what's spreading in Europe's heat wave.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297",
-      "category": "Health",
+      "title": "Iran urge FIFA to stand up to \u2018really terrible\u2019 World Cup treatment by US",
+      "description": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us",
+      "category": "General",
       "readingTime": 2,
-      "score": 8,
-      "why": "Misleading advice could put your health at risk during hot weather.",
-      "context": "Fact-checkers debunked several viral myths regarding extreme heat waves in Europe.",
-      "next": "Social platforms will likely label or remove these viral myths.",
-      "bigger": "Climate change denial and health misinformation continue to spread rapidly online.",
-      "publishedAt": "2026-06-26T15:31:00+00:00",
+      "score": 7,
+      "why": "International sports events may face political disruptions and boycotts.",
+      "context": "Iran requested FIFA intervene over alleged mistreatment during the World Cup.",
+      "next": "FIFA will review the official complaint regarding team treatment.",
+      "bigger": "Global sporting tournaments are increasingly used as arenas for geopolitical disputes.",
+      "publishedAt": "2026-06-27T18:30:26+00:00",
       "topicFingerprint": [
-        "disinformation",
-        "cold",
-        "fact",
-        "water",
-        "throwing"
+        "cup",
+        "face",
+        "group",
+        "fifa",
+        "terrible"
       ],
       "alternates": []
     },
@@ -617,164 +698,93 @@
       "url": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket",
       "category": "General",
       "readingTime": 2,
-      "score": 7,
-      "why": "You may lose your money or access to the games.",
-      "context": "Many World Cup fans faced ticket cancellations on a major resale platform.",
-      "next": "Frustrated consumers will likely demand refunds and stricter ticket regulations.",
-      "bigger": "Online ticket resellers continue to operate with minimal buyer protections.",
+      "score": 6,
+      "why": "You may lose money or access to major sporting events.",
+      "context": "Cancelled resale tickets left many World Cup fans stranded without entry.",
+      "next": "Fans will seek refunds or alternative tickets through secondary markets.",
+      "bigger": "Online ticket marketplaces face rising pressure to strengthen buyer protection laws.",
       "publishedAt": "2026-06-27T10:00:01+00:00",
       "topicFingerprint": [
-        "stubhub",
         "cup",
+        "stubhub",
+        "ticket",
         "canceled",
-        "resale",
-        "ticket"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US safety agency ends power steering probe into 376,000 Tesla EVs",
-      "description": "Tesla in early 2025 recalled the vehicles but said the move was not in response to the probe.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/us-safety-agency-ends-power-steering-probe-into-376000-tesla-evs",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Tesla owners face fewer immediate regulatory hurdles regarding steering safety.",
-      "context": "Federal safety regulators closed an investigation into Tesla power steering issues.",
-      "next": "The safety agency will continue monitoring future consumer steering complaints.",
-      "bigger": "Electric vehicle safety remains under intense scrutiny from global regulators.",
-      "publishedAt": "2026-06-27T17:20:00+08:00",
-      "topicFingerprint": [
-        "tesla",
-        "agency",
-        "power",
-        "safety",
-        "steering"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Reporter urges US supreme court to halt ruling forcing her to reveal sources or pay $800-a-day fine",
-      "description": "Catherine Herridge makes final bid to stave off penalty related to series of stories she wrote in 2017 for Fox News More than two years ago, a US district court judge took the extraordinary step of holding the veteran investigative journalist Catherine Herridge in civil contempt, ordering her to pay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Press freedom and confidential source protection could be severely weakened.",
-      "context": "A journalist appealed to block fines for refusing to name sources.",
-      "next": "The Supreme Court will decide whether to hear the case.",
-      "bigger": "Courts are increasingly clashing with media organizations over source confidentiality.",
-      "publishedAt": "2026-06-26T22:43:22+00:00",
-      "topicFingerprint": [
-        "ago",
-        "her",
-        "years",
-        "she",
-        "us_entity"
+        "resale"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "china": [
       {
-        "title": "US bans imports of more Chinese technology goods",
-        "description": "The expanded ban is set to take effect in early July.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/us-bans-imports-of-more-chinese-technology-goods",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T07:45:00+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: technology"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: imports"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "US bans imports of more Chinese technology goods",
-            "description": "The expanded ban is set to take effect in early July",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/international/global/us-bans-imports-more-chinese-technology-goods",
-            "category": "Technology",
-            "publishedAt": "2026-06-27T01:33:02+00:00",
-            "score": 9,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "imports",
-              "goods",
-              "july",
-              "ban",
-              "early"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "imports",
-          "goods",
-          "july",
-          "ban",
-          "early"
-        ]
-      },
-      {
-        "title": "\u2018This is an unhealthy environment\u2019: Arctic researcher Li Xueke leaves the US for Hong Kong",
-        "description": "For climate scientist Li Xueke, the decision to leave the University of Pennsylvania for Hong Kong was a pivot to the front lines of the global green economy. As climate change turns the Arctic into a seasonally navigable ocean, Li\u2019s research on critical new shipping routes could shed light on the e",
+        "title": "Global hydropower outlook report puts China at the head of the pack",
+        "description": "China is cementing its dominance in global hydropower, highlighted by the Yarlung Tsangpo hydropower project \u2013 expected to be the world\u2019s largest \u2013 and a massive pipeline of \u201cpumped storage\u201d facilities serving as Beijing\u2019s strategic push to transform its fossil-fuel-reliant electricity grid into a s",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3358589/unhealthy-environment-arctic-researcher-li-xueke-leaves-us-hong-kong",
+        "url": "https://www.scmp.com/economy/china-economy/article/3358452/global-hydropower-outlook-report-puts-china-head-pack",
         "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Environment",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-06-27T12:00:07+00:00",
+        "publishedAt": "2026-06-27T09:00:06+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 10,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: research"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: environment"
-          },
           {
             "points": 2,
             "reason": "important keyword match: global"
           },
           {
             "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: electricity"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "hydropower",
+          "outlook",
+          "pack",
+          "puts",
+          "china_entity"
+        ]
+      },
+      {
+        "title": "Polestar barred from future US sales under Chinese tech rules",
+        "description": "The rules are designed to block connected vehicles with Chinese software, hardware or ownership ties on national security grounds",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/polestar-barred-future-us-sales-under-chinese-tech-rules",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-06-26T14:02:33+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: software"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: hardware"
+          },
+          {
+            "points": 2,
             "reason": "important keyword match: us"
           },
           {
@@ -782,78 +792,90 @@
             "reason": "other category"
           },
           {
-            "points": -4,
-            "reason": "South China regional news"
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "arctic",
-          "hong",
-          "researcher",
-          "environment",
-          "unhealthy"
+          "rules",
+          "barred",
+          "tech",
+          "future",
+          "polestar"
         ]
       }
     ],
-    "china": [
+    "united_states": [
       {
-        "title": "Coffee, chillies and cashews: a new recipe to spice up China-Africa trade relations",
-        "description": "As China\u2019s relationship with African countries deepens, the country\u2019s influence is spreading into more areas. In our series Jevans Nyabiage looks at how Beijing\u2019s blanket import clearance for three African food products will affect ties between them, and the potential effects for other governments a",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3358542/coffee-chillies-and-cashews-new-recipe-spice-china-africa-trade-relations",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
+        "title": "Polestar barred from future US sales under Chinese tech rules",
+        "description": "The rules are designed to block connected vehicles with Chinese software, hardware or ownership ties on national security grounds",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/polestar-barred-future-us-sales-under-chinese-tech-rules",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-06-27T01:00:08+00:00",
+        "publishedAt": "2026-06-26T14:02:33+00:00",
         "reason": "within_48h",
         "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: import"
+            "reason": "important keyword match: security"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "important keyword match: software"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: hardware"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "geopolitics important keyword match: import"
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "spice",
-          "coffee",
-          "cashews",
-          "chillies",
-          "recipe"
+          "rules",
+          "barred",
+          "tech",
+          "future",
+          "polestar"
         ]
       },
       {
         "title": "US bans imports of more Chinese technology goods",
-        "description": "The expanded ban is set to take effect in early July.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/us-bans-imports-of-more-chinese-technology-goods",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "description": "The expanded ban is set to take effect in early July",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/us-bans-imports-more-chinese-technology-goods",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-06-27T07:45:00+08:00",
+        "publishedAt": "2026-06-27T01:33:02+00:00",
         "reason": "within_48h",
         "score": 9,
         "score_debug": [
@@ -875,73 +897,85 @@
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "High Quality Source match: Business Times"
           }
         ],
         "group_id": 0,
         "alternates": [
           {
             "title": "US bans imports of more Chinese technology goods",
-            "description": "The expanded ban is set to take effect in early July",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/international/global/us-bans-imports-more-chinese-technology-goods",
+            "description": "The expanded ban is set to take effect in early July.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/united-states/us-bans-imports-of-more-chinese-technology-goods",
             "category": "Technology",
-            "publishedAt": "2026-06-27T01:33:02+00:00",
+            "publishedAt": "2026-06-27T07:45:00+08:00",
             "score": 9,
             "readingTime": 2,
             "topicFingerprint": [
-              "imports",
               "goods",
               "july",
-              "ban",
-              "early"
+              "technology",
+              "early",
+              "set"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "imports",
           "goods",
           "july",
-          "ban",
-          "early"
+          "technology",
+          "early",
+          "set"
         ]
       }
     ],
-    "germany": [
+    "india": [
       {
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbr\u00fccken, over the border from France.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Environment",
+        "title": "Who is Kondragunta Mahalakshmamma? Woman, 94, renounces US citizenship, wants to spend final days in \u2018motherland India\u2019",
+        "description": "Kondragunta Mahalakshmamma, 94, requested the reinstatement of her Indian citizenship after renouncing her U.S. citizenship.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/who-is-kondragunta-mahalakshmamma-woman-94-renounces-us-citizenship-wants-to-spend-final-days-in-motherland-india-101782559887315.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-26T18:14:36+00:00",
+        "publishedAt": "2026-06-27T17:13:47+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 3,
-            "reason": "environment important keyword match: highest"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: citizenship"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: citizenship"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: who is"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
-          "heatwave",
-          "record",
-          "germany",
-          "temperature"
+          "final",
+          "citizenship",
+          "wants",
+          "kondragunta",
+          "woman"
         ]
       }
     ],
@@ -976,226 +1010,116 @@
           },
           {
             "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "survive",
+          "brutal",
+          "italy",
+          "heat"
+        ]
+      },
+      {
+        "title": "Thousands of Vespas swarm Rome to mark 80 years of the iconic scooter",
+        "description": "Around 15,000 Vespa enthusiasts gathered in Rome to celebrate the 80th anniversary of the iconic scooter, with 160 models on show from 1946 to today.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/89b9603a-449d-4e6b-b144-fb843bb13d50.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-27T15:11:49+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "iconic",
+          "vespas",
+          "scooter",
+          "thousands",
+          "years"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+        "description": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-06-27T20:48:16+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [
           {
-            "title": "The Mighty Colorado Is Vanishing, and the Fixes Are Getting Weird",
-            "description": "This story was originally published by Grist and is reproduced here as part of the Climate Desk collaboration. The crisis on the Colorado River is simple: The seven Western states that border the essential waterway use more water than it contains. Chronic overuse has drained its two largest reservoi",
-            "source": "Mother Jones",
-            "url": "https://www.motherjones.com/politics/2026/06/colorado-river-drought-technology-solutions-federal-funding-interior-department/",
+            "title": "Records tumble as European heatwave shifts east",
+            "description": "All-time temperature records were set on June 27 in Germany, Denmark and the Czech Republic.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/temperature-records-shattered-in-europe-as-deadly-heatwave-heads-east",
             "category": "Environment",
-            "publishedAt": "2026-06-26T11:30:00+00:00",
+            "publishedAt": "2026-06-28T03:15:00+08:00",
             "score": 4,
             "readingTime": 2,
             "topicFingerprint": [
-              "story",
-              "originally",
-              "climate",
-              "part",
-              "western"
+              "germany",
+              "heatwave",
+              "denmark",
+              "eu_entity",
+              "czech"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "story",
-          "originally",
-          "climate",
-          "part",
-          "western"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing \u2018Project Cosmos\u2019",
-        "description": "Welcome to Carbon Brief\u2019s DeBriefed. An essential guide to the week s key developments relating to climate... The post DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing \u2018Project Cosmos\u2019 appeared first on Carbon Brief .",
-        "source": "Carbon Brief",
-        "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
-        "fromUrl": "https://www.carbonbrief.org/feed/",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-06-26T14:27:07+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: essential"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "week",
-          "records",
-          "across",
+          "germany",
+          "heatwave",
+          "denmark",
           "eu_entity",
-          "broken"
-        ]
-      },
-      {
-        "title": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies",
-        "description": "Andy Burnham has set himself apart from the man he expects to replace as British prime minister",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/andy-burnham-distanced-uk-prime-minister-starmer-stuck-134266691",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T01:22:06-04:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "burnham",
-          "stuck",
-          "himself",
-          "starmer",
-          "andy"
+          "czech"
         ]
       }
     ],
     "mexico": [
       {
-        "title": "Catholic bishops call for humane treatment of migrants during US-Mexico border Mass",
-        "description": "NOGALES, Arizona, June 27 - More than 100 Catholic bishops, nuns, priests and parishioners joined a procession across the U.S.-Mexico border on Friday evening, urging the U.S. government to treat migrants with dignity and respect.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/catholic-bishops-call-for-humane-treatment-of-migrants-during-us-mexico-border-mass",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T17:22:04+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "treatment",
-          "mexico",
-          "border",
-          "bishops",
-          "call"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Why a conservative US senator wants to fix India's Green Card crisis",
-        "description": "As the EB-2 visa quota for Indian nationals runs dry for FY2026, Republican Senator Roger Marshall rallies behind cap elimination",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/why-a-conservative-us-senator-wants-to-fix-indias-green-card-crisis-101782500911487.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T02:20:04+05:30",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: crisis"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "fix",
-          "green",
-          "senator",
-          "india",
-          "conservative"
-        ]
-      },
-      {
-        "title": "India\u2019s late monsoon rains leave cities and fields parched",
-        "description": "The late arrival of India\u2019s monsoon season and below-average rainfall have caused problems ranging from planting delays for farmers to water restrictions for construction sites in its largest business hub, Mumbai. Water shortages have been reported around the country due to the late start of the rai",
+        "title": "US, Mexico Catholic bishops call for humane treatment of migrants",
+        "description": "More than 100 Catholic bishops, nuns, priests and parishioners joined a procession across \u2060the US-Mexico border on Friday evening, urging the US government to treat migrants with dignity and respect. The procession, from Nogales, Arizona, to its sister city in the Mexican state of Sonora, was planne",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3358597/indias-late-monsoon-rains-leave-cities-and-fields-parched",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3358618/us-mexico-catholic-bishops-call-humane-treatment-migrants",
         "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T08:15:33+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "parched",
-          "leave",
-          "india",
-          "monsoon",
-          "cities"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Australia considers tougher enforcement of social media ban for teens",
-        "description": "The government plans to stress-test the law which bans platforms like Meta's Instagram and Google's YouTube from giving under-16s accounts.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/australia-considers-tougher-enforcement-of-social-media-ban-for-teens-19932847.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-06-26T09:04:53+05:30",
+        "publishedAt": "2026-06-27T14:59:19+00:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
@@ -1205,214 +1129,40 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: law"
+            "reason": "important keyword match: us"
           },
           {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: meta"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [
           {
-            "title": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
-            "description": "eSafety is actively investigating \u2060possible non-compliance by five platforms: Meta's Instagram and Facebook, Google's YouTube, Snap's Snapchat, and TikTok.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/06/27/australia-toughens-kids-social-media-ban-doubles-tech-firm-fines.html",
-            "category": "Technology",
-            "publishedAt": "2026-06-27T13:03:43+00:00",
-            "score": 13,
+            "title": "Catholic bishops call for humane treatment of migrants during US-Mexico border Mass",
+            "description": "NOGALES, Arizona, June 27 - More than 100 Catholic bishops, nuns, priests and parishioners joined a procession across the U.S.-Mexico border on Friday evening, urging the U.S. government to treat migrants with dignity and respect.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/catholic-bishops-call-for-humane-treatment-of-migrants-during-us-mexico-border-mass",
+            "category": "Policy",
+            "publishedAt": "2026-06-27T17:22:04+08:00",
+            "score": 5,
             "readingTime": 2,
             "topicFingerprint": [
-              "australia",
-              "media",
-              "ban",
-              "social",
-              "tech"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Australia toughens kids\u2019 social media ban, doubles potential penalties for tech firms",
-            "description": "",
-            "source": "Investing.com",
-            "url": "https://www.investing.com/news/stock-market-news/australia-toughens-kids-social-media-ban-doubles-potential-penalties-for-tech-firms-4763971",
-            "category": "Technology",
-            "publishedAt": "2026-06-27T12:48:47+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "australia",
-              "media",
-              "ban",
-              "social",
-              "tech"
+              "evening",
+              "across",
+              "dignity",
+              "procession",
+              "urging"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "australia",
-          "media",
-          "ban",
-          "social",
-          "tech"
-        ]
-      },
-      {
-        "title": "Australian Prof. Ajay Narendra discusses his team's discovery of the 'ballista spider'",
-        "description": "Prof. Ajay Narendra from Macquarie University in Australia tells NPR about his team's discovery of a particularly rare, and high-powered, hunting method of the informally named \"ballista spider.\"",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/27/nx-s1-5871165/australian-prof-ajay-narendra-discusses-his-teams-discovery-of-the-ballista-spider",
-        "fromUrl": "https://feeds.npr.org/1007/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T07:40:23-04:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: NPR"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ajay",
-          "narendra",
-          "discusses",
-          "spider",
-          "team"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korean shares post worst week since March on US tech sell-off",
-        "description": "Circuit breakers were activated for the fifth time this year",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-korean-shares-post-worst-week-march-us-tech-sell",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-06-26T08:47:16+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "week",
-          "march",
-          "tech",
-          "sell",
-          "korean"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Paris Pride march postponed to September due to heatwave",
-        "description": "The Paris Pride march has been postponed to September due to an exceptional heatwave that has overwhelmed hospitals and emergency services.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/83e6bb9c-3263-4033-8dab-4f6f3b24456e.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-06-26T16:16:03+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "march",
-          "paris",
-          "pride",
-          "postponed",
-          "due"
-        ]
-      },
-      {
-        "title": "Europe heat wave: Why Paris banned drinking liquor and what alcohol does to the body",
-        "description": "Europe, according to the World Health Organization, has more liquor drinkers than any other region in the world.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/europe-heat-wave-why-paris-banned-drinking-liquor-what-alcohol-does-to-body-101782552374680.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-06-27T15:44:40+05:30",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "drinking",
-          "paris",
-          "eu_entity",
-          "body",
-          "liquor"
+          "evening",
+          "across",
+          "dignity",
+          "procession",
+          "urging"
         ]
       }
     ],
@@ -1441,32 +1191,102 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "trouble",
           "canada",
+          "trouble",
           "economy"
         ]
-      }
-    ],
-    "europe": [
+      },
       {
-        "title": "EU unveils plan to help the bloc's overlooked islands and coastal communities",
-        "description": "The European Union is focusing on improving transportation, ending energy isolation, and building more homes to support its islands and coastal communities",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/eu-unveils-plan-blocs-overlooked-islands-coastal-communities-134236206",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Environment",
+        "title": "South Africa\u2019s Broos smiles and snarls before Canada World Cup showdown",
+        "description": "South Africa and Canada are both competing in the knockout stages of a World Cup for the first time.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/27/south-africas-broos-smiles-and-snarls-ahead-of-canada-world-cup-showdown",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-06-26T09:49:12-04:00",
+        "publishedAt": "2026-06-27T18:55:14+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: energy"
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "smiles",
+          "cup",
+          "canada",
+          "showdown",
+          "snarls"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies",
+        "description": "Burnham, the former mayor of Greater Manchester who was sworn into Parliament hours after Starmer announced his resignation on Monday, will be constrained by the platform the center-left Labour Party was elected on that decisively ended 14 years of Conservative rule in 2024.",
+        "source": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/andy-burnham-distanced-himself-from-uk-prime-minister-starmer-but-may-be-stuck-with-his-policies",
+        "fromUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-06-27T11:44:13-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
           },
           {
             "points": 2,
-            "reason": "important keyword match: european union"
+            "reason": "important keyword match: labour"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: who was"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "andy",
+          "distanced",
+          "uk_entity",
+          "himself",
+          "starmer"
+        ]
+      },
+      {
+        "title": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing \u2018Project Cosmos\u2019",
+        "description": "Welcome to Carbon Brief\u2019s DeBriefed. An essential guide to the week s key developments relating to climate... The post DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing \u2018Project Cosmos\u2019 appeared first on Carbon Brief .",
+        "source": "Carbon Brief",
+        "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
+        "fromUrl": "https://www.carbonbrief.org/feed/",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-06-26T14:27:07+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: essential"
           },
           {
             "points": 2,
@@ -1480,11 +1300,77 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "islands",
-          "eu_entity",
-          "unveils",
-          "bloc",
-          "overlooked"
+          "introducing",
+          "london",
+          "project",
+          "across",
+          "debriefed"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Burkina Faso severs diplomatic ties with France",
+        "description": "The West African country's junta accused the former colonial power of undermining its national interests.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-27T14:21:31+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "diplomatic",
+          "faso",
+          "ties",
+          "france",
+          "severs"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australian Prof. Ajay Narendra discusses his team's discovery of the 'ballista spider'",
+        "description": "Prof. Ajay Narendra from Macquarie University in Australia tells NPR about his team's discovery of a particularly rare, and high-powered, hunting method of the informally named \"ballista spider.\"",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5871165/australian-prof-ajay-narendra-discusses-his-teams-discovery-of-the-ballista-spider",
+        "fromUrl": "https://feeds.npr.org/1007/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-06-27T07:40:23-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: NPR"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "ajay",
+          "australian",
+          "prof",
+          "spider",
+          "discusses"
         ]
       }
     ]
