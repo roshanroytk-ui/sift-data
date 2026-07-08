@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T15:11:36.871712",
+  "updatedAt": "2026-07-08T17:20:49.420379",
   "insight": {
     "title": "Whales Sleep Standing Up",
     "subtitle": "Instead of lying down, the world\u2019s largest predators nap by bobbing vertically like giant, silent pillars.",
@@ -26,64 +26,88 @@
   },
   "news": [
     {
+      "title": "IMF cuts global growth forecast, says AI is helping offset impact of Iran war",
+      "description": "The IMF has lowered its 2026 global growth forecast to 3% and raised its inflation outlook, saying the AI-driven technology boom is partly offsetting the economic impact of geopolitical tensions, while India remains among the world's fastest-growing major economies.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/economy/imf-cuts-global-growth-forecast-says-ai-is-helping-offset-impact-of-middle-east-tensions-19940410.htm",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 23,
+      "why": "Your monthly expenses may rise due to higher inflation.",
+      "context": "The IMF lowered its global growth forecast due to geopolitical tensions.",
+      "next": "Economic policies may adjust to manage inflation and growth.",
+      "bigger": "Global economic stability faces challenges from conflicts and inflation.",
+      "publishedAt": "2026-07-08T18:38:23+05:30",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "donald_trump",
+        "nato",
+        "strikes",
+        "oil"
+      ],
+      "alternates": [
+        {
+          "title": "IMF sees world economy growing just 3% this year amid Iran war",
+          "description": "The International Monetary Fund on Wednesday modestly downgraded its outlook for the world economy this year, citing the energy shock caused by the Iran war. But the fallout from the conflict is being partially offset by booming investment in artificial intelligence and other technologies. The IMF n",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3359890/imf-sees-world-economy-growing-just-3-year-amid-iran-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-08T14:41:23+00:00",
+          "score": 20,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
       "title": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
       "description": "The US president described Spain as a terrible partner over its actions during the US-Israel war on Iran.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 18,
-      "why": "Spanish exports to the US may face new restrictions.",
-      "context": "US President Trump threatened Spain with trade repercussions. He also demanded the US acquire Greenland at a NATO summit.",
-      "next": "Spain might face new US trade tariffs.",
-      "bigger": "Global alliances face increasing strain and protectionism.",
+      "score": 17,
+      "why": "Trade relations between the US and Europe may become strained.",
+      "context": "Trump threatened Spain with trade penalties and suggested taking over Greenland.",
+      "next": "Diplomatic tensions could escalate further between allies.",
+      "bigger": "Geopolitical alliances face pressure from nationalistic interests.",
       "publishedAt": "2026-07-08T12:52:03+00:00",
       "topicFingerprint": [
         "us_entity",
         "iran",
         "donald_trump",
         "nato",
-        "oil",
-        "strikes"
+        "strikes",
+        "oil"
       ],
       "alternates": [
         {
-          "title": "From Spain trade to Greenland threats: Key points from Trump's NATO comments",
-          "description": "US President Donald Trump lashed out at NATO allies Wednesday at a summit in Ankara, as the fallout from his war with Iran threatened to overshadow the key gathering. Trump declared the Iran ceasefire was \"over\", then took aim at NATO allies who failed to back his campaign against Tehran. And he ins",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments",
+          "title": "Trump orders cutoff of US trade with Spain at NATO summit",
+          "description": "At a NATO summit, President Trump ordered the cutoff of US trade with Spain, citing unmet defense spending targets and lack of support for the war on Iran.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/b71988a0-a5e9-41ff-a2c9-906b6d4af0b0.html",
           "category": "Geopolitics",
-          "publishedAt": "2026-07-08T12:10:38+00:00",
-          "score": 14,
+          "publishedAt": "2026-07-08T10:14:59+00:00",
+          "score": 16,
           "readingTime": 2,
           "topicFingerprint": [
             "us_entity",
             "iran",
             "donald_trump",
             "nato",
-            "oil",
-            "strikes"
+            "strikes",
+            "oil"
           ],
-          "group_id": 1
-        },
-        {
-          "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
-          "description": "President Donald Trump threw a summit of NATO leaders into disarray on Wednesday as he demanded the United States cut trade ties with Spain and made renewed claims on Greenland, irking another NATO ally Denmark. He also said an interim agreement to end the war with Iran was \"over\" after a new exchan",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-08T13:11:38+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "iran",
-            "donald_trump",
-            "nato",
-            "oil",
-            "strikes"
-          ],
-          "group_id": 1
+          "group_id": 4
         },
         {
           "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
@@ -99,114 +123,51 @@
             "iran",
             "donald_trump",
             "nato",
-            "oil",
-            "strikes"
+            "strikes",
+            "oil"
           ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "IMF cuts global growth forecast, says AI is helping offset impact of Iran war",
-      "description": "The IMF has lowered its 2026 global growth forecast to 3% and raised its inflation outlook, saying the AI-driven technology boom is partly offsetting the economic impact of geopolitical tensions, while India remains among the world's fastest-growing major economies.",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/economy/imf-cuts-global-growth-forecast-says-ai-is-helping-offset-impact-of-middle-east-tensions-19940410.htm",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 21,
-      "why": "Your daily expenses may rise due to inflation.",
-      "context": "The IMF lowered its 2026 global growth forecast and raised inflation outlook. AI development is partly offsetting geopolitical economic impacts.",
-      "next": "Global economic expansion will likely slow further.",
-      "bigger": "Geopolitical conflicts and technological shifts redefine global economic trends.",
-      "publishedAt": "2026-07-08T18:38:23+05:30",
-      "topicFingerprint": [
-        "war",
-        "iran",
-        "imf",
-        "ai_group",
-        "outlook"
-      ],
-      "alternates": [
+          "group_id": 4
+        },
         {
-          "title": "IMF sees world economy growing just 3% this year amid Iran war",
-          "description": "The International Monetary Fund on Wednesday modestly downgraded its outlook for the world economy this year, citing the energy shock caused by the Iran war. But the fallout from the conflict is being partially offset by booming investment in artificial intelligence and other technologies. The IMF n",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/article/3359890/imf-sees-world-economy-growing-just-3-year-amid-iran-war",
+          "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+          "description": "President Donald Trump threw a summit of NATO leaders into disarray on Wednesday as he demanded the United States cut trade ties with Spain and made renewed claims on Greenland, irking another NATO ally Denmark. He also said an interim agreement to end the war with Iran was \"over\" after a new exchan",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks",
           "category": "Geopolitics",
-          "publishedAt": "2026-07-08T14:41:23+00:00",
-          "score": 17,
+          "publishedAt": "2026-07-08T13:11:38+00:00",
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "war",
+            "us_entity",
             "iran",
-            "imf",
-            "ai_group",
-            "outlook"
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
           ],
-          "group_id": 0
+          "group_id": 4
         }
       ]
     },
     {
-      "title": "China lifts fuel export curbs for July, sources say",
-      "description": "The resumption of refined fuel exports from one of Asia's largest exporters follows the interim peace deal between the US and Iran and is expected to ease transportation fuel prices in the region, where consumers have been grappling with inflation since Beijing curbed shipments in March to secure do",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/china-lifts-july-fuel-export-curbs-private-refiner-shipments-resume-19940893.htm",
-      "category": "Economy",
+      "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+      "description": "German Foreign Minister Johann Wadephul urged the US and Iran to resume negotiations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 19,
-      "why": "Transport fuel prices in Asia may decrease.",
-      "context": "China lifted refined fuel export curbs for July. This follows a US-Iran interim peace deal.",
-      "next": "Regional transportation costs could decline for consumers.",
-      "bigger": "Geopolitical stability directly influences global energy markets.",
-      "publishedAt": "2026-07-08T13:29:31+05:30",
+      "score": 11,
+      "why": "Shipping through the Strait of Hormuz could become safer.",
+      "context": "Germany urged US-Iran talks and offered to clear mines in Hormuz.",
+      "next": "Diplomatic efforts may intensify to de-escalate regional tensions.",
+      "bigger": "International cooperation aims to secure critical global trade routes.",
+      "publishedAt": "2026-07-08T15:57:41+00:00",
       "topicFingerprint": [
-        "transportation",
-        "curbs",
-        "lifts",
-        "prices",
-        "fuel"
-      ],
-      "alternates": [
-        {
-          "title": "China lifts fuel export curbs for July, sources say",
-          "description": "Transportation fuel prices are expected to ease as the world\u2019s biggest refiner returns to normalcy",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/china-lifts-fuel-export-curbs-july-sources-say",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-08T07:40:32+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "transportation",
-            "curbs",
-            "lifts",
-            "prices",
-            "fuel"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Cited 7 July 2026: \u2018Impossible\u2019 heat | Global ocean record | Climate change and the ozone hole",
-      "description": "Welcome to Cited, your essential guide to new climate research. In the news \u2018HEAT ALERT\u2019:... The post Cited 7 July 2026: \u2018Impossible\u2019 heat | Global ocean record | Climate change and the ozone hole appeared first on Carbon Brief .",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Your local weather may become hotter and more extreme.",
-      "context": "Global heat records and ocean temperatures reached 'impossible' levels. Climate change impacts are intensifying.",
-      "next": "More frequent and severe heatwaves are expected worldwide.",
-      "bigger": "Climate change drives escalating environmental and health crises.",
-      "publishedAt": "2026-07-07T14:58:43+00:00",
-      "topicFingerprint": [
-        "ozone",
-        "change",
-        "ocean",
-        "climate",
-        "hole"
+        "germany",
+        "offers",
+        "minesweep",
+        "urges",
+        "hormuz"
       ],
       "alternates": []
     },
@@ -218,17 +179,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 6,
-      "why": "Access to cancer care may become more difficult.",
-      "context": "The WHO warns global cancer cases could nearly double by 2050. This is unless urgent preventative action is taken.",
-      "next": "Healthcare systems will face immense pressure globally.",
-      "bigger": "Public health strategies need urgent re-evaluation for future challenges.",
+      "why": "Healthcare systems may face immense strain and higher costs.",
+      "context": "WHO warned global cancer cases could almost double by 2050.",
+      "next": "Countries may invest more in cancer prevention and treatment.",
+      "bigger": "Global health strategies must adapt to rising disease burdens.",
       "publishedAt": "2026-07-08T12:00:00+00:00",
       "topicFingerprint": [
+        "warns",
         "double",
-        "action",
+        "without",
         "cancer",
-        "who_entity",
-        "nearly"
+        "urgent"
       ],
       "alternates": []
     },
@@ -240,19 +201,182 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "The military balance in Ukraine may shift.",
-      "context": "Ukraine will receive Swedish Gripen fighter jets. These are intended for its conflict with Russia.",
-      "next": "Ukraine's air defense capabilities will significantly improve.",
-      "bigger": "Western military aid continues to reshape the Ukraine conflict.",
+      "why": "Ukraine's air defense capabilities against Russia may improve.",
+      "context": "Ukraine will receive Gripen fighter jets from Sweden.",
+      "next": "Ukraine will integrate new advanced aircraft into its forces.",
+      "bigger": "International military aid shapes outcomes of ongoing conflicts.",
       "publishedAt": "2026-07-08T12:22:18+00:00",
       "topicFingerprint": [
+        "finally",
         "come",
-        "gripen",
-        "jets",
-        "russia",
-        "fight"
+        "ukraine",
+        "built",
+        "jets"
       ],
       "alternates": []
+    },
+    {
+      "title": "Investors get inflation \u2019wake-up call\u2019 as Trump fires up oil prices",
+      "description": "",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/economy-news/investors-get-inflation-wakeup-call-as-trump-fires-up-oil-prices-4782113",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 23,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "Trump's actions raised oil prices, alarming investors about inflation.",
+      "next": "Energy markets may remain volatile due to geopolitical statements.",
+      "bigger": "Political rhetoric can significantly influence global commodity prices.",
+      "publishedAt": "2026-07-08T16:48:50+00:00",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "donald_trump",
+        "nato",
+        "strikes",
+        "oil"
+      ],
+      "alternates": [
+        {
+          "title": "New Zealand raises rates by 25 bps to 2.5%, flags further hikes to curb inflation pressures",
+          "description": "With oil prices now easing, policymakers expect some relief for households and businesses",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/new-zealand-raises-rates-25-bps-2-5-flags-further-hikes-curb-inflation-pressures",
+          "category": "Financial",
+          "publishedAt": "2026-07-08T03:06:54+00:00",
+          "score": 18,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Stock markets decline in early trade on renewed U.S.-Iran tensions, spike in crude oil prices",
+          "description": "Foreign Institutional Investors bought equities worth \u20b9393.19 crore on July 7, according to exchange data",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-on-renewed-us-iran-tensions-spike-in-crude-oil-prices/article71196696.ece",
+          "category": "Financial",
+          "publishedAt": "2026-07-08T15:27:28+05:30",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Dow drops 811 points as Trump says Iran ceasefire is over, oil prices surge",
+          "description": "Dow Jones fell nearly 800 points as Trump declared the Iran ceasefire over, oil prices surged, and investors reacted to rising Middle East tensions.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/dow-drops-811-points-as-trump-says-iran-ceasefire-is-over-oil-prices-surge-101783526923192.html",
+          "category": "Financial",
+          "publishedAt": "2026-07-08T22:25:07+05:30",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Oil prices soar over 6% after Trump says US ceasefire with Iran is \u2018over\u2019",
+          "description": "Brent crude jumped 6.2 per cent to US$78.74 a barrel as at 5pm Singapore time.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/companies-markets/oil-prices-surge-as-us-strikes-targets-in-iran-following-ship-attacks",
+          "category": "Financial",
+          "publishedAt": "2026-07-08T07:24:30+08:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "nato",
+            "strikes",
+            "oil"
+          ],
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "title": "How Iran's 'golden weapon' of Hormuz became a bigger priority than its long-disputed nuclear programme",
+      "description": "DUBAI, July 8 - Control over the Strait of Hormuz has become a \\\"golden weapon\\\" to Iran, for which it is willing to risk new escalations with the United States, and is a bigger priority than a nuclear programme for which it accepted decades of sanctions.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/middle-east/how-irans-golden-weapon-of-hormuz-became-a-bigger-priority-than-its-long-disputed-nuclear-programme",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Shipping costs and global oil supply risks may increase.",
+      "context": "Iran prioritizes controlling the Strait of Hormuz over its nuclear program.",
+      "next": "Tensions around the Strait of Hormuz could further escalate.",
+      "bigger": "Geopolitical flashpoints threaten vital international trade arteries.",
+      "publishedAt": "2026-07-09T00:22:20+08:00",
+      "topicFingerprint": [
+        "golden",
+        "disputed",
+        "programme",
+        "hormuz",
+        "priority"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Apple now testing DRAM chips from banned Chinese memory supplier, per report",
+      "description": "After Apple started lobbying the US government for approval to use memory chips from CXMT, The Financial Times now reports that the company is actively testing the components for devices sold in China. Here are the details.",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/07/08/apple-now-testing-dram-chips-from-banned-chinese-memory-supplier-per-report/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "US-China tech trade restrictions may face new challenges.",
+      "context": "Apple is testing chips from a banned Chinese supplier for China sales.",
+      "next": "US regulators may review or adjust existing tech sanctions.",
+      "bigger": "Tech companies navigate complex geopolitical trade barriers.",
+      "publishedAt": "2026-07-08T14:25:39+00:00",
+      "topicFingerprint": [
+        "apple",
+        "chips",
+        "us_entity",
+        "billion",
+        "broadcom"
+      ],
+      "alternates": [
+        {
+          "title": "Apple reportedly testing RAM chips from US-blocked Chinese company",
+          "description": "Apple is testing devices with Chinese-made DRAM made by CXMT, which reportedly has ties to the People's Liberation Army.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2210342/apple-reportedly-testing-chinese-dram-cxmt/",
+          "category": "General",
+          "publishedAt": "2026-07-08T11:17:43+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "chips",
+            "us_entity",
+            "billion",
+            "broadcom"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "PBOC pledges to maintain accommodative\u00a0policy amid weak demand, external shocks",
@@ -262,127 +386,83 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 9,
-      "why": "Borrowing money in China may remain cheaper.",
-      "context": "China's central bank pledged to maintain an accommodative monetary policy. This addresses weak domestic demand and external shocks.",
-      "next": "China's economic recovery efforts will continue.",
-      "bigger": "Major economies face challenges balancing growth and stability.",
+      "why": "China's economic recovery efforts may continue slowly.",
+      "context": "China's central bank pledged continued easy monetary policy.",
+      "next": "China will likely continue stimulating its economy.",
+      "bigger": "Major economies adjust policies to counter global economic headwinds.",
       "publishedAt": "2026-07-08T13:42:39+00:00",
       "topicFingerprint": [
-        "maintain",
-        "shocks",
+        "pboc",
         "weak",
-        "external",
-        "accommodativepolicy"
+        "pledges",
+        "maintain",
+        "external"
       ],
       "alternates": []
     },
     {
-      "title": "How much does China invest abroad? US$174 billion keeps it world\u2019s No 3 FDI source",
-      "description": "China was the world\u2019s third-largest source of foreign direct investment and the fourth-largest destination last year, holding firm in an annual ranking as it expanded its role in critical raw materials, tech services and the broad energy transition, while the United States remained the global leader",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/global-economy/article/3359868/how-much-does-china-invest-abroad-us174-billion-keeps-it-worlds-no-3-fdi-source",
-      "category": "Financial",
+      "title": "Cited 7 July 2026: \u2018Impossible\u2019 heat | Global ocean record | Climate change and the ozone hole",
+      "description": "Welcome to Cited, your essential guide to new climate research. In the news \u2018HEAT ALERT\u2019:... The post Cited 7 July 2026: \u2018Impossible\u2019 heat | Global ocean record | Climate change and the ozone hole appeared first on Carbon Brief .",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
+      "category": "Science",
       "readingTime": 2,
-      "score": 12,
-      "why": "Access to global raw materials could change.",
-      "context": "China remained a top global source and destination for foreign direct investment. It also expanded its role in critical raw materials.",
-      "next": "China's economic influence in global markets will grow.",
-      "bigger": "Geopolitical competition increasingly extends to economic investments and resources.",
-      "publishedAt": "2026-07-08T13:30:05+00:00",
+      "score": 7,
+      "why": "Extreme weather events may become more frequent globally.",
+      "context": "Global heat records and ocean temperatures reached extreme levels.",
+      "next": "More regions may experience severe and prolonged heatwaves.",
+      "bigger": "Climate change intensifies, causing widespread environmental disruptions.",
+      "publishedAt": "2026-07-07T14:58:43+00:00",
       "topicFingerprint": [
-        "fdi",
-        "abroad",
-        "invest",
-        "billion",
-        "keeps"
+        "july",
+        "change",
+        "ozone",
+        "record",
+        "cited"
       ],
       "alternates": []
     },
     {
-      "title": "Singapore's Temasek boosts China exposure by $7.7 billion, biggest rise in five years, in AI-driven pivot",
-      "description": "Temasek is repositioning its China portfolio toward AI-related hardware and infrastructure, robotics, biotech, energy transition.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/08/temaseks-china-investment-jumps-most-in-five-years-artificial-intelligence-.html",
+      "title": "France\u2019s ZML wants to break Nvidia lock-in with free cross-chip AI software",
+      "description": "A Paris startup wants to loosen Nvidia\u2019s grip on AI, not with a new chip, but with software. ZML has released a free tool that runs open-source models fast across Nvidia, AMD, Google, Apple and Intel silicon alike. Nvidia still rules AI hardware, but its walls keep thinning. ZML, a Paris startup bac",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/zml-llmd-free-cross-chip-ai-inference-server",
       "category": "Technology",
       "readingTime": 2,
-      "score": 18,
-      "why": "Chinese AI technology may advance faster now.",
-      "context": "Singapore's Temasek increased its China investments by $7.7 billion. It is pivoting towards AI and other emerging technologies.",
-      "next": "China will see increased investment in strategic tech sectors.",
-      "bigger": "Global capital is rapidly flowing into AI and emerging technologies.",
-      "publishedAt": "2026-07-08T08:38:50+00:00",
+      "score": 24,
+      "why": "AI development could become more accessible and competitive.",
+      "context": "A French startup released free AI software to reduce Nvidia's dominance.",
+      "next": "More diverse hardware may be used for AI applications.",
+      "bigger": "Competition aims to democratize access to powerful AI technology.",
+      "publishedAt": "2026-07-08T16:37:19+00:00",
       "topicFingerprint": [
-        "billion",
-        "ai_group",
-        "temasek",
-        "valuation",
-        "portfolio"
+        "chip",
+        "nvidia",
+        "france",
+        "software",
+        "cross"
       ],
       "alternates": []
     },
     {
-      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "category": "Cybersecurity",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Critical services like energy may face outages.",
-      "context": "Major cyberattacks targeted critical infrastructure, government, and financial systems. This includes an FBI surveillance system hack.",
-      "next": "Cybersecurity measures for critical infrastructure will be strengthened.",
-      "bigger": "Cyber warfare and data theft remain persistent global threats.",
-      "publishedAt": "2026-07-07T16:45:00+00:00",
-      "topicFingerprint": [
-        "hacked",
-        "breaches",
-        "held",
-        "leaked",
-        "far"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Prabowo touts Batam as Indonesia\u2019s next global maritime, investment gateway",
-      "description": "He has placed the island at the centre of the next phase of Indonesia\u2019s economic transformation.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/prabowo-touts-batam-as-indonesias-next-global-maritime-investment-gateway",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Investment opportunities in Batam, Indonesia, may grow.",
-      "context": "Indonesia's Prabowo promoted Batam island as a future global maritime and investment hub.",
-      "next": "Batam will likely attract more foreign capital and development.",
-      "bigger": "Developing nations seek to become key global trade and investment hubs.",
-      "publishedAt": "2026-07-08T19:00:00+08:00",
-      "topicFingerprint": [
-        "prabowo",
-        "investment",
-        "maritime",
-        "indonesia",
-        "gateway"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "What parents should know about the infant botulism outbreak caused by baby formula",
-      "description": "A fourth infant was hospitalized for botulism linked to Nara Organics baby formula, and the FDA is now expanding its investigation. Dr. C\u00e9line Gounder has the latest.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/what-parents-should-know-about-the-infant-botulism-outbreak-caused-by-baby-formula/",
-      "category": "Health",
+      "title": "\u2018They\u2019re not freak occurrences\u2019: Farmers grapple with protecting crops as heat waves and extreme weather become more frequent",
+      "description": "Specialty farmers are dealing with the extreme weather events that are driving prolonged drought in some states and intense flooding in others.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/08/farmers-climate-change-adapting-grapple-extreme-weather/",
+      "category": "Environment",
       "readingTime": 2,
       "score": 5,
-      "why": "Some baby formula brands may become unavailable.",
-      "context": "A fourth infant was hospitalized for botulism linked to Nara Organics baby formula. The FDA is expanding its investigation.",
-      "next": "Regulatory bodies will likely issue more product warnings or recalls.",
-      "bigger": "Food safety vigilance remains crucial for public health and trust.",
-      "publishedAt": "2026-07-08T09:15:10-04:00",
+      "why": "Your grocery bills for fresh produce may rise.",
+      "context": "Farmers struggle to protect crops from increasing extreme weather events.",
+      "next": "Food prices may become more volatile due to climate impacts.",
+      "bigger": "Climate change significantly threatens global food security and supply.",
+      "publishedAt": "2026-07-08T15:25:37+00:00",
       "topicFingerprint": [
-        "know",
-        "caused",
-        "outbreak",
-        "baby",
-        "botulism"
+        "freak",
+        "grapple",
+        "crops",
+        "waves",
+        "protecting"
       ],
       "alternates": []
     }
@@ -395,40 +475,19 @@
       "url": "https://www.thehindu.com/news/international/imf-lowers-2026-world-growth-forecast-as-west-asia-risks-linger/article71198337.ece",
       "category": "Financial",
       "readingTime": 2,
-      "score": 12,
-      "why": "Global job growth and investments may stagnate.",
-      "context": "The IMF lowered its 2026 global economic growth forecast. This is due to lingering West Asia risks.",
-      "next": "Geopolitical tensions will continue to weigh on global markets.",
-      "bigger": "Regional conflicts have far-reaching impacts on global economic stability.",
+      "score": 14,
+      "why": "Global economic growth may slow down, affecting job markets.",
+      "context": "The IMF again lowered its global growth forecast for 2026.",
+      "next": "Governments may implement policies to stimulate economic activity.",
+      "bigger": "Geopolitical tensions continue to weigh on global economic prospects.",
       "publishedAt": "2026-07-08T18:57:15+05:30",
       "topicFingerprint": [
-        "war",
+        "us_entity",
         "iran",
-        "imf",
-        "ai_group",
-        "outlook"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump\u2019s policy mayhem is making even the Maga faithful consider walking away",
-      "description": "Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troubles The political consequences of Donald Trump\u2019s policy mayhem are now coming into view: \u201cMaga\u201d America is getting pissed. It has been a sight to see how every one of the p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "US voters may face continued economic uncertainty.",
-      "context": "Even loyal voters are blaming Donald Trump for their economic troubles. His policy mayhem is causing political consequences.",
-      "next": "Trump's political base could show signs of fracturing.",
-      "bigger": "Political leaders face accountability for perceived economic mismanagement.",
-      "publishedAt": "2026-07-08T10:00:26+00:00",
-      "topicFingerprint": [
-        "faithful",
-        "maga",
-        "mayhem",
-        "walking",
-        "donald_trump"
+        "donald_trump",
+        "nato",
+        "strikes",
+        "oil"
       ],
       "alternates": []
     },
@@ -440,80 +499,61 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 12,
-      "why": "Hiring in the gaming tech sector may slow down.",
-      "context": "Bethesda and id Software were reportedly hit hard by Microsoft layoffs. Up to 50% of some teams were affected.",
-      "next": "More job reductions within Microsoft's gaming division could occur.",
-      "bigger": "Major tech companies are restructuring amid economic pressures.",
+      "why": "Job opportunities in the gaming industry may decrease.",
+      "context": "Microsoft reportedly laid off many employees at Bethesda and id Software.",
+      "next": "More job cuts could follow across the tech and gaming sectors.",
+      "bigger": "Tech industry consolidation often leads to workforce reductions.",
       "publishedAt": "2026-07-07T19:52:59+00:00",
       "topicFingerprint": [
         "microsoft",
         "reportedly",
-        "hard",
-        "layoffs",
-        "software"
+        "software",
+        "bethesda",
+        "layoffs"
       ],
       "alternates": []
     },
     {
-      "title": "Le Pen can run, but can\u2019t hide her policy flaws",
-      "description": "LONDON, July 8 (Reuters Breakingviews) - A court allowed the French far-right leader to compete in the 2027 presidential election, while sentencing her to detention. She could win. Investors should worry about her capacity to tackle the country's economic problems, and \u20ac4 trln debt load, with a popu",
+      "title": "Prabowo touts Batam as Indonesia\u2019s next global maritime, investment gateway",
+      "description": "He has placed the island at the centre of the next phase of Indonesia\u2019s economic transformation.",
       "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/le-pen-can-run-but-cant-hide-her-policy-flaws",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "French financial markets may experience volatility.",
-      "context": "A French court allowed far-right leader Le Pen to run in the 2027 presidential election. She was also sentenced to detention.",
-      "next": "The French political landscape will face increased uncertainty.",
-      "bigger": "Nationalist movements are gaining influence in European politics.",
-      "publishedAt": "2026-07-08T19:52:24+08:00",
-      "topicFingerprint": [
-        "presidential",
-        "her",
-        "pen",
-        "court",
-        "leader"
-      ],
-      "alternates": [
-        {
-          "title": "France's far-right leader Le Pen hits campaign trail after conviction in EU embezzlement case",
-          "description": "France's far-right figurehead Marine Le Pen launched her fourth presidential campaign in the small town of La Fl\u00e8che in the country's Loire Valley Wednesday after an appeals court cleared her to run for office \u2013 despite upholding her conviction for misusing millions of euros in public funds.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/france/20260708-france-s-far-right-leader-le-pen-hits-campaign-trail-after-conviction-eu-embezzlement-case",
-          "category": "Policy",
-          "publishedAt": "2026-07-08T12:54:20+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "presidential",
-            "her",
-            "pen",
-            "court",
-            "leader"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "IDC: Apple grows Mac shipments as broader PC market declines",
-      "description": "New data from IDC shows that Apple was the only major PC vendor to post significant shipment growth in Q2 2026, with the broader market declining for the first time in more than two years. Here are the details.",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/07/08/idc-apple-grows-mac-shipments-as-broader-pc-market-declines/",
+      "url": "https://www.straitstimes.com/business/prabowo-touts-batam-as-indonesias-next-global-maritime-investment-gateway",
       "category": "Financial",
       "readingTime": 2,
-      "score": 9,
-      "why": "Your choices for new PCs may become narrower.",
-      "context": "Apple's Mac shipments grew in Q2 2026. This happened despite a broader PC market decline.",
-      "next": "Other PC manufacturers will face increased competitive pressure.",
-      "bigger": "The personal computing market continues to consolidate around major players.",
-      "publishedAt": "2026-07-08T14:54:39+00:00",
+      "score": 12,
+      "why": "Investment opportunities in Indonesia's maritime sector may grow.",
+      "context": "Indonesian President Prabowo promoted Batam as a global maritime hub.",
+      "next": "Indonesia may attract significant foreign investment to Batam.",
+      "bigger": "Nations compete to develop key strategic economic corridors.",
+      "publishedAt": "2026-07-08T19:00:00+08:00",
       "topicFingerprint": [
-        "mac",
-        "shipments",
-        "apple",
-        "declines",
-        "grows"
+        "batam",
+        "gateway",
+        "indonesia",
+        "touts",
+        "prabowo"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India to challenge proposed 12.5% US tariff linked to forced labour probe",
+      "description": "New Delhi has told the US Trade Representative that there is no evidence Indian exports gain an unfair advantage from forced labour and says the investigation should be scrapped.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/india-to-challenge-proposed-12-5-us-tariff-linked-to-forced-labour-probe-19941362.htm",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Trade tensions between the US and India may rise.",
+      "context": "India will challenge proposed US tariffs over forced labor allegations.",
+      "next": "The US and India may engage in further trade negotiations.",
+      "bigger": "Global trade relations are increasingly scrutinized for ethical practices.",
+      "publishedAt": "2026-07-08T22:16:02+05:30",
+      "topicFingerprint": [
+        "labour",
+        "india",
+        "probe",
+        "proposed",
+        "tariff"
       ],
       "alternates": []
     },
@@ -525,17 +565,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 9,
-      "why": "Some US legal decisions may lack transparency.",
-      "context": "The US Supreme Court's \"shadow docket\" practices are under scrutiny.",
-      "next": "Debates about judicial transparency and power will continue.",
-      "bigger": "Public scrutiny of judicial processes is intensifying globally.",
+      "why": "Public scrutiny of judicial processes and transparency may increase.",
+      "context": "A report revealed the origins of the Supreme Court\u2019s \"shadow docket.\"",
+      "next": "Calls for greater transparency in court decisions could intensify.",
+      "bigger": "Judicial systems face ongoing debate over procedural openness.",
       "publishedAt": "2026-07-08T10:01:00+00:00",
       "topicFingerprint": [
+        "shadow",
         "origins",
         "secret",
-        "docket",
         "supreme",
-        "shadow"
+        "docket"
       ],
       "alternates": []
     },
@@ -547,17 +587,83 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 9,
-      "why": "Public safety in the US may remain a concern.",
-      "context": "An ex-FBI agent called for a nationwide manhunt. This is for a suspect known as \"Porch Guy.\"",
-      "next": "Law enforcement will intensify efforts to locate the suspect.",
-      "bigger": "Modern technology aids in nationwide criminal investigations.",
+      "why": "Public safety efforts for finding the suspect may intensify.",
+      "context": "An ex-FBI agent urged a nationwide manhunt for the \"Porch Guy\" suspect.",
+      "next": "Law enforcement may increase public appeals for information.",
+      "bigger": "Social media increasingly plays a role in criminal investigations.",
       "publishedAt": "2026-07-08T07:46:12+05:30",
       "topicFingerprint": [
+        "nancy",
+        "plaster",
         "nationwide",
-        "manhunt",
-        "update",
-        "everywhere",
-        "fbi"
+        "agent",
+        "everywhere"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Another massive data breach exposed millions of driver\u2019s license numbers",
+      "description": "The cyberattack targeting a U.S. insurance giant is the largest known breach of driver's license numbers so far in 2026.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
+      "category": "Cybersecurity",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Your personal information and identity may be at risk.",
+      "context": "A massive cyberattack exposed millions of US driver\u2019s license numbers.",
+      "next": "Affected individuals may need to monitor their credit and identity.",
+      "bigger": "Cybercrime poses a growing threat to personal data security.",
+      "publishedAt": "2026-07-08T16:14:49+00:00",
+      "topicFingerprint": [
+        "data",
+        "exposed",
+        "breach",
+        "license",
+        "millions"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Italian PM Meloni's party proposes swift deportation of foreign offenders",
+      "description": "ROME, July 8 - Italian Prime Minister Giorgia Meloni's right-wing party presented a draft bill on Wednesday to promote the repatriation of convicted foreign offenders and make it easier to strip them of Italian citizenship.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/italian-pm-melonis-party-proposes-swift-deportation-of-foreign-offenders",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Legal processes for non-citizens in Italy may change significantly.",
+      "context": "Italy's PM Meloni's party proposed swift deportation for foreign offenders.",
+      "next": "Italy's parliament will debate and vote on the proposed bill.",
+      "bigger": "European nations grapple with stricter immigration and justice policies.",
+      "publishedAt": "2026-07-08T18:47:17+08:00",
+      "topicFingerprint": [
+        "swift",
+        "proposes",
+        "foreign",
+        "meloni",
+        "offenders"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The IOC clears the way for Russian athletes to return to Olympic competition",
+      "description": "The International Olympic Committee decision effectively overturns a decade-long ban on Russian athletes from international sport imposed due to a state-sponsored doping scandal and Russia's full-scale invasion of Ukraine.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/08/g-s1-132480/russia-olympics-ioc-decision",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "International sporting events may see increased political boycotts.",
+      "context": "The IOC cleared Russian athletes to return to Olympic competition.",
+      "next": "Russian athletes will likely begin preparations for upcoming Games.",
+      "bigger": "Sports organizations face pressure to navigate global political conflicts.",
+      "publishedAt": "2026-07-08T12:17:37-04:00",
+      "topicFingerprint": [
+        "ioc",
+        "competition",
+        "russian",
+        "way",
+        "olympic"
       ],
       "alternates": []
     },
@@ -569,82 +675,72 @@
       "category": "Science",
       "readingTime": 2,
       "score": 6,
-      "why": "Reusable rocket technology may receive more funding.",
-      "context": "Former OpenAI executive Kevin Weil joined the board of Stoke Space. This suggests reusable rockets are a hot trend.",
-      "next": "More talent and capital will flow into commercial space ventures.",
-      "bigger": "The space industry is attracting top talent and significant investment.",
+      "why": "Investment and talent in reusable rocket technology may surge.",
+      "context": "Former OpenAI executive Kevin Weil joined Stoke Space's board.",
+      "next": "Space startups may attract more funding and top talent.",
+      "bigger": "The private space industry sees growing interest in reusability.",
       "publishedAt": "2026-07-08T12:00:00+00:00",
       "topicFingerprint": [
-        "weil",
-        "exec",
+        "former",
         "board",
-        "stoke",
-        "openai"
+        "openai",
+        "space",
+        "weil"
       ],
       "alternates": []
     },
     {
-      "title": "Who is Gabriel Edwards? US Navy sailor missing in Arabian Sea helicopter incident identified",
-      "description": "The US Navy has identified Commander Gabriel Edwards as the sailor still missing after a helicopter's emergency landing in the Arabian Sea.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/who-is-gabriel-edwards-us-navy-sailor-missing-in-arabian-sea-helicopter-incident-identified-101783467679190.html",
-      "category": "Geopolitics",
+      "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
+      "description": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/",
+      "category": "Health",
       "readingTime": 2,
-      "score": 4,
-      "why": "Military personnel face dangers during operations.",
-      "context": "US Navy Commander Gabriel Edwards is missing. This is after a helicopter emergency landing in the Arabian Sea.",
-      "next": "Search and rescue operations will continue in the region.",
-      "bigger": "Naval forces operate in complex and high-risk environments globally.",
-      "publishedAt": "2026-07-08T05:52:19+05:30",
+      "score": 5,
+      "why": "Your healthcare costs and monthly premiums may rise.",
+      "context": "ACA insurers are proposing significant premium increases again.",
+      "next": "US lawmakers may review or adjust Affordable Care Act policies.",
+      "bigger": "Rising healthcare costs challenge access and affordability globally.",
+      "publishedAt": "2026-07-08T15:31:21+00:00",
       "topicFingerprint": [
-        "arabian",
-        "missing",
-        "edwards",
-        "incident",
-        "helicopter"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Google Chrome is finally catching up to Safari with this update",
-      "description": "Your copy-pasting experience in Google Chrome and Microsoft Edge is getting a much-needed boost.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-chrome-paste-upgrade-microsoft-edge-3684737/",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 4,
-      "why": "Your daily online tasks may become more convenient.",
-      "context": "Google Chrome and Microsoft Edge are updating. This aims to improve the copy-pasting experience.",
-      "next": "Users will experience smoother browser functionality.",
-      "bigger": "Web browsers continually evolve to enhance user experience.",
-      "publishedAt": "2026-07-07T10:34:23+00:00",
-      "topicFingerprint": [
-        "google",
-        "update",
-        "safari",
-        "finally",
-        "catching"
+        "care",
+        "premium",
+        "increases",
+        "sags",
+        "want"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "china": [
       {
-        "title": "Growing shortage of high-skilled workers threatens US chip manufacturing revival",
-        "description": "The skilled labour shortage is projected to reach as many as 157,000 full-time workers by 2030, the study found.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/economy/growing-shortage-of-high-skilled-workers-threatens-us-chip-manufacturing-revival",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Technology",
+        "title": "How much does China invest abroad? US$174 billion keeps it world\u2019s No 3 FDI source",
+        "description": "China was the world\u2019s third-largest source of foreign direct investment and the fourth-largest destination last year, holding firm in an annual ranking as it expanded its role in critical raw materials, tech services and the broad energy transition, while the United States remained the global leader",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3359868/how-much-does-china-invest-abroad-us174-billion-keeps-it-worlds-no-3-fdi-source",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-07-08T09:12:48+08:00",
+        "publishedAt": "2026-07-08T13:30:05+00:00",
         "reason": "within_48h",
-        "score": 11,
+        "score": 12,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: chip"
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
           },
           {
             "points": 2,
@@ -652,11 +748,7 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: shortage"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: labour"
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
@@ -664,60 +756,19 @@
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "skilled",
-          "growing",
-          "threatens",
-          "manufacturing",
-          "revival"
+          "abroad",
+          "does",
+          "invest",
+          "billion",
+          "fdi"
         ]
       },
-      {
-        "title": "NASA transfers ownership of Maryland woodland to the US Fish and Wildlife Service",
-        "description": "A rare 2026 story of good news for the planet.",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2210180/nasa-transfers-ownership-of-maryland-woodland-to-the-us-fish-and-wildlife-service/",
-        "fromUrl": "https://www.engadget.com/rss.xml",
-        "category": "Science",
-        "readingTime": 2,
-        "publishedAt": "2026-07-07T21:58:47+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "science important keyword match: nasa"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Engadget"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "maryland",
-          "transfers",
-          "fish",
-          "woodland",
-          "service"
-        ]
-      }
-    ],
-    "china": [
       {
         "title": "Beijing seeks chip stability and fair market access during Dutch trade minister\u2019s trip",
         "description": "Beijing has urged the Netherlands to ensure fair treatment for Chinese companies and maintain stable chip supply chains during a visit by the Dutch trade minister, as the two sides navigate tech tensions with Washington while seeking a \u201cclean break\u201d from friction over Nexperia. \u201cWe hope the Dutch go",
@@ -766,28 +817,30 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "chip",
           "fair",
-          "trade",
-          "beijing",
           "seeks",
-          "stability"
+          "stability",
+          "trade"
         ]
-      },
+      }
+    ],
+    "united_states": [
       {
-        "title": "Chinese profit-taking triggers record gold ETF outflows amid shift to equities",
-        "description": "Chinese investors pulled a record US$2.91 billion out of domestic gold exchange-traded funds (ETFs) in June, taking profits as a stock-market surge and a strong yuan dimmed the appeal of the safe-haven metal, according to the World Gold Council (WGC). Mainland Chinese funds were the biggest drag on ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/commodities/article/3359828/chinese-profit-taking-triggers-record-gold-etf-outflows-amid-shift-equities",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "Growing shortage of high-skilled workers threatens US chip manufacturing revival",
+        "description": "The skilled labour shortage is projected to reach as many as 157,000 full-time workers by 2030, the study found.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/economy/growing-shortage-of-high-skilled-workers-threatens-us-chip-manufacturing-revival",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-07-08T12:00:07+00:00",
+        "publishedAt": "2026-07-08T09:12:48+08:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: market"
+            "reason": "important keyword match: chip"
           },
           {
             "points": 2,
@@ -795,48 +848,50 @@
           },
           {
             "points": 2,
+            "reason": "important keyword match: shortage"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: labour"
+          },
+          {
+            "points": 2,
             "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "High Quality Source match: The Straits Times"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "triggers",
-          "equities",
-          "shift",
-          "outflows",
-          "taking"
+          "chip",
+          "threatens",
+          "shortage",
+          "growing",
+          "revival"
         ]
-      }
-    ],
-    "india": [
+      },
       {
-        "title": "\u2018There are risks\u2019: Ex-India judge behind damning UN report on Gaza children",
-        "description": "Before he exposed Israel s deliberate targeting of Gaza children, Srinivasan Muralidhar took on Indian authorities.",
+        "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+        "description": "The fate of the strait is directly linked to what happens next to the world economy.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children",
+        "url": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus",
         "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-08T12:06:42+00:00",
+        "publishedAt": "2026-07-08T16:48:31+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: israel"
+            "reason": "important keyword match: economy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "policy important keyword match: un"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -850,13 +905,194 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gaza",
-          "damning",
-          "india",
-          "children",
-          "behind"
+          "strait",
+          "calculus",
+          "hormuz",
+          "centre",
+          "iranian"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "Apple loses challenges against EU rules to curb Big Tech",
+        "description": "Apple lost its challenge on Wednesday against landmark EU rules that designate its app stores and operating system iOS as gatekeepers subject to obligations aimed at giving rivals more room to compete. The EU Digital Markets Act (DMA), which sets out a list of dos and don\u2019ts \u200cfor Big Tech with the t",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/europe/article/3359862/apple-loses-challenges-against-eu-rules-curb-big-tech",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T09:56:21+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: apple"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Apple loses major antitrust appeal in Europe, remains a \u2018gatekeeper\u2019",
+            "description": "Apple has today lost a major antitrust appeal in Europe, with all three of its claims being rejected. The company has long been fighting its requirement to comply with the EU\u2019s Digital Markets Act (DMA), but a court has dismissed all of its claims \u2026",
+            "source": "9To5Mac",
+            "url": "https://9to5mac.com/2026/07/08/apple-loses-major-antitrust-appeal-in-europe-remains-a-gatekeeper/",
+            "category": "Policy",
+            "publishedAt": "2026-07-08T11:18:16+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "eu_entity",
+              "apple",
+              "loses",
+              "lost",
+              "dma"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "eu_entity",
+          "apple",
+          "loses",
+          "lost",
+          "dma"
         ]
       },
+      {
+        "title": "European Union Aviation Agency tells operators to avoid Iran, Iraq airspace until August 31",
+        "description": "It had also asked airlines to exercise caution when \u200coperating within the \u200bairspace of Bahrain, Kuwait, \u2060Israel, Jordan, Qatar, Oman, \u2060UAE and Saudi Arabia",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/european-union-aviation-agency-tells-operators-to-avoid-iran-iraq-airspace-until-august-31/article71197139.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T16:22:40+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: saudi arabia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "aviation",
+          "iraq",
+          "until",
+          "eu_entity",
+          "operators"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "description": "A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T16:17:12+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "right",
+          "pen",
+          "leader",
+          "presidential",
+          "her"
+        ]
+      },
+      {
+        "title": "Air Canada taps new CEO to replace chief who couldn\u2019t speak French",
+        "description": "Michael Rousseau retired after failing to issue condolences both in English and French after a fatal airport disaster.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/air-canada-taps-new-ceo-to-replace-chief-who-couldnt-speak-french",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T22:37:18+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "chief",
+          "taps",
+          "french",
+          "air",
+          "speak"
+        ]
+      }
+    ],
+    "india": [
       {
         "title": "How India\u2019s life insurance sector funds government expenditure",
         "description": "A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial protection, it is equally important for sovereign fiscal stability",
@@ -895,285 +1131,48 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "life",
-          "sector",
-          "india",
-          "expenditure",
-          "funds"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "Apple loses challenges against EU rules to curb Big Tech",
-        "description": "Apple lost its challenge on Wednesday against landmark EU rules that designate its app stores and operating system iOS as gatekeepers subject to obligations aimed at giving rivals more room to compete. The EU Digital Markets Act (DMA), which sets out a list of dos and don\u2019ts \u200cfor Big Tech with the t",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/europe/article/3359862/apple-loses-challenges-against-eu-rules-curb-big-tech",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T09:56:21+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: apple"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Apple loses major antitrust appeal in Europe, remains a \u2018gatekeeper\u2019",
-            "description": "Apple has today lost a major antitrust appeal in Europe, with all three of its claims being rejected. The company has long been fighting its requirement to comply with the EU\u2019s Digital Markets Act (DMA), but a court has dismissed all of its claims \u2026",
-            "source": "9To5Mac",
-            "url": "https://9to5mac.com/2026/07/08/apple-loses-major-antitrust-appeal-in-europe-remains-a-gatekeeper/",
-            "category": "Policy",
-            "publishedAt": "2026-07-08T11:18:16+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "apple",
-              "eu_entity",
-              "lost",
-              "loses",
-              "act"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "apple",
-          "eu_entity",
-          "lost",
-          "loses",
-          "act"
-        ]
-      },
-      {
-        "title": "European Union Aviation Agency tells operators to avoid Iran, Iraq airspace until August 31",
-        "description": "It had also asked airlines to exercise caution when \u200coperating within the \u200bairspace of Bahrain, Kuwait, \u2060Israel, Jordan, Qatar, Oman, \u2060UAE and Saudi Arabia",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/european-union-aviation-agency-tells-operators-to-avoid-iran-iraq-airspace-until-august-31/article71197139.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T16:22:40+05:30",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: israel"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: saudi arabia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "august",
-          "eu_entity",
-          "operators",
-          "avoid",
-          "iran"
-        ]
-      }
-    ],
-    "italy": [
-      {
-        "title": "Italian PM Meloni's party proposes swift deportation of foreign offenders",
-        "description": "ROME, July 8 - Italian Prime Minister Giorgia Meloni's right-wing party presented a draft bill on Wednesday to promote the repatriation of convicted foreign offenders and make it easier to strip them of Italian citizenship.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/italian-pm-melonis-party-proposes-swift-deportation-of-foreign-offenders",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T18:47:17+08:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: bill"
-          },
-          {
-            "points": 2,
-            "reason": "policy important keyword match: citizenship"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "proposes",
-          "deportation",
-          "foreign",
-          "meloni",
-          "swift"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korean 'fake news' law takes effect as journalists raise concerns",
-        "description": "South Korea enforces a new law targeting online false information with steep punitive damages, sparking concerns over free speech and potential censorship.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/f63a4c7c-79b1-4210-853a-e1d9ebb8006c.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-07T16:15:29+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "effect",
-          "south",
-          "law",
-          "takes",
-          "raise"
-        ]
-      },
-      {
-        "title": "South Korea to closely watch risks around stock market volatility",
-        "description": "The index triggered a circuit breaker for the sixth time this year earlier this week",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/south-korea-closely-watch-risks-around-stock-market-volatility",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T01:51:01+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "watch",
-          "risks",
-          "sk_entity",
-          "volatility"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "HSBC sees SGX-Nasdaq dual listing bridge boosting Singapore\u2019s financial hub status",
-        "description": "The framework is likely to provide firms with greater access to both regional and global pools of capital.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/hsbc-sees-sgx-nasdaq-dual-listing-bridge-boosting-singapores-financial-hub-status",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T11:30:00+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -3,
-            "reason": "financial lowest priority keyword match: firms"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
             "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "bridge",
-          "dual",
-          "hsbc",
-          "boosting",
-          "listing"
+          "sector",
+          "expenditure",
+          "insurance",
+          "india",
+          "funds"
+        ]
+      },
+      {
+        "title": "Consulate General of India in Houston announces introduction of e-OCI facility; know the benefits",
+        "description": "The e-OCI facility allows OCI Cardholders to generate and store a digital version of their OCI Card on their mobile device.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/consulate-general-of-india-in-houston-announces-introduction-of-e-oci-facility-know-the-benefits-101783479921793.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T10:00:42+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "benefits",
+          "consulate",
+          "introduction",
+          "india",
+          "oci"
         ]
       }
     ],
@@ -1206,11 +1205,97 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "australia",
-          "major",
+          "emergency",
+          "trains",
           "affected",
-          "telecoms",
-          "emergency"
+          "calls",
+          "telecoms"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "HSBC sees SGX-Nasdaq dual listing bridge boosting Singapore\u2019s financial hub status",
+        "description": "The framework is likely to provide firms with greater access to both regional and global pools of capital.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/hsbc-sees-sgx-nasdaq-dual-listing-bridge-boosting-singapores-financial-hub-status",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-08T11:30:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "bridge",
+          "financial",
+          "status",
+          "boosting",
+          "nasdaq"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korean 'fake news' law takes effect as journalists raise concerns",
+        "description": "South Korea enforces a new law targeting online false information with steep punitive damages, sparking concerns over free speech and potential censorship.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/f63a4c7c-79b1-4210-853a-e1d9ebb8006c.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-07T16:15:29+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "takes",
+          "raise",
+          "fake",
+          "law",
+          "effect"
         ]
       }
     ],
@@ -1243,83 +1328,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "chief",
+          "taps",
           "french",
           "air",
-          "taps",
-          "chief",
-          "canada"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Air Canada taps new CEO to replace chief who couldn\u2019t speak French",
-        "description": "Michael Rousseau retired after failing to issue condolences both in English and French after a fatal airport disaster.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/air-canada-taps-new-ceo-to-replace-chief-who-couldnt-speak-french",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T22:37:18+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: ceo"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "french",
-          "air",
-          "taps",
-          "chief",
-          "canada"
-        ]
-      },
-      {
-        "title": "France orders Meta back to talks with news publishers over content payments",
-        "description": "Meta has been told to go back and talk to France\u2019s newspapers about money. On Wednesday, the country\u2019s competition regulator ordered the company to reopen negotiations with news publishers over payment for their content, after an earlier round of talks fell apart. The order comes with a stopwatch at",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/france-orders-meta-resume-publisher-talks",
-        "fromUrl": "https://thenextweb.com/feed",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-08T12:50:50+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "company keyword match: meta"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: The Next Web"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "publishers",
-          "meta",
-          "payments",
-          "orders",
-          "france"
+          "speak"
         ]
       }
     ],
@@ -1356,11 +1369,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "bolsonaro",
-          "search",
+          "home",
+          "former",
           "police",
           "brazilian",
-          "former"
+          "search"
         ]
       }
     ],
@@ -1389,11 +1402,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "theory",
-          "uk_entity",
-          "andy",
           "burnham",
-          "devolution"
+          "uk_entity",
+          "theory",
+          "devolution",
+          "andy"
         ]
       },
       {
@@ -1428,11 +1441,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "uk_entity",
+          "reform",
           "nigel",
-          "farage",
           "happens",
-          "resigned",
-          "reform"
+          "farage"
         ]
       }
     ]
