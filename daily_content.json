@@ -1,97 +1,402 @@
 {
-  "updatedAt": "2026-07-10T23:49:12.572924",
+  "updatedAt": "2026-07-11T07:07:33.076863",
   "insight": {
-    "title": "The Instant Cringe Effect",
-    "subtitle": "The rapid shift from novel to exhausted defines how we consume and discard digital culture.",
-    "notificationHook": "Yesterday's cool is today's cringe.",
+    "title": "Your Face Carries the Shape of Your Favorite Days",
+    "subtitle": "The lines we trace in the mirror are just the physical footprints of the moments we smiled.",
+    "notificationHook": "Your face is a map of your laughter",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Viral trends have a hyper-accelerated lifecycle. A new sound or meme explodes into ubiquity, then swiftly collapses into exhaustion, often within days."
+        "text": "Look closely at the quiet lines around a person\u2019s eyes. These are not signs of wear, but the gentle paths carved by a lifetime of looking at the people and things they loved."
       },
       {
         "type": "paragraph",
-        "text": "This isn't just natural evolution; it's the internet's insatiable appetite. Platforms reward constant novelty, churning content until every drop of freshness is squeezed out and discarded."
+        "text": "Our skin is incredibly patient, adapting to our habits. When we laugh, wonder, or squint at the morning sun, our body memorizes these shapes, gently keeping a physical record of our days."
       },
       {
         "type": "paragraph",
-        "text": "The result is a culture of instant digital archaeology. What was fresh last Tuesday now feels tragically pass\u00e9. We're all chasing the next wave before the current one even fully breaks."
+        "text": "Aging is not the fading of youth, but the gradual gathering of a life. Your face slowly becomes a visible story, showing the world exactly how deeply you have cared."
       },
       {
         "type": "paragraph",
-        "text": "Cringe is just speed-run nostalgia."
+        "text": "You are simply wearing the beautiful evidence of having been here."
       }
     ]
   },
   "news": [
     {
-      "title": "Ukraine creates \u2018long-range\u2019 command to step up strikes on Russia",
-      "description": "Ukraine is hitting key energy infrastructure across Russia to deprive Moscow's war chest of funds.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/ukraine-creates-long-range-command-to-step-up-strikes-on-russia",
+      "title": "Russia\u2019s diesel export ban deals fresh blow to strained energy market",
+      "description": "Russia\u2019s decision to ban diesel exports this week has roiled global energy markets, exacerbating shortages of the industrial fuel and sending prices soaring, even in countries that no longer buy the fuel from Moscow. Diesel accounts for the largest share of global oil consumption and soaring prices ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3360200/russias-diesel-export-ban-deals-fresh-blow-strained-energy-market",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 20,
+      "why": "Your heating and fuel costs may rise soon.",
+      "context": "Russia banned diesel exports to stabilize its domestic market.",
+      "next": "European countries may seek alternative diesel suppliers.",
+      "bigger": "Global energy supply chains are becoming increasingly fragmented.",
+      "publishedAt": "2026-07-11T02:31:20+00:00",
+      "topicFingerprint": [
+        "ban",
+        "helium",
+        "china_entity",
+        "export",
+        "exports"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Patriot missile license a 'long-term' investment for Ukraine \u2013 but can it afford the wait?",
+      "description": "US President Donald Trump\u2019s surprise announcement that he will approve a license for Ukraine to produce its own Patriot missile interceptors signals a potential breakthrough for Kyiv, though experts caution that it will not translate into an immediate fix.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 16,
-      "why": "Global oil and energy prices could rise due to disrupted supplies.",
-      "context": "Ukraine established a specialized military command to launch deeper, long-range strikes against Russian territory.",
-      "next": "Russia may retaliate with heavy airstrikes on Ukrainian civilian infrastructure.",
-      "bigger": "Modern warfare is increasingly shifting toward long-range drone and missile technology.",
-      "publishedAt": "2026-07-11T03:26:32+08:00",
+      "why": "Ukraine may face severe air defense shortages before production begins.",
+      "context": "The US approved a license for Ukraine to build Patriot missiles.",
+      "next": "Kyiv will likely seek intermediate weapons shipments from allies.",
+      "bigger": "Western allies are shifting toward localized defense manufacturing.",
+      "publishedAt": "2026-07-11T05:11:04+00:00",
       "topicFingerprint": [
-        "donald_trump",
         "us_entity",
+        "iran",
+        "donald_trump",
         "ukraine",
         "strikes",
-        "bill",
-        "russian"
+        "attacks"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Trump permits Ukraine to make Patriot missile interceptors",
+          "description": "President Trump announced the US will license Ukraine to produce Patriot air defense missiles, the only weapon capable of stopping ballistic projectiles.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/f8f580d9-e127-4786-b5e8-f5cfd36ec213.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T00:26:48+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "strikes",
+            "attacks"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "US license could let Ukraine produce Patriot missiles, but it won't be simple or quick",
+          "description": "US President Donald Trump's pledge to give Ukraine a license to produce Patriot air-defence systems could mark a major breakthrough for Kyiv, but experts and Ukrainian officials warn that turning the idea into real weapons would likely take years..",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-license-could-let-ukraine-produce-patriot-missiles-but-it-wont-be-simple-or-quick-19943119.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T20:37:46+05:30",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "strikes",
+            "attacks"
+          ],
+          "group_id": 1
+        }
+      ]
     },
     {
-      "title": "Cuba suffers second nationwide blackout in five days",
-      "description": "Cuba's electricity grid has crumbled amid a six-month US fuel blockade and already dilapidated energy infrastructure.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285",
-      "category": "Environment",
+      "title": "Apple sues OpenAI for stealing trade secrets",
+      "description": "Apple sues OpenAI for stealing trade secrets and intellectual property to build ChatGPT hardware, alleging the poaching of employees for confidential data.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/918b1fab-88bd-43aa-ab58-3440f8c11159.html",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 19,
-      "why": "Cuban residents will face prolonged shortages of clean water and food.",
-      "context": "Cuba's electrical grid suffered another massive failure, plunging the entire island into darkness.",
-      "next": "The government may ration remaining fuel to keep hospitals running.",
-      "bigger": "Dilapidated national infrastructure is highly vulnerable to systemic failures during crises.",
-      "publishedAt": "2026-07-10T23:27:00+00:00",
+      "why": "New consumer AI devices may face sudden launch delays.",
+      "context": "Apple sued OpenAI for allegedly stealing trade secrets to build hardware.",
+      "next": "Courts may temporarily block OpenAI from hiring certain engineers.",
+      "bigger": "Corporate rivalry over AI talent is triggering aggressive legal battles.",
+      "publishedAt": "2026-07-10T21:17:19+00:00",
       "topicFingerprint": [
-        "donald_trump",
-        "us_entity",
-        "ukraine",
-        "strikes",
-        "bill",
-        "russian"
+        "apple",
+        "openai",
+        "trade",
+        "secrets",
+        "sues"
+      ],
+      "alternates": [
+        {
+          "title": "Apple sues OpenAI for stealing trade secrets",
+          "description": "Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker\u2019s trade secrets as it tries to develop its own consumer hardware device. The lawsuit \u2013 filed in a federal court in San Jose, California \u2013 paints a picture of an aggressive ",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets",
+          "category": "Technology",
+          "publishedAt": "2026-07-10T22:27:02+00:00",
+          "score": 16,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+          "description": "Apple said in a Friday lawsuit that OpenAI\u2019s nascent hardware business is \u201crotten to its core.\u201d",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T22:54:16+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+          "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Prod",
+          "source": "Tech | The Verge",
+          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T21:36:51+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+          "description": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T23:00:11+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI for trade secret theft",
+          "description": "Apple is suing OpenAI for trade secret theft, alleging the AI giant deliberately and systematically solicited and stole confidential information from the iPhone-maker's current and former employees. Why it matters: Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil it",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T20:30:40+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets",
+          "description": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets",
+          "category": "Technology",
+          "publishedAt": "2026-07-10T19:25:03-04:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI, accusing ChatGPT maker of stealing trade secrets",
+          "description": "Apple alleges that OpenAI and two of its employees stole trade secrets and engaged in a \"pattern of misconduct.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/apple-sues-openai-chatgpt-stealing-trade-secrets/",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-10T20:05:01-04:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI for stealing trade secrets",
+          "description": "The lawsuit paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device.",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/apple-sues-openai-trade-secrets-6247591",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-11T08:02:00+08:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "description": "Apple has filed a lawsuit against OpenAI today, accusing the company of trade secret theft. Specifically, Apple alleges that its former employees have stolen trade secrets \u201cfor the benefit of OpenAI.\u201d \u201cThis case is about Apple\u2019s former employees stealing Apple\u2019s trade secrets for the benefit of Open",
+          "source": "9To5Mac",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "category": "General",
+          "publishedAt": "2026-07-10T20:29:43+00:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "openai",
+            "trade",
+            "secrets",
+            "sues"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Ebola outbreak may be four times larger than official data estimates: WHO",
+      "description": "WHO officials revealed that four out of every five new Ebola cases in Congo have no links to previous carriers, raising issues with virus containment",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/ebola-outbreak-may-be-four-times-larger-than-official-data-estimates-who-101783677702010.html",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Neighboring African countries face a higher risk of virus transmission.",
+      "context": "The WHO warned the Congo Ebola outbreak is spreading undetected.",
+      "next": "International medical teams may deploy more emergency aid.",
+      "bigger": "Weak local healthcare infrastructure hinders global disease containment.",
+      "publishedAt": "2026-07-10T15:50:14+05:30",
+      "topicFingerprint": [
+        "ebola",
+        "data",
+        "estimates",
+        "who_entity",
+        "four"
       ],
       "alternates": []
     },
     {
-      "title": "Microsoft's AI boom collides with its climate goals",
-      "description": "Microsoft's latest environmental report shows the growing tension between its race to build AI infrastructure and its long-standing climate commitments. Why it matters: The report mirrors recent disclosures from Google and Amazon , whose emissions and resource use have also climbed alongside AI grow",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/microsoft-ai-data-centers-climate-goals",
+      "title": "Over a decade after SpaceX, China successfully lands rocket booster with hooks & a net. How different is the tech?",
+      "description": "With the Long March 10B launch, China is now the second nation after the US with reusable rocket booster technology.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/decade-after-spacex-china-lands-rocket-booster-with-hooks-and-net-how-different-is-tech-101783685587340.html",
       "category": "Technology",
       "readingTime": 2,
-      "score": 17,
-      "why": "Your energy bills may rise as data centers consume more electricity.",
-      "context": "Microsoft is struggling to meet its climate commitments due to the massive energy demands of its expanding AI infrastructure.",
-      "next": "Tech companies may invest in nuclear power for their data centers.",
-      "bigger": "The rapid rise of AI is delaying global green energy transitions.",
-      "publishedAt": "2026-07-09T16:00:04+00:00",
+      "score": 10,
+      "why": "Global satellite launch costs may decrease as competition grows.",
+      "context": "China successfully landed a reusable rocket booster using hooks and nets.",
+      "next": "Chinese aerospace firms may accelerate their commercial satellite launches.",
+      "bigger": "The global space race is rapidly intensifying.",
+      "publishedAt": "2026-07-10T19:00:32+05:30",
       "topicFingerprint": [
-        "ai_group",
-        "goals",
-        "climate",
-        "environmental",
-        "microsoft"
+        "rocket",
+        "reusable",
+        "china_entity",
+        "booster",
+        "space"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "China successfully launches and retrieves first reusable rocket booster",
+          "description": "China successfully retrieved its first orbital-class reusable rocket booster, the Long March 10B, marking a major breakthrough in its space program.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/609139c2-e8a3-4dcb-a172-87e78c9a922c.html",
+          "category": "General",
+          "publishedAt": "2026-07-10T12:11:37+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "rocket",
+            "reusable",
+            "china_entity",
+            "booster",
+            "space"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "US eases restrictions on Apple\u2019s access to AI chips and data center equipment in the UAE",
+      "description": "Apple is among eight U.S. companies now able to bring covered advanced-computing chips, servers, and other controlled technology into the UAE without applying for individual export licenses. Here\u2019s what that means.",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/07/10/us-eases-restrictions-on-apples-access-to-ai-chips-and-data-center-equipment-in-the-uae/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 17,
+      "why": "Tech firms in the Middle East may deploy faster AI services.",
+      "context": "The US allowed Apple to ship advanced AI chips to the UAE.",
+      "next": "Other Gulf nations may request similar chip export exemptions.",
+      "bigger": "Washington is using technology exports to build strategic regional alliances.",
+      "publishedAt": "2026-07-10T18:10:28+00:00",
+      "topicFingerprint": [
+        "export",
+        "uae_entity",
+        "chips",
+        "ai_group",
+        "us_entity"
+      ],
+      "alternates": [
+        {
+          "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
+          "description": "The UAE government and approved companies also will now be able to access advanced computing items license-free, the posting said.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-makes-it-easier-to-export-certain-military-items-ai-chips-and-commercial-satellites-to-the-uae-19943235.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-11T00:31:38+05:30",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "export",
+            "uae_entity",
+            "chips",
+            "ai_group",
+            "us_entity"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
@@ -100,17 +405,17 @@
       "url": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
       "category": "General",
       "readingTime": 2,
-      "score": 10,
-      "why": "The social media apps you use may soon change their designs.",
-      "context": "European Union regulators ruled that Meta violated digital laws by designing Instagram and Facebook to be intentionally addictive.",
-      "next": "Meta could face multi-billion dollar fines from European regulators.",
-      "bigger": "Governments are tightening regulations on how tech companies hook users.",
+      "score": 9,
+      "why": "Social media features in Europe may be restricted soon.",
+      "context": "The EU found Meta's platform designs violate digital safety laws.",
+      "next": "Meta may face massive financial penalties from European regulators.",
+      "bigger": "Global tech platforms face stricter scrutiny over mental health impacts.",
       "publishedAt": "2026-07-10T11:48:12+00:00",
       "topicFingerprint": [
-        "eu_entity",
+        "digital",
         "meta",
+        "eu_entity",
         "facebook",
-        "instagram",
         "addictive"
       ],
       "alternates": [
@@ -121,13 +426,13 @@
           "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
           "category": "Technology",
           "publishedAt": "2026-07-10T14:19:40+00:00",
-          "score": 8,
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "eu_entity",
+            "digital",
             "meta",
+            "eu_entity",
             "facebook",
-            "instagram",
             "addictive"
           ],
           "group_id": 0
@@ -142,10 +447,10 @@
           "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "eu_entity",
+            "digital",
             "meta",
+            "eu_entity",
             "facebook",
-            "instagram",
             "addictive"
           ],
           "group_id": 0
@@ -153,514 +458,279 @@
       ]
     },
     {
-      "title": "iPhone manufacturing in India gets a tariff boost",
-      "description": "As reported by Reuters , India continued its push to become a larger electronics manufacturing hub today by removing import duties on select parts used in smartphones and other devices. Here are the details.",
+      "title": "WSJ: Apple avoided semiconductor tariffs last year thanks to Intel chip deal",
+      "description": "Intel in the U.S. is expected to make at least some upcoming Mac and iPhone chips for Apple. That recent development may have been the key to a major tariff exemption on semiconductors Apple received almost a year ago.",
       "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/07/09/iphone-manufacturing-in-india-gets-a-tariff-boost/",
-      "category": "Progress",
+      "url": "https://9to5mac.com/2026/07/10/wsj-apple-avoided-semiconductor-tariffs-last-year-thanks-to-intel-chip-deal/",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 4,
-      "why": "Smartphones made in India could become cheaper for local consumers.",
-      "context": "India slashed import taxes on specific components to attract more smartphone manufacturers and boost local production.",
-      "next": "More global tech brands may move their manufacturing to India.",
-      "bigger": "Tech supply chains are shifting away from heavy reliance on China.",
-      "publishedAt": "2026-07-09T13:32:54+00:00",
+      "score": 12,
+      "why": "Prices for upcoming Apple devices may remain stable.",
+      "context": "Apple avoided US chip tariffs by partnering with domestic manufacturer Intel.",
+      "next": "Other hardware companies may shift production to US-based factories.",
+      "bigger": "Tech giants are restructuring supply chains to avoid geopolitical tariffs.",
+      "publishedAt": "2026-07-11T06:03:08+00:00",
       "topicFingerprint": [
-        "tariff",
-        "manufacturing",
-        "gets",
-        "india",
-        "iphone"
+        "semiconductor",
+        "apple",
+        "avoided",
+        "intel",
+        "thanks"
       ],
       "alternates": []
     },
     {
-      "title": "Apple Sues OpenAI for Stealing Trade Secrets",
-      "description": "Apple sues OpenAI for allegedly stealing trade secrets and poaching employees to develop its own consumer hardware device for ChatGPT.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/918b1fab-88bd-43aa-ab58-3440f8c11159.html",
-      "category": "Geopolitics",
+      "title": "China has poured funding into flood defences. Has the investment paid off?",
+      "description": "With climate change unleashing more frequent extreme weather events and heightening the risk of casualties and infrastructure damage nationwide, Chinese authorities have stepped up funding to address the challenge, though ageing dams and cash-strapped local coffers pose challenges, according to anal",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/china-economy/article/3360187/china-has-poured-funding-flood-defences-has-investment-paid",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 21,
-      "why": "Future AI features on consumer devices may face development delays.",
-      "context": "Apple initiated a lawsuit against OpenAI, alleging theft of intellectual property and illegal poaching of corporate talent.",
-      "next": "OpenAI will likely file a legal counter-defense in court soon.",
-      "bigger": "Tech giants are increasingly fighting in court over AI intellectual property.",
-      "publishedAt": "2026-07-10T21:17:19+00:00",
+      "score": 12,
+      "why": "Flood-prone Chinese communities may experience fewer property losses.",
+      "context": "China increased spending on infrastructure to combat severe seasonal flooding.",
+      "next": "Cities will likely implement stricter drainage standards for new buildings.",
+      "bigger": "Developing nations must spend heavily to adapt to extreme weather.",
+      "publishedAt": "2026-07-11T06:00:12+00:00",
       "topicFingerprint": [
-        "apple",
-        "trade",
-        "openai",
-        "secrets",
-        "sues"
+        "investment",
+        "poured",
+        "flood",
+        "defences",
+        "funding"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Dry winter leaves farmers along Colorado River facing greater water shortages",
+      "description": "This past winter was an extraordinarily dry one in the western U.S. A lack of snowpack that normally feeds the Colorado River has only deepened the impact of a drought affecting tens of millions in seven states and Mexico. Accelerated by climate change, the drought is taking a bite out of farmers' p",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/dry-winter-leaves-farmers-along-colorado-river-facing-greater-water-shortages",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 9,
+      "why": "US consumers may face higher prices for fresh produce soon.",
+      "context": "Low winter snowfall depleted water supplies along the Colorado River.",
+      "next": "Regional water authorities may restrict agricultural water usage.",
+      "bigger": "Climate patterns are threatening critical agricultural regions worldwide.",
+      "publishedAt": "2026-07-10T18:35:24-04:00",
+      "topicFingerprint": [
+        "colorado",
+        "winter",
+        "river",
+        "greater",
+        "along"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Meta scraps AI image feature days after launch following privacy backlash",
+      "description": "Muse Image faces backlash over privacy concerns and being an automatic opt-in for users",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/startups-tech/technology/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Your personal data on Facebook and Instagram remains safer.",
+      "context": "Meta cancelled its new AI image generator after facing privacy complaints.",
+      "next": "Meta will likely revise its user opt-out options for AI.",
+      "bigger": "Tech companies are facing intense public resistance over data harvesting.",
+      "publishedAt": "2026-07-11T04:49:49+00:00",
+      "topicFingerprint": [
+        "meta",
+        "ai_group",
+        "feature",
+        "backlash",
+        "instagram"
       ],
       "alternates": [
         {
-          "title": "Apple sues OpenAI for stealing trade secrets",
-          "description": "Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker\u2019s trade secrets as it tries to develop its own consumer hardware device. The lawsuit \u2013 filed in a federal court in San Jose, California \u2013 paints a picture of an aggressive ",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets",
+          "title": "\u2018Missed the mark\u2019: Meta scraps AI image feature days after launch following privacy backlash",
+          "description": "The feature allowed users to generate images using public Instagram accounts.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/missed-the-mark-meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash",
           "category": "Technology",
-          "publishedAt": "2026-07-10T22:27:02+00:00",
-          "score": 19,
+          "publishedAt": "2026-07-11T11:55:00+08:00",
+          "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
+            "meta",
+            "ai_group",
+            "feature",
+            "backlash",
+            "instagram"
           ],
           "group_id": 0
         },
         {
-          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-          "description": "Apple said in a Friday lawsuit that OpenAI\u2019s nascent hardware business is \u201crotten to its core.\u201d",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-10T22:54:16+00:00",
-          "score": 18,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-          "description": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-10T23:00:11+00:00",
-          "score": 18,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-          "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Prod",
-          "source": "Tech | The Verge",
-          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-10T21:36:51+00:00",
-          "score": 17,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets",
-          "description": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets",
+          "title": "Meta scraps AI image feature days after launch following privacy backlash",
+          "description": "Meta has discontinued its AI image generation feature, Muse Image, after receiving backlash over privacy concerns.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-101783733618062.html",
           "category": "Technology",
-          "publishedAt": "2026-07-10T19:25:03-04:00",
-          "score": 17,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Apple sues OpenAI, accusing ChatGPT maker of stealing trade secrets",
-          "description": "Apple alleges that OpenAI and two of its employees stole trade secrets and engaged in a \"pattern of misconduct.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/apple-sues-openai-chatgpt-stealing-trade-secrets/",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-10T18:02:30-04:00",
-          "score": 16,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Apple sues OpenAI, two former employees for trade secrets theft",
-          "description": "",
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/business/apple-sues-openai-two-former-employees-trade-secrets-theft-6247321",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-11T04:32:42+08:00",
+          "publishedAt": "2026-07-11T07:13:40+05:30",
           "score": 14,
           "readingTime": 2,
           "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
+            "meta",
+            "ai_group",
+            "feature",
+            "backlash",
+            "instagram"
           ],
           "group_id": 0
         },
         {
-          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "description": "Apple has filed a lawsuit against OpenAI today, accusing the company of trade secret theft. Specifically, Apple alleges that its former employees have stolen trade secrets \u201cfor the benefit of OpenAI.\u201d \u201cThis case is about Apple\u2019s former employees stealing Apple\u2019s trade secrets for the benefit of Open",
-          "source": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-          "category": "General",
-          "publishedAt": "2026-07-10T20:29:43+00:00",
-          "score": 8,
+          "title": "Meta scraps AI image feature days after launch following privacy backlash",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/meta-scraps-ai-image-feature-days-after-launch-following-privacy-backlash-6247581",
+          "category": "Technology",
+          "publishedAt": "2026-07-11T07:32:58+08:00",
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "apple",
-            "trade",
-            "openai",
-            "secrets",
-            "sues"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "US eases restrictions on Apple\u2019s access to AI chips and data center equipment in the UAE",
-      "description": "Apple is among eight U.S. companies now able to bring covered advanced-computing chips, servers, and other controlled technology into the UAE without applying for individual export licenses. Here\u2019s what that means.",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/07/10/us-eases-restrictions-on-apples-access-to-ai-chips-and-data-center-equipment-in-the-uae/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Middle Eastern tech firms will gain faster access to advanced hardware.",
-      "context": "The United States government eased export restrictions on advanced AI microchips and server equipment going to the United Arab Emirates.",
-      "next": "The UAE will build more massive data centers in the region.",
-      "bigger": "The US is using tech exports to build strategic global alliances.",
-      "publishedAt": "2026-07-10T18:10:28+00:00",
-      "topicFingerprint": [
-        "uae_entity",
-        "export",
-        "ai_group",
-        "chips",
-        "us_entity"
-      ],
-      "alternates": [
-        {
-          "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
-          "description": "The UAE government and approved companies also will now be able to access advanced computing items license-free, the posting said.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/us-makes-it-easier-to-export-certain-military-items-ai-chips-and-commercial-satellites-to-the-uae-19943235.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-11T00:31:38+05:30",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uae_entity",
-            "export",
+            "meta",
             "ai_group",
-            "chips",
-            "us_entity"
+            "feature",
+            "backlash",
+            "instagram"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Over a decade after SpaceX, China successfully lands rocket booster with hooks & a net. How different is the tech?",
-      "description": "With the Long March 10B launch, China is now the second nation after the US with reusable rocket booster technology.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/decade-after-spacex-china-lands-rocket-booster-with-hooks-and-net-how-different-is-tech-101783685587340.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Global satellite launch costs could decrease as reusable technology spreads.",
-      "context": "China successfully recovered a reusable rocket booster using an innovative system of mechanical hooks and nets.",
-      "next": "China may increase its schedule of commercial space launches soon.",
-      "bigger": "The global space race is accelerating as more nations master reusability.",
-      "publishedAt": "2026-07-10T19:00:32+05:30",
-      "topicFingerprint": [
-        "rocket",
-        "china_entity",
-        "reusable",
-        "booster",
-        "long"
-      ],
-      "alternates": [
-        {
-          "title": "China successfully launches and retrieves first reusable rocket booster",
-          "description": "China successfully retrieved its first orbital-class reusable rocket booster, the Long March 10B, marking a major breakthrough in its space program.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/609139c2-e8a3-4dcb-a172-87e78c9a922c.html",
-          "category": "General",
-          "publishedAt": "2026-07-10T12:11:37+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "rocket",
-            "china_entity",
-            "reusable",
-            "booster",
-            "long"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "New York sues 3M, DuPont and others over 'forever chemicals' in consumer goods",
-      "description": "New York sues 3M, DuPont, and others for selling toxic PFAS 'forever chemicals' in consumer products and hiding their environmental and health risks.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/5603dc33-23ee-4422-91ee-87e6b9aef1b6.html",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Many everyday household products may be reformulated or pulled from shelves.",
-      "context": "New York State sued major chemical manufacturers for selling consumer goods containing toxic compounds while hiding health risks.",
-      "next": "Other states will likely file similar lawsuits against these chemical firms.",
-      "bigger": "Public health safety standards for everyday chemicals are rapidly tightening.",
-      "publishedAt": "2026-07-10T06:10:19+00:00",
-      "topicFingerprint": [
-        "forever",
-        "dupont",
-        "york",
-        "chemicals",
-        "sues"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "UK loses case over asylum seeker rejections linked to migrant deal with France",
-      "description": "LONDON, July 10 - Britain acted unlawfully by removing asylum seekers' right to challenge decisions rejecting their claim to be a victim of trafficking, London's High Court ruled on Friday.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/uk-loses-case-over-asylum-seeker-rejections-linked-to-migrant-deal-with-france",
+      "title": "Why the new US housing bill won\u2019t fix the crisis",
+      "description": "Why the new US housing bill won t fix the crisis.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis",
       "category": "Policy",
       "readingTime": 2,
-      "score": 7,
-      "why": "The UK government must reform its procedures for handling asylum seekers.",
-      "context": "London's High Court ruled that the British government acted unlawfully by denying asylum seekers the right to appeal deportations.",
-      "next": "Human rights groups will challenge other parts of the immigration system.",
-      "bigger": "Courts are increasingly blocking hardline immigration policies in western democracies.",
-      "publishedAt": "2026-07-10T21:56:26+08:00",
+      "score": 13,
+      "why": "US homebuyers may continue struggling with high property costs.",
+      "context": "Analysts warned a new US housing bill fails to solve affordability.",
+      "next": "Local governments may introduce independent zoning reforms.",
+      "bigger": "National governments struggle to address urban housing shortages effectively.",
+      "publishedAt": "2026-07-11T00:41:51+00:00",
       "topicFingerprint": [
-        "rejections",
-        "asylum",
-        "linked",
-        "france",
-        "loses"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Cyclosporiasis parasite cases found in 31 states",
-      "description": "Cases of cyclosporiasis, a disease caused by a microscopic parasite, are growing in 31 states, and health officials still haven't identified the exact source of the outbreak. Dr. Eric Ascher, a family medicine physician, joins \"The Daily Report\" to discuss the illness.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/cyclosporiasis-parasite-cases-found-31-states/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Some grocery store produce may face recalls as health officials investigate.",
-      "context": "A foodborne parasitic illness is spreading across dozens of US states while investigators struggle to locate the contamination source.",
-      "next": "Health agencies will issue warnings against specific food items soon.",
-      "bigger": "Tracking foodborne illnesses remains a major challenge for modern supply chains.",
-      "publishedAt": "2026-07-10T18:37:09-04:00",
-      "topicFingerprint": [
-        "found",
-        "states",
-        "cyclosporiasis",
-        "cases",
-        "parasite"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "New York City becomes first in the US to ban deceptive subscription practices",
-      "description": "Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and \u2018junk fees\u2019 New York City has adopted a new rule that bans companies from using deceptive subscriptions to trap customers into paying for gym memberships, streaming services and other recurring ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Local shoppers will find it much easier to cancel recurring payments.",
-      "context": "New York City passed a law banning businesses from using deceptive subscription practices and hidden automatic recurring charges.",
-      "next": "Businesses operating in New York must redesign their billing systems.",
-      "bigger": "Consumer protection laws are increasingly targeting predatory digital business designs.",
-      "publishedAt": "2026-07-10T20:15:57+00:00",
-      "topicFingerprint": [
-        "becomes",
-        "practices",
-        "york",
-        "city",
-        "deceptive"
+        "donald_trump",
+        "bill",
+        "bipartisan",
+        "housing",
+        "law"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "Dentist used his own company to receive his salary and pay less tax",
-      "description": "He thought he could reduce his tax bill if the money he earned was taxed as company income.",
+      "title": "IRAS nabs 279 high-income earners over sham arrangements to pay less tax",
+      "description": "Section 33 of Income Tax Act was used to claw back taxes from the errant taxpayers.",
       "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/invest/dentist-used-his-own-company-to-receive-his-salary-and-pay-less-tax",
+      "url": "https://www.straitstimes.com/business/invest/iras-nabs-279-high-income-earners-over-sham-arrangements-to-pay-less-tax",
       "category": "Financial",
       "readingTime": 2,
       "score": 11,
-      "why": "Self-employed professionals will face stricter tax audits on corporate income.",
-      "context": "A professional was penalized for using a private corporation to artificially lower his personal income tax rate.",
-      "next": "Revenue agencies will increase scrutiny on small business tax structures.",
-      "bigger": "Governments are closing loopholes that allow individuals to bypass income tax.",
+      "why": "Tax evaders in Singapore will face heavy penalties and fines.",
+      "context": "Singapore's tax authority caught wealthy citizens using loopholes to avoid taxes.",
+      "next": "Authorities may audit more high-income tax filings this year.",
+      "bigger": "Governments worldwide are cracking down on complex offshore tax avoidance.",
       "publishedAt": "2026-07-11T05:00:00+08:00",
       "topicFingerprint": [
-        "pay",
+        "nabs",
         "tax",
-        "income",
-        "less",
-        "dentist"
+        "arrangements",
+        "iras",
+        "earners"
       ],
       "alternates": []
     },
     {
-      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-      "description": "The vast majority of business data is tabular \u2014 living in data warehouses, CRMs, and financial ledgers \u2014 yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and retraining pipelines to",
-      "source": "Venturebeat",
-      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+      "title": "Why does India need an Index of Services Production? | Explained",
+      "description": "As a panacea to the inherent limitations of the present structure, which is dependent mainly on quarterly GDP estimates and indirect indicators, the MoSPI finalised the services index, compiled using outward supply of enterprises registered under goods and services tax (GST); but can potentially lev",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/why-does-india-need-an-index-of-services-production-explained/article71206466.ece",
       "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Analyzing corporate spreadsheets will take far less time and effort.",
-      "context": "Google developed a new AI tool capable of analyzing spreadsheet data and making predictions without prior dataset training.",
-      "next": "Software developers will integrate this tool into common spreadsheet applications.",
-      "bigger": "Artificial intelligence is shifting toward generalized models for specialized office work.",
-      "publishedAt": "2026-07-10T16:14:24+00:00",
-      "topicFingerprint": [
-        "tabfm",
-        "skips",
-        "seen",
-        "training",
-        "tables"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "How Venezuelan Bureaucracy Thwarted an American Earthquake Rescue Squad",
-      "description": "A team lost five days to government red tape and political interference, missing a window to find earthquake survivors.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/how-venezuelan-bureaucracy-thwarted-an-american-earthquake-rescue-squad-101783680782099.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Disaster victims are at higher risk of death due to administrative delays.",
-      "context": "Bureaucratic hurdles and administrative delays in Venezuela blocked a foreign rescue squad from searching for earthquake survivors.",
-      "next": "International aid groups may bypass official state channels in future emergencies.",
-      "bigger": "Geopolitical rivalries are increasingly hindering global humanitarian disaster response efforts.",
-      "publishedAt": "2026-07-10T20:20:40+05:30",
-      "topicFingerprint": [
-        "squad",
-        "earthquake",
-        "bureaucracy",
-        "thwarted",
-        "venezuelan"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Security questions swirl over Trump\u2019s new plane given to him by Qatar",
-      "description": "US President Donald Trump faces questions about the security of his new Air Force One plane gifted by Qatar, after he took an older jet home from a Nato summit this week. The billionaire president has barely been able to contain his excitement over the retrofitted Boeing 747-8 aircraft, which took h",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3360195/scare-force-one-security-questions-swirl-over-trumps-new-plane",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Sensitive state communications could be compromised by foreign intelligence agencies.",
-      "context": "Security experts questioned the safety of an aircraft gifted to the US president due to potential foreign espionage risks.",
-      "next": "Security agencies will thoroughly sweep the aircraft for hidden listening devices.",
-      "bigger": "High-level diplomatic gifts are scrutinized as potential tools for foreign espionage.",
-      "publishedAt": "2026-07-10T20:37:51+00:00",
-      "topicFingerprint": [
-        "swirl",
-        "qatar",
-        "questions",
-        "given",
-        "plane"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Watch: Pentagon releases 19 new UFO videos",
-      "description": "The Defense Department released a fourth batch of UFO files on Friday, nearly one month after its third drop. These are all of the videos in the latest tranche, plus analysis from astrophysicist Avi Loeb.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/watch-pentagon-releases-19-new-ufo-videos/",
-      "category": "Geopolitics",
       "readingTime": 2,
       "score": 9,
-      "why": "Airspace safety regulations may tighten as unexplained tracking incidents increase.",
-      "context": "The United States military released a new collection of declassified videos documenting unidentified flying objects in domestic airspace.",
-      "next": "Independent scientists will begin analyzing the newly released sensor data.",
-      "bigger": "Governments are facing growing pressure to be transparent about airspace anomalies.",
-      "publishedAt": "2026-07-10T17:32:00-04:00",
+      "why": "Indian policymakers will have better data to manage inflation.",
+      "context": "India introduced a new index to measure its massive services sector.",
+      "next": "Investors may adjust their portfolios based on the new monthly data.",
+      "bigger": "Developing economies are modernizing statistical tools to track rapid growth.",
+      "publishedAt": "2026-07-10T18:41:01+05:30",
       "topicFingerprint": [
-        "ufo",
-        "fourth",
-        "files",
-        "tranche",
-        "loeb"
+        "services",
+        "production",
+        "need",
+        "does",
+        "india"
       ],
-      "alternates": [
-        {
-          "title": "Astrophysicist Avi Loeb on Pentagon's 4th UFO files release",
-          "description": "The Pentagon released more UFO files on Friday, its fourth tranche since May. Avi Loeb, Baird professor of science at Harvard University and leader of the White House UAP council, joins with analysis.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/astrophysicist-avi-loeb-pentagon-4th-ufo-files-release/",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-10T17:18:16-04:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ufo",
-            "fourth",
-            "files",
-            "tranche",
-            "loeb"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
-      "description": "These are some of the stocks posting the largest moves midday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
+      "title": "Economic uncertainty looms over Venezuela quake zone",
+      "description": "Jobs, goods and services have all but disappeared, with uncertainty colouring the future.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/economic-uncertainty-looms-over-venezuela-quake-zone",
       "category": "Financial",
       "readingTime": 2,
-      "score": 8,
-      "why": "Retail investors may see sudden changes in their retirement portfolio values.",
-      "context": "Several major international corporations experienced significant midday stock price swings following key market developments.",
-      "next": "Analysts will adjust their quarterly earnings forecasts for these affected firms.",
-      "bigger": "Market volatility is rising as companies report mixed quarterly financial results.",
-      "publishedAt": "2026-07-10T17:53:52+00:00",
+      "score": 9,
+      "why": "Local residents may struggle to find basic goods and jobs.",
+      "context": "A major earthquake left Venezuelan communities with severe economic damage.",
+      "next": "Humanitarian organizations may struggle to deliver aid amid national shortages.",
+      "bigger": "Natural disasters cause deeper devastation in economically vulnerable nations.",
+      "publishedAt": "2026-07-11T11:30:00+08:00",
       "topicFingerprint": [
-        "hynix",
-        "midday",
-        "delta",
-        "biggest",
-        "making"
+        "looms",
+        "quake",
+        "uncertainty",
+        "zone",
+        "venezuela"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Outgoing Colombia minister warns climate gains could be at risk under new government",
+      "description": "Colombia s outgoing environment minister Irene V lez Torres has warned that the incoming government could reverse recent climate and conservation gains, citing",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/outgoing-colombia-minister-warns-climate-gains-risk-new-134665525",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Protected Colombian rainforests may face increased illegal logging risks.",
+      "context": "Colombia's environment minister warned the next administration might reverse conservation policies.",
+      "next": "Environmental activists may launch protests against proposed policy changes.",
+      "bigger": "Political transitions frequently disrupt long-term environmental protections.",
+      "publishedAt": "2026-07-10T19:34:35-04:00",
+      "topicFingerprint": [
+        "gains",
+        "outgoing",
+        "climate",
+        "warns",
+        "risk"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
+      "description": "The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Citizens in Nicaragua lose access to independent legal defense.",
+      "context": "Nicaragua revoked the licenses of lawyers critical of the government.",
+      "next": "Exiled lawyers may form human rights networks from abroad.",
+      "bigger": "Authoritarian regimes are systematically dismantling independent civil institutions.",
+      "publishedAt": "2026-07-10T23:31:22+00:00",
+      "topicFingerprint": [
+        "dissent",
+        "lawyers",
+        "crackdown",
+        "strips",
+        "nicaragua"
       ],
       "alternates": []
     },
@@ -672,17 +742,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Children of immigrants in the US could lose automatic citizenship rights.",
-      "context": "A historic US supreme court ruling on birthright citizenship has reemerged at the center of modern immigration debates.",
-      "next": "Lawmakers will debate new bills targeting constitutional citizenship protections.",
-      "bigger": "Nationalist movements are increasingly challenging long-standing legal definitions of nationality.",
+      "why": "Children of undocumented immigrants in the US could lose citizenship rights.",
+      "context": "A historical legal precedent is driving new debates over US birthright citizenship.",
+      "next": "US lawmakers may propose constitutional amendments to restrict birthright citizenship.",
+      "bigger": "Nationalist movements worldwide are pushing to restrict immigration rights.",
       "publishedAt": "2026-07-10T20:24:03+00:00",
       "topicFingerprint": [
-        "ark",
-        "reignited",
         "legacy",
         "fight",
-        "birthright"
+        "birthright",
+        "kim",
+        "wong"
       ],
       "alternates": []
     },
@@ -694,41 +764,82 @@
       "category": "General",
       "readingTime": 2,
       "score": 8,
-      "why": "Patients may get faster access to new therapies for inflammatory diseases.",
-      "context": "A French biotechnology company secured substantial funding to independently launch and market its new treatments in the United States.",
-      "next": "Abivax will build its own sales force to enter US clinics.",
-      "bigger": "Independent biotech firms are increasingly bypassing acquisitions to launch drugs directly.",
+      "why": "Patients may get access to alternative therapies faster.",
+      "context": "Biotech firm Abivax secured funding to launch its drug independently.",
+      "next": "Abivax will begin hiring sales teams across the United States.",
+      "bigger": "Independent biotech firms are bypassing traditional pharmaceutical buyouts.",
       "publishedAt": "2026-07-10T10:10:15+00:00",
       "topicFingerprint": [
-        "million",
-        "cash",
-        "relying",
+        "launch",
+        "lets",
         "solo",
-        "cnbc"
+        "cnbc",
+        "million"
       ],
       "alternates": []
     },
     {
-      "title": "China fines 4 internet celebrities US$1.9m over tax evasion involving e-commerce sales",
-      "description": "Chinese authorities have fined four internet celebrities 13.3 million yuan (US$1.9 million) for tax evasion after they racked up millions of followers but paid nearly zero tax, Xinhua said on Friday. The penalties, including fines and late-payment fees, were paid in addition to the outstanding taxes",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/policy/article/3360116/china-fines-four-internet-celebrities-us19m-over-tax-evasion-involving-e-commerce-sales",
-      "category": "Financial",
+      "title": "How to protect yourself from the diarrhea-causing parasite wreaking havoc across the US",
+      "description": "As if we needed one more thing to worry about so soon after the hantavirus scare, there is a new public health threat for Americans to contend with: a rapidly escalating outbreak of, of all things, diarrhea. It\u2019s a parasite-borne illness called cyclosporiasis. It can cause explosive and watery bowel",
+      "source": "VOX",
+      "url": "https://www.vox.com/health/494977/explosive-diarrhea-parasite-outbreak-cyclosporiasis-michigan-ohio",
+      "category": "Health",
       "readingTime": 2,
-      "score": 8,
-      "why": "Online creators will face much stricter financial audits on their earnings.",
-      "context": "Chinese regulators penalized several high-profile online influencers for failing to pay taxes on their digital e-commerce sales.",
-      "next": "Social media platforms will automate tax reporting tools for content creators.",
-      "bigger": "Governments worldwide are cracking down on untaxed digital economy revenue.",
-      "publishedAt": "2026-07-10T10:30:05+00:00",
+      "score": 5,
+      "why": "US residents face higher risks of severe illness from tap water.",
+      "context": "A highly contagious parasite is spreading rapidly across the United States.",
+      "next": "Public health officials may issue warnings for local swimming pools.",
+      "bigger": "Public water infrastructure requires urgent upgrades to combat new pathogens.",
+      "publishedAt": "2026-07-10T18:00:00+00:00",
       "topicFingerprint": [
-        "sales",
-        "celebrities",
-        "tax",
-        "commerce",
-        "fines"
+        "havoc",
+        "diarrhea",
+        "parasite",
+        "across",
+        "yourself"
       ],
       "alternates": []
+    },
+    {
+      "title": "England get fitness boost ahead of World Cup quarter-final v Norway",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/sport/england-get-fitness-boost-ahead-world-cup-quarter-final-v-norway-6247646",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 3,
+      "why": "England's chances of advancing to the semi-finals have improved.",
+      "context": "Key English players recovered from injuries before their upcoming match.",
+      "next": "The team manager will likely name an unchanged starting lineup.",
+      "bigger": "Modern sports science is dramatically accelerating athlete recovery times.",
+      "publishedAt": "2026-07-11T08:42:46+08:00",
+      "topicFingerprint": [
+        "norway",
+        "england",
+        "cup",
+        "quarter",
+        "ahead"
+      ],
+      "alternates": [
+        {
+          "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
+          "description": "Haaland termed a beast by England s Kane as the lethal forwards aim to carry their teams into the semifinals.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers",
+          "category": "General",
+          "publishedAt": "2026-07-11T03:54:17+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "norway",
+            "england",
+            "cup",
+            "quarter",
+            "ahead"
+          ],
+          "group_id": 0
+        }
+      ]
     }
   ],
   "regionalNewsByCountry": {
@@ -775,55 +886,60 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "walls",
-          "tariffs",
           "liberation",
           "built",
-          "donald_trump"
+          "walls",
+          "donald_trump",
+          "tariffs"
         ]
       },
       {
-        "title": "Can the agreement between Iran and the US be rescued?",
-        "description": "Latest attacks jeopardise ceasefire and memorandum of understanding.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
+        "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+        "description": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-07-10T19:02:01+00:00",
+        "publishedAt": "2026-07-11T01:01:28+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 9,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "important keyword match: iran"
+            "reason": "important keyword match: cybersecurity"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rescued",
-          "agreement",
-          "iran",
-          "us_entity"
+          "incident",
+          "build",
+          "playbook",
+          "agency",
+          "cisa"
         ]
       }
     ],
@@ -870,54 +986,42 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "walls",
-          "tariffs",
           "liberation",
           "built",
-          "donald_trump"
+          "walls",
+          "donald_trump",
+          "tariffs"
         ]
       },
       {
-        "title": "How are Hong Kong start-ups closing the \u2018glaring gap\u2019 in women\u2019s health technology?",
-        "description": "The global femtech ecosystem has, according to Maaike Steinebach, a leading femtech expert in Asia, exploded threefold since 2015, with more than 3,000 start-ups tackling everything from women\u2019s reproductive health to cardiovascular disease, mental wellness and menopause support. Yet in Hong Kong, w",
+        "title": "Chinese chip start-up aims to build 5-nanometre equivalent chips without using EUV by 2029",
+        "description": "A Chinese chip start-up has launched what it claims to be the world\u2019s first 8-inch production line for two-dimensional (2D) semiconductors, marking the country\u2019s latest push to develop alternative chip technologies amid US curbs on its access to advanced chipmaking equipment. Shanghai-based Yuanjiwe",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/lifestyle/health-wellness/article/3359818/how-are-hong-kong-start-ups-closing-glaring-gap-womens-health-technology",
+        "url": "https://www.scmp.com/tech/big-tech/article/3360208/chinese-chip-start-aims-build-5-nanometre-equivalent-chips-without-using-euv-2029",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-07-10T23:15:05+00:00",
+        "publishedAt": "2026-07-11T05:20:15+00:00",
         "reason": "within_48h",
         "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: chip"
           },
           {
             "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": -4,
-            "reason": "South China regional news"
           },
           {
             "points": 1,
@@ -927,11 +1031,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "glaring",
-          "closing",
-          "women",
-          "technology",
-          "hong"
+          "equivalent",
+          "build",
+          "euv",
+          "start",
+          "chips"
         ]
       }
     ],
@@ -966,16 +1070,16 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "brazil",
+          "environmental",
+          "communities",
           "education",
           "peripheral",
-          "communities",
           "seek"
         ]
       },
@@ -1001,16 +1105,16 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "lula",
-          "amazon",
           "falls",
           "deforestation",
+          "decade",
+          "level",
           "lowest"
         ]
       }
@@ -1061,10 +1165,10 @@
         "alternates": [],
         "topicFingerprint": [
           "vehicles",
+          "trade",
+          "uk",
           "tariffs",
-          "quotas",
-          "lays",
-          "uk"
+          "quotas"
         ]
       },
       {
@@ -1077,7 +1181,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-10T04:36:20+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1090,220 +1194,20 @@
           {
             "points": 2,
             "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "vivo",
           "smartphone",
           "apple",
           "manufacturing",
-          "enters"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Barbados leader rejects \u2018asinine\u2019 claim by former UK minister that ex-colonies should repay Britain",
-        "description": "Barbados Prime Minister Mia Mottley is describing as asinine a suggestion that former colonies pay Britain back for its investment in them",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/barbados-leader-rejects-asinine-claim-former-uk-minister-134651527",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-10T10:54:07-04:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "former",
-          "colonies",
-          "claim",
-          "repay",
-          "rejects"
-        ]
-      },
-      {
-        "title": "Andy Burnham set to become new UK Prime Minister, gets backing of 322 Labour MPs",
-        "description": "Burnham secured 322 of 403 Labour Party votes at the end of the first day to be in line to become the next party leader following Keir Starmer's exit",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/andy-burnham-set-to-become-new-uk-prime-minister-gets-backing-of-322-labour-mps-101783663651874.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-10T12:26:07+05:30",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: labour"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him",
-            "description": "LONDON, July 10 - Andy Burnham is on the brink of becoming Britain's next prime minister after an overwhelming show of support from Labour lawmakers left him all but certain to replace Keir Starmer.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/andy-burnham-poised-to-become-britains-next-pm-after-most-labour-lawmakers-support-him",
-            "category": "General",
-            "publishedAt": "2026-07-10T17:57:01+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "burnham",
-              "keir",
-              "prime",
-              "andy",
-              "starmer"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Andy Burnham poised to become next UK PM as most Labour MPs back him",
-            "description": "Andy Burnham is poised to become the next UK prime minister after receiving overwhelming support from Labour MPs to replace the resigned Keir Starmer.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/6241eb6e-c836-4970-aa18-179371705d3f.html",
-            "category": "General",
-            "publishedAt": "2026-07-09T20:14:52+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "burnham",
-              "keir",
-              "prime",
-              "andy",
-              "starmer"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "burnham",
-          "keir",
-          "prime",
-          "andy",
-          "starmer"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Asian stocks extend gains on tech, yen strengthens",
-        "description": "Driven by a 4.6% rally in South Korea\u2019s Kospi, the MSCI Asia Pacific Index climbs 1.3% but is on track for a...",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asian-stocks-extend-gains-tech-yen-strengthens",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-10T01:39:57+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "asian",
-          "gains",
-          "tech",
-          "extend",
-          "yen"
-        ]
-      },
-      {
-        "title": "Yen jumps on news Japan to encourage pension funds to invest more domestically",
-        "description": "Against the Singapore dollar, the yen rose 0.35 per cent to 125.20 on July 10.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/yen-jumps-on-news-japan-to-encourage-pension-funds-to-invest-more-domestically",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-10T11:00:47+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: pension"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Yen rises as Japan encourages pension funds to invest in domestic assets",
-            "description": "The yen rose 0.6 per cent higher at 161.44 per dollar",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/yen-rises-japan-encourages-pension-funds-invest-domestic-assets",
-            "category": "Financial",
-            "publishedAt": "2026-07-10T03:53:16+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "japan",
-              "funds",
-              "pension",
-              "yen",
-              "invest"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "japan",
-          "funds",
-          "pension",
-          "yen",
-          "invest"
+          "vivo",
+          "phase"
         ]
       }
     ],
@@ -1341,14 +1245,121 @@
         "alternates": [],
         "topicFingerprint": [
           "floating",
-          "transfers",
-          "energy",
-          "seatrium",
+          "grid",
+          "bit",
+          "electricity",
           "lab"
         ]
       }
     ],
+    "uk": [
+      {
+        "title": "Barbados leader rejects \u2018asinine\u2019 claim by former UK minister that ex-colonies should repay Britain",
+        "description": "Barbados Prime Minister Mia Mottley is describing as asinine a suggestion that former colonies pay Britain back for its investment in them",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/barbados-leader-rejects-asinine-claim-former-uk-minister-134651527",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-10T10:54:07-04:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "claim",
+          "former",
+          "colonies",
+          "repay",
+          "barbados"
+        ]
+      },
+      {
+        "title": "UK loses case over asylum seeker rejections linked to migrant deal with France",
+        "description": "LONDON, July 10 - Britain acted unlawfully by removing asylum seekers' right to challenge decisions rejecting their claim to be a victim of trafficking, London's High Court ruled on Friday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/uk-loses-case-over-asylum-seeker-rejections-linked-to-migrant-deal-with-france",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-10T21:56:26+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "case",
+          "migrant",
+          "asylum",
+          "rejections",
+          "linked"
+        ]
+      }
+    ],
     "france": [
+      {
+        "title": "UK loses case over asylum seeker rejections linked to migrant deal with France",
+        "description": "LONDON, July 10 - Britain acted unlawfully by removing asylum seekers' right to challenge decisions rejecting their claim to be a victim of trafficking, London's High Court ruled on Friday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/uk-loses-case-over-asylum-seeker-rejections-linked-to-migrant-deal-with-france",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-10T21:56:26+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "case",
+          "migrant",
+          "asylum",
+          "rejections",
+          "linked"
+        ]
+      },
       {
         "title": "France wildfires burn twice as much land as in 2025",
         "description": "France is facing its third heatwave since May.",
@@ -1359,7 +1370,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-10T23:56:15+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
@@ -1368,51 +1379,16 @@
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "burn",
           "wildfires",
           "land",
-          "twice",
           "france",
-          "burn"
-        ]
-      },
-      {
-        "title": "Pogacar reclaims yellow jersey and Merlier wins Tour de France stage 7",
-        "description": "Tadej Pogacar reclaimed the yellow jersey with a solo win in stage 6, and Tim Merlier triumphed in the stage 7 sprint finish in Bordeaux.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/a1b31bd2-660a-4fb5-a3f4-181eb564ccb2.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-10T16:11:56+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "yellow",
-          "merlier",
-          "pogacar",
-          "wins",
-          "tour"
+          "twice"
         ]
       }
     ],
@@ -1441,11 +1417,44 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "miners",
-          "decline",
-          "australian",
           "snap",
-          "four"
+          "four",
+          "rise",
+          "miners",
+          "australian"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Yen climbs as Japan lures pension funds into domestic assets",
+        "description": "[LONDON/SINGAPORE] The yen bounced on Friday (Jul 10) on news that Japan plans to encourage pension funds to increase their holdings of...",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/yen-climbs-japan-lures-pension-funds-domestic-assets",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-10T12:44:37+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: pension"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "lures",
+          "pension",
+          "climbs",
+          "assets",
+          "domestic"
         ]
       }
     ]
