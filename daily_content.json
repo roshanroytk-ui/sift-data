@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T09:47:40.349862",
+  "updatedAt": "2026-07-14T21:50:18.529692",
   "insight": {
     "title": "Why Cozy Online Groups Always Implode",
     "subtitle": "The coziest corners of the internet eventually face bitter civil wars over the most insignificant things.",
@@ -26,193 +26,356 @@
   },
   "news": [
     {
-      "title": "Oil prices jump as US and Iran trade attacks and Trump reinstates blockade",
-      "description": "Oil prices surge as tensions rise between the US and Iran following airstrikes and a blockade on the Strait of Hormuz, impacting global markets.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/c3a77af8-8bc7-4ad1-8c36-e57b5e93b8d2.html",
-      "category": "Economy",
+      "title": "US launches new Iran strikes, reimposes naval blockade",
+      "description": "US President Donald Trump earlier backed down on his threat to tax ships passing through the Strait of Hormuz.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/middle-east/us-military-says-it-is-launching-more-strikes-against-iran",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 25,
-      "why": "Your fuel and energy costs may rise soon.",
-      "context": "The US and Iran exchanged military strikes as Washington reimposed a blockade.",
-      "next": "Oil prices could rise further if shipping routes close.",
-      "bigger": "Geopolitical conflicts continue to threaten global energy security.",
-      "publishedAt": "2026-07-14T00:15:23+00:00",
+      "score": 19,
+      "why": "Global oil supplies and shipping routes face new risks.",
+      "context": "The US launched new strikes against Iran and reinstated a naval blockade.",
+      "next": "Tensions in the Middle East may escalate further.",
+      "bigger": "Geopolitical rivalries disrupt global trade and energy flows.",
+      "publishedAt": "2026-07-15T03:55:42+08:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
         "hormuz",
+        "strait",
         "donald_trump",
-        "strikes",
-        "strait"
+        "strikes"
       ],
       "alternates": [
         {
-          "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping",
-          "description": "Brent crude rises 5% after US president says 20% toll will be imposed on key trade route to cover \u2018safety and security\u2019 Oil prices rose 5% on Monday as Donald Trump reinstated the US blockade of Iranian shipping in the Gulf and will charge other countries to pass through the strait of Hormuz. As the",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/jul/13/oil-prices-leap-stocks-fall-us-iran-strait-of-hormuz-brent-crude-markets",
-          "category": "Financial",
-          "publishedAt": "2026-07-13T16:36:16+00:00",
-          "score": 15,
+          "title": "U.S. blockade on Iran restarts as Trump angles for control over Strait of Hormuz",
+          "description": "As the U.S. restarts its Iran blockade and carries out more strikes, President Trump has called off a planned 20% fee on shipping through the Strait of Hormuz.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T16:00:25-04:00",
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
             "iran",
             "us_entity",
             "hormuz",
+            "strait",
             "donald_trump",
-            "strikes",
-            "strait"
+            "strikes"
           ],
-          "group_id": 0
+          "group_id": 10
         },
         {
-          "title": "Oil extends surge after soaring over 9% as Trump reinstates Iran blockade, demands Hormuz toll",
-          "description": "Brent crude rose another 2.5 per cent to US$85.40 a barrel as at 8.30am Singapore time, after soaring 9.6 per cent on July 13.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/companies-markets/oil-soars-more-than-9-after-trump-reinstates-iran-blockade",
-          "category": "General",
-          "publishedAt": "2026-07-14T07:12:05+08:00",
-          "score": 9,
+          "title": "US military reimposes naval blockade on Iranian ports, launches new strikes",
+          "description": "US forces on Tuesday reimposed a naval blockade to prevent ships from sailing to or from Iran's ports and conducted strikes against the country for a fourth day in response to Tehran's attacks on commercial ships passing through the Strait of Hormuz and on Gulf facilities.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260714-us-military-reimposes-naval-blockade-on-iranian-ports-launches-new-strikes",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T20:45:39+00:00",
+          "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
             "iran",
             "us_entity",
             "hormuz",
+            "strait",
             "donald_trump",
-            "strikes",
-            "strait"
+            "strikes"
           ],
-          "group_id": 0
+          "group_id": 10
+        },
+        {
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+          "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro",
+          "category": "General",
+          "publishedAt": "2026-07-14T20:10:37+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "hormuz",
+            "strait",
+            "donald_trump",
+            "strikes"
+          ],
+          "group_id": 10
+        },
+        {
+          "title": "Trump scraps Hormuz toll plan but presses ahead with Iran blockade",
+          "description": "US President Donald Trump on Tuesday abandoned plans to impose a 20 per cent charge on commercial cargo passing through the Strait of Hormuz, less than a day after unveiling the proposal, while pressing ahead with a naval blockade targeting Iranian trade. Trump said the proposed fee would be replace",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3360574/trump-scraps-hormuz-toll-plan-presses-ahead-iran-blockade",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T16:37:29+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "hormuz",
+            "strait",
+            "donald_trump",
+            "strikes"
+          ],
+          "group_id": 10
+        },
+        {
+          "title": "US hits Iran with strikes, blockade as Trump plans Hormuz charge",
+          "description": "US President Donald Trump reinstated the US blockade of Iranian ships in the Strait of Hormuz, demanding a 20% reimbursement for other cargo. Brent crude rose above $85.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-hits-iran-with-strikes-blockade-as-trump-plans-hormuz-charge-19944626.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T06:34:04+05:30",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "hormuz",
+            "strait",
+            "donald_trump",
+            "strikes"
+          ],
+          "group_id": 10
         }
       ]
     },
     {
-      "title": "Global AI boom sees China\u2019s chip exports nearly double in first half of year",
-      "description": "China\u2019s chip exports nearly doubled in the first half of the year, customs data shows, as a global AI boom cemented computing hardware\u2019s place as a key economic growth engine. In the first six months of this year, China exported 179.44 billion integrated circuits (ICs) worth a total of US$177.28 bil",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/article/3360503/global-ai-boom-sees-chinas-chip-exports-nearly-double-first-half-year",
-      "category": "Financial",
+      "title": "ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show",
+      "description": "Nvidia's H200 chip, one of its most powerful and used to train and run large AI models, has become a focal point of US-China tech rivalry",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/zte-among-chinese-firms-licensed-to-purchase-nvidias-h200-chips-documents-show-101784047554056.html",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 24,
-      "why": "AI hardware and services may become more widely available.",
-      "context": "Chinese semiconductor exports surged rapidly due to rising global demand for AI.",
-      "next": "Western nations may increase restrictions on Chinese tech imports.",
-      "bigger": "The global race for artificial intelligence supremacy is accelerating.",
-      "publishedAt": "2026-07-14T07:59:17+00:00",
+      "score": 20,
+      "why": "Chinese tech firms may advance their AI capabilities faster.",
+      "context": "Some Chinese firms, including ZTE, can now buy Nvidia's powerful H200 AI chips.",
+      "next": "US may review or adjust its technology export policies.",
+      "bigger": "US-China tech rivalry continues over advanced AI hardware.",
+      "publishedAt": "2026-07-14T22:20:31+05:30",
       "topicFingerprint": [
+        "us_entity",
+        "china_entity",
         "ai_group",
-        "boom",
         "exports",
-        "june",
-        "china_entity"
+        "tariff"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "\u2018This is a fire\u2019: DRC Ebola outbreak is fastest-growing ever, warns WHO",
+      "description": "Infections of the Bundibugyo species of Ebola in the Democratic Republic of the Congo (DRC) have reached record highs and a majority of new cases are coming from \u201cunknown chains of transmission\u201d, the UN World Health Organization (WHO) warned on Tuesday.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167933",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Local public health systems face severe strain to contain the spread.",
+      "context": "The DRC is experiencing its fastest-growing Ebola outbreak ever, WHO warns.",
+      "next": "International aid and health interventions will likely increase.",
+      "bigger": "Global health security remains vulnerable to rapid disease outbreaks.",
+      "publishedAt": "2026-07-14T12:00:00+00:00",
+      "topicFingerprint": [
+        "outbreak",
+        "cases",
+        "who_entity",
+        "ebola",
+        "congo"
       ],
       "alternates": [
         {
-          "title": "China\u2019s trade surges in first half of 2026, maintaining growth amid global tensions",
-          "description": "China\u2019s exports continued to grow robustly in June, supported by a boom in technology exports \u2013 including artificial intelligence products and robotics \u2013 extending the positive momentum seen in previous months and shrugging off geopolitical headwinds. The country\u2019s exports rose by 27 per cent year o",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/economic-indicators/article/3360451/chinas-trade-surges-june-maintaining-growth-streak-despite-global-tensions",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-14T02:35:51+00:00",
-          "score": 17,
+          "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
+          "description": "The Ebola outbreak in eastern Congo \u201ccontinues to outpace the response efforts,\u201d the WHO\u2019s emergencies chief said on Tuesday after returning from a trip to one of the worst hit",
+          "source": "Stat",
+          "url": "https://www.statnews.com/2026/07/14/ebola-outbreak-congo-new-cases-unknown-chains-of-transmission/",
+          "category": "Health",
+          "publishedAt": "2026-07-14T15:18:50+00:00",
+          "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "ai_group",
-            "boom",
-            "exports",
-            "june",
-            "china_entity"
+            "outbreak",
+            "cases",
+            "who_entity",
+            "ebola",
+            "congo"
           ],
-          "group_id": 0
+          "group_id": 2
         }
       ]
     },
     {
       "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
-      "description": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump\u2019s tariffs Business live \u2013 latest updates The US government has already paid back tens of billions of dollars in tariffs it collected before the supreme court ruled them illegal, accordin",
+      "description": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump\u2019s tariffs China\u2019s monthly car \u200cexports top 1m as overall trade soars Business live \u2013 latest updates The US government has already paid back tens of billions of dollars in tariffs it coll",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 17,
-      "why": "US businesses may lower prices on imported goods.",
-      "context": "The US government began repaying import duties deemed unlawful.",
-      "next": "Affected importers will receive massive financial payouts.",
-      "bigger": "Legal challenges are reshaping international trade policies.",
+      "score": 22,
+      "why": "US companies who paid tariffs will receive significant financial relief.",
+      "context": "The US government is refunding $81 billion in Trump-era tariffs.",
+      "next": "Companies may adjust future import strategies and pricing.",
+      "bigger": "Legal challenges influence trade policy and business costs.",
       "publishedAt": "2026-07-14T07:03:02+00:00",
       "topicFingerprint": [
         "us_entity",
-        "refunds",
-        "treasury",
-        "tariff",
-        "duties"
+        "china_entity",
+        "ai_group",
+        "exports",
+        "tariff"
       ],
       "alternates": []
     },
     {
-      "title": "WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in House hearing",
-      "description": "New Federal Reserve Chair Kevin Warsh is testifying Tuesday on the agency's semi-annual monetary policy report before the House Financial Services Committee.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Your borrowing costs and mortgage rates may change soon.",
-      "context": "Federal Reserve Chair Kevin Warsh testified before Congress on monetary policy.",
-      "next": "Interest rates could be adjusted at the next meeting.",
-      "bigger": "Central banks are struggling to balance inflation and growth.",
-      "publishedAt": "2026-07-13T18:26:56-04:00",
-      "topicFingerprint": [
-        "live",
-        "house",
-        "hearing",
-        "watch",
-        "testifying"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Record El Ni\u00f1o threatens to unleash floods across East Africa and Asia",
-      "description": "Aid groups warn a record-strength El Ni\u00f1o could unleash flooding and hunger from Somalia to Pakistan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Food supplies could shrink and drive up grocery prices.",
-      "context": "An intense El Ni\u00f1o weather pattern threatens severe flooding across multiple regions.",
-      "next": "Humanitarian groups will likely deploy emergency aid to affected areas.",
-      "bigger": "Extreme weather patterns are increasingly disrupting global agriculture.",
-      "publishedAt": "2026-07-14T01:27:57+00:00",
-      "topicFingerprint": [
-        "africa",
-        "nio",
-        "across",
-        "east",
-        "unleash"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Britain joins EU\u2019s $132 billion support loan for Ukraine",
-      "description": "Joining the EU's \u20ac90 billion Ukraine loan will let UK firms supply more weapons funded by the scheme.",
+      "title": "Israel allocates $434 million for 34 new West Bank settlements",
+      "description": "JERUSALEM, July 14 - Israel's security cabinet approved a budget of 1.3 billion shekels ($434 million) for establishing 34 new settlements in the occupied West Bank, right-wing Finance Minister Bezalel Smotrich said on Tuesday, adding to tensions over territory widely viewed as central to a potentia",
       "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/britain-joins-eus-132-billion-support-loan-for-ukraine",
+      "url": "https://www.straitstimes.com/world/middle-east/israel-allocates-434-million-for-34-new-west-bank-settlements",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Tensions in the Israeli-Palestinian conflict region will likely heighten.",
+      "context": "Israel approved $434 million to establish 34 new West Bank settlements.",
+      "next": "International bodies may condemn the settlement expansion.",
+      "bigger": "Settlement expansion continues to shape the region's future.",
+      "publishedAt": "2026-07-14T22:55:42+08:00",
+      "topicFingerprint": [
+        "million",
+        "allocates",
+        "israel",
+        "settlements",
+        "west"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
+      "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025 Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor St",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 34,
+      "why": "Your monthly expenses may rise again after this brief respite.",
+      "context": "US inflation cooled to 3.5% in June, offering temporary relief.",
+      "next": "Geopolitical events will likely continue influencing energy costs.",
+      "bigger": "Inflation remains volatile, influenced by global events and energy prices.",
+      "publishedAt": "2026-07-14T16:56:56+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "hormuz",
+        "strait",
+        "donald_trump",
+        "strikes"
+      ],
+      "alternates": [
+        {
+          "title": "Why cooling US inflation eases pressure on the Fed despite oil prices jumping after Iran strikes",
+          "description": "US inflation cooled in June despite rising oil prices after Iran strikes, easing pressure on the Federal Reserve to raise interest rates.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/why-cooling-us-inflation-eases-pressure-on-the-fed-despite-oil-prices-jumping-after-iran-strikes-101784045579937.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T21:57:46+05:30",
+          "score": 32,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "hormuz",
+            "strait",
+            "donald_trump",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "US inflation cools on brief ceasefire but Fed keeps rate hike option",
+          "description": "US consumer inflation slowed more than expected in June as energy prices retreated, but the moderation was insufficient to convince financial markets to take an interest-rate increase from the Federal Reserve this year off the table against the backdrop of renewed conflict in the Middle East. The Co",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360570/us-inflation-cools-brief-ceasefire-fed-keeps-rate-hike-option",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-14T15:27:41+00:00",
+          "score": 28,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "hormuz",
+            "strait",
+            "donald_trump",
+            "strikes"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine in the UK",
+      "description": "The University of Oxford has launched the first clinical trial of a vaccine for the Bundibugyo Ebola strain to help contain outbreaks in Congo and Uganda.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/616d9d7a-359c-4bd0-b8e0-f5a40b84bad0.html",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "This offers hope for better control of future Ebola outbreaks.",
+      "context": "Oxford University started the first human trial for a Bundibugyo Ebola vaccine.",
+      "next": "The vaccine's safety and effectiveness will be evaluated.",
+      "bigger": "Vaccine development is crucial for combating emerging infectious diseases.",
+      "publishedAt": "2026-07-14T11:09:04+00:00",
+      "topicFingerprint": [
+        "vaccine",
+        "begins",
+        "human",
+        "trial",
+        "ebola"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US troop withdrawal from Iraq set for September, 30",
+      "description": "The planned US withdrawal is linked to the disarmament of influential, Iran-backed militias in Iraq.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-troop-withdrawal-from-iraq-set-for-september-30/a-77959648",
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "UK defense companies will secure major new weapon contracts.",
-      "context": "The United Kingdom joined a major European military funding initiative.",
-      "next": "More weapons and ammunition will be shipped to Ukraine.",
-      "bigger": "European allies are consolidating their long-term military alliances.",
-      "publishedAt": "2026-07-14T01:14:34+08:00",
+      "why": "Iraq's security landscape and regional power dynamics will shift.",
+      "context": "The US plans to withdraw its troops from Iraq by September 30.",
+      "next": "Iraq must secure its borders and manage internal conflicts.",
+      "bigger": "Foreign military presence reductions reshape regional stability.",
+      "publishedAt": "2026-07-14T18:55:00+00:00",
       "topicFingerprint": [
-        "uk_entity",
-        "joins",
-        "support",
-        "billion",
-        "eu_entity"
+        "iraq",
+        "withdrawal",
+        "set",
+        "troop",
+        "september"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Apple sues OpenAI over trade secrets theft and wild allegations",
+      "description": "Apple sues OpenAI for stealing hardware trade secrets and IP, while OpenAI is also embroiled in a legal dispute with Elon Musk's xAI Corp.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/f3012f69-43e0-4fbf-91eb-04cb320db564.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Future AI innovation and collaboration among tech giants face new legal risks.",
+      "context": "Apple is suing OpenAI, alleging theft of hardware trade secrets and IP.",
+      "next": "The lawsuit may reveal details about AI development practices.",
+      "bigger": "Intellectual property disputes are common in the fast-paced AI industry.",
+      "publishedAt": "2026-07-14T02:08:56+00:00",
+      "topicFingerprint": [
+        "openai",
+        "apple",
+        "hardware",
+        "legal",
+        "trade"
       ],
       "alternates": []
     },
@@ -223,84 +386,176 @@
       "url": "https://www.businesstimes.com.sg/international/global/chinas-premier-urges-objective-understanding-economy",
       "category": "Financial",
       "readingTime": 2,
-      "score": 16,
-      "why": "Foreign businesses may delay their investments in Chinese markets.",
-      "context": "China's leader called for realistic economic assessments ahead of GDP data.",
-      "next": "Beijing may introduce new stimulus measures to boost growth.",
-      "bigger": "Slowing growth in China is shifting global investment flows.",
+      "score": 15,
+      "why": "Beijing aims to manage expectations ahead of key economic data release.",
+      "context": "China's premier urged an \"objective\" understanding of the economy.",
+      "next": "Global markets will closely watch China's upcoming GDP report.",
+      "bigger": "Governments often try to shape narratives about economic performance.",
       "publishedAt": "2026-07-14T03:08:58+00:00",
       "topicFingerprint": [
-        "objective",
         "urges",
         "premier",
+        "objective",
         "understanding",
         "economy"
       ],
       "alternates": []
     },
     {
-      "title": "India, Japan push for a free and open Indo-Pacific at high-level defence talks",
-      "description": "India and Japan reaffirmed their commitment to a free, open and rules-based Indo-Pacific at their eighth Defence Policy Dialogue in Tokyo. The two sides also reviewed progress in defence cooperation and discussed expanding collaboration in maritime security, defence technology, cybersecurity and spa",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/india/india-japan-free-open-indo-pacific-high-level-defence-talks-19944424.htm",
-      "category": "Geopolitics",
+      "title": "Lawsuit: Meta Used AI For Discriminatory Layoffs",
+      "description": "A group of 26 current and former Meta employees filed a lawsuit Monday evening accusing the tech company of using AI software to target employees with disabilities and those who took medical or family leave in its mass layoffs in May. Those layoffs were part of Meta\u2019s plans to cut 10 percent of its ",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/07/meta-lawsuit-ai-layoffs-medical-leave-disability-tech-termination/",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 9,
-      "why": "Maritime shipping routes in Asia may become safer.",
-      "context": "Indian and Japanese officials held talks to strengthen regional defense ties.",
-      "next": "Joint naval exercises will likely increase in the region.",
-      "bigger": "Asian powers are uniting to counter China's regional dominance.",
-      "publishedAt": "2026-07-13T19:11:57+05:30",
+      "score": 23,
+      "why": "AI-powered hiring and firing tools face increased scrutiny and legal challenges.",
+      "context": "Meta faces a lawsuit alleging it used AI for discriminatory layoffs.",
+      "next": "The lawsuit could influence how AI is used in human resources.",
+      "bigger": "Ethical concerns about AI in employment decisions are growing.",
+      "publishedAt": "2026-07-14T19:43:15+00:00",
       "topicFingerprint": [
-        "defence",
-        "progress",
-        "japan",
-        "commitment",
-        "reaffirmed"
+        "lawsuit",
+        "ai_group",
+        "meta",
+        "layoffs",
+        "employees"
       ],
       "alternates": [
         {
-          "title": "India, Japan review defence ties, prepare ground for 2+2 dialogue later this year",
-          "description": "According to Ministry of Defence, the two sides assessed the progress made since the previous round of talks and reaffirmed their commitment to further strengthening the India-Japan Special Strategic and Global Partnership",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-japan-hold-key-dialogue-to-boost-ties-in-defence-industrial-collaboration-cyber-security/article71216991.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-14T05:00:28+05:30",
-          "score": 4,
+          "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
+          "description": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
+          "category": "General",
+          "publishedAt": "2026-07-14T21:12:44+00:00",
+          "score": 21,
           "readingTime": 2,
           "topicFingerprint": [
-            "defence",
-            "progress",
-            "japan",
-            "commitment",
-            "reaffirmed"
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Meta used AI workplace tools to target employees on medical leave, lawsuit alleges",
+          "description": "Meta faces a lawsuit from 26 employees alleging AI systems unfairly targeted them for layoffs for taking medical leave.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/meta-faces-lawsuit-over-ai-driven-layoffs-targeting-leave-takers-2026-7",
+          "category": "Technology",
+          "publishedAt": "2026-07-14T19:11:26+00:00",
+          "score": 18,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Former employees sue over Meta's alleged use of biased AI systems during layoffs",
+          "description": "Meta cut its workforce by 10 percent in May.",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2215258/former-employees-sue-over-meta-s-alleged-use-of-biased-ai-systems-during-layoffs/",
+          "category": "Technology",
+          "publishedAt": "2026-07-14T21:18:23+00:00",
+          "score": 18,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Meta accused of using biased AI targeting for mass layoffs",
+          "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constel",
+          "source": "Tech | The Verge",
+          "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+          "category": "Technology",
+          "publishedAt": "2026-07-14T17:18:11+00:00",
+          "score": 16,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims",
+          "description": "",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/meta-used-ai-to-target-workers-with-medical-conditions-for-layoffs-lawsuit-claims/article71222157.ece",
+          "category": "Technology",
+          "publishedAt": "2026-07-14T20:27:50+05:30",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Meta sued by 26 employees who say its AI systems targeted workers on medical leave for layoffs",
+          "description": "Twenty-six current and former Meta employees have filed a federal lawsuit accusing the company of using AI-powered systems that disproportionately targeted workers with disabilities or who had taken medical leave when selecting people for mass layoffs. The suit, filed Monday in Oakland, California, ",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/meta-lawsuit-ai-layoffs-medical-leave-disability",
+          "category": "Technology",
+          "publishedAt": "2026-07-14T17:51:36+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lawsuit",
+            "ai_group",
+            "meta",
+            "layoffs",
+            "employees"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Japan\u2019s bond market is back in play after decades in the wilderness",
-      "description": "JGBs have been selling off amid policy normalization and concerns over Tokyo's spending plans, but experts say that they deserve another look from investors.",
+      "title": "TikTok policy chief defends safety measures amid EU push to limit children's social media access",
+      "description": "TikTok's policy chief defended the platform's safety measures as the European Union pushes ahead with restricting children's access to social media.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
+      "url": "https://www.cnbc.com/2026/07/14/tiktok-social-media-safety-measures-teens-bans-eu.html",
       "category": "Policy",
       "readingTime": 2,
-      "score": 8,
-      "why": "Global investors can now earn higher returns on Japanese debt.",
-      "context": "Japanese government bonds are attracting investors again as interest rates rise.",
-      "next": "The Bank of Japan may further reduce its bond purchases.",
-      "bigger": "Decades of negative interest rate policies are officially ending.",
-      "publishedAt": "2026-07-13T23:19:08+00:00",
+      "score": 12,
+      "why": "Your child's access to social media platforms may soon be restricted.",
+      "context": "TikTok defended its safety measures as the EU pushes for stricter child access limits.",
+      "next": "EU regulations could compel platforms to implement new age verification.",
+      "bigger": "Governments are increasing efforts to protect children online.",
+      "publishedAt": "2026-07-14T15:10:35+00:00",
       "topicFingerprint": [
-        "bond",
-        "play",
-        "japan",
-        "wilderness",
-        "decades"
+        "eu_entity",
+        "media",
+        "children",
+        "social",
+        "restricting"
       ],
       "alternates": []
-    },
+    }
+  ],
+  "candidatePool": [
     {
       "title": "Arab Regions Remain the Most Underrepresented in the Global Trade System",
       "description": "Despite the importance of international trade as an engine for economic growth and development, only fourteen of the twenty-two Arab states are members of the World Trade Organization (WTO). The remaining Arab states risk missing out on opportunities for greater integration into the global economy a",
@@ -308,304 +563,231 @@
       "url": "https://www.ipsnews.net/2026/07/arab-regions-remain-the-most-underrepresented-in-the-global-trade-system/",
       "category": "Economy",
       "readingTime": 2,
-      "score": 18,
-      "why": "Businesses in these countries face higher costs to export goods.",
-      "context": "A report highlighted that many Arab countries remain outside the WTO.",
-      "next": "More Middle Eastern nations may apply for WTO membership.",
-      "bigger": "Regional trade barriers continue to slow economic development.",
+      "score": 17,
+      "why": "Economic growth and development in Arab states face significant barriers.",
+      "context": "Arab regions remain highly underrepresented in the global trade system.",
+      "next": "More Arab states may seek membership in the WTO.",
+      "bigger": "Global trade integration disparities affect regional prosperity.",
       "publishedAt": "2026-07-14T05:43:41+00:00",
       "topicFingerprint": [
-        "system",
-        "trade",
+        "engine",
         "remain",
-        "underrepresented",
+        "growth",
+        "economy",
         "arab"
       ],
       "alternates": []
     },
     {
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "description": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Local commuters will experience much faster daily travel times.",
-      "context": "Gibraltar and Spain are eliminating long-standing border crossing restrictions.",
-      "next": "Cross-border commerce and tourism are expected to rise.",
-      "bigger": "European border integration is adapting despite post-Brexit challenges.",
-      "publishedAt": "2026-07-12T23:29:06+00:00",
-      "topicFingerprint": [
-        "gibraltar",
-        "controls",
-        "border",
-        "era",
-        "spain"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "description": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "New smartphones may become more expensive and harder to find.",
-      "context": "Smartphone supply chains suffered from component shortages, boosting top brands.",
-      "next": "Smaller phone brands may struggle to secure essential parts.",
-      "bigger": "Chip supply shortages are reshaping the consumer electronics industry.",
-      "publishedAt": "2026-07-13T17:18:25+00:00",
-      "topicFingerprint": [
-        "apple",
-        "smartphone",
-        "shipments",
-        "record",
-        "memory"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "How China is threatening US national security through AI theft: Explained",
-      "description": "Anthropic and OpenAI warn China's AI distillation and alleged AI theft threaten US national security, AI leadership and the global artificial intelligence race.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/how-china-is-threatening-us-national-security-through-ai-theft-explained-101783947575933.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Tech companies may face stricter security laws and higher costs.",
-      "context": "US tech firms warned that China is stealing advanced AI software.",
-      "next": "Washington could restrict Chinese access to cloud computing services.",
-      "bigger": "The race for AI dominance is becoming a national security battlefield.",
-      "publishedAt": "2026-07-13T21:10:04+05:30",
-      "topicFingerprint": [
-        "through",
-        "explained",
-        "threatening",
-        "security",
-        "theft"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US military releases video of its latest strikes on Iran",
-      "description": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran s mainland and islands.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Shipping through the Middle East faces severe safety risks.",
-      "context": "The US military published footage of airstrikes against Iranian targets.",
-      "next": "Iran may launch retaliatory cyberattacks or regional strikes.",
-      "bigger": "The risk of a wider war in the region is growing.",
-      "publishedAt": "2026-07-14T08:23:29+00:00",
-      "topicFingerprint": [
-        "iran",
-        "us_entity",
-        "hormuz",
-        "donald_trump",
-        "strikes",
-        "strait"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "First Microsoft, now Apple: Sam Altman keeps breaking up with Big Tech.",
-      "description": "OpenAI and Sam Altman have made big deals with Microsoft, and Apple. Both have ended poorly. Why?",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/openai-lawsuit-apple-microsoft-history-sam-altman-2026-7",
-      "category": "Technology",
+      "title": "Lawmakers seek to counter China, Iran repression tactics on US soil",
+      "description": "WASHINGTON, July 14 - U.S. lawmakers on Tuesday introduced a bipartisan bill to increase penalties for foreign government agents who threaten people on U.S. soil, a move aimed at countering the rise of what officials call \\\"transnational repression\\\" by countries such as China and Iran.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/lawmakers-seek-to-counter-china-iran-repression-tactics-on-us-soil",
+      "category": "Policy",
       "readingTime": 2,
       "score": 13,
-      "why": "The AI tools you use may change or lose features.",
-      "context": "OpenAI's partnerships with major tech giants are fracturing.",
-      "next": "OpenAI will likely build its own independent hardware and services.",
-      "bigger": "Startup giants are challenging traditional tech monopolies for market control.",
-      "publishedAt": "2026-07-13T20:36:06+00:00",
+      "why": "Foreign agents operating in the US will face increased legal consequences.",
+      "context": "US lawmakers introduced a bill to counter foreign repression tactics on US soil.",
+      "next": "The bill will proceed through the legislative process for approval.",
+      "bigger": "Governments are combating transnational repression tactics globally.",
+      "publishedAt": "2026-07-15T02:25:41+08:00",
       "topicFingerprint": [
-        "sam",
-        "altman",
-        "openai",
-        "musk",
-        "elon"
+        "repression",
+        "soil",
+        "counter",
+        "tactics",
+        "seek"
       ],
       "alternates": []
     },
     {
-      "title": "Report: Apple hits record 20% global smartphone shipment share as market plunges",
-      "description": "According to a new Counterpoint Research report , Apple grew iPhone shipments by 3% year over year and captured a record 20% share of global smartphone shipments despite an industry-wide downturn. Here are the details.",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/07/13/report-apple-hits-record-20-global-smartphone-shipment-share-as-market-plunges/",
-      "category": "Financial",
+      "title": "Supreme Court warns Congress threats are rising and the court needs more security",
+      "description": "Justice Elena Kagan warned Congress on Tuesday that police expect threats against Supreme Court justices to rise nearly 40% this year. Why it matters: As courts play a bigger role in deciding the nation's most contentious policy fights, anger from the losing side is turning into threats that risk un",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/14/supreme-court-security-threats-kagan-barrett",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "You may see fewer competing smartphone options in stores.",
-      "context": "Apple captured its largest ever market share despite declining global smartphone sales.",
-      "next": "Apple will likely raise prices on its upcoming phone models.",
-      "bigger": "Dominant tech brands are thriving while smaller rivals fade away.",
-      "publishedAt": "2026-07-13T15:12:11+00:00",
+      "score": 11,
+      "why": "Public confidence in judicial independence may erode under threat.",
+      "context": "The Supreme Court warned Congress about rising threats and requested more security.",
+      "next": "Security measures around judicial figures will likely increase.",
+      "bigger": "Political polarization is fueling threats against public officials.",
+      "publishedAt": "2026-07-14T17:28:52+00:00",
       "topicFingerprint": [
-        "apple",
-        "smartphone",
-        "shipments",
-        "record",
-        "memory"
+        "justices",
+        "security",
+        "supreme",
+        "elena",
+        "threats"
       ],
       "alternates": [
         {
-          "title": "Second report says Apple posted its strongest-ever Q2 for iPhone shipments amid market downturn",
-          "description": "Adding to an earlier report from Counterpoint Research that showed Apple posting its strongest-ever second quarter for iPhone shipments, Omdia has now published its own figures pointing to the same record performance. Here are the details.",
-          "source": "9To5Mac",
-          "url": "https://9to5mac.com/2026/07/13/second-report-says-apple-posted-its-strongest-ever-q2-for-iphone-shipments-amid-market-downturn/",
+          "title": "Justices Kagan and Barrett testify before Congress for more security funding",
+          "description": "Justices Elena Kagan and Amy Coney Barrett testified before Congress for a 2027 budget increase to enhance security amid rising threats against judges.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/2b420449-a49b-42e1-8a04-853196729b32.html",
           "category": "Financial",
-          "publishedAt": "2026-07-13T22:56:21+00:00",
-          "score": 7,
+          "publishedAt": "2026-07-14T15:17:55+00:00",
+          "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
-            "apple",
-            "smartphone",
-            "shipments",
-            "record",
-            "memory"
+            "justices",
+            "security",
+            "supreme",
+            "elena",
+            "threats"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Supreme Court pushes Congress for more security: \"Threats have come very close\"",
+          "description": "Supreme Court Justices Elena Kagan and Amy Coney Barrett urged Congress to provide additional funding to enhance protection for the justices as they face a rise in threats.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/supreme-court-justices-amy-coney-barrett-elena-kagan-congress-security-funding-threats/",
+          "category": "Policy",
+          "publishedAt": "2026-07-14T15:33:00-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "justices",
+            "security",
+            "supreme",
+            "elena",
+            "threats"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Michigan health officials identify lettuce, salad greens as \u2018potential source\u2019 of Cyclospora outbreak",
-      "description": "Symptoms include watery diarrhoea, loss of appetite, cramping, bloating, nausea and fatigue.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/michigan-health-officials-identify-lettuce-salad-greens-as-potential-source-of-cyclospora-outbreak",
-      "category": "Health",
+      "title": "\u201cHuge Wave\u201d of Carbon Storage Projects Sets off Alarms in Rural Indiana",
+      "description": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters\u2014all generously funded by US tax dollars. But as far a",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/environment/2026/07/carbon-capture-storage-projects-rural-clymers-indiana-opposition-risks-health-environment/",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 8,
-      "why": "You may face severe food poisoning from local leafy greens.",
-      "context": "Health officials linked a parasitic outbreak to contaminated salad greens.",
-      "next": "Grocery stores will likely recall affected salad products immediately.",
-      "bigger": "Agricultural safety standards are failing to prevent widespread contamination.",
-      "publishedAt": "2026-07-14T09:30:00+08:00",
+      "score": 11,
+      "why": "Local communities face new risks to their environment and property values.",
+      "context": "Carbon storage projects in rural Indiana are raising community concerns.",
+      "next": "Debates over environmental safety and land use will intensify.",
+      "bigger": "Carbon capture technologies face growing public skepticism.",
+      "publishedAt": "2026-07-14T11:30:00+00:00",
       "topicFingerprint": [
-        "cyclospora",
-        "potential",
-        "michigan",
-        "outbreak",
-        "lettuce"
+        "projects",
+        "alarms",
+        "sets",
+        "storage",
+        "rural"
       ],
       "alternates": []
     },
     {
-      "title": "They're doing everything right for retirement. Their parents didn't.",
-      "description": "Baby boomers are realizing their 401(k)s and Social Security are falling short. Their Gen X and millennial kids now have to step in and support them.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/boomer-retirement-crisis-millennial-children-financial-support-2026-7",
-      "category": "Policy",
+      "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+      "description": "Zipline is growing its drone delivery business in the U.S., and has hired former Tesla, Uber Eats and Waymo executives to help it scale up in new markets.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 8,
-      "why": "Younger generations may have less money to save for themselves.",
-      "context": "Aging baby boomers are facing shortfalls, forcing their children to support them.",
-      "next": "Families will need to adjust their budgets to cover eldercare.",
-      "bigger": "Underfunded pension systems are shifting retirement burdens onto families.",
-      "publishedAt": "2026-07-14T08:18:01+00:00",
+      "score": 10,
+      "why": "Drone delivery services may become more widely available and reliable.",
+      "context": "Zipline hired top executives to expand drone delivery in the US.",
+      "next": "Zipline will likely expand into more US cities and regions.",
+      "bigger": "Autonomous delivery systems are transforming logistics and retail.",
+      "publishedAt": "2026-07-14T21:08:03+00:00",
       "topicFingerprint": [
-        "doing",
-        "didn",
-        "parents",
-        "right",
-        "retirement"
+        "zipline",
+        "delivery",
+        "drone",
+        "tesla",
+        "adds"
       ],
       "alternates": []
     },
     {
-      "title": "STAT+: AIDS activists slam Biden R&D deal with Gilead over HIV prevention drug patents",
-      "description": "A group of AIDS activists obtained an R D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention.",
-      "source": "Stat",
-      "url": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Access to affordable generic HIV medications may be delayed.",
-      "context": "Activists criticized a federal patent settlement for a vital HIV prevention drug.",
-      "next": "Protesters will likely pressure the government to renegotiate the deal.",
-      "bigger": "Patent disputes continue to limit patient access to lifesaving drugs.",
-      "publishedAt": "2026-07-13T20:58:46+00:00",
-      "topicFingerprint": [
-        "prevention",
-        "patents",
-        "slam",
-        "drug",
-        "activists"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Pakistan urges restraint as its Mideast deal unravels",
-      "description": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Trade and fuel routes near Pakistan face rising security risks.",
-      "context": "Pakistan called for calm after a regional pact collapsed during US-Iran clashes.",
-      "next": "Islamabad may seek diplomatic mediation to protect its borders.",
-      "bigger": "Fragmented alliances are heightening instability across Southern Asia.",
-      "publishedAt": "2026-07-13T16:55:21-04:00",
-      "topicFingerprint": [
-        "restraint",
-        "urges",
-        "pakistan",
-        "mideast",
-        "unravels"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Safer, more sustainable furniture: How Scanteak turned global standards into a passport for growth",
-      "description": "Alongside PlanetWise, the home-grown brand shows how standards help build trust and strengthen sustainability.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/how-global-standards-drive-home-grown-furniture-brand-scanteak-growth-enterprise-singapore",
+      "title": "Are countries prepared to cope with extreme weather?",
+      "description": "Severe weather conditions are likely to get worse due to climate change.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather",
       "category": "Environment",
       "readingTime": 2,
-      "score": 5,
-      "why": "Shoppers can buy safer, toxin-free home furnishings more easily.",
-      "context": "A furniture brand expanded globally by adhering to strict international safety standards.",
-      "next": "More consumer brands will adopt green standards to enter markets.",
-      "bigger": "Sustainability compliance is becoming a requirement for global trade.",
-      "publishedAt": "2026-07-14T04:00:00+08:00",
+      "score": 7,
+      "why": "Your safety and infrastructure face increasing risks from severe weather.",
+      "context": "Countries are questioned on their preparedness for worsening extreme weather.",
+      "next": "Governments will likely prioritize climate resilience and adaptation.",
+      "bigger": "Climate change continues to drive more frequent and intense weather events.",
+      "publishedAt": "2026-07-14T21:26:07+00:00",
       "topicFingerprint": [
-        "passport",
-        "growth",
-        "standards",
-        "sustainable",
-        "safer"
+        "extreme",
+        "prepared",
+        "cope",
+        "weather",
+        "countries"
       ],
       "alternates": []
     },
     {
-      "title": "Jeju plan to allow Chinese tourist drivers stokes safety backlash in South Korea",
-      "description": "Jeju\u2019s renewed push to allow Chinese tourists to drive rental cars on the South Korean resort island is reigniting a decade-old debate over safety, insurance and legal loopholes. On July 2, the island\u2019s Vice-Governor Park Cheon-su said allowing Chinese tourists to drive could boost visitor spending ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3360463/jeju-plan-allow-chinese-tourist-drivers-stokes-safety-backlash-south-korea",
-      "category": "Progress",
+      "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+      "description": "The UK\u2019s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate... The post 28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels appeared first on Carbon Brief .",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 5,
-      "why": "Road accident risks could rise for residents on the island.",
-      "context": "Plans to let Chinese tourists drive rental cars triggered safety protests in Jeju.",
-      "next": "Local authorities may delay or scale back the driving permits.",
-      "bigger": "Tourism expansion is increasingly clashing with local safety concerns.",
-      "publishedAt": "2026-07-14T04:22:21+00:00",
+      "score": 7,
+      "why": "The UK's environmental policies and energy strategy may soon shift.",
+      "context": "Incoming UK leader Andy Burnham's climate change stances are being analyzed.",
+      "next": "Burnham's government will outline its detailed climate agenda.",
+      "bigger": "National leadership changes often redefine climate policy directions.",
+      "publishedAt": "2026-07-14T14:43:57+00:00",
       "topicFingerprint": [
-        "jeju",
-        "sk_entity",
-        "allow",
-        "stokes",
-        "safety"
+        "climate",
+        "andy",
+        "burnham",
+        "net",
+        "uk_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Live Q&A: How vibe coding is transforming tech \u2014 and tech jobs",
+      "description": "The CEO of vibe-coding startup Emergent, Mukund Jha, joins BI's Dan DeFrancesco to discuss his company's exponential growth.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/live-how-vibe-coding-is-transforming-tech-and-jobs-2026-7",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Future tech job requirements and skill sets may evolve significantly.",
+      "context": "A CEO discussed how \"vibe coding\" is transforming tech and tech jobs.",
+      "next": "More companies may adopt \"vibe coding\" methodologies.",
+      "bigger": "New methodologies are continuously reshaping the tech industry's workforce.",
+      "publishedAt": "2026-07-14T17:43:53+00:00",
+      "topicFingerprint": [
+        "coding",
+        "vibe",
+        "transforming",
+        "jobs",
+        "live"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nasa's Anil Menon, two Russians blast off for 8-month International Space Station mission",
+      "description": "Mr. Menon will \"conduct scientific research and technology demonstrations aimed at advancing human space exploration and benefiting life on Earth,\" according to NASA",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nasas-anil-menon-two-russians-blast-off-for-8-month-international-space-station-mission/article71222648.ece",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 6,
+      "why": "This advances scientific research and technology benefiting life on Earth.",
+      "context": "Anil Menon and two Russian astronauts launched for an 8-month ISS mission.",
+      "next": "The crew will conduct various experiments aboard the ISS.",
+      "bigger": "International collaboration remains vital for space exploration achievements.",
+      "publishedAt": "2026-07-14T22:48:10+05:30",
+      "topicFingerprint": [
+        "station",
+        "space",
+        "mission",
+        "month",
+        "launches"
       ],
       "alternates": []
     }
@@ -613,20 +795,20 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "Nvidia halves Asia buyer list in China chip crackdown, steps up due diligence: report",
-        "description": "The chipmaker has intensified due diligence in Singapore, Malaysia and Japan",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-halves-asia-buyer-list-china-chip-crackdown-steps-due-diligence-report",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Technology",
+        "title": "EU signals emergency import curbs after dramatic growth in Chinese trade gap",
+        "description": "The European Union is prepared to introduce emergency measures to combat China\u2019s extraordinary export surge as new figures showed the trade gap had widened dramatically, its top trade enforcer said on Tuesday. Safeguard measures that permit tariffs and quotas to be enforced to combat sudden import s",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3360556/eu-signals-emergency-import-curbs-after-dramatic-surge-chinese-trade-gap",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-14T05:08:44+00:00",
+        "publishedAt": "2026-07-14T12:47:54+00:00",
         "reason": "within_48h",
         "score": 13,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: chip"
+            "reason": "important keyword match: tariffs"
           },
           {
             "points": 2,
@@ -634,54 +816,278 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: nvidia"
+            "reason": "important keyword match: european union"
           },
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: export"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: import"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: Business Times"
+            "reason": "geopolitics important keyword match: export"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "geopolitics important keyword match: import"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "nvidia",
-          "halves",
-          "diligence",
-          "buyer",
-          "chip"
+          "dramatic",
+          "eu_entity",
+          "import",
+          "growth",
+          "gap"
         ]
       },
       {
-        "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
-        "description": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Technology",
+        "title": "Shein\u2019s growth slows, posing risk to size of Hong Kong listing",
+        "description": "Shein\u2019s global web traffic growth slowed to single digits in June, according to Similarweb.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/shein-growth-slows-in-risk-to-size-of-hong-kong-listing",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-13T23:00:01+00:00",
+        "publishedAt": "2026-07-14T08:27:23+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "listing",
+          "kong",
+          "posing",
+          "size",
+          "growth"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "EU signals emergency import curbs after dramatic growth in Chinese trade gap",
+        "description": "The European Union is prepared to introduce emergency measures to combat China\u2019s extraordinary export surge as new figures showed the trade gap had widened dramatically, its top trade enforcer said on Tuesday. Safeguard measures that permit tariffs and quotas to be enforced to combat sudden import s",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3360556/eu-signals-emergency-import-curbs-after-dramatic-surge-chinese-trade-gap",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T12:47:54+00:00",
         "reason": "within_48h",
         "score": 13,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: tariffs"
           },
           {
             "points": 2,
-            "reason": "important keyword match: hardware"
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: export"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: import"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: export"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: import"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "dramatic",
+          "eu_entity",
+          "import",
+          "growth",
+          "gap"
+        ]
+      },
+      {
+        "title": "EU bans gold imports from Sudan to curb money financing the war",
+        "description": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T08:32:49+00:00",
+        "reason": "within_48h",
+        "score": 12,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: imports"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: exports"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: imports"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "war",
+          "eu_entity",
+          "curb",
+          "bans",
+          "financing"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Explained: How the India-UK trade deal will change exports, autos, whisky and professional mobility",
+        "description": "The India-UK Comprehensive Economic and Trade Agreement (CETA) will eliminate tariffs on most Indian exports to Britain while gradually lowering duties on products such as Scotch whisky and premium cars. Here's what the agreement covers, which sectors stand to gain, and how it could reshape bilatera",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/business/explained-india-uk-trade-deal-exports-whisky-cars-professional-mobility-19945376.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T19:40:02+05:30",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: exports"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "india",
+          "autos",
+          "professional",
+          "whisky",
+          "change"
+        ]
+      },
+      {
+        "title": "India bans the import of goods made using forced labour, even as U.S. investigation is pending",
+        "description": "The U.S. is currently in the process of releasing its final decision on the tariffs it plans to levy on countries that it says have not done enough to stop the import of goods made using forced labour.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/india-bans-the-import-of-goods-made-using-forced-labour-even-as-us-investigation-is-pending/article71221037.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T17:37:59+05:30",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
           },
           {
             "points": 2,
@@ -689,15 +1095,31 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: import"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
+            "reason": "important keyword match: labour"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: import"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
           },
           {
             "points": 1,
@@ -707,149 +1129,62 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "cnbc",
-          "silicon",
-          "betting",
-          "valley",
-          "shenzhen"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "More deleted Pixel 11 Amazon listings reveal full US pricing and specs",
-        "description": "The complete Pixel 11 lineup comes into focus thanks to early listings on Amazon.com.",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/google-pixel-11-us-pricing-specs-leak-3687082/",
-        "fromUrl": "https://www.androidauthority.com/feed/",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T04:16:41+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "strong tech event + strong tech term"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: amazon"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Android Authority"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "pixel",
-          "amazon",
-          "lineup",
-          "reveal",
-          "early"
-        ]
-      },
-      {
-        "title": "US stocks close lower as Iran tensions dampen risk appetite; chipmakers drop",
-        "description": "The S P 500 lost 0.79 per cent, while the Nasdaq Composite lost 1.55 per cent, to 25,873.18.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-close-lower-as-iran-tensions-dampen-risk-appetite-chipmakers-drop",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T04:46:37+08:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 2,
-        "alternates": [
-          {
-            "title": "US\u00a0stocks: Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop",
-            "description": "SK Hynix sank 9.3% after debuting on the Nasdaq last Friday",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-wall-street-ends-lower-iran-tensions-dampen-risk-appetite-chipmakers-drop",
-            "category": "Financial",
-            "publishedAt": "2026-07-13T21:47:20+00:00",
-            "score": 8,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "tensions",
-              "iran",
-              "us_entity",
-              "lower",
-              "nasdaq"
-            ],
-            "group_id": 2
-          }
-        ],
-        "topicFingerprint": [
-          "tensions",
-          "iran",
-          "us_entity",
-          "lower",
-          "nasdaq"
+          "india",
+          "import",
+          "pending",
+          "bans",
+          "forced"
         ]
       }
     ],
     "uk": [
       {
-        "title": "Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral",
-        "description": "The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing\u2019s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3360450/appetite-yuan-assets-sees-london-clearing-house-accept-dim-sum-bonds-collateral",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "Explained: How the India-UK trade deal will change exports, autos, whisky and professional mobility",
+        "description": "The India-UK Comprehensive Economic and Trade Agreement (CETA) will eliminate tariffs on most Indian exports to Britain while gradually lowering duties on products such as Scotch whisky and premium cars. Here's what the agreement covers, which sectors stand to gain, and how it could reshape bilatera",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/business/explained-india-uk-trade-deal-exports-whisky-cars-professional-mobility-19945376.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-14T02:34:40+00:00",
+        "publishedAt": "2026-07-14T19:40:02+05:30",
         "reason": "within_48h",
-        "score": 9,
+        "score": 13,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: financial"
+            "reason": "important keyword match: tariffs"
           },
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: uk"
           },
           {
             "points": 2,
-            "reason": "important keyword match: global"
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: exports"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": 1,
@@ -859,11 +1194,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "bonds",
-          "appetite",
-          "yuan",
-          "assets",
-          "clearing"
+          "india",
+          "autos",
+          "professional",
+          "whisky",
+          "change"
         ]
       },
       {
@@ -876,7 +1211,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-14T07:59:12+05:30",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
@@ -905,6 +1240,138 @@
           {
             "points": 3,
             "reason": "Impact priority base match: tax"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "questioned",
+          "whether",
+          "jpmorgan",
+          "lobbied",
+          "epstein"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Ukraine to buy Rafale jets, air defence systems under France deal",
+        "description": "PARIS, July 14 - Ukraine will use a European loan facility to buy next-generation Franco-Italian air defence systems and French Rafale fighter jets for the first time, while also securing approval to produce key Western missiles domestically under agreements formalised by Kyiv and Paris on Tuesday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/ukraine-to-buy-rafale-jets-air-defence-systems-under-france-deal",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T21:50:39+08:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: loan"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Ukraine to buy Rafale jets, air defence systems under France deal",
+            "description": "Training for Ukrainian pilots and mechanics could begin in France as early as 2026.",
+            "source": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/world-news/ukraine-to-buy-rafale-jets-air-defence-systems-under-france-deal-101784037906603.html",
+            "category": "Geopolitics",
+            "publishedAt": "2026-07-14T19:42:56+05:30",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "ukraine",
+              "france",
+              "july",
+              "eu_entity",
+              "russia"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "ukraine",
+          "france",
+          "july",
+          "eu_entity",
+          "russia"
+        ]
+      },
+      {
+        "title": "Pogacar wins Tour de France Bastille Day showdown to extend lead",
+        "description": "Tadej Poga\u010dar won the 10th stage of the Tour de France in Le Lioran on Bastille Day, extending his overall lead to 3 minutes and 36 seconds.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/1f8cfc74-6fad-4f1c-8983-c6435e45df2c.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T17:16:10+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "pogacar",
+          "showdown",
+          "wins",
+          "tour",
+          "bastille"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Nigeria offers clues to new US Africa strategy",
+        "description": "The withdrawal of US troops from Nigeria after the killing of an \"Islamic State\" leader may be less about leaving Africa than redefining how Washington fights terrorism on the continent.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T12:13:00+00:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
           },
           {
             "points": 1,
@@ -914,11 +1381,54 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "questioned",
-          "epstein",
-          "dimon",
-          "uk_entity",
-          "advice"
+          "strategy",
+          "offers",
+          "africa",
+          "nigeria",
+          "clues"
+        ]
+      },
+      {
+        "title": "US unseals charges, offers $10 million reward for info on Russian\u00a0hackers",
+        "description": "July 14 - U.S. authorities on Tuesday unsealed charges and offered a $10 million reward for information on three Russians accused of providing computer infrastructure related to ransomware attacks and other malicious cyber activities against U.S. critical infrastructure.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/us-unseals-charges-offers-10-million-reward-for-info-on-russian-hackers",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-15T03:35:43+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: infrastructure"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "million",
+          "info",
+          "unseals",
+          "russianhackers",
+          "offers"
         ]
       }
     ],
@@ -933,7 +1443,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-14T00:19:12+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
@@ -958,10 +1468,6 @@
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
@@ -973,29 +1479,29 @@
             "url": "https://www.straitstimes.com/business/companies-markets/malaysia-tops-s-e-asias-ipo-market-in-h1-2026-singapore-comes-in-second",
             "category": "Financial",
             "publishedAt": "2026-07-13T18:03:00+08:00",
-            "score": 7,
+            "score": 4,
             "readingTime": 2,
             "topicFingerprint": [
-              "saw",
               "half",
               "malaysia",
-              "singapore",
-              "tops"
+              "ipos",
+              "ipo",
+              "asia"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "saw",
           "half",
           "malaysia",
-          "singapore",
-          "tops"
+          "ipos",
+          "ipo",
+          "asia"
         ]
       },
       {
         "title": "Higher rates, higher risk: Are Singapore REITs still worth buying?",
-        "description": "Singapore\u2019s $100 billion REIT market remains stable despite greater interest rate volatility.",
+        "description": "The Republic's $100 billion REIT market remains stable despite greater interest rate volatility.",
         "source": "The Straits Times",
         "url": "https://www.straitstimes.com/business/companies-markets/higher-rates-higher-risk-are-singapore-reits-still-worth-buying",
         "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
@@ -1003,7 +1509,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-14T12:00:00+08:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -1024,139 +1530,166 @@
           {
             "points": -2,
             "reason": "opinion rhetorical headline"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "reits",
+          "rates",
           "higher",
-          "buying",
-          "worth",
-          "risk",
-          "singapore"
+          "singapore",
+          "risk"
         ]
       }
     ],
-    "canada": [
+    "japan": [
       {
-        "title": "\u2018Beijing is laughing\u2019 at US-Mexico-Canada stalled trade talks",
-        "description": "A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Geopolitics",
+        "title": "Japan\u2019s bond market is back in play after decades in the wilderness",
+        "description": "JGBs have been selling off amid policy normalization and concerns over Tokyo's spending plans, but experts say that they deserve another look from investors.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-07-14T05:08:32+00:00",
+        "publishedAt": "2026-07-13T23:19:08+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: policy"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
           },
           {
             "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "low quality group match: say"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "trade",
-          "stalled",
-          "laughing",
-          "mexico",
-          "canada"
-        ]
-      }
-    ],
-    "mexico": [
-      {
-        "title": "\u2018Beijing is laughing\u2019 at US-Mexico-Canada stalled trade talks",
-        "description": "A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T05:08:32+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "trade",
-          "stalled",
-          "laughing",
-          "mexico",
-          "canada"
+          "play",
+          "wilderness",
+          "japan",
+          "decades",
+          "bond"
         ]
       },
       {
-        "title": "US burrito giant Chipotle opening first outlet in Mexico",
-        "description": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
+        "title": "India, Japan push for a free and open Indo-Pacific at high-level defence talks",
+        "description": "India and Japan reaffirmed their commitment to a free, open and rules-based Indo-Pacific at their eighth Defence Policy Dialogue in Tokyo. The two sides also reviewed progress in defence cooperation and discussed expanding collaboration in maritime security, defence technology, cybersecurity and spa",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/india/india-japan-free-open-indo-pacific-high-level-defence-talks-19944424.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-14T02:42:51+00:00",
+        "publishedAt": "2026-07-13T19:11:57+05:30",
         "reason": "within_48h",
-        "score": 5,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: technology"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: cybersecurity"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "India, Japan review defence ties, prepare ground for 2+2 dialogue later this year",
+            "description": "According to Ministry of Defence, the two sides assessed the progress made since the previous round of talks and reaffirmed their commitment to further strengthening the India-Japan Special Strategic and Global Partnership",
+            "source": "The Hindu",
+            "url": "https://www.thehindu.com/news/international/india-japan-hold-key-dialogue-to-boost-ties-in-defence-industrial-collaboration-cyber-security/article71216991.ece",
+            "category": "Geopolitics",
+            "publishedAt": "2026-07-14T05:00:28+05:30",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "india",
+              "dialogue",
+              "sides",
+              "japan",
+              "commitment"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "india",
+          "dialogue",
+          "sides",
+          "japan",
+          "commitment"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australia's youth\u00a0ban\u00a0on\u00a0social\u00a0media has minimal results",
+        "description": "Since coming into effect in December, an Australian law has barred kids under 16 from having accounts on platforms like Snapchat, Instagram and YouTube. Yet, studies show that most children are still able to access and create accounts on the networks. The government has doubled the maximum fine for ",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/video/20260714-australia-s-youth-ban-on-social-media-has-minimal-results-1",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-14T15:18:23+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
           },
           {
             "points": 1,
@@ -1166,73 +1699,33 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "chipotle",
-          "burrito",
-          "giant",
-          "outlet",
-          "mexico"
+          "minimal",
+          "youthbanonsocialmedia",
+          "results",
+          "australia"
         ]
       }
     ],
-    "europe": [
+    "canada": [
       {
-        "title": "EU plans to ban under-13s from social media, with \u2018phased access\u2019 afterwards",
-        "description": "The European Union is proposing to ban under 13 year olds from using social media apps , with a plan for \u201cphased and gradual access\u201d for teenagers. While most social media apps claim to have a minimum age of 13, this is extremely poorly enforced. The EU proposal would give this the force of law, as ",
-        "source": "9To5Mac",
-        "url": "https://9to5mac.com/2026/07/13/eu-plans-to-ban-under-13s-from-social-media-with-phased-access-afterwards/",
-        "fromUrl": "https://9to5mac.com/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-13T11:52:44+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: 9To5Mac"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "afterwards",
-          "media",
-          "access",
-          "plans",
-          "social"
-        ]
-      },
-      {
-        "title": "EU and UK sanction Russia over cyberattacks, spying and disinformation",
-        "description": "The EU and UK imposed coordinated sanctions on Russia over cyberespionage, disinformation campaigns, and attempts to destabilize European countries.",
+        "title": "Record-breaking heatwave hits parts of US and Canada",
+        "description": "Record-breaking heatwaves hit parts of the US and Canada, with temperatures surging in the Northeast following recent deadly extremes across the country.",
         "source": "Frontpage",
-        "url": "https://frontpage.ink/36027992-6a76-4ad4-82ca-4e0b0501bed2.html",
+        "url": "https://frontpage.ink/21bb7d42-99e6-47e5-b48f-4cc46c4453de.html",
         "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-07-13T12:08:51+00:00",
+        "publishedAt": "2026-07-13T22:08:15+00:00",
         "reason": "within_48h",
         "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: russia"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "other category"
           },
           {
             "points": 2,
@@ -1242,122 +1735,26 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "uk_entity",
-          "sanction",
-          "disinformation",
-          "spying",
-          "russia"
+          "parts",
+          "hits",
+          "heatwave",
+          "record",
+          "breaking"
         ]
       }
     ],
-    "india": [
+    "mexico": [
       {
-        "title": "Beyond the passport: The legal ambiguity of Indian citizenship",
-        "description": "A recent government statement sparked controversy by clarifying that passports are only travel documents. This article explores the legal complexities of proving citizenship in India and its implications for rights.",
-        "source": "Global Voices",
-        "url": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
-        "fromUrl": "https://globalvoices.org/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-13T06:05:37+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: citizenship"
-          },
-          {
-            "points": 2,
-            "reason": "policy important keyword match: citizenship"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "legal",
-          "passport",
-          "ambiguity",
-          "citizenship",
-          "beyond"
-        ]
-      },
-      {
-        "title": "Jaishankar discusses global developments, including West Asia, Ukraine with UN Chief Guterres",
-        "description": "Mr. Jaishankar launched India\u2019s official campaign for a non-permanent seat at the UN Security Council for 2028-29 at an event at the world body\u2019s headquarters in the United Nations that was attended by UN ambassadors, diplomats and officials",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/jaishankar-discusses-global-developments-including-west-asia-ukraine-with-un-chief-guterres/article71220123.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "title": "US burrito giant Chipotle opening first outlet in Mexico",
+        "description": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-14T12:50:39+05:30",
+        "publishedAt": "2026-07-14T02:42:51+00:00",
         "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "discusses",
-          "jaishankar",
-          "developments",
-          "guterres",
-          "west"
-        ]
-      }
-    ],
-    "italy": [
-      {
-        "title": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal",
-        "description": "BEIRUT/ROME, July 14 - Lebanon and Israel resumed talks on Tuesday in the Italian capital, with Beirut hoping for progress towards securing an Israeli withdrawal from south Lebanon under a U.S.-brokered deal, although expectations for swift progress were low.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/lebanon-israel-hold-us-brokered-talks-in-rome-to-implement-framework-deal",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T17:10:37+08:00",
-        "reason": "within_48h",
-        "score": 6,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1365,297 +1762,17 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: israel"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "brokered",
-          "rome",
-          "framework",
-          "hold",
-          "lebanon"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Seoul court suspends the order making Coupang\u2019s founder its controlling person",
-        "description": "Coupang has won the first round of its fight with South Korea\u2019s competition regulator. The Seoul High Court on Tuesday suspended the Fair Trade Commission\u2019s decision to name founder Bom Kim as the e-commerce group\u2019s controlling figure, freezing the disclosure obligations that came with it while the ",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/coupang-bom-kim-ftc-designation-court-injunction",
-        "fromUrl": "https://thenextweb.com/feed",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T08:03:21+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: The Next Web"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "coupang",
-          "founder",
-          "seoul",
-          "order",
-          "person"
-        ]
-      },
-      {
-        "title": "South Korea airs concerns over North Korean border activity",
-        "description": "South Korea has voiced concern that its neighbor's actions along the demilitarized zone between the two countries may be in breach of the 1953 armistice agreement.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/south-korea-airs-concerns-over-north-korean-border-activity/a-77938229",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-13T14:42:00+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: breach"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "activity",
-          "concerns",
-          "airs",
-          "sk_entity",
-          "korean"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Schools become battleground as Germany's far-right AfD eyes regional election",
-        "description": "STENDAL, Germany, July 14 - A woodwork teacher in the eastern German state of Saxony-Anhalt has triggered a dispute over political expression in the classroom ahead of a regional election in two months that could produce radical changes in schools if the far-right AfD wins.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/schools-become-battleground-as-germanys-far-right-afd-eyes-regional-election",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T17:05:48+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "regional",
-          "afd",
-          "schools",
-          "far",
-          "battleground"
-        ]
-      },
-      {
-        "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-        "description": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-13T11:36:18+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
             "reason": "Highest Quality Source match: BBC News"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "girls",
-          "convicts",
-          "couple",
-          "iraqi",
-          "enslaving"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Photos: Wildfires ravage historic forest near Paris",
-        "description": "Wildfires near Paris scorch 1,300 hectares as France endures its third heatwave in three months.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T08:38:07+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ravage",
-          "forest",
-          "historic",
-          "wildfires",
-          "photos"
-        ]
-      },
-      {
-        "title": "FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction",
-        "description": "France face Spain in the first World Cup semifinal, as Argentina prepare to renew their rivalry with England.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T09:05:24+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "semifinal",
-          "spain",
-          "france",
-          "cup",
-          "face"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-        "description": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T01:43:57+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "identity",
-          "sydney",
-          "offences",
-          "daycare",
-          "worker"
-        ]
-      },
-      {
-        "title": "Australia\u2019s Brewarrina fish traps may be the oldest human construction in the world",
-        "description": "They remain a remarkable example of Aboriginal innovation... and form one part of a growing body of work that challenges how hunter-gatherer Australian societies have long been perceived.",
-        "source": "Global Voices",
-        "url": "https://globalvoices.org/2026/07/14/australias-brewarrina-fish-traps-may-be-the-oldest-human-construction-in-the-world/",
-        "fromUrl": "https://globalvoices.org/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-14T04:15:04+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: innovation"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "australia",
-          "traps",
-          "oldest",
-          "fish",
-          "construction"
+          "opening",
+          "giant",
+          "outlet",
+          "chipotle",
+          "burrito"
         ]
       }
     ]
