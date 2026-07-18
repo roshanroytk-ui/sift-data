@@ -1,64 +1,109 @@
 {
-  "updatedAt": "2026-07-17T18:54:09.017271",
+  "updatedAt": "2026-07-18T04:39:25.450518",
   "insight": {
-    "title": "Why the Straightest Path is Rarely the Best Choice",
-    "subtitle": "How trying to solve a problem directly creates more resistance",
-    "notificationHook": "Straight lines cause most of our friction",
-    "readingTime": 3,
+    "title": "The Late Student Who Solved an Unsolvable Proof",
+    "subtitle": "How a simple misunderstanding bypassed the limits of human expectation.",
+    "notificationHook": "How a late student solved the impossible",
+    "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Rivers never flow in straight lines because straight paths build destructive speed. By bending and meandering, a river safely dissipates its kinetic energy, allowing a rich ecosystem to grow along its curves."
+        "text": "In 1939, graduate student George Dantzig arrived late to his statistics class. He hurriedly copied two equations from the blackboard, assuming they were just his homework assignment."
       },
       {
         "type": "paragraph",
-        "text": "In decision-making, we often force straight-line solutions to speed things up. Pushing directly against a difficult problem creates immediate resistance, leading to stress, friction, and ultimately, compromises that weaken your original vision."
+        "text": "Finding them slightly harder than usual, Dantzig spent a few days working them out. He finally solved both proofs and neatly dropped them off on his professor\u2019s desk."
       },
       {
         "type": "paragraph",
-        "text": "True innovators avoid direct confrontation. By taking a slightly indirect path\u2014like running a low-stakes test instead of demanding instant approval\u2014you bypass natural resistance and discover better, more creative solutions."
+        "text": "Days later, his stunned professor banged on his door. The equations weren't homework; they were two famously \"unsolvable\" mathematical proofs that world-class scientists had never cracked."
       },
       {
         "type": "paragraph",
-        "text": "Try this today: When you face a stubborn problem today, think of one small detour instead of pushing through."
-      },
-      {
-        "type": "paragraph",
-        "text": "Force creates friction, but detours create options."
+        "text": "He solved them because nobody told him they were impossible."
       }
-    ],
-    "debug": {
-      "date": "2026-07-17",
-      "day_index": 198,
-      "weekday": 4,
-      "topic_index": 6,
-      "topic": "innovation",
-      "theme_index": 4,
-      "theme_family": "nature principles",
-      "content_index": 2,
-      "content_type": "decision insight",
-      "tone_index": 2,
-      "tone": "a surprising and lighter idea",
-      "opening_index": 2,
-      "opening_style": "start with a surprising statement",
-      "angle_index": 2,
-      "angle": "focus on decision-making"
-    }
+    ]
   },
   "news": [
     {
-      "title": "US-China AI rivalry becomes a battle to export competing tech governance visions",
-      "description": "The global race for artificial intelligence has transformed into a direct contest of governance, with the United States and China actively exporting rival models of technology, funding and regulation to the rest of the world. In the West African state of Burkina Faso, dozens of young people gather a",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360897/us-china-ai-rivalry-becomes-battle-export-competing-tech-governance-visions",
+      "title": "Zelenskyy's defense shake-up sparks political crisis and protests",
+      "description": "President Zelenskyy's dismissal of Defence Minister Mykhailo Fedorov sparks widespread protests and a political crisis over Ukraine's wartime strategy.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/c8218b3b-30b1-4f5b-8696-5320d21604e5.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 18,
-      "why": "Your access to certain AI tools may differ by region.",
-      "context": "The US and China are actively exporting rival AI governance models. This extends their tech rivalry globally.",
-      "next": "Countries may choose between US or Chinese AI standards.",
-      "bigger": "Geopolitical competition is shaping the global tech landscape.",
-      "publishedAt": "2026-07-17T08:00:13+00:00",
+      "score": 13,
+      "why": "Internal political division may slow down Ukraine's wartime defense operations.",
+      "context": "Ukraine's defense minister was dismissed, sparking political protests.",
+      "next": "Protestors may demand the reinstatement of the former minister.",
+      "bigger": "Domestic political instability during wartime weakens foreign defense partnerships.",
+      "publishedAt": "2026-07-18T00:27:28+00:00",
+      "topicFingerprint": [
+        "fedorov",
+        "defence",
+        "mykhailo",
+        "minister",
+        "ukraine"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump administration races to rebuild tariff wall knocked down by Supreme Court",
+      "description": "The U.S. Treasury last year swelled with revenue from President Donald Trump's double-digit taxes on imports from almost every country on earth. But the money dried up after the Supreme Court struck down the biggest and boldest of Trump's tariffs in February. The question now is: Can the president's",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-races-to-rebuild-tariff-wall-knocked-down-by-supreme-court",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Your cost for imported goods and electronics may soon rise.",
+      "context": "The administration is trying to restore import taxes blocked by court.",
+      "next": "Congress may introduce new trade legislation to bypass the court.",
+      "bigger": "Global trade wars are increasingly fought through executive and judicial battles.",
+      "publishedAt": "2026-07-17T17:23:20-04:00",
+      "topicFingerprint": [
+        "races",
+        "wall",
+        "tariff",
+        "knocked",
+        "supreme"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Fuel prices didn\u2019t skyrocket before. Here\u2019s why they could shoot up this time",
+      "description": "The world is less ready to cope with an oil crunch if the conflict between the US and Iran drags on.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/fuel-prices-didnt-skyrocket-before-heres-why-they-could-shoot-up-this-time",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Your fuel and transport costs may rise significantly very soon.",
+      "context": "US-Iran tensions threaten to trigger a massive global oil crunch.",
+      "next": "Energy companies may increase fuel stockpiles to avoid sudden shortages.",
+      "bigger": "Geopolitical conflicts in the Middle East heavily dictate global energy security.",
+      "publishedAt": "2026-07-18T10:54:12+08:00",
+      "topicFingerprint": [
+        "didn",
+        "shoot",
+        "prices",
+        "skyrocket",
+        "fuel"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "description": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Global tech supply chains may split into competing regional ecosystems.",
+      "context": "China urged AI cooperation while facing strict U.S. technology bans.",
+      "next": "China will likely accelerate domestic development of advanced computer chips.",
+      "bigger": "The geopolitical race for AI dominance is driving global technological decoupling.",
+      "publishedAt": "2026-07-17T03:17:04-04:00",
       "topicFingerprint": [
         "ai_group",
         "china_entity",
@@ -69,217 +114,24 @@
       "alternates": []
     },
     {
-      "title": "Gold on track for biggest weekly loss in six weeks as Iran war fans inflation worries",
-      "description": "Higher oil prices stoke inflation concerns, raising expectations of elevated interest rates",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-track-biggest-weekly-loss-six-weeks-iran-war-fans-inflation-worries",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 26,
-      "why": "Higher oil prices may increase your daily living costs.",
-      "context": "Gold prices are falling significantly this week. Concerns over Iran war and higher oil prices are driving this.",
-      "next": "Central banks might raise interest rates further.",
-      "bigger": "Geopolitical conflicts continue to drive commodity market volatility.",
-      "publishedAt": "2026-07-17T00:12:34+00:00",
-      "topicFingerprint": [
-        "prices",
-        "oil",
-        "us_entity",
-        "iran",
-        "higher"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Andy Burnham becomes Labour leader and Britain's next prime minister",
-      "description": "Andy Burnham has been declared Labour leader and will become Britain's prime minister on July 20, pledging economic growth and power for local governments.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/80ebafd3-2d18-4531-b295-be5dc544d6a3.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Britain's economic and local governance policies will soon shift.",
-      "context": "Andy Burnham was elected Labour leader. He will become Britain's next Prime Minister.",
-      "next": "New government policies on economy and local power will be introduced.",
-      "bigger": "Political leadership changes can lead to significant policy reforms.",
-      "publishedAt": "2026-07-17T09:13:36+00:00",
-      "topicFingerprint": [
-        "uk_entity",
-        "andy",
-        "burnham",
-        "labour",
-        "prime"
-      ],
-      "alternates": [
-        {
-          "title": "What is new Labour leader Andy Burnham's policy approach for Britain?",
-          "description": "LONDON, July 17 - Former Greater Manchester mayor Andy Burnham was one step away from becoming Britain's next prime minister on Friday after being appointed leader of the governing Labour Party.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/what-is-new-labour-leader-andy-burnhams-policy-approach-for-britain",
-          "category": "Policy",
-          "publishedAt": "2026-07-17T20:01:20+08:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Andy Burnham becomes UK Labour leader; next stop - prime minister",
-          "description": "Andy Burnham was elected leader of Britain's governing Labour Party on Friday, the final step before becoming its seventh prime minister in a decade.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/17/andy-burnham-becomes-uk-labour-leader-next-stop-prime-minister.html",
-          "category": "General",
-          "publishedAt": "2026-07-17T11:44:42+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
-          "description": "Andy Burnham has been officially declared leader of Britain s governing Labour Party, clearing his final hurdle to taking office as prime minister next week",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/andy-burnham-declared-leader-britains-labour-party-become-134840790",
-          "category": "General",
-          "publishedAt": "2026-07-17T09:22:17-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
-          "description": "The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope",
-          "category": "General",
-          "publishedAt": "2026-07-17T14:41:55-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Incoming British prime minister Andy Burnham hopes to begin 'an era of hope'",
-          "description": "The Labour party in the UK has a new leader. Andy Burnham is succeeding to outgoing prime minister Keir Starmer, and will be officially confirmed as prime minister on July 20. In his speech to Labour members at a special conference, he vowed to bring hope back to the UK. He is seen as the party's ma",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/incoming-british-prime-minister-andy-burnham-hopes-to-begin-an-era-of-hope",
-          "category": "General",
-          "publishedAt": "2026-07-17T12:59:39+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "\ud83d\udd34 UK\u2019s Andy Burnham named Labour leader ahead of taking over as PM",
-          "description": "",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260717-uk-s-andy-burnham-named-labour-leader-ahead-of-taking-over-as-pm",
-          "category": "General",
-          "publishedAt": "2026-07-17T11:16:44+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "'Whether you're Labour or not', Andy Burnham embodies a 'hope of political stability'",
-          "description": "Andy Burnham vowed on July 17 to \"give hope\" back to the British people as he was confirmed as the ruling Labour party's new leader, set to be the next UK prime minister. 'The King of the North' was elected in a snap election by a landslide in Makerfield, a constituency near Manchester. He will beco",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/whether-you-re-labour-or-not-andy-burnham-embodies-the-uk-s-hope-for-political-stability",
-          "category": "Policy",
-          "publishedAt": "2026-07-17T12:56:27+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "uk_entity",
-            "andy",
-            "burnham",
-            "labour",
-            "prime"
-          ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "The EU climate policy the world copied is under fire \u2014 what's at stake?",
-      "description": "The EU Commission has proposed to weaken Europe's emissions trading system, a global blueprint for pricing carbon and cutting CO2. How effective is the scheme and where does it fall short?",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Companies may face fewer incentives to cut emissions.",
-      "context": "The EU Commission proposed weakening its emissions trading system. This system is a global model for carbon pricing.",
-      "next": "Other countries may rethink their own carbon pricing policies.",
-      "bigger": "Global efforts to reduce carbon emissions face policy challenges.",
-      "publishedAt": "2026-07-17T10:51:00+00:00",
-      "topicFingerprint": [
-        "carbon",
-        "emissions",
-        "system",
-        "eu_entity",
-        "trading"
-      ],
-      "alternates": []
-    },
-    {
       "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "description": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+      "description": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo",
       "category": "Environment",
       "readingTime": 2,
-      "score": 24,
-      "why": "Coastal residents faced immediate tsunami warnings.",
-      "context": "A magnitude 7.3 earthquake struck off Mexico's coast. A small tsunami was recorded in coastal areas.",
-      "next": "Authorities will assess damage and ongoing risks.",
-      "bigger": "Seismic activity continues to pose significant coastal hazards.",
+      "score": 20,
+      "why": "Coastal residents face immediate evacuation orders and flooding risks.",
+      "context": "A major earthquake off Mexico's coast triggered localized tsunami waves.",
+      "next": "Emergency teams will begin assessing structural damage along the coast.",
+      "bigger": "Rising coastal populations are increasingly vulnerable to severe natural disasters.",
       "publishedAt": "2026-07-17T18:12:54+00:00",
       "topicFingerprint": [
-        "guatemala",
         "earthquake",
-        "mexico",
-        "quake",
-        "coast"
+        "guatemala",
+        "magnitude",
+        "coast",
+        "mexico"
       ],
       "alternates": [
         {
@@ -289,59 +141,128 @@
           "url": "https://www.hindustantimes.com/world-news/us-news/mexico-earthquake-7-4-magnitude-quake-strikes-near-puerto-madero-tremors-felt-in-guatemala-el-salvador-101784300716679.html",
           "category": "Environment",
           "publishedAt": "2026-07-17T20:37:32+05:30",
-          "score": 10,
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "guatemala",
             "earthquake",
-            "mexico",
-            "quake",
-            "coast"
+            "guatemala",
+            "magnitude",
+            "coast",
+            "mexico"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-      "description": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-      "category": "Geopolitics",
+      "title": "UAE\u2019s Hormuz workaround tries to bypass its trillion-dollar economic heart",
+      "description": "Geography has handed the United Arab Emirates quite the quandary: its government wants to cut dependence on the Strait of Hormuz to \u201czero\u201d, yet the ports that power its economy sit squarely inside the waterway it hopes to avoid. Jebel Ali and Khalifa ports collectively handle most of the UAE\u2019s US$1 ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/week-asia/economics/article/3360979/uaes-hormuz-workaround-tries-bypass-its-trillion-dollar-economic-heart",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 15,
-      "why": "Ukraine's military tech development may slow down.",
-      "context": "Ukrainian President Zelenskyy fired his defense minister. This minister was known for promoting battlefield tech innovation.",
-      "next": "A new defense minister will reshape military strategy.",
-      "bigger": "Leadership changes can impact national defense and innovation.",
-      "publishedAt": "2026-07-16T07:33:11-04:00",
+      "score": 13,
+      "why": "Shipping companies may face altered travel routes and higher transit fees.",
+      "context": "The UAE is building new routes to bypass the Strait of Hormuz.",
+      "next": "The UAE will invest heavily in alternative pipeline and port infrastructure.",
+      "bigger": "Middle Eastern nations are actively bypassing volatile maritime trade chokepoints.",
+      "publishedAt": "2026-07-18T03:00:06+00:00",
       "topicFingerprint": [
-        "ukraine",
-        "minister",
-        "defense",
-        "fedorov",
-        "popular"
+        "workaround",
+        "dollar",
+        "bypass",
+        "tries",
+        "uae_entity"
       ],
-      "alternates": [
-        {
-          "title": "Protests in Ukraine after Zelenskyy fires popular defense minister",
-          "description": "Crowds took to Ukraine's streets to protest Ukrainian President Volodymyr Zelenskyy's dismissal of popular defense minister Mykhailo Fedorov. CBS News' Aidan Stretch reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/protests-in-ukraine-after-zelenskyy-fires-popular-defense-minister-fedorov/",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-17T11:43:34-04:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "minister",
-            "defense",
-            "fedorov",
-            "popular"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "The EU climate policy the world copied is under fire \u2014 what's at stake?",
+      "description": "The EU Commission has proposed to weaken Europe's emissions trading system, a global blueprint for pricing carbon and cutting CO2. How effective is the scheme and where does it fall short?",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "European heavy industries may face lower carbon taxes on operations.",
+      "context": "Europe proposed weakening its landmark carbon emissions trading scheme.",
+      "next": "Environmental groups will likely mount legal challenges against the changes.",
+      "bigger": "Global climate goals are faltering as governments prioritize short-term economic relief.",
+      "publishedAt": "2026-07-17T10:51:00+00:00",
+      "topicFingerprint": [
+        "carbon",
+        "emissions",
+        "trading",
+        "eu_entity",
+        "system"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US lifts some Hong Kong sanctions imposed by Trump, autonomy status unchanged",
+      "description": "China had earlier announced that the US decision to allow the expiration of Trump's national emergency declaration over Hong Kong would restore the territory's special trade and economic status, but US officials disputed this assessment.",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/east-asia/us-china-hong-kong-sanctions-autonomy-status-6262361",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 14,
+      "why": "International firms in Hong Kong may find compliance rules slightly easier.",
+      "context": "The US eased select sanctions on Hong Kong's trade activities.",
+      "next": "China may ease restrictions on certain American businesses in return.",
+      "bigger": "Superpower diplomacy is shifting toward targeted, incremental changes in trade policy.",
+      "publishedAt": "2026-07-18T11:07:00+08:00",
+      "topicFingerprint": [
+        "hong",
+        "trade",
+        "kong",
+        "donald_trump",
+        "china_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "\u2018Walking Ebola\u2019 helps explain why Congo\u2019s outbreak is so hard to stop \u2013 and how to treat it",
+      "description": "Symptoms of the Bundibugyo strain seem to worsen slowly, so patients spread it as they're well enough to move about.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/walking-ebola-helps-explain-why-congos-outbreak-is-so-hard-to-stop-and-how-to-treat-it",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "International travelers face stricter health screenings at borders and airports.",
+      "context": "A mild Ebola strain in Congo is spreading rapidly via mobile patients.",
+      "next": "Global health agencies will deploy more medical teams to the region.",
+      "bigger": "Mild viral strains present a higher threat of undetected global transmission.",
+      "publishedAt": "2026-07-18T09:52:00+08:00",
+      "topicFingerprint": [
+        "outbreak",
+        "ebola",
+        "hard",
+        "congo",
+        "treat"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Apple overtakes Nvidia as world\u2019s most valuable company as it barrels toward $5T",
+      "description": "Apple has officially reclaimed the world\u2019s most valuable company title based on market cap. The company overtook Nvidia during intraday trading on Friday with its stock up 17 points this week.",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/07/17/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Investors may shift their capital back into consumer hardware stocks.",
+      "context": "Apple surpassed Nvidia to reclaim the world's most valuable company title.",
+      "next": "Nvidia will likely launch new AI processors to regain market dominance.",
+      "bigger": "Corporate battles for market supremacy are driven by artificial intelligence integration.",
+      "publishedAt": "2026-07-17T13:46:19+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "apple",
+        "nvidia",
+        "valuable",
+        "title"
+      ],
+      "alternates": []
     },
     {
       "title": "China \u2018strongly dissatisfied\u2019 with nationalisation of British Steel",
@@ -350,106 +271,20 @@
       "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
       "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "Chinese companies may reduce investment in the UK.",
-      "context": "China expressed strong dissatisfaction over the British Steel nationalization. China claims it hurts investor confidence.",
-      "next": "UK-China investment relations could become strained.",
-      "bigger": "State intervention in industry can deter foreign investment.",
+      "score": 9,
+      "why": "Chinese firms may reduce investments in British infrastructure and manufacturing.",
+      "context": "China strongly criticized the UK's decision to nationalize British Steel.",
+      "next": "The UK government will seek private buyers for the steel plants.",
+      "bigger": "Western nations are increasingly nationalizing critical industries to protect domestic supply.",
       "publishedAt": "2026-07-17T06:57:08+00:00",
       "topicFingerprint": [
-        "nationalisation",
         "steel",
+        "nationalisation",
         "uk_entity",
         "china_entity",
-        "dissatisfied"
+        "investing"
       ],
       "alternates": []
-    },
-    {
-      "title": "India, Israel set for next round of FTA talks as trade deal gathers pace",
-      "description": "An Israeli trade delegation is expected to visit India next week for the second round of free trade agreement negotiations, with discussions set to cover market access, investment and technology cooperation.",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/india-israel-set-for-next-round-of-fta-talks-as-trade-deal-gathers-pace-19948343.htm",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Trade between India and Israel may grow significantly.",
-      "context": "India and Israel will hold more free trade agreement talks. Discussions cover market access and technology cooperation.",
-      "next": "The countries could finalize a comprehensive trade deal.",
-      "bigger": "Bilateral trade agreements aim to boost economic ties.",
-      "publishedAt": "2026-07-17T18:19:46+05:30",
-      "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "election",
-        "china_entity",
-        "iran",
-        "claims"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Wildfires, drought and storms hound Europe even as heatwave recedes",
-      "description": "The World Health Organization warned that Europe could face \u201cmore deadly weeks ahead\u201d.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/wildfires-drought-and-storms-hound-europe-even-as-heatwave-recedes",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 6,
-      "why": "European communities face increased risks to health and safety.",
-      "context": "Europe is facing ongoing extreme weather events. Wildfires, drought, and storms persist despite easing heatwaves.",
-      "next": "More severe weather conditions are expected across the region.",
-      "bigger": "Climate change is intensifying global extreme weather events.",
-      "publishedAt": "2026-07-17T19:11:24+08:00",
-      "topicFingerprint": [
-        "heatwave",
-        "eu_entity",
-        "drought",
-        "storms",
-        "hound"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Apple unseats Nvidia as world's most valuable company",
-      "description": "Apple has overtaken Nvidia as the world's most valuable company with a $4.88 trillion valuation, as investors shift focus from AI hardware to consumer execution.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/4c8a2fed-b22b-49a1-8f34-b8be88768820.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Investor focus is shifting from AI hardware to consumer tech.",
-      "context": "Apple surpassed Nvidia to become the world's most valuable company. Investors are shifting focus to consumer tech.",
-      "next": "Other tech companies may see similar shifts in valuation.",
-      "bigger": "Market valuations reflect changing investor priorities in tech.",
-      "publishedAt": "2026-07-17T15:16:42+00:00",
-      "topicFingerprint": [
-        "apple",
-        "ai_group",
-        "nvidia",
-        "valuable",
-        "unseats"
-      ],
-      "alternates": [
-        {
-          "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-          "description": "Apple was last \u200bvalued at $4.88 trillion as its shares held steady, while Nvidia was roughly at $4.86 trillion, \u2060following a 3.5% decline",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/apple-unseats-nvidia-to-become-worlds-most-valuable-company-as-ai-bets-shift/article71234955.ece",
-          "category": "Financial",
-          "publishedAt": "2026-07-17T21:13:06+05:30",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "ai_group",
-            "nvidia",
-            "valuable",
-            "unseats"
-          ],
-          "group_id": 0
-        }
-      ]
     },
     {
       "title": "Asia-Pacific airlines\u2019 2025 revenues climb 4.3% to US$223.7 billion on travel surge",
@@ -458,184 +293,44 @@
       "url": "https://www.businesstimes.com.sg/international/asean/asia-pacific-airlines-2025-revenues-climb-4-3-us223-7-billion-travel-surge",
       "category": "Financial",
       "readingTime": 2,
-      "score": 15,
-      "why": "Rising fuel costs may impact your future travel prices.",
-      "context": "Asia-Pacific airlines project higher revenues for 2025. A travel surge contributes to increased profits.",
-      "next": "Airlines will adapt strategies to manage fuel price volatility.",
-      "bigger": "Post-pandemic travel recovery faces headwinds from operating costs.",
+      "score": 14,
+      "why": "Your airfares for travel to Asia may remain high.",
+      "context": "Asia-Pacific airlines reported record revenues despite rising fuel expenses.",
+      "next": "Airlines will likely raise ticket prices to cover rising fuel bills.",
+      "bigger": "The global travel sector is prioritizing profit recovery over lowering fares.",
       "publishedAt": "2026-07-17T07:50:21+00:00",
       "topicFingerprint": [
+        "asia",
+        "us_entity2237",
         "billion",
-        "revenues",
-        "pacific",
-        "climb",
-        "travel"
+        "travel",
+        "surge"
       ],
       "alternates": []
-    },
-    {
-      "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
-      "description": "Federal health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the widespread outbreak of diarrhea-causing parasite cyclospora.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/health/lettuce-at-taco-bell-in-5-states-confirmed-as-a-source-of-diarrhea-causing-parasite",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Dining at certain Taco Bell locations carried a health risk.",
-      "context": "Lettuce from Taco Bell in five US states caused a parasite outbreak. Federal health officials confirmed the link.",
-      "next": "Taco Bell will likely implement stricter food safety measures.",
-      "bigger": "Foodborne illness outbreaks remain a public health concern.",
-      "publishedAt": "2026-07-17T09:58:19-04:00",
-      "topicFingerprint": [
-        "outbreak",
-        "bell",
-        "taco",
-        "lettuce",
-        "cyclosporiasis"
-      ],
-      "alternates": [
-        {
-          "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
-          "description": "Health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the outbreak of diarrhea-causing parasite cyclospora.",
-          "source": "Stat",
-          "url": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/",
-          "category": "Health",
-          "publishedAt": "2026-07-17T14:52:38+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "outbreak",
-            "bell",
-            "taco",
-            "lettuce",
-            "cyclosporiasis"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Cyclosporiasis outbreak: Cases surge to 7,000, top doctor names 8 foods you must avoid - \u2018Do not eat shredded iceberg\u2026\u2019",
-          "description": "As cyclosporiasis cases near 7,000 in the US, health officials warn to avoid lettuce from certain Taco Bell locations due to contamination risks.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/cyclosporiasis-cases-in-us-surge-to-7-000-here-are-8-foods-you-must-avoid-do-not-eat-shredded-iceberg-101784303692351.html",
-          "category": "Health",
-          "publishedAt": "2026-07-17T21:59:50+05:30",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "outbreak",
-            "bell",
-            "taco",
-            "lettuce",
-            "cyclosporiasis"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Taco Bell lettuce in 5 states linked to cyclosporiasis outbreak",
-          "description": "Federal officials link a cyclosporiasis outbreak to shredded iceberg lettuce served at Taco Bell in Indiana, Kentucky, Michigan, Ohio, and West Virginia.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/9333d7a4-88b7-4860-b429-dd8d4102a1a5.html",
-          "category": "Health",
-          "publishedAt": "2026-07-17T01:17:04+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "outbreak",
-            "bell",
-            "taco",
-            "lettuce",
-            "cyclosporiasis"
-          ],
-          "group_id": 1
-        }
-      ]
     }
   ],
   "candidatePool": [
     {
-      "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don't expect a long-term impact",
-      "description": "Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Food safety incidents can temporarily affect company valuations.",
-      "context": "The Taco Bell parasite outbreak impacted some restaurant stocks. Analysts expect a quick recovery for Taco Bell.",
-      "next": "Taco Bell's brand image and sales are expected to rebound.",
-      "bigger": "Companies often recover from short-term reputational crises.",
-      "publishedAt": "2026-07-17T17:17:50+00:00",
-      "topicFingerprint": [
-        "outbreak",
-        "bell",
-        "taco",
-        "lettuce",
-        "cyclosporiasis"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Apple regains top spot as world\u2019s most valuable company",
-      "description": "Apple regained world\u2019s top spot with $4.88 trillion valuation, overtaking Nvidia which saw a 3.5% market value drop.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Tech sector leadership is shifting in market valuation.",
-      "context": "Apple became the world's most valuable company again. Nvidia's market value dropped, ceding the top spot.",
-      "next": "Investor focus may further consolidate around established tech giants.",
-      "bigger": "Major tech companies compete intensely for market dominance.",
-      "publishedAt": "2026-07-17T16:47:39+00:00",
-      "topicFingerprint": [
-        "apple",
-        "ai_group",
-        "nvidia",
-        "valuable",
-        "unseats"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "description": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "title": "US judge won\u2019t block\u00a0Meta\u00a0from laying off workers who filed AI discrimination lawsuit",
+      "description": "The workers were notified of the layoffs in May",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/us-judge-wont-block-meta-laying-workers-who-filed-ai-discrimination-lawsuit",
       "category": "Technology",
       "readingTime": 2,
-      "score": 12,
-      "why": "Cloud service users faced temporary, incorrect, massive billing shocks.",
-      "context": "Amazon is fixing a bug causing huge AWS billing errors. Some customers received bills for billions of dollars.",
-      "next": "Amazon will ensure billing accuracy and restore customer trust.",
-      "bigger": "Software glitches can severely impact business operations and trust.",
-      "publishedAt": "2026-07-17T15:29:21+00:00",
+      "score": 16,
+      "why": "Tech workers may face higher risks when challenging automation decisions legally.",
+      "context": "A US court allowed Meta to proceed with planned staff layoffs.",
+      "next": "Disgruntled employees may seek alternative legal avenues to stop layoffs.",
+      "bigger": "Corporate restructuring and AI adoption are eroding traditional labor protections.",
+      "publishedAt": "2026-07-18T03:31:32+00:00",
       "topicFingerprint": [
-        "aws",
-        "bug",
-        "amazon",
-        "billions",
-        "some"
+        "ai_group",
+        "laying",
+        "discrimination",
+        "filed",
+        "blockmetafrom"
       ],
-      "alternates": [
-        {
-          "title": "A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars",
-          "description": "\"The displayed billing estimates do not reflect actual usage and charges,\" Amazon said.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2217648/a-bug-in-aws-has-caused-some-customer-bills-to-spike-from-a-few-cents-to-billions-of-dollars/",
-          "category": "General",
-          "publishedAt": "2026-07-17T17:07:47+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "aws",
-            "bug",
-            "amazon",
-            "billions",
-            "some"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
       "title": "Apple sends legal letters to former employees now at OpenAI",
@@ -644,18 +339,18 @@
       "url": "https://9to5mac.com/2026/07/17/apple-sends-legal-letters-to-former-employees-now-at-openai/",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 11,
-      "why": "Tech companies are fiercely protecting their intellectual property.",
-      "context": "Apple sent legal letters to former employees now at OpenAI. This follows a lawsuit alleging trade secret theft.",
-      "next": "Legal battles over talent and secrets in AI will intensify.",
-      "bigger": "Competition in the AI sector is leading to increased legal disputes.",
+      "score": 10,
+      "why": "Tech professionals may face tighter non-compete audits when changing jobs.",
+      "context": "Apple accused former employees of stealing trade secrets for OpenAI.",
+      "next": "OpenAI will likely review the code contributions of the targeted engineers.",
+      "bigger": "Legal battles over intellectual property are defining the generative AI race.",
       "publishedAt": "2026-07-17T12:30:36+00:00",
       "topicFingerprint": [
-        "openai",
-        "former",
-        "employees",
         "apple",
-        "lawsuit"
+        "sent",
+        "letters",
+        "nudify",
+        "stores"
       ],
       "alternates": [
         {
@@ -668,11 +363,11 @@
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "openai",
-            "former",
-            "employees",
             "apple",
-            "lawsuit"
+            "sent",
+            "letters",
+            "nudify",
+            "stores"
           ],
           "group_id": 0
         },
@@ -683,79 +378,82 @@
           "url": "https://www.hindustantimes.com/world-news/us-news/why-has-apple-sent-preservation-letters-to-40-ex-employees-at-openai-all-we-know-about-trade-secret-lawsuit-101784296997675.html",
           "category": "Technology",
           "publishedAt": "2026-07-17T19:57:15+05:30",
-          "score": 7,
+          "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
-            "openai",
-            "former",
-            "employees",
             "apple",
-            "lawsuit"
+            "sent",
+            "letters",
+            "nudify",
+            "stores"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "category": "Technology",
+      "title": "Google Pixel and Nothing are the fastest-growing smartphone brands in India",
+      "description": "While the smartphone market as a whole is struggling right now, there are some bright spots. Google Pixel is managing to grow on the global market, but India in particular is doing well, as Pixel and Nothing are the two fastest-growing brands in the region.",
+      "source": "9To5Google",
+      "url": "https://9to5google.com/2026/07/17/google-pixel-nothing-india-fastest-growing-brands/",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 9,
-      "why": "Autonomous vehicles need to safely navigate complex environments.",
-      "context": "Zoox recalled robotaxi software after a vehicle stalled in smoke. The incident caused confusion for emergency responders.",
-      "next": "Autonomous vehicle companies will improve incident response capabilities.",
-      "bigger": "Safety remains a critical challenge for autonomous vehicle development.",
-      "publishedAt": "2026-07-17T14:12:02+00:00",
+      "score": 10,
+      "why": "Indian consumers have more competitive alternatives to dominant smartphone brands.",
+      "context": "Google Pixel and Nothing are seeing rapid sales growth in India.",
+      "next": "Competitors like Samsung may lower prices to protect their market share.",
+      "bigger": "Niche hardware brands are successfully challenging established tech duopolies.",
+      "publishedAt": "2026-07-17T13:15:00+00:00",
       "topicFingerprint": [
-        "zoox",
-        "smoke",
-        "heavy",
-        "software",
-        "issues"
+        "pixel",
+        "india",
+        "growing",
+        "brands",
+        "fastest"
       ],
-      "alternates": [
-        {
-          "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-          "description": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
-          "category": "Technology",
-          "publishedAt": "2026-07-17T14:42:04+00:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "zoox",
-            "smoke",
-            "heavy",
-            "software",
-            "issues"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Meet Gabrielle Policano, who plays Elle\u2019s queer friend, Liz, in the Legally Blonde prequel",
-      "description": "Amazon Prime\u2019s latest binge-worthy show, Elle, is a Legally Blonde prequel series tracing young Elle Woods\u2019 early high school years, before the bubbly fashionista takes on Harvard Law School in the 2001 blockbuster. With season two\u2019s filming already wrapped, Elle fans can\u2019t wait to see how the show\u2019",
+      "title": "After US birthright citizenship ruling, lessons from how foreigners once \u2018became Chinese\u2019",
+      "description": "Questions about who belongs to a nation and how citizenship should be acquired remain as contentious today as they have ever been. The rise of xenophobic, far-right politics in many countries is an ugly consequence of this debate. On June 30, 2026, the United States Supreme Court rejected an executi",
       "source": "South China Morning Post",
-      "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3360869/meet-gabrielle-policano-who-plays-elles-queer-friend-liz-legally-blonde-prequel",
+      "url": "https://www.scmp.com/lifestyle/chinese-culture/article/3360860/after-us-birthright-citizenship-ruling-lessons-how-foreigners-once-became-chinese",
       "category": "Policy",
       "readingTime": 2,
-      "score": 9,
-      "why": "New shows continue to expand popular film franchises.",
-      "context": "Gabrielle Policano plays Liz in the Legally Blonde prequel series. The Amazon Prime show follows young Elle Woods.",
-      "next": "Viewers will explore Elle Woods' high school experiences.",
-      "bigger": "Streaming platforms are investing in prequel and spin-off content.",
-      "publishedAt": "2026-07-17T10:00:10+00:00",
+      "score": 10,
+      "why": "Immigrant families may face tighter restrictions and longer paths to citizenship.",
+      "context": "A debate on citizenship emerged following a major US legal ruling.",
+      "next": "Lawmakers will debate new constitutional amendments regarding automatic citizenship.",
+      "bigger": "Nations worldwide are tightening border controls and citizenship definitions.",
+      "publishedAt": "2026-07-18T00:15:05+00:00",
       "topicFingerprint": [
-        "prequel",
-        "gabrielle",
-        "queer",
-        "elle",
-        "blonde"
+        "birthright",
+        "became",
+        "lessons",
+        "citizenship",
+        "once"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Leather jacket worn by Nvidia CEO Jensen Huang auctions for over $1 million",
+      "description": "The figure is 16 times higher than the estimated value of US$60,000.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/leather-jacket-worn-by-nvidia-ceo-jensen-huang-auctions-for-over-1-million",
+      "category": "General",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Collectors are paying massive premiums for items linked to tech leaders.",
+      "context": "Nvidia's CEO auctioned his signature jacket for a record price.",
+      "next": "Other tech executives may auction personal items for charity or publicity.",
+      "bigger": "The cult of personality around tech founders is driving extreme valuations.",
+      "publishedAt": "2026-07-18T10:59:00+08:00",
+      "topicFingerprint": [
+        "worn",
+        "leather",
+        "jacket",
+        "nvidia",
+        "jensen"
       ],
       "alternates": []
     },
@@ -767,80 +465,39 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Some US tenants may face discrimination in housing access.",
-      "context": "The largest US landlord, Greystar, faces civil rights accusations. They allegedly refuse tenants using federal rent vouchers.",
-      "next": "Greystar could face legal action and regulatory scrutiny.",
-      "bigger": "Housing discrimination remains a challenge for vulnerable populations.",
+      "why": "Low-income renters may struggle to find housing in managed apartment buildings.",
+      "context": "Greystar was accused of refusing tenants who use federal rent vouchers.",
+      "next": "Regulators will launch deeper audits into corporate landlord screening policies.",
+      "bigger": "Institutional housing ownership is worsening the affordability crisis for vulnerable renters.",
       "publishedAt": "2026-07-16T18:09:28+00:00",
       "topicFingerprint": [
         "civil",
         "violations",
-        "accused",
         "landlord",
+        "accused",
         "rights"
       ],
       "alternates": []
     },
     {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Access to certain apps may be restricted on your devices.",
-      "context": "San Francisco ordered Apple and Google to remove nudify apps. Officials estimate the app stores earned millions from them.",
-      "next": "Apple and Google will likely comply with the city's order.",
-      "bigger": "Local regulations increasingly influence global tech platforms.",
-      "publishedAt": "2026-07-17T16:10:05+00:00",
-      "topicFingerprint": [
-        "apps",
-        "google",
-        "stores",
-        "francisco",
-        "apple"
-      ],
-      "alternates": [
-        {
-          "title": "Apple and Google ordered by San Francisco attorney to take action against 'nudify' apps",
-          "description": "Google and Apple were sent cease-and-desist letters regarding 13 apps on their respective stores.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2217578/apple-and-google-ordered-by-san-francisco-attorney-to-take-action-against-nudify-apps/",
-          "category": "General",
-          "publishedAt": "2026-07-17T16:10:18+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apps",
-            "google",
-            "stores",
-            "francisco",
-            "apple"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Geo Energy\u2019s new infrastructure unit to boost Ebitda by up to US$350 million annually",
-      "description": "Its newly operational Marga Bara Jaya integrated unit marks a new source of earnings beyond coal mining",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/geo-energys-new-infrastructure-unit-boost-ebitda-us350-million-annually",
-      "category": "Progress",
+      "title": "US aid workers isolate at Kenya Ebola facility despite court ban",
+      "description": "Kenya\u2019s health minister claimed he was unaware of the arrangement.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/us-aid-workers-isolate-at-kenya-ebola-facility-despite-court-ban",
+      "category": "Health",
       "readingTime": 2,
       "score": 6,
-      "why": "Geo Energy is diversifying its revenue streams.",
-      "context": "Geo Energy's new infrastructure unit became operational. This unit will boost earnings beyond coal mining.",
-      "next": "The company may expand further into non-coal sectors.",
-      "bigger": "Resource companies are seeking to diversify beyond traditional mining.",
-      "publishedAt": "2026-07-16T14:37:08+00:00",
+      "why": "Foreign medical volunteers may face legal and diplomatic disputes during outbreaks.",
+      "context": "American aid workers isolated at a Kenyan facility despite a judicial block.",
+      "next": "Human rights groups may file lawsuits challenging the isolation orders.",
+      "bigger": "Public health crises are increasingly clashing with local judicial authority.",
+      "publishedAt": "2026-07-18T10:33:00+08:00",
       "topicFingerprint": [
-        "infrastructure",
-        "annually",
-        "unit",
-        "million",
-        "ebitda"
+        "ebola",
+        "kenya",
+        "facility",
+        "aid",
+        "isolate"
       ],
       "alternates": []
     },
@@ -851,35 +508,246 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/philippine-bourse-seeks-boost-retail-trading-new-reforms",
       "category": "Progress",
       "readingTime": 2,
-      "score": 4,
-      "why": "Philippine retail investors may find stock trading more appealing.",
-      "context": "The Philippine stock exchange plans reforms. They aim to attract retail investors to traditional trading.",
-      "next": "The bourse expects increased participation in its market.",
-      "bigger": "Stock exchanges are competing with alternative investment platforms.",
+      "score": 3,
+      "why": "Filipino retail investors gain safer options to build wealth online.",
+      "context": "The Philippine stock exchange introduced reforms to attract individual investors.",
+      "next": "Trading platforms will launch simplified mobile apps to capture new users.",
+      "bigger": "Developing nations are modernizing financial markets to steer citizens away from gambling.",
       "publishedAt": "2026-07-17T08:02:28+00:00",
       "topicFingerprint": [
-        "reforms",
-        "retail",
-        "philippine",
+        "seeks",
         "bourse",
-        "seeks"
+        "philippine",
+        "retail",
+        "reforms"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "india": [
       {
-        "title": "Wall Street ends lower as chip weakness offsets solid earnings, upbeat US economic data",
-        "description": "The weakness in chips demonstrated the lofty expectations for a sector that has soared by nearly 70% so far in 2026",
+        "title": "India, Israel set for next round of FTA talks as trade deal gathers pace",
+        "description": "An Israeli trade delegation is expected to visit India next week for the second round of free trade agreement negotiations, with discussions set to cover market access, investment and technology cooperation.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/india-israel-set-for-next-round-of-fta-talks-as-trade-deal-gathers-pace-19948343.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-17T18:19:46+05:30",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "round",
+          "india",
+          "trade",
+          "fta",
+          "pace"
+        ]
+      },
+      {
+        "title": "India\u2019s SBI Funds Management attracts over US$31 billion in bids in country\u2019s 4th most subscribed IPO",
+        "description": "The country\u2019s largest asset manager oversees funds worth 12.5 trillion rupees as at March 2026",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-lower-chip-weakness-offsets-solid-earnings-upbeat-us-economic-data",
+        "url": "https://www.businesstimes.com.sg/companies-markets/indias-sbi-funds-management-attracts-over-us31-billion-bids-countrys-4th-most-subscribed-ipo",
         "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-07-16T22:15:48+00:00",
+        "publishedAt": "2026-07-17T05:32:50+00:00",
         "reason": "within_48h",
-        "score": 12,
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
+            "description": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
+            "category": "Financial",
+            "publishedAt": "2026-07-17T03:54:47+00:00",
+            "score": 6,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "billion",
+              "india",
+              "ipo",
+              "asset",
+              "manager"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "billion",
+          "india",
+          "ipo",
+          "asset",
+          "manager"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Southeast Asia must write its own trade rules for China\u2019s \u2018flying geese\u2019",
+        "description": "Southeast Asia has been thrust into the crosshairs of geopolitical competition these past few tumultuous years, necessitating choices about how to handle the movement of economic activity emanating from China. This movement is not entirely new. Roughly a decade after China\u2019s accession to the World T",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/opinion/article/3360984/southeast-asia-must-write-its-own-trade-rules-chinas-flying-geese",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T04:00:14+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Opinion detected"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "rules",
+          "asia",
+          "flying",
+          "southeast",
+          "trade"
+        ]
+      },
+      {
+        "title": "Kevin O\u2019Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
+        "description": "Two organizations targeted by O\u2019Leary say his comments caused \u201csignificant economic losses, severe emotional distress, and ongoing threats to their physical safety.\u201d",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/17/kevin-oleary-defamation-lawsuit-chinese-communist-party-utah-data-center/",
+        "fromUrl": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-17T07:00:00+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: safety"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: say"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "center",
+          "claimed",
+          "opposition",
+          "data",
+          "defamation"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Wall Street ends lower as chip weakness offsets solid earnings, economic data",
+        "description": "The Dow Jones Industrial Average fell 105.32 points, or 0.2 per cent, to 52,553.32.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-chip-weakness-offsets-solid-earnings-economic-data",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-17T06:03:31+08:00",
+        "reason": "within_48h",
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
@@ -891,429 +759,15 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Wall Street ends lower as chip weakness offsets solid earnings, economic data",
-            "description": "The Dow Jones Industrial Average fell 105.32 points, or 0.2 per cent, to 52,553.32.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-chip-weakness-offsets-solid-earnings-economic-data",
-            "category": "Financial",
-            "publishedAt": "2026-07-17T06:03:31+08:00",
-            "score": 10,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "street",
-              "chip",
-              "weakness",
-              "offsets",
-              "wall"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "street",
-          "chip",
-          "weakness",
-          "offsets",
-          "wall"
-        ]
-      },
-      {
-        "title": "Hong Kong welcomes expiry of US emergency order as Trump eases 2020 policy",
-        "description": "The Hong Kong government on Friday welcomed the Trump administration\u2019s decision to allow a national emergency declaration concerning the city to expire, a potentially significant reversal of US policy imposed after Beijing enacted the national security law in 2020. The declaration, which underpinned",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/us/diplomacy/article/3361011/hong-kong-welcomes-us-move-let-national-emergency-declaration-expire",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T15:20:52+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": -4,
-            "reason": "South China regional news"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "hong",
-          "welcomes",
-          "eases",
-          "donald_trump",
-          "expiry"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Google Pixel and Nothing are the fastest-growing smartphone brands in India",
-        "description": "While the smartphone market as a whole is struggling right now, there are some bright spots. Google Pixel is managing to grow on the global market, but India in particular is doing well, as Pixel and Nothing are the two fastest-growing brands in the region.",
-        "source": "9To5Google",
-        "url": "https://9to5google.com/2026/07/17/google-pixel-nothing-india-fastest-growing-brands/",
-        "fromUrl": "https://9to5google.com/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T13:15:00+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: 9To5Google"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "google",
-          "brands",
-          "growing",
-          "india",
-          "nothing"
-        ]
-      },
-      {
-        "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-        "description": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T03:54:47+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: interest"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "India\u2019s SBI Funds Management attracts over US$31 billion in bids in country\u2019s 4th most subscribed IPO",
-            "description": "The country\u2019s largest asset manager oversees funds worth 12.5 trillion rupees as at March 2026",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/indias-sbi-funds-management-attracts-over-us31-billion-bids-countrys-4th-most-subscribed-ipo",
-            "category": "Financial",
-            "publishedAt": "2026-07-17T05:32:50+00:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "ipo",
-              "worth",
-              "billion",
-              "manager",
-              "india"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "ipo",
-          "worth",
-          "billion",
-          "manager",
-          "india"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "Hong Kong welcomes expiry of US emergency order as Trump eases 2020 policy",
-        "description": "The Hong Kong government on Friday welcomed the Trump administration\u2019s decision to allow a national emergency declaration concerning the city to expire, a potentially significant reversal of US policy imposed after Beijing enacted the national security law in 2020. The declaration, which underpinned",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/us/diplomacy/article/3361011/hong-kong-welcomes-us-move-let-national-emergency-declaration-expire",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T15:20:52+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": -4,
-            "reason": "South China regional news"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "hong",
-          "welcomes",
-          "eases",
-          "donald_trump",
-          "expiry"
-        ]
-      },
-      {
-        "title": "China and UAE cross-border QR payment link to boost the global yuan",
-        "description": "In the latest move to bypass Western-dominated financial systems and step up the internationalisation of the yuan, China is linking its retail payment networks with the United Arab Emirates. Users will soon be able to use domestic mobile apps to scan QR codes and make payments in either country, und",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3360913/china-and-uae-cross-border-qr-payment-link-boost-global-yuan",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Progress",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T07:00:54+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "payment",
-          "cross",
-          "uae_entity",
-          "yuan",
-          "border"
-        ]
-      }
-    ],
-    "uae": [
-      {
-        "title": "China and UAE cross-border QR payment link to boost the global yuan",
-        "description": "In the latest move to bypass Western-dominated financial systems and step up the internationalisation of the yuan, China is linking its retail payment networks with the United Arab Emirates. Users will soon be able to use domestic mobile apps to scan QR codes and make payments in either country, und",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3360913/china-and-uae-cross-border-qr-payment-link-boost-global-yuan",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Progress",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T07:00:54+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "payment",
-          "cross",
-          "uae_entity",
-          "yuan",
-          "border"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "UK police charge man over Iran-linked spying offences",
-        "description": "LONDON, July 17 - A British-Iranian national appeared in a London court on Friday accused of offering to help Iran's intelligence service, the latest in a series of incidents involving Tehran and offences covered under UK national security laws.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/uk-police-charge-man-over-iran-linked-spying-offences",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T15:51:42+08:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
           },
           {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "police",
-          "offences",
-          "spying",
-          "uk_entity",
-          "linked"
-        ]
-      },
-      {
-        "title": "UK regulator Ofcom launches child safety investigation into TikTok",
-        "description": "UK regulator Ofcom has launched a formal investigation into TikTok to determine if the platform failed to protect children from harmful content.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/d7a666f7-0647-44ff-aedf-ffd18737d990.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-16T10:12:53+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: safety"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": -3,
@@ -1321,13 +775,67 @@
           }
         ],
         "group_id": 0,
+        "alternates": [
+          {
+            "title": "Wall Street ends lower as chip weakness offsets solid earnings, upbeat US economic data",
+            "description": "The weakness in chips demonstrated the lofty expectations for a sector that has soared by nearly 70% so far in 2026",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-lower-chip-weakness-offsets-solid-earnings-upbeat-us-economic-data",
+            "category": "Financial",
+            "publishedAt": "2026-07-16T22:15:48+00:00",
+            "score": 9,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "lower",
+              "chip",
+              "wall",
+              "street",
+              "earnings"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "lower",
+          "chip",
+          "wall",
+          "street",
+          "earnings"
+        ]
+      },
+      {
+        "title": "White House confirms stance on Falklands row after UK urges FIFA action against Argentina; 'First Amendment rights'",
+        "description": "Argentina players displayed a banner reading \"Las Malvinas son Argentinas\" after beating England, referencing the disputed Falkland Islands.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/white-house-confirms-stance-on-falklands-row-after-uk-urges-fifa-action-against-argentina-first-amendment-rights-101784327766096.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T05:22:58+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "tiktok",
-          "child",
-          "investigation",
-          "regulator",
-          "uk_entity"
+          "row",
+          "argentina",
+          "banner",
+          "house",
+          "falklands"
         ]
       }
     ],
@@ -1360,83 +868,202 @@
         "group_id": 1,
         "alternates": [],
         "topicFingerprint": [
-          "law",
           "japan",
+          "law",
+          "male",
           "family",
-          "succession",
           "female"
+        ]
+      },
+      {
+        "title": "Backlash in Japan over Fukuoka officials\u2019 costly overseas \u2018research trips\u2019",
+        "description": "Officials in Japan\u2019s southwestern prefecture of Fukuoka are facing growing scrutiny over a series of overseas \u201cresearch trips\u201d that included stays in Paris and London and millions of yen in hotel upgrades, as public frustration builds over political spending during a period of rising household costs",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/people/article/3361025/backlash-japan-over-fukuoka-officials-costly-overseas-research-trips",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Science",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T02:00:12+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: research"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "backlash",
+          "japan",
+          "overseas",
+          "research",
+          "trips"
         ]
       }
     ],
-    "canada": [
+    "australia": [
       {
-        "title": "AQI 600 in Detroit, floods in Texas, wildfires in California & Canada: What's fuelling America's weather chaos",
-        "description": "A stalled high pressure, drought across North America and a smoke-bearing jet stream converged into the continent's most extreme weather week in years.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/aqi-600-in-detroit-floods-in-texas-wildfires-in-california-canada-whats-fuelling-americas-weather-chaos-101784265280308.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Environment",
+        "title": "Applications close in 48 hours \u2014 here\u2019s everything Australian founders need to know about Stripe x Startup Battlefield",
+        "description": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco \u2014 no application, no further competition, a g",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-07-17T11:18:36+05:30",
+        "publishedAt": "2026-07-17T23:08:00+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "stripe",
+          "hours",
+          "battlefield",
+          "applications",
+          "close"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "White House confirms stance on Falklands row after UK urges FIFA action against Argentina; 'First Amendment rights'",
+        "description": "Argentina players displayed a banner reading \"Las Malvinas son Argentinas\" after beating England, referencing the disputed Falkland Islands.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/white-house-confirms-stance-on-falklands-row-after-uk-urges-fifa-action-against-argentina-first-amendment-rights-101784327766096.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T05:22:58+05:30",
         "reason": "within_48h",
         "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: floods"
+            "reason": "important keyword match: uk"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: drought"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "smoke",
-          "canada",
-          "us_entity",
-          "wildfires",
-          "air"
-        ]
-      },
-      {
-        "title": "Man found murdered in Canada\u2019s Ontario province immigrated from India in 2022",
-        "description": "The victim has been identified as Taranpreet Singh Sidhu, a resident of Brampton in the Greater Toronto Area. Sidhu was working as a truck driver",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/man-found-murdered-in-canada-s-ontario-province-immigrated-from-india-in-2022-101784278410033.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T14:23:29+05:30",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "murdered",
-          "ontario",
-          "immigrated",
-          "india",
-          "province"
+          "row",
+          "argentina",
+          "banner",
+          "house",
+          "falklands"
+        ]
+      },
+      {
+        "title": "UK by-election sees record 34 candidates as Farage seeks return",
+        "description": "The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T00:23:40+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "candidates",
+          "election",
+          "farage",
+          "uk_entity",
+          "record"
         ]
       }
     ],
     "europe": [
+      {
+        "title": "Tech selloff weighs on\u00a0European\u00a0shares ahead of ECB meeting next week",
+        "description": "The Stoxx 600 index was largely unchanged for the week",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/tech-selloff-weighs-european-shares-ahead-ecb-meeting-next-week",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T00:00:34+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "meeting",
+          "oneuropeanshares",
+          "selloff",
+          "weighs",
+          "tech"
+        ]
+      },
       {
         "title": "EU defangs a key pillar of its climate policy to allow more pollution",
         "description": "Europe's latest updates to its climate policy aren't great news for the planet.",
@@ -1447,7 +1074,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-17T13:01:30+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
@@ -1464,108 +1091,16 @@
           {
             "points": -1,
             "reason": "Low Quality Source match: Engadget"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "allow",
-          "pollution",
           "climate",
+          "pillar",
+          "defangs",
           "eu_entity",
-          "pillar"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "U.S. imposing 25% tariff on some Brazilian imports starting July 22, citing unfair trade practices",
-        "description": "The order exempts some goods that are not produced in the U.S. or that officials worry would disrupt supply chains",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/us-imposing-25-tariff-on-some-brazilian-imports-starting-july-22-citing-unfair-trade-practices/article71228584.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-16T12:51:02+05:30",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariff"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: imports"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: imports"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 3,
-        "alternates": [],
-        "topicFingerprint": [
-          "trade",
-          "brazilian",
-          "tariffs",
-          "tariff",
-          "us_entity"
-        ]
-      },
-      {
-        "title": "A Brazilian bay\u2019s surprise shark nursery sparks conservation project",
-        "description": "Scientists have discovered that a cove in Brazil's Ilha Grande bay is a nursery for pregnant blacktip sharks",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/brazilian-bays-surprise-shark-nursery-sparks-conservation-project-134846149",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Science",
-        "readingTime": 2,
-        "publishedAt": "2026-07-17T09:18:51-04:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "conservation",
-          "bay",
-          "surprise",
-          "shark",
-          "nursery"
+          "allow"
         ]
       }
     ],
@@ -1580,7 +1115,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-17T14:51:58+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
@@ -1597,20 +1132,16 @@
           {
             "points": -2,
             "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
           }
         ],
         "group_id": 1,
         "alternates": [],
         "topicFingerprint": [
+          "fcas",
           "chancellor",
-          "germany",
-          "cooperation",
           "merz",
-          "nuclear"
+          "macron",
+          "joint"
         ]
       }
     ],
@@ -1625,7 +1156,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-17T14:51:58+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
@@ -1642,61 +1173,47 @@
           {
             "points": -2,
             "reason": "low quality group match: said"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "fcas",
+          "chancellor",
+          "merz",
+          "macron",
+          "joint"
+        ]
+      },
+      {
+        "title": "Schmid wins Tour de France stage 13 as Pogacar stays in yellow, Pidcock fourth",
+        "description": "Mauro Schmid wins Tour de France stage 13 in Belfort. Tadej Pogacar maintains his overall lead, while Tom Pidcock finishes third to move into fourth place.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/c039433b-98ca-4f6c-bf6c-ffc1cfe49be8.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-18T00:13:35+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
           },
           {
             "points": 1,
             "reason": "less than 6 hours"
           }
         ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "chancellor",
-          "germany",
-          "cooperation",
-          "merz",
-          "nuclear"
-        ]
-      }
-    ],
-    "italy": [
-      {
-        "title": "Google loses court fight against US$854,250 Italian fine over gambling advertising",
-        "description": "Europe\u2019s top court sided with Italy\u2019s communication authority",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/google-loses-court-fight-against-us854250-italian-fine-over-gambling-advertising",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-16T09:41:09+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "google",
-          "fight",
-          "gambling",
-          "loses",
-          "fine"
+          "tour",
+          "pogacar",
+          "stage",
+          "third",
+          "lead"
         ]
       }
     ]
