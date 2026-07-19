@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:47:36.722891",
+  "updatedAt": "2026-07-19T21:42:42.025539",
   "insight": {
     "title": "Jellyfish Sleep Without a Brain",
     "subtitle": "A creature with absolutely zero thoughts still has to take a nap.",
@@ -26,26 +26,45 @@
   },
   "news": [
     {
-      "title": "War\u2019s Escalation in Iran Is an Attack on Civilians\u2019 Basic Needs",
-      "description": "As the US military announced an eighth consecutive night of strikes on Saturday against Iran\u2019s military systems, it also reportedly hit the country s water and energy facilities, food storage sites, and bridges. Iran\u2019s energy ministry told citizens to reduce their usage of electricity and air condit",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/07/wars-escalation-in-iran-is-an-attack-on-civilians-basic-needs/",
+      "title": "The UK gets its seventh prime minister in 10 years",
+      "description": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 16,
-      "why": "Iranian civilians may face severe shortages of clean water and electricity.",
-      "context": "US military strikes in Iran reportedly hit critical civilian infrastructure.",
-      "next": "Regional tensions could escalate into a broader military conflict.",
-      "bigger": "Modern warfare increasingly targets essential civilian infrastructure networks.",
-      "publishedAt": "2026-07-19T18:44:28+00:00",
+      "score": 19,
+      "why": "UK spending on defense and foreign aid may soon change.",
+      "context": "Andy Burnham became the new prime minister of the United Kingdom.",
+      "next": "The new leader will address rising tensions in the Middle East.",
+      "bigger": "Persistent political leadership changes are weakening trust in democratic institutions.",
+      "publishedAt": "2026-07-19T20:05:31+00:00",
       "topicFingerprint": [
-        "war",
-        "ukraine",
-        "russia",
-        "attack",
-        "kyiv"
+        "burnham",
+        "uk_entity",
+        "andy",
+        "prime",
+        "minister"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Burnham likely to steer steady ship on UK foreign policy",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/burnham-likely-steer-steady-ship-uk-foreign-policy-6264076",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T04:24:00+08:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "burnham",
+            "uk_entity",
+            "andy",
+            "prime",
+            "minister"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "Google and Apple AI race: Why the EU is forcing big changes to android and Siri",
@@ -55,39 +74,17 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 14,
-      "why": "You may soon choose different AI assistants on your devices.",
-      "context": "The European Union ordered Google and Apple to open AI competition.",
-      "next": "Third-party AI developers will likely gain more mobile market share.",
-      "bigger": "Tech giants face increasing regulatory pressure to share proprietary platforms.",
+      "why": "The smart devices you use may soon feature different default tools.",
+      "context": "European regulators are forcing Apple and Google to alter their systems.",
+      "next": "Tech giants may appeal the ruling to delay these mandated updates.",
+      "bigger": "Regulators worldwide are tightening controls on dominant artificial intelligence platforms.",
       "publishedAt": "2026-07-19T17:57:28+05:30",
       "topicFingerprint": [
-        "android",
+        "google",
+        "siri",
         "apple",
-        "race",
-        "eu_entity",
+        "ai_group",
         "changes"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US party heads to China to examine national security implications of trade relationship",
-      "description": "Delegates representing a United States congressional advisory panel are making their first trip to China in seven years to investigate how the two countries\u2019 economic and trade relationship affects national security. The US-China Economic and Security Review Commission has requested meetings with Ch",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361092/us-party-heads-china-examine-national-security-implications-trade-relationship",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "New trade restrictions could disrupt supply chains for global businesses.",
-      "context": "US congressional delegates are visiting China to review bilateral trade relations.",
-      "next": "The US may introduce stricter tariffs on Chinese goods.",
-      "bigger": "Economic decoupling between global superpowers continues to accelerate.",
-      "publishedAt": "2026-07-19T11:00:09+00:00",
-      "topicFingerprint": [
-        "examine",
-        "relationship",
-        "party",
-        "heads",
-        "trade"
       ],
       "alternates": []
     },
@@ -99,17 +96,17 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 15,
-      "why": "Russian consumers may face reduced access to digital banking services.",
+      "why": "Russian consumers may face transaction delays and reduced digital service access.",
       "context": "Russian citizens are increasingly using cash amid wartime economic strains.",
-      "next": "The Russian government might impose tighter controls on cash withdrawals.",
-      "bigger": "Prolonged international sanctions force domestic economies to revert to cash.",
+      "next": "The government may impose stricter limits on physical currency withdrawals.",
+      "bigger": "Prolonged international conflicts severely disrupt modern domestic banking systems.",
       "publishedAt": "2026-07-18T23:59:26+00:00",
       "topicFingerprint": [
-        "war",
         "ukraine",
+        "war",
         "russia",
-        "attack",
-        "kyiv"
+        "kyiv",
+        "attack"
       ],
       "alternates": []
     },
@@ -121,17 +118,83 @@
       "category": "Health",
       "readingTime": 2,
       "score": 7,
-      "why": "Patients may eventually gain access to new mental health treatments.",
-      "context": "A major pharmaceutical firm acquired a psychedelic drug manufacturer.",
-      "next": "Regulatory agencies will likely accelerate approval processes for psychedelic therapies.",
-      "bigger": "Alternative medicine is steadily gaining mainstream scientific and corporate backing.",
+      "why": "Patients may soon gain access to new prescription mental health therapies.",
+      "context": "A major pharmaceutical firm acquired a psychedelic drug manufacturing company.",
+      "next": "Regulators could speed up approvals for alternative mental health treatments.",
+      "bigger": "Large medical corporations are increasingly investing in previously stigmatized treatments.",
       "publishedAt": "2026-07-19T14:45:37+00:00",
       "topicFingerprint": [
-        "drugs",
-        "buy",
-        "gets",
+        "signal",
         "conditions",
-        "signal"
+        "buy",
+        "psychedelic",
+        "drugs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "An unlikely hero is saving a telescope from falling to earth",
+      "description": "An unprecedented rescue mission is underway to save a valuable space observatory before it burns up in Earth's atmosphere.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5896256/an-unlikely-hero-is-saving-a-telescope-from-falling-to-earth",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Researchers may avoid losing critical data from a major space observatory.",
+      "context": "A rescue mission is underway to save an orbiting space observatory.",
+      "next": "Engineers will attempt to boost the failing satellite into higher orbit.",
+      "bigger": "Space agencies are developing new methods to extend aging satellite lifespans.",
+      "publishedAt": "2026-07-19T09:06:54-04:00",
+      "topicFingerprint": [
+        "hero",
+        "telescope",
+        "saving",
+        "falling",
+        "unlikely"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US party heads to China to examine national security implications of trade relationship",
+      "description": "Delegates representing a United States congressional advisory panel are making their first trip to China in seven years to investigate how the two countries\u2019 economic and trade relationship affects national security. The US-China Economic and Security Review Commission has requested meetings with Ch",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361092/us-party-heads-china-examine-national-security-implications-trade-relationship",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "American importers may face new restrictions on goods from China.",
+      "context": "American congressional delegates are visiting China to investigate trade security risks.",
+      "next": "The panel will likely recommend stricter tariffs on Chinese technology imports.",
+      "bigger": "Geopolitical tensions continue to fracture global trade and manufacturing networks.",
+      "publishedAt": "2026-07-19T11:00:09+00:00",
+      "topicFingerprint": [
+        "party",
+        "security",
+        "examine",
+        "heads",
+        "implications"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Pension funds try to come to grips with the scariest global warming scenario",
+      "description": "The impact of any single climate tipping point being breached would be \u2018highly consequential\u2019, says JPMorgan",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/esg/pension-funds-try-come-grips-scariest-global-warming-scenario",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Your retirement savings may yield lower returns due to environmental risks.",
+      "context": "Investment managers are assessing the long-term risks of climate change.",
+      "next": "Fund managers may divest from heavy carbon-emitting industries more quickly.",
+      "bigger": "Financial institutions are forcing businesses to account for extreme weather costs.",
+      "publishedAt": "2026-07-19T14:02:09+00:00",
+      "topicFingerprint": [
+        "grips",
+        "scenario",
+        "pension",
+        "try",
+        "scariest"
       ],
       "alternates": []
     },
@@ -143,80 +206,39 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 21,
-      "why": "Higher fuel costs may diminish the value of your monthly income.",
-      "context": "Rising oil prices could increase future US Social Security payments.",
-      "next": "US retirees could see larger adjustment checks in coming years.",
-      "bigger": "Geopolitical supply shocks directly affect domestic pension and welfare policies.",
+      "why": "American retirees may see inflation erode their monthly benefit checks.",
+      "context": "Geopolitical tensions in a major shipping lane could increase oil prices.",
+      "next": "Energy costs will likely rise if shipping lanes remain threatened.",
+      "bigger": "Global resource supply shocks quickly affect domestic government spending programs.",
       "publishedAt": "2026-07-19T20:02:42+05:30",
       "topicFingerprint": [
-        "strait",
-        "social",
         "hormuz",
-        "checks",
-        "rising"
+        "security",
+        "strait",
+        "prices",
+        "cola"
       ],
       "alternates": []
     },
     {
-      "title": "Lebanon\u2019s president to meet Trump, push for Israeli withdrawal",
-      "description": "Lebanese President Joseph Aoun will make \u2060his first trip to the White House this week to present a plan to US President Donald Trump on how to disarm Iran-backed militant group Hezbollah and secure Israel\u2019s withdrawal from Lebanon. Aoun, who served as the commander of Lebanon\u2019s US-backed army before",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3361099/lebanons-president-meet-trump-push-israeli-withdrawal",
+      "title": "\u2018Sacred unity\u2019: Iran\u2019s supreme leader calls for calm amid political divides",
+      "description": "Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "Middle East border communities may experience safer living conditions.",
-      "context": "Lebanon's president is visiting the US to discuss border security.",
-      "next": "The US may broker a new peace agreement in Lebanon.",
-      "bigger": "Diplomatic negotiations are shifting toward direct bilateral talks with Washington.",
-      "publishedAt": "2026-07-19T08:48:44+00:00",
+      "why": "Political instability in Iran could disrupt regional security and trade.",
+      "context": "Iran's supreme leader urged political factions to end internal disputes.",
+      "next": "Hardline groups may push back against diplomatic engagement with the West.",
+      "bigger": "Internal political struggles weaken nations attempting to negotiate foreign treaties.",
+      "publishedAt": "2026-07-19T18:29:47+00:00",
       "topicFingerprint": [
-        "israel",
-        "aoun",
-        "donald_trump",
-        "lebanese",
-        "white"
-      ],
-      "alternates": [
-        {
-          "title": "Lebanon\u2019s Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-          "description": "Aoun will be the first Lebanese head of state in nearly 20 years to visit the White House.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/lebanons-aoun-to-meet-trump-at-white-house-hoping-to-generate-pressure-on-israel",
-          "category": "General",
-          "publishedAt": "2026-07-19T14:06:51+08:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "israel",
-            "aoun",
-            "donald_trump",
-            "lebanese",
-            "white"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market",
-      "description": "The reforms underscore the government\u2019s desire for currency internationalisation",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-korea-ease-forex-rules-foreigners-trade-won-push-liberalise-market",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Foreign investors will find it cheaper to trade Korean currency.",
-      "context": "South Korea is loosening foreign exchange regulations for global traders.",
-      "next": "More global capital is likely to enter South Korean markets.",
-      "bigger": "Emerging markets are opening financial systems to attract international investment.",
-      "publishedAt": "2026-07-19T04:51:47+00:00",
-      "topicFingerprint": [
-        "foreigners",
-        "push",
-        "liberalise",
-        "sk_entity",
-        "rules"
+        "calls",
+        "sacred",
+        "supreme",
+        "divides",
+        "political"
       ],
       "alternates": []
     },
@@ -228,17 +250,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Hungarian citizens may experience shifts in domestic political leadership.",
-      "context": "Hungary's president signed an amendment ending his own term.",
-      "next": "The ruling party will likely nominate a new presidential candidate.",
-      "bigger": "Constitutional changes are increasingly used to reshape national political landscapes.",
+      "why": "Hungarian citizens may face political shifts as leadership roles are restructured.",
+      "context": "Hungary's president signed an amendment that ends his term early.",
+      "next": "The ruling party will likely appoint a new president very soon.",
+      "bigger": "Parliamentary majorities are increasingly using constitutional changes to consolidate power.",
       "publishedAt": "2026-07-18T23:10:29+00:00",
       "topicFingerprint": [
-        "magyar",
-        "hungary",
-        "sulyok",
+        "change",
+        "office",
+        "signs",
         "law",
-        "ending"
+        "prime"
       ],
       "alternates": [
         {
@@ -251,211 +273,35 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "magyar",
-            "hungary",
-            "sulyok",
+            "change",
+            "office",
+            "signs",
             "law",
-            "ending"
+            "prime"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "An unlikely hero is saving a telescope from falling to earth",
-      "description": "An unprecedented rescue mission is underway to save a valuable space observatory before it burns up in Earth's atmosphere.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5896256/an-unlikely-hero-is-saving-a-telescope-from-falling-to-earth",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Scientists may avoid losing critical data on deep space.",
-      "context": "An unscheduled rescue mission aims to save a falling space telescope.",
-      "next": "Engineers will attempt to boost the telescope to a safer orbit.",
-      "bigger": "Private aerospace entities are playing larger roles in public scientific preservation.",
-      "publishedAt": "2026-07-19T09:06:54-04:00",
-      "topicFingerprint": [
-        "saving",
-        "earth",
-        "hero",
-        "telescope",
-        "unlikely"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Samsung cuts US jobs as headquarters moves to Texas, 739 roles affected",
-      "description": "Samsung cuts US jobs as it moves its consumer electronics headquarters to Texas. Layoffs affect New Jersey and Texas amid a wider AI business shift.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/samsung-cuts-us-jobs-as-headquarters-moves-to-texas-739-roles-affected-101784457947698.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Tech workers in New Jersey and Texas face immediate unemployment.",
-      "context": "Samsung is cutting US jobs while relocating its electronics headquarters.",
-      "next": "Displaced workers will likely seek new roles in competing firms.",
-      "bigger": "Tech corporations are consolidating operations to fund artificial intelligence initiatives.",
-      "publishedAt": "2026-07-19T17:11:23+05:30",
-      "topicFingerprint": [
-        "headquarters",
-        "roles",
-        "moves",
-        "texas",
-        "samsung"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak",
-      "description": "Taylor Farms has confirmed that this product is not part of its current recall.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/sample-of-iceberg-lettuce-supplied-by-taylor-farms-tested-positive-for-us-parasite-outbreak",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 7,
-      "why": "You may face foodborne illness if you consume contaminated produce.",
-      "context": "A batch of iceberg lettuce tested positive for a parasite.",
-      "next": "Health agencies could expand food safety warnings for grocery shoppers.",
-      "bigger": "Global food supply chains require stricter pathogens testing to protect consumers.",
-      "publishedAt": "2026-07-19T08:01:00+08:00",
-      "topicFingerprint": [
-        "lettuce",
-        "outbreak",
-        "iceberg",
-        "taylor",
-        "farms"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
-      "description": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem",
+      "title": "China firm seeks damages over state control of British Steel",
+      "description": "The UK government took over British Steel last year to prevent the closure of the country's last primary steelmaking facility. China's Jingye Group, which bought the firm in 2020, claims it is owed compensation.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119",
       "category": "Policy",
       "readingTime": 2,
-      "score": 12,
-      "why": "Palestinian children may lose access to their existing school curriculum.",
-      "context": "New Israeli legislation targets the Palestinian school system in East Jerusalem.",
-      "next": "Local communities will likely set up informal alternative school networks.",
-      "bigger": "Legal frameworks are increasingly deployed to control occupied civic infrastructure.",
-      "publishedAt": "2026-07-19T15:46:23+00:00",
-      "topicFingerprint": [
-        "destroy",
-        "uses",
-        "israel",
-        "education",
-        "palestinian"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The Company Brain and the Future of Go-to-Market Strategy",
-      "description": "Founders eagerly bought into the promise of autonomous agents over the past year, and software usage skyrocketed across the industry as teams rushed to adopt the latest tools. Despite this massive investment in new technology, sales pipelines remained completely flat. This is the ultimate paradox fa",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/company-brain-future-go-to-market-strategy",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Sales teams may see their traditional roles automated by software.",
-      "context": "Businesses are rapidly adopting autonomous AI agents for market strategies.",
-      "next": "More startups will build hyper-specific AI tools for enterprise sales.",
-      "bigger": "Corporate workflows are transitioning from human-led tasks to automated agents.",
-      "publishedAt": "2026-07-19T11:24:00+00:00",
-      "topicFingerprint": [
-        "future",
-        "brain",
-        "strategy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India\u2019s private lenders bet on corporate loan revival for growth",
-      "description": "The pickup comes as high bond yields make market funding less attractive",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-private-lenders-bet-corporate-loan-revival-growth",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Indian businesses may secure easier credit to expand operations.",
-      "context": "Indian private banks are focusing on corporate lending for expansion.",
-      "next": "Corporate loan volumes in India are expected to rise significantly.",
-      "bigger": "Rising bond yields are pushing corporations back to traditional bank financing.",
-      "publishedAt": "2026-07-19T09:48:32+00:00",
-      "topicFingerprint": [
-        "bet",
-        "corporate",
-        "lenders",
-        "private",
-        "loan"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Which parts of New York are under a flash flood warning today? Full list of affected areas",
-      "description": "Severe flooding from heavy rain closed the Clearview Expressway and disrupted transportation throughout NYC.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/which-parts-of-new-york-are-under-a-flash-flood-warning-today-full-list-of-affected-areas-101784403624117.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "New York commuters face severe travel delays and road closures today.",
-      "context": "Heavy rainfall triggered flash flood warnings across parts of New York.",
-      "next": "Emergency services will work to clear flooded expressways and roads.",
-      "bigger": "Urban infrastructure struggles to cope with increasingly intense rain events.",
-      "publishedAt": "2026-07-19T01:21:34+05:30",
-      "topicFingerprint": [
-        "flood",
-        "today",
-        "parts",
-        "york",
-        "affected"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Israel clears way for crocodiles to stop prison breaks",
-      "description": "Israel's environment minister has reclassified crocodiles so that they can now be used for security purposes. Far-right Security Minister Itamar Ben-Gvir reportedly wants them to surround a jail holding Hamas militants.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-clears-way-for-crocodiles-to-stop-prison-breaks/a-78022950",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Detainees may face dangerous wild predators near containment facilities.",
-      "context": "Israel reclassified crocodiles to allow their use for prison security.",
-      "next": "Animal rights groups will likely protest the deployment of crocodiles.",
-      "bigger": "Governments are testing unconventional security methods to manage high-risk facilities.",
-      "publishedAt": "2026-07-19T06:39:00+00:00",
-      "topicFingerprint": [
-        "prison",
-        "crocodiles",
-        "way",
-        "breaks",
-        "israel"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Chinese company demands compensation from the UK over British Steel nationalization",
-      "description": "Jingye Group, the former owner of British Steel, has demanded compensation from the U.K. government for investment losses after the company's nationalization last week",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/chinese-company-demands-compensation-uk-british-steel-nationalization-134887645",
-      "category": "Financial",
-      "readingTime": 2,
       "score": 9,
-      "why": "UK taxpayers could fund multi-million dollar settlement payouts to foreign owners.",
-      "context": "A Chinese firm demanded compensation following the nationalization of British Steel.",
-      "next": "The dispute will likely head to international arbitration courts soon.",
-      "bigger": "Nationalizing strategic industries creates complex legal conflicts with international investors.",
-      "publishedAt": "2026-07-19T04:22:45-04:00",
+      "why": "British taxpayers may face high legal costs from the asset nationalization.",
+      "context": "A Chinese company is demanding compensation following Britain's steel nationalization.",
+      "next": "International courts will review the financial claims made by the investor.",
+      "bigger": "Governments are increasingly prioritizing national security over foreign business investments.",
+      "publishedAt": "2026-07-19T10:45:00+00:00",
       "topicFingerprint": [
         "uk_entity",
+        "jingye",
+        "compensation",
         "steel",
-        "china_entity",
-        "group",
-        "jingye"
+        "group"
       ],
       "alternates": [
         {
@@ -469,10 +315,10 @@
           "readingTime": 2,
           "topicFingerprint": [
             "uk_entity",
+            "jingye",
+            "compensation",
             "steel",
-            "china_entity",
-            "group",
-            "jingye"
+            "group"
           ],
           "group_id": 0
         },
@@ -487,34 +333,251 @@
           "readingTime": 2,
           "topicFingerprint": [
             "uk_entity",
+            "jingye",
+            "compensation",
             "steel",
-            "china_entity",
-            "group",
-            "jingye"
+            "group"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "All Android backup data now counts toward your Google Account storage [Update: Email]",
-      "description": "Google is making a policy change to Android backups that adjusts what counts toward your Google Account storage.",
-      "source": "9To5Google",
-      "url": "https://9to5google.com/2026/07/18/android-backup-data-update/",
+      "title": "India\u2019s private lenders bet on corporate loan revival for growth",
+      "description": "The pickup comes as high bond yields make market funding less attractive",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-private-lenders-bet-corporate-loan-revival-growth",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Indian businesses may find it easier to secure funding for expansion.",
+      "context": "Indian banks are focusing on corporate lending to drive profit growth.",
+      "next": "Private lenders will likely ease credit requirements for corporate borrowers.",
+      "bigger": "Emerging markets are relying on domestic banking sectors to stimulate manufacturing.",
+      "publishedAt": "2026-07-19T09:48:32+00:00",
+      "topicFingerprint": [
+        "private",
+        "india",
+        "rocket",
+        "launches",
+        "vikram"
+      ],
+      "alternates": []
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "Samsung cuts US jobs as headquarters moves to Texas, 739 roles affected",
+      "description": "Samsung cuts US jobs as it moves its consumer electronics headquarters to Texas. Layoffs affect New Jersey and Texas amid a wider AI business shift.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/samsung-cuts-us-jobs-as-headquarters-moves-to-texas-739-roles-affected-101784457947698.html",
+      "category": "General",
+      "readingTime": 2,
+      "score": 17,
+      "why": "Workers in the tech sector may face a more competitive job market.",
+      "context": "Samsung is cutting US corporate roles during its headquarters relocation.",
+      "next": "Laid-off employees will seek new positions within the technology industry.",
+      "bigger": "Major companies are restructuring workforces to fund new artificial intelligence initiatives.",
+      "publishedAt": "2026-07-19T17:11:23+05:30",
+      "topicFingerprint": [
+        "headquarters",
+        "roles",
+        "jobs",
+        "texas",
+        "affected"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why a modest US interest rate rise won\u2019t change much for most businesses",
+      "description": "Rates may rise, but don\u2019t be too concerned \u2013 a small increase is unlikely to change major decisions on investment or hiring With the appointment of a new Federal Reserve chair, the latest concern is that interest rates will go up in the next few months. That decision will depend on many factors, inc",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Your borrowing costs may remain stable despite minor policy adjustments.",
+      "context": "Experts believe minor interest rate increases will not stall corporate growth.",
+      "next": "Central banks will monitor economic data before deciding on further hikes.",
+      "bigger": "Modern corporations have become less sensitive to minor central bank policy shifts.",
+      "publishedAt": "2026-07-19T14:00:28+00:00",
+      "topicFingerprint": [
+        "rise",
+        "change",
+        "won",
+        "businesses",
+        "interest"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "War\u2019s Escalation in Iran Is an Attack on Civilians\u2019 Basic Needs",
+      "description": "As the US military announced an eighth consecutive night of strikes on Saturday against Iran\u2019s military systems, it also reportedly hit the country s water and energy facilities, food storage sites, and bridges. Iran\u2019s energy ministry told citizens to reduce their usage of electricity and air condit",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/07/wars-escalation-in-iran-is-an-attack-on-civilians-basic-needs/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Iranian civilians may face severe shortages of clean water and electricity.",
+      "context": "Air strikes on military targets damaged vital civilian infrastructure in Iran.",
+      "next": "Humanitarian groups will struggle to deliver aid to the affected regions.",
+      "bigger": "Modern military conflicts increasingly jeopardize crucial civilian resources and survival systems.",
+      "publishedAt": "2026-07-19T18:44:28+00:00",
+      "topicFingerprint": [
+        "attack",
+        "war",
+        "basic",
+        "civilians",
+        "needs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Israel uses law to destroy Palestinian education in East Jerusalem",
+      "description": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Palestinian families may lose access to traditional community schools and curriculums.",
+      "context": "New Israeli legislation targets the Palestinian school system in East Jerusalem.",
+      "next": "Legal challenges will likely contest the school closure policies in court.",
+      "bigger": "Governments are increasingly using legal mechanisms to restrict minority educational systems.",
+      "publishedAt": "2026-07-19T15:46:23+00:00",
+      "topicFingerprint": [
+        "law",
+        "education",
+        "palestinian",
+        "israel",
+        "east"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The Company Brain and the Future of Go-to-Market Strategy",
+      "description": "Founders eagerly bought into the promise of autonomous agents over the past year, and software usage skyrocketed across the industry as teams rushed to adopt the latest tools. Despite this massive investment in new technology, sales pipelines remained completely flat. This is the ultimate paradox fa",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/company-brain-future-go-to-market-strategy",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "The business tools you use at work may become fully automated.",
+      "context": "Businesses are rapidly adopting autonomous software tools for their sales strategies.",
+      "next": "Tech firms will develop advanced digital agents to replace repetitive tasks.",
+      "bigger": "Artificial intelligence is transforming traditional corporate structures and marketing methods.",
+      "publishedAt": "2026-07-19T11:24:00+00:00",
+      "topicFingerprint": [
+        "strategy",
+        "future",
+        "brain"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Israel clears way for crocodiles to stop prison breaks",
+      "description": "Israel's environment minister has reclassified crocodiles so that they can now be used for security purposes. Far-right Security Minister Itamar Ben-Gvir reportedly wants them to surround a jail holding Hamas militants.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-clears-way-for-crocodiles-to-stop-prison-breaks/a-78022950",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Detainees and guards may face severe physical risks from wild animals.",
+      "context": "Israel legalized using crocodiles as security measures around a detention facility.",
+      "next": "Human rights organizations will likely contest the use of dangerous animals.",
+      "bigger": "Security forces are seeking extreme measures to control high-risk prison populations.",
+      "publishedAt": "2026-07-19T06:39:00+00:00",
+      "topicFingerprint": [
+        "breaks",
+        "clears",
+        "prison",
+        "stop",
+        "way"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "description": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "American consumers may need to avoid buying certain packaged salad brands.",
+      "context": "Health authorities traced a foodborne illness outbreak to contaminated iceberg lettuce.",
+      "next": "Distributors will recall potentially contaminated lettuce from grocery store shelves.",
+      "bigger": "Agricultural supply chains remain highly vulnerable to widespread pathogen contamination.",
+      "publishedAt": "2026-07-19T15:17:23+00:00",
+      "topicFingerprint": [
+        "lettuce",
+        "outbreak",
+        "iceberg",
+        "farms",
+        "taylor"
+      ],
+      "alternates": [
+        {
+          "title": "Walmart removes some salad products from its shelves in response to the cyclospora outbreak",
+          "description": "Lettuce sold at Taco Bell in five states has been linked to the multi-state cyclosporiasis outbreak.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/cyclospora-outbreak-cause-identified-contaminated-lettuce-2026-7",
+          "category": "Health",
+          "publishedAt": "2026-07-19T17:41:07+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lettuce",
+            "outbreak",
+            "iceberg",
+            "farms",
+            "taylor"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "category": "Technology",
       "readingTime": 2,
       "score": 8,
-      "why": "You may need to pay monthly fees to back up files.",
-      "context": "Google is ending free cloud storage for Android device backup data.",
-      "next": "Users will begin deleting files to free up digital storage space.",
-      "bigger": "Tech companies are raising subscription revenues by limiting free storage tiers.",
-      "publishedAt": "2026-07-18T19:05:00+00:00",
+      "why": "Consumers may wait longer to purchase dedicated artificial intelligence physical products.",
+      "context": "An Apple lawsuit could disrupt OpenAI's plans to develop consumer devices.",
+      "next": "Tech companies will modify their hardware designs to avoid legal disputes.",
+      "bigger": "Patent litigation is becoming a primary battleground for dominant tech giants.",
+      "publishedAt": "2026-07-19T19:24:45+00:00",
       "topicFingerprint": [
-        "android",
-        "email",
-        "backup",
-        "data",
-        "toward"
+        "apple",
+        "hardware",
+        "openai",
+        "derail",
+        "plans"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Don\u2019t make yourself unhappy by comparing your finances with others\u2019: ST InvestMe panel",
+      "description": "The second ST InvestMe event discussed how to build financial security while prioritising well-being.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/dont-make-yourself-unhappy-by-comparing-your-finances-with-others-st-investme-panel",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 8,
+      "why": "You may improve your mental health by tracking your own savings.",
+      "context": "Financial advisors held a seminar on building wealth without sacrificing well-being.",
+      "next": "Investors will likely shift their focus toward personalized financial goals.",
+      "bigger": "The wealth management sector is increasingly addressing consumer anxiety and wellness.",
+      "publishedAt": "2026-07-20T05:00:00+08:00",
+      "topicFingerprint": [
+        "don",
+        "comparing",
+        "yourself",
+        "others",
+        "unhappy"
       ],
       "alternates": []
     },
@@ -526,17 +589,17 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Citizens can assess government reasoning behind escalating overseas military operations.",
-      "context": "US officials discussed recent military strikes against Iran on television.",
-      "next": "Congress will debate the limits of executive authority regarding military strikes.",
-      "bigger": "Public talk shows remain central arenas for broadcasting foreign policy agendas.",
+      "why": "Global oil prices and shipping security may fluctuate as tensions rise.",
+      "context": "US officials discussed recent military strikes against Iranian targets on television.",
+      "next": "Lawmakers will debate the scale of future military actions in Congress.",
+      "bigger": "Media broadcasts play a critical role in shaping public support during conflicts.",
       "publishedAt": "2026-07-19T10:30:00-04:00",
       "topicFingerprint": [
-        "nation",
-        "face",
+        "election",
         "margaret",
-        "brennan",
-        "us_entity"
+        "security",
+        "face",
+        "cbs"
       ],
       "alternates": [
         {
@@ -549,38 +612,79 @@
           "score": 3,
           "readingTime": 2,
           "topicFingerprint": [
-            "nation",
-            "face",
+            "election",
             "margaret",
-            "brennan",
-            "us_entity"
+            "security",
+            "face",
+            "cbs"
           ],
-          "group_id": 2
+          "group_id": 0
         }
       ]
     }
   ],
   "regionalNewsByCountry": {
-    "uk": [
+    "canada": [
       {
-        "title": "Burnham likely to steer steady ship on British foreign policy",
-        "description": "He could take a tougher line on Israel.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/burnham-likely-to-steer-steady-ship-on-british-foreign-policy",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "title": "Trump threatens Canada with tariffs over wildfire smoke pollution",
+        "description": "Donald Trump threatens Canada with tariffs as wildfire smoke creates hazardous air quality in the US, accusing Canada of not properly maintaining its forests.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/2bada268-1dac-41d2-bcc6-08b8c5a40172.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-19T11:08:00+08:00",
+        "publishedAt": "2026-07-19T00:08:05+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: policy"
+            "reason": "important keyword match: tariffs"
           },
           {
             "points": 2,
-            "reason": "important keyword match: israel"
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "wildfire",
+          "air",
+          "canada",
+          "us_entity",
+          "threatens"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea to ease forex rules for foreigners to trade won in push to liberalise market",
+        "description": "The reforms underscore the government\u2019s desire for currency internationalisation",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/south-korea-ease-forex-rules-foreigners-trade-won-push-liberalise-market",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-19T04:51:47+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
           },
           {
             "points": 4,
@@ -588,17 +692,21 @@
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "burnham",
-          "uk_entity",
-          "andy",
-          "incoming",
-          "prime"
+          "liberalise",
+          "forex",
+          "foreigners",
+          "rules",
+          "trade"
         ]
       }
     ],
@@ -641,84 +749,75 @@
           }
         ],
         "group_id": 1,
-        "alternates": [],
+        "alternates": [
+          {
+            "title": "India's Skyroot launches Vikram-1 in first private orbital rocket mission",
+            "description": "",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/07/18/indias-skyroot-launches-first-private-orbital-rocket-mission.html",
+            "category": "General",
+            "publishedAt": "2026-07-18T11:16:49+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "private",
+              "india",
+              "rocket",
+              "launches",
+              "vikram"
+            ],
+            "group_id": 1
+          }
+        ],
         "topicFingerprint": [
-          "launches",
-          "vikram",
+          "private",
           "india",
           "rocket",
-          "skyroot"
+          "launches",
+          "vikram"
         ]
       },
       {
-        "title": "India\u2019s cockroach politics is no joke",
-        "description": "The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "title": "India bans march on parliament by \u2018Cockroach\u2019 activists, risking a standoff",
+        "description": "Police in New Delhi on Sunday banned a planned march on the Indian parliament by supporters of the viral, opposition Cockroach Janata Party. The demonstration set for Monday, the start of parliament's monsoonsession, follows growing calls for the education minister's resignation over exam paper leak",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/asia-pacific/20260719-india-bans-march-on-parliament-by-cockroach-activists-risking-a-standoff",
+        "fromUrl": "https://www.france24.com/en/rss",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-19T11:57:47+00:00",
+        "publishedAt": "2026-07-19T20:40:10+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 6,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: exam"
+          },
           {
             "points": 2,
             "reason": "important keyword match: india"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "important keyword match: education"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
           "cockroach",
-          "joke",
-          "india",
-          "politics"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "China plans to hit an asteroid with a Mach 26 projectile in planet defence test",
-        "description": "China\u2019s first planetary defence mission appears to be far more ambitious than Nasa\u2019s Double Asteroid Redirection Test (Dart), according to a new paper outlining its plan to slam a spacecraft into an asteroid before 2030. Unlike Dart, a proof-of-concept that nudged one asteroid\u2019s orbit around another",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3360752/china-plans-hit-asteroid-mach-26-projectile-planet-defence-test",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-19T12:00:08+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "asteroid",
-          "projectile",
-          "planet",
-          "test",
-          "mach"
+          "activists",
+          "standoff",
+          "risking",
+          "parliament"
         ]
       }
     ],
@@ -751,11 +850,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "coup",
-          "warns",
+          "exercise",
+          "caution",
           "escalations",
-          "recent",
-          "claims"
+          "soft",
+          "warns"
         ]
       },
       {
@@ -794,11 +893,48 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "centre",
-          "protests",
           "backlash",
+          "grows",
+          "centre",
           "data",
-          "grows"
+          "protests"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "What to watch for after Jensen Huang\u2019s Japan visit",
+        "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "fromUrl": "https://techcrunch.com/feed/",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-19T21:16:07+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "watch",
+          "jensen",
+          "visit",
+          "japan",
+          "huang"
         ]
       }
     ],
@@ -831,10 +967,10 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "larger",
+          "seeks",
           "role",
+          "larger",
           "regional",
-          "eu_entity",
           "tensions"
         ]
       },
@@ -860,153 +996,50 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ban",
+          "effect",
           "clothes",
           "unsold",
-          "effect",
-          "eu_entity"
+          "ban",
+          "destroying"
         ]
       }
     ],
-    "brazil": [
+    "singapore": [
       {
-        "title": "Brazil's top court suspends visits to Bolsonaro and bars Argentina's Milei",
-        "description": "Brazilian Supreme Court Justice Alexandre de Moraes denied Javier Milei's request to visit Jair Bolsonaro and suspended visits for a 30-day period.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/2d10a049-bb85-4542-94df-7699a780289b.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-18T19:12:50+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: supreme court"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "bolsonaro",
-          "suspends",
-          "bars",
-          "visits",
-          "top"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-        "description": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "title": "Users of Meta\u2019s Facebook, Instagram report suffering some outages, including in Singapore",
+        "description": "Downdetector logged 196 reports that Facebook website was inaccessible in Singapore as at 4.42pm.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/users-of-metas-facebook-instagram-report-suffering-some-outages-including-in-singapore",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-18T19:11:33+00:00",
+        "publishedAt": "2026-07-19T17:12:00+08:00",
         "reason": "within_48h",
         "score": 4,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "important keyword match: u.s"
+            "points": 3,
+            "reason": "company keyword match: meta"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "becoming",
-          "korean",
-          "beauty",
-          "mainstream",
-          "products"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-        "description": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their child through a surrogate mother in the US.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-18T19:57:00+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "germany",
-          "spahn",
-          "resigns",
-          "surrogacy",
-          "cdu"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "France doubles down on restricting access to Polymarket",
-        "description": "The country's gambling authority ordered ISPs to block access to the prediction market's website.",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
-        "fromUrl": "https://www.engadget.com/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-18T19:41:51+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Engadget"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "france",
-          "polymarket",
-          "restricting",
-          "access",
-          "doubles"
+          "meta",
+          "instagram",
+          "users",
+          "facebook",
+          "outages"
         ]
       }
     ]
