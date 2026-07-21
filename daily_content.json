@@ -1,53 +1,30 @@
 {
-  "updatedAt": "2026-07-20T23:48:25.705105",
+  "updatedAt": "2026-07-21T04:58:52.900474",
   "insight": {
-    "title": "Fungi Redesign Their Networks in Real Time to Save Energy",
-    "subtitle": "Without a brain, underground mycelium dynamically transitions from a wide-reaching search grid into a single, high-speed transport pipeline.",
-    "notificationHook": "Fungi redesign their networks in real-time",
+    "title": "Why Train Tracks Are This Specific Width",
+    "subtitle": "The standard spacing of modern railway tracks was decided by the backside of Roman war horses.",
+    "notificationHook": "Train tracks are this wide for a reason",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "To find food, underground fungi cast a wide, delicate net in all directions. But the instant a single thread touches nutrients, this sprawling search grid vanishes, replaced by one thick, high-speed transit cord."
+        "text": "Every major railway in America and Europe uses a highly specific standard track width of four feet, 8.5 inches. This arbitrary number was actually determined by the wheels of ancient Roman war chariots."
       },
       {
         "type": "paragraph",
-        "text": "The fungus systematically dissolves its empty search branches. It quickly reclaims those raw materials and channels them directly into reinforcing the single, winning route, cutting down on unnecessary maintenance costs."
+        "text": "Roman empire roads were carved with deep ruts by heavy imperial chariots. To prevent their wagons from breaking, later European carriage makers spaced their wheels exactly to fit those ancient, pre-existing stone grooves."
       },
       {
         "type": "paragraph",
-        "text": "This fluid architecture allows the network to constantly self-optimize. By transitioning from an expansive search engine to a dedicated cargo highway, it never wastes energy maintaining infrastructure it does not need."
+        "text": "When English engineers built the first steam railroads, they used those same carriage tools. Early immigrants brought this measurement to America, cementing a Roman imperial design into our modern high-speed transit networks."
       },
       {
         "type": "paragraph",
-        "text": "Fungi build perfect infrastructure by constantly dismantling the unused."
+        "text": "Even our space rockets were shaped by Roman horses."
       }
     ]
   },
   "news": [
-    {
-      "title": "Oil prices soar above $90 as U.S.-Iran conflict escalates",
-      "description": "Oil prices soar above $90 as the U.S.-Iran conflict escalates, with American forces continuing strikes against Iranian targets.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/68f9a233-3661-4200-b89f-9b7048826c82.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 19,
-      "why": "Your household energy bills and fuel costs may rise soon.",
-      "context": "U.S. military strikes in Iran triggered a surge in global oil prices.",
-      "next": "Energy markets will likely see continued price swings as hostilities persist.",
-      "bigger": "Geopolitical conflicts are increasingly threatening the stability of global energy supplies.",
-      "publishedAt": "2026-07-20T09:05:59+00:00",
-      "topicFingerprint": [
-        "iran",
-        "us_entity",
-        "war",
-        "oil",
-        "conflict",
-        "prices"
-      ],
-      "alternates": []
-    },
     {
       "title": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
       "description": "US President Donald Trump signed orders on Monday imposing new 50% tariffs on some Canadian goods, citing what the White House called Canada's \"discriminatory treatment\" of US alcohol, automobiles and dairy products. The tariffs take effect in 30 days, with energy, potash and sector-specific imports",
@@ -55,18 +32,18 @@
       "url": "https://www.france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 16,
-      "why": "Consumers may face higher prices for alcohol and imported vehicles.",
-      "context": "The U.S. government imposed steep tariffs on select Canadian imports.",
-      "next": "Canada is expected to announce retaliatory trade measures very soon.",
-      "bigger": "Trade protectionism between close allies is disrupting historic economic partnerships.",
+      "score": 14,
+      "why": "American consumers may face higher prices for Canadian goods.",
+      "context": "The US imposed major new tariffs on select imported Canadian goods.",
+      "next": "Canada will likely retaliate with its own import taxes.",
+      "bigger": "Trade wars between major North American partners are intensifying.",
       "publishedAt": "2026-07-20T21:46:52+00:00",
       "topicFingerprint": [
-        "canadian",
         "tariffs",
         "donald_trump",
-        "goods",
-        "us_entity"
+        "canadian",
+        "us_entity",
+        "goods"
       ],
       "alternates": [
         {
@@ -76,16 +53,34 @@
           "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
           "category": "Geopolitics",
           "publishedAt": "2026-07-20T22:13:57+00:00",
-          "score": 16,
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "canadian",
             "tariffs",
             "donald_trump",
-            "goods",
-            "us_entity"
+            "canadian",
+            "us_entity",
+            "goods"
           ],
-          "group_id": 2
+          "group_id": 1
+        },
+        {
+          "title": "Trump orders new 50% tariff on many Canadian goods, escalating trade war",
+          "description": "US President Donald Trump signed orders on Monday to impose new 50 per cent tariffs on many Canadian goods, claiming \u201cdiscriminatory treatment\u201d by Ottawa against American alcohol, automobile and dairy products. The tariffs take effect in 30 days and cover various items including wine, hockey sticks ",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361268/trump-imposes-50-tariffs-canadian-goods-citing-disputes-over-cars-alcohol-and-cheese",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T21:59:49+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "tariffs",
+            "donald_trump",
+            "canadian",
+            "us_entity",
+            "goods"
+          ],
+          "group_id": 1
         },
         {
           "title": "The US-Canada trade war heats up again as Trump imposes a 50% tariff on some Canadian goods",
@@ -94,52 +89,209 @@
           "url": "https://www.businessinsider.com/trump-canada-tariffs-section388-wildfire-smoke-2026-7",
           "category": "Geopolitics",
           "publishedAt": "2026-07-20T22:12:54+00:00",
-          "score": 15,
+          "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
-            "canadian",
             "tariffs",
             "donald_trump",
-            "goods",
-            "us_entity"
+            "canadian",
+            "us_entity",
+            "goods"
           ],
-          "group_id": 2
+          "group_id": 1
         },
         {
-          "title": "Trump imposes 50% tariffs on Canadian goods over trade disputes",
-          "description": "President Trump imposed 50% tariffs on Canadian goods in response to discriminatory treatment of American automobiles, alcohol, and dairy products.",
+          "title": "Trump imposes 50% tariffs on Canadian goods over trade discrimination",
+          "description": "President Donald Trump imposes 50% tariffs on various Canadian goods over discriminatory treatment of American automobiles, alcohol, and dairy products.",
           "source": "Frontpage",
           "url": "https://frontpage.ink/bf88771f-dc52-4ae7-9953-7d0b85ed4b39.html",
           "category": "Geopolitics",
           "publishedAt": "2026-07-20T22:37:52+00:00",
-          "score": 14,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "canadian",
-            "tariffs",
-            "donald_trump",
-            "goods",
-            "us_entity"
-          ],
-          "group_id": 2
-        },
-        {
-          "title": "Trump orders new 50% tariff on many Canadian goods",
-          "description": "The new tariffs will take effect in 30 days and cover products such as wine, hockey sticks and cement.",
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/world/trump-orders-new-50-tariff-many-canadian-goods-6266666",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-21T05:54:00+08:00",
           "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "canadian",
             "tariffs",
             "donald_trump",
-            "goods",
-            "us_entity"
+            "canadian",
+            "us_entity",
+            "goods"
           ],
-          "group_id": 2
+          "group_id": 1
+        },
+        {
+          "title": "Trump orders new 50% tariff on many Canadian goods, claims \u2018discriminatory treatment\u2019 of US products",
+          "description": "The tariffs take effect in 30 days and cover various items including wine, hockey sticks and cement, said the White House.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/trump-orders-new-50-percent-tariff-on-many-canadian-goods-claims-discriminatory-treatment-us-products-101784600150751.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-21T08:01:52+05:30",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "tariffs",
+            "donald_trump",
+            "canadian",
+            "us_entity",
+            "goods"
+          ],
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "title": "Oil prices dip as mediation efforts offset US-Iran strikes",
+      "description": "",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-as-mediation-efforts-offset-usiran-strikes-4801819",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 21,
+      "why": "Your fuel and heating costs may drop in the coming weeks.",
+      "context": "Global crude prices fell due to rising hopes for diplomatic talks.",
+      "next": "Energy markets will remain highly sensitive to diplomatic developments.",
+      "bigger": "Geopolitical conflicts continue to drive volatile energy price swings.",
+      "publishedAt": "2026-07-21T04:42:30+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "war",
+        "oil",
+        "strikes",
+        "prices"
+      ],
+      "alternates": [
+        {
+          "title": "Oil prices soar above $90 as U.S.-Iran conflict escalates",
+          "description": "Oil prices soar above $90 as the U.S.-Iran conflict escalates, with American forces continuing strikes against Iranian targets.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/68f9a233-3661-4200-b89f-9b7048826c82.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T09:05:59+00:00",
+          "score": 19,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "China won\u2019t waste its reserves to cushion oil price impact of Iran war",
+          "description": "Oil prices are set to rise once more as renewed US attacks on Iran leave the Strait of Hormuz, a major artery of oil trade, closed again. With US strategic petroleum reserves at their lowest in over 40 years, America will have trouble keeping oil prices below US$100 a barrel, as it has mostly done i",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3360973/china-wont-waste-its-reserves-cushion-oil-price-impact-iran-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T21:30:07+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+          "description": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T10:12:36+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "US gas prices top $4 per gallon again as US-Iran conflict disrupts Strait of Hormuz",
+          "description": "US gas prices top $4 per gallon as the US-Iran conflict disrupts Strait of Hormuz oil flows. Rising crude prices may keep fuel costs high for weeks.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/us-gas-prices-top-4-per-gallon-again-as-us-iran-conflict-disrupts-strait-of-hormuz-101784545798203.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T16:45:30+05:30",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
+          "description": "Brent crude futures peaked around $126 \u2013 comfortably below 2008\u2019s all-time high of $147 \u2013 and averaged just $101 a barrel between the start of the conflict on February 28 and June 11, when US President Donald Trump called off strikes on Iran, before briefly retreating to pre-war levels of $70 in ear",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/business/why-oil-prices-havent-gone-crazy-despite-5-months-of-us-iran-war-19949752.htm",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-20T16:42:46+05:30",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
+          "description": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel \u2014 the highest price since June 11",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-21T01:43:56+05:30",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "2 oil tankers in Hormuz exploded and immobilised, says Iran; US strikes Iran for ninth day",
+          "description": "Rubio said the US would continue to target Iran while it attacked global commercial shipping",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/2-oil-tankers-hormuz-exploded-and-immobilised-says-iran-us-strikes-iran-ninth-day",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-19T23:50:33+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "war",
+            "oil",
+            "strikes",
+            "prices"
+          ],
+          "group_id": 0
         }
       ]
     },
@@ -150,11 +302,11 @@
       "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
       "category": "Technology",
       "readingTime": 2,
-      "score": 23,
-      "why": "Tech companies will have more options for purchasing powerful hardware.",
-      "context": "AMD launched a new artificial intelligence system to compete with Nvidia.",
-      "next": "Competition may drive down the cost of building advanced software.",
-      "bigger": "Big tech firms are aggressively building out infrastructure for artificial intelligence.",
+      "score": 22,
+      "why": "Tech businesses may soon enjoy cheaper access to powerful hardware.",
+      "context": "AMD introduced a new artificial intelligence hardware system to challenge Nvidia.",
+      "next": "Competition will likely drive down the cost of cloud services.",
+      "bigger": "The global race to control artificial intelligence infrastructure is accelerating.",
       "publishedAt": "2026-07-20T16:16:18+00:00",
       "topicFingerprint": [
         "ai_group",
@@ -166,68 +318,24 @@
       "alternates": []
     },
     {
-      "title": "The U.S. labor market may soon face a new crisis: Too few workers",
-      "description": "A severe labor shortage is set to emerge over the next decade amid a wave of baby boomer retirements and a shrinking younger workforce.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-labor-shortage-boomer-retirements-wages/",
+      "title": "Shanghai beats GDP estimates with 5.6% growth \u2013 but two-speed recovery persists",
+      "description": "Shanghai\u2019s economy expanded 5.6 per cent in the first half of the year, beating expectations on strong growth in hi-tech manufacturing and exports, even as weak consumer spending exposed the uneven nature of the recovery. According to data released by the municipal statistics bureau on Monday, the r",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/china-economy/article/3361205/shanghai-beats-gdp-estimates-56-growth-two-speed-recovery-persists",
       "category": "Financial",
       "readingTime": 2,
-      "score": 11,
-      "why": "Businesses may struggle to hire staff and keep services running smoothly.",
-      "context": "Aging populations and retirements are shrinking the American workforce.",
-      "next": "Companies will likely automate more tasks to fill critical staffing gaps.",
-      "bigger": "Developed nations are facing long-term demographic declines that stall growth.",
-      "publishedAt": "2026-07-20T10:36:57-04:00",
+      "score": 18,
+      "why": "Local service workers and retailers may continue to struggle.",
+      "context": "Shanghai reported strong economic growth driven by high-tech manufacturing.",
+      "next": "Local policymakers may introduce new measures to boost household spending.",
+      "bigger": "Uneven economic recovery remains a critical challenge for developing nations.",
+      "publishedAt": "2026-07-21T01:00:11+00:00",
       "topicFingerprint": [
-        "few",
-        "crisis",
-        "face",
-        "workers",
-        "labor"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Indian central bank's capital flow measures draw over US$20 billion in first month",
-      "description": "The move is to strengthen the country\u2019s balance of payments and boost capital inflows",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-central-banks-capital-flow-measures-draw-over-us20-billion-first-month",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Indian businesses may gain easier access to funding for expansion.",
-      "context": "New financial policies in India successfully attracted significant foreign investment.",
-      "next": "The central bank may introduce further incentives for foreign investors.",
-      "bigger": "Emerging economies are aggressively competing to secure international investment.",
-      "publishedAt": "2026-07-20T14:59:43+00:00",
-      "topicFingerprint": [
-        "flow",
-        "measures",
-        "draw",
-        "billion",
-        "capital"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China exports 20% fewer magnets to US despite trade truce",
-      "description": "Customs data show shipments stabilising in 2026, but still well below levels seen before curbs were introduced",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/china-exports-20-fewer-magnets-us-despite-trade-truce",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "American manufacturers may experience manufacturing delays for electronic products.",
-      "context": "Chinese shipments of industrial magnets to America have declined significantly.",
-      "next": "U.S. firms will likely seek alternative suppliers in other nations.",
-      "bigger": "Tech supply chains are decoupling despite temporary political agreements.",
-      "publishedAt": "2026-07-20T07:13:18+00:00",
-      "topicFingerprint": [
-        "truce",
-        "magnets",
-        "fewer",
-        "exports",
-        "trade"
+        "estimates",
+        "gdp",
+        "beats",
+        "shanghai",
+        "persists"
       ],
       "alternates": []
     },
@@ -239,38 +347,85 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 11,
-      "why": "Energy companies will avoid costly fines, keeping operations running cheaper.",
-      "context": "Europe delayed penalties on methane emissions to protect energy security.",
-      "next": "Environmental groups are likely to challenge the decision in court.",
-      "bigger": "Countries are balancing climate targets against immediate energy supply needs.",
+      "why": "European households may avoid sudden spikes in their heating bills.",
+      "context": "European officials proposed delaying strict penalties on imported energy emissions.",
+      "next": "Environmental organizations will likely challenge this policy delay.",
+      "bigger": "Balancing climate targets with energy security remains a persistent challenge.",
       "publishedAt": "2026-07-20T20:13:27+00:00",
       "topicFingerprint": [
         "methane",
+        "eu_entity",
         "pressure",
-        "energy",
-        "ensure",
+        "industry",
         "penalties"
       ],
-      "alternates": [
-        {
-          "title": "EU pauses methane penalties amid energy crisis, US pressure",
-          "description": "The European Commission says waiving penalties will ensure the security of energy supply.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure",
-          "category": "Environment",
-          "publishedAt": "2026-07-20T19:29:37+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "methane",
-            "pressure",
-            "energy",
-            "ensure",
-            "penalties"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "China exports 20% fewer magnets to US despite trade truce",
+      "description": "Customs data show shipments stabilising in 2026, but still well below levels seen before curbs were introduced",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/china-exports-20-fewer-magnets-us-despite-trade-truce",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 15,
+      "why": "US manufacturers of green technologies may face component shortages.",
+      "context": "Chinese shipments of critical industrial magnets to America have declined.",
+      "next": "Western firms will look to source these minerals elsewhere.",
+      "bigger": "Tech supply chains are decoupling amid growing trade friction.",
+      "publishedAt": "2026-07-20T07:13:18+00:00",
+      "topicFingerprint": [
+        "truce",
+        "fewer",
+        "exports",
+        "magnets",
+        "trade"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US ties to Israel rattle rare earth deal in Malaysia",
+      "description": "Malaysia's rare earth refinery in Gebeng is essential to a strategic deal between the Pentagon and Australia's Lynas mining corporation. Now, Malaysian activists are using it as leverage to support Palestinians in Gaza.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-ties-to-israel-rattle-rare-earth-deal-in-malaysia/a-78037439",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Global defense manufacturers could experience delays in securing key components.",
+      "context": "Activists are targeting a strategic mineral refinery over geopolitical ties.",
+      "next": "The refinery may face local protests and regulatory hurdles.",
+      "bigger": "Geopolitical conflicts are increasingly threatening critical mineral supply chains.",
+      "publishedAt": "2026-07-20T13:46:00+00:00",
+      "topicFingerprint": [
+        "israel",
+        "malaysia",
+        "ties",
+        "rattle",
+        "earth"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Indian central bank's capital flow measures draw over US$20 billion in first month",
+      "description": "The move is to strengthen the country\u2019s balance of payments and boost capital inflows",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-central-banks-capital-flow-measures-draw-over-us20-billion-first-month",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Indian borrowers may benefit from more stable domestic interest rates.",
+      "context": "India successfully attracted significant foreign investment through new financial policies.",
+      "next": "The central bank will likely expand these foreign investment programs.",
+      "bigger": "Emerging economies are developing stronger defenses against global financial volatility.",
+      "publishedAt": "2026-07-20T14:59:43+00:00",
+      "topicFingerprint": [
+        "month",
+        "billion",
+        "draw",
+        "indian",
+        "us_entity20"
+      ],
+      "alternates": []
     },
     {
       "title": "BlackRock eyes more than US$12 billion debt for Texas data centre",
@@ -279,40 +434,40 @@
       "url": "https://www.businesstimes.com.sg/companies-markets/blackrock-eyes-more-us12-billion-debt-texas-data-centre",
       "category": "Technology",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local construction firms may see a surge in job opportunities.",
-      "context": "BlackRock is raising massive funding to build a Texas data center.",
-      "next": "Texas could face increased strain on its regional power grid.",
-      "bigger": "The rapid expansion of technology requires unprecedented amounts of power.",
+      "score": 9,
+      "why": "Construction and tech workers in Texas may see more job openings.",
+      "context": "A major investment firm is raising capital for new technology infrastructure.",
+      "next": "Regulators will scrutinize the project's massive electricity demands.",
+      "bigger": "The physical infrastructure required for digital computing is expanding rapidly.",
       "publishedAt": "2026-07-20T15:29:43+00:00",
       "topicFingerprint": [
-        "data",
-        "blackrock",
-        "texas",
         "billion",
-        "eyes"
+        "eyes",
+        "us_entity12",
+        "centre",
+        "debt"
       ],
       "alternates": []
     },
     {
-      "title": "How a dispute over e-commerce firm Coupang is testing US-South Korea ties",
-      "description": "A US$422 million fine over Coupang\u2019s data breach has raised tensions between the US and South Korea",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/how-dispute-over-e-commerce-firm-coupang-testing-us-south-korea-ties",
-      "category": "Cybersecurity",
+      "title": "Brazil\u2019s Amazon gets relief after 2024 fire disaster, but \u2018super El Nino\u2019 threat looms",
+      "description": "Flames engulfed the world's largest tropical rainforest in 2024 when an unprecedented drought triggered the spread of fires, the majority of which were man-made",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/brazils-amazon-gets-relief-after-2024-fire-disaster-but-el-nino-threat-looms-101784606813678.html",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 7,
-      "why": "International businesses may face stricter scrutiny and harsher penalties abroad.",
-      "context": "A massive data breach fine against a retail giant strained diplomacy.",
-      "next": "Regulators may rewrite cross-border data protection laws to prevent disputes.",
-      "bigger": "Data sovereignty issues are becoming major points of geopolitical friction.",
-      "publishedAt": "2026-07-20T00:28:55+00:00",
+      "score": 8,
+      "why": "Local agricultural communities face ongoing risks of crop failure.",
+      "context": "Record rainforest fires have subsided, but severe weather threats persist.",
+      "next": "Conservationists will implement new preventative measures before the dry season.",
+      "bigger": "Extreme weather patterns are threatening vital global ecosystems.",
+      "publishedAt": "2026-07-21T10:06:34+05:30",
       "topicFingerprint": [
-        "ties",
-        "testing",
-        "coupang",
-        "sk_entity",
-        "dispute"
+        "looms",
+        "brazil",
+        "threat",
+        "disaster",
+        "gets"
       ],
       "alternates": []
     },
@@ -324,211 +479,86 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 19,
-      "why": "Southeast Asian businesses may face rising operational and shipping costs.",
-      "context": "External conflicts and trade tariffs are threatening Singapore's technology boom.",
-      "next": "Singapore may diversify its trade partnerships to mitigate geopolitical risks.",
-      "bigger": "Globalized tech hubs are highly vulnerable to distant military conflicts.",
+      "why": "Export-dependent workers may face sudden layoffs if global trade slows.",
+      "context": "Singapore's technology sector is growing despite rising international trade conflicts.",
+      "next": "Local businesses will likely diversify their trade routes and partners.",
+      "bigger": "Smaller trade hubs are highly vulnerable to external geopolitical shocks.",
       "publishedAt": "2026-07-20T16:15:00+08:00",
       "topicFingerprint": [
         "iran",
         "us_entity",
         "war",
         "oil",
-        "conflict",
+        "strikes",
         "prices"
       ],
       "alternates": []
     },
     {
-      "title": "US attacks deepen hardship, not dissent, in Iran\u2019s restive south",
-      "description": "Southern Iran, which borders the Strait of Hormuz, has been a major target of US attacks on infrastructure.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/middle-east/us-attacks-deepen-hardship-not-dissent-in-irans-restive-south",
-      "category": "General",
+      "title": "Asia stocks rebound on chip recovery as Samsung Electronics, TSMC lead gains",
+      "description": "The MSCI Asia-Pacific Index climbs 1.7% as benchmark gauges in South Korea and Taiwan both gain around 3%",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asia-stocks-rebound-chip-recovery-samsung-electronics-tsmc-lead-gains",
+      "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "Local residents face severe shortages of electricity and clean water.",
-      "context": "American military strikes have devastated infrastructure in southern Iran.",
-      "next": "Humanitarian crises may trigger displacement of people in the region.",
-      "bigger": "Infrastructure targeting often harms civilian populations more than ruling regimes.",
-      "publishedAt": "2026-07-20T22:52:16+08:00",
+      "why": "Tech workers may see improved job security and hiring prospects.",
+      "context": "Asian technology shares rallied following a strong recovery in semiconductor demand.",
+      "next": "Semiconductor companies will likely boost their production capacity.",
+      "bigger": "Global financial markets remain heavily dependent on hardware supply chains.",
+      "publishedAt": "2026-07-21T01:42:35+00:00",
       "topicFingerprint": [
-        "south",
-        "iran",
-        "attacks",
-        "hardship",
-        "restive"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The first UL 3700-compliant plug-in solar microinverter is now available in the US",
-      "description": "It's a step toward making alternative energy accessible on a smaller, renter-friendly scale.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219291/the-first-ul-3700-compliant-plug-in-solar-microinverter-is-now-available-in-the-us/",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 6,
-      "why": "You can now generate your own solar energy without owning land.",
-      "context": "A new renter-friendly solar device has hit the American market.",
-      "next": "More manufacturers will likely launch similar plug-and-play green devices.",
-      "bigger": "Renewable energy technology is becoming decentralized and highly accessible.",
-      "publishedAt": "2026-07-20T21:55:05+00:00",
-      "topicFingerprint": [
-        "microinverter",
-        "plug",
-        "compliant",
-        "solar",
-        "available"
+        "rebound",
+        "electronics",
+        "lead",
+        "asia",
+        "chip"
       ],
       "alternates": []
     }
   ],
   "candidatePool": [
     {
-      "title": "Trump to impose 50% tariffs on most Canadian goods, invoking the \u2018nuclear option\u2019 that could unleash a\u00a0new wave of economic chaos and inflation",
-      "description": "Trump signed three proclamations to launch the tariffs under Section 338 of the 1930 Trade Act.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/20/trump-tariffs-canada-50-percent-section-338-nuclear-option-inflation-usmca/",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 24,
-      "why": "Your everyday grocery and household item prices may rise soon.",
-      "context": "The U.S. announced sweeping tariffs on almost all Canadian imports.",
-      "next": "Cross-border supply chains may stall as companies adapt to tariffs.",
-      "bigger": "Economic protectionism is dismantling long-established free trade agreements globally.",
-      "publishedAt": "2026-07-20T22:31:36+00:00",
-      "topicFingerprint": [
-        "canadian",
-        "tariffs",
-        "donald_trump",
-        "goods",
-        "us_entity"
-      ],
-      "alternates": [
-        {
-          "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over cars, alcohol and cheese",
-          "description": "US President Donald Trump on Monday imposed 50 per cent tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American cars, alcohol and dairy products. The move could unleash a new wave of economic chaos, with risks of higher inflation and further fraying of relat",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361268/trump-imposes-50-tariffs-canadian-goods-citing-disputes-over-cars-alcohol-and-cheese",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-20T21:59:49+00:00",
-          "score": 23,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "canadian",
-            "tariffs",
-            "donald_trump",
-            "goods",
-            "us_entity"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
-          "description": "The move, announced Monday, could unleash a new wave of economic chaos, with risks of higher inflation and further fraying of relations between two nations that had been closely woven together before Trump's return to the White House.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-20T18:27:35-04:00",
-          "score": 21,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "canadian",
-            "tariffs",
-            "donald_trump",
-            "goods",
-            "us_entity"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Why a modest US interest rate rise won\u2019t change much for most businesses",
-      "description": "Rates may rise, but don\u2019t be too concerned \u2013 a small increase is unlikely to change major decisions on investment or hiring With the appointment of a new Federal Reserve chair, the latest concern is that interest rates will go up in the next few months. That decision will depend on many factors, inc",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+      "title": "Colombia's Petro calls on supporters to defend economic reforms in last presidential speech",
+      "description": "Outgoing Colombian President Gustavo Petro called on his supporters to protect his government's social and economic reforms and resist any efforts by the nation's incoming administration to change labor laws.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/colombias-petro-calls-on-supporters-to-defend-economic-reforms-in-last-presidential-speech",
       "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Borrowing costs for businesses will stay relatively stable for now.",
-      "context": "A small hike in American interest rates is expected soon.",
-      "next": "The central bank will monitor employment data before hiking again.",
-      "bigger": "Financial markets are becoming highly sensitive to central bank leadership.",
-      "publishedAt": "2026-07-19T14:00:28+00:00",
-      "topicFingerprint": [
-        "businesses",
-        "rate",
-        "rise",
-        "change",
-        "won"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Yemeni women support families through enterprise as economic crisis bites",
-      "description": "Amid Yemen\u2019s harsh economic crisis, securing viable employment has become increasingly difficult for men.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Families may gain vital income sources during severe financial hardship.",
-      "context": "An economic crisis is pushing Yemeni women to start businesses.",
-      "next": "Local communities may establish more female-led business networks.",
-      "bigger": "Severe economic hardship is forcing rapid shifts in traditional gender roles.",
-      "publishedAt": "2026-07-20T19:36:37+00:00",
-      "topicFingerprint": [
-        "crisis",
-        "enterprise",
-        "families",
-        "support",
-        "through"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "European\u00a0shares tick lower as investors assess US-Iran jitters; tech earnings loom",
-      "description": "Travel and leisure stocks were the biggest decliners",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-tick-lower-investors-assess-us-iran-jitters-tech-earnings-loom",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Your retirement savings and investment portfolios may drop in value.",
-      "context": "European stock markets declined amid rising Middle East tensions.",
-      "next": "Traders will closely watch upcoming technology company earnings reports.",
-      "bigger": "Global equity markets remain highly sensitive to geopolitical disruptions.",
-      "publishedAt": "2026-07-20T21:54:52+00:00",
-      "topicFingerprint": [
-        "earnings",
-        "loom",
-        "tech",
-        "oil",
-        "climbs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Test that found source of US explosive diarrhoea outbreak was false positive",
-      "description": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do",
-      "category": "Health",
       "readingTime": 2,
       "score": 8,
-      "why": "Consumers remain vulnerable as the true contamination source is unknown.",
-      "context": "Health officials corrected a false test regarding a major illness outbreak.",
-      "next": "Investigators will run new laboratory tests to trace the pathogen.",
-      "bigger": "Public health agencies are struggling with rapid and accurate contamination tracing.",
-      "publishedAt": "2026-07-20T02:35:04+00:00",
+      "why": "Colombian workers may lose key labor protections under new leadership.",
+      "context": "The outgoing Colombian president urged citizens to protect his social programs.",
+      "next": "The incoming administration will attempt to dismantle these economic policies.",
+      "bigger": "Latin American nations face sharp political swings during leadership transitions.",
+      "publishedAt": "2026-07-20T18:46:03-04:00",
       "topicFingerprint": [
-        "outbreak",
-        "lettuce",
-        "farms",
-        "taylor",
-        "test"
+        "presidential",
+        "reforms",
+        "speech",
+        "petro",
+        "defend"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "KPMG Australia appoints new CEO from its own ranks in wake of audit leak scandal",
+      "description": "John Sams has been chief financial officer since October 2025 and and chief operating officer since June 2026.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/kpmg-australia-appoints-new-ceo-from-its-own-ranks-in-wake-of-audit-leak-scandal",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Clients may demand stricter data privacy controls from their advisors.",
+      "context": "The consulting firm promoted an internal executive to restore its reputation.",
+      "next": "The new chief executive will restructure the internal auditing division.",
+      "bigger": "Corporate governance scandals are forcing major consulting firms to reform.",
+      "publishedAt": "2026-07-21T11:20:21+08:00",
+      "topicFingerprint": [
+        "kpmg",
+        "leak",
+        "wake",
+        "appoints",
+        "own"
       ],
       "alternates": []
     },
@@ -540,17 +570,98 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Tech companies may find it harder to secure lucrative government contracts.",
-      "context": "A defense official criticized an OpenAI executive over tech regulations.",
-      "next": "OpenAI may adjust its regulatory lobbying strategies to repair relations.",
-      "bigger": "Governments are increasingly clashing with tech developers over national security.",
+      "why": "Developers may face sudden changes to government safety requirements.",
+      "context": "A government official criticized an artificial intelligence executive over regulatory views.",
+      "next": "Defense agencies may reconsider their contracts with private technology partners.",
+      "bigger": "Public and private sectors are clashing over artificial intelligence oversight.",
       "publishedAt": "2026-07-19T22:00:55+00:00",
       "topicFingerprint": [
-        "ball",
-        "openai",
-        "dean",
         "top",
-        "pentagon"
+        "ball",
+        "pentagon",
+        "blasts",
+        "dean"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "FDA is still focused on lettuce supplier as source of parasite, despite faulty test result",
+      "description": "Federal health officials said Monday they remain focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite inaccurate test results that the government briefly publicized over the weekend.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/fda-is-still-focused-on-lettuce-supplier-as-source-of-parasite-despite-faulty-test-result",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Salad shoppers may face temporary grocery shortages and recall warnings.",
+      "context": "Health regulators are investigating a vegetable supplier linked to an outbreak.",
+      "next": "Distributors will likely suspend shipments from the accused farm.",
+      "bigger": "Food supply chains require faster and more accurate contamination testing.",
+      "publishedAt": "2026-07-20T16:18:00-04:00",
+      "topicFingerprint": [
+        "outbreak",
+        "lettuce",
+        "source",
+        "farms",
+        "parasite"
+      ],
+      "alternates": [
+        {
+          "title": "Test results create more confusion around cyclosporiasis outbreak",
+          "description": "Federal officials are still trying to determine the source of a multistate outbreak linked to lettuce. There may be more than 7,000 cases of cyclosporiasis nationwide. The FDA said that a lettuce sample from Taylor Farms that was initially reported as positive for cyclospora was actually a false pos",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/test-results-create-confusion-around-cyclosporiasis-outbreak",
+          "category": "Health",
+          "publishedAt": "2026-07-20T18:35:51-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "outbreak",
+            "lettuce",
+            "source",
+            "farms",
+            "parasite"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
+          "description": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
+          "source": "Stat",
+          "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/",
+          "category": "Health",
+          "publishedAt": "2026-07-20T20:37:59+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "outbreak",
+            "lettuce",
+            "source",
+            "farms",
+            "parasite"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "MSF demands Israel release detained Palestinian healthcare workers",
+      "description": "The NGO is outraged by Israel s treatment of the health professionals and warns that silence has become complicity .",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Local patients may lose access to critical emergency medical treatment.",
+      "context": "An international aid group condemned the detention of medical staff.",
+      "next": "Humanitarian organizations will intensify their diplomatic pressure campaigns.",
+      "bigger": "Medics face growing physical dangers in active conflict zones globally.",
+      "publishedAt": "2026-07-20T23:41:28+00:00",
+      "topicFingerprint": [
+        "israel",
+        "demands",
+        "detained",
+        "healthcare",
+        "msf"
       ],
       "alternates": []
     },
@@ -561,265 +672,101 @@
       "url": "https://www.dw.com/en/why-japan-s-new-imperial-law-keeps-women-off-the-throne/a-78037181",
       "category": "Policy",
       "readingTime": 2,
-      "score": 8,
-      "why": "Female royals must still leave the family if they marry commoners.",
-      "context": "Japan passed laws maintaining male-only succession for the imperial family.",
-      "next": "The monarchy may face a severe shortage of heirs in future.",
-      "bigger": "Traditional institutions are resisting modernization despite changing social norms.",
+      "score": 7,
+      "why": "Traditional rules will continue to restrict women from leading the monarchy.",
+      "context": "Japan passed legislation maintaining male-only succession for the imperial family.",
+      "next": "Public debate over royal gender equality will likely persist.",
+      "bigger": "Traditional institutions face growing friction with modern social expectations.",
       "publishedAt": "2026-07-20T13:09:00+00:00",
       "topicFingerprint": [
-        "japan",
         "throne",
-        "keeps",
+        "japan",
         "imperial",
+        "women",
         "law"
       ],
       "alternates": []
     },
     {
-      "title": "Why are thousands of people protesting in Delhi?",
-      "description": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o",
+      "title": "US attacks deepen hardship, not dissent, in Iran\u2019s restive south",
+      "description": "Southern Iran, which borders the Strait of Hormuz, has been a major target of US attacks on infrastructure.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/middle-east/us-attacks-deepen-hardship-not-dissent-in-irans-restive-south",
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Indian students are demanding fairer testing systems and better job opportunities.",
-      "context": "Large student demonstrations took place in India's capital over education.",
-      "next": "The government may announce reforms to university administration processes.",
-      "bigger": "Youth populations are increasingly protesting systemic educational and employment barriers.",
-      "publishedAt": "2026-07-20T12:33:01+00:00",
+      "why": "Local residents face severe shortages of electricity and clean water.",
+      "context": "Foreign military strikes have worsened living conditions in southern Iran.",
+      "next": "Local communities will likely rely more on state aid programs.",
+      "bigger": "Military infrastructure strikes often inflict heavy costs on civilian populations.",
+      "publishedAt": "2026-07-20T22:52:16+08:00",
       "topicFingerprint": [
-        "parliament",
-        "india",
-        "march",
-        "cockroach",
-        "thousands"
+        "south",
+        "hardship",
+        "deepen",
+        "restive",
+        "dissent"
       ],
       "alternates": []
     },
     {
-      "title": "HHS vaccine committee quietly gets new charter",
-      "description": "Lax clinical oversight for online GLP-1 prescriptions, proposed financial help for people who want to quit smoking, and more health news",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/07/20/health-news-hhs-vaccine-committee-quietly-gets-new-charter/",
-      "category": "Health",
+      "title": "Dimitri de Vreeze helped build DSM\u2019s materials business. Then he had to sell it",
+      "description": "After more than three decades at science-based firm DSM, Dimitri de Vreeze faced what he calls the hardest decision of his career: selling the materials business where he had grown up professionally. In this episode of \"Executive Decisions,\" the DSM-Firmenich CEO reflects on why the decision made st",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/21/dsm-firmenich-ceo-dimitri-de-vreeze-executive-decisions-with-steve-sedgwick.html",
+      "category": "General",
       "readingTime": 2,
-      "score": 6,
-      "why": "Changes to vaccine oversight may alter how new shots are approved.",
-      "context": "A federal health committee silently updated its operational guidelines.",
-      "next": "Public health watchdogs will likely demand transparency regarding the changes.",
-      "bigger": "Regulatory bodies are quietly restructuring administrative rules amid political pressures.",
-      "publishedAt": "2026-07-20T13:01:07+00:00",
+      "score": 7,
+      "why": "Affected employees may experience shifts in management and corporate culture.",
+      "context": "A corporate executive executed a strategic divestment of his core division.",
+      "next": "The newly independent materials business will seek new capital investments.",
+      "bigger": "Chemical conglomerates are restructuring to focus entirely on specialty science.",
+      "publishedAt": "2026-07-21T04:00:01+00:00",
       "topicFingerprint": [
-        "hhs",
-        "quietly",
-        "vaccine",
-        "gets",
-        "committee"
+        "materials",
+        "build",
+        "vreeze",
+        "dimitri",
+        "sell"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "How a dispute over e-commerce firm Coupang is testing US-South Korea ties",
+      "description": "A US$422 million fine over Coupang\u2019s data breach has raised tensions between the US and South Korea",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/how-dispute-over-e-commerce-firm-coupang-testing-us-south-korea-ties",
+      "category": "Cybersecurity",
+      "readingTime": 2,
+      "score": 4,
+      "why": "Online shoppers in South Korea may experience changes in platform security.",
+      "context": "A massive data breach fine has created tension between two allies.",
+      "next": "Regulators from both countries will hold talks to resolve the dispute.",
+      "bigger": "Cross-border technology regulation is increasingly complicating international diplomacy.",
+      "publishedAt": "2026-07-20T00:28:55+00:00",
+      "topicFingerprint": [
+        "testing",
+        "coupang",
+        "ties",
+        "sk_entity",
+        "firm"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "india": [
       {
-        "title": "US ties to Israel rattle rare earth deal in Malaysia",
-        "description": "Malaysia's rare earth refinery in Gebeng is essential to a strategic deal between the Pentagon and Australia's Lynas mining corporation. Now, Malaysian activists are using it as leverage to support Palestinians in Gaza.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/us-ties-to-israel-rattle-rare-earth-deal-in-malaysia/a-78037439",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Geopolitics",
+        "title": "India joins China, US in commercial space race with Skyroot launch",
+        "description": "India\u2019s first privately developed orbital rocket has given the country\u2019s fledgling commercial space industry a long-sought proof point, but analysts say Skyroot Aerospace must now show it can launch regularly, cheaply and reliably enough to win customers in a crowded global market. Skyroot\u2019s Vikram-",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/politics/article/3361253/india-joins-china-us-commercial-space-race-skyroot-launch",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-07-20T13:46:00+00:00",
+        "publishedAt": "2026-07-21T04:00:15+00:00",
         "reason": "within_48h",
         "score": 15,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: israel"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: essential"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: pentagon"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "earth",
-          "ties",
-          "rattle",
-          "rare",
-          "israel"
-        ]
-      },
-      {
-        "title": "Samsung launches first US credit card with Barclays, signals ambitions for deeper financial services push",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/samsung-launches-first-us-credit-card-barclays-signals-ambitions-deeper-financial-services-push-6266611",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-21T05:03:32+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: credit card"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Samsung just unveiled a Galaxy credit card ahead of Unpacked",
-            "description": "Samsung's credit card gives you up to five percent back when you buy its products.",
-            "source": "Engadget",
-            "url": "https://www.engadget.com/2218871/samsung-just-unveiled-a-galaxy-credit-card-ahead-of-unpacked/",
-            "category": "Technology",
-            "publishedAt": "2026-07-20T21:00:00+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "card",
-              "credit",
-              "samsung",
-              "ambitions",
-              "deeper"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "card",
-          "credit",
-          "samsung",
-          "ambitions",
-          "deeper"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "\u2018Payback\u2019: why China\u2019s world-beating car industry faces plunging sales at home",
-        "description": "China\u2019s electric vehicle (EV) industry sits at the centre of numerous economic and geopolitical trends: consumer spending, environmental protection, trade policy, high-end manufacturing, technology and more. In this short series, we assess the current state of the sector within these broader context",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3361211/payback-why-chinas-world-beating-car-industry-faces-plunging-sales-home",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T22:00:18+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: technology"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: consumer"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: environmental"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: we"
-          },
-          {
-            "points": -2,
-            "reason": "low quality + colon headline match: we"
-          },
-          {
-            "points": -1,
-            "reason": "Low opinion keyword: we"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "beating",
-          "car",
-          "faces",
-          "payback",
-          "plunging"
-        ]
-      },
-      {
-        "title": "Chinese immigrants emerge as pivotal players in Canada\u2019s property market amid foreign ban",
-        "description": "Mainland Chinese immigrants were estimated to have bought as much as C$5.7 billion (US$4 billion) worth of homes in Canada last year, making them a key group of non-local investors propping up the residential property market, according to one estimate. Ottawa barred most foreigners from purchasing h",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/article/3361175/chinese-immigrants-emerge-pivotal-players-canadas-property-market-amid-foreign-ban",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T12:00:10+00:00",
-        "reason": "within_48h",
-        "score": 7,
         "score_debug": [
           {
             "points": 2,
@@ -827,169 +774,51 @@
           },
           {
             "points": 2,
+            "reason": "important keyword match: customers"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: rocket"
+          },
+          {
+            "points": 2,
             "reason": "important keyword match: us"
           },
           {
             "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "canada",
-          "immigrants",
-          "property",
-          "players",
-          "emerge"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "On the day Andy Burnham becomes UK PM, a northern city loses trains to London",
-        "description": "SHEFFIELD, England, July 20 - On the day Andy Burnham became prime minister after vowing to give greater powers and investment to the north of England, the region suffered a setback as a key train operator cut many direct services to London.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/on-the-day-andy-burnham-becomes-uk-pm-a-northern-city-loses-trains-to-london",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-21T00:17:13+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "points": -2,
+            "reason": "low quality group match: say"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "uk_entity",
-          "burnham",
-          "andy",
-          "prime",
-          "minister"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "Putin meets North Korean foreign minister in diplomatic push",
-        "description": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
-        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T09:18:51-04:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: NPR"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Putin meets North Korean foreign minister in Moscow, hails war support",
-            "description": "North Korean Foreign Minister Choe Son Hui met President Putin in Moscow, who thanked North Korea for its military support in the war against Ukraine.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/ada3408b-6e4e-47c4-8dea-3f0a6ee994bd.html",
-            "category": "Geopolitics",
-            "publishedAt": "2026-07-20T13:13:02+00:00",
-            "score": 9,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "putin",
-              "choe",
-              "korean",
-              "foreign",
-              "son"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "putin",
-          "choe",
-          "korean",
-          "foreign",
-          "son"
+          "joins",
+          "space",
+          "skyroot",
+          "commercial",
+          "india"
         ]
       },
-      {
-        "title": "Blackstone agrees to invest in South Korean robotics supplier Futronic",
-        "description": "This values the firm at around US$675 million, according to people familiar with the matter",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/blackstone-agrees-invest-south-korean-robotics-supplier-futronic",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T05:29:05+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "south",
-          "futronic",
-          "agrees",
-          "korean",
-          "supplier"
-        ]
-      }
-    ],
-    "india": [
       {
         "title": "Singapore Airlines responds to shareholder questions on Air India, KrisFlyer app issues",
         "description": "It said it will continue to support Air India and monitor global events that could affect trade routes and costs.",
@@ -1030,58 +859,334 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "app",
+          "issues",
+          "krisflyer",
+          "responds",
           "airlines",
-          "air",
-          "india"
+          "app"
         ]
-      },
+      }
+    ],
+    "united_states": [
       {
-        "title": "India, Russia-led bloc agree on key FTA chapter; SME and IPR talks advance",
-        "description": "India and the Russia-led Eurasian Economic Union have advanced FTA negotiations, closing the competition chapter and making progress on SMEs and IPR to boost bilateral trade.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/economy/india-russia-led-eaeu-trade-pact-talks-competition-smes-ipr-chapters-progress-19949523.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Geopolitics",
+        "title": "India joins China, US in commercial space race with Skyroot launch",
+        "description": "India\u2019s first privately developed orbital rocket has given the country\u2019s fledgling commercial space industry a long-sought proof point, but analysts say Skyroot Aerospace must now show it can launch regularly, cheaply and reliably enough to win customers in a crowded global market. Skyroot\u2019s Vikram-",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/politics/article/3361253/india-joins-china-us-commercial-space-race-skyroot-launch",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-07-20T13:14:15+05:30",
+        "publishedAt": "2026-07-21T04:00:15+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 15,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: russia"
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: customers"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: rocket"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
             "reason": "important keyword match: india"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: say"
           },
           {
             "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "advance",
-          "bloc",
-          "russia",
-          "sme",
-          "chapter"
+          "joins",
+          "space",
+          "skyroot",
+          "commercial",
+          "india"
+        ]
+      },
+      {
+        "title": "Trump turns to China in renewed US birthright citizenship push",
+        "description": "When the US Supreme Court rejected President Donald Trump\u2019s attempt to restrict birthright citizenship, his attention soon turned from the justices to China, prompting a sarcastic social media post. \u201cI would like to congratulate President Xi, and the Great Country of China, on their massive Birthrig",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/us/politics/article/3361263/trump-turns-china-renewed-birthright-citizenship-push",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-20T20:14:00+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: supreme court"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: citizenship"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: citizenship"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: i"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "birthright",
+          "citizenship",
+          "turns",
+          "renewed",
+          "push"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "India joins China, US in commercial space race with Skyroot launch",
+        "description": "India\u2019s first privately developed orbital rocket has given the country\u2019s fledgling commercial space industry a long-sought proof point, but analysts say Skyroot Aerospace must now show it can launch regularly, cheaply and reliably enough to win customers in a crowded global market. Skyroot\u2019s Vikram-",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/politics/article/3361253/india-joins-china-us-commercial-space-race-skyroot-launch",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T04:00:15+00:00",
+        "reason": "within_48h",
+        "score": 15,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: customers"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: rocket"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: say"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "joins",
+          "space",
+          "skyroot",
+          "commercial",
+          "india"
+        ]
+      },
+      {
+        "title": "Trump turns to China in renewed US birthright citizenship push",
+        "description": "When the US Supreme Court rejected President Donald Trump\u2019s attempt to restrict birthright citizenship, his attention soon turned from the justices to China, prompting a sarcastic social media post. \u201cI would like to congratulate President Xi, and the Great Country of China, on their massive Birthrig",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/us/politics/article/3361263/trump-turns-china-renewed-birthright-citizenship-push",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-20T20:14:00+00:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: supreme court"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: citizenship"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: citizenship"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: i"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "birthright",
+          "citizenship",
+          "turns",
+          "renewed",
+          "push"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "Putin meets North Korean foreign minister in diplomatic push",
+        "description": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-20T09:18:51-04:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: NPR"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Putin meets North Korean foreign minister for strategic talks in Moscow",
+            "description": "Vladimir Putin met North Korean FM Choe Son Hui in Moscow for strategic talks, thanking North Korea for military support in the war against Ukraine.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/ada3408b-6e4e-47c4-8dea-3f0a6ee994bd.html",
+            "category": "Geopolitics",
+            "publishedAt": "2026-07-20T13:13:02+00:00",
+            "score": 8,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "meets",
+              "foreign",
+              "hui",
+              "choe",
+              "korean"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "meets",
+          "foreign",
+          "hui",
+          "choe",
+          "korean"
+        ]
+      },
+      {
+        "title": "Blackstone agrees to invest in South Korean robotics supplier Futronic",
+        "description": "This values the firm at around US$675 million, according to people familiar with the matter",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/blackstone-agrees-invest-south-korean-robotics-supplier-futronic",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-20T05:29:05+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "south",
+          "supplier",
+          "agrees",
+          "robotics",
+          "invest"
         ]
       }
     ],
@@ -1126,22 +1231,104 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "app",
+          "issues",
+          "krisflyer",
+          "responds",
           "airlines",
-          "air",
-          "india"
+          "app"
         ]
       },
       {
-        "title": "Singapore stocks fall amid tech rout; STI down 0.2%",
-        "description": "Mapletree PanAsia Commercial Trust leads the gainers on the blue-chip index",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-stocks-fall-amid-tech-rout-sti-down-0-2",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
+        "title": "Singaporeans\u2019 blend of East and West a competitive edge in global business: Mizuho Singapore CEO",
+        "description": "In her nearly three years at the Japanese bank, she has learnt the value of long-term commitment.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/singaporeans-blend-of-east-and-west-a-competitive-edge-in-global-business-mizuho-singapore-ceo",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-20T11:30:03+00:00",
+        "publishedAt": "2026-07-21T10:45:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singaporeans",
+          "mizuho",
+          "east",
+          "singapore",
+          "west"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Canada's FM Anita Anand visits Pakistan in first such trip in 20 years; Islamabad seeks support on Indus Waters Treaty",
+        "description": "Pakistan's foreign ministry said Deputy PM Ishaq Dar urged Canada to back the immediate restoration of the Indus Waters Treaty during talks with FM Anita Anand.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/pakistan-seeks-canada-support-indus-water-treaty-canadian-fm-anita-anand-islamabad-first-visit-20-years-101784601942065.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T08:41:40+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: treaty"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "years",
+          "trip",
+          "indus",
+          "waters",
+          "anand"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan's Nikkei rallies after steep decline as focus turns to tech results",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/japans-nikkei-rallies-after-steep-decline-focus-turns-tech-results-6266906",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T09:27:08+08:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
@@ -1151,93 +1338,7 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "Singapore-local Business Times article"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "singapore",
-          "tech",
-          "rout",
-          "sti",
-          "fall"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Chinese immigrants emerge as pivotal players in Canada\u2019s property market amid foreign ban",
-        "description": "Mainland Chinese immigrants were estimated to have bought as much as C$5.7 billion (US$4 billion) worth of homes in Canada last year, making them a key group of non-local investors propping up the residential property market, according to one estimate. Ottawa barred most foreigners from purchasing h",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/article/3361175/chinese-immigrants-emerge-pivotal-players-canadas-property-market-amid-foreign-ban",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T12:00:10+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "canada",
-          "immigrants",
-          "property",
-          "players",
-          "emerge"
-        ]
-      }
-    ],
-    "mexico": [
-      {
-        "title": "Mexican drug lord \u2018El Mayo\u2019 sentenced to life without parole in US prison",
-        "description": "Ismael \"El Mayo\" Zambada, a co-founder of the Sinaloa cartel and one of the world's most notorious drug traffickers, was sentenced to life in a US prison.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-20T19:55:00+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
           },
           {
             "points": 1,
@@ -1245,117 +1346,34 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Mexican drug kingpin Ismael 'El Mayo' Zambada sentenced to life in US prison",
-            "description": "Ismael 'El Mayo' Zambada, co-founder and leader of the Sinaloa cartel, was sentenced to life in prison without parole by a U.S. federal judge in New York.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/fd97b8b0-90a6-454d-964c-2cd89eb5299f.html",
-            "category": "Policy",
-            "publishedAt": "2026-07-20T18:12:34+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zambada",
-              "life",
-              "sentenced",
-              "ismael",
-              "mayo"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-            "description": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-            "source": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do",
-            "category": "General",
-            "publishedAt": "2026-07-20T21:03:24+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zambada",
-              "life",
-              "sentenced",
-              "ismael",
-              "mayo"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "US jails Mexican drug kingpin \u2018El Mayo\u2019 for life",
-            "description": "Mexican drug kingpin Ismael \u201cEl Mayo\u201d Zambada was sentenced on Monday to life in prison in the US, after a plea \u200cdeal last year in which he admitted to shipping millions of kilograms of cocaine over decades as leader of the violent Sinaloa Cartel. US District Judge Brian Cogan handed down the senten",
-            "source": "South China Morning Post",
-            "url": "https://www.scmp.com/news/world/united-states-canada/article/3361256/us-jails-mexican-drug-kingpin-el-mayo-life",
-            "category": "Policy",
-            "publishedAt": "2026-07-20T15:40:37+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zambada",
-              "life",
-              "sentenced",
-              "ismael",
-              "mayo"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Mexican drug kingpin Ismael 'El Mayo' Zambada sentenced in US to life in prison",
-            "description": "Ismael Zambada was sentenced to life in prison in the US after pleading guilty to decades of drug trafficking.",
-            "source": "Channel News Asia",
-            "url": "https://www.channelnewsasia.com/world/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-in-us-life-in-prison-6266291",
-            "category": "General",
-            "publishedAt": "2026-07-21T02:41:11+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "zambada",
-              "life",
-              "sentenced",
-              "ismael",
-              "mayo"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "zambada",
-          "life",
-          "sentenced",
-          "ismael",
-          "mayo"
+          "steep",
+          "results",
+          "decline",
+          "japan",
+          "nikkei"
         ]
-      }
-    ],
-    "france": [
+      },
       {
-        "title": "Two French diplomats subjected to \u2018extremely serious act of intimidation\u2019 in Iran, FM Barrot says",
-        "description": "France\u2019s Foreign Minister Jean-No\u00ebl Barrot on Monday said two French embassy officials had been subject to an \u201cextremely serious act of intimidation\u201d by Iranian security services in Iran the day before, having been held and interrogated for hours. One of them was also subjected to physical abuse, he",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-        "fromUrl": "https://www.france24.com/en/rss",
+        "title": "Japan says Chinese and Russian warships held live-fire drills within its EEZ",
+        "description": "Chinese and Russian navy ships were spotted conducting joint live-fire drills within Japan\u2019s claimed exclusive economic zone in the Pacific Ocean on Sunday, its defence ministry said. Japanese Defence Minister Shinjiro Koizumi first revealed that the two navies had held drills in Japan\u2019s EEZ during ",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/military/article/3361291/japan-says-chinese-and-russian-warships-held-live-fire-drills-within-its-eez",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-20T16:14:22+00:00",
+        "publishedAt": "2026-07-21T04:00:20+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
           {
             "points": 4,
             "reason": "geopolitics category"
           },
           {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": -2,
@@ -1367,17 +1385,241 @@
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "french",
-          "intimidation",
-          "iran",
-          "serious",
-          "barrot"
+          "japan",
+          "within",
+          "live",
+          "drills",
+          "russian"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "Fires in Brazil\u2019s Amazon dropped to historic low in 2025",
+        "description": "Fires in Brazil's Amazon dropped to the lowest level since 1985, with 3.1 million ha burnt in 2025.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/fires-in-brazils-amazon-dropped-to-historic-low-in-2025",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T11:57:00+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "company keyword match: amazon"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "fires",
+          "low",
+          "brazil",
+          "historic",
+          "amazon"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "France likely to become first EU nation to approve social media ban for under-15s",
+        "description": "French lawmakers are expected to approve a bill banning social media access for children under 15, putting France at the forefront of similar efforts in the EU.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/france-likely-to-become-first-eu-nation-to-approve-social-media-ban-for-under-15s-101784602333498.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T09:17:15+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: bill"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "French Parliament's committee approves social media ban for under-15s",
+            "description": "PARIS, July 20 - A reconciliation committee of France's Parliament agreed on a bill on Monday to ban access to social media for those under 15 years of age.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/french-parliaments-committee-approves-social-media-ban-for-under-15s",
+            "category": "Policy",
+            "publishedAt": "2026-07-21T02:42:17+08:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "social",
+              "bill",
+              "ban",
+              "france",
+              "media"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "social",
+          "bill",
+          "ban",
+          "france",
+          "media"
+        ]
+      },
+      {
+        "title": "AliExpress hit with record EU fine",
+        "description": "The Chinese retailer has become the latest major online marketplace to face penalties under the EU\u2019s Digital Services Act.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-20T17:43:00+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "\u2018It is a failure by AliExpress\u2019: European Commission fines the Chinese marketplace $629 million for not blocking counterfeit goods",
+            "description": "The online retailer allegedly breached the European Union's Digital Services Act, mainly through the spread of \"counterfeit clothing\" and \"illegal and harmful products.\"",
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/07/20/european-commission-aliexpress-629-million-fine-temu/",
+            "category": "General",
+            "publishedAt": "2026-07-20T20:11:50+00:00",
+            "score": 3,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "services",
+              "aliexpress",
+              "digital",
+              "eu_entity",
+              "act"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "services",
+          "aliexpress",
+          "digital",
+          "eu_entity",
+          "act"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "France likely to become first EU nation to approve social media ban for under-15s",
+        "description": "French lawmakers are expected to approve a bill banning social media access for children under 15, putting France at the forefront of similar efforts in the EU.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/france-likely-to-become-first-eu-nation-to-approve-social-media-ban-for-under-15s-101784602333498.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T09:17:15+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: bill"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "French Parliament's committee approves social media ban for under-15s",
+            "description": "PARIS, July 20 - A reconciliation committee of France's Parliament agreed on a bill on Monday to ban access to social media for those under 15 years of age.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/french-parliaments-committee-approves-social-media-ban-for-under-15s",
+            "category": "Policy",
+            "publishedAt": "2026-07-21T02:42:17+08:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "social",
+              "bill",
+              "ban",
+              "france",
+              "media"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "social",
+          "bill",
+          "ban",
+          "france",
+          "media"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australian politician barks \u2018sit down\u2019 at dog during live interview",
+        "description": "A top lawmaker from Australia\u2019s far-right One Nation party has grabbed headlines after exploding at a misbehaving dog as he was grilled on live TV. Former deputy prime minister Barnaby Joyce was being interviewed on national broadcaster ABC on Monday night when he interrupted the one-on-one to shrie",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/australasia/article/3361272/australian-politician-barks-sit-down-dog-during-live-interview",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-07-21T01:02:32+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "australian",
+          "dog",
+          "live",
+          "politician",
+          "interview"
         ]
       }
     ]
