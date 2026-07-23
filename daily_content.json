@@ -1,72 +1,160 @@
 {
-  "updatedAt": "2026-07-22T23:56:53.951850",
+  "updatedAt": "2026-07-23T05:06:01.162959",
   "insight": {
-    "title": "Plants Broadcast Airborne Warnings to Protect Neighboring Leaves",
-    "subtitle": "When under attack by insects, plants release chemical plumes into the wind to alert nearby neighbors before pests arrive.",
-    "notificationHook": "Plants broadcast airborne warning signals",
+    "title": "The Architect Who Refused to Build Sidewalks",
+    "subtitle": "How leaving a university campus unpaved created the perfect walkway design.",
+    "notificationHook": "An architect left his campus unpaved",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "When a caterpillar begins chewing on a sagebrush leaf, nearby untouched plants instantly begin filling their own leaves with bitter defensive toxins before a single pest ever reaches them."
+        "text": "When building a new university campus, an architect left the space between buildings completely unpaved, planting only grass."
       },
       {
         "type": "paragraph",
-        "text": "The damaged plant releases invisible airborne chemical compounds into the wind. Surrounding plants absorb these subtle signals through their leaves and immediately prime their defenses, anticipating an incoming attack."
+        "text": "Instead of guessing human behavior, he waited a full year. He let thousands of students walk across the lawn, carving natural dirt paths through daily use."
       },
       {
         "type": "paragraph",
-        "text": "Without nerves or a central brain, the field operates an early-warning radar system. Communication travels passively along atmospheric currents, converting isolated plants into a synchronized defensive network."
+        "text": "At the end of the year, he simply poured concrete directly over those worn paths, creating a walkway network where nobody ever took shortcuts."
       },
       {
         "type": "paragraph",
-        "text": "The wind becomes a broadcast network for silent defense."
+        "text": "People don't follow perfect plans; plans must follow human nature."
       }
     ]
   },
   "news": [
     {
-      "title": "Oil prices surge past $95 amid Middle East conflict and US strikes on Iran",
-      "description": "Oil prices surged past $95 as Middle East conflict and US strikes on Iran threaten global supply routes, likely boosting Big Oil's quarterly results.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/521b9096-7fe0-4a2e-8b7f-b8985abe958b.html",
+      "title": "Why new Houthi threats in the Red Sea could spell trouble for global oil prices and inflation",
+      "description": "Each year, about 10\u201312% of global shipping trade passes through the Bab el-Mandeb Strait \u2013 whose name means \u2018Gate of Tears\u2019.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/why-new-houthi-threats-in-the-red-sea-could-spell-trouble-for-global-oil-prices-and-inflation-287948",
       "category": "Economy",
       "readingTime": 2,
-      "score": 28,
-      "why": "Your fuel and heating costs may rise soon.",
-      "context": "Military strikes in the Middle East disrupted critical global oil supply routes.",
-      "next": "Energy companies could report record quarterly profits.",
-      "bigger": "Geopolitical conflicts continue to drive energy volatility worldwide.",
-      "publishedAt": "2026-07-22T22:13:33+00:00",
+      "score": 26,
+      "why": "Your fuel prices and delivery costs may rise soon.",
+      "context": "Houthis renewed security threats against commercial shipping in the Red Sea.",
+      "next": "Shipping companies may reroute vessels around southern Africa.",
+      "bigger": "Global supply chains remain vulnerable to regional conflict chokepoints.",
+      "publishedAt": "2026-07-21T20:10:09+00:00",
       "topicFingerprint": [
         "us_entity",
-        "donald_trump",
         "iran",
+        "donald_trump",
+        "war",
         "saudi",
-        "arabia",
-        "ai_group"
+        "arabia"
+      ],
+      "alternates": [
+        {
+          "title": "Rupee falls 11 paise to 96.36 against U.S. dollar in early trade",
+          "description": "Forex traders said concerns over the security of oil shipments through the Red Sea and Strait of Hormuz continue to support crude oil prices",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/markets/rupee-falls-11-paise-to-9636-against-us-dollar-in-early-trade/article71252138.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-22T10:48:55+05:30",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "iran",
+            "donald_trump",
+            "war",
+            "saudi",
+            "arabia"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "South Korea\u2019s economy beats estimates as AI-related chip surge aids growth",
+      "description": "South Korea's Q2 GDP grew 0.6%, exceeding expectations due to an AI-fueled chip boom, bolstering arguments for more interest rate hikes.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/economy/south-koreas-economy-beats-estimates-as-ai-related-chip-surge-aids-growth-19951912.htm",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 17,
+      "why": "South Korean interest rates may stay high to curb inflation.",
+      "context": "South Korean economic growth beat expectations driven by high semiconductor exports.",
+      "next": "Local central bankers could raise borrowing costs in upcoming meetings.",
+      "bigger": "Artificial intelligence hardware demands are driving export-reliant national economies.",
+      "publishedAt": "2026-07-23T07:04:21+05:30",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "donald_trump",
+        "war",
+        "saudi",
+        "arabia"
       ],
       "alternates": []
     },
     {
-      "title": "Trump\u2019s Tariffs Enter New Phase, Ending Months of Calm",
-      "description": "President Trump is preparing new levies to replace the ones he put in place after the Supreme Court gutted his trade agenda.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/trumps-tariffs-enter-new-phase-ending-months-of-calm-101784715117130.html",
+      "title": "US House narrowly passes record $1.15 trillion defense spending bill",
+      "description": "The US House narrowly passed a record $1.15 trillion defense spending bill providing service member pay raises and strengthening national security.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/bd4e829e-c6ae-42b6-8329-152f312b1c63.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Imported goods and electronics may become more expensive for consumers.",
-      "context": "The US administration is preparing fresh trade tariffs on foreign goods.",
-      "next": "Affected trading partners could launch retaliatory trade measures.",
-      "bigger": "Global trade fragmentation is reshaping international business supply chains.",
-      "publishedAt": "2026-07-22T18:42:59+05:30",
+      "score": 15,
+      "why": "US taxpayers will finance higher federal spending and national defense.",
+      "context": "The US House approved a massive defense bill providing military raises.",
+      "next": "The spending legislation will face a tight vote in Senate.",
+      "bigger": "Military budgets continue expanding globally amid heightened geopolitical tensions.",
+      "publishedAt": "2026-07-23T00:17:02+00:00",
       "topicFingerprint": [
-        "calm",
+        "us_entity",
+        "iran",
+        "donald_trump",
+        "war",
+        "saudi",
+        "arabia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "What Trump's generic drug tariffs could mean, according to experts",
+      "description": "Health policy experts say higher import duties could increase costs and strain supplies while offering no guarantee manufacturers will shift production to the U.S.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-generic-drug-tariffs-manufacturing/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Prescription medicine costs for consumers may increase significantly.",
+      "context": "Experts warned proposed import tariffs on generic medications risk creating shortages.",
+      "next": "Lawmakers may push for exemptions to protect essential drug supplies.",
+      "bigger": "Trade protectionism in healthcare risks disrupting global pharmaceutical supply chains.",
+      "publishedAt": "2026-07-22T15:58:59-04:00",
+      "topicFingerprint": [
+        "donald_trump",
         "tariffs",
-        "months",
-        "phase",
-        "enter"
+        "us_entity",
+        "generic",
+        "tariff"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Climate change to obliterate $1.5 trillion in U.S. home values",
+      "description": "More than 5 million Americans will leave areas being impacted by climate change this year, according to study.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/climate-change-to-obliterate-1-5-trillion-in-us-home-values-study-finds/",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Property values and home insurance availability may drop in vulnerable areas.",
+      "context": "A study revealed climate hazards will erase massive US property value.",
+      "next": "Millions of coastal residents could migrate toward safer inland regions.",
+      "bigger": "Extreme weather threats are accelerating domestic climate-driven population shifts.",
+      "publishedAt": "2026-07-22T20:11:18-04:00",
+      "topicFingerprint": [
+        "values",
+        "home",
+        "climate",
+        "change",
+        "trillion"
       ],
       "alternates": []
     },
@@ -78,264 +166,56 @@
       "category": "Technology",
       "readingTime": 2,
       "score": 16,
-      "why": "Businesses may face higher subscription costs for enterprise cloud software.",
-      "context": "Strong cloud demand helped Google offset heavy investments in artificial intelligence.",
-      "next": "Competitors could increase their own artificial intelligence infrastructure budgets.",
-      "bigger": "Tech giants are betting heavily on enterprise artificial intelligence adoption.",
+      "why": "The AI digital tools you use may become faster and better.",
+      "context": "Google reported record earnings as enterprise adoption boosted its cloud division.",
+      "next": "Tech companies could raise prices on advanced enterprise cloud features.",
+      "bigger": "Corporate infrastructure spending is increasingly directed toward artificial intelligence capabilities.",
       "publishedAt": "2026-07-22T22:01:52+00:00",
       "topicFingerprint": [
-        "massive",
+        "ai_group",
         "google",
-        "booming",
-        "justifies",
-        "cloud"
+        "race",
+        "pushes",
+        "gemini"
       ],
       "alternates": []
     },
     {
-      "title": "Africa\u2019s Health Defenses Have Improved But Its Funding Has Not",
-      "description": "Against the backdrop of an Ebola disease outbreak, the new Africa Health Security (AHS) Index, released today, reveals significant gaps in critical health infrastructure despite important progress in health security capacity in recent years.",
-      "source": "Inter Press Service",
-      "url": "https://www.ipsnews.net/2026/07/africas-health-defenses-have-improved-but-its-funding-has-not/",
-      "category": "Health",
+      "title": "Germany's growing interest in Africa: A win for both sides?",
+      "description": "Germany is deepening its footprint across Africa, as Foreign Minister Johann Wadephul embarks on his third trip to the continent in 2026. His top-level talks will focus on security, skills development and investment.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local populations face increased risks during sudden disease outbreaks.",
-      "context": "A new assessment shows African health systems remain underfunded despite structural progress.",
-      "next": "International donors could face pressure to supply emergency health funding.",
-      "bigger": "Global health security relies heavily on strengthening regional medical capacity.",
-      "publishedAt": "2026-07-22T10:13:41+00:00",
+      "score": 13,
+      "why": "African workers may gain access to technical training and jobs.",
+      "context": "German officials visited Africa to strengthen security partnerships and economic ties.",
+      "next": "European companies could announce new clean energy investments across Africa.",
+      "bigger": "Western nations are expanding strategic investments across developing African markets.",
+      "publishedAt": "2026-07-22T14:44:00+00:00",
       "topicFingerprint": [
-        "defenses",
-        "funding",
-        "africa",
-        "improved"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Wildberries, 'Russia's Amazon', becomes a target for Ukraine",
-      "description": "MOSCOW, July 22 - From humble origins as a family business run out of an apartment near Moscow, Wildberries has grown in under two decades into Russia's top online retailer and a key economic driver in the country. It's now become a target of strikes by Ukraine.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/wildberries-russias-amazon-becomes-a-target-for-ukraine",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Russian consumers may face delivery delays and online shopping disruptions.",
-      "context": "Ukrainian forces targeted Russia\u2019s largest e-commerce company during the ongoing war.",
-      "next": "Online retailers may strengthen physical and cyber defenses against attacks.",
-      "bigger": "Civilian digital platforms are increasingly becoming military conflict targets.",
-      "publishedAt": "2026-07-22T23:02:44+08:00",
-      "topicFingerprint": [
-        "ukraine",
-        "russia",
-        "military",
-        "top",
-        "protests"
+        "third",
+        "johann",
+        "wadephul",
+        "germany",
+        "foreign"
       ],
       "alternates": [
         {
-          "title": "Ukraine\u2019s strikes on \u2018Russia\u2019s Amazon\u2019 bring war closer to ordinary Russians",
-          "description": "\u2060From humble origins as a family business run out of an \u2060apartment near Moscow, Wildberries has grown in under two decades into Russia\u2019s top online retailer and a key economic driver in the country. It has now become a target of strikes by Ukraine. Ukraine has attacked four Wildberries warehouses ov",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3361507/ukraines-strikes-russias-amazon-bring-war-closer-ordinary-russians",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-22T17:07:07+00:00",
-          "score": 16,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "military",
-            "top",
-            "protests"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Ukraine again hits warehouses of Russia's top online retailer Wildberries",
-          "description": "Ukrainian drone strikes have hit Wildberries, Russia's top online retailer, causing fires and injuries. Ukraine claims the company supports the Russian military.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/813c315e-60db-42c1-a3e8-f8086dd91fdf.html",
-          "category": "General",
-          "publishedAt": "2026-07-22T11:21:04+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "military",
-            "top",
-            "protests"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "US and Iran trade attacks as Trump threatens Iranian infrastructure",
-      "description": "US and Iran trade attacks as Trump threatens Iranian infrastructure. Iran retaliates in Bahrain and Kuwait amid rising casualties and economic disruption.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/fce7a16b-6ce8-40d5-bb3b-6a01a271b987.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 16,
-      "why": "International travel routes and global shipping paths may experience delays.",
-      "context": "Military exchanges escalated between the United States and Iran in the region.",
-      "next": "Regional nations could heighten security around critical energy facilities.",
-      "bigger": "Direct state military conflict destabilizes key strategic international corridors.",
-      "publishedAt": "2026-07-22T00:37:56+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "iran",
-        "saudi",
-        "arabia",
-        "ai_group"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Spain and France battle major wildfires as intense heat grips southern Europe",
-      "description": "Firefighters battle massive wildfires in Spain and France as extreme heat and drought grip southern Europe, forcing thousands to evacuate their homes.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/6a6fdebb-94fe-406c-a079-748bb1946d0b.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Travelers and residents in the region face evacuations and cancelled trips.",
-      "context": "Extreme heatwaves ignited destructive wildfires across parts of southern Europe.",
-      "next": "European authorities could impose strict water restrictions and travel bans.",
-      "bigger": "Climate extremes are forcing European nations to rethink emergency management.",
-      "publishedAt": "2026-07-22T07:10:30+00:00",
-      "topicFingerprint": [
-        "battle",
-        "heat",
-        "wildfires",
-        "eu_entity",
-        "intense"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump tech official accuses China\u2019s Moonshot AI of stealing from Anthropic",
-      "description": "The Trump administration has accused Chinese start-up Moonshot AI of covertly extracting capabilities from leading US artificial intelligence models and obtaining restricted Nvidia chips abroad, escalating Washington\u2019s scrutiny of the company following the release of its powerful Kimi K3 model. Mich",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Software developers may face tighter restrictions on cross-border technology access.",
-      "context": "The US accused a Chinese AI startup of illegally copying American technology.",
-      "next": "Washington may place stricter sanctions on Chinese artificial intelligence firms.",
-      "bigger": "The technological rivalry between the US and China is intensifying rapidly.",
-      "publishedAt": "2026-07-22T19:32:25+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "iran",
-        "saudi",
-        "arabia",
-        "ai_group"
-      ],
-      "alternates": [
-        {
-          "title": "White House accuses China\u2019s Moonshot of stealing Anthropic AI",
-          "description": "Moonshot AI is accused of \"distilling\" Anthropic\u2019s Fable for the development of its K3 model.",
+          "title": "Germany\u2019s foreign minister, on Africa tour, eyes business ties amid US, China pressure",
+          "description": "German Foreign Minister Johann Wadephul is on his third trip to Africa in 2026.",
           "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/white-house-accuses-chinas-moonshot-of-stealing-anthropic-ai",
-          "category": "Technology",
-          "publishedAt": "2026-07-23T02:32:00+08:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "donald_trump",
-            "iran",
-            "saudi",
-            "arabia",
-            "ai_group"
-          ],
-          "group_id": 5
-        }
-      ]
-    },
-    {
-      "title": "Global wars are delaying FTA talks, accounting for one-fifth of India\u2019s trade",
-      "description": "These deals include separate FTAs with the Gulf Cooperation Council (GCC) countries, Israel, and the Russia-led Eurasian Economic Union \u2014 cumulatively accounting for about 20% of India\u2019s total trade.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/global-wars-are-delaying-fta-talks-accounting-for-one-fifth-of-indias-trade/article71248386.ece",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Indian exporters may face higher costs and delayed market expansion.",
-      "context": "Escalating international conflicts disrupted India's free trade negotiations with key partners.",
-      "next": "Trade ministers could prioritize alternative bilateral commerce agreements instead.",
-      "bigger": "Geopolitical instability is slowing down global free trade integration worldwide.",
-      "publishedAt": "2026-07-22T07:31:00+05:30",
-      "topicFingerprint": [
-        "trade",
-        "india",
-        "delaying",
-        "accounting",
-        "fifth"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India: Youth-led 'Cockroach' protests increase pressure on Modi's government",
-      "description": "With each passing day, India's youth-led cockroach movement seems to swell. As the sit-in by anti-corruption campaigners grows in New Delhi, opposition lawmakers relay their call for the education minister to resign over the leaking of exam tests. The standoff grew with the Supreme Court refusing to",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-youth-led-cockroach-protests-increase-pressure-on-modi-s-government",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Citizens in major cities may face local traffic and public transport delays.",
-      "context": "Young activists staged massive anti-corruption sit-in demonstrations in New Delhi.",
-      "next": "Government leaders could announce educational policy reforms to appease protesters.",
-      "bigger": "Youth movements are increasingly shaping political accountability across developing nations.",
-      "publishedAt": "2026-07-22T13:58:01+00:00",
-      "topicFingerprint": [
-        "india",
-        "cockroach",
-        "movement",
-        "minister",
-        "protests"
-      ],
-      "alternates": [
-        {
-          "title": "India\u2019s \u2018cockroach\u2019 protests: a rare political opening for the opposition?",
-          "description": "India\u2019s student-led \u201ccockroach\u201d protests, which began as anger over alleged entrance exam leaks, are now becoming a broader test of whether Prime Minister Narendra Modi\u2019s government can contain young Indians\u2019 frustration over education, jobs and accountability. The fast-growing movement gained polit",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/week-asia/politics/article/3361479/indias-cockroach-protests-rare-political-opening-opposition",
-          "category": "Policy",
-          "publishedAt": "2026-07-22T12:00:13+00:00",
+          "url": "https://www.straitstimes.com/world/europe/germanys-foreign-minister-on-africa-tour-eyes-business-ties-amid-us-china-pressure",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-23T00:41:08+08:00",
           "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
-            "india",
-            "cockroach",
-            "movement",
-            "minister",
-            "protests"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "India's youth-led 'Cockroach' movement vows to continue protest after crackdown",
-          "description": "The youth-led 'Cockroach' movement in New Delhi continues protesting exam leaks and demanding Education Minister Dharmendra Pradhan's resignation.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/6aa06a8e-92ce-4978-860b-214f0c26915c.html",
-          "category": "General",
-          "publishedAt": "2026-07-22T11:44:43+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "india",
-            "cockroach",
-            "movement",
-            "minister",
-            "protests"
+            "third",
+            "johann",
+            "wadephul",
+            "germany",
+            "foreign"
           ],
           "group_id": 0
         }
@@ -349,151 +229,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 10,
-      "why": "Nicaraguan citizens face severe loss of civil rights and political freedoms.",
-      "context": "The United Nations denounced Nicaragua for ending democratic electoral processes.",
-      "next": "Foreign nations could enforce economic sanctions against the regime.",
-      "bigger": "Authoritarian governance continues to weaken global human rights standards.",
+      "why": "Nicaraguan citizens face expanding government surveillance and political repression.",
+      "context": "The United Nations denounced Nicaragua for eliminating democratic elections and freedoms.",
+      "next": "Foreign governments could impose targeted diplomatic sanctions on political leaders.",
+      "bigger": "Authoritarian governments continue dismantling democratic safeguards across Central America.",
       "publishedAt": "2026-07-22T20:07:35+00:00",
       "topicFingerprint": [
-        "rights",
-        "elections",
         "chief",
+        "freedoms",
         "nicaragua",
-        "freedoms"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-      "description": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Customers waiting for new vehicle models may face extended delivery delays.",
-      "context": "High development expenses delayed Tesla\u2019s delivery schedules for new commercial vehicles.",
-      "next": "Investors could demand stricter cost controls during upcoming earnings calls.",
-      "bigger": "Transitioning to advanced electric transportation requires massive sustained capital spending.",
-      "publishedAt": "2026-07-22T20:43:38+00:00",
-      "topicFingerprint": [
-        "production",
-        "slips",
-        "megapack",
-        "tesla",
-        "cybercab"
-      ],
-      "alternates": []
-    }
-  ],
-  "candidatePool": [
-    {
-      "title": "Andy Burnham\u2019s new Cabinet reflects his focus on UK economic growth",
-      "description": "A sweeping overhaul signals a new financial direction for the country, but markets remain cautious",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/andy-burnhams-new-cabinet-reflects-his-focus-uk-economic-growth",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Local UK businesses may see changes in regional development spending.",
-      "context": "A political restructuring signaled a new strategy focused on domestic economic development.",
-      "next": "Ministers could unveil new policy proposals targeting infrastructure investments.",
-      "bigger": "Regional political leaders are taking bolder roles in national economic policies.",
-      "publishedAt": "2026-07-22T08:30:53+00:00",
-      "topicFingerprint": [
-        "burnham",
-        "uk_entity",
-        "andy",
-        "cabinet",
-        "cautious"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Social Security email to retirees faces backlash as Democrats allege misleading tax claims",
-      "description": "Democratic senators accused the Social Security Administration of sending retirees a misleading email about tax benefits.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/social-security-email-to-retirees-faces-backlash-as-democrats-allege-misleading-tax-claims-101784725910571.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 14,
-      "why": "US retirees may experience confusion over their actual tax obligations.",
-      "context": "US lawmakers criticized official communications sent to retirees regarding tax benefits.",
-      "next": "Government agencies could issue corrected guidance to clear up tax misunderstandings.",
-      "bigger": "Government communication standards are under growing scrutiny over partisan claims.",
-      "publishedAt": "2026-07-22T18:55:02+05:30",
-      "topicFingerprint": [
-        "tax",
-        "social",
-        "claims",
-        "security",
-        "email"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Larry Page and Sergey Brin splash $225 million in Miami property as billionaires flee California\u2019s tax\u2014and Google is expanding its office there too",
-      "description": "Larry Page and Sergey Brin now own around $225 million in Miami real estate, and other billionaires are bringing their companies to the coastal region.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/22/google-cofounders-sergey-brin-larry-page-buying-miami-mansions-billionaires-flee-california-tax-google-office-space/",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Miami residents could face higher local housing and commercial real estate prices.",
-      "context": "Tech billionaires and major corporations moved high-value assets and offices to Florida.",
-      "next": "Local officials may invest more tax revenue into regional tech infrastructure.",
-      "bigger": "Wealth and tech jobs are relocating away from high-tax states.",
-      "publishedAt": "2026-07-22T15:22:43+00:00",
-      "topicFingerprint": [
-        "google",
-        "miami",
-        "page",
-        "brin",
-        "sergey"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Samsung details features of its smart glasses as it enters market dominated by Meta",
-      "description": "The Samsung smart glasses are the tech giant's first foray into the product category which is currently dominated by Meta.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Consumers will soon have more options for wearable smart technology products.",
-      "context": "Samsung unveiled details about its new smart glasses to compete in wearable tech.",
-      "next": "Competitors may lower prices or add features to protect market share.",
-      "bigger": "Wearable technology is becoming the next major battleground for consumer electronics.",
-      "publishedAt": "2026-07-22T17:02:15+00:00",
-      "topicFingerprint": [
-        "smart",
-        "samsung",
-        "glasses",
-        "meta",
-        "google"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "France environment minister quits, then stays to act on climate",
-      "description": "The opposition had accused the government of failing to prepare for increasingly frequent heatwaves.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/france-environment-minister-quits-then-stays-to-act-on-climate",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "French taxpayers may see government spending shift toward climate defense projects.",
-      "context": "A French minister rescinded a resignation following political pressure over heatwave preparedness.",
-      "next": "Parliament could debate new legislation to fund regional climate resilience initiatives.",
-      "bigger": "Public demand is forcing political leaders to prioritize emergency climate action.",
-      "publishedAt": "2026-07-22T21:08:00+08:00",
-      "topicFingerprint": [
-        "environment",
-        "minister",
-        "act",
-        "climate",
-        "france"
+        "elections",
+        "rights"
       ],
       "alternates": []
     },
@@ -505,17 +251,256 @@
       "category": "Health",
       "readingTime": 2,
       "score": 10,
-      "why": "AI users may encounter stricter safety warnings or restricted health advice.",
-      "context": "A user filed legal action claiming inaccurate chatbot medical advice caused harm.",
-      "next": "Tech platforms could restrict automated tools from answering medical questions entirely.",
-      "bigger": "Legal liability risks are forcing stricter controls on consumer artificial intelligence.",
+      "why": "Health features on AI apps may face strict warning labels.",
+      "context": "A lawsuit alleged artificial intelligence medical advice caused severe health complications.",
+      "next": "Tech companies could restrict automated medical responses on public chatbots.",
+      "bigger": "Legal accountability frameworks for consumer artificial intelligence tools are expanding.",
       "publishedAt": "2026-07-23T06:14:00+08:00",
       "topicFingerprint": [
-        "crisis",
         "man",
-        "chatgpt",
-        "claims",
-        "fatal"
+        "crisis",
+        "led",
+        "lawsuit",
+        "near"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "description": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Public transport and city travel in New Delhi may experience delays.",
+      "context": "Opposition parties joined escalating demonstrations outside the Indian prime minister's home.",
+      "next": "Authorities could deploy additional security forces to manage urban rallies.",
+      "bigger": "Mass street demonstrations continue reshaping political discourse across South Asia.",
+      "publishedAt": "2026-07-22T08:02:04+00:00",
+      "topicFingerprint": [
+        "india",
+        "cockroach",
+        "party",
+        "protests",
+        "led"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "U.S. workers are staying in unwanted jobs for health insurance",
+      "description": "Almost a quarter of workers in the U.S. \u2014 23 million adults \u2014 are experiencing \" job lock ,\" staying in roles they don't want to avoid losing health insurance benefits, according to a new Gallup analysis . Why it matters: Women and people who have chronic health conditions feel the burden most becau",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/22/health-insurance-costs-trap-millions-unwanted-jobs",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 8,
+      "why": "US job seekers may find fewer open positions in competitive industries.",
+      "context": "Millions of American workers remain stuck in undesirable jobs for insurance.",
+      "next": "Policy experts could press Congress to reform employer-tied health benefits.",
+      "bigger": "Employer-linked healthcare systems distort labor mobility and reduce workforce flexibility.",
+      "publishedAt": "2026-07-22T21:54:35+00:00",
+      "topicFingerprint": [
+        "unwanted",
+        "jobs",
+        "lock",
+        "job",
+        "workers"
+      ],
+      "alternates": [
+        {
+          "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+          "description": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
+          "source": "Stat",
+          "url": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/",
+          "category": "Health",
+          "publishedAt": "2026-07-22T04:01:00+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "unwanted",
+            "jobs",
+            "lock",
+            "job",
+            "workers"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "French environment minister backtracks on resignation over pesticide bill",
+      "description": "French environment minister Monique Barbut remains in her post after President Emmanuel Macron refused her resignation over a controversial pesticide bill.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/67385b91-aee7-43d3-89f9-531e6f78e3fd.html",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "French farmers may keep access to cheaper agricultural pesticide products.",
+      "context": "France's environment minister stayed in office following political pressure over pesticides.",
+      "next": "Environmental groups could stage nationwide demonstrations against relaxed chemical rules.",
+      "bigger": "European governments struggle to balance agricultural demands against environmental protection.",
+      "publishedAt": "2026-07-23T00:26:22+00:00",
+      "topicFingerprint": [
+        "environment",
+        "minister",
+        "france",
+        "act",
+        "climate"
+      ],
+      "alternates": [
+        {
+          "title": "France: Macron refuses environment minister's resignation over pesticide law",
+          "description": "France's environment minister will remain in her post despite her disagreement with a bill reintroducing controversial pesticides, given the \"urgency\" to act on climate change, her team said Wednesday. Monique Barbut had submitted her resignation to President Emmanuel Macron, but he refused it. Expl",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/france-macron-refuses-environment-minister-s-resignation-over-pesticide-law",
+          "category": "Environment",
+          "publishedAt": "2026-07-22T14:31:13+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "environment",
+            "minister",
+            "france",
+            "act",
+            "climate"
+          ],
+          "group_id": 1
+        }
+      ]
+    }
+  ],
+  "candidatePool": [
+    {
+      "title": "7/22: The Takeout with Major Garrett",
+      "description": "Trump and Iran trade threats to attack energy infrastructure; Trump administration officially announces nuclear agreement with Saudi Arabia.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/072226-the-takeout-with-major-garrett/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Your global heating and vehicle fuel costs could jump suddenly.",
+      "context": "Tensions escalated between the US and Iran over energy infrastructure threats.",
+      "next": "Diplomatic envoys may scramble to keep oil trade channels open.",
+      "bigger": "Middle East political posturing continues impacting global energy market stability.",
+      "publishedAt": "2026-07-22T17:00:00-04:00",
+      "topicFingerprint": [
+        "us_entity",
+        "iran",
+        "donald_trump",
+        "war",
+        "saudi",
+        "arabia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Andy Burnham\u2019s new Cabinet reflects his focus on UK economic growth",
+      "description": "A sweeping overhaul signals a new financial direction for the country, but markets remain cautious",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/andy-burnhams-new-cabinet-reflects-his-focus-uk-economic-growth",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 15,
+      "why": "British businesses in the area may access new infrastructure funds.",
+      "context": "Andy Burnham restructured his local cabinet to prioritize regional economic performance.",
+      "next": "Regional administrators could introduce targeted tax incentives to spur development.",
+      "bigger": "Devolution policies are shifting economic planning power toward regional leaders.",
+      "publishedAt": "2026-07-22T08:30:53+00:00",
+      "topicFingerprint": [
+        "andy",
+        "cabinet",
+        "uk_entity",
+        "burnham",
+        "cautious"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Social Security email to retirees faces backlash as Democrats allege misleading tax claims",
+      "description": "Democratic senators accused the Social Security Administration of sending retirees a misleading email about tax benefits.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/social-security-email-to-retirees-faces-backlash-as-democrats-allege-misleading-tax-claims-101784725910571.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "US retirees may receive updated guidance on tax rules.",
+      "context": "US lawmakers criticized official emails sent to retirees containing tax claims.",
+      "next": "Officials could issue clarified tax information to affected Social Security recipients.",
+      "bigger": "Public communications by government agencies face heightened scrutiny over political neutrality.",
+      "publishedAt": "2026-07-22T18:55:02+05:30",
+      "topicFingerprint": [
+        "email",
+        "security",
+        "tax",
+        "misleading",
+        "retirees"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Defense shares rally after UK government shake-up \u2014 analysts name the stocks to watch",
+      "description": "John Healey, who recently resigned as defense secretary over concerns about lack of security funding, was named U.K. finance minister on Monday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/defense-stocks-uk-government-john-healey-chancellor.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "British defense sector investors may see higher short-term equity returns.",
+      "context": "British defense stocks rose following key cabinet appointments in financial posts.",
+      "next": "The new finance minister could increase military spending in next budget.",
+      "bigger": "National security spending priorities continue driving European defense sector valuations.",
+      "publishedAt": "2026-07-22T05:29:20+00:00",
+      "topicFingerprint": [
+        "shake",
+        "analysts",
+        "defense",
+        "name",
+        "uk_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Meta hires Assaf Keren from Qualtrics and PayPal as its new chief information security officer",
+      "description": "Meta has hired Assaf Keren as its next chief information security officer, filling a vacancy created when Guy Rosen announced his departure in June after 13 years at the company. Keren joins this week from software platform Qualtrics, where he spent two years as chief security officer, and previousl",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/meta-hires-assaf-keren-ciso-qualtrics-paypal",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "User data on Meta platforms may gain upgraded security protection.",
+      "context": "Meta appointed Assaf Keren to lead its corporate cybersecurity strategy.",
+      "next": "Meta's new team could update platform account verification procedures worldwide.",
+      "bigger": "Tech giants are investing heavily in senior talent to protect infrastructure.",
+      "publishedAt": "2026-07-22T18:59:28+00:00",
+      "topicFingerprint": [
+        "officer",
+        "security",
+        "chief",
+        "assaf",
+        "qualtrics"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Three US airports plan to ditch TSA amid push for private security",
+      "description": "The move came after recent government shutdowns which left TSA agents unpaid for months and led to long lines.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/three-us-airports-plan-to-ditch-tsa-amid-push-for-private-security",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Passengers at these airports may experience altered security checkpoint lines.",
+      "context": "Three US airports moved to replace federal screeners with private contractors.",
+      "next": "Other regional airports could evaluate privatizing their security workforce operations.",
+      "bigger": "Air travel infrastructure is increasingly shifting security duties to private firms.",
+      "publishedAt": "2026-07-23T09:35:00+08:00",
+      "topicFingerprint": [
+        "security",
+        "tsa",
+        "ditch",
+        "airports",
+        "private"
       ],
       "alternates": []
     },
@@ -527,17 +512,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Borrowers and investors face unpredictable interest rate decisions in coming months.",
-      "context": "Federal Reserve officials provided conflicting public signals on monetary policy direction.",
-      "next": "Financial markets could experience increased volatility during upcoming central bank speeches.",
-      "bigger": "Central bank communication strategies strongly influence global financial market expectations.",
+      "why": "Borrowers may face unpredictable changes to interest rate expectations.",
+      "context": "Regional Federal Reserve officials guided rate expectations while the chairman stayed quiet.",
+      "next": "Financial markets will scrutinize upcoming speeches from regional central bank officers.",
+      "bigger": "Central bank communication shifts cause ongoing financial market volatility.",
       "publishedAt": "2026-07-22T18:47:24+00:00",
       "topicFingerprint": [
-        "quieter",
-        "story",
         "others",
         "chief",
-        "fed"
+        "story",
+        "fed",
+        "means"
       ],
       "alternates": []
     },
@@ -549,17 +534,17 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 7,
-      "why": "Corporate telecom clients in the US may gain wider service coverage.",
-      "context": "A global engineering firm purchased an American communications provider to expand operations.",
-      "next": "The company could integrate operations to offer bundled technology solutions soon.",
-      "bigger": "Cross-border consolidation is strengthening regional infrastructure and technology supply chains.",
+      "why": "North American enterprise telecom clients may gain broader service coverage.",
+      "context": "CSE Global purchased an American telecommunications company to expand market reach.",
+      "next": "The company could combine software offerings to target industrial customers.",
+      "bigger": "Consolidation in industrial telecommunications services is driving global corporate buyouts.",
       "publishedAt": "2026-07-22T10:36:02+00:00",
       "topicFingerprint": [
-        "us_entity8",
-        "cse",
+        "million",
         "acquires",
-        "telecommunications",
-        "million"
+        "cse",
+        "us_entity8",
+        "telecommunications"
       ],
       "alternates": []
     },
@@ -571,61 +556,17 @@
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Regional businesses and shipping operators may continue facing high security risks.",
-      "context": "A senior diplomat stated both nations must accept political compromises for peace.",
-      "next": "Diplomatic negotiators could push for secret backchannel talks between both countries.",
-      "bigger": "Resolving entrenched international conflicts requires shifts in traditional diplomatic strategies.",
+      "why": "International trade along Middle East shipping lanes may stay fragile.",
+      "context": "A senior diplomat stated diplomatic breakthroughs require mutual concessions between rivals.",
+      "next": "Negotiators could attempt lower-level talks to lessen regional military risks.",
+      "bigger": "Global diplomacy increasingly hinges on pragmatism rather than political victory.",
       "publishedAt": "2026-07-22T20:20:57+00:00",
       "topicFingerprint": [
         "iran",
-        "diplomacy",
         "griffiths",
-        "lost",
-        "accept"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why the US may stop collecting workplace race and gender data",
-      "description": "A newly proposed change would eliminate annual workplace demographic reporting used to monitor discrimination trends.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/22/why-the-us-may-stop-collecting-workplace-race-and-gender-data",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "American job seekers may find workplace diversity metrics harder to track.",
-      "context": "A US policy proposal aims to eliminate mandatory demographic reporting for employers.",
-      "next": "Labor advocacy groups could launch legal challenges against the proposed rules.",
-      "bigger": "Corporate regulatory compliance requirements are shifting under changing political administrations.",
-      "publishedAt": "2026-07-22T18:36:39+00:00",
-      "topicFingerprint": [
-        "race",
-        "collecting",
-        "workplace",
-        "stop",
-        "data"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "If you pay a hacker\u2019s ransom, chances are that they\u2019ll come back for more",
-      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Your personal data may remain vulnerable even after companies pay ransoms.",
-      "context": "Security experts warned that paying cyber extortionists increases risk of future attacks.",
-      "next": "Insurers may refuse coverage for organizations that choose to pay ransoms.",
-      "bigger": "Cybercrime groups are evolving business models to maximize long-term extortion revenue.",
-      "publishedAt": "2026-07-22T15:29:41+00:00",
-      "topicFingerprint": [
-        "ransom",
-        "hacker",
-        "pay",
-        "chances",
-        "come"
+        "accept",
+        "requires",
+        "lost"
       ],
       "alternates": []
     }
@@ -633,6 +574,53 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
+        "title": "US tariffs \u2018strengthen\u2019 Lula against Bolsonaro\u2019s son in upcoming elections",
+        "description": "With Lula polling ahead and tariffs squeezing Brazil s economy, the Bolsonaro family s Washington strategy is faltering.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-23T01:20:37+00:00",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "bolsonaro",
+          "upcoming",
+          "son",
+          "lula",
+          "strengthen"
+        ]
+      },
+      {
         "title": "US Congress explores new tariffs, sanctions to counter China\u2019s shipbuilding dominance",
         "description": "US lawmakers are examining tariffs, port fees and sanctions targeting China\u2019s shipbuilding industry, as US Congress searches for ways to rebuild America\u2019s severely diminished commercial fleet without increasing costs for US importers and consumers. At a House Foreign Affairs Committee hearing on Wed",
         "source": "South China Morning Post",
@@ -642,7 +630,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-22T22:40:15+00:00",
         "reason": "within_48h",
-        "score": 14,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
@@ -670,81 +658,77 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "dominance",
+          "congress",
           "tariffs",
           "shipbuilding",
-          "explores",
+          "dominance",
           "counter"
-        ]
-      },
-      {
-        "title": "Ukraine agrees to export drones to US for Pentagon plan, source says",
-        "description": "July 22 - Ukraine has agreed to export drones to the United States to participate in the Pentagon's Drone Dominance programme, a source familiar with the matter told Reuters on Wednesday.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/ukraine-agrees-to-export-drones-to-us-for-pentagon-plan-source-says",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T19:33:02+08:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: export"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: pentagon"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: export"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "export",
-          "agrees",
-          "source",
-          "ukraine",
-          "pentagon"
         ]
       }
     ],
     "china": [
       {
+        "title": "Chile hunts for copper buyers beyond China with US$100 billion mining plan",
+        "description": "Chile wants to widen the group of countries buying its copper and attract about US$100 billion in mining investment over the next decade, its foreign minister said on Wednesday, in the most explicit move yet by the new government in Santiago to reduce its exposure to Chinese demand. \u201cThe market is h",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/americas/article/3361514/chile-hunts-copper-buyers-beyond-china-us100-billion-mining-plan",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-22T21:59:26+00:00",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "buyers",
+          "plan",
+          "mining",
+          "chile",
+          "copper"
+        ]
+      },
+      {
         "title": "US Congress explores new tariffs, sanctions to counter China\u2019s shipbuilding dominance",
         "description": "US lawmakers are examining tariffs, port fees and sanctions targeting China\u2019s shipbuilding industry, as US Congress searches for ways to rebuild America\u2019s severely diminished commercial fleet without increasing costs for US importers and consumers. At a House Foreign Affairs Committee hearing on Wed",
         "source": "South China Morning Post",
@@ -754,7 +738,7 @@
         "readingTime": 2,
         "publishedAt": "2026-07-22T22:40:15+00:00",
         "reason": "within_48h",
-        "score": 14,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
@@ -782,46 +766,97 @@
           },
           {
             "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "congress",
+          "tariffs",
+          "shipbuilding",
+          "dominance",
+          "counter"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "US tariffs \u2018strengthen\u2019 Lula against Bolsonaro\u2019s son in upcoming elections",
+        "description": "With Lula polling ahead and tariffs squeezing Brazil s economy, the Bolsonaro family s Washington strategy is faltering.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-23T01:20:37+00:00",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "dominance",
-          "tariffs",
-          "shipbuilding",
-          "explores",
-          "counter"
+          "bolsonaro",
+          "upcoming",
+          "son",
+          "lula",
+          "strengthen"
         ]
-      },
+      }
+    ],
+    "india": [
       {
-        "title": "China, EU pushing ahead on joint research despite trade tensions",
-        "description": "China and the EU have renewed their joint research agreement, according to Chinese state-linked media, signalling a willingness to collaborate on climate and agriculture despite trade tensions. People\u2019s Financial News, a publication affiliated with Communist Party mouthpiece People\u2019s Daily, reported",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3361500/china-eu-pushing-ahead-joint-research-despite-trade-tensions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Global wars are delaying FTA talks, accounting for one-fifth of India\u2019s trade",
+        "description": "These deals include separate FTAs with the Gulf Cooperation Council (GCC) countries, Israel, and the Russia-led Eurasian Economic Union \u2014 cumulatively accounting for about 20% of India\u2019s total trade.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/global-wars-are-delaying-fta-talks-accounting-for-one-fifth-of-indias-trade/article71248386.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-22T14:25:10+00:00",
+        "publishedAt": "2026-07-22T07:31:00+05:30",
         "reason": "within_48h",
-        "score": 14,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: research"
+            "reason": "important keyword match: global"
           },
           {
             "points": 2,
-            "reason": "important keyword match: financial"
+            "reason": "important keyword match: russia"
           },
           {
             "points": 2,
-            "reason": "important keyword match: climate"
+            "reason": "important keyword match: israel"
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: india"
           },
           {
             "points": 4,
@@ -832,73 +867,68 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "india",
           "trade",
-          "tensions",
-          "research",
-          "eu_entity",
-          "pushing"
+          "accounting",
+          "delaying",
+          "fifth"
+        ]
+      },
+      {
+        "title": "Can India become the next semiconductor hub after Taiwan?",
+        "description": "India is investing billions to build a domestic semiconductor industry as major industrial powers seek to diversify supply chains beyond Taiwan.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub-after-taiwan/a-78066491",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-22T13:17:00+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "india",
+          "semiconductor",
+          "taiwan",
+          "hub"
         ]
       }
     ],
     "europe": [
-      {
-        "title": "China, EU pushing ahead on joint research despite trade tensions",
-        "description": "China and the EU have renewed their joint research agreement, according to Chinese state-linked media, signalling a willingness to collaborate on climate and agriculture despite trade tensions. People\u2019s Financial News, a publication affiliated with Communist Party mouthpiece People\u2019s Daily, reported",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3361500/china-eu-pushing-ahead-joint-research-despite-trade-tensions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T14:25:10+00:00",
-        "reason": "within_48h",
-        "score": 14,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: research"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "trade",
-          "tensions",
-          "research",
-          "eu_entity",
-          "pushing"
-        ]
-      },
       {
         "title": "European Union gives its greenlight to Paramount and Warner's mega merger with some conditions",
         "description": "The European Union approved Paramount's $81 billion takeover of Warner Bros. Discovery this week, effectively clearing another regulatory hurdle for a mega merger that could vastly reshape the entertainment and media landscape worldwide.",
@@ -925,14 +955,14 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [
           {
-            "title": "EU Conditionally Approves Paramount-Warner Bros Merger Amid US Hurdles",
-            "description": "The EU conditionally approved the $110 billion Paramount-Warner Bros. Discovery merger, but a US federal judge has ordered a temporary pause on the deal.",
+            "title": "EU conditionally approves Paramount's $110 billion Warner Bros deal",
+            "description": "The EU conditionally approved Paramount's takeover of Warner Bros. Discovery, but a federal judge in the US has ordered a temporary pause on the merger.",
             "source": "Frontpage",
             "url": "https://frontpage.ink/6c6307a1-874c-484d-bba3-ccafe48524bb.html",
             "category": "Financial",
@@ -940,56 +970,46 @@
             "score": 7,
             "readingTime": 2,
             "topicFingerprint": [
+              "eu_entity",
               "warner",
               "paramount",
-              "eu_entity",
-              "merger",
-              "bros"
+              "bros",
+              "us_entity"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
+          "eu_entity",
           "warner",
           "paramount",
-          "eu_entity",
-          "merger",
-          "bros"
+          "bros",
+          "us_entity"
         ]
-      }
-    ],
-    "uk": [
+      },
       {
-        "title": "Defense shares rally after UK government shake-up \u2014 analysts name the stocks to watch",
-        "description": "John Healey, who recently resigned as defense secretary over concerns about lack of security funding, was named U.K. finance minister on Monday.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/22/defense-stocks-uk-government-john-healey-chancellor.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "title": "Science Corporation\u2019s vision-restoring chip wins EU approval",
+        "description": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+        "fromUrl": "https://techcrunch.com/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-07-22T05:29:20+00:00",
+        "publishedAt": "2026-07-22T18:18:02+00:00",
         "reason": "within_48h",
-        "score": 11,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: finance"
+            "reason": "important keyword match: science"
           },
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: chip"
           },
           {
             "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: ceo"
           },
           {
             "points": 2,
@@ -997,83 +1017,11 @@
           },
           {
             "points": -3,
-            "reason": "financial lowest priority keyword match: defense"
+            "reason": "low corporate opinion signal"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "shake",
-          "uk_entity",
-          "defense",
-          "rally",
-          "name"
-        ]
-      },
-      {
-        "title": "Ex-UK water boss charged in plot to 'manipulate' test results",
-        "description": "Former Southern Water CEO Matthew Wright has been charged with conspiring to manipulate water quality tests, with a judge describing the allegations as involving \u201ccarefully planned and extensive fraud and dishonesty at a high level.\u201d",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/world/ex-uk-water-boss-charged-in-plot-manipulate-test-results-6271861",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T04:43:28+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: ceo"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "manipulate",
-          "test",
-          "plot",
-          "charged",
-          "uk_entity"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Can India become the next semiconductor hub after Taiwan?",
-        "description": "India is investing billions to build a domestic semiconductor industry as major industrial powers seek to diversify supply chains beyond Taiwan.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub-after-taiwan/a-78066491",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T13:17:00+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
+            "points": -2,
+            "reason": "low quality group match: said"
           },
           {
             "points": 1,
@@ -1083,174 +1031,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "hub",
-          "semiconductor",
-          "india",
-          "taiwan"
-        ]
-      },
-      {
-        "title": "New trade pact a win-win for India and U.K.",
-        "description": "The CETA can reshape trade and investment flows, create quality jobs and growth, and transition India to a more competitive and innovation-driven economy",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/opinion/op-ed/new-trade-pact-a-win-win-for-india-and-uk/article71250852.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T14:56:02+05:30",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: innovation"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": -5,
-            "reason": "Opinion detected"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "trade",
-          "win",
-          "uk",
-          "pact",
-          "india"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "French lawmakers approve a sweeping social media ban for children under 15",
-        "description": "The move makes France the first country in the European Union to pass a blanket ban on platforms as concerns grow worldwide over the harmful effects of digital content on kids.",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T01:46:50-04:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: worldwide"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: NPR"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "France becomes first EU country to ban social media for under-15s",
-            "description": "French lawmakers approved a bill banning social media for under-15s and mobile phones in high schools to protect minors from harmful digital content.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/d7a49bda-c6f2-403b-b953-7034c605aeac.html",
-            "category": "Policy",
-            "publishedAt": "2026-07-22T01:27:28+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "lawmakers",
-              "harmful",
-              "digital",
-              "media",
-              "french"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "French lawmakers adopt a sweeping social media ban for children under 15",
-            "description": "French lawmakers have adopted a bill banning children under 15 from using social media, making France the first country in the European Union to approve a blanket ban on platforms as concerns grow worldwide over the harmful effects of digital content o...",
-            "source": "ABC News",
-            "url": "https://abcnews.com/International/wireStory/french-lawmakers-adopt-sweeping-social-media-ban-children-134958496",
-            "category": "Policy",
-            "publishedAt": "2026-07-21T14:50:02-04:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "lawmakers",
-              "harmful",
-              "digital",
-              "media",
-              "french"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "lawmakers",
-          "harmful",
-          "digital",
-          "media",
-          "french"
-        ]
-      },
-      {
-        "title": "Modelling scout linked to Epstein found dead in Paris",
-        "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-22T18:21:55+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "scout",
-          "found",
-          "dead",
-          "epstein",
-          "linked"
+          "corporation",
+          "eu_entity",
+          "restoring",
+          "approval",
+          "wins"
         ]
       }
     ],
@@ -1281,17 +1066,17 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "cinemas",
+          "libraries",
+          "beat",
+          "residents",
           "summer",
-          "offer",
-          "heat",
-          "free"
+          "heat"
         ]
       },
       {
@@ -1312,16 +1097,98 @@
           },
           {
             "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "heatwave",
+          "italy",
+          "wildfires",
+          "struggles"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/us-iran-tensions-underpin-dollar-yen-nears-40-year-low-6272241",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-23T08:50:27+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "italy",
-          "struggles",
-          "wildfires",
-          "heatwave"
+          "tensions",
+          "iran",
+          "yen",
+          "underpin",
+          "nears"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Keppel DC Reit prepares Singapore data centre for potential redevelopment; H1 DPU up 11.3%",
+        "description": "Net property income grows 15.1% on the year to S$210.4 million for the half year",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/keppel-dc-reit-prepares-singapore-data-centre-potential-redevelopment-h1-dpu-11-3",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-22T23:56:34+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singapore",
+          "data",
+          "centre",
+          "dpu",
+          "potential"
         ]
       }
     ],
@@ -1350,63 +1217,30 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "beluga",
-          "whales",
-          "travel",
+          "canadian",
+          "marine",
           "park",
-          "lorry"
+          "beluga",
+          "plane"
         ]
       }
     ],
-    "japan": [
+    "france": [
       {
-        "title": "Japan warns of bold action as yen slides past four-decade low of 163 per US dollar",
-        "description": "The yen was steady around 163.14 per US dollar on the morning of July 22.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/yen-slides-past-163-mark-to-fresh-four-decade-low-against-us-dollar",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
+        "title": "Heatwave-fuelled wildfires rage in southern France, Italy and Spain",
+        "description": "Wildfires raged on Wednesday in Sicily, southwestern France and central Spain, having claimed the lives of three firefighters and sparked thousands of evacuations. Temperatures topped 40 degrees Celsius and gusts of hot wind fanned the flames in the southern Italian island, where wildfires have been",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/europe/article/3361539/heatwave-fuelled-wildfires-rage-southern-france-italy-and-spain",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-07-22T09:00:00+08:00",
+        "publishedAt": "2026-07-23T03:36:44+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "warns",
-          "japan",
-          "past",
-          "decade",
-          "dollar"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea economy expands 0.6% q/q in Q2, better than expected",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/south-korea-economy-expands-06-qq-in-q2-better-expected-6272141",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T07:21:03+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -1416,11 +1250,75 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "wildfires",
+          "france",
+          "rage",
+          "fuelled",
+          "heatwave"
+        ]
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-22T18:21:55+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "modelling",
+          "scout",
+          "linked",
+          "paris",
+          "epstein"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea charges former US diplomat with defaming Lee Jae Myung",
+        "description": "South Korean prosecutors have charged Korean-American professor Morse Tan for criminal defamation over false claims targeting President Lee Jae Myung. The Seoul Central District Prosecutors\u2019 Office reportedly indicted Tan without detention on Thursday on multiple defamation charges. Tan, who served ",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3361522/south-korea-charges-former-us-diplomat-defaming-lee-jae-myung",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-23T01:05:12+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "lee",
+          "defaming",
+          "jae",
           "sk_entity",
-          "expands",
-          "better",
-          "expected",
-          "economy"
+          "charges"
         ]
       }
     ]
