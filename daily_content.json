@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T10:51:47.458771",
+  "updatedAt": "2026-07-24T11:08:20.687833",
   "insight": {
     "title": "Why Total Comfort Makes You Feel Sluggish",
     "subtitle": "How subtle physical friction keeps your brain alert",
@@ -54,10 +54,10 @@
       "category": "Economy",
       "readingTime": 2,
       "score": 24,
-      "why": "Your fuel and heating costs may rise soon.",
-      "context": "Global oil prices dropped slightly after a major weekly surge.",
-      "next": "Escalating regional conflict could push energy prices higher again.",
-      "bigger": "Geopolitical conflicts continue to destabilize global commodity markets.",
+      "why": "Your fuel and shipping costs may rise soon.",
+      "context": "Global oil prices fell slightly but recorded a large weekly gain.",
+      "next": "Escalating tensions could trigger further spikes in energy markets.",
+      "bigger": "Middle East conflicts continue to disrupt global energy supply.",
       "publishedAt": "2026-07-24T10:27:01+00:00",
       "topicFingerprint": [
         "us_entity",
@@ -67,27 +67,29 @@
         "war",
         "oil"
       ],
-      "alternates": [
-        {
-          "title": "\ud83d\udd34 Middle East live: US launches new strikes on Iran as oil prices skyrocket",
-          "description": "",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-24T06:12:11+00:00",
-          "score": 19,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "donald_trump",
-            "iran",
-            "tariffs",
-            "war",
-            "oil"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
+    },
+    {
+      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
+      "description": "The European Central Bank has kept its base interest rates steady but said it was \"closely monitoring\" the energy price shock. The impact of the war against Iran on energy costs has pushed inflation over ECB targets.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 26,
+      "why": "Borrowing costs for European households may remain high.",
+      "context": "The European Central Bank kept its key interest rates steady.",
+      "next": "Policymakers may adjust rates if energy costs rise further.",
+      "bigger": "Geopolitical conflicts complicate central bank efforts to control inflation.",
+      "publishedAt": "2026-07-23T13:54:00+00:00",
+      "topicFingerprint": [
+        "interest",
+        "inflation",
+        "rates",
+        "energy",
+        "hike"
+      ],
+      "alternates": []
     },
     {
       "title": "US hits dozens of countries with new wave of tariffs",
@@ -96,11 +98,11 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 21,
-      "why": "Imported goods and electronics may become more expensive for consumers.",
-      "context": "The United States imposed new import tariffs on dozens of nations.",
-      "next": "Affected trade partners may introduce retaliatory tariffs on American goods.",
-      "bigger": "Global trade barriers are reshaping international supply networks.",
+      "score": 20,
+      "why": "Everyday imported goods may become more expensive for US consumers.",
+      "context": "The US imposed new tariffs on dozens of foreign nations.",
+      "next": "Affected countries may retaliate with targeted trade duties.",
+      "bigger": "Global trade fragmentation is weakening international economic cooperation.",
       "publishedAt": "2026-07-24T08:59:31+00:00",
       "topicFingerprint": [
         "us_entity",
@@ -118,7 +120,7 @@
           "url": "https://www.pbs.org/newshour/politics/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-stopgap-10-levies-expire-friday",
           "category": "Geopolitics",
           "publishedAt": "2026-07-23T19:04:52-04:00",
-          "score": 12,
+          "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
             "us_entity",
@@ -128,31 +130,9 @@
             "war",
             "oil"
           ],
-          "group_id": 3
+          "group_id": 2
         }
       ]
-    },
-    {
-      "title": "ECB keeps interest rates unchanged amid Iran war inflation",
-      "description": "The European Central Bank has kept its base interest rates steady but said it was \"closely monitoring\" the energy price shock. The impact of the war against Iran on energy costs has pushed inflation over ECB targets.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ecb-keeps-interest-rates-unchanged-amid-iran-war-inflation/a-78085650",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 26,
-      "why": "European consumers and businesses face sustained high borrowing costs.",
-      "context": "The European Central Bank kept interest rates steady amid energy concerns.",
-      "next": "The central bank may raise rates if energy inflation persists.",
-      "bigger": "Global central banks struggle to balance growth against inflation risks.",
-      "publishedAt": "2026-07-23T13:54:00+00:00",
-      "topicFingerprint": [
-        "interest",
-        "inflation",
-        "energy",
-        "rates",
-        "hike"
-      ],
-      "alternates": []
     },
     {
       "title": "AMD\u2019s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
@@ -161,11 +141,11 @@
       "url": "https://fortune.com/2026/07/23/amd-lisa-su-keynote-open-source-helios-gpu-advanced-ai-conference/",
       "category": "Technology",
       "readingTime": 2,
-      "score": 20,
-      "why": "Software developers may see stricter safety controls on open AI tools.",
-      "context": "AMD's chief executive publicly supported open-source artificial intelligence development.",
-      "next": "Tech firms will likely enhance security protocols for automated AI software.",
-      "bigger": "Security vulnerabilities are sparking debates over open-source technology access.",
+      "score": 21,
+      "why": "The open-source AI software you use may face tighter security.",
+      "context": "AMD's CEO defended open-source artificial intelligence following a security breach.",
+      "next": "Tech companies could mandate stricter safety controls for AI agents.",
+      "bigger": "Security risks are escalating open-source vs closed-source AI debates.",
       "publishedAt": "2026-07-23T23:06:59+00:00",
       "topicFingerprint": [
         "ai_group",
@@ -184,80 +164,61 @@
       "category": "Science",
       "readingTime": 2,
       "score": 6,
-      "why": "Scientists will gain clearer insights into dark energy and exoplanets.",
-      "context": "NASA is preparing a new space telescope to study cosmic phenomena.",
-      "next": "Astronomers will analyze deep space data once operations begin.",
-      "bigger": "Deep space exploration continues to advance fundamental astrophysical research.",
+      "why": "Scientists will gain clearer data on dark energy and exoplanets.",
+      "context": "NASA is preparing to launch a new advanced space telescope.",
+      "next": "Astronomers will begin searching for previously undetected planetary systems.",
+      "bigger": "Next-generation observatories are expanding human understanding of deep space.",
       "publishedAt": "2026-07-23T14:07:14+00:00",
       "topicFingerprint": [
-        "biggest",
-        "some",
-        "universe",
         "space",
-        "nasa"
+        "universe",
+        "nasa",
+        "mysteries",
+        "some"
       ],
       "alternates": []
     },
     {
-      "title": "Sweden eases mining permits to cut China minerals reliance",
-      "description": "Sweden has declared the mining of critical minerals and rare earths a national security interest. This will ease and expedite the permit process. The government said the step was needed to counter dependence on China.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/sweden-eases-mining-permits-to-cut-china-minerals-reliance/a-78087394",
-      "category": "Policy",
+      "title": "China targets offshore trusts in sweeping tax clampdown",
+      "description": "The move closes a loophole used by wealthy families for asset protection and succession planning.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/china-targets-offshore-trusts-in-sweeping-tax-clampdown",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 9,
-      "why": "European manufacturers may access domestic critical minerals more quickly.",
-      "context": "Sweden streamlined permit procedures for critical mineral and rare earth mining.",
-      "next": "Mining companies will accelerate exploration projects across Swedish regions.",
-      "bigger": "Western nations are working to reduce dependence on foreign supply chains.",
-      "publishedAt": "2026-07-23T18:08:00+00:00",
+      "score": 13,
+      "why": "Wealthy Chinese individuals may face steep penalties and higher taxes.",
+      "context": "China launched a tax crackdown targeting wealthy offshore family trusts.",
+      "next": "High-net-worth investors may move capital to safer global jurisdictions.",
+      "bigger": "Governments worldwide are tightening tax enforcement on offshore assets.",
+      "publishedAt": "2026-07-24T18:45:00+08:00",
       "topicFingerprint": [
-        "dependence",
-        "rare",
-        "mining",
-        "china_entity",
-        "reliance"
+        "trusts",
+        "offshore",
+        "targets",
+        "tax",
+        "clampdown"
       ],
-      "alternates": [
-        {
-          "title": "Sweden declares mining national security interest to counter dependence on China",
-          "description": "Sweden also has large mineral resources and the Per Geijer find, located near LKAB's existing Kiruna mine, is one of the European Union's flagship projects in its efforts to reduce reliance on China. With 1.2 billion tons of total mineral resources, of which 2.2 million tons are rare earth oxides, P",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/sweden-declares-mining-national-security-interest-to-counter-dependence-on-china-19952734.htm",
-          "category": "General",
-          "publishedAt": "2026-07-23T22:06:51+05:30",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "dependence",
-            "rare",
-            "mining",
-            "china_entity",
-            "reliance"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
-      "description": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-      "category": "Environment",
+      "title": "Chinese energy giant opens new plant in South Korea as AI ambitions intensify power crisis",
+      "description": "Chinese companies are deepening their participation in South Korea\u2019s energy sector as state-owned nuclear giant CGN Energy International begins operations at a self-developed power project, helping supply China\u2019s power-hungry neighbour amid a surge in electricity demand driven by an artificial intel",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/global-economy/article/3361760/chinese-energy-giant-opens-new-plant-south-korea-ai-ambitions-intensify-power-crisis",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Tech power demands may increase fossil fuel reliance for data centers.",
-      "context": "Meta withdrew from a major renewable energy alliance while expanding gas power.",
-      "next": "Environmental groups will likely criticize big tech's growing fossil fuel use.",
-      "bigger": "Artificial intelligence energy demands are straining corporate zero-emission goals.",
-      "publishedAt": "2026-07-23T19:41:54+00:00",
+      "score": 15,
+      "why": "South Korean industries may secure necessary power for technology centers.",
+      "context": "A Chinese energy firm opened a power plant in South Korea.",
+      "next": "More foreign energy suppliers could enter the South Korean market.",
+      "bigger": "AI expansion is triggering massive electricity demands across Asia.",
+      "publishedAt": "2026-07-24T11:00:08+00:00",
       "topicFingerprint": [
-        "meta",
+        "ai_group",
+        "power",
+        "electricity",
         "energy",
-        "accelerates",
-        "pact",
-        "buildout"
+        "china_entity"
       ],
       "alternates": []
     },
@@ -269,102 +230,61 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 3,
-      "why": "Kenyan healthcare workers will gain essential supplies to combat disease outbreaks.",
-      "context": "India dispatched emergency medical supplies to help Kenya prepare for Ebola.",
-      "next": "Health authorities in Kenya will distribute emergency medical kits to clinics.",
-      "bigger": "Emerging economies are playing larger roles in international humanitarian relief.",
+      "why": "Kenyan healthcare workers will receive vital medical supplies during outbreaks.",
+      "context": "India dispatched medical aid to Kenya for Ebola prevention efforts.",
+      "next": "Both nations may expand emergency health and medical partnerships.",
+      "bigger": "Developing nations are strengthening bilateral medical aid networks during crises.",
       "publishedAt": "2026-07-23T17:19:43+05:30",
       "topicFingerprint": [
-        "medical",
-        "preparedness",
-        "sends",
         "kenya",
-        "aid"
+        "preparedness",
+        "tonnes",
+        "aid",
+        "ebola"
       ],
       "alternates": []
     },
     {
-      "title": "China\u2019s Kimi K3 \u2018significantly below\u2019 US rivals in hacking power, study shows",
-      "description": "Chinese unicorn Moonshot AI\u2019s Kimi K3 model trails far behind top American rivals in its ability to launch cyberattacks, joint British-US government research shows, challenging Washington\u2019s brewing anxiety over the rapid rise of Chinese open-source artificial intelligence. The model, currently consi",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/tech-war/article/3361711/chinas-kimi-k3-significantly-below-us-rivals-hacking-power-uk-us-study-shows",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Cybersecurity teams face lower immediate risks from state-backed foreign AI tools.",
-      "context": "Research revealed a top Chinese AI model trails American competitors in cyberattacks.",
-      "next": "Foreign developers will likely refine AI capabilities to close technology gaps.",
-      "bigger": "Artificial intelligence capabilities are driving global technological competition.",
-      "publishedAt": "2026-07-24T06:30:46+00:00",
-      "topicFingerprint": [
-        "study",
-        "below",
-        "kimi",
-        "power",
-        "rivals"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "France: Two major wildfires hit the southwest forcing tourists to evacuate",
-      "description": "Deadly wildfires are sweeping across western Europe, fueled by scorching temperatures and strong winds, as climate change drives fires to spread faster and burn more intensely. The total area scorched in EU countries this year is already the second largest on record. In France, where three heatwaves",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-two-major-wildfires-hit-the-southwest-forcing-tourists-to-evacuate",
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "description": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
       "category": "Environment",
       "readingTime": 2,
-      "score": 14,
-      "why": "Travelers in southwestern Europe face dangerous conditions and trip cancellations.",
-      "context": "Intense wildfires swept southwestern France, forcing tourists and residents to flee.",
-      "next": "Emergency crews will work to contain fire outbreaks amid high temperatures.",
-      "bigger": "Extreme weather events are disrupting travel and safety across Europe.",
-      "publishedAt": "2026-07-24T09:09:14+00:00",
+      "score": 10,
+      "why": "Tech power demands may increase carbon emissions from data infrastructure.",
+      "context": "Meta exited a clean energy group to expand natural gas facilities.",
+      "next": "Environmental groups could launch public pressure campaigns against tech firms.",
+      "bigger": "Rising AI power needs are challenging corporate clean energy commitments.",
+      "publishedAt": "2026-07-23T19:41:54+00:00",
       "topicFingerprint": [
-        "wildfires",
-        "france",
-        "spain",
-        "region",
-        "emergency"
+        "buildout",
+        "major",
+        "gas",
+        "clean",
+        "drops"
       ],
-      "alternates": [
-        {
-          "title": "Spain: Thousands evacuate as heatwave fuels blazes near Madrid",
-          "description": "Thousands of people were forced to flee deadly wildfires that continued to sweep through parts of France, Spain and Italy on Friday. Hundreds of firefighters backed by water-bombing planes battled the blazes fanned by scorching temperatures and strong winds. Follow our liveblog for the latest develo",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/spain-thousands-evacuate-as-heatwave-fuels-blazes-near-madrid",
-          "category": "Environment",
-          "publishedAt": "2026-07-24T08:27:19+00:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "wildfires",
-            "france",
-            "spain",
-            "region",
-            "emergency"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "UN rights chief Volker Turk faces opposition in vote on new term",
-      "description": "Some early critics of Turk\u2019s appointment had assumed he would adopt a quieter approach. Instead, he has repeatedly criticised governments ranging from Russia and Israel to the US.",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/un-rights-chief-volker-turk-faces-opposition-in-vote-on-new-term-19952853.htm",
-      "category": "Policy",
+      "title": "Invasive species cause more harm in the Global South",
+      "description": "Invasive species can wreak havoc on ecosystems. A new study in Science suggests low- and middle-income countries in the Global South experience greater harms.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5902194/invasive-species-cause-more-harm-in-the-global-south",
+      "category": "Science",
       "readingTime": 2,
-      "score": 7,
-      "why": "Global human rights oversight could face delays amid leadership disagreements.",
-      "context": "The United Nations human rights chief encountered resistance during re-election efforts.",
-      "next": "UN member states will vote on confirming the commissioner's position.",
-      "bigger": "Diplomatic friction is complicating governance across international institutions.",
-      "publishedAt": "2026-07-24T07:05:36+05:30",
+      "score": 8,
+      "why": "Local farmers in developing regions may lose crops and income.",
+      "context": "A new study shows invasive species severely damage developing nations.",
+      "next": "Developing nations could request foreign assistance to combat invasive pests.",
+      "bigger": "Biodiversity loss is threatening food security across low-income countries.",
+      "publishedAt": "2026-07-23T16:33:18-04:00",
       "topicFingerprint": [
-        "faces",
-        "opposition",
-        "turk",
-        "rights",
-        "vote"
+        "invasive",
+        "harm",
+        "cause",
+        "south",
+        "species"
       ],
       "alternates": []
     },
@@ -376,17 +296,17 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Drivers may see redesigned electronic door handles on future electric vehicles.",
-      "context": "United States regulators are considering stricter vehicle safety rules following trapping incidents.",
-      "next": "Automotive regulators will publish proposed rules for emergency door releases.",
-      "bigger": "Regulators are increasing scrutiny on automated and electronic automotive features.",
+      "why": "Your electric vehicle may require updated emergency door handles.",
+      "context": "Regulators are reviewing Tesla door handles after safety incident reports.",
+      "next": "Federal authorities could introduce strict physical latch regulations for cars.",
+      "bigger": "Automotive safety standards are shifting to address digital door designs.",
       "publishedAt": "2026-07-23T20:06:21+00:00",
       "topicFingerprint": [
-        "safety",
-        "rules",
-        "door",
         "tesla",
-        "us_entity"
+        "safety",
+        "door",
+        "us_entity",
+        "incidents"
       ],
       "alternates": [
         {
@@ -399,37 +319,63 @@
           "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "safety",
-            "rules",
-            "door",
             "tesla",
-            "us_entity"
+            "safety",
+            "door",
+            "us_entity",
+            "incidents"
           ],
           "group_id": 0
         }
       ]
+    },
+    {
+      "title": "UN chief candidates make case for restoring world body\u2019s stature",
+      "description": "The UN's credibility as a global peacemaker has been challenged by wars in Ukraine, Gaza and Iran.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/un-chief-candidates-make-case-for-restoring-world-bodys-stature",
+      "category": "General",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Global diplomatic efforts on regional conflicts may lack firm enforcement.",
+      "context": "Candidates for UN leadership presented strategies to restore institutional credibility.",
+      "next": "The UN General Assembly will select its next leader soon.",
+      "bigger": "International institutions face growing challenges to maintain global peace.",
+      "publishedAt": "2026-07-24T09:03:00+08:00",
+      "topicFingerprint": [
+        "credibility",
+        "candidates",
+        "restoring",
+        "body",
+        "peacemaker"
+      ],
+      "alternates": []
     }
   ],
-  "audioBrief": null,
+  "audioBrief": {
+    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, global oil prices fell slightly today but still recorded a ten percent weekly gain, as the United States considers stronger military action against Iran. This matters because higher oil prices usually lead to increased costs for fuel and shipping. It is a clear reminder of how ongoing tension in the Middle East continues to disrupt global energy supplies.\n\nMeanwhile, the European Central Bank has kept its key interest rates unchanged amid inflation concerns linked to the conflict. For households across Europe, this means borrowing costs for mortgages and loans will likely remain high. Central banks are finding it increasingly difficult to curb inflation while geopolitical conflicts push prices up.\n\nSwitching to trade, the United States has imposed a new wave of tariffs on dozens of foreign nations. If you live in the U.S., everyday imported goods could soon become more expensive. Beyond higher prices, these trade barriers signal a growing shift away from international economic cooperation.\n\nIn technology news, AMD Chief Executive Lisa Su is defending open-source artificial intelligence following a recent security breach involving OpenAI agents. While open-source software lets developers innovate freely, everyday users might see stricter security rules going forward. The breach highlights the growing debate over whether open or closed AI systems are safer for the future.\n\nNext, NASA is getting ready to launch a powerful new space telescope designed to tackle deep cosmic mysteries. The observatory will give scientists much clearer data on dark energy and distant planets beyond our solar system. It marks a major leap forward in expanding human understanding of deep space.\n\nTurning to finance, China has launched a major tax crackdown targeting wealthy offshore family trusts. The move means affluent Chinese citizens storing assets abroad could face steep penalties and higher taxes. It reflects a broader effort by governments worldwide to tighten tax enforcement on offshore wealth.\n\nStaying in Asia, a major Chinese energy company has opened a new power plant in South Korea. The facility aims to help South Korean technology hubs secure the massive electricity they need to operate. As artificial intelligence expands, energy grids across Asia are facing unprecedented power demand.\n\nMoving to global health, India has dispatched four and a half tonnes of medical aid to Kenya for Ebola prevention efforts. This delivery ensures that local healthcare workers have vital supplies during potential outbreaks. It shows how developing nations are strengthening direct bilateral networks to manage health crises.\n\nOver in corporate news, Meta has stepped away from a major clean energy pact as it accelerates its buildout of natural gas facilities. To meet the immense power needs of AI, the company is turning to fossil fuels, which could increase carbon emissions from its data infrastructure. It highlights the growing tension between corporate climate goals and technology's rising energy demands.\n\nMeanwhile, a new study shows that invasive species cause disproportionately severe harm in developing nations. For local farmers in these regions, foreign plants and pests can destroy crops and threaten their main source of income. The findings underscore how biodiversity loss directly threatens global food security.\n\nIn the automotive world, U.S. safety regulators are reviewing Tesla's flush door handles following several safety incident reports. If new rules are created, electric vehicles may require updated emergency door handles that are easier to use during accidents. It signals a shift in how regulators address modern digital car designs.\n\nAnd finally, candidates competing for the top leadership role at the United Nations have presented their plans to restore the organization's standing. With global conflicts escalating, firm enforcement in diplomatic efforts has become increasingly vital. The presentations highlight the growing challenge international bodies face in keeping world peace.\n\nBefore we go, here is a quiet thought to take with you today. It comes from a piece on why total comfort makes you feel sluggish. We often aim for complete ease, but subtle physical friction\u2014like stepping outside into cool air, standing up, or moving your body\u2014actually keeps your brain alert and energized. Embracing a little bit of everyday physical effort might be just what you need to feel fully awake.\n\nThat is your Sift Daily Briefing for today. Have a peaceful day, and we will talk again tomorrow.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
+    "estimatedDurationSeconds": 274
+  },
   "candidatePool": [
     {
-      "title": "ECB holds rates steady amid Iran war risks, mulls September hike",
-      "description": "The ECB held interest rates steady but may hike in September, monitoring energy price shocks and inflation risks linked to the war against Iran.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/c3813ecc-0723-4d47-80b2-7b3933bd17e4.html",
-      "category": "Economy",
+      "title": "The Federal Reserve meets next week. Could it raise interest rates?",
+      "description": "The central bank is widely expected to stand pat on Wednesday, but persistent inflation concerns are reshaping expectations for the rest of 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 21,
-      "why": "European homeowners and businesses may face higher loan rates later this year.",
-      "context": "European central bankers kept benchmark interest rates fixed while signaling future increases.",
-      "next": "Central bank policymakers will evaluate upcoming inflation metrics before September.",
-      "bigger": "Energy market volatility continues to complicate central bank monetary strategies.",
-      "publishedAt": "2026-07-23T14:09:58+00:00",
+      "score": 18,
+      "why": "Loan rates and credit card payments may remain expensive.",
+      "context": "The US Federal Reserve is meeting to evaluate interest rates.",
+      "next": "Central bank officials may signal future rate adjustments for 2026.",
+      "bigger": "Persistent inflation is forcing central banks to rethink monetary policy.",
+      "publishedAt": "2026-07-24T06:00:13-04:00",
       "topicFingerprint": [
         "interest",
         "inflation",
-        "energy",
         "rates",
+        "energy",
         "hike"
       ],
       "alternates": []
@@ -442,10 +388,10 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 16,
-      "why": "Global shoppers may face higher prices on imported retail goods.",
-      "context": "The American administration announced comprehensive new import taxes targeting dozens of nations.",
-      "next": "Affected trading partners will likely file legal challenges or retaliate.",
-      "bigger": "Unilateral trade policies are reshaping global economic relationships.",
+      "why": "Imported retail goods and electronics may cost more for consumers.",
+      "context": "The US administration plans new tariffs on sixty trading partners.",
+      "next": "Trade partners will likely negotiate terms or impose retaliatory tariffs.",
+      "bigger": "Protectionist trade policies are altering long-standing global supply lines.",
       "publishedAt": "2026-07-24T10:46:26+00:00",
       "topicFingerprint": [
         "us_entity",
@@ -473,9 +419,31 @@
             "war",
             "oil"
           ],
-          "group_id": 10
+          "group_id": 9
         }
       ]
+    },
+    {
+      "title": "Can India's 'Cockroach' protest movement go nationwide?",
+      "description": "What began as satire on social media has turned into a massive Gen Z-led protest movement driven by anger over corruption and high youth unemployment. There are signs it is finding traction outside of Delhi.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-india-s-cockroach-protest-movement-go-nationwide/a-78086081",
+      "category": "General",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Young workers in India may demand better job opportunities.",
+      "context": "Youth-led anti-corruption protests in India are spreading to new cities.",
+      "next": "Protest leaders may organize coordinated demonstrations across major urban centers.",
+      "bigger": "Youth movements are increasingly challenging political corruption across Asia.",
+      "publishedAt": "2026-07-23T14:29:00+00:00",
+      "topicFingerprint": [
+        "india",
+        "cockroach",
+        "protests",
+        "youth",
+        "strike"
+      ],
+      "alternates": []
     },
     {
       "title": "The latest Samsung folding phones and watches, including new Z Fold 8 to rival Apple",
@@ -485,17 +453,39 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 12,
-      "why": "Smartphone buyers gain new folding screen options and features.",
-      "context": "Samsung unveiled new foldable smartphones and wearable devices to compete with rivals.",
-      "next": "Rival technology companies will launch competing foldable devices this year.",
-      "bigger": "Mobile phone makers are focusing on premium foldable hardware to boost growth.",
+      "why": "Smartphone buyers will have more options for premium foldable devices.",
+      "context": "Samsung unveiled new foldable smartphones and wearable devices to compete.",
+      "next": "Competitors may launch rival foldable devices to maintain market share.",
+      "bigger": "Hardware manufacturers are aggressively expanding the premium foldable smartphone segment.",
       "publishedAt": "2026-07-24T04:45:06+00:00",
       "topicFingerprint": [
-        "phones",
-        "folding",
-        "rival",
         "samsung",
-        "fold"
+        "fold",
+        "apple",
+        "phones",
+        "watches"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Ford is switching from Google to Apple Maps for its next-generation EVs",
+      "description": "Ford will use Apple Maps as the built-in navigation system for its next generation of electric vehicles, replacing the Google-based software it has run since 2023. The integration uses Apple\u2019s new MapKit for Automotive SDK and will launch with Ford\u2019s $30,000 midsize electric pickup in 2027, accordin",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/ford-apple-maps-ev-navigation-bluecruise-uev",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Future Ford electric vehicle drivers will navigate using Apple software.",
+      "context": "Ford selected Apple Maps to replace Google software in vehicles.",
+      "next": "Ford will roll out the updated dashboard interface to buyers.",
+      "bigger": "Tech giants are competing aggressively for control of automotive software.",
+      "publishedAt": "2026-07-23T20:56:27+00:00",
+      "topicFingerprint": [
+        "apple",
+        "evs",
+        "maps",
+        "switching",
+        "ford"
       ],
       "alternates": []
     },
@@ -507,61 +497,17 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 11,
-      "why": "South Korean homebuyers may face new restrictions on property speculation.",
-      "context": "South Korea's leader cited historical market collapses to push real estate reforms.",
-      "next": "Lawmakers will debate proposed real estate regulations to curb housing speculation.",
-      "bigger": "Asian governments are taking steps to manage overheating housing markets.",
+      "why": "South Korean homebuyers may face stricter limits on housing loans.",
+      "context": "South Korea's president warned against property speculation using Japan's history.",
+      "next": "The government may pass legislation to cool overheated real estate.",
+      "bigger": "Asian economies are attempting to curb massive domestic housing bubbles.",
       "publishedAt": "2026-07-24T07:07:07+00:00",
       "topicFingerprint": [
-        "realty",
         "dramatic",
-        "agenda",
-        "crash",
-        "japan"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "JPMorgan moves more than 30 China quant researchers to Singapore, HK",
-      "description": "Its quantitative trading and research group was formed in 2026 to speed up its efforts in electronic trading.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/jpmorgan-moves-more-than-30-china-quant-researchers-to-singapore-hk",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Financial professionals in mainland China face shifting international hiring patterns.",
-      "context": "A major bank relocated its quantitative research staff away from mainland China.",
-      "next": "Other global financial institutions may restructure regional operations across Asia.",
-      "bigger": "Financial hubs are shifting as international banks adjust regional footprints.",
-      "publishedAt": "2026-07-24T13:18:00+08:00",
-      "topicFingerprint": [
-        "moves",
-        "researchers",
-        "quant",
-        "jpmorgan",
-        "singapore"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
-      "description": "Counterpoint Research is out with a new report forecasting 21% year-over-year growth in global foldable smartphone shipments in 2026, with Apple expected to capture a 25% share following its entry into this market. Here are the details.",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Smartphone shoppers will soon have more premium foldable phone options.",
-      "context": "An industry report projected strong market demand for upcoming foldable smartphones.",
-      "next": "Manufacturers will expand production capacity for flexible display technology.",
-      "bigger": "Premium device segments continue to dominate mobile hardware industry profits.",
-      "publishedAt": "2026-07-23T19:49:23+00:00",
-      "topicFingerprint": [
-        "smartphone",
-        "shipments",
-        "foldable",
-        "account",
-        "set"
+        "realty",
+        "push",
+        "domestic",
+        "property"
       ],
       "alternates": []
     },
@@ -573,17 +519,17 @@
       "category": "Health",
       "readingTime": 2,
       "score": 9,
-      "why": "Fast-food diners face potential menu disruptions and health warnings.",
-      "context": "Health authorities investigated a parasitic outbreak linked to fast-food restaurant ingredients.",
-      "next": "Food safety inspectors will trace supply chains to find contaminated produce.",
-      "bigger": "Supply chain contamination events pose ongoing risks to food service brands.",
+      "why": "Fast food diners may face temporary menu changes or delays.",
+      "context": "Taco Bell faced lower customer visits during a parasite investigation.",
+      "next": "Health regulators will trace the source of the infected produce.",
+      "bigger": "Food safety outbreaks quickly impact restaurant foot traffic and sales.",
       "publishedAt": "2026-07-23T20:25:13-04:00",
       "topicFingerprint": [
         "cyclospora",
-        "outbreak",
-        "parasite",
+        "officials",
         "investigating",
-        "officials"
+        "parasite",
+        "outbreak"
       ],
       "alternates": [
         {
@@ -597,58 +543,14 @@
           "readingTime": 2,
           "topicFingerprint": [
             "cyclospora",
-            "outbreak",
-            "parasite",
+            "officials",
             "investigating",
-            "officials"
+            "parasite",
+            "outbreak"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Invasive species cause more harm in the Global South",
-      "description": "Invasive species can wreak havoc on ecosystems. A new study in Science suggests low- and middle-income countries in the Global South experience greater harms.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5902194/invasive-species-cause-more-harm-in-the-global-south",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Farmers in developing nations face higher crop losses and pest control costs.",
-      "context": "A global study revealed non-native species inflict severe damage on developing economies.",
-      "next": "Environmental agencies will reallocate resources toward invasive pest prevention programs.",
-      "bigger": "Biodiversity loss is compounding economic challenges across developing regions.",
-      "publishedAt": "2026-07-23T16:33:18-04:00",
-      "topicFingerprint": [
-        "harm",
-        "species",
-        "invasive",
-        "south",
-        "cause"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Temasek-backed Manipal Health seeks $10.3 billion valuation in India IPO",
-      "description": "The IPO will be India\u2019s second-largest primary market offering in 2026.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/temasek-backed-manipal-health-seeks-10-3-billion-valuation-in-india-ipo",
-      "category": "General",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Indian healthcare investors gain access to a major hospital operator stock.",
-      "context": "An Indian healthcare provider launched plans for a massive public stock offering.",
-      "next": "Stock market regulators will review the company's financial filing documents.",
-      "bigger": "Private healthcare expansion is driving strong investment across emerging Asian markets.",
-      "publishedAt": "2026-07-24T12:57:00+08:00",
-      "topicFingerprint": [
-        "manipal",
-        "ipo",
-        "billion",
-        "seeks",
-        "backed"
-      ],
-      "alternates": []
     },
     {
       "title": "Expect a clash at today\u2019s FDA peptide panel",
@@ -658,39 +560,83 @@
       "category": "Health",
       "readingTime": 2,
       "score": 7,
-      "why": "Patients using specialized peptides may lose access to certain compounded treatments.",
-      "context": "Federal health advisors met to debate regulatory policies for compounded peptide treatments.",
-      "next": "Health regulators will issue updated guidance on peptide compound approvals.",
-      "bigger": "Regulatory scrutiny of specialized compounding pharmacies is growing worldwide.",
+      "why": "Patients using peptide treatments may face restricted access to remedies.",
+      "context": "An FDA advisory panel met to discuss rules on peptides.",
+      "next": "The agency will publish revised regulations for compounding pharmacies soon.",
+      "bigger": "Regulatory scrutiny of specialized health supplements is rising globally.",
       "publishedAt": "2026-07-23T11:34:25+00:00",
       "topicFingerprint": [
+        "fda",
+        "peptide",
         "panel",
         "today",
-        "peptide",
-        "fda",
-        "clash"
+        "expect"
       ],
       "alternates": []
     },
     {
-      "title": "Swiss chocolate maker Lindt misleads consumers about child labour, US lawsuit claims",
-      "description": "The Swiss chocolate maker touts its commitment to responsibly sourcing ingredients.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/swiss-chocolate-maker-lindt-misleads-consumers-about-child-labour-us-lawsuit-claims",
-      "category": "General",
+      "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+      "description": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+      "category": "Policy",
       "readingTime": 2,
       "score": 7,
-      "why": "Chocolate buyers may face rising doubts about ethical food labeling claims.",
-      "context": "A legal action accused a premium chocolate manufacturer of deceptive ethical claims.",
-      "next": "Courts will evaluate the evidence regarding supply chain oversight claims.",
-      "bigger": "Consumer scrutiny over corporate ethical certifications is increasing globally.",
-      "publishedAt": "2026-07-24T03:59:34+08:00",
+      "why": "Physical game collectors may find fewer disc options in stores.",
+      "context": "Sales data showed video game players overwhelmingly prefer digital downloads.",
+      "next": "Game publishers will release more digital-only console gaming titles.",
+      "bigger": "Media distribution is completing a permanent transition toward digital platforms.",
+      "publishedAt": "2026-07-23T16:25:46+00:00",
       "topicFingerprint": [
-        "claims",
-        "lindt",
-        "chocolate",
-        "labour",
-        "maker"
+        "discs",
+        "inevitable",
+        "ditch",
+        "sony",
+        "practically"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Kim Kardashian is using her bar exam failure to sell energy drinks",
+      "description": "Kim Kardashian jokes about failing the California bar exam in a new campaign promoting Update energy drinks. She's a cofounder of the brand.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/kim-kardashian-uses-bar-exam-failure-to-sell-energy-drinks-2026-7",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Shoppers may notice new celebrity-backed drinks on store shelves.",
+      "context": "Kim Kardashian launched an energy drink campaign using self-deprecating humor.",
+      "next": "The beverage brand will expand distribution across retail health stores.",
+      "bigger": "Personal branding and self-aware marketing drive modern celebrity product launches.",
+      "publishedAt": "2026-07-24T10:29:20+00:00",
+      "topicFingerprint": [
+        "kim",
+        "energy",
+        "kardashian",
+        "failure",
+        "exam"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Japanese-Filipino children\u2019s painful quests for filial recognition and citizenship",
+      "description": "It is very difficult for the Japanese-Filipino children to locate their Japanese fathers. Despite NGOs\u2019 help, many suffer the pain of \u201cendless waiting,\u201d frustrations, and anxieties.",
+      "source": "Global Voices",
+      "url": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Affected individuals may face prolonged legal struggles to claim citizenship.",
+      "context": "Japanese-Filipino children are seeking official paternal recognition and citizenship status.",
+      "next": "Human rights groups will lobby lawmakers for streamlined recognition processes.",
+      "bigger": "Cross-border families face ongoing challenges in securing international legal identity.",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "topicFingerprint": [
+        "japanese",
+        "filial",
+        "children",
+        "citizenship",
+        "painful"
       ],
       "alternates": []
     },
@@ -702,22 +648,329 @@
       "category": "Progress",
       "readingTime": 2,
       "score": 4,
-      "why": "Tech infrastructure providers may see stronger demand for networking equipment.",
-      "context": "A telecommunications equipment company reported higher profits driven by data center infrastructure.",
-      "next": "Network operators will expand high-speed data connections for artificial intelligence infrastructure.",
-      "bigger": "Global data center expansion is reinvigorating telecommunications equipment demand.",
+      "why": "Tech infrastructure providers may increase spending on networking hardware tools.",
+      "context": "Nokia reported higher quarterly earnings due to strong data demand.",
+      "next": "The company will expand network equipment production for cloud facilities.",
+      "bigger": "Global data center expansion is driving demand for communications infrastructure.",
       "publishedAt": "2026-07-23T06:47:06+00:00",
       "topicFingerprint": [
-        "profit",
-        "nokia",
-        "data",
         "estimates",
-        "centres"
+        "centres",
+        "profit",
+        "beats",
+        "nokia"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
+    "china": [
+      {
+        "title": "China slaps export controls on 14 EU entities for Russia-related sanctions",
+        "description": "China says it's adding 14 European entities to an export control list in retaliation for the European Union penalizing 14 Chinese enterprises as part of its latest round of sanctions against Russia",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/china-slaps-export-controls-14-eu-entities-retaliation-135045129",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T06:50:36-04:00",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: export"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: sanctions"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: export"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "export",
+          "sanctions",
+          "eu_entity",
+          "control",
+          "list"
+        ]
+      },
+      {
+        "title": "Securities watchdog to channel more medium- and long-term capital into China markets",
+        "description": "China\u2019s securities watchdog has pledged to channel more medium- and long-term capital into the country\u2019s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/banking-finance/article/3361682/securities-watchdog-channel-more-medium-and-long-term-capital-china-markets",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T05:00:07+00:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "term",
+          "watchdog",
+          "securities",
+          "medium",
+          "channel"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "China slaps export controls on 14 EU entities for Russia-related sanctions",
+        "description": "China says it's adding 14 European entities to an export control list in retaliation for the European Union penalizing 14 Chinese enterprises as part of its latest round of sanctions against Russia",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/china-slaps-export-controls-14-eu-entities-retaliation-135045129",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T06:50:36-04:00",
+        "reason": "within_48h",
+        "score": 13,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: export"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: sanctions"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: export"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "export",
+          "sanctions",
+          "eu_entity",
+          "control",
+          "list"
+        ]
+      },
+      {
+        "title": "Google\u2019s search empire faces $1 billion EU fine over abuse of market power",
+        "description": "Google was fined $1 billion by the EU for abusing its search dominance and breaking competition rules under the Digital Markets Act.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/googles-search-empire-faces-1-billion-eu-fine-over-abuse-of-market-power-101784815558795.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-23T22:41:23+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: google"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "EU fines Google $1 billion over search and app store competition breaches",
+            "description": "EU fines Google $1 billion for violating the Digital Markets Act by giving priority to its own services and apps over rivals, harming fair competition.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/7dfed555-fe4d-4d08-a3e2-fff9526cd74c.html",
+            "category": "Financial",
+            "publishedAt": "2026-07-23T11:13:32+00:00",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "billion",
+              "act",
+              "digital",
+              "google",
+              "eu_entity"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "billion",
+          "act",
+          "digital",
+          "google",
+          "eu_entity"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Trillion dollar US defence bill would deepen military ties with Israel",
+        "description": "A $1.15 trillion US defence bill passed by the House includes plans to expand military cooperation with Israel.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T05:01:43+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "cooperation",
+          "passed",
+          "defence",
+          "trillion",
+          "bill"
+        ]
+      },
+      {
+        "title": "US trade chief to announce new tariff plan on July 23",
+        "description": "US Trade Representative Jamieson Greer will make an announcement later on July 23 regarding tariffs.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/us-trade-chief-to-announce-new-tariff-plan-on-july-23",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T04:10:52+08:00",
+        "reason": "within_48h",
+        "score": 10,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tariff"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "chief",
+          "announce",
+          "trade",
+          "tariff",
+          "july"
+        ]
+      }
+    ],
     "south_korea": [
       {
         "title": "South Korean unions use new labour rules to push envelope on bonus demands",
@@ -757,9 +1010,9 @@
         "topicFingerprint": [
           "bonus",
           "across",
-          "sk_entity",
           "labour",
-          "some"
+          "sk_entity",
+          "samsung"
         ]
       },
       {
@@ -786,292 +1039,42 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "charms",
-          "answer",
-          "phones",
           "tiny",
-          "korean"
+          "gen",
+          "despair",
+          "charms",
+          "phones"
         ]
       }
     ],
-    "united_states": [
+    "india": [
       {
-        "title": "US trade chief to announce new tariff plan on July 23",
-        "description": "US Trade Representative Jamieson Greer will make an announcement later on July 23 regarding tariffs.",
+        "title": "Temasek-backed Manipal Health seeks $10.3 billion valuation in India IPO",
+        "description": "The IPO will be India\u2019s second-largest primary market offering in 2026.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/united-states/us-trade-chief-to-announce-new-tariff-plan-on-july-23",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
+        "url": "https://www.straitstimes.com/business/temasek-backed-manipal-health-seeks-10-3-billion-valuation-in-india-ipo",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-24T04:10:52+08:00",
+        "publishedAt": "2026-07-24T12:57:00+08:00",
         "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariff"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "july",
-          "trade",
-          "plan",
-          "tariff",
-          "chief"
-        ]
-      },
-      {
-        "title": "US unemployment claims plunge to 187,000, lowest since 1969",
-        "description": "US employers continued to retain workers even as the labour market showed signs of broader weakness, with new unemployment benefit applications dropping well below economists' expectations last week.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/us-jobless-claims-fall-lowest-level-since-1969-19952626.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T19:37:34+05:30",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: unemployment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: labour"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: unemployment"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: unemployment"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "lowest",
-          "unemployment",
-          "plunge",
-          "claims",
-          "us_entity"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "Securities watchdog to channel more medium- and long-term capital into China markets",
-        "description": "China\u2019s securities watchdog has pledged to channel more medium- and long-term capital into the country\u2019s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3361682/securities-watchdog-channel-more-medium-and-long-term-capital-china-markets",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T05:00:07+00:00",
-        "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: market"
           },
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "medium",
-          "securities",
-          "long",
-          "watchdog",
-          "capital"
-        ]
-      },
-      {
-        "title": "Here's why Chinese smartwatches like the Oppo Watch X3 are rarely sold in the US",
-        "description": "The device is ready; the business isn't.",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2219750/chinese-smart-watches-oppo-watch-x3-rarely-sold-in-united-states/",
-        "fromUrl": "https://www.engadget.com/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T18:30:00+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Engadget"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sold",
-          "smartwatches",
-          "oppo",
-          "rarely",
-          "watch"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "Google\u2019s search empire faces $1 billion EU fine over abuse of market power",
-        "description": "Google was fined $1 billion by the EU for abusing its search dominance and breaking competition rules under the Digital Markets Act.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/googles-search-empire-faces-1-billion-eu-fine-over-abuse-of-market-power-101784815558795.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T22:41:23+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "EU fines Google $1 billion over search and app store competition breaches",
-            "description": "EU fines Google $1 billion for violating the Digital Markets Act by giving priority to its own services and apps over rivals, harming fair competition.",
-            "source": "Frontpage",
-            "url": "https://frontpage.ink/7dfed555-fe4d-4d08-a3e2-fff9526cd74c.html",
-            "category": "Financial",
-            "publishedAt": "2026-07-23T11:13:32+00:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "act",
-              "billion",
-              "google",
-              "eu_entity",
-              "digital"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-            "description": "The European Union has fined Google's parent company Alphabet 890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers fr",
-            "source": "Tech | The Verge",
-            "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-            "category": "Financial",
-            "publishedAt": "2026-07-23T10:33:08+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "act",
-              "billion",
-              "google",
-              "eu_entity",
-              "digital"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "act",
-          "billion",
-          "google",
-          "eu_entity",
-          "digital"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "HSBC agrees to US$2 billion deal to sell Singapore insurance branch to Allianz",
-        "description": "HSBC has agreed to sell its Singapore life and health insurance business to Germany\u2019s Allianz for S$2.7 billion (US$2.08 billion), with the deal expected to be completed in the first half of 2027, HSBC Group announced on Friday morning before the start of trading. The disposal is expected to generat",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/companies/article/3361669/hsbc-agrees-us2-billion-deal-sell-singapore-insurance-branch-allianz",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T02:38:31+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: health"
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: india"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: insurance"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
           },
           {
             "points": 1,
@@ -1082,113 +1085,12 @@
         "alternates": [],
         "topicFingerprint": [
           "billion",
-          "hsbc",
-          "singapore",
-          "insurance",
-          "allianz"
+          "seeks",
+          "ipo",
+          "manipal",
+          "backed"
         ]
       },
-      {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-23T23:19:58+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "indonesian",
-          "them",
-          "trafficked",
-          "happens",
-          "singapore"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Japanese-Filipino children\u2019s painful quests for filial recognition and citizenship",
-        "description": "It is very difficult for the Japanese-Filipino children to locate their Japanese fathers. Despite NGOs\u2019 help, many suffer the pain of \u201cendless waiting,\u201d frustrations, and anxieties.",
-        "source": "Global Voices",
-        "url": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
-        "fromUrl": "https://globalvoices.org/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T00:00:00+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: citizenship"
-          },
-          {
-            "points": 2,
-            "reason": "policy important keyword match: citizenship"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "recognition",
-          "filipino",
-          "japanese",
-          "citizenship",
-          "children"
-        ]
-      },
-      {
-        "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/japan-identifies-large-share-rare-earths-in-deep-sea-mud-remote-island-6275811",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T16:48:46+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "earths",
-          "deep",
-          "identifies",
-          "mud",
-          "island"
-        ]
-      }
-    ],
-    "india": [
       {
         "title": "Teenager Sooryavanshi blasts maiden 18-ball fifty as India thump Zimbabwe",
         "description": "15-year-old Vaibhav Sooryavanshi hit a maiden 18-ball fifty to lead India to a seven-wicket victory over Zimbabwe in the first T20I in Harare.",
@@ -1226,38 +1128,87 @@
             "score": 5,
             "readingTime": 2,
             "topicFingerprint": [
-              "vaibhav",
               "maiden",
-              "old",
               "ball",
+              "vaibhav",
+              "old",
               "sooryavanshi"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "vaibhav",
           "maiden",
-          "old",
           "ball",
+          "vaibhav",
+          "old",
           "sooryavanshi"
         ]
-      },
+      }
+    ],
+    "singapore": [
       {
-        "title": "21 including over a dozen of Indian origin face charges in US-Canada drug trafficking investigation",
-        "description": "The cross-border investigation has led to the seizure of nearly 1.7 tonnes of illegal drugs with an estimated street value of approximately $99.4 million",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/21-including-over-a-dozen-of-indian-origin-face-charges-in-us-canada-drug-trafficking-investigation-101784883254013.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "title": "Allianz to buy HSBC\u2019s Singapore insurance unit for $2.09 billion",
+        "description": "Allianz to acquire Singapore insurance business from HSBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/24/allianz-to-buy-hsbcs-singapore-insurance-unit-for-2billion.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-07-24T14:24:13+05:30",
+        "publishedAt": "2026-07-24T00:18:30+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: insurance"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singapore",
+          "unit",
+          "billion",
+          "hsbc",
+          "allianz"
+        ]
+      },
+      {
+        "title": "Singapore stocks end higher on Friday, bucking regional declines; STI up 0.1%",
+        "description": "Seatrium leads the gainers on the blue-chip index",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-stocks-end-higher-friday-bucking-regional-declines-sti-0-1",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T11:00:26+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           },
           {
             "points": 1,
@@ -1267,11 +1218,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "indian",
-          "origin",
-          "dozen",
-          "charges",
-          "canada"
+          "singapore",
+          "bucking",
+          "higher",
+          "sti",
+          "regional"
         ]
       }
     ],
@@ -1304,11 +1255,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "logistics",
           "buy",
-          "australia",
-          "million",
-          "additional",
-          "esr"
+          "asset",
+          "reit",
+          "additional"
         ]
       },
       {
@@ -1348,10 +1299,10 @@
         "alternates": [],
         "topicFingerprint": [
           "commits",
-          "uk_entity",
           "billion",
-          "australia",
-          "nuclear"
+          "another",
+          "submarines",
+          "uk_entity"
         ]
       }
     ],
@@ -1384,11 +1335,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "milei",
-          "start",
-          "bolsonaro",
           "argentina",
-          "flies"
+          "presidential",
+          "kick",
+          "start",
+          "bid"
         ]
       },
       {
@@ -1420,14 +1371,68 @@
         "alternates": [],
         "topicFingerprint": [
           "actions",
-          "cites",
+          "deadly",
+          "pilot",
           "icing",
-          "safety",
-          "voepass"
+          "culture"
         ]
       }
     ],
     "france": [
+      {
+        "title": "Spain declares emergency as fires force thousands of evacuations in France",
+        "description": "NAVALUENGA, Spain/LEGE-CAP-FERRET, France, July 24 - Spain declared a national emergency over wildfires for the first time on Friday and France asked for help from the European Union to tackle a blaze on the Atlantic coast as searing heat fuelled fires across Europe and forced tens of thousands of e",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/spain-declares-emergency-as-wildfires-force-thousands-of-evacuations",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T17:18:17+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Watch: Wildfires rage across France and Spain",
+            "description": "French authorities order evacuations in tourist hot spot, as Spain's government declares national emergency.",
+            "source": "BBC News",
+            "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo",
+            "category": "Policy",
+            "publishedAt": "2026-07-24T10:02:51+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "wildfires",
+              "emergency",
+              "spain",
+              "declares",
+              "declared"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "wildfires",
+          "emergency",
+          "spain",
+          "declares",
+          "declared"
+        ]
+      },
       {
         "title": "French environment minister backtracks on resignation over pesticide bill",
         "description": "French environment minister Monique Barbut remains in her post after President Emmanuel Macron refused her resignation over a controversial pesticide bill.",
@@ -1460,11 +1465,44 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "bill",
+          "backtracks",
+          "pesticide",
           "resignation",
-          "french",
-          "environment",
-          "pesticide"
+          "bill",
+          "french"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/japan-identifies-large-share-rare-earths-in-deep-sea-mud-remote-island-6275811",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T16:48:46+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "deep",
+          "sea",
+          "remote",
+          "japan",
+          "share"
         ]
       }
     ],
@@ -1493,11 +1531,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "indian",
-          "origin",
-          "dozen",
           "charges",
-          "canada"
+          "trafficking",
+          "investigation",
+          "dozen",
+          "origin"
         ]
       }
     ],
@@ -1526,11 +1564,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "madrid",
-          "barcelona",
-          "ancelotti",
           "great",
-          "guardiola"
+          "rivals",
+          "legend",
+          "madrid",
+          "italy"
         ]
       }
     ]
