@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T04:59:38.676741",
+  "updatedAt": "2026-07-25T09:29:42.347692",
   "insight": {
     "title": "Slime Molds Map Shortest Routes Without a Brain",
     "subtitle": "A single-celled organism naturally recreates optimal transport networks in hours.",
@@ -26,88 +26,150 @@
   },
   "news": [
     {
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
-      "category": "Geopolitics",
+      "title": "Global bonds are reeling as oil surge rekindles inflation threat",
+      "description": "[LONDON] Global bonds were pummelled this week by the latest resurgence in energy prices, delivering losses to investors who bet the worst...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/global-bonds-are-reeling-oil-surge-rekindles-inflation-threat",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 16,
-      "why": "Your prices on imported everyday goods may rise soon.",
-      "context": "The United States imposed broad new tariffs on dozens of foreign nations.",
-      "next": "Targeted nations may retaliate with their own trade restrictions soon.",
-      "bigger": "Global trade faces growing fragmentation and rising protectionist policies worldwide.",
-      "publishedAt": "2026-07-24T12:40:44+00:00",
+      "score": 22,
+      "why": "Your borrowing costs and mortgage rates may stay higher for longer.",
+      "context": "Rising energy prices caused broad sell-offs in international bond markets.",
+      "next": "Central banks may hold interest rates higher to curb inflation.",
+      "bigger": "Energy shocks continue to complicate global monetary policy and recovery.",
+      "publishedAt": "2026-07-25T07:48:16+00:00",
       "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "tariffs",
-        "iran",
-        "trade",
-        "eu_entity"
+        "oil",
+        "reeling",
+        "surge",
+        "inflation",
+        "bonds"
       ],
       "alternates": []
     },
     {
-      "title": "Nvidia, Palantir, Meta warn against \u2018premature restrictions\u2019 of open-weight models",
-      "description": "A group of American tech giants, including Nvidia, Palantir and Meta, signed a public letter on Friday calling for US leadership in open-weight AI models, an area that China currently dominates. The challenge comes amid growing speculation that the Trump administration might introduce restrictions o",
+      "title": "Houthi blockade of Saudi trade threatens wider Middle East conflict",
+      "description": "Saudi Arabia and Yemen\u2019s Tehran-allied Houthi movement edged closer to opening a new front in the Iran war overnight, after Riyadh bombed the port city of Hodeidah in retaliation for a Houthi missile strike on one of its ships in the Red Sea. The exchange marks the latest escalation since the Houthi",
       "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3361813/nvidia-palantir-meta-warn-against-premature-restrictions-open-weight-models",
-      "category": "Technology",
+      "url": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 18,
-      "why": "The free AI tools you use may face future restrictions.",
-      "context": "Major US tech leaders urged Washington not to restrict open artificial intelligence.",
-      "next": "Lawmakers will debate new regulations for open artificial intelligence technology.",
-      "bigger": "National security concerns are increasingly driving artificial intelligence policy worldwide.",
-      "publishedAt": "2026-07-24T21:57:47+00:00",
+      "score": 16,
+      "why": "Shipping delays and energy costs could increase across international markets.",
+      "context": "Escalating military strikes along trade routes sparked fresh regional conflict risks.",
+      "next": "Tensions could disrupt critical maritime trade corridors in the region.",
+      "bigger": "Regional conflicts increasingly threaten vulnerable global supply network choke points.",
+      "publishedAt": "2026-07-25T08:00:18+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "models",
+        "iran",
         "us_entity",
-        "china_entity",
-        "weight"
+        "donald_trump",
+        "saudi",
+        "strikes",
+        "arabia"
       ],
       "alternates": [
         {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "category": "Technology",
-          "publishedAt": "2026-07-24T15:51:49+00:00",
-          "score": 11,
+          "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+          "description": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-24T12:00:00+00:00",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "ai_group",
-            "models",
+            "iran",
             "us_entity",
-            "china_entity",
-            "weight"
+            "donald_trump",
+            "saudi",
+            "strikes",
+            "arabia"
           ],
-          "group_id": 0
+          "group_id": 1
+        },
+        {
+          "title": "Saudi strikes Houthi sites in Yemen as conflict flares",
+          "description": "Saudi Arabia struck Houthi military targets in Hodeida on Friday with rebel media reporting two injured after the Iran-backed group announced a maritime blockade of the kingdom and hit its ships. Saudi Arabia and the Houthis traded fire recently for the first time in years, threatening a 2022 truce ",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3361814/saudi-strikes-houthi-sites-yemen-conflict-flares",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-24T23:05:02+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "saudi",
+            "strikes",
+            "arabia"
+          ],
+          "group_id": 1
+        },
+        {
+          "title": "Houthis vow retaliation for Saudi strikes as conflict deepens",
+          "description": "The flare-up marks a new front of the war that has engulfed the region following US-Israeli strikes on Tehran in February.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/houthis-vow-retaliation-for-saudi-strikes-as-conflict-deepens-101784946256916.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-07-25T08:04:06+05:30",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "saudi",
+            "strikes",
+            "arabia"
+          ],
+          "group_id": 1
         }
       ]
     },
     {
-      "title": "Over 100,000 flee or hole up indoors as wildfires rage in France and Spain",
-      "description": "Wildfires in France and Spain have forced more than 100,000 people to evacuate as strong winds and drought made the fires difficult to control.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/world/spain-france-wildfires-europe-heatwave-6276986",
-      "category": "Environment",
+      "title": "Trump threatens EU with tariffs over fines on US tech giants",
+      "description": "President Trump threatens the EU with tariffs and a trade investigation following a $1 billion fine against Google for abusing its market power.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/1e4e35ab-a3e7-4ed2-9bf6-b874d0ade1b8.html",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 8,
-      "why": "Local residents and travelers face safety risks and travel disruptions.",
-      "context": "Massive wildfires across France and Spain forced widespread evacuations and lockdowns.",
-      "next": "Firefighters will struggle to contain blazes amid ongoing dry winds.",
-      "bigger": "Extreme heat and droughts are escalating fire risks across Southern Europe.",
-      "publishedAt": "2026-07-25T02:50:00+08:00",
+      "score": 20,
+      "why": "Imported European goods and tech services may become more expensive.",
+      "context": "Fresh U.S. tariffs were threatened following European regulatory actions against tech firms.",
+      "next": "European officials may retaliate with targeted trade barriers on American exports.",
+      "bigger": "Trade disputes are increasingly tied to cross-border technology regulation.",
+      "publishedAt": "2026-07-25T02:23:38+00:00",
       "topicFingerprint": [
-        "france",
-        "spain",
-        "wildfires",
-        "drought",
-        "rage"
+        "donald_trump",
+        "us_entity",
+        "tariffs",
+        "trade",
+        "eu_entity",
+        "forced"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington",
+      "description": "For his first-ever post on X, Nvidia CEO Jensen Huang shared an open letter to DC aimed at preserving the future of open source AI.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 21,
+      "why": "Free access to advanced software tools may be restricted by government policy.",
+      "context": "Major tech leaders urged government officials to protect open source artificial intelligence.",
+      "next": "Lawmakers may introduce strict licensing requirements for advanced software models.",
+      "bigger": "Governments and tech giants are locked in battle over software regulation.",
+      "publishedAt": "2026-07-25T00:41:00+00:00",
+      "topicFingerprint": [
+        "meta",
+        "washington",
+        "nvidia",
+        "message",
+        "microsoft"
       ],
       "alternates": []
     },
@@ -119,159 +181,100 @@
       "category": "Health",
       "readingTime": 2,
       "score": 8,
-      "why": "Unvaccinated individuals face higher risks of catching severe viral infections.",
-      "context": "Measles cases in the United States reached a multi-decade high.",
-      "next": "Health authorities may enact stricter vaccination rules for schools and travel.",
-      "bigger": "Declining childhood vaccination rates are reviving previously controlled infectious diseases.",
+      "why": "You may face higher health risks and sudden local community restrictions.",
+      "context": "Healthcare authorities reported an unprecedented rise in domestic preventable disease cases.",
+      "next": "Schools and public venues could tighten mandatory immunization requirements soon.",
+      "bigger": "Vaccine hesitancy poses a growing threat to public health safety systems.",
       "publishedAt": "2026-07-25T10:19:00+08:00",
       "topicFingerprint": [
         "measles",
-        "outbreak",
         "years",
-        "data",
-        "worst"
+        "outbreak",
+        "worst",
+        "data"
       ],
       "alternates": []
     },
     {
-      "title": "Indian central bank\u2019s likely intervention blunts oil surge, helps rupee avoid record low",
-      "description": "The Reserve Bank of India aims to curb excessive rupee volatility but faces pressure from inflation.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/indian-central-bank-intervention-blunts-oil-surge-shores-up-rupee",
+      "title": "China economic growth set to slow in H2 as Beijing avoids broad stimulus",
+      "description": "",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/economy-news/china-economic-growth-set-to-slow-in-h2-as-beijing-avoids-broad-stimulus-4812753",
       "category": "Financial",
       "readingTime": 2,
-      "score": 22,
-      "why": "Indian consumers may avoid an immediate jump in fuel prices.",
-      "context": "India's central bank intervened in markets to protect its currency value.",
-      "next": "The central bank may deploy more foreign reserves if oil climbs.",
-      "bigger": "Emerging market central banks face growing pressure from volatile global energy.",
-      "publishedAt": "2026-07-24T13:28:00+08:00",
+      "score": 12,
+      "why": "Global demand for raw materials and manufactured goods may soften soon.",
+      "context": "Chinese economic momentum is decelerating as policymakers resist widespread economic aid.",
+      "next": "Chinese officials may implement smaller, targeted incentives for specific industries.",
+      "bigger": "Emerging market growth strategies are shifting away from massive state spending.",
+      "publishedAt": "2026-07-25T07:58:21+00:00",
       "topicFingerprint": [
-        "low",
-        "record",
-        "indian",
-        "likely",
-        "rupee"
+        "set",
+        "broad",
+        "growth",
+        "beijing",
+        "avoids"
       ],
-      "alternates": [
-        {
-          "title": "Indian central bank likely steps in to avert rupee record low as oil surges, traders say",
-          "description": "Brent futures stood at US$101.06 a barrel on Friday",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-central-bank-likely-steps-avert-rupee-record-low-oil-surges-traders-say",
-          "category": "Financial",
-          "publishedAt": "2026-07-24T04:29:19+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "low",
-            "record",
-            "indian",
-            "likely",
-            "rupee"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "description": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+      "title": "Finland\u2019s radical answer to renewable energy\u2019s biggest headache: The world\u2019s largest sand battery",
+      "description": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-      "category": "Geopolitics",
+      "url": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 28,
-      "why": "European products sold in the US may become more expensive.",
-      "context": "Donald Trump threatened new European tariffs over penalties on US tech firms.",
-      "next": "European officials may prepare retaliatory duties on popular American products.",
-      "bigger": "Regulatory disputes over big tech are expanding into broader trade conflicts.",
-      "publishedAt": "2026-07-24T19:39:50+00:00",
+      "score": 10,
+      "why": "Your heating bills could decrease as alternative thermal storage becomes available.",
+      "context": "A municipality deployed massive thermal storage technology to solve clean energy gaps.",
+      "next": "More cold-climate cities may adopt thermal storage to stabilize grid power.",
+      "bigger": "Innovation in grid storage is unlocking reliable, low-cost renewable power.",
+      "publishedAt": "2026-07-25T05:29:38+00:00",
       "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "tariffs",
-        "iran",
-        "trade",
-        "eu_entity"
+        "biggest",
+        "renewable",
+        "energy",
+        "battery",
+        "headache"
       ],
-      "alternates": [
-        {
-          "title": "Trump vows to investigate EU over fining of US tech companies",
-          "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
-          "category": "Technology",
-          "publishedAt": "2026-07-24T20:23:58+00:00",
-          "score": 20,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "donald_trump",
-            "tariffs",
-            "iran",
-            "trade",
-            "eu_entity"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "EU strikes Google with $1 billion fine in major crackdown on antitrust regulations even as Trump threatens retaliation",
-          "description": "Despite warnings from US President Trump about penalties on American tech companies, the European Union issued a $1 billion fine on the tech giant over its Google Play search.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/07/24/eu-google-1-billion-fine-major-crackdown-antitrust-regulations/",
-          "category": "Geopolitics",
-          "publishedAt": "2026-07-24T20:06:30+00:00",
-          "score": 15,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "donald_trump",
-            "tariffs",
-            "iran",
-            "trade",
-            "eu_entity"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "What's riding on SpaceX Starship test-flight: Nasa's Artemis, direct-to-mobile Starlink and a $15 billion bet",
-      "description": "SpaceX's mega-rocket carries the first real Starlink payload, and the weight of Nasa's 2028 moon-landing timeline",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-explainers/whats-riding-on-spacex-starship-test-flight-nasas-artemis-direct-to-mobile-starlink-and-a-15-billion-bet-101784910731083.html",
+      "title": "SpaceX's Super Heavy-Starship blasts off on 13th test flight",
+      "description": "An upgraded version of the world's most powerful rocket is key to landing NASA astronauts on the moon in the agency's Artemis program.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/spacex-giant-super-heavy-starship-rocket-test-flight/",
       "category": "Science",
       "readingTime": 2,
-      "score": 9,
-      "why": "Your mobile phone may soon connect directly to satellite networks.",
-      "context": "SpaceX prepared a crucial test flight carrying major lunar and cellular payloads.",
-      "next": "NASA will evaluate flight data to set future moon landing schedules.",
-      "bigger": "Commercial space companies are taking over critical government space missions.",
-      "publishedAt": "2026-07-24T22:28:08+05:30",
+      "score": 10,
+      "why": "Satellite internet services and global space access may become cheaper soon.",
+      "context": "A next-generation heavy launch vehicle completed its latest high-altitude flight trial.",
+      "next": "Commercial payload missions could begin using the massive launch vehicle soon.",
+      "bigger": "Lower space launch costs are accelerating the expansion of satellite infrastructure.",
+      "publishedAt": "2026-07-24T22:53:30-04:00",
       "topicFingerprint": [
-        "starship",
         "spacex",
+        "starship",
+        "test",
         "flight",
-        "rocket",
-        "test"
+        "rocket"
       ],
       "alternates": [
         {
-          "title": "SpaceX's Super Heavy-Starship blasts off on 13th test flight",
-          "description": "An upgraded version of the world's most powerful rocket is key to landing NASA astronauts on the moon in the agency's Artemis program.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/spacex-giant-super-heavy-starship-rocket-test-flight/",
+          "title": "What's riding on SpaceX Starship test-flight: Nasa's Artemis, direct-to-mobile Starlink and a $15 billion bet",
+          "description": "SpaceX's mega-rocket carries the first real Starlink payload, and the weight of Nasa's 2028 moon-landing timeline",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/ht-explainers/whats-riding-on-spacex-starship-test-flight-nasas-artemis-direct-to-mobile-starlink-and-a-15-billion-bet-101784910731083.html",
           "category": "Science",
-          "publishedAt": "2026-07-24T22:53:30-04:00",
-          "score": 9,
+          "publishedAt": "2026-07-24T22:28:08+05:30",
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "starship",
             "spacex",
+            "starship",
+            "test",
             "flight",
-            "rocket",
-            "test"
+            "rocket"
           ],
           "group_id": 0
         }
@@ -285,39 +288,39 @@
       "category": "Financial",
       "readingTime": 2,
       "score": 12,
-      "why": "Wealthy Chinese families face higher tax bills and asset audits.",
-      "context": "China launched a major tax enforcement campaign against wealthy offshore trusts.",
-      "next": "High-net-worth families may move capital into alternative low-tax jurisdictions.",
-      "bigger": "Global governments are tightening tax scrutiny on foreign wealth shelters.",
+      "why": "Wealthy individuals in China face higher tax burdens and asset scrutiny.",
+      "context": "Authorities launched aggressive regulatory oversight targeting wealth protection structures used overseas.",
+      "next": "Offshore tax havens may see reduced capital inflows from high-net-worth investors.",
+      "bigger": "Global governments are closing overseas loopholes to boost domestic tax revenue.",
       "publishedAt": "2026-07-24T18:45:00+08:00",
       "topicFingerprint": [
         "targets",
-        "clampdown",
-        "trusts",
+        "tax",
         "offshore",
-        "tax"
+        "sweeping",
+        "clampdown"
       ],
       "alternates": []
     },
     {
-      "title": "German leader Merz reshuffles top posts as he tries to counter far-right advance",
-      "description": "German Chancellor Friedrich Merz has reshuffled top posts as he tries to boost his unpopular government",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/german-leader-merz-reshuffles-top-posts-counter-advance-135043619",
-      "category": "Progress",
+      "title": "The unfinished business of the India-U.K. trade deal | Explained",
+      "description": "While the India-U.K. CETA eases trade barriers, important questions on investment protection, patent rules and carbon border taxes have been left for future negotiations",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/the-unfinished-business-of-the-india-uk-trade-deal-explained/article71256650.ece",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 4,
-      "why": "German citizens may experience sudden shifts in national policy directions.",
-      "context": "Germany's leader reorganized government leadership to strengthen his political coalition.",
-      "next": "Parliament will vote on proposed policy changes to boost public support.",
-      "bigger": "Traditional political parties across Europe are struggling against political polarization.",
-      "publishedAt": "2026-07-24T07:09:14-04:00",
+      "score": 10,
+      "why": "Importers and exporters face prolonged tariff uncertainties between both nations.",
+      "context": "Bilateral commerce talks hit hurdles over investment policies and environmental tariffs.",
+      "next": "Negotiators will meet to address remaining disputes over tariffs and regulations.",
+      "bigger": "Cross-border trade pacts are increasingly stalled by environmental and legal standards.",
+      "publishedAt": "2026-07-25T10:45:02+05:30",
       "topicFingerprint": [
-        "top",
-        "far",
-        "right",
-        "merz",
-        "german"
+        "explained",
+        "trade",
+        "uk",
+        "unfinished",
+        "india"
       ],
       "alternates": []
     },
@@ -329,135 +332,91 @@
       "category": "Policy",
       "readingTime": 2,
       "score": 10,
-      "why": "UN human rights monitoring will maintain its leadership and strategy.",
-      "context": "The United Nations human rights chief secured approval for a second term.",
-      "next": "Strategic friction between the rights office and key Western nations will persist.",
-      "bigger": "Global diplomatic institutions face growing pushback from powerful member states.",
+      "why": "International human rights monitoring will remain consistent under established leadership.",
+      "context": "The top United Nations human rights official secured a second leadership tenure.",
+      "next": "Diplomatic friction between global bodies and key member states may escalate.",
+      "bigger": "Multilateral institutions face growing pushback from powerful geopolitical players.",
       "publishedAt": "2026-07-25T00:16:32+00:00",
       "topicFingerprint": [
-        "chief",
         "rights",
-        "opposition",
+        "chief",
+        "term",
         "turk",
-        "term"
+        "opposition"
       ],
       "alternates": []
     },
     {
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "description": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-      "category": "Science",
+      "title": "German leader Merz reshuffles top posts as he tries to counter far-right advance",
+      "description": "German Chancellor Friedrich Merz has reshuffled top posts as he tries to boost his unpopular government",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/german-leader-merz-reshuffles-top-posts-counter-advance-135043619",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 8,
-      "why": "Trapped disaster victims may be located and rescued much faster.",
-      "context": "US researchers deployed specialized snake-like robots to search earthquake ruins in Venezuela.",
-      "next": "Emergency response teams will deploy more autonomous search robots in disasters.",
-      "bigger": "Advanced robotics are transforming emergency search and rescue operations worldwide.",
-      "publishedAt": "2026-07-24T11:20:43+00:00",
+      "score": 4,
+      "why": "German voters may see abrupt changes in domestic social and economic policies.",
+      "context": "Germany's leader reorganized key cabinet positions to combat rising opposition popularity.",
+      "next": "The political opposition could gain momentum ahead of upcoming regional elections.",
+      "bigger": "Establishment European leaders are restructuring governments to resist populist shifts.",
+      "publishedAt": "2026-07-24T07:09:14-04:00",
       "topicFingerprint": [
-        "snakes",
-        "buildings",
-        "searched",
-        "robot",
-        "collapsed"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "South Korea's president invokes dramatic Japan realty crash to push domestic property agenda",
-      "description": "Lee was highlighting the country's excessive investment in real estate, and highlighted that Japan's housing market \"burst like a balloon.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "South Korean homebuyers may face tighter borrowing limits and regulations.",
-      "context": "South Korea's leader cited Japan's housing crash to warn against property speculation.",
-      "next": "The government will introduce tighter financial curbs on real estate loans.",
-      "bigger": "Asian economies are acting aggressively to prevent catastrophic real estate bubbles.",
-      "publishedAt": "2026-07-24T07:07:07+00:00",
-      "topicFingerprint": [
-        "japan",
-        "push",
-        "property",
-        "sk_entity",
-        "invokes"
+        "posts",
+        "german",
+        "counter",
+        "advance",
+        "top"
       ],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, the United States has hit dozens of foreign nations with a sweeping new wave of import tariffs. This means prices on everyday imported goods could rise for you in the near future, as global trade faces growing protectionism and fragmentation.\n\nMeanwhile, major American tech leaders from Nvidia, Palantir, and Meta are warning Washington against placing premature restrictions on open-weight artificial intelligence models. They argue that overly strict policies could limit the free AI tools you rely on, even as national security concerns increasingly shape global technology policy.\n\nIn Southern Europe, over one hundred thousand people across France and Spain have been forced to evacuate or stay indoors as massive wildfires burn through the region. Local residents and travelers face serious safety risks and travel disruptions as extreme heat and severe drought escalate fire threats.\n\nBack in the United States, official data reveals that measles cases have reached a thirty-five year high. Unvaccinated individuals face an elevated risk of contracting severe viral infections as declining childhood vaccination rates allow previously controlled diseases to resurface.\n\nSwitching to financial news, India's central bank stepped into foreign exchange markets to protect the rupee and blunt a sudden surge in global oil prices. This intervention helps Indian consumers avoid an immediate jump in fuel prices, illustrating how emerging market central banks are working to offset energy market volatility.\n\nIn trade news, Donald Trump has threatened the European Union with substantial new tariffs in response to regulatory penalties imposed on American tech firms. If put into place, European products sold in the United States could become significantly more expensive as regulatory disputes expand into broader commercial conflicts.\n\nNext, SpaceX is preparing a crucial test flight for its Starship rocket, carrying major lunar payloads for NASA alongside direct-to-mobile satellite hardware as part of a fifteen billion dollar bet. Success could mean your everyday mobile phone will soon connect directly to satellite networks, as commercial space companies take over critical government missions.\n\nMoving to Asia, China has launched a sweeping tax enforcement campaign targeting wealthy individuals using offshore trusts. Affected families face higher tax bills and strict asset audits as governments worldwide tighten their scrutiny on foreign wealth shelters.\n\nOver in Europe, German leader Friedrich Merz has reshuffled top political posts in an attempt to counter the advance of far-right opposition. German citizens may experience sudden shifts in national policy directions as traditional political parties across the continent struggle against growing political polarization.\n\nAt the United Nations, human rights chief Volker T\u00fcrk has secured approval for a second term, despite strong opposition from both the United States and Israel. This decision ensures continuity in global human rights monitoring, even as international diplomatic institutions face rising pushback from powerful member states.\n\nIn emergency technology, researchers have deployed specialized snake-like robots to search through collapsed buildings following an earthquake in Venezuela. These flexible robots can locate trapped disaster victims much faster, transforming how rescue operations are conducted worldwide.\n\nAnd finally, South Korea's president has invoked Japan's historic real estate crash to warn against property speculation and push for a new domestic agenda. Homebuyers in South Korea could soon face tighter borrowing limits as Asian economies act aggressively to prevent dangerous housing bubbles.\n\nBefore we go, here is a nice thought to end on today. Scientists recently highlighted that slime molds, which are simple single-celled organisms without a brain, can naturally recreate optimal transport networks in just a few hours. It is a quiet reminder that simple natural systems often find elegant solutions to complex problems entirely on their own.\n\nThat is your Sift Daily Briefing for today.",
+    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters to you today.\n\nFirst up, global bond markets are reeling as a sudden surge in oil prices rekindles fears of inflation. When energy costs jump, central banks are forced to hold interest rates higher for longer to cool things down. For you, that means higher borrowing costs and elevated mortgage rates are likely here to stay for a while.\n\nMeanwhile, escalating military strikes along trade routes near Saudi Arabia are sparking fresh concerns over a wider Middle East conflict. Disruptions in these crucial shipping channels do not just affect the region. They threaten global supply networks, which can push up shipping costs and energy prices internationally.\n\nSwitching to international trade, Donald Trump is threatening new tariffs on the European Union following hefty regulatory fines on American tech giants. As trade disputes increasingly focus on how technology is regulated across borders, everyday consumers could feel the pinch. You may soon see higher price tags on imported European goods and subscription tech services.\n\nSpeaking of big tech, executives from Microsoft, Meta, OpenAI, and Palantir have a clear message for officials in Washington. They are urging lawmakers to protect open-source artificial intelligence from over-regulation. If guardrails are set too strictly, free public access to cutting-edge software tools could end up severely restricted.\n\nTurning to public health, official data shows the United States is currently battling its worst measles outbreak in thirty-five years. Authorities are pointing to rising vaccine hesitancy as a major threat to public safety systems. For everyday families, this surge brings increased health risks and the possibility of sudden local community restrictions.\n\nIn global economics, China's growth momentum is expected to slow down in the second half of the year as Beijing resists calls for broad financial stimulus. Rather than relying on massive state spending, policymakers are taking a more cautious approach. As a result, global demand for raw materials and manufactured goods may soften very soon.\n\nOn a brighter note, a municipality in Finland is tackling renewable energy's biggest headache by building the world's largest sand battery. This innovative system stores clean heat on a massive scale, proving that clean power can remain reliable even during frozen winter months. Over time, alternative thermal storage like this could help lower your home heating bills.\n\nNext, SpaceX has successfully launched its Super Heavy Starship on its thirteenth test flight. Each high-altitude trial brings engineers closer to making heavy space launches routine and far less expensive. In the long run, lower launch costs mean expanded satellite networks and cheaper, more accessible internet services everywhere.\n\nOver in Asia, Chinese authorities are launching a sweeping regulatory clampdown on offshore trusts used to shield wealth abroad. This effort is part of a growing global trend where governments close overseas tax loopholes to boost domestic revenue. For high-net-worth individuals, it means significantly higher tax burdens and much closer asset scrutiny.\n\nMeanwhile, long-anticipated trade deal talks between India and the United Kingdom have hit fresh hurdles over investment standards and environmental tariffs. Cross-border pacts like this are increasingly bogged down by complex legal and climate rules. For now, importers and exporters face prolonged tariff uncertainties when trading between the two nations.\n\nAt the United Nations, human rights chief Volker Turk has secured a second term in office despite strong opposition from both the United States and Israel. His victory highlights how top multilateral leaders are navigating intense geopolitical pushback. For the world, it ensures that international human rights monitoring will remain steady and consistent under his leadership.\n\nAnd finally, German leader Friedrich Merz has reshuffled key cabinet positions as he attempts to counter a rapid advance by far-right opposition groups. European leaders are increasingly reorganizing their governments to resist populist shifts. For voters in Germany, this political maneuvering could mean abrupt changes to domestic social and economic policies.\n\nTo leave you with a nice thought today, scientists recently pointed to a fascinating reminder of nature's design. The single-celled slime mold has no brain, yet it can naturally map out the shortest, most efficient transport routes in just a few hours. It is a quiet reminder that brilliant solutions can emerge in the most unexpected places.\n\nThat is your Sift Daily Briefing for today. Have a peaceful day, and we will see you back here tomorrow.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 237
+    "estimatedDurationSeconds": 278
   },
   "candidatePool": [
     {
-      "title": "US small businesses sue Trump administration over new \u2018forced labour\u2019 tariffs",
-      "description": "Two US small businesses on Friday \u2060challenged President Donald \u2060Trump\u2019s latest round of tariffs on goods \u2060from 60 trading partners, saying that the new policy, like most of Trump\u2019s previous tariffs, went beyond the president\u2019s authority to tax imports. The lawsuit, filed in the US trade court in New",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3361812/us-small-businesses-sue-trump-administration-over-new-forced-labour-tariffs",
-      "category": "Geopolitics",
+      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+      "description": "Living near Taiz s front line forces families to make difficult choices amid sniper threats and economic hardships.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 23,
-      "why": "US small businesses and consumers face higher costs for imports.",
-      "context": "American small businesses filed a lawsuit seeking to block new import tariffs.",
-      "next": "Federal courts will decide whether to temporarily suspend the new tariffs.",
-      "bigger": "Trade policy battles are increasingly moving into domestic courtrooms.",
-      "publishedAt": "2026-07-24T20:27:19+00:00",
+      "score": 20,
+      "why": "Displaced families face immediate life-threatening danger and critical shelter shortages.",
+      "context": "Severe economic hardship forced displaced civilians to shelter inside active combat zones.",
+      "next": "Humanitarian agencies could face greater challenges delivering emergency relief supplies.",
+      "bigger": "Long-term warfare continues to destroy essential housing and basic civil infrastructure.",
+      "publishedAt": "2026-07-25T08:09:47+00:00",
       "topicFingerprint": [
-        "us_entity",
-        "donald_trump",
-        "tariffs",
-        "iran",
-        "trade",
-        "eu_entity"
+        "live",
+        "forces",
+        "housing",
+        "line",
+        "snipers"
       ],
       "alternates": []
     },
     {
-      "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington",
-      "description": "For his first-ever post on X, Nvidia CEO Jensen Huang shared an open letter to DC aimed at preserving the future of open source AI.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
       "category": "Technology",
       "readingTime": 2,
-      "score": 21,
-      "why": "The free AI models you use may remain openly accessible.",
-      "context": "Major technology companies jointly lobbied government officials to protect open-source AI.",
-      "next": "Government agencies will draft updated national policies on artificial intelligence security.",
-      "bigger": "The tech industry is uniting to shape government regulation of AI.",
-      "publishedAt": "2026-07-25T00:41:00+00:00",
+      "score": 18,
+      "why": "Tech users may experience disrupted cross-border digital services and higher costs.",
+      "context": "A political commitment was made to investigate foreign penalties against domestic firms.",
+      "next": "U.S. regulators could launch investigations targeting European trade practices soon.",
+      "bigger": "Digital sovereignty disputes are driving economic confrontation between democratic allies.",
+      "publishedAt": "2026-07-24T20:23:58+00:00",
       "topicFingerprint": [
-        "washington",
-        "openai",
-        "nvidia",
-        "microsoft",
-        "message"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Niger still seeks stability, after 3 years of military rule",
-      "description": "The military government in Niger had promised social, security and economic improvements when it took power in 2023. Three years down the line, there are mixed reviews on its performance.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Citizens in Niger face ongoing security risks and economic hardship.",
-      "context": "Niger continues to face severe security challenges three years after military takeover.",
-      "next": "Military leaders will face growing domestic pressure to hold elections soon.",
-      "bigger": "Military juntas in West Africa struggle to deliver long-term regional stability.",
-      "publishedAt": "2026-07-24T15:01:00+00:00",
-      "topicFingerprint": [
-        "seeks",
-        "stability",
-        "military",
-        "rule",
-        "years"
+        "donald_trump",
+        "us_entity",
+        "tariffs",
+        "trade",
+        "eu_entity",
+        "forced"
       ],
       "alternates": []
     },
@@ -469,39 +428,17 @@
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "Your older Apple devices may carry unfixable security risks.",
-      "context": "A tech company sued a rival over alleged theft of Apple exploit code.",
-      "next": "Courts will determine if the exploit details must be permanently suppressed.",
-      "bigger": "Hardware-level security flaws pose persistent threats to modern digital privacy.",
+      "why": "Hardware security flaws may leave certain consumer devices vulnerable to hacking.",
+      "context": "Legal proceedings began over allegations that hardware vulnerabilities stemmed from intellectual property theft.",
+      "next": "Tech manufacturers may face increased litigation over proprietary security vulnerabilities.",
+      "bigger": "Hardware-level vulnerabilities pose growing threats to enterprise and consumer cybersecurity.",
       "publishedAt": "2026-07-25T00:53:03+00:00",
       "topicFingerprint": [
-        "apple",
-        "trade",
-        "details",
         "lawsuit",
-        "secrets"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Parents put their kids as co-owners of overseas property to reduce future inheritance tax",
-      "description": "Inheritance tax in some countries can reach 55 per cent, but joint ownership limits tax to the inherited share.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/invest/parents-put-their-kids-as-co-owners-of-overseas-property-to-reduce-future-inheritance-tax",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Foreign property owners can lower inheritance tax burdens for heirs.",
-      "context": "Wealthy families are using joint foreign property ownership to cut tax burdens.",
-      "next": "Foreign governments may update property tax laws to close transfer loopholes.",
-      "bigger": "Cross-border tax planning strategies are becoming popular among international property owners.",
-      "publishedAt": "2026-07-25T05:00:00+08:00",
-      "topicFingerprint": [
-        "future",
-        "property",
-        "overseas",
-        "reduce",
-        "kids"
+        "apple",
+        "secrets",
+        "trade",
+        "details"
       ],
       "alternates": []
     },
@@ -512,11 +449,11 @@
       "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
       "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "International travelers face legal risks when refusing border phone checks.",
-      "context": "Federal authorities charged a traveler who wiped his phone at border control.",
-      "next": "A federal judge will rule on constitutional privacy rights at borders.",
-      "bigger": "Digital privacy rights are clashing with expanding border inspection powers globally.",
+      "score": 9,
+      "why": "Travelers may face stricter device searches and legal risks at borders.",
+      "context": "Federal prosecutors challenged a traveler who remotely erased device data at border inspection.",
+      "next": "Courts could establish clearer legal boundaries for digital device searches at borders.",
+      "bigger": "Digital privacy rights continue to clash with government border surveillance powers.",
       "publishedAt": "2026-07-24T17:53:30+00:00",
       "topicFingerprint": [
         "duress",
@@ -528,24 +465,24 @@
       "alternates": []
     },
     {
-      "title": "US appeals court blocks part of Texas\u00a0children's online safety law",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/us-appeals-court-blocks-part-texas-childrens-online-safety-law-6277141",
-      "category": "Policy",
+      "title": "Wall St opens subdued after tech rout; Mideast, tariffs in focus",
+      "description": "[NEW YORK] Wall Street\u2019s main indexes opened subdued on Friday (Jul 24) after a tech-led selloff in the previous session, as investors...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/wall-st-opens-subdued-after-tech-rout-mideast-tariffs-focus",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Online users will not face immediate mandatory age checks in Texas.",
-      "context": "An appeals court halted enforcement of a Texas youth online law.",
-      "next": "Texas state attorneys will likely appeal the ruling to higher courts.",
-      "bigger": "State-level efforts to regulate online youth safety face constitutional hurdles.",
-      "publishedAt": "2026-07-25T03:42:21+08:00",
+      "score": 9,
+      "why": "Investors and retirement accounts may experience renewed short-term market volatility.",
+      "context": "U.S. stock markets opened flat following technology losses and global geopolitical worries.",
+      "next": "Stock prices could fluctuate further as quarterly corporate earnings reports arrive.",
+      "bigger": "Global geopolitical tensions are increasingly driving daily stock market movements.",
+      "publishedAt": "2026-07-24T13:45:12+00:00",
       "topicFingerprint": [
-        "texaschildren",
-        "online",
-        "part",
-        "safety",
-        "blocks"
+        "subdued",
+        "opens",
+        "mideast",
+        "wall",
+        "tech"
       ],
       "alternates": []
     },
@@ -557,305 +494,111 @@
       "category": "Environment",
       "readingTime": 2,
       "score": 9,
-      "why": "Central Asian communities may gain faster access to renewable power.",
-      "context": "A prominent family office accelerated major renewable energy investments in Central Asia.",
-      "next": "Construction will begin on new regional solar and wind power projects.",
-      "bigger": "Private Asian capital is driving global investments in sustainable energy infrastructure.",
+      "why": "Central Asian communities may gain access to cleaner power and infrastructure jobs.",
+      "context": "A private investment firm accelerated renewable infrastructure developments across Central Asian markets.",
+      "next": "Construction on regional solar and wind power projects could begin quickly.",
+      "bigger": "Private capital is driving clean energy expansion in emerging global markets.",
       "publishedAt": "2026-07-25T01:00:15+00:00",
       "topicFingerprint": [
-        "asia",
-        "energy",
         "henderson",
         "fast",
-        "land"
+        "family",
+        "land",
+        "energy"
       ],
       "alternates": []
     },
     {
-      "title": "Which 9 US states are affected by Cyclospora outbreak? Full list as CDC issues fresh warning",
-      "description": "A major Cyclospora outbreak in the US has spread to nine states, with shredded iceberg lettuce linked to Taco Bell identified as the probable cause.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/which-9-us-states-are-affected-by-cyclospora-outbreak-full-list-as-cdc-issues-fresh-warning-101784919041704.html",
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "description": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Emergency rescue operations can find trapped disaster survivors much faster.",
+      "context": "Specialized robotic devices were deployed to locate trapped disaster survivors in debris.",
+      "next": "Rescue crews may deploy autonomous robotics to other global disaster zones.",
+      "bigger": "Advanced robotics are transforming disaster response and emergency search capabilities.",
+      "publishedAt": "2026-07-24T11:20:43+00:00",
+      "topicFingerprint": [
+        "collapsed",
+        "robot",
+        "earthquake",
+        "searched",
+        "survivors"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India\u2019s education minister resigns after weeks of \u2018Cockroach\u2019 protests",
+      "description": "This is a breaking news story.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests",
+      "category": "General",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Indian students and educators may see major reforms to academic leadership.",
+      "context": "A senior government official stepped down following sustained public demonstrations by students.",
+      "next": "The government will appoint new leadership to address student demands.",
+      "bigger": "Student movements are demonstrating greater power to influence national political decisions.",
+      "publishedAt": "2026-07-25T08:54:20+00:00",
+      "topicFingerprint": [
+        "india",
+        "protests",
+        "cockroach",
+        "youth",
+        "exam"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
+      "description": "Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spok",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/aid-worker-describes-crisis-in-venezuela-one-month-after-devastating-earthquakes",
       "category": "Health",
       "readingTime": 2,
       "score": 7,
-      "why": "Restaurant diners in affected states face risks of stomach illness.",
-      "context": "Health officials warned of a multi-state foodborne parasite outbreak in restaurant produce.",
-      "next": "Fast food chains will pull affected lettuce shipments from restaurant kitchens.",
-      "bigger": "Contaminated produce supply chains remain a major risk for public health.",
-      "publishedAt": "2026-07-25T00:35:02+05:30",
+      "why": "Local populations face severe shortages of safe drinking water and basic supplies.",
+      "context": "Severe infrastructure damage left disaster zones struggling with food and water shortages.",
+      "next": "International aid organizations will expand emergency assistance efforts across impacted regions.",
+      "bigger": "Natural disasters severely disrupt economic stability and essential services in vulnerable nations.",
+      "publishedAt": "2026-07-24T18:45:14-04:00",
       "topicFingerprint": [
-        "outbreak",
-        "cyclospora",
-        "us_entity",
-        "diarrhea",
-        "parasite"
+        "describes",
+        "worker",
+        "devastating",
+        "aid",
+        "month"
       ],
       "alternates": []
     },
     {
-      "title": "Temasek-backed Manipal Health seeks $10.3 billion valuation in India IPO",
-      "description": "The IPO will be India\u2019s second-largest primary market offering in 2026.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/temasek-backed-manipal-health-seeks-10-3-billion-valuation-in-india-ipo",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Investors gain new access to India's growing private healthcare market.",
-      "context": "A major Indian hospital operator filed for a massive initial public offering.",
-      "next": "Financial regulators will review the company's public listing application files.",
-      "bigger": "Private capital is expanding rapidly across emerging market healthcare networks.",
-      "publishedAt": "2026-07-24T12:57:00+08:00",
-      "topicFingerprint": [
-        "backed",
-        "seeks",
-        "ipo",
-        "valuation",
-        "india"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "TikTok is testing a rival to Amazon Prime as it looks to create a US e-commerce giant",
-      "description": "TikTok is testing a new membership program for shoppers called TikTok Shop Plus that includes free shipping and exclusive discounts.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/tiktok-is-testing-an-amazon-prime-style-membership-program-2026-7",
+      "title": "How schools use micro-credentials as a reward for non-academic learning",
+      "description": "The idea of \u201cmicro-credentials\u201d may be relatively new in the world of education, but the value of giving students the chance to gain recognition and awards for accomplishments outside the bounds of the formal academic curriculum has never been in doubt. The aim, of course, is to encourage interest a",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/special-reports/article/3354514/how-schools-use-micro-credentials-reward-non-academic-learning",
       "category": "General",
       "readingTime": 2,
       "score": 6,
-      "why": "Your online orders on TikTok may arrive faster and cheaper.",
-      "context": "TikTok launched a paid subscription service offering free shipping and discounts.",
-      "next": "TikTok will roll out the shopping service to more app users.",
-      "bigger": "Social media platforms are aggressively transforming into major online shopping hubs.",
-      "publishedAt": "2026-07-24T20:33:30+00:00",
+      "why": "Students can showcase specialized practical skills directly to prospective employers.",
+      "context": "Educational institutions began issuing digital badges to certify non-academic skill achievements.",
+      "next": "More educational programs could adopt skill-based micro-certifications for graduation requirements.",
+      "bigger": "Alternative credentialing is replacing traditional academic grading in modern career training.",
+      "publishedAt": "2026-07-25T00:00:09+00:00",
       "topicFingerprint": [
-        "amazon",
-        "looks",
-        "giant",
-        "tiktok",
-        "rival"
+        "credentials",
+        "schools",
+        "learning",
+        "non",
+        "academic"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "china": [
-      {
-        "title": "China slaps export controls on 14 EU entities for Russia-related sanctions",
-        "description": "China says it's adding 14 European entities to an export control list in retaliation for the European Union penalizing 14 Chinese enterprises as part of its latest round of sanctions against Russia",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/china-slaps-export-controls-14-eu-entities-retaliation-135045129",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T06:50:36-04:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: export"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: sanctions"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: export"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "entities",
-          "russia",
-          "controls",
-          "export",
-          "eu_entity"
-        ]
-      },
-      {
-        "title": "Huawei\u2019s Ren Zhengfei backs Tau Scaling Law to beat US sanctions",
-        "description": "Huawei Technologies founder Ren Zhengfei has thrown his weight behind the Chinese tech giant\u2019s Tau Scaling Law, framing the new chip-design principle as an existential necessity to survive tightening US sanctions. \u201cThe Tau Scaling Law is the only path forward for Huawei to break the siege,\u201d Ren said",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/big-tech/article/3361772/huaweis-ren-zhengfei-backs-tau-scaling-law-beat-us-sanctions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T13:00:09+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "zhengfei",
-          "sanctions",
-          "scaling",
-          "beat",
-          "ren"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "China slaps export controls on 14 EU entities for Russia-related sanctions",
-        "description": "China says it's adding 14 European entities to an export control list in retaliation for the European Union penalizing 14 Chinese enterprises as part of its latest round of sanctions against Russia",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/china-slaps-export-controls-14-eu-entities-retaliation-135045129",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T06:50:36-04:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: export"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: sanctions"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: export"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "entities",
-          "russia",
-          "controls",
-          "export",
-          "eu_entity"
-        ]
-      }
-    ],
     "india": [
-      {
-        "title": "The unfinished business of the India-U.K. trade deal | Explained",
-        "description": "While the India-U.K. CETA eases trade barriers, important questions on investment protection, patent rules and carbon border taxes have been left for future negotiations",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/business/Economy/the-unfinished-business-of-the-india-uk-trade-deal-explained/article71256650.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T23:32:49+05:30",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: taxes"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: taxes"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "explained",
-          "trade",
-          "india",
-          "uk",
-          "unfinished"
-        ]
-      },
       {
         "title": "Air India investment receives \u2018full attention\u2019 from whole board: SIA chairman",
         "description": "CEO Goh Choon Phong adds that any decisions will be supported by a \u2018robust business case\u2019 and within the group\u2019s means",
@@ -892,210 +635,109 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "air",
-          "india",
-          "full",
-          "investment",
-          "whole"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "Huawei\u2019s Ren Zhengfei backs Tau Scaling Law to beat US sanctions",
-        "description": "Huawei Technologies founder Ren Zhengfei has thrown his weight behind the Chinese tech giant\u2019s Tau Scaling Law, framing the new chip-design principle as an existential necessity to survive tightening US sanctions. \u201cThe Tau Scaling Law is the only path forward for Huawei to break the siege,\u201d Ren said",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/tech/big-tech/article/3361772/huaweis-ren-zhengfei-backs-tau-scaling-law-beat-us-sanctions",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T13:00:09+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "zhengfei",
-          "sanctions",
-          "scaling",
-          "beat",
-          "ren"
+          "sia",
+          "chairman",
+          "receives",
+          "attention",
+          "air"
         ]
       },
       {
-        "title": "South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Technology",
+        "title": "India, Israel conclude second round of trade pact negotiations",
+        "description": "India and Israel remain committed to working towards the early conclusion of a balanced, comprehensive and mutually beneficial FTA which will further expand trade and economic ties",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/india-israel-conclude-second-round-of-trade-pact-negotiations/article71262032.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-07-25T12:37:21+08:00",
+        "publishedAt": "2026-07-24T18:34:32+05:30",
         "reason": "within_48h",
         "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: israel"
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: india"
           },
           {
-            "points": 2,
-            "reason": "other category"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "sk_entity",
-          "sign",
-          "partnership",
-          "tech",
-          "hynix"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea's SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-07-25T12:37:21+08:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sk_entity",
-          "sign",
-          "partnership",
-          "tech",
-          "hynix"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Ex-UK police inspector jailed for sexually abusing men during strip searches",
-        "description": "He carried out unjustified strip searches in private, away from the scrutiny of colleagues.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/ex-uk-police-inspector-jailed-for-sexually-abusing-men-during-strip-searches",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T22:03:03+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "inspector",
-          "uk_entity",
-          "men",
-          "sexually",
-          "abusing"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Carapaz wins Tour de France stage 18 solo as Pogacar loses key teammate",
-        "description": "Richard Carapaz won Tour de France stage 18 solo at Orcieres-Merlette. Tadej Pogacar kept his overall lead but lost teammate Brandon McNulty.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/f82e5d92-bc8a-4671-8e30-a43374c632c9.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-07-24T19:14:39+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "tour",
-          "teammate",
-          "france",
-          "carapaz",
-          "pogacar"
+          "trade",
+          "negotiations",
+          "israel",
+          "round",
+          "conclude"
         ]
       }
     ],
     "japan": [
+      {
+        "title": "South Korea's president invokes dramatic Japan realty crash to push domestic property agenda",
+        "description": "Lee was highlighting the country's excessive investment in real estate, and highlighted that Japan's housing market \"burst like a balloon.\"",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T07:07:07+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: housing"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "push",
+          "invokes",
+          "agenda",
+          "property",
+          "sk_entity"
+        ]
+      },
       {
         "title": "Yen heads for biggest weekly drop since May despite Tokyo's support pledges",
         "description": "The yen\u2019s weakness left the US dollar poised for a weekly gain of 0.89%",
@@ -1120,11 +762,354 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "pledges",
-          "yen",
-          "biggest",
           "weekly",
-          "support"
+          "biggest",
+          "support",
+          "drop",
+          "heads"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea's president invokes dramatic Japan realty crash to push domestic property agenda",
+        "description": "Lee was highlighting the country's excessive investment in real estate, and highlighted that Japan's housing market \"burst like a balloon.\"",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/24/south-korea-property-bubble-japan-lost-decades.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T07:07:07+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: housing"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "push",
+          "invokes",
+          "agenda",
+          "property",
+          "sk_entity"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "Which 9 US states are affected by Cyclospora outbreak? Full list as CDC issues fresh warning",
+        "description": "A major Cyclospora outbreak in the US has spread to nine states, with shredded iceberg lettuce linked to Taco Bell identified as the probable cause.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/which-9-us-states-are-affected-by-cyclospora-outbreak-full-list-as-cdc-issues-fresh-warning-101784919041704.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-07-25T00:35:02+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "taco",
+          "bell",
+          "linked",
+          "states",
+          "us_entity"
+        ]
+      },
+      {
+        "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
+        "description": "But 10 economies, including S'pore, remain on a list for enhanced monitoring of their foreign exchange practices.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/us-treasury-finds-no-trading-partner-manipulated-currency-for-trade-advantage-in-2025",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T06:55:00+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
+            "description": "10 trading partners, including Singapore, remain on a list for enhanced monitoring of their foreign exchange practices",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/us-treasury-finds-no-trading-partner-manipulated-currency-trade-advantage-2025",
+            "category": "Geopolitics",
+            "publishedAt": "2026-07-24T01:21:02+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "trade",
+              "monitoring",
+              "foreign",
+              "treasury",
+              "list"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "trade",
+          "monitoring",
+          "foreign",
+          "treasury",
+          "list"
+        ]
+      }
+    ],
+    "italy": [
+      {
+        "title": "Italy defence minister offers ousted Ukraine counterpart Fedorov adviser role",
+        "description": "ROME, July 25 - Italian Defence Minister Guido Crosetto said he has offered Mykhailo Fedorov, recently sacked as Ukraine's defence minister, a role as an adviser in Italy.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/italy-defence-minister-offers-ousted-ukraine-counterpart-fedorov-adviser-role",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-07-25T15:28:21+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "offers",
+          "ousted",
+          "role",
+          "counterpart",
+          "defence"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "description": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a \u201clandmark achievement\u201d When it comes to organ donation, time is everything. As soon as an organ has been",
+        "source": "Mit Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "fromUrl": "https://www.technologyreview.com/feed/",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T12:10:00+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: breakthrough"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "chips",
+          "breakthrough",
+          "organ",
+          "homegrown",
+          "transplant"
+        ]
+      },
+      {
+        "title": "Billionaire founder of Chinese broker Futu faces his toughest test",
+        "description": "A securities fraud class action lawsuit is pending against Futu, Li Hua, chief financial officer Chen Yu",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/billionaire-founder-chinese-broker-futu-faces-his-toughest-test",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-07-25T02:19:46+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "futu",
+          "toughest",
+          "billionaire",
+          "test",
+          "founder"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Wildfires surge across Europe as Spain and France battle major blazes",
+        "description": "The amount of land burned by wildfires across Europe has increased by 57 per cent in four years, according to new data from the World Health Organization (WHO) in Europe.",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+        "fromUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-07-24T12:00:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: health"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          }
+        ],
+        "group_id": 2,
+        "alternates": [],
+        "topicFingerprint": [
+          "spain",
+          "france",
+          "wildfires",
+          "emergency",
+          "declares"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "US to lift screwworm ban on Mexican cattle to aid beef supply",
+        "description": "Around one million head of cattle was traded between the US and Mexico per year before the ban.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/us-to-lift-screwworm-ban-on-mexican-cattle-to-aid-beef-supply",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-07-25T14:24:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "lift",
+          "mexican",
+          "cattle",
+          "aid",
+          "screwworm"
         ]
       }
     ]
