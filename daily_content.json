@@ -1,634 +1,820 @@
 {
-  "updatedAt": "2026-08-06T07:37:56.096925",
+  "updatedAt": "2026-08-07T04:27:40.372711",
   "insight": {
-    "title": "Automated Warehouses Store Everything Completely Randomly",
-    "subtitle": "Storing a toothbrush next to a dog leash is actually the fastest way to ship your order.",
-    "notificationHook": "Warehouses store items randomly",
+    "title": "You Read the Comments to Know How to Feel",
+    "subtitle": "How comment sections quietly became our main shortcut for context and emotional cues.",
+    "notificationHook": "Why you read comments before watching",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Inside giant fulfillment centers, there are no dedicated aisles for books, toys, or electronics. New inventory is stuffed into whichever empty shelf space is closest, regardless of what is already there."
+        "text": "You tap a video, but before it even finishes playing, your thumb moves. You scroll straight to the comment section, letting strangers tell you what\u2019s happening while the video plays on mute above."
       },
       {
         "type": "paragraph",
-        "text": "This \"random stow\" system prevents bottlenecking. If thousands of popular items sat together, workers would crowd one aisle. Spreading identical items across hundreds of mobile shelves guarantees a nearby robot can grab one instantly."
+        "text": "The top comment acts as an attention filter. It instantly tells you if the clip is fake, funny, or frustrating, saving your brain from having to evaluate the media on its own."
       },
       {
         "type": "paragraph",
-        "text": "The software orchestrates thousands of autonomous robots gliding across floor grids. It calculates optimal paths in real time, bringing the exact shelf to a static human worker seconds after your order is placed."
+        "text": "We no longer just consume digital content; we consume the crowd\u2019s consensus. Comment sections have quietly evolved from a place for discussion into the main frame of reference for online reality."
       },
       {
         "type": "paragraph",
-        "text": "Chaos on the shelves creates light-speed order on your doorstep."
+        "text": "You aren\u2019t watching the content\u2014you\u2019re watching the reaction."
       }
     ]
   },
   "news": [
     {
-      "title": "Saudi Aramco Profit Jumps 33% as Iran War Boosts Oil Prices",
-      "description": "Saudi Aramco reported a 33% increase in second-quarter profit, driven by a surge in oil prices amid war despite disruptions in the Strait of Hormuz.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/e941b25a-86df-4616-951c-e497612c5515.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 21,
-      "why": "Your fuel and energy costs may rise soon.",
-      "context": "Saudi Aramco's profits increased significantly due to higher oil prices.",
-      "next": "Global oil prices will likely remain volatile.",
-      "bigger": "Geopolitical tensions heavily influence global energy markets.",
-      "publishedAt": "2026-08-05T15:17:12+00:00",
-      "topicFingerprint": [
-        "iran",
-        "hormuz",
-        "us_entity",
-        "strait",
-        "war"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The US wants Chinese optics out of its AI data centres. Amazon and Microsoft pay first.",
-      "description": "China\u2019s two biggest optical module makers took a beating on Wednesday. Zhongji Innolight fell as much as 16%, according to the South China Morning Post. Bloomberg put the intraday drop at 14%. Eoptolink Technology slid with it. The trigger was a Reuters report that the FCC intends to halt imports of",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/fcc-optical-transceiver-ban-china-us-hyperscalers",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 21,
-      "why": "US tech companies may face higher costs for AI data centers.",
-      "context": "US restrictions on Chinese optical modules impacted major Chinese makers.",
-      "next": "US companies may seek alternative module suppliers.",
-      "bigger": "Tech supply chains are fragmenting due to geopolitical competition.",
-      "publishedAt": "2026-08-05T16:58:04+00:00",
-      "topicFingerprint": [
-        "optics",
-        "microsoft",
-        "amazon",
-        "pay",
-        "data"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
-      "description": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply",
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "description": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 17,
-      "why": "Ukraine's air defense capabilities may weaken against attacks.",
-      "context": "Patriot missiles are in high demand and short supply for Ukraine's defense.",
-      "next": "Allied nations may struggle to meet defense demands.",
-      "bigger": "Global air defense systems face increasing strain and scarcity.",
-      "publishedAt": "2026-08-05T18:42:22-04:00",
+      "why": "Global energy prices and shipping costs may rise soon.",
+      "context": "Tensions escalated near the Strait of Hormuz as ship traffic stalled.",
+      "next": "Military escorts for commercial vessels could increase.",
+      "bigger": "Middle East conflicts continue to disrupt global trade routes.",
+      "publishedAt": "2026-08-07T02:08:42+00:00",
       "topicFingerprint": [
-        "ukraine",
-        "russia",
-        "missiles",
-        "kyiv",
-        "air"
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "war",
+        "hormuz",
+        "strait"
       ],
       "alternates": [
         {
-          "title": "Ukraine's air defenses are proving to be a weak point",
-          "description": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
+          "title": "Trump says he thinks war with Iran will end \u2018pretty soon\u2019",
+          "description": "Iran has warned Gulf states that any new US attack on it would trigger attacks on critical energy infrastructure across the region",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/trump-says-he-thinks-war-iran-will-end-pretty-soon",
           "category": "Geopolitics",
-          "publishedAt": "2026-08-04T16:16:33-04:00",
-          "score": 9,
+          "publishedAt": "2026-08-06T23:09:25+00:00",
+          "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "missiles",
-            "kyiv",
-            "air"
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-      "description": "US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 7,
-      "why": "US public health responses may face leadership shifts.",
-      "context": "Erica Schwartz was confirmed as the new CDC chief.",
-      "next": "The CDC will address ongoing public health challenges.",
-      "bigger": "Public health agencies navigate political pressure and crises.",
-      "publishedAt": "2026-08-05T22:46:03+00:00",
-      "topicFingerprint": [
-        "erica",
-        "confirmed",
-        "agency",
-        "schwartz",
-        "cdc"
-      ],
-      "alternates": [
-        {
-          "title": "Senate confirms Dr. Erica Schwartz as CDC director, bringing new leadership to troubled agency",
-          "description": "The Senate on Wednesday confirmed Dr. Erica Schwartz as director of the Centers for Disease Control and Prevention, placing her in charge of a public health agency beleaguered by political meddling and low morale.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/senate-confirms-dr-erica-schwartz-as-cdc-director-bringing-new-leadership-to-troubled-agency",
-          "category": "Health",
-          "publishedAt": "2026-08-05T15:51:57-04:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "erica",
-            "confirmed",
-            "agency",
-            "schwartz",
-            "cdc"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "US Fed\u2019s Daly says central bank was right to hold rates steady at July policy meeting",
-      "description": "She said there are \u201cgood reasons\u201d to believe that supply-driven shocks that have hit the US economy will not have a lasting...",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us-feds-daly-says-central-bank-was-right-hold-rates-steady-july-policy-meeting",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Loan and mortgage costs may remain stable in the US.",
-      "context": "A US Fed official supported holding interest rates steady.",
-      "next": "The Fed will continue monitoring economic data closely.",
-      "bigger": "Central banks balance inflation control with economic growth.",
-      "publishedAt": "2026-08-06T03:59:11+00:00",
-      "topicFingerprint": [
-        "daly",
-        "fed",
-        "hold",
-        "rates",
-        "meeting"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-      "description": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+      "title": "China's exports jump 23% in July, beating estimates, as AI-driven shipments surge",
+      "description": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 14,
-      "why": "European supply chains and energy costs may face disruptions.",
-      "context": "Extreme drought in Europe is disrupting river transport and energy.",
-      "next": "European nations will implement more water management strategies.",
-      "bigger": "Climate change causes severe economic and logistical challenges.",
-      "publishedAt": "2026-08-05T07:15:17+00:00",
-      "topicFingerprint": [
-        "blowing",
-        "extreme",
-        "wreaks",
-        "eu_entity",
-        "drought"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US refunds US$100 billion in tariffs struck down by Supreme Court, filing shows",
-      "description": "Trump has since issued another round of global tariffs imposed under Section 301 of the Trade Act of 1974",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/us-refunds-us100-billion-tariffs-struck-down-supreme-court-filing-shows",
-      "category": "Policy",
+      "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "category": "Economy",
       "readingTime": 2,
       "score": 17,
-      "why": "Businesses may see reduced costs on certain imported goods.",
-      "context": "The US is refunding $100 billion in previously struck-down tariffs.",
-      "next": "Future trade policies and tariffs will face legal challenges.",
-      "bigger": "Trade policy decisions have significant financial ramifications.",
-      "publishedAt": "2026-08-06T02:35:24+00:00",
+      "why": "High-tech electronics and components may become more readily available.",
+      "context": "Strong global demand for tech goods drove up Chinese exports.",
+      "next": "Western nations may impose new trade tariffs on tech imports.",
+      "bigger": "Artificial intelligence hardware is reshaping global manufacturing and trade.",
+      "publishedAt": "2026-08-07T04:01:37+00:00",
       "topicFingerprint": [
-        "tariffs",
-        "refunds",
-        "court",
-        "supreme",
-        "donald_trump"
+        "jump",
+        "beating",
+        "surge",
+        "shipments",
+        "july"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump signs new orders targeting birthright citizenship and \u2018birth tourism\u2019",
+      "description": "US President Donald Trump signed two executive orders on Thursday seeking to narrow birthright citizenship and intensify a crackdown on \u201cbirth tourism\u201d, making a new attempt to restrict automatic citizenship after his original policy was rejected by the Supreme Court. Trump announced the measures un",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3363223/trump-signs-new-orders-targeting-birthright-citizenship-and-birth-tourism",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Foreign families visiting the US may face stricter visa inspections.",
+      "context": "Executive orders were issued to restrict birthright citizenship rights.",
+      "next": "Legal challenges against the orders will likely reach higher courts.",
+      "bigger": "Immigration policies are tightening across major Western democracies.",
+      "publishedAt": "2026-08-06T21:41:30+00:00",
+      "topicFingerprint": [
+        "donald_trump",
+        "birthright",
+        "citizenship",
+        "orders",
+        "executive"
       ],
       "alternates": [
         {
-          "title": "US refunds $128 billion in tariffs struck down by Supreme Court, filing shows",
-          "description": "It represented more than half of S$212 billion collected in tariffs that the Supreme Court struck down in February.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/us-refunds-128-billion-in-tariffs-struck-down-by-supreme-court-filing-shows",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-06T08:00:00+08:00",
-          "score": 14,
+          "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
+          "description": "The US president s latest effort comes after Supreme Court ruled against his push to reinterpret constitutional right.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T21:27:19+00:00",
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "tariffs",
-            "refunds",
-            "court",
-            "supreme",
-            "donald_trump"
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
           ],
           "group_id": 0
         },
         {
-          "title": "US refunds $100 billion in tariffs struck down by Supreme Court",
-          "description": "Trump administration refunded about $100 billion in tariffs after the US Supreme Court struck down duties. The refunds, over half of $166 billion collected, went to corporate importers, not households",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/us-refunds-100-billion-in-tariffs-struck-down-by-supreme-court-19962881.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-06T08:04:29+05:30",
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo",
+          "category": "Policy",
+          "publishedAt": "2026-08-07T00:34:14+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Are Trump's new executive orders targeting birthright citizenship constitutional?",
+          "description": "President Trump on Thursday signed two executive orders aimed at curbing birthright citizenship. In June, the Supreme Court struck down a broader executive order meant to end birthright citizenship. CBS News legal contributor Jessica Levinson has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/are-trumps-new-executive-orders-targeting-birthright-citizenship-constitutional/",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T20:05:43-04:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump targets 'birth tourism' in new bid to curb birthright citizenship",
+          "description": "US President Donald Trump on Thursday signed an executive order targeting what he described as \"birth tourism,\" seeking to curb birthright citizenship by restricting entry for pregnant visitors intending to give birth in the United States. Trump said the move followed the Supreme Court's rejection o",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/americas/20260806-trump-signs-order-new-bid-curb-birthright-citizenship",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T22:16:01+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "How Trump's new birthright citizenship orders differ from what Supreme Court struck down",
+          "description": "President Trump on Thursday signed executive orders to limit birthright citizenship after the Supreme Court struck down his previous effort. CBS News legal contributor Jessica Levinson joins with analysis.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/how-trump-new-birthright-citizenship-orders-differ-what-supreme-court-struck-down/",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T19:54:00-04:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump signs executive orders banning so-called \u2018birth tourism\u2019",
+          "description": "US President Donald Trump signed two executive orders to further limit who is eligible for birthright citizenship.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T23:42:47+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump signs executive orders targeting birthright citizenship and birth tourism",
+          "description": "President Trump signed executive orders to restrict birthright citizenship and ban birth tourism for children of tourists, foreign lobbyists, and alien enemies.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/01cbf839-8bf4-445a-b469-d2721de3ac07.html",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T21:09:59+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump signs order targeting \u2018birth tourism\u2019",
+          "description": "Trump's efforts to curb birthright citizenship are part of his wider campaign to limit immigration.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/trump-to-sign-orders-on-birthright-citizenship-axios-reports",
+          "category": "Policy",
+          "publishedAt": "2026-08-07T03:58:09+08:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "tariffs",
-            "refunds",
-            "court",
-            "supreme",
-            "donald_trump"
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump makes another bid to limit birthright citizenship after Supreme Court ruling",
+          "description": "US President Donald Trump has signed new executive orders to limit birthright citizenship and curb birth tourism, weeks after the Supreme Court rejected his earlier attempt to end automatic citizenship.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/trump-revives-push-to-limit-birthright-citizenship-after-supreme-court-rejection-targets-birth-tourism-with-new-executive-actions-19963846.htm",
+          "category": "Policy",
+          "publishedAt": "2026-08-07T07:33:25+05:30",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "WATCH: Trump signs executive orders imposing new limits on birthright citizenship",
+          "description": "President Donald Trump said Thursday that he is once more trying to limit the number of people who are born in the country who can become American citizens, in a sign that even after his first attempt at limiting birthright citizenship was rejected by the Supreme Court, he's ready to try again.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-orders-imposing-new-limits-on-birthright-citizenship",
+          "category": "Policy",
+          "publishedAt": "2026-08-06T17:41:06-04:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "donald_trump",
+            "birthright",
+            "citizenship",
+            "orders",
+            "executive"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Hong Kong insurers' shares slump on report China to tax offshore insurance income",
-      "description": "The move was seen by analysts as a potential sharpening of China\u2019s increased scrutiny of offshore investments.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/hong-kong-insurers-shares-slump-on-report-china-to-tax-offshore-insurance-income",
-      "category": "Financial",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "description": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 15,
-      "why": "Hong Kong insurers may face reduced profitability.",
-      "context": "Hong Kong insurers' shares fell on China's offshore income tax plan.",
-      "next": "China may tighten scrutiny on offshore financial flows.",
-      "bigger": "Cross-border financial regulations are becoming stricter.",
-      "publishedAt": "2026-08-06T14:00:42+08:00",
+      "score": 11,
+      "why": "Specialized hardware could speed up advanced artificial intelligence tools.",
+      "context": "An artificial intelligence firm plans to build custom computer chips.",
+      "next": "Tech companies may reduce reliance on third-party graphics processors.",
+      "bigger": "AI companies are increasingly controlling their own hardware supply chains.",
+      "publishedAt": "2026-08-06T20:03:44+00:00",
       "topicFingerprint": [
-        "slump",
-        "insurance",
-        "income",
-        "offshore",
-        "hong"
+        "anthropic",
+        "hardware",
+        "claude",
+        "own",
+        "design"
       ],
       "alternates": []
     },
     {
-      "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-      "description": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+      "title": "How drought threatens electricity supplies in Europe",
+      "description": "Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy crisis \u2014 whereas countries like Bulgaria are better prepared.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 13,
+      "why": "European households may face higher electricity bills this summer.",
+      "context": "Severe dry weather in Europe is disrupting river-based power generation.",
+      "next": "Regional utilities may import more power from neighboring countries.",
+      "bigger": "Extreme weather poses growing risks to global energy infrastructure reliability.",
+      "publishedAt": "2026-08-06T19:55:00+00:00",
+      "topicFingerprint": [
+        "electricity",
+        "supplies",
+        "drought",
+        "threatens",
+        "eu_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Cyberattacks expose deeper vulnerabilities in U.S. water systems",
+      "description": "Suspected Iran-linked cyberattacks are exposing long-standing vulnerabilities in fragmented U.S. drinking water systems facing aging infrastructure and intensifying climate threats. Why it matters: Drinking water systems disruptions can threaten public health and essential services, while many utili",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks",
+      "category": "Cybersecurity",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Water utility customers may face service delays or safety warnings.",
+      "context": "Hackers targeted weak cybersecurity systems at several drinking water facilities.",
+      "next": "Governments will likely require stricter security rules for public utilities.",
+      "bigger": "Critical infrastructure is becoming a prime target for foreign cyberattacks.",
+      "publishedAt": "2026-08-06T22:25:43+00:00",
+      "topicFingerprint": [
+        "systems",
+        "expose",
+        "vulnerabilities",
+        "water",
+        "deeper"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Copper jumps to its highest level ever. What the metal is telling us",
+      "description": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
       "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "SoftBank's investment portfolio performance improved significantly.",
-      "context": "SoftBank reported higher-than-expected profits from an Intel investment.",
-      "next": "SoftBank may continue strategic investment activities.",
-      "bigger": "Technology investment firms navigate market fluctuations.",
-      "publishedAt": "2026-08-06T07:23:27+00:00",
-      "topicFingerprint": [
-        "profit",
-        "quarter",
-        "intel",
-        "billion",
-        "softbank"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Applying for US citizenship? Trump administration considering tougher test, new education standards",
-      "description": "The Trump administration's citizenship test proposal seeks to update requirements and permit third-party exam administration.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/applying-for-us-citizenship-trump-administration-considering-tougher-test-new-education-standards-101785976180413.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Applying for US citizenship may become more challenging.",
-      "context": "The US is considering making its citizenship test tougher.",
-      "next": "New citizenship test requirements could be implemented soon.",
-      "bigger": "Immigration policies often reflect changing national priorities.",
-      "publishedAt": "2026-08-06T06:14:55+05:30",
-      "topicFingerprint": [
-        "tougher",
-        "standards",
-        "citizenship",
-        "education",
-        "donald_trump"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Britain seeks to bring in more scientists by expanding research visa route",
-      "description": "The Global Talent Visa offers top researchers a cheaper and quicker way to enter the country.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/britain-seeks-to-bring-in-more-scientists-by-expanding-research-visa-route",
-      "category": "Science",
       "readingTime": 2,
       "score": 10,
-      "why": "International researchers may find it easier to work in Britain.",
-      "context": "Britain is expanding its research visa route for scientists.",
-      "next": "Britain may attract more global scientific talent.",
-      "bigger": "Nations compete to attract skilled workers and talent.",
-      "publishedAt": "2026-08-06T08:21:00+08:00",
+      "why": "Wiring, electronics, and electric vehicles may become more expensive.",
+      "context": "Global copper prices surged to record levels amid high demand.",
+      "next": "Mining companies may boost investments in new extraction projects.",
+      "bigger": "Green energy transitions are driving immense demand for raw minerals.",
+      "publishedAt": "2026-08-06T20:07:51+00:00",
       "topicFingerprint": [
-        "research",
-        "uk_entity",
-        "seeks",
-        "expanding",
-        "bring"
+        "us",
+        "metal",
+        "level",
+        "copper",
+        "jumps"
       ],
       "alternates": []
     },
     {
-      "title": "Mexican jalapenos tied to salmonella outbreak in 27 US states",
-      "description": "It has prompted supplier Coast Citrus Distributors to recall peppers sent to restaurants.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/mexican-jalapenos-tied-to-salmonella-outbreak-in-27-us-states",
-      "category": "Health",
+      "title": "Companies laying off staff this year include Meta, Amazon, and Visa \u2014 see the list",
+      "description": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and Visa, as AI and economic conditions reshape the business landscape.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 8,
-      "why": "Eating certain restaurant foods may carry a health risk.",
-      "context": "Mexican jalapenos are linked to a salmonella outbreak in the US.",
-      "next": "Food safety regulations for produce may tighten.",
-      "bigger": "Global food supply chains face ongoing safety challenges.",
-      "publishedAt": "2026-08-06T09:22:49+08:00",
+      "score": 17,
+      "why": "Job seekers may face stiffer competition and slower hiring cycles.",
+      "context": "Major global corporations cut thousands of jobs across multiple industries.",
+      "next": "Companies may shift more investments toward automation and AI technology.",
+      "bigger": "Corporate restructuring is accelerating due to rising costs and automation.",
+      "publishedAt": "2026-08-06T20:51:56+00:00",
       "topicFingerprint": [
-        "outbreak",
-        "salmonella",
-        "states",
-        "us_entity",
-        "sickened"
+        "staff",
+        "visa",
+        "meta",
+        "list",
+        "include"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The 72-hour crisis that could upend Meta\u2019s business in India as firm risks losing legal protection",
+      "description": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Social media users in India may see restricted platform features.",
+      "context": "Indian authorities threatened to remove safe harbor protections for social media.",
+      "next": "Tech platforms may tighten content oversight to satisfy local authorities.",
+      "bigger": "Governments worldwide are increasing regulatory controls on digital platforms.",
+      "publishedAt": "2026-08-07T04:11:09+00:00",
+      "topicFingerprint": [
+        "meta",
+        "pay",
+        "mexico",
+        "ordered",
+        "million"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why Mexican avocado exports to the US have once again been stopped",
+      "description": "Mexico has sent 1,500 more troops to Michoacan after the U.S. suspended avocado inspections due to a threat",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/mexican-avocado-exports-us-stopped-135438180",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Grocery shoppers in the US may see avocado prices increase.",
+      "context": "US officials suspended Mexican avocado imports following security threats.",
+      "next": "Trade inspectors may require armed guards before resuming farm visits.",
+      "bigger": "Organized crime is disrupting international agricultural supply lines.",
+      "publishedAt": "2026-08-06T23:46:38-04:00",
+      "topicFingerprint": [
+        "mexican",
+        "sent",
+        "avocado",
+        "troops",
+        "suspended"
+      ],
+      "alternates": [
+        {
+          "title": "US suspends Mexican avocado imports due to security threat",
+          "description": "The US suspended government operations and avocado inspections in Michoacan, Mexico, due to a threat to U.S. interests. Mexico sent 1,500 additional troops.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/3b84cec1-962f-4b84-84cf-85b7128e3b7c.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-08-06T14:08:52+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "mexican",
+            "sent",
+            "avocado",
+            "troops",
+            "suspended"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Military contractors can manufacture essential vehicle parts much faster.",
+      "context": "A manufacturing startup secured funding to build automated defense factories.",
+      "next": "Automated factories will likely expand production into new defense sectors.",
+      "bigger": "Venture capital investment is shifting heavily into military and defense technology.",
+      "publishedAt": "2026-08-06T19:02:57+00:00",
+      "topicFingerprint": [
+        "tech",
+        "hadrian",
+        "valuation",
+        "raises",
+        "137b"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "WATCH: Scientists release most detailed sun images ever",
+      "description": "Researchers were able to peek at its scorching surface with the help of the National Science Foundation's Daniel K. Inouye Solar Telescope, located on the island of Maui in Hawaii.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/watch-scientists-release-most-detailed-sun-images-ever",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Improved solar tracking helps prevent unexpected power grid shutdowns.",
+      "context": "A high-powered telescope captured unprecedented high-resolution images of the sun.",
+      "next": "Scientists will analyze magnetic fields to predict disruptive space weather.",
+      "bigger": "Advanced imaging technology is expanding our understanding of solar science.",
+      "publishedAt": "2026-08-06T14:35:47-04:00",
+      "topicFingerprint": [
+        "detailed",
+        "sun",
+        "watch",
+        "images",
+        "scientists"
       ],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, Saudi Aramco saw its profits jump by thirty-three percent after rising global tensions pushed oil prices significantly higher. For you, this means energy costs could start creeping up, affecting what you pay at the gas pump and for heating. It is a clear reminder of how quickly distant geopolitical events can reach our everyday finances.\n\nMeanwhile, new United States restrictions are forcing major tech companies like Amazon and Microsoft to cut Chinese-made optical equipment from their artificial intelligence data centers. Replacing these components will likely raise the cost of building out new cloud infrastructure. Ultimately, those higher expenses could trickle down to consumers through pricier digital tools and services.\n\nTurning to international defense, experts warn that Patriot missile interceptors are in dangerously short supply as demand surges in Ukraine. Without enough of these advanced defense systems, Ukraine's ability to protect its cities from air attacks could be severely weakened. The shortage highlights the growing strain on global military supplies during long-running conflicts.\n\nNext, Erica Schwartz has been officially confirmed as the new head of the Centers for Disease Control and Prevention following a turbulent period for the agency. This leadership change could shift how the United States handles public health responses moving forward. For ordinary citizens, stable leadership at the top is vital for clear guidance during future health events.\n\nOn the economic front, a senior Federal Reserve official said the central bank was right to keep interest rates steady at its latest policy meeting. This decision suggests that borrowing costs for mortgages, car loans, and credit cards will stay relatively stable for now. It shows policymakers are trying to keep inflation under control without slowing down everyday economic growth.\n\nSwitching to Europe, extreme drought conditions are forcing authorities to blast riverbeds just to keep water transport and energy production moving. These dried-up rivers are disrupting critical shipping routes, which could soon mean higher prices for imported goods and electricity across the continent. It is a striking example of how severe weather creates immediate challenges for the global economy.\n\nIn trade news, the United States is preparing to refund one hundred billion dollars in tariffs after a key ruling by the Supreme Court. Businesses that paid those struck-down taxes may now see a significant financial boost, which could help lower costs on certain imported goods. In the bigger picture, it demonstrates how judicial decisions can reshape international trade rules.\n\nOver in financial markets, shares of Hong Kong insurance companies fell sharply following reports that China plans to tax offshore insurance income. This policy change could squeeze profits for major financial firms and alter how investors handle cross-border wealth. It underscores a growing push toward stricter financial oversight across regional markets.\n\nMeanwhile, Japan's SoftBank reported higher-than-expected profits, driven largely by an eight-point-two billion dollar gain from its investment in Intel. The massive return gives the technology investor much stronger financial footing after a period of market uncertainty. For tech watchers, it shows how strategic investments can pay off even in fluctuating markets.\n\nLooking at immigration, the United States is considering tougher citizenship tests and stricter education standards for new applicants. If these changes are adopted, the path to becoming an American citizen will become significantly more demanding. It reflects how national immigration policies shift alongside changing political priorities.\n\nIn Britain, the government is expanding its research visa program to bring in more top scientists from around the world. The goal is to make it much easier for international experts to live and work in the country, boosting innovation and research. It highlights how nations are actively competing to attract global talent.\n\nAnd finally, health officials have linked fresh jalape\u00f1os imported from Mexico to a salmonella outbreak across twenty-seven states. If you eat out or buy fresh produce, this serves as a good reminder to stay aware of current food safety warnings. It shows the continuous challenge of keeping complex food supply chains safe for consumers.\n\nBefore we go, here is a nice thought to end on today. You might assume that the most efficient warehouse is neatly organized, with similar items stored together. But in modern automated warehouses, placing a toothbrush right next to a dog leash is actually the fastest way to ship your order. Software places items completely randomly to optimize walking paths and storage space, proving that what looks like chaos on the surface can actually be perfect efficiency underneath.\n\nThat is your Sift Daily Briefing for today. Have a calm and productive day ahead.",
+    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, ship traffic near the Strait of Hormuz has come to a near standstill following fresh tensions and sharp accusations from Iran's chief negotiator. This critical bottleneck carries much of the world's oil, so disruptions could soon push up global energy prices. It is a stark reminder of how regional conflicts continue to threaten vital trade routes.\n\nMeanwhile, China's exports jumped twenty-three percent in July, beating expectations thanks to massive global demand for artificial intelligence hardware. For consumers, this surge means high-tech electronics and components should be more readily available. Beyond the numbers, AI hardware is rapidly reshaping global trade and manufacturing.\n\nTurning to US policy, new executive orders have been signed targeting birthright citizenship and birth tourism. Foreign families visiting the United States may soon face stricter visa inspections during travel. The move reflects a broader trend across major Western democracies as immigration policies continue to tighten.\n\nNext, artificial intelligence firm Anthropic plans to design its own custom computer chips to power its Claude platform. Specialized hardware will help speed up advanced AI tools, making them faster and more capable for everyday users. It reflects a growing push by tech companies to control their own hardware supply chains.\n\nOver in Europe, severe dry weather is disrupting river-based power generation, threatening regional electricity supplies. European households may face higher electricity bills this summer as power grids struggle to compensate. It shows how extreme weather poses growing risks to global energy infrastructure.\n\nIn the United States, hackers recently targeted weak cybersecurity systems at several drinking water facilities. Local utility customers could face brief service delays or precautionary safety warnings while repairs are made. The breaches highlight how critical public infrastructure is becoming a key target for foreign cyberattacks.\n\nSwitching to commodities, copper prices have jumped to record highs due to surging global demand. Because copper is vital for wiring, electronics, and electric vehicles, these record costs could make everyday technology and cars more expensive. It is a clear sign that green energy transitions are driving immense demand for raw minerals.\n\nMeanwhile, corporate layoffs are continuing as major companies like Meta, Amazon, and Visa cut thousands of jobs. If you are on the job market, these cuts mean stiffer competition and slower hiring cycles. Rising costs and automation continue to accelerate restructuring across multiple industries.\n\nOver in India, Meta is facing a critical seventy-two-hour challenge as authorities threaten to remove legal protections for social media platforms. Users in the country could soon see restricted platform features or stricter content controls. It highlights how governments worldwide are increasing regulatory control over digital platforms.\n\nAt the grocery store, you might notice higher prices for avocados soon. US officials suspended imports from Mexico following security threats against inspectors in the region. The move demonstrates how organized crime can suddenly disrupt international agricultural supply lines.\n\nIn defense tech, manufacturing startup Hadrian has raised over one billion dollars to build automated factories for military equipment. This technology allows contractors to manufacture essential vehicle parts much faster. It marks a major shift as venture capital flows heavily into defense technology.\n\nAnd finally, scientists have released the most detailed images of the sun ever captured, using a high-powered telescope. Better solar tracking helps scientists predict solar activity and prevent unexpected power grid blackouts on Earth. It is an exciting leap forward for solar science and energy protection.\n\nToday's insight offers a quiet thought to end on. Have you ever noticed how quickly you scroll down to read the comment section after seeing a news story? Comment sections have quietly become our main shortcut for emotional cues, helping us figure out how we should feel about a headline. Next time you catch yourself scrolling down, take a moment to notice whether you are forming your own reaction or just adopting everyone else's.\n\nThat is your Sift Daily Briefing for today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 295
+    "estimatedDurationSeconds": 253
   },
   "candidatePool": [
     {
-      "title": "Meta debuts Muse Code AI coding agent to take on Anthropic and OpenAI",
-      "description": "Meta launches Muse Code, an AI coding agent designed to challenge OpenAI and Anthropic by handling complex software tasks at a lower cost.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/ef87a7e1-6ea5-4ef6-88ab-92b20f4d1646.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 21,
-      "why": "AI coding tools may become more accessible and affordable.",
-      "context": "Meta launched Muse Code, a new AI coding agent.",
-      "next": "Competition in the AI coding market will intensify.",
-      "bigger": "AI advancements are transforming software development processes.",
-      "publishedAt": "2026-08-06T02:06:07+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "meta",
-        "anthropic",
-        "openai",
-        "models",
-        "model"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Prabowo\u2019s popularity slides in Indonesia amid economic anxiety, policy concerns",
-      "description": "Indonesian President Prabowo Subianto\u2019s once-commanding approval rating has continued to slide in a new survey, as voters weigh his ambitious welfare and village-economy agenda against concerns over household finances and the government\u2019s ability to deliver. The poll by Saiful Mujani Research and Co",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/people/article/3363071/prabowos-popularity-slides-indonesia-amid-economic-anxiety-policy-concerns",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Indonesian voters may feel economic anxieties and policy concerns.",
-      "context": "Indonesian President Prabowo Subianto's popularity is declining.",
-      "next": "The president's administration may adjust economic policies.",
-      "bigger": "Public sentiment impacts political leadership and policy agendas.",
-      "publishedAt": "2026-08-06T00:00:14+00:00",
-      "topicFingerprint": [
-        "concerns",
-        "indonesia",
-        "popularity",
-        "slides",
-        "prabowo"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "OpenAI asks US judge to dismiss Apple's trade secrets case",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/openai-asks-us-judge-dismiss-apples-trade-secrets-case-6302946",
+      "title": "Oil extends gains as Iran strikes targets in Strait of Hormuz",
+      "description": "Brent crude surged 1.4 per cent to US$83.62 a barrel as at 8.24am, after jumping 4.9 per cent in the previous session.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/oil-extends-gains-as-iran-strikes-targets-in-strait-of-hormuz",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 14,
-      "why": "AI companies are defending their intellectual property.",
-      "context": "OpenAI requested a US judge dismiss Apple's trade secrets lawsuit.",
-      "next": "The legal battle between OpenAI and Apple will continue.",
-      "bigger": "Intellectual property disputes are common in tech innovation.",
-      "publishedAt": "2026-08-06T14:11:24+08:00",
+      "score": 15,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "Crude oil prices climbed following attacks on key shipping passages.",
+      "next": "Shipping lines may alter routes to avoid high-risk maritime zones.",
+      "bigger": "Geopolitical instability in fuel hubs drives worldwide economic volatility.",
+      "publishedAt": "2026-08-07T08:20:00+08:00",
       "topicFingerprint": [
-        "apple",
-        "openai",
-        "asks",
-        "trade",
-        "judge"
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "war",
+        "hormuz",
+        "strait"
       ],
       "alternates": [
         {
-          "title": "OpenAI asks judge to toss Apple suit alleging trade secret theft",
-          "description": "Lawyers for the ChatGPT maker say the suit falsely portrays the actions of its employees",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/openai-asks-judge-toss-apple-suit-alleging-trade-secret-theft",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-06T06:56:40+00:00",
-          "score": 11,
+          "title": "Oil rises on concerns over Strait of Hormuz reopening plans",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/oil-rises-concerns-over-strait-hormuz-reopening-plans-6305041",
+          "category": "General",
+          "publishedAt": "2026-08-07T08:47:28+08:00",
+          "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
-            "apple",
-            "openai",
-            "asks",
-            "trade",
-            "judge"
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "hormuz",
+            "strait"
+          ],
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong insurers\u2019 shares slump on report China to tax offshore insurance income",
+      "description": "The move was seen by analysts as a potential sharpening of China\u2019s increased scrutiny of offshore investments.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/hong-kong-insurers-shares-slump-on-report-china-to-tax-offshore-insurance-income",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Offshore policyholders may face higher premiums or reduced policy returns.",
+      "context": "Hong Kong insurance stocks fell over worries of new offshore taxation.",
+      "next": "Investors may reallocate funds to tax-neutral wealth management centers.",
+      "bigger": "China is tightening financial supervision over offshore investment flows.",
+      "publishedAt": "2026-08-06T14:00:42+08:00",
+      "topicFingerprint": [
+        "tax",
+        "hong",
+        "insurers",
+        "insurance",
+        "slump"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Air India's new CEO faces financial and safety turbulence",
+      "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Air travelers in India may experience schedule changes or higher fares.",
+      "context": "Air India appointed leadership to fix financial losses and safety issues.",
+      "next": "The airline will audit maintenance protocols to restore passenger confidence.",
+      "bigger": "Legacy carriers struggle to maintain safety while managing operational costs.",
+      "publishedAt": "2026-08-06T08:18:02+00:00",
+      "topicFingerprint": [
+        "financial",
+        "air",
+        "faces",
+        "india",
+        "turbulence"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Fire engulfs earthquake housing site in Turkiye",
+      "description": "A fire broke out at a workers accommodation camp at a construction site for earthquake housing in Hatay, Turkiye.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Displaced families may face longer delays for permanent housing access.",
+      "context": "A massive fire destroyed temporary housing facilities at a construction site.",
+      "next": "Local authorities will inspect remaining worker camps for fire risks.",
+      "bigger": "Disaster recovery efforts often face setbacks from inadequate infrastructure safety.",
+      "publishedAt": "2026-08-06T20:55:22+00:00",
+      "topicFingerprint": [
+        "housing",
+        "turkiye",
+        "earthquake",
+        "site",
+        "fire"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China\u2019s exports hold firm in July despite trade and geopolitical headwinds",
+      "description": "China\u2019s exports continued to post solid growth in July, maintaining momentum despite mounting geopolitical and trade headwinds. The country\u2019s exports rose by 23.9 per cent year on year to US$397.85 billion last month, according to Chinese customs data released on Friday. The reading was above a fore",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3363236/chinas-exports-hold-firm-july-despite-trade-and-geopolitical-headwinds",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Global shoppers may continue finding affordable imported manufactured goods.",
+      "context": "Chinese export growth remained resilient despite persistent global trade tensions.",
+      "next": "Trading partners may enact protective tariffs to support local manufacturers.",
+      "bigger": "Manufacturing hubs demonstrate strong endurance against international trade barriers.",
+      "publishedAt": "2026-08-07T02:41:43+00:00",
+      "topicFingerprint": [
+        "geopolitical",
+        "firm",
+        "july",
+        "trade",
+        "exports"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Dollar drifts higher as traders eye Iran talks ahead of US jobs data",
+      "description": "",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/dollar-drifts-higher-traders-eye-iran-talks-ahead-us-jobs-data-6305161",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Importing foreign products may cost more for international buyers.",
+      "context": "The US dollar strengthened while investors awaited key diplomatic news.",
+      "next": "Traders will closely analyze upcoming labor market statistics for guidance.",
+      "bigger": "Currency markets remain highly sensitive to geopolitical and labor news.",
+      "publishedAt": "2026-08-07T10:04:53+08:00",
+      "topicFingerprint": [
+        "jobs",
+        "iran",
+        "dollar",
+        "us_entity",
+        "drifts"
+      ],
+      "alternates": [
+        {
+          "title": "Asia FX rangebound, dollar firms amid Iran peace uncertainty, U.S. jobs caution",
+          "description": "",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/forex-news/asia-fx-rangebound-dollar-firms-amid-iran-peace-uncertainty-us-jobs-caution-4845065",
+          "category": "General",
+          "publishedAt": "2026-08-07T04:02:57+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "jobs",
+            "iran",
+            "dollar",
+            "us_entity",
+            "drifts"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "After months of a public back and forth over Mamdani\u2019s pied-\u00e0-terre tax, Ken Griffin isn\u2019t ready to give up on New York after all",
-      "description": "The Citadel CEO is staying put, and both his hedge fund and market maker will remain anchor tenants in a new $4.5 billion skyscraper.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/05/ken-griffin-citadel-zohran-mamdani-new-york-tax/",
-      "category": "Financial",
+      "title": "SoftBank\u2019s Q1 profit falls 18%, beats expectations with chip boost",
+      "description": "The tech investor has booked gains from its bets on Intel, whose shares more than tripled during the quarter",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/softbanks-q1-profit-falls-18-beats-expectations-chip-boost",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 14,
-      "why": "New York City's commercial real estate market retains a major tenant.",
-      "context": "Ken Griffin's firms will remain in New York, occupying a new skyscraper.",
-      "next": "Major companies will continue to invest in key urban centers.",
-      "bigger": "Corporate location decisions reflect local tax and business climates.",
-      "publishedAt": "2026-08-05T21:08:31+00:00",
+      "score": 10,
+      "why": "Tech startups may secure less venture capital financing this year.",
+      "context": "SoftBank reported lower quarterly profits despite gains from semiconductor investments.",
+      "next": "The firm will likely double down on artificial intelligence investments.",
+      "bigger": "Tech investment giants depend heavily on hardware industry performance.",
+      "publishedAt": "2026-08-06T07:20:06+00:00",
       "topicFingerprint": [
-        "ready",
-        "months",
-        "give",
-        "isn",
-        "tax"
+        "profit",
+        "net",
+        "billion",
+        "million",
+        "dividend"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "SoftBank profit beats expectations via chip bets despite overall drop",
+          "description": "SoftBank's Q1 net income of \u00a5347.3 billion beat expectations thanks to chip-stock gains, despite an 18% profit drop caused by higher costs.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/116706b2-9298-43c3-8a3f-a8eea8476f39.html",
+          "category": "Financial",
+          "publishedAt": "2026-08-06T15:15:21+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "profit",
+            "net",
+            "billion",
+            "million",
+            "dividend"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "Does Beijing really have the power to lift up the Australian dollar?",
-      "description": "While global markets watched closely for another joint move by Washington and Tokyo to prop up the Japanese yen this week, Australian dollar traders have been laser-focused on the actions of another economic power: China. Some analysts view the Australian currency as particularly sensitive to policy",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/business/banking-finance/article/3363103/does-beijing-really-have-power-lift-australian-dollar",
+      "title": "Marking 61 years since Voting Rights Act was signed",
+      "description": "Sixty-one years ago, President Lyndon B. Johnson signed the Voting Rights Act into law, helping advance equal access to the ballot box by banning racial discrimination. Now, court rulings, new election laws and federal policy proposals are renewing questions about voter access. Election law expert a",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/marking-61-years-since-voting-rights-act-was-signed/",
       "category": "Policy",
       "readingTime": 2,
-      "score": 11,
-      "why": "The Australian dollar's value may fluctuate based on Chinese policy.",
-      "context": "Traders are assessing Beijing's potential influence on the Australian dollar.",
-      "next": "Beijing's economic policies will be closely scrutinized.",
-      "bigger": "Major economies significantly impact global currency values.",
-      "publishedAt": "2026-08-06T01:00:11+00:00",
+      "score": 10,
+      "why": "Voters in affected areas may face changing voter registration requirements.",
+      "context": "Commemorations highlighted ongoing legal debates surrounding landmark voting rights legislation.",
+      "next": "Lawmakers may introduce new bills to clarify voting access protections.",
+      "bigger": "Civil rights legislation undergoes continuous legal reinterpretation across generations.",
+      "publishedAt": "2026-08-06T20:31:52-04:00",
       "topicFingerprint": [
-        "china_entity",
-        "us_entity",
-        "trade",
-        "beijing",
-        "export"
+        "voting",
+        "act",
+        "rights",
+        "signed",
+        "marking"
       ],
       "alternates": []
     },
     {
-      "title": "DBS raises 2026 guidance as wealth business powers growth despite lower rates",
-      "description": "CEO Tan Su Shan says team is \u2018firing on all cylinders\u2019 after record Q2 profit; sees structural opportunities in Asia\u2019s wealth, trade...",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/dbs-raises-2026-guidance-wealth-business-powers-growth-despite-lower-rates",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "DBS Bank's wealth management services are expanding in Asia.",
-      "context": "DBS raised its 2026 guidance due to strong wealth management growth.",
-      "next": "DBS will continue focusing on wealth and trade in Asia.",
-      "bigger": "Asia's wealth management sector shows significant growth potential.",
-      "publishedAt": "2026-08-05T22:45:32+00:00",
-      "topicFingerprint": [
-        "wealth",
-        "growth",
-        "rates",
-        "dbs",
-        "powers"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Puerto Rican cities hit with water rationing measures as dry conditions persist",
-      "description": "Puerto Rico will implement water rationing measures in San Juan and other major cities as a drought grips the U.S. territory with no relief in sight",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/puerto-rican-cities-hit-water-rationing-measures-record-135384115",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Puerto Rican residents may face restricted water access.",
-      "context": "Puerto Rican cities are implementing water rationing due to drought.",
-      "next": "Drought conditions may force extended rationing measures.",
-      "bigger": "Climate change exacerbates water scarcity issues globally.",
-      "publishedAt": "2026-08-05T08:54:11-04:00",
-      "topicFingerprint": [
-        "conditions",
-        "dry",
-        "water",
-        "puerto",
-        "cities"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Ex-Japan PM warns FX action won\u2019t save yen without US$2.3 trillion growth strategy",
-      "description": "His comments came as Takaichi seeks to put Japan\u2019s economy on track for faster growth",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/global/ex-japan-pm-warns-fx-action-wont-save-yen-without-us2-3-trillion-growth-strategy",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Japan's economic growth needs broad strategic reforms.",
-      "context": "An ex-Japan PM warned against relying solely on FX action for the yen.",
-      "next": "Japan will likely pursue comprehensive growth policies.",
-      "bigger": "Currency stability requires strong underlying economic fundamentals.",
-      "publishedAt": "2026-08-06T03:08:57+00:00",
-      "topicFingerprint": [
-        "without",
-        "strategy",
-        "yen",
-        "us_entity23",
-        "growth"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Sustainability Impact Dialogue on Aug 19 to discuss water-related hazards in South-east Asia",
-      "description": "The event will explore ways to safeguard businesses, communities and Singapore\u2019s climate future",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/sustainability-impact-dialogue-aug-19-discuss-water-related-hazards-south-east-asia",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Southeast Asian businesses and communities face water risks.",
-      "context": "A dialogue will discuss water-related hazards in Southeast Asia.",
-      "next": "Strategies to mitigate water hazards will be explored.",
-      "bigger": "Climate change drives urgent regional sustainability efforts.",
-      "publishedAt": "2026-08-05T21:00:00+00:00",
-      "topicFingerprint": [
-        "discuss",
-        "sustainability",
-        "impact",
-        "east",
-        "water"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Apple's Private Relay feature could reveal your IP address to websites and services",
-      "description": "Security researchers found an issue with Apple's WebKit browser engine that affects Private Relay.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231360/apple-private-relay-feature-could-reveal-your-ip-address/",
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "description": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
       "category": "General",
       "readingTime": 2,
-      "score": 7,
-      "why": "Your online privacy may be at risk when using this feature.",
-      "context": "Apple's Private Relay feature may reveal users' IP addresses.",
-      "next": "Apple will likely release a security update for Private Relay.",
-      "bigger": "Digital privacy features face constant security challenges.",
-      "publishedAt": "2026-08-06T06:06:34+00:00",
+      "score": 10,
+      "why": "Job seekers may notice slower hiring activity across several industries.",
+      "context": "Economists expect moderate employment growth in upcoming official monthly reports.",
+      "next": "Central bankers will adjust future interest rate decisions based on findings.",
+      "bigger": "Labor market trends heavily influence national monetary policy decisions.",
+      "publishedAt": "2026-08-06T20:15:22+00:00",
       "topicFingerprint": [
-        "apple",
-        "feature",
-        "reveal",
-        "private",
-        "relay"
+        "jobs",
+        "numbers",
+        "july",
+        "expect",
+        "due"
       ],
       "alternates": []
     },
     {
-      "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
-      "description": "Hyperscalers' pain at the level of capex is a chipmaker's potential gain",
+      "title": "US to vet social media of foreign journalists applying for visas, report says",
+      "description": "\u201cOnline presence vetting\u201d is used to ensure that applicants are eligible for a visa under US law, said an official.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/us-to-vet-social-media-of-foreign-journalists-applying-for-visas-report-says",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Foreign reporters may experience longer delays when applying for US visas.",
+      "context": "US officials plan online account checks for international media visa applicants.",
+      "next": "Other nations may enact reciprocal digital checks on visiting journalists.",
+      "bigger": "Governments are expanding digital surveillance into diplomatic visa processing.",
+      "publishedAt": "2026-08-07T04:08:01+08:00",
+      "topicFingerprint": [
+        "visas",
+        "media",
+        "vet",
+        "social",
+        "foreign"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Fox advertising, streaming service Tubi get boost from World Cup",
+      "description": "Fox advertising revenue increased 78% during the quarter primarily due to the FIFA Men's World Cup and growth at ad-supported streaming service Tubi.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
+      "url": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
       "category": "Progress",
       "readingTime": 2,
-      "score": 7,
-      "why": "Chipmakers may gain from increased tech infrastructure spending.",
-      "context": "SpaceX earnings didn't boost its stock, but Nvidia benefited.",
-      "next": "Nvidia's stock performance may continue to strengthen.",
-      "bigger": "Hyperscaler investments drive demand in the chip industry.",
-      "publishedAt": "2026-08-05T16:55:34+00:00",
+      "score": 5,
+      "why": "Viewers may see more advertisements on free ad-supported streaming platforms.",
+      "context": "Live sports broadcasting drove a massive rise in media advertising revenue.",
+      "next": "Networks will compete aggressively to secure exclusive global sports rights.",
+      "bigger": "Live sporting events remain the primary driver for television advertising revenue.",
+      "publishedAt": "2026-08-06T17:59:12+00:00",
       "topicFingerprint": [
-        "nvidia",
-        "earnings",
-        "helping",
-        "spacex"
+        "fox",
+        "streaming",
+        "advertising",
+        "cup",
+        "tubi"
       ],
       "alternates": []
     }
@@ -636,60 +822,60 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "Yen struggles to keep intervention gains; US dollar near 6-week low on Iran deal concerns, payroll jitters",
-        "description": "Markets remained watchful as tensions continued to play out in the Gulf",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/yen-struggles-keep-intervention-gains-us-dollar-near-6-week-low-iran-deal-concerns-payroll-jitters",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
+        "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+        "description": "Independent UN human rights experts on Thursday condemned a fresh round of US sanctions against Cuba, calling them an attempt to force change on \u201ca sovereign State through threats and coercion.\u201d",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/08/1168094",
+        "fromUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T04:55:07+00:00",
+        "publishedAt": "2026-08-06T12:00:00+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 9,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: crisis"
+          },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: iran"
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
           },
           {
             "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "policy important keyword match: un"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "intervention",
-          "yen",
-          "dollar",
-          "iran",
-          "us_entity"
+          "deepens",
+          "crisis",
+          "sanctions",
+          "independent",
+          "condemn"
         ]
       },
       {
-        "title": "Applying for a US immigration benefit? Missing documents can now lead to immediate denial",
-        "description": "The USCIS announces a policy shift enabling immediate denials of incomplete immigration applications.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/applying-for-a-us-immigration-benefit-missing-documents-can-now-lead-to-immediate-denial-101785986308660.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "title": "US Fed\u2019s Daly says central bank was right to hold rates steady at July policy meeting",
+        "description": "She said there are \u201cgood reasons\u201d to believe that supply-driven shocks that have hit the US economy will not have a lasting...",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us-feds-daly-says-central-bank-was-right-hold-rates-steady-july-policy-meeting",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T09:04:44+05:30",
+        "publishedAt": "2026-08-06T03:59:11+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 7,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
           {
             "points": 2,
             "reason": "important keyword match: policy"
@@ -704,175 +890,115 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "missing",
-          "immigration",
-          "denial",
-          "immediate",
-          "benefit"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Yen struggles to keep intervention gains; US dollar near 6-week low on Iran deal concerns, payroll jitters",
-        "description": "Markets remained watchful as tensions continued to play out in the Gulf",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/yen-struggles-keep-intervention-gains-us-dollar-near-6-week-low-iran-deal-concerns-payroll-jitters",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-08-06T04:55:07+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
             "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": 3,
+            "reason": "Impact priority base match: central bank"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: central bank"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "low quality group in title match: says"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "intervention",
-          "yen",
-          "dollar",
-          "iran",
-          "us_entity"
-        ]
-      },
-      {
-        "title": "\u2018Artificial earthquake\u2019 conspiracy theory sweeps Japan after Kumamoto disaster",
-        "description": "Claims that the recent magnitude 7.1 earthquake that struck southwestern Japan was man-made have been spreading online, with experts dismissing the theory as unrealistic in technological, financial and practical terms. On July 28, the day the deadly earthquake hit Kumamoto prefecture, a user on soci",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/east-asia/article/3363104/artificial-earthquake-conspiracy-theory-sweeps-japan-after-kumamoto-disaster",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-08-06T01:06:41+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: financial"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: earthquake"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "artificial",
-          "earthquake",
-          "kumamoto",
-          "conspiracy",
-          "theory"
+          "fed",
+          "meeting",
+          "steady",
+          "rates",
+          "daly"
         ]
       }
     ],
     "india": [
       {
-        "title": "Air India taps Ethiopian aviation specialist to steer turnaround",
-        "description": "Air India posted a record loss of more than US$2 billion (S$2.56 billion) in fiscal 2025-26.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/air-india-appoints-ex-ethiopian-airlines-chief-tewolde-gebremariam-as-new-ceo",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
+        "title": "More than one million affected by floods in India\u2019s Assam state",
+        "description": "Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-08-05T21:45:00+08:00",
+        "publishedAt": "2026-08-07T02:53:19+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 9,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
           {
             "points": 2,
             "reason": "important keyword match: india"
           },
           {
             "points": 2,
+            "reason": "important keyword match: floods"
+          },
+          {
+            "points": 2,
             "reason": "other category"
           },
           {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "air",
+          "affected",
+          "floods",
           "india",
-          "ethiopian",
-          "taps",
-          "specialist"
+          "assam",
+          "million"
         ]
       },
       {
-        "title": "Misri urges Sri Lanka to hold provincial polls \u2018at the earliest\u2019",
-        "description": "Discusses India-backed energy, infrastructure and technology projects during Colombo visit",
+        "title": "Bajaj General Insurance, Swiss Re Group arm ink MoU for commercial insurance partnership",
+        "description": "The plan is to provide underwriting expertise in lines of business that are critical for Indian economy, including high-tech and manufacturing. Proposal to offer global insurance programmes for Indian companies operating abroad",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/misri-urges-sri-lanka-to-hold-provincial-polls-at-the-earliest/article71310333.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Technology",
+        "url": "https://www.thehindu.com/business/Industry/bajaj-general-insurance-swiss-re-group-arm-ink-mou-for-commercial-insurance-partnership/article71313762.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-08-05T21:27:40+05:30",
+        "publishedAt": "2026-08-06T19:14:34+05:30",
         "reason": "within_48h",
-        "score": 5,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: infrastructure"
+            "reason": "important keyword match: economy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: energy"
+            "reason": "important keyword match: global"
           },
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: insurance"
           },
           {
-            "points": 2,
-            "reason": "other category"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": -5,
@@ -882,34 +1008,95 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "earliest",
-          "urges",
-          "hold",
-          "sri",
-          "polls"
+          "swiss",
+          "group",
+          "ink",
+          "partnership",
+          "general"
         ]
       }
     ],
-    "uk": [
+    "europe": [
       {
-        "title": "Uber and Wayve win licences for supervised robotaxis in London",
-        "description": "[LONDON] Uber Technologies and UK startup Wayve Technologies are preparing to launch their robotaxi service in London with a safety driver, getting...",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/uber-and-wayve-win-licences-supervised-robotaxis-london",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Technology",
+        "title": "EU should use leverage with Morocco after Ceuta crossings, EU migration chief says",
+        "description": "BRUSSELS, Aug 6 - The European Union should use all available leverage, including visa and trade policy, to secure cooperation from Morocco on migration, EU Migration Commissioner Magnus Brunner said on Thursday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/eu-should-use-leverage-with-morocco-after-ceuta-crossings-eu-migration-chief-says",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-08-05T09:41:16+00:00",
+        "publishedAt": "2026-08-07T00:38:15+08:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: policy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: safety"
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: migration"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "low quality group in title match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "leverage",
+          "chief",
+          "ceuta",
+          "morocco",
+          "crossings"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "Asian stocks gain as South Korean tech shares advance",
+        "description": "The MSCI Asia Pacific equities gauge climbs 0.2% as South Korean shares rise 1.3%",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asian-stocks-gain-south-korean-tech-shares-advance",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-08-07T02:45:27+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
           },
           {
             "points": 2,
@@ -918,91 +1105,130 @@
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "win",
-          "licences",
-          "wayve",
-          "london",
-          "supervised"
-        ]
-      },
-      {
-        "title": "Four stabbed in apparent mental health-related incident near London\u2019s Covent Garden",
-        "description": "The victims were treated at the scene and taken to a nearby trauma centre.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/four-people-stabbed-in-londons-covent-garden-woman-arrested-police",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-08-05T21:53:00+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "garden",
-          "stabbed",
-          "four",
-          "london",
-          "apparent"
+          "tech",
+          "gain",
+          "asian",
+          "korean",
+          "advance"
+        ]
+      },
+      {
+        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+        "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-08-06T17:38:51+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: rocket"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "spacex",
+          "rocket",
+          "lunar",
+          "moon",
+          "sk_entity"
         ]
       }
     ],
-    "germany": [
+    "japan": [
       {
-        "title": "German court sentences young members of right-wing extremist group to prison",
-        "description": "A Hamburg court has convicted and sentenced seven members and one supporter of the right-wing extremist group Last Defense Wave to prison",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/german-court-sentences-young-members-wing-extremist-group-135383496",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Geopolitics",
+        "title": "Yen surrenders nearly half its gains from US-Japan intervention; traders speculate on fresh action",
+        "description": "Pullback underscores the limits of intervention in reversing the yen\u2019s longer-term decline",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/yen-surrenders-nearly-half-its-gains-us-japan-intervention-traders-speculate-fresh-action",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-08-05T08:50:28-04:00",
+        "publishedAt": "2026-08-07T02:39:39+00:00",
         "reason": "within_48h",
         "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: defense"
+            "reason": "important keyword match: us"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
-        "group_id": 0,
-        "alternates": [],
+        "group_id": 3,
+        "alternates": [
+          {
+            "title": "Yen surrenders nearly half its gains from US-Japan intervention",
+            "description": "The yen traded around 158.45 versus the US dollar on Aug 7, well off the strong point of 155.23 reached on Aug 3.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/companies-markets/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention",
+            "category": "General",
+            "publishedAt": "2026-08-07T09:08:19+08:00",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "yen",
+              "intervention",
+              "us_entity",
+              "gains",
+              "dollar"
+            ],
+            "group_id": 3
+          }
+        ],
         "topicFingerprint": [
-          "extremist",
-          "german",
-          "prison",
-          "sentences",
-          "wing"
+          "yen",
+          "intervention",
+          "us_entity",
+          "gains",
+          "dollar"
         ]
       },
       {
-        "title": "Low water on Germany\u2019s Rhine river threatens new blow to economy",
-        "description": "The Rhine river handles around 80 per cent of Germany\u2019s inland waterway traffic, according to an economist.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/low-water-on-germanys-rhine-river-threatens-new-blow-to-economy",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
+        "title": "Ex-Japan PM warns forex action won\u2019t save yen without US$2.3 trillion growth strategy",
+        "description": "Fumio Kishida\u2019s comments come as PM Sanae Takaichi seeks to put the economy on track for faster expansion",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/ex-japan-pm-warns-forex-action-wont-save-yen-without-us2-3-trillion-growth-strategy",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Progress",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T11:35:00+08:00",
+        "publishedAt": "2026-08-06T03:08:57+00:00",
         "reason": "within_48h",
         "score": 4,
         "score_debug": [
@@ -1011,41 +1237,8 @@
             "reason": "important keyword match: economy"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "germany",
-          "river",
-          "low",
-          "water",
-          "blow"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Climate change made Canadian wildfires twice as likely: Study",
-        "description": "More than 3.8 million ha have burned so far in 2026, displacing thousands of people.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/climate-change-made-canadian-wildfires-twice-as-likely-study",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-08-06T12:24:00+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
             "points": 2,
-            "reason": "important keyword match: climate"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -1053,169 +1246,101 @@
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "wildfires",
-          "likely",
-          "change",
-          "study",
-          "twice"
+          "growth",
+          "yen",
+          "save",
+          "without",
+          "won"
         ]
       }
     ],
     "mexico": [
       {
-        "title": "U.S. offers $25 million reward targeting US citizen who reportedly leads Mexico's most powerful cartel",
-        "description": "The U.S. government on Wednesday offered a $25 million reward for information leading to the capture of Juan Carlos Gonz\u00e1lez, or \"Pel\u00f3n,\" scaling up pressure on a U.S. citizen who has emerged as the figurehead of Mexico's most powerful cartel.",
-        "source": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/world/u-s-offers-25-million-reward-targeting-us-citizen-who-reportedly-leads-mexicos-most-powerful-cartel",
-        "fromUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-08-05T16:08:36-04:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "cartel",
-          "reward",
-          "offers",
-          "citizen",
-          "mexico"
-        ]
-      },
-      {
-        "title": "Todd Blanche hit with lawsuit over Jeffrey Epstein probe; New Mexico alleges DOJ 'obstructed' case",
-        "description": "New Mexico sues US Attorney General over Epstein probe.",
+        "title": "Salmonella outbreak linked to Mexican jalapenos sickens 345 people in US",
+        "description": "Salmonella outbreak linked to jalapeno peppers from Mexico sickens 345 people in 27 US states, with 36 hospitalizations and a pepper recall underway.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/todd-blanche-hit-with-lawsuit-over-jeffrey-epstein-probe-new-mexico-alleges-doj-obstructed-case-101785959318907.html",
+        "url": "https://www.hindustantimes.com/world-news/us-news/salmonella-outbreak-linked-to-mexican-jalapenos-sickens-345-people-in-us-101786014972874.html",
         "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
+        "category": "Health",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T02:41:34+05:30",
+        "publishedAt": "2026-08-06T17:00:40+05:30",
         "reason": "within_48h",
-        "score": 3,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
+            "points": 2,
+            "reason": "important keyword match: outbreak"
+          },
+          {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "health important keyword match: outbreak"
+          },
+          {
+            "points": 1,
+            "reason": "health important keyword match: outbreak"
           }
         ],
         "group_id": 0,
         "alternates": [
           {
-            "title": "New Mexico sues DOJ and Todd Blanche for 'stonewalling' Epstein probe",
-            "description": "New Mexico sues the DOJ and Todd Blanche for stonewalling a criminal investigation into Jeffrey Epstein's alleged abuse at his Zorro ranch.",
+            "title": "Salmonella outbreak linked to Mexican jalapenos sickens 345 in 27 US states",
+            "description": "A salmonella outbreak linked to Mexican jalapenos has sickened 345 people in 27 US states, resulting in 36 hospitalizations and a recall of affected products.",
             "source": "Frontpage",
-            "url": "https://frontpage.ink/a986f873-e192-47eb-a333-418d0dc415e5.html",
-            "category": "General",
-            "publishedAt": "2026-08-05T20:12:53+00:00",
-            "score": 3,
+            "url": "https://frontpage.ink/544f420c-afef-4a24-8f46-c7c5e8efff87.html",
+            "category": "Health",
+            "publishedAt": "2026-08-06T15:09:27+00:00",
+            "score": 8,
             "readingTime": 2,
             "topicFingerprint": [
-              "doj",
-              "jeffrey",
-              "todd",
-              "mexico",
-              "probe"
+              "linked",
+              "outbreak",
+              "states",
+              "people",
+              "salmonella"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "doj",
-          "jeffrey",
-          "todd",
-          "mexico",
-          "probe"
+          "linked",
+          "outbreak",
+          "states",
+          "people",
+          "salmonella"
         ]
       }
     ],
-    "europe": [
+    "uk": [
       {
-        "title": "EU to use \u20ac1.4 billion from interest on frozen Russian assets to help Ukraine",
-        "description": "The money, transferred to the bloc on August 3, came from interest on cash balances, part of Russian central bank assets frozen by the EU in the wake of Moscow's invasion, the Commission added.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/eu-to-use-e1-4-billion-from-interest-on-frozen-russian-assets-to-help-ukraine-19962578.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-08-05T17:46:26+05:30",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: interest"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: interest"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "interest",
-          "russian",
-          "eu_entity",
-          "frozen",
-          "billion"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "Brazilian presidential candidate Bolsonaro names surprise running mate",
-        "description": "BRASILIA/SAO PAULO, Aug 5 - Brazilian Senator Flavio Bolsonaro, the leading right-wing challenger to leftist President Luiz Inacio Lula da Silva in a presidential election in October, named conservative Congressman Alfredo Gaspar as his running mate on Wednesday in a surprise choice that underscored",
+        "title": "UK reports record numbers referred to anti-radicalisation scheme",
+        "description": "\u201cExtreme right-wing\u201d concerns account for the most referrals related to an ideology.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/brazilian-presidential-candidate-bolsonaro-unveils-surprise-running-mate",
+        "url": "https://www.straitstimes.com/world/europe/uk-reports-record-numbers-referred-to-anti-radicalisation-scheme",
         "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T00:12:41+08:00",
+        "publishedAt": "2026-08-06T23:36:36+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 6,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
           {
             "points": 3,
             "reason": "policy scoring keyword: right"
@@ -1226,47 +1351,254 @@
           }
         ],
         "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "referred",
+          "anti",
+          "uk_entity",
+          "scheme",
+          "numbers"
+        ]
+      },
+      {
+        "title": "British observatory nervously watches growing space junk threat",
+        "description": "More than 46,000 pieces of debris are currently in orbit, according to the European Space Agency.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/british-observatory-nervously-watches-growing-space-junk-threat",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Science",
+        "readingTime": 2,
+        "publishedAt": "2026-08-07T10:40:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "uk_entity",
+          "space",
+          "junk",
+          "growing",
+          "nervously"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australia grants citizenship to 2 Iranian women\u2019s soccer players who sought asylum",
+        "description": "Two Iranian women soccer players who sought asylum in Australia have been granted citizenship",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/australia-grants-citizenship-2-iranian-womens-soccer-players-135414351",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-08-06T05:44:10-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: citizenship"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: citizenship"
+          }
+        ],
+        "group_id": 0,
         "alternates": [
           {
-            "title": "Bolsonaro names Alfredo Gaspar as surprise running mate for Brazil election",
-            "description": "Flavio Bolsonaro named conservative Congressman Alfredo Gaspar as his running mate for Brazil's October election amidst a tightening race against President Lula.",
+            "title": "Australia grants citizenship to two Iranian women footballers who sought asylum",
+            "description": "Two former Iranian women soccer players, Fatemeh Pasandideh and Atefeh Ramezanisadeh, have been granted Australian citizenship after seeking asylum.",
             "source": "Frontpage",
-            "url": "https://frontpage.ink/73087231-8733-4e4f-ba17-b76937d9a721.html",
-            "category": "General",
-            "publishedAt": "2026-08-06T03:06:49+00:00",
-            "score": 3,
+            "url": "https://frontpage.ink/6272ead2-8c72-4671-9028-bda354c76b36.html",
+            "category": "Policy",
+            "publishedAt": "2026-08-06T14:12:35+00:00",
+            "score": 7,
             "readingTime": 2,
             "topicFingerprint": [
-              "named",
-              "flavio",
-              "names",
-              "alfredo",
-              "congressman"
+              "granted",
+              "australia",
+              "iranian",
+              "asylum",
+              "grants"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "named",
-          "flavio",
-          "names",
-          "alfredo",
-          "congressman"
+          "granted",
+          "australia",
+          "iranian",
+          "asylum",
+          "grants"
+        ]
+      },
+      {
+        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+        "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43\u00b0C.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-08-07T04:02:18+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "crew",
+          "carries",
+          "australian",
+          "daring",
+          "rescue"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Criticism of Hong Kong\u2019s economy and rule of law is baseless",
+        "description": "Recent criticism of aspects of Hong Kong\u2019s economic development and work on safeguarding national security, by a so-called expert on Hong Kong, is factually baseless. The Hong Kong Special Administrative Region government rightly rejects the allegations. We must set the record straight. Since the im",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363160/criticism-hong-kongs-economy-and-rule-law-baseless",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-08-06T21:30:06+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "financial important keyword match: economy"
+          },
+          {
+            "points": -5,
+            "reason": "Opinion detected"
+          },
+          {
+            "points": -4,
+            "reason": "South China regional news"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: we"
+          },
+          {
+            "points": -1,
+            "reason": "Low opinion keyword: we"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "rule",
+          "baseless",
+          "hong",
+          "criticism",
+          "law"
+        ]
+      },
+      {
+        "title": "Shaoxing wine goes upmarket: Dongqu\u2019s luxury touch elevates the Chinese pantry staple",
+        "description": "For a small city of three million people, Shaoxing stands as a giant in the global Chinese collective consciousness. After all, the name of the eastern Chinese city is emblazoned on the quintessential bottles of cooking wine that are found in Asian households and restaurants the world over, with whi",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/postmag/food-drink/article/3362774/shaoxing-wine-goes-upmarket-dongqus-luxury-touch-elevates-chinese-pantry-staple",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-08-07T00:00:08+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "dongqu",
+          "staple",
+          "goes",
+          "upmarket",
+          "elevates"
         ]
       }
     ],
     "france": [
       {
-        "title": "France is banning unsolicited telemarketing calls starting next week",
-        "description": "France will ban unsolicited telemarketing calls starting August 11. The new law aims to protect consumers and imposes fines for illegal calls.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/france-banning-unsolicited-telemarketing-calls-starting-next-week-do-not-call-germany-britain-uk-us-19963014.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Policy",
+        "title": "France to ban unsolicited telemarketing calls from August 11",
+        "description": "Starting August 11, France will ban unsolicited telemarketing calls to protect consumers from intrusive sales and fraud, with fines up to 75,000 euros.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/d0e80909-04b3-414e-9d62-19eeed9f34e7.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T11:37:13+05:30",
+        "publishedAt": "2026-08-06T09:10:13+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1274,139 +1606,36 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "Highest Quality Source match: Frontpage"
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "France is banning unsolicited telemarketing calls starting next week",
-            "description": "France next week will ban unsolicited telemarketing calls under a new law aimed at protecting consumers from intrusive sales pitches and shielding vulnerable people from fraudulent commercial practices.",
-            "source": "PBS NewsHour",
-            "url": "https://www.pbs.org/newshour/world/france-is-banning-unsolicited-telemarketing-calls-starting-next-week",
-            "category": "Financial",
-            "publishedAt": "2026-08-05T16:52:25-04:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "law",
-              "calls",
-              "ban",
-              "telemarketing",
-              "starting"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "law",
-          "calls",
-          "ban",
           "telemarketing",
-          "starting"
+          "france",
+          "calls",
+          "august",
+          "ban"
         ]
       }
     ],
     "singapore": [
       {
-        "title": "Singapore shares fall as local banks end lower; STI down 0.6%",
-        "description": "Keppel DC Reit leads the gainers on the blue-chip index",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-shares-fall-local-banks-end-lower-sti-down-0-6",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-08-05T10:08:54+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "Singapore-local Business Times article"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "fall",
-          "lower",
-          "sti",
-          "banks",
-          "singapore"
-        ]
-      },
-      {
-        "title": "NTU vice-president Kuen Jimmy Hsia leaves Singapore for new Chinese university",
-        "description": "The career of Kuen Jimmy Hsia, a prominent researcher in interdisciplinary mechanics, has long spanned two worlds \u2013 he is an acclaimed scientist and a skilled administrator who unites fields and stakeholders. A fellow of the American Association for the Advancement of Science (AAAS), Hsia has publis",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3363067/ntu-vice-president-kuan-jimmy-hsia-leaves-singapore-new-chinese-university",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "How iFast learnt to think beyond Singapore",
+        "description": "From expanding beyond unit trusts to acquiring a UK bank, the digital wealth management platform has pursued a long-term strategy guided by the belief that geography should never define growth.",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/brand-studio/how-ifast-learnt-think-beyond-singapore-6294916",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-08-06T01:00:06+00:00",
+        "publishedAt": "2026-08-07T09:55:00+08:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: science"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "jimmy",
-          "kuen",
-          "hsia",
-          "leaves",
-          "ntu"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea's president orders all-out response to heatwave",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/east-asia/south-korea-president-orders-all-out-heatwave-response-6302796",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-08-06T13:21:02+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
+            "reason": "important keyword match: uk"
           },
           {
             "points": 1,
@@ -1416,74 +1645,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "response",
-          "sk_entity",
-          "heatwave",
-          "orders"
-        ]
-      },
-      {
-        "title": "South Korean police raid Starbucks Korea headquarters over \u2018Tank Day\u2019 event",
-        "description": "South Korean police searched Starbucks Korea's headquarters over a \"Tank Day\" event accused of insulting victims of the 1980 Gwangju uprising.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/693b09c3-d5a8-42e1-a514-7a5b17dd06d7.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-08-05T22:09:45+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "raid",
-          "event",
-          "starbucks",
-          "headquarters",
-          "tank"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "NTU vice-president Kuen Jimmy Hsia leaves Singapore for new Chinese university",
-        "description": "The career of Kuen Jimmy Hsia, a prominent researcher in interdisciplinary mechanics, has long spanned two worlds \u2013 he is an acclaimed scientist and a skilled administrator who unites fields and stakeholders. A fellow of the American Association for the Advancement of Science (AAAS), Hsia has publis",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3363067/ntu-vice-president-kuan-jimmy-hsia-leaves-singapore-new-chinese-university",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-08-06T01:00:06+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: science"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "jimmy",
-          "kuen",
-          "hsia",
-          "leaves",
-          "ntu"
+          "beyond",
+          "learnt",
+          "singapore",
+          "think",
+          "ifast"
         ]
       }
     ]
