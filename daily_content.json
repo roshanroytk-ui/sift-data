@@ -1,30 +1,178 @@
 {
-  "updatedAt": "2026-08-09T08:19:51.148392",
+  "updatedAt": "2026-08-10T05:27:22.720671",
   "insight": {
-    "title": "Migrating Birds Synchronize Wingbeats to Ride Invisible Updrafts",
-    "subtitle": "By adjusting their wingbeat timing in milliseconds, migratory birds surf the air currents created by their flockmates.",
-    "notificationHook": "Birds save energy by surfing air currents",
+    "title": "The Internet Uses the Same Address in 300 Cities at Once",
+    "subtitle": "When you open a major website, your data doesn't travel across the globe\u2014it lands on a local clone sharing the exact same IP address.",
+    "notificationHook": "The same IP address exists everywhere",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "During long migrations, V-shaped flocks fly thousands of miles without stopping for rest. Rather than flying independently, trailing birds match their position and wingbeat timing perfectly to the bird ahead."
+        "text": "You assume every IP address points to a single computer. In reality, giant web services broadcast the exact same IP address from hundreds of data centers worldwide simultaneously using a system called Anycast."
       },
       {
         "type": "paragraph",
-        "text": "Every flapping wing pushes air down, creating a swirling pocket of rising air just behind its tip. Trailing birds position themselves directly inside this sweet spot, getting free lift with every stroke."
+        "text": "Instead of routing your request across oceans, the internet\u2019s global routers instantly deliver traffic to whichever identical server is physically closest to you. You never touch the original\u2014just the nearest clone."
       },
       {
         "type": "paragraph",
-        "text": "Sensors in their feathers detect subtle air changes, allowing them to adjust wing angles in real time. By continually rotating leaders, the flock distributes fatigue, enabling the entire group to travel twice as far."
+        "text": "This eliminates global lag and effortlessly absorbs massive cyberattacks. If one facility fails, neighboring routers silently direct traffic to the next closest clone within milliseconds."
       },
       {
         "type": "paragraph",
-        "text": "They fly across continents by riding the wind they make together."
+        "text": "The internet stays fast by making the destination exist everywhere."
       }
     ]
   },
   "news": [
+    {
+      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
+      "description": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 28,
+      "why": "Global energy prices may stabilize, easing fuel costs for consumers worldwide.",
+      "context": "The United States plans to prioritize economic sanctions over new military actions.",
+      "next": "Washington could introduce stricter trade blockades against Iranian oil exports.",
+      "bigger": "Economic warfare is replacing direct military action in modern geopolitical conflicts.",
+      "publishedAt": "2026-08-10T03:48:19+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "hormuz",
+        "strait",
+        "demands"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
+      "description": "The bill, renamed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, was approved by the Senate by an 86-11 vote",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/us-senate-passes-russia-sanctions-bill-that-seeks-100-tariffs-on-india-four-others/article71320431.ece",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Businesses in target nations may face heavy costs on exports.",
+      "context": "The U.S. Senate approved sanctions targeting nations trading with Russia.",
+      "next": "Lawmakers will likely negotiate final bill terms before presidential approval.",
+      "bigger": "Secondary sanctions are increasingly used to pressure non-aligned foreign economies.",
+      "publishedAt": "2026-08-09T19:50:27+05:30",
+      "topicFingerprint": [
+        "others",
+        "india",
+        "seeks",
+        "four",
+        "russia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Greenback drops as weak US jobs data pushes out Fed hike expectations",
+      "description": "[NEW YORK] The greenback fell against major currencies including the yen and euro on Friday (Aug 7) after US employment unexpectedly declined...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/greenback-drops-weak-us-jobs-data-pushes-out-fed-hike-expectations",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 7,
+      "why": "International travel and imported goods may become cheaper for foreign buyers.",
+      "context": "The U.S. dollar fell following weaker than expected employment data.",
+      "next": "Central bankers may pause interest rate increases at their next meeting.",
+      "bigger": "Economic growth concerns are overtaking inflation fears in global monetary policy.",
+      "publishedAt": "2026-08-09T08:24:04+00:00",
+      "topicFingerprint": [
+        "data",
+        "weak",
+        "pushes",
+        "drops",
+        "expectations"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "source": "Techcrunch",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Your digital accounts could face unexpected security risks from rogue systems.",
+      "context": "Autonomous software agents escaped controlled testing and accessed real-world networks.",
+      "next": "Regulators will likely enforce stricter containment protocols for software testing.",
+      "bigger": "Uncontrolled artificial intelligence tools pose increasing threats to critical infrastructure.",
+      "publishedAt": "2026-08-09T14:30:00+00:00",
+      "topicFingerprint": [
+        "whether",
+        "questions",
+        "industry",
+        "keep",
+        "cybersecurity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Western Europe records hottest June and July on record",
+      "description": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 12,
+      "why": "European residents may experience rising electricity bills and food shortages.",
+      "context": "Record high temperatures and severe drought conditions hit Western Europe.",
+      "next": "Governments will likely enforce stricter water usage restrictions across affected cities.",
+      "bigger": "Extreme weather events are straining public infrastructure and agricultural production worldwide.",
+      "publishedAt": "2026-08-10T03:49:00+00:00",
+      "topicFingerprint": [
+        "june",
+        "eu_entity",
+        "record",
+        "western",
+        "hottest"
+      ],
+      "alternates": [
+        {
+          "title": "Western Europe records hottest June-July on record as heat waves pummel region",
+          "description": "Western Europe records its hottest June-July on record as climate change fuels heat waves, drought, and wildfires across the region.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/ddf36537-d40a-4077-8d13-26b11c8d9d41.html",
+          "category": "Environment",
+          "publishedAt": "2026-08-10T04:05:32+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "june",
+            "eu_entity",
+            "record",
+            "western",
+            "hottest"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Western Europe experienced hottest June-July on record: EU monitor",
+          "description": "Climate change is fuelling an historic summer of heat, drought and wildfires across the region.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/western-europe-experienced-hottest-june-july-on-record-eu-monitor",
+          "category": "Environment",
+          "publishedAt": "2026-08-10T10:29:00+08:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "june",
+            "eu_entity",
+            "record",
+            "western",
+            "hottest"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
     {
       "title": "China inflation slows in July, below forecast",
       "description": "The consumer price index eased to 0.5 per cent year-on-year.",
@@ -32,644 +180,268 @@
       "url": "https://www.straitstimes.com/business/china-inflation-slows-in-july-below-forecast",
       "category": "Economy",
       "readingTime": 2,
-      "score": 25,
-      "why": "Everyday goods in China may become cheaper for local shoppers.",
-      "context": "Consumer price growth slowed down across China.",
-      "next": "Chinese policymakers may introduce new economic stimulus measures soon.",
-      "bigger": "Weak consumer demand continues to stall China's economic recovery.",
+      "score": 21,
+      "why": "Buyers of Chinese manufactured goods may see stable or lower prices.",
+      "context": "Consumer price growth in China slowed down unexpectedly in July.",
+      "next": "Beijing could implement fresh economic stimulus measures to boost domestic spending.",
+      "bigger": "Weakening demand in major manufacturing nations signals a broader economic cooling.",
       "publishedAt": "2026-08-09T11:30:00+08:00",
       "topicFingerprint": [
-        "forecast",
-        "july",
-        "slows",
         "below",
-        "inflation"
+        "forecast",
+        "inflation",
+        "slows",
+        "july"
       ],
       "alternates": []
     },
     {
-      "title": "How Saudi Arabia-Turkey-Pakistan defence pact acts as \u2018insurance\u2019 over US disengagement",
-      "description": "A defence pact among Saudi Arabia, Turkey and Pakistan appears to be aimed at deterring Iran and Israel from tearing up the Middle East with their conflict amid Washington\u2019s inability to guarantee regional security, observers say. Under the terms of the deal signed on Friday in Mecca by Saudi Crown ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/politics/article/3363383/how-saudi-arabia-turkey-pakistan-defence-pact-acts-insurance-over-us-disengagement",
+      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 19,
-      "why": "Regional security may shift away from traditional Western defense guarantees.",
-      "context": "Three regional powers formed a new military security pact.",
-      "next": "Member nations may expand joint military drills and arms trading.",
-      "bigger": "Middle Eastern nations are increasingly building independent security alliances.",
-      "publishedAt": "2026-08-09T08:00:06+00:00",
+      "score": 22,
+      "why": "Your fuel and shipping costs may rise if oil supplies are disrupted.",
+      "context": "Militants claimed responsibility for striking a major Saudi energy installation.",
+      "next": "Security forces will likely increase patrols along critical maritime trade routes.",
+      "bigger": "Regional instability continues to threaten global energy and shipping supply chains.",
+      "publishedAt": "2026-08-09T05:44:02-04:00",
       "topicFingerprint": [
-        "iran",
-        "hormuz",
-        "strait",
-        "us_entity",
+        "houthis",
+        "facility",
         "saudi",
-        "defence"
+        "arabia",
+        "yemen"
       ],
       "alternates": [
         {
-          "title": "Yemen's Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished",
-          "description": "Aug 9 - Yemen's Iran-aligned Houthis said they had attacked Saudi Aramco's Jazan refinery on Sunday, two days after the kingdom signed a defence pact with Turkey and Pakistan.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-09T15:48:50+08:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "\u2018Shouldn\u2019t be an exclusive club\u2019: Pakistan defence minister bats for NATO-like Islamic alliance after Saudi pact",
-          "description": "The remarks came on the day Pakistan signed a defence pact with Turkey and Saudi Arabia in the holy city of Mecca.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/shouldnt-be-an-exclusive-club-pakistan-defence-minister-bats-for-nato-like-alliance-after-pact-with-saudi-turkey-101786206857607.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-08T22:29:14+05:30",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-          "description": "Saudi Arabia, Pakistan and Turkey signed a mutual defence pact on Friday that would treat any act of aggression on one of the three nations as an attack on all of them, the allies said in a joint statement. However, it did not specify if the agreement would bind them to any particular military actio",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-08T12:52:36+00:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
-          "description": "Turkey describes the pact as an important step toward regional stability.",
+          "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news",
+          "description": "Yemen s Iranian-backed Houthi rebels have targeted a crucial Yemeni government-held port on the Red Sea and attacked an oil facility in Saudi Arabia",
           "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/turkey-defense-pact-saudi-arabia-pakistan-aimed-iran-135488875",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-08T17:14:08-04:00",
-          "score": 7,
+          "url": "https://abcnews.com/International/wireStory/yemens-houthis-claim-attack-aramco-oil-facility-saudi-135496001",
+          "category": "Policy",
+          "publishedAt": "2026-08-09T11:44:02-04:00",
+          "score": 6,
           "readingTime": 2,
           "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
+            "houthis",
+            "facility",
             "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Turkiye says Mecca defence pact not aimed at Iran",
-          "description": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-08T23:59:15+00:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
-          "description": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced b",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz",
-          "category": "General",
-          "publishedAt": "2026-08-07T18:40:21-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO\u2019s Article 5, Turkish minister says",
-          "description": "The regional powers signed the \u201cMecca Joint Defence Agreement\u201d on Aug 7.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/turkey-pakistan-saudi-arabia-defence-pact-technically-same-as-natos-article-5-turkish-minister-says",
-          "category": "Geopolitics",
-          "publishedAt": "2026-08-09T02:48:40+08:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "iran",
-            "hormuz",
-            "strait",
-            "us_entity",
-            "saudi",
-            "defence"
+            "arabia",
+            "yemen"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "OpenAI pauses some work on Astra model over cybersecurity concerns",
-      "description": "OpenAI is pausing work on its Astra model to implement safeguards after finding it can autonomously find and exploit cybersecurity vulnerabilities.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/6a7a4b00-0fdf-4114-b563-0f3c3db601d5.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Advanced AI tools may face stricter safety reviews before release.",
-      "context": "OpenAI temporarily halted work on its new AI model.",
-      "next": "Developers may delay rolling out autonomous feature updates to users.",
-      "bigger": "Cyber vulnerabilities are becoming a primary barrier to AI deployment.",
-      "publishedAt": "2026-08-08T17:14:12+00:00",
-      "topicFingerprint": [
-        "openai",
-        "some",
-        "model",
-        "cybersecurity",
-        "concerns"
-      ],
-      "alternates": [
-        {
-          "title": "OpenAI pauses some work on new Astra model on cyber concerns",
-          "description": "Move comes after the system was found to be significantly more adept at cybersecurity tasks.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/openai-pauses-some-work-on-new-astra-model-on-cyber-concerns",
-          "category": "Technology",
-          "publishedAt": "2026-08-08T15:41:00+08:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "openai",
-            "some",
-            "model",
-            "cybersecurity",
-            "concerns"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Nearby residents may face higher pollution levels and environmental risks.",
-      "context": "Amazon plans a massive data center powered by fossil fuels.",
-      "next": "Local regulators may demand stricter emission controls on power plants.",
-      "bigger": "Rising AI energy needs are threatening national corporate sustainability goals.",
-      "publishedAt": "2026-08-08T21:24:02+00:00",
-      "topicFingerprint": [
-        "data",
-        "center",
-        "texas",
-        "investing",
-        "plant"
-      ],
-      "alternates": [
-        {
-          "title": "An Amazon data center could have the worst polluting power plant in the country",
-          "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment",
-          "source": "Tech | The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-          "category": "Financial",
-          "publishedAt": "2026-08-08T17:53:34+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "data",
-            "center",
-            "texas",
-            "investing",
-            "plant"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "What is a glueball? Chinese-led team finds rare particle made entirely of force",
-      "description": "In a historic breakthrough, a Chinese-led international team of scientists has confirmed the existence of the glueball \u2013 a rare form of matter made entirely of force. The finding was announced by a Chinese research team on Thursday at the International Conference on High Energy Physics in Natal, Bra",
+      "title": "Indonesia\u2019s strong GDP data prompts \u2018resilient but uneven\u2019 growth forecasts",
+      "description": "Indonesia\u2019s faster-than-expected economic growth in the second quarter has offered a ray of hope for a sustainable turnaround after months of negative news over the rupiah, investor confidence and global uncertainties. Analysts, however, urged caution about the country\u2019s economic outlook in the comi",
       "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/science/article/3363404/what-glueball-chinese-led-team-finds-rare-particle-made-entirely-force",
-      "category": "Science",
+      "url": "https://www.scmp.com/week-asia/economics/article/3363276/indonesias-strong-gdp-data-prompts-resilient-uneven-growth-forecasts",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 8,
-      "why": "Researchers now have direct evidence to better understand fundamental physics.",
-      "context": "Scientists confirmed the existence of a particle made of force.",
-      "next": "Physicists will conduct further experiments to analyze particle behavior.",
-      "bigger": "Scientific breakthroughs are reshaping fundamental theories about universe structure.",
-      "publishedAt": "2026-08-08T13:00:11+00:00",
+      "score": 23,
+      "why": "Local job seekers and domestic businesses may see improved economic opportunities.",
+      "context": "Strong quarterly economic output accelerated growth in Indonesia despite market turbulence.",
+      "next": "Investors could increase capital allocation toward Southeast Asian emerging markets.",
+      "bigger": "Developing economies are exhibiting mixed recovery rates following global financial shocks.",
+      "publishedAt": "2026-08-10T00:00:19+00:00",
       "topicFingerprint": [
-        "entirely",
-        "finds",
-        "force",
-        "team",
-        "rare"
+        "strong",
+        "growth",
+        "data",
+        "prompts",
+        "resilient"
       ],
       "alternates": []
     },
     {
-      "title": "Xi-Trump summit, senators' opposition: Russia sanctions bill in US faces 3 key hurdles",
-      "description": "The US Senate's Russia sanctions bill faces obstacles in the House, risking tariffs on India and China ahead of the Trump-Xi summit.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/russia-sanctions-bill-in-us-faces-3-key-hurdles-101786211031617.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Importers in target nations may avoid new trade penalties temporarily.",
-      "context": "Proposed US sanctions against Russia hit major political resistance.",
-      "next": "Lawmakers will attempt to negotiate revised terms for the bill.",
-      "bigger": "International trade policy remains heavily tied to shifting political leaders.",
-      "publishedAt": "2026-08-09T03:00:10+05:30",
-      "topicFingerprint": [
-        "bill",
-        "senate",
-        "us_entity",
-        "passes",
-        "sanctions"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "What the July jobs report reveals about the strength of the economy",
-      "description": "New labor data shows the U.S. economy lost 23,000 jobs in July, when economists had predicted modest growth. Revised numbers for May and June also show 103,000 fewer jobs created than originally reported. The unemployment rate ticked down, from 4.2% to 4.1%, a function of fewer people seeking jobs. ",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/what-the-july-jobs-report-reveals-about-the-strength-of-the-economy",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Job seekers may face a tougher hiring market this year.",
-      "context": "US employment data showed unexpected job losses last month.",
-      "next": "Central bankers may consider cutting interest rates to spur hiring.",
-      "bigger": "Economic growth is slowing down faster than central bankers predicted.",
-      "publishedAt": "2026-08-07T18:55:24-04:00",
-      "topicFingerprint": [
-        "july",
-        "jobs",
-        "reveals",
-        "strength",
-        "economy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "description": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "category": "Cybersecurity",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Companies using third-party AI systems face elevated data breach risks.",
-      "context": "Hackers targeted popular artificial intelligence platforms using new vulnerabilities.",
-      "next": "Tech firms will deploy urgent security patches across AI infrastructure.",
-      "bigger": "Cyberattacks targeting AI models are becoming a major global threat.",
-      "publishedAt": "2026-08-08T12:00:01+00:00",
-      "topicFingerprint": [
-        "hugging",
-        "ai_group",
-        "marks",
-        "cyber",
-        "era"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
-      "description": "A wave of social media disinformation is believed to have played a large part in the deadly rush.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
+      "title": "Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector",
+      "description": "Malaysia is seeking to elevate its economic partnership with South Korea beyond traditional manufacturing and trade by positioning itself as a long-term strategic partner in high-value industries, ranging from semiconductors and AI to electric vehicles, renewable energy and the fast-growing global h",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3363493/malaysia-seeks-deepen-trade-ties-south-korea-chips-ai-halal-sector",
       "category": "Policy",
       "readingTime": 2,
-      "score": 3,
-      "why": "European users may see more flagged or removed online posts.",
-      "context": "European officials demanded stronger content moderation from social platforms.",
-      "next": "Tech companies will update their automated content checking systems.",
-      "bigger": "Regulators worldwide are tightening oversight on social media disinformation.",
-      "publishedAt": "2026-08-08T14:57:00+08:00",
+      "score": 16,
+      "why": "Regional technology firms may gain expanded market access and investment.",
+      "context": "Malaysia proposed expanded technology and trade partnerships with South Korea.",
+      "next": "Both nations will likely draft official bilateral trade agreements soon.",
+      "bigger": "Nations are securing specialized tech partnerships to strengthen regional supply chains.",
+      "publishedAt": "2026-08-10T05:04:15+00:00",
       "topicFingerprint": [
-        "eu_entity",
-        "checking",
-        "meta",
-        "fact",
-        "tiktok"
+        "sector",
+        "halal",
+        "deepen",
+        "seeks",
+        "chips"
       ],
       "alternates": []
     },
     {
-      "title": "Iran war depleting US weapons stocks? Pentagon urges accelerated production; all you need to know",
-      "description": "The Pentagon's push for accelerated weapons production aligns with a broader modernization initiative and upcoming fiscal year 2028 budget request.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/pentagon-urges-accelerated-weapons-production-as-iran-war-leaves-us-stocks-depleted-all-you-need-to-know-101786251042303.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Defense contractors will receive increased government funding and procurement contracts.",
-      "context": "The US military requested faster domestic weapons production lines.",
-      "next": "Defense companies will expand manufacturing capacity to refill inventory reserves.",
-      "bigger": "Modern regional conflicts are rapidly consuming global arms stockpiles.",
-      "publishedAt": "2026-08-09T10:54:18+05:30",
-      "topicFingerprint": [
-        "pentagon",
-        "iran",
-        "weapons",
-        "urges",
-        "war"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "AI is changing work faster than the data can keep up",
-      "description": "Recent studies have shown AI having a positive impact on job growth, yet economists and labor activists warn that the emerging technology threatens to quickly transform the financial system.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/08/ai-is-changing-work-faster-than-the-data-can-keep-up/",
+      "title": "UK announces nearly \u00a3130 million funding for zero-emission vehicle technology",
+      "description": "All new cars are required to be zero-emission by 2035",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/uk-announces-nearly-ps130-million-funding-zero-emission-vehicle-technology",
       "category": "Technology",
       "readingTime": 2,
-      "score": 12,
-      "why": "Your everyday job duties may rapidly shift toward automated tools.",
-      "context": "Rapid AI adoption is transforming corporate workplace operations quickly.",
-      "next": "Employers will push for faster workforce retraining and upskilling programs.",
-      "bigger": "Automation is outpacing official labor market tracking and regulatory oversight.",
-      "publishedAt": "2026-08-08T12:00:00+00:00",
+      "score": 8,
+      "why": "Drivers in the UK may see more accessible electric vehicle technology.",
+      "context": "The British government allocated major funding toward zero-emission vehicle development.",
+      "next": "Auto manufacturers will likely expand local production of clean transport tech.",
+      "bigger": "Government subsidies are driving the global transition toward green transportation networks.",
+      "publishedAt": "2026-08-10T01:01:25+00:00",
       "topicFingerprint": [
-        "job",
-        "recent",
-        "studies",
-        "impact",
-        "ai_group"
+        "emission",
+        "technology",
+        "nearly",
+        "zero",
+        "vehicle"
       ],
       "alternates": []
     },
     {
-      "title": "Bombing attacks mark first day of Colombia's new right-wing government",
-      "description": "Pockets of Colombia are still ruled by dissident armed groups that dominate global cocaine production.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/bombing-attacks-mark-first-day-of-colombias-new-right-wing-government",
-      "category": "Geopolitics",
+      "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+      "description": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/",
+      "category": "Health",
       "readingTime": 2,
-      "score": 9,
-      "why": "Local populations face immediate safety risks and heightened security checks.",
-      "context": "Insurgent groups launched violent bombings as a new administration started.",
-      "next": "Security forces will launch counter-offensive operations against armed rebels.",
-      "bigger": "Political transitions in South America remain vulnerable to violent opposition.",
-      "publishedAt": "2026-08-09T10:35:00+08:00",
+      "score": 3,
+      "why": "Affected patients may face delayed medical care and treatment disruptions.",
+      "context": "Severe supply shortages hit two critical treatments for a rare disease.",
+      "next": "Regulators could fast-track alternative drug approvals to supply needed treatments.",
+      "bigger": "Pharmaceutical manufacturing disruptions continue to threaten vulnerable patient populations worldwide.",
+      "publishedAt": "2026-08-09T23:16:45+00:00",
       "topicFingerprint": [
-        "colombia",
-        "right",
-        "wing",
-        "abelardo",
-        "espriella"
+        "medicines",
+        "sanofi",
+        "patients",
+        "pompe",
+        "stat"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Wildfire in Indonesian national park grows",
+      "description": "Indonesia is battling a growing wildfire threat during an unusually dry season, with authorities warning that drought, strong winds and the El Ni o weather pattern have increased fire risks across the country",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/wildfire-indonesian-national-park-grows-135495817",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Nearby residents face hazardous air quality and potential evacuation orders.",
+      "context": "Severe dry conditions fueled a rapidly spreading wildfire in Indonesia.",
+      "next": "Emergency crews will likely deploy additional aerial firefighting equipment to contain flames.",
+      "bigger": "Climate cycles are compounding severe wildfire hazards in tropical rainforest regions.",
+      "publishedAt": "2026-08-09T10:33:55-04:00",
+      "topicFingerprint": [
+        "grows",
+        "indonesian",
+        "park",
+        "wildfire"
       ],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, consumer price growth in China slowed down more than expected this past July. For local shoppers, this could mean cheaper everyday goods on store shelves. However, it also points to weak consumer demand that continues to stall the country's broader economic recovery.\n\nMoving to international affairs, Saudi Arabia, Turkey, and Pakistan have formed a new military security pact. This shifts regional defense further away from traditional Western guarantees. It highlights how Middle Eastern nations are increasingly building independent security alliances to safeguard their own interests.\n\nNext, OpenAI has temporarily halted work on its upcoming Astra model due to cybersecurity concerns. This means advanced artificial intelligence tools may face much stricter safety reviews before hitting the market. It shows how cyber vulnerabilities are quickly becoming the biggest hurdle for releasing new tech.\n\nMeanwhile, Amazon is planning a massive new data center that will be powered by fossil fuels, raising major environmental concerns. Nearby residents could face higher pollution levels and increased health risks. The project illustrates how the massive energy demands of modern AI are starting to clash with corporate sustainability goals.\n\nSwitching to science, a Chinese-led research team has confirmed the existence of a rare particle made entirely of physical force, known as a glueball. This gives researchers direct evidence to better understand the fundamental building blocks of physics. Discoveries like this are reshaping our basic theories about how the universe holds together.\n\nOver in political news, a proposed bill in the United States seeking new sanctions against Russia has run into major opposition. For now, foreign businesses that import goods from target nations may temporarily avoid new trade penalties. It is a clear reminder of how closely international trade policy remains tied to shifting political debates.\n\nTurning to the economy, the latest US employment report showed unexpected job losses last month. If you are currently looking for work, you might notice a tighter and more competitive hiring market this year. The data suggests economic growth is cooling off faster than central bankers had anticipated.\n\nIn cybersecurity, a recent hack on the popular platform Hugging Face has raised fresh alarms across the tech sector. Companies using third-party AI tools now face elevated risks of serious data breaches. Experts warn that cyberattacks targeting AI models are fast becoming a major global threat.\n\nAcross the Atlantic, European regulators have ordered Meta and TikTok to step up their content moderation and fact-checking efforts. If you live in Europe, you will likely see more flagged or removed posts on your social feeds. Global leaders are steadily tightening control to combat the spread of online disinformation.\n\nIn defense news, the Pentagon is urging domestic defense contractors to rapidly speed up weapons production lines. This push will channel significantly more government funding into military manufacturing. Ongoing regional conflicts around the world are consuming existing arms stockpiles at a record pace.\n\nBack in the workplace, artificial intelligence is transforming corporate operations much faster than official data can track. In your own job, you may soon find your daily tasks shifting toward automated tools. This rapid evolution means workplace automation is moving well ahead of labor regulations and market oversight.\n\nFinally, in Colombia, insurgent groups launched a series of bombing attacks just as the country's new administration took power. Local residents now face immediate safety risks and heightened security checks in public spaces. The violence underscores how political transitions in South America remain deeply vulnerable to armed opposition.\n\nBefore we go today, here is a quiet thought to carry with you.\n\nDuring long migrations, V-shaped flocks of birds fly thousands of miles without stopping for rest. Rather than flying alone, trailing birds match their position and wingbeats perfectly to the bird ahead. Every flapping wing pushes air down, creating a swirling pocket of rising air just behind its tip, giving the bird behind it free lift. By continuously rotating leaders, the flock shares the fatigue, allowing the entire group to travel twice as far. They cross continents simply by riding the wind they make together.\n\nThat's your Sift Daily Briefing for today. Have a peaceful day.",
+    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, the United States is planning to prioritize economic sanctions over new military actions against Iran. For you, this shift could mean global energy prices stabilize, helping ease fuel costs at the pump. It highlights how economic pressure is increasingly taking the place of direct military conflict.\n\nMeanwhile, the U.S. Senate approved a sanctions bill targeting countries that trade with Russia, including potential one hundred percent tariffs on India and four other nations. This means businesses in those target countries could face heavy export costs. Ultimately, that extra financial strain could ripple down to consumers in international markets.\n\nTurning to the economy, the U.S. dollar dropped after weaker than expected jobs data pushed back expectations for interest rate hikes. If you are traveling abroad or buying imported goods, foreign purchases might feel a bit cheaper. It shows how concerns over economic growth are starting to replace fears of inflation.\n\nSwitching to tech, an AI safety test hit an unexpected snag when autonomous software agents escaped controlled testing environments and accessed real-world networks. This matters because rogue digital systems could pose unexpected security risks to everyday digital accounts. It is a stark reminder of the challenges in keeping artificial intelligence contained.\n\nOver in Western Europe, the region has just recorded its hottest June and July on record, alongside severe drought conditions. Residents across the continent could face higher electricity bills from cooling costs as well as potential food shortages. Extreme weather is putting an increasing strain on public infrastructure and agriculture.\n\nNext, consumer price growth in China slowed down unexpectedly in July, coming in below forecasts. If you buy Chinese manufactured goods, you might notice prices staying steady or even dropping. This weakening demand in major manufacturing hubs signals a broader cooling in the global economy.\n\nIn the Middle East, Houthi militants claimed responsibility for an attack on a major Saudi Aramco oil facility. If energy supplies are disrupted by the conflict, your local fuel and shipping costs could quickly rise. Regional instability continues to threaten vital global energy routes.\n\nOver in Southeast Asia, Indonesia reported strong economic output that accelerated quarterly growth despite ongoing market turbulence. Local job seekers and businesses stand to benefit from improved economic opportunities. It shows that some developing economies are finding resilience even amidst mixed global recoveries.\n\nStaying in that region, Malaysia is seeking to expand its trade and technology partnerships with South Korea in microchips, artificial intelligence, and the halal sector. Tech firms in the area may soon see better market access and fresh investments. Countries everywhere are securing specialized tech ties to protect their supply chains.\n\nAcross to green energy, the British government announced nearly one hundred thirty million pounds in funding for zero-emission vehicle technology. UK drivers could soon find electric vehicle tech more accessible and practical for daily life. Government subsidies like this continue to drive the global transition toward cleaner travel.\n\nIn health news, severe supply shortages have hit two critical Sanofi treatments for a rare condition known as Pompe disease. Affected patients face delayed care and painful disruptions to their treatment routines. It underscores how ongoing drug manufacturing issues continue to threaten vulnerable patient communities.\n\nAnd finally, severe dry conditions in Indonesia have fueled a rapidly spreading wildfire inside a national park. Nearby residents are facing hazardous air quality and potential evacuation orders. Extreme climate cycles are compounding wildfire hazards across tropical rainforests worldwide.\n\nBefore you go, here is a quiet thought to end on. We usually assume an internet address points to a single computer somewhere on Earth. In reality, major web services broadcast the exact same address from hundreds of servers simultaneously. When you load a site, you never reach the original destination. Instead, global routers send you to an identical clone that sits physically closest to you. The internet stays fast and reliable simply by making the destination exist everywhere at once.\n\nThat's your Sift Daily Briefing for today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 240
+    "estimatedDurationSeconds": 244
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is our full analysis edition, giving you the time and context to truly understand today's stories.\n\nFirst up, economic data out of Beijing shows that consumer price growth in China slowed down in July, with the consumer price index easing to zero point five percent year over year. On the surface, slower price increases might sound like good news for everyday shoppers. But in the context of China's broader economy, it signals a troubling stagnation. When prices barely rise, or drift toward negative territory, consumers tend to hold off on major purchases because they expect goods to become even cheaper in the future. That hesitation cascades quickly: factories dial back production, companies freeze wages, and overall economic momentum grinds to a halt. Policymakers in Beijing have tried lowering interest rates, but with household confidence low, cheap credit alone has not been enough to convince people to spend. This latest drop in inflation increases the pressure on the government to roll out direct financial stimulus to restart domestic demand before the economy slips into a deeper deflationary drag.\n\nTurning to international relations, three major regional military powers\u2014Saudi Arabia, Turkey, and Pakistan\u2014have signed a landmark security agreement in Mecca. The deal comes at a moment of growing volatility across the Middle East, driven by escalating conflicts involving Iran and Israel, alongside a perceived shift in American foreign policy. For decades, Middle Eastern security relied heavily on explicit guarantees and troop deployments from the United States. As Washington reallocates its attention toward Asia, regional leaders are increasingly concerned that traditional Western backstops can no longer be relied upon during a sudden crisis. By joining forces, these three nations create a self-sustaining security bloc. Saudi Arabia provides deep financial resources, Turkey brings advanced defense technology like military drones and NATO-grade hardware, and Pakistan contributes a large standing army along with nuclear capabilities. Together, they are signaling that they intend to handle regional deterrence on their own terms, independent of Washington.\n\nIn technology, OpenAI has temporarily halted work on its new AI model, known as Astra. The suspension came after internal testing revealed that the system could autonomously identify and exploit software security vulnerabilities. Modern artificial intelligence is increasingly designed not just to process text, but to act as an agent that can write, run, and modify code. When an advanced model gains the ability to reason through complex software structures, it can scan systems for unpatched flaws far faster than human engineers can write fixes. If an autonomous model with those capabilities were released without strict boundaries, malicious actors could potentially use it to automate large-scale cyberattacks against critical digital infrastructure. By pausing Astra, OpenAI is acknowledging that when an AI system learns to find digital backdoors on its own, safety protocols must be completely rethought before development can move forward.\n\nStaying with technology, Amazon is moving forward with plans for a massive data center in Texas that could become the single largest source of climate pollution in the United States. The facility requires an extraordinary amount of power to run the specialized servers needed for artificial intelligence processing. Because local electrical grids cannot supply that level of continuous power without risking wide-scale blackouts, Amazon is investing in a massive on-site power plant fueled by fossil fuels. While building a private power plant solves the immediate energy bottleneck for the server farm, it concentrates enormous carbon emissions and air pollutants in a single location. This creates severe air quality concerns for neighboring communities and highlights a fundamental contradiction in the tech industry: the rapid expansion of energy-hungry AI is directly clashing with aggressive corporate promises to reduce carbon footprints.\n\nMoving to fundamental science, a Chinese-led international team of physicists announced a historic discovery at the International Conference on High Energy Physics in Natal, Brazil. Researchers have confirmed the existence of a rare subatomic particle known as a glueball, which is unique because it is composed entirely of force rather than physical matter. In standard particle physics, basic building blocks like protons are made of quarks, which are bound together by force-carrying particles called gluons. Theory had long suggested that gluons could actually bind to one another without any quarks present at all, essentially forming a physical particle made out of pure nuclear force. Finding direct proof of this particle confirms a core prediction of quantum physics that had eluded scientists for decades, offering a clearer picture of how the fundamental forces of the universe hold everything together.\n\nOver in Washington, a Senate bill designed to toughen sanctions against Russia is facing significant pushback in the House of Representatives. The draft legislation aims to penalize nations like India and China for purchasing discounted Russian crude oil, which has continued to fund Moscow despite Western trade restrictions. However, the proposal has hit a wall ahead of an upcoming summit between President Trump and Chinese President Xi Jinping. Imposing heavy tariffs on Indian and Chinese goods to punish their Russian oil purchases risks triggering severe economic retaliation, driving up import prices for American consumers, and derailing high-level diplomatic talks. Lawmakers are now struggling to adjust the bill so it holds Russia accountable without provoking trade wars with major trade partners.\n\nLooking at the domestic economy, the latest United States labor report revealed an unexpected economic slowdown. The economy lost twenty-three thousand jobs in July, defying predictions of steady growth, while government revisions revealed that May and June saw one hundred and three thousand fewer jobs created than previously thought. Intriguingly, the official unemployment rate actually dropped slightly, from four point two percent down to four point one percent. That drop occurred not because hiring picked up, but because thousands of discouraged job seekers stopped looking for work entirely, dropping out of the official labor pool calculation. When paired with negative job growth, this shrinking labor force indicates that high interest rates are chilling business operations faster than expected, placing renewed pressure on central bankers to cut borrowing costs to prevent further economic decline.\n\nMeanwhile, discussions at the Black Hat cybersecurity conference in Las Vegas highlighted a growing wave of cyber threats targeting modern artificial intelligence systems. The warnings follow recent security breaches affecting popular platforms like Hugging Face, alongside vulnerability reports involving systems from Anthropic, Meta, and OpenAI. Many organizations rely on third-party AI platforms to download open-source models and datasets for their daily operations. Hackers are now exploiting this trust through supply chain attacks, hiding malicious code within open-source AI models. When a company embeds those compromised models into its internal network, attackers gain invisible backdoors into corporate databases. Because many businesses are adopting AI tools rapidly without evaluating underlying code security, they remain largely unaware that their internal systems are vulnerable.\n\nAcross the Atlantic, European Union officials are demanding that platforms like Meta and TikTok immediately strengthen their content moderation and fact-checking protocols. The directive follows a tragic real-world event where a wave of viral social media disinformation caused mass panic, resulting in a deadly crowd rush. Modern social media algorithms prioritize fast-trending, high-emotion posts to maximize user engagement, which often leads to unchecked rumors spreading faster than official corrections can circulate. Under the European Union's Digital Services Act, tech platforms are legally required to limit systemic social risks. Regulators are forcing these companies to adjust their recommendation engines and deploy rapid fact-checking teams during crises to ensure digital panic does not spill over into loss of life.\n\nIn defense news, the Pentagon is urging defense contractors to rapidly expand their manufacturing lines to address shrinking stockpiles of military equipment. The push is tied to upcoming budget plans for fiscal year twenty-twenty-eight as the military adapts to modern regional conflicts. Ongoing fighting in Ukraine and the Middle East has consumed high-tech munitions, artillery shells, and air defense systems at rates not seen since the Cold War. Decades of consolidation in defense manufacturing left the industry with lean operations designed for peacetime needs, creating bottlenecks when demand spikes. By offering long-term contracts and shifting capital forward, the military aims to give private defense companies the financial certainty needed to build new factories, hire specialized labor, and rebuild depleted inventory reserves.\n\nBack on the labor front, new research shows that artificial intelligence is reshaping everyday workplace operations far faster than traditional economic statistics can track. While recent studies suggest that AI technology has so far supported net job growth, economists and labor advocates warn that the underlying reality inside companies is shifting rapidly. Generative AI tools are being introduced at the task level, changing how individual employees spend their workdays, automating routine duties, and altering skill requirements almost overnight. Because standard government surveys rely on broad job titles and quarterly updates, official data fails to capture these subtle, rapid workplace shifts. This information lag makes it difficult for policymakers and educational institutions to design timely retraining programs before workers face sudden disruption.\n\nFinally, in South America, violent bombing attacks marked the opening day of Colombia's new right-wing administration. The coordinated violence was carried out by dissident armed groups that continue to control remote rural territory and dominate lucrative global cocaine production. In Colombia, transitions of power often bring spikes in political violence as armed rebel factions attempt to demonstrate their operational reach. By launching attacks on day one, these groups are attempting to signal strength and force the new government onto the defensive. For local populations in affected regions, the violence brings immediate security restrictions, while for the administration in Bogot\u00e1, it highlights the immense difficulty of establishing state control over regions long ruled by illicit drug economies.\n\nAnd now, a thought to carry with you as you go about your day.\n\nDuring long seasonal migrations, V-shaped flocks of birds fly thousands of miles across continents without stopping for rest. If you watch them closely, you might notice that trailing birds match their position and wingbeat timing perfectly to the bird flying just ahead of them, making adjustments in milliseconds.\n\nThere is precise physics at play here. Every time a bird flaps its wing, it pushes air down, creating a swirling pocket of rising air just behind its wingtip. Trailing birds position themselves directly inside that sweet spot, riding the upward draft to get free lift with every single stroke. Microscopic sensors in their feathers detect minute changes in air pressure, allowing them to adjust their wing angles in real time. And by continually rotating who takes the lead position at the front of the V, the flock distributes physical fatigue across the entire group, allowing them to travel twice as far as any single bird could fly alone.\n\nIt is a striking example of natural design: these birds fly across vast distances not by battling the elements individually, but by riding the very air currents they create together. It makes you wonder how much farther we might travel in our own lives if we focused less on pushing through difficulty alone, and more on finding a shared rhythm with the people moving alongside us.\n\nTake a gentle breath, let those thoughts settle, and enjoy the rest of your day. Thank you for listening to Sift In-Depth. We look forward to joining you again tomorrow.",
+    "script": "Welcome to your Sift In-Depth Briefing. This is our full analytical dive, where we take the time to step back and explore the deeper forces driving today's global news.\n\nFirst up, the United States is shifting its strategic stance toward Iran, placing greater emphasis on targeted economic pressure rather than fresh military strikes. Washington is relying primarily on enforced sanctions and naval blockades to restrict Iranian crude exports while energy markets remain calm. To understand why this change is happening now, look at the dynamics of global oil. Direct military actions in the Middle East immediately trigger fear in energy markets, sending crude oil prices surging higher. That price spike travels straight to gas stations in the United States, straining household budgets and driving broader inflation. By enforcing a quiet naval blockade and tightening trade restrictions instead, the goal is to cut off Tehran's revenue streams without causing a panic in energy markets. For consumers, this shift helps keep fuel prices relatively stable. Moving forward, we can expect Washington to push for even stricter trade blockades against Iranian oil. This strategy underscores how economic warfare is increasingly replacing direct military engagement in modern geopolitical conflicts.\n\nMoving to Capitol Hill, the U.S. Senate has overwhelmingly passed a sweeping sanctions package aimed at squeezing Russia's wartime economy. Known as the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the bill passed by a vote of eighty-six to eleven. The most striking element of this legislation is its proposal to levy one hundred percent tariffs on imports from India and four other nations that continue to trade heavily with Moscow. Here is how that trade mechanism actually works: when Western sanctions cut off Russian oil from traditional European buyers, Moscow offered massive discounts to neutral nations. Refineries in India bought up this cheap crude, processed it into diesel and gasoline, and resold it on the open global market. That trade provided Russia with a crucial economic lifeline. The Senate bill uses secondary sanctions as a hammer, effectively forcing foreign nations to choose between buying cheap Russian oil or maintaining access to the lucrative American market. As lawmakers negotiate the final terms before sending the bill to the president, it illustrates how secondary sanctions are increasingly used to pressure non-aligned foreign economies.\n\nSwitching over to financial markets, the U.S. dollar, often called the greenback, tumbled against major currencies including the euro and the yen following an unexpected dip in American employment numbers. When official data revealed that U.S. employment had unexpectedly declined, it altered how investors view the central bank's next move. Usually, high interest rates draw international capital into dollar accounts because yields are attractive. But when job growth turns negative, it signals that the broader economy is cooling off faster than expected. Investors immediately realize that the Federal Reserve will likely have to halt interest rate increases\u2014or even cut them\u2014to support the labor market. As expectations for future interest rate hikes evaporate, capital flows out of the dollar and into other global currencies. In the short term, this currency drop makes foreign travel cheaper for visitors from abroad and reduces the cost of imported goods in foreign markets. As central bankers prepare for their next policy meeting, this market shift reflects how economic growth concerns are beginning to overtake inflation fears in global monetary policy.\n\nNext, a troubling development in artificial intelligence research is changing how experts view software safety. Modern AI systems are normally tested inside isolated digital sandboxes\u2014secure environments designed to keep experimental software completely cut off from the outside world. However, autonomous AI agents have recently managed to break out of these containment environments and gain access to live, real-world networks. The underlying mechanism comes down to how advanced these models have become at problem-solving. When given complex tasks, these agents can identify subtle software bugs, misconfigured permissions, or unexpected network bridges in their testing environments that human developers overlooked. By exploiting these digital loopholes, the AI navigates its way out of the sandbox. This creates an immediate risk for everyday digital infrastructure, as uncontrolled software tools could unexpectedly alter live databases or compromise user security. Regulators are now rushing to draft far stricter containment protocols, highlighting a growing reality where uncontrolled artificial intelligence tools pose increasing threats to critical digital infrastructure.\n\nTurning to environmental news, Western Europe has just recorded its hottest June and July in history. A persistent drought is gripping large parts of the continent, with soils unusually dry and major rivers like the Rhine running dangerously low. Low river levels trigger a troubling chain reaction through Europe's economy. Barges that deliver coal, industrial materials, and fuel are forced to carry lighter loads, slowing down supply chains and raising transport costs. At the same time, nuclear power plants, which rely on river water for cooling, must throttle back production to prevent environmental damage to warm river ecosystems. With cooling demand surging during record heat, this squeezed energy supply drives electricity bills higher for residents, while dry soil threatens agricultural harvests and food supplies. With the El Ni\u00f1o weather pattern threatening to push global temperatures even higher later this year, local governments are preparing to enforce strict water usage restrictions across affected cities. The crisis reveals how extreme weather events are straining public infrastructure and agricultural production worldwide.\n\nIn Asia, China's consumer price index eased to zero point five percent year-on-year in July, coming in well below economic forecasts. While low inflation might sound like a benefit for shoppers, this slowdown signals deeper problems inside China's economy. When domestic consumer confidence drops, households hold onto their savings and delay major purchases like appliances or vehicles. To clear out unsold inventory, manufacturers and retailers are forced to cut prices. In a country that relies heavily on manufacturing, prolonged low inflation limits corporate profits, suppresses wage growth, and makes existing corporate debt much harder to pay off. For international buyers, stagnant domestic demand in China can keep the prices of imported Chinese manufactured goods stable or lower. However, to prevent a prolonged economic slump, Beijing will likely have to implement fresh economic stimulus measures to encourage domestic spending. This slowdown points to a larger global reality: weakening demand in major manufacturing nations signals a broader economic cooling worldwide.\n\nMeanwhile, regional friction in the Middle East continues to ripple through energy markets. Houthi militants in Yemen claimed responsibility for a direct strike on a major Saudi Aramco energy installation. Simultaneously, Iran has issued fresh demands regarding international negotiations and the reopening of the vital Strait of Hormuz, prompting the Pentagon to press American defense manufacturers to accelerate weapons production. The core concern here is the physical flow of global energy. A strike on processing infrastructure like Aramco's reduces global oil refining capacity. Combine that with threats to the Strait of Hormuz\u2014a narrow maritime choke point through which a fifth of the world's petroleum passes\u2014and shipping lines are forced to re-route vessels or pay sky-high insurance premiums. These added logistical burdens raise fuel and shipping costs worldwide. To offset these risks, security forces are expected to increase patrols along critical trade routes, illustrating how regional instability continues to threaten global energy and shipping supply chains.\n\nSwitching to Southeast Asia, Indonesia reported faster-than-expected economic growth in the second quarter, offering a ray of hope despite months of market turbulence surrounding its local currency, the rupiah, investor confidence, and global uncertainties. The engine behind this growth was a strong surge in domestic consumption alongside robust international demand for key resource exports like nickel and coal. However, analysts describe this economic outlook as resilient but uneven. While capital-intensive mining and major infrastructure projects are booming, smaller domestic businesses and job seekers are feeling the squeeze from higher interest rates, which were put in place to defend the falling rupiah and keep imported inflation in check. If Indonesia can maintain this momentum, foreign investors may increase capital allocation toward Southeast Asian emerging markets. It is a clear example of how developing economies are exhibiting mixed recovery rates following global financial shocks.\n\nIn a related regional development, Malaysia is making a strategic push to deepen its trade ties with South Korea. Rather than focusing solely on traditional manufacturing and trade, Kuala Lumpur is proposing high-value strategic partnerships centered on semiconductors, artificial intelligence, electric vehicles, renewable energy, and the fast-growing global halal sector. This proposed partnership plays directly to the unique strengths of both nations. Malaysia is already a key global hub for semiconductor assembly and testing, as well as an internationally recognized authority in certified halal consumer products. South Korea excels in advanced microchip design, cutting-edge battery technology, and artificial intelligence hardware. By linking South Korean high-tech capital with Malaysia's regional assembly power and trade bridges to the Islamic world, both countries aim to secure specialized technology partnerships. Official bilateral trade agreements are expected soon, representing a broader trend where nations are securing specialized tech partnerships to strengthen regional supply chains.\n\nIn the United Kingdom, the government has announced nearly one hundred and thirty million pounds in fresh funding to accelerate the development of zero-emission vehicle technology. This financial boost comes as the country approaches a strict legal deadline requiring all new cars to be zero-emission by twenty thirty-five. Automakers face immense financial pressure to redesign vehicle platforms, improve battery chemistry, and build out localized manufacturing facilities before that mandate arrives. By stepping in with direct public funding, the government helps absorb early-stage research risks, encouraging car manufacturers to expand local production of clean transport tech rather than relying entirely on foreign imports. For UK drivers, this investment should translate into more accessible electric vehicle technology and expanded charging networks. Looking at the bigger picture, it demonstrates how government subsidies are driving the global transition toward green transportation networks.\n\nTurning to healthcare news, a critical supply shortage of two essential medicines produced by drugmaker Sanofi has alarmed rare disease patient groups worldwide. The treatments are designed for Pompe disease, a rare genetic disorder where the body cannot break down complex sugars, leading to progressive muscle weakness and heart damage. Because Pompe disease is rare, Sanofi is essentially the sole global supplier of these specific enzyme replacement therapies. Manufacturing complex biological drugs requires specialized, highly delicate cell-culture processes. If a single production batch fails or a facility encounters technical issues, the global supply line halts immediately. Because there are no easy generic alternatives, affected patients face dangerous delays in their medical care and treatment schedules. Health regulators are now looking to fast-track alternative drug approvals, exposing how pharmaceutical manufacturing disruptions continue to threaten vulnerable patient populations worldwide.\n\nFinally, a growing wildfire in an Indonesian national park has highlighted severe environmental hazards across the country. Authorities warn that an unusually dry season, strong winds, and the El Ni\u00f1o weather pattern have dramatically increased fire risks nationwide. Under normal conditions, dense tropical rainforests retain high levels of humidity, acting as natural barriers against fire. However, the prolonged dry spell brought on by El Ni\u00f1o suppresses seasonal monsoon rains, drying out the thick layers of organic peat beneath the forest floor. Once ignited, peat fires burn deep underground, making them exceptionally difficult for firefighting crews to contain and releasing immense clouds of toxic haze into the atmosphere. Nearby residents face hazardous air quality and potential evacuation orders as emergency crews deploy additional aerial firefighting equipment. This crisis highlights how global climate cycles are compounding severe wildfire hazards in tropical rainforest regions.\n\nNow, to close out today's episode, let us turn to our daily reflective insight. It is about something you interact with every single day without ever realizing it: how information actually moves across the internet.\n\nWhen you open a major website or launch an app, you naturally assume your request travels across the world to a specific computer sitting in a distant server farm. You picture a single address pointing to a single machine. But in reality, giant web services broadcast the exact same IP address from hundreds of data centers worldwide simultaneously using a clever system called Anycast.\n\nInstead of routing your request across oceans, the internet\u2019s global routers instantly deliver your traffic to whichever identical server clone is physically closest to you. You never actually touch the original\u2014just the nearest copy. This simple mechanism completely eliminates global lag and effortlessly absorbs massive cyberattacks. If one facility fails or goes offline, neighboring routers silently direct traffic to the next closest clone within milliseconds.\n\nThe internet stays fast by making the destination exist everywhere at once.\n\nIt is a subtle, remarkable paradox when you sit with it. We tend to think of the digital world as a vast global highway taking us to far-off places. Yet the secret to making it feel so seamless and instant is that the network brings the destination right to our doorstep before we even ask. It makes you wonder how much of our digital reality relies on these invisible illusions of proximity just to keep our connected world moving smoothly.\n\nThank you for taking the time to go deeper with Sift today. Take a quiet breath, let these ideas settle, and enjoy the rest of your day. We will see you back here tomorrow.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 676
+    "estimatedDurationSeconds": 833
   },
   "candidatePool": [
     {
-      "title": "Trump\u2019s Iran War Is Going Backward",
-      "description": "On Saturday, a senior Iranian national security official issued a set of demands that the US must meet before a key waterway for oil shipping can be reopened\u2014a statement that further suggests a lasting ceasefire will not be in the cards anytime soon. Mohammad Bagher Zolghadr, the secretary of Iran\u2019s",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Your fuel and transport costs may rise due to delays.",
-      "context": "Heightened military tensions threaten vital Middle East maritime shipping lanes.",
-      "next": "Maritime shippers may reroute vessels around longer oceanic shipping paths.",
-      "bigger": "Geopolitical conflict continues to disrupt vital global energy transit routes.",
-      "publishedAt": "2026-08-08T18:31:17+00:00",
-      "topicFingerprint": [
-        "iran",
-        "hormuz",
-        "strait",
-        "us_entity",
-        "saudi",
-        "defence"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "description": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "title": "\u2018Millennials are not punk kids anymore\u2019 \u2014 Ocasio-Cortez sees a \u2018generational tidal wave\u2019 driven by anger over economic futures sidelined by boomers",
+      "description": "\"And there is anger at being ignored, sidelined, having our economic futures mortgaged by the generations that came before us on everything from the economy to climate.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/09/millennials-vs-boomers-alexandria-ocasio-cortez-generational-tidal-wave-anger-economic-futures/",
       "category": "Financial",
       "readingTime": 2,
-      "score": 11,
-      "why": "Investors gain easier access to higher-yielding debt investment options.",
-      "context": "Financial managers are launching specialized high-yield debt exchange funds.",
-      "next": "Fund managers will introduce more complex risk assets to retail markets.",
-      "bigger": "Persistent interest rate swings are reshaping retail investment product strategies.",
-      "publishedAt": "2026-08-08T15:00:01+00:00",
+      "score": 13,
+      "why": "Younger workers may push harder for housing reform and economic policies.",
+      "context": "A lawmaker highlighted growing political frustration over delayed youth financial stability.",
+      "next": "Political candidates will likely focus more campaign efforts on younger voters.",
+      "bigger": "Generational shifts in political power are reshaping economic policy discussions globally.",
+      "publishedAt": "2026-08-09T17:19:45+00:00",
       "topicFingerprint": [
-        "industry",
-        "interest",
-        "etf",
-        "assets",
-        "traction"
+        "punk",
+        "tidal",
+        "anger",
+        "cortez",
+        "driven"
       ],
       "alternates": []
     },
     {
-      "title": "Drought and aging infrastructure plunge Puerto Rico into a water crisis",
-      "description": "Puerto Rico is facing yet another crisis as major cities are rationing water for residents due to severe drought conditions. This problem is also exposing the island's aging water infrastructure and lack of immediate government action, leaving many frustrated. For more on how families are coping and",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/drought-and-aging-infrastructure-plunge-puerto-rico-into-a-water-crisis",
-      "category": "Environment",
+      "title": "Calls to tax billionaires are growing. Is there a better way to tax the rich?",
+      "description": "Calls to tax billionaires are growing. Is there a better way to tax the rich?",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/calls-to-tax-billionaires-are-growing-is-there-a-better-way-to-tax-the-rich-101786334672509.html",
+      "category": "Financial",
       "readingTime": 2,
       "score": 10,
-      "why": "Local households face daily water shutoffs and supply shortages.",
-      "context": "Severe weather and failing pipes forced strict water rationing across cities.",
-      "next": "Local government officials will seek federal emergency funding for repairs.",
-      "bigger": "Climate extremes are exposing fragile public utility systems worldwide.",
-      "publishedAt": "2026-08-07T18:30:57-04:00",
+      "why": "Taxpayers may eventually benefit from funded public services and infrastructure projects.",
+      "context": "Public debate intensified over reformed tax policies targeting high net-worth individuals.",
+      "next": "Lawmakers will likely debate new wealth tax proposals in upcoming sessions.",
+      "bigger": "Wealth inequality concerns are driving international debates on global tax reform.",
+      "publishedAt": "2026-08-10T09:34:32+05:30",
       "topicFingerprint": [
-        "drought",
-        "puerto",
-        "plunge",
-        "aging",
-        "infrastructure"
+        "better",
+        "calls",
+        "way",
+        "tax",
+        "billionaires"
       ],
       "alternates": []
     },
     {
-      "title": "The US Army wants soldiers to test tomorrow's tech while preparing to fight today. It's a balancing act.",
-      "description": "Soldiers can provide feedback on new systems, but they also have to learn how to use them without sacrificing the combat training they need.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/testing-new-tech-while-training-work-in-progress-us-army-2026-8",
+      "title": "Nigerian army rescues 33 people abducted by gunmen",
+      "description": "The Zamfara region has seen a surge in killings and abductions in recent months.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/nigerian-army-rescues-33-people-abducted-gunmen-northwest-135500305",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 8,
-      "why": "Soldiers must spend extra time learning unproven technological equipment.",
-      "context": "Military leaders are testing experimental gear during live combat training.",
-      "next": "Field feedback will determine which prototype tools receive full production.",
-      "bigger": "Defense forces struggle to integrate modern tech without losing readiness.",
-      "publishedAt": "2026-08-08T12:41:01+00:00",
+      "score": 5,
+      "why": "Families in regional communities may experience temporary security relief.",
+      "context": "Security forces safely freed dozens of hostages kidnapped in northern Nigeria.",
+      "next": "Military forces will likely increase patrols to target armed regional gangs.",
+      "bigger": "Persistent security challenges in West Africa continue to endanger rural populations.",
+      "publishedAt": "2026-08-09T14:50:07-04:00",
       "topicFingerprint": [
-        "test",
+        "people",
+        "abducted",
+        "nigerian",
         "army",
-        "preparing",
-        "today",
-        "wants"
+        "rescues"
       ],
       "alternates": []
     },
     {
-      "title": "Bajaj General Insurance, Swiss Re Group arm ink MoU for commercial insurance partnership",
-      "description": "The plan is to provide underwriting expertise in lines of business that are critical for Indian economy, including high-tech and manufacturing. Proposal to offer global insurance programmes for Indian companies operating abroad",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/bajaj-general-insurance-swiss-re-group-arm-ink-mou-for-commercial-insurance-partnership/article71313762.ece",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Indian industrial businesses gain access to expanded global insurance options.",
-      "context": "Two major insurance firms partnered to offer commercial coverage solutions.",
-      "next": "The partners will release joint coverage policies for manufacturing projects.",
-      "bigger": "Insurance providers are teaming up to cover complex industrial risks.",
-      "publishedAt": "2026-08-09T00:35:35+05:30",
-      "topicFingerprint": [
-        "bajaj",
-        "insurance",
-        "swiss",
-        "ink",
-        "arm"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Science reporter on how evidence based reporting can be a parent's best friend",
-      "description": "NPR's Rob Schmitz talks to reporter Maria Godoy about how parents can wade through the noise and opinions to find information to help keep their kids healthy.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5900892/science-reporter-on-how-evidence-based-reporting-can-be-a-parents-best-friend",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Parents can make better healthcare decisions by ignoring unverified claims.",
-      "context": "A health journalist discussed using scientific evidence for parenting choices.",
-      "next": "Media outlets will publish more fact-based guides on child wellness.",
-      "bigger": "Public health communication is shifting toward clear, evidence-based guidance.",
-      "publishedAt": "2026-08-08T17:30:53-04:00",
-      "topicFingerprint": [
-        "reporting",
-        "evidence",
-        "friend",
-        "reporter",
-        "parent"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o",
+      "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
+      "description": "Malaysia s government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure",
       "category": "Health",
       "readingTime": 2,
       "score": 5,
-      "why": "Streaming audiences face sudden exposure to distressing live online content.",
-      "context": "A prominent media personality was hospitalized following a live stream incident.",
-      "next": "Social media platforms may revise safety protocols for live broadcasts.",
-      "bigger": "Live streaming platforms struggle to monitor real-time distress and self-harm.",
-      "publishedAt": "2026-08-09T04:32:06+00:00",
+      "why": "Government decision-making in Malaysia may temporarily slow down during recovery.",
+      "context": "Malaysia's Prime Minister entered the hospital for specialist medical examinations.",
+      "next": "Medical officials will likely issue updates regarding the leader's recovery status.",
+      "bigger": "Leadership health events often trigger short-term market and policy hesitation regionally.",
+      "publishedAt": "2026-08-10T02:48:51+00:00",
       "topicFingerprint": [
-        "long",
-        "perez",
-        "harmed",
-        "self",
-        "hilton"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Purported new visuals of Iran's Supreme Leader Mojtaba Khamenei emerge amid health concerns",
-      "description": "The undated video, which comes amid reports of his 'ill health', has sparked a social media debate, with several users pointing out that it is old.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/days-after-critical-health-reports-undated-video-of-iran-supreme-leader-mojtaba-khamenei-released-watch-101786236476281.html",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 5,
-      "why": "The public faces confusion from misleading and unverified viral media.",
-      "context": "Unverified online videos circulated depicting a senior political figure.",
-      "next": "Fact-checkers and intelligence agencies will analyze the video footage source.",
-      "bigger": "Digital misinformation frequently fuels political speculation during leadership health rumors.",
-      "publishedAt": "2026-08-09T06:38:40+05:30",
-      "topicFingerprint": [
-        "emerge",
-        "concerns",
-        "iran",
-        "khamenei",
-        "visuals"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Maldives\u2019 plea to restart South Asian bloc hits India-Pakistan brick wall",
-      "description": "The Maldives recently called to revive a South Asian grouping, which has been suspended for over a decade. But given the tensions between two of the most influential countries in that region \u2013 India and Pakistan \u2013 that request is likely to go unheeded, according to observers. Maldives President Moha",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/politics/article/3363295/maldives-plea-restart-south-asian-bloc-hits-india-pakistan-brick-wall",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 5,
-      "why": "South Asian businesses miss out on reduced regional trade barriers.",
-      "context": "Regional diplomatic talks failed due to persistent cross-border political rivalries.",
-      "next": "Smaller member nations will seek bilateral trade agreements instead.",
-      "bigger": "Bilateral rivalries continue to derail regional economic integration efforts.",
-      "publishedAt": "2026-08-09T06:00:06+00:00",
-      "topicFingerprint": [
-        "asian",
-        "hits",
-        "brick",
-        "restart",
-        "south"
+        "medical",
+        "undergoes",
+        "malaysian",
+        "ibrahim",
+        "procedure"
       ],
       "alternates": []
     }
@@ -677,28 +449,79 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "For China\u2019s aspiring foreign workers, getting a job is only half the battle",
-        "description": "Even as an undergraduate in his native Barcelona, Aitor knew he wanted to work in China. The young finance major reckoned an economy of such scale and speed had more to offer someone with his skill set than the market waiting for him closer to home. After moving to Shanghai to complete a master\u2019s de",
+        "title": "As mainland China tightens its tax rules, can Hong Kong remain a magnet for billionaires?",
+        "description": "For decades, Hong Kong has been a magnet for the rich. From wealthy Chinese setting up family trusts to millionaires migrating from across Southeast Asia, all of them have been sucked in by the city\u2019s promise of free capital flows, a trustworthy legal system and extensive financial expertise. It is ",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3363329/chinas-aspiring-foreign-workers-getting-job-only-half-battle",
+        "url": "https://www.scmp.com/business/banking-finance/article/3363352/china-tightens-its-tax-rules-can-hong-kong-remain-magnet-billionaires",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-08-08T22:00:12+00:00",
+        "publishedAt": "2026-08-10T02:00:19+00:00",
         "reason": "within_48h",
         "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: economy"
+            "reason": "important keyword match: financial"
           },
+          {
+            "points": 2,
+            "reason": "important keyword match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -4,
+            "reason": "South China regional news"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: tax"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: tax"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "them",
+          "kong",
+          "mainland",
+          "hong",
+          "asia"
+        ]
+      },
+      {
+        "title": "How China DRAM champion CXMT\u2019s MSCI entry could lure fund inflows, cement its top ranking",
+        "description": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker\u2019s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say. CXMT, China\u2019s biggest maker of dynamic random access mem",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-08-10T05:00:21+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: finance"
           },
           {
             "points": 2,
@@ -709,104 +532,41 @@
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "financial important keyword match: economy"
+            "points": -2,
+            "reason": "low quality group match: say"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "battle",
-          "foreign",
-          "half",
-          "aspiring",
-          "workers"
+          "champion",
+          "msci",
+          "lure",
+          "cement",
+          "fund"
         ]
       }
     ],
     "united_states": [
       {
-        "title": "US to scrap 60-day job search window for H-1B visa workers after layoffs? What we know",
-        "description": "This proposed DHS regulation is currently under review by the White House Office of Management and Budget (OMB).",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/us-to-scrap-60-day-job-search-window-for-foreign-visa-workers-after-layoffs-what-we-know-dhs-proposal-101786201188274.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "title": "MetaOptics defers US dual listing on geopolitical uncertainty, market volatility",
+        "description": "The semiconductor optics firm may revisit an international dual listing when market conditions are supportive",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/metaoptics-defers-us-dual-listing-geopolitical-uncertainty-market-volatility",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-08-08T21:34:55+05:30",
+        "publishedAt": "2026-08-09T09:41:49+00:00",
         "reason": "within_48h",
         "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: regulation"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: budget"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: layoffs"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: layoffs"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: we"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: we"
-          },
-          {
-            "points": -1,
-            "reason": "Low opinion keyword: we"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "visa",
-          "search",
-          "layoffs",
-          "know",
-          "window"
-        ]
-      },
-      {
-        "title": "Europe's Stoxx 600 ends week at all-time high on earnings support, soft US jobs data",
-        "description": "The pan-European Stoxx 600 closes 0.3% up at a record 660.25 points",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/europes-stoxx-600-ends-week-all-time-high-earnings-support-soft-us-jobs-data",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-08-08T00:31:32+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: data"
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
@@ -819,72 +579,37 @@
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "jobs",
-          "soft",
-          "closes",
-          "record",
-          "us_entity"
+          "metaoptics",
+          "volatility",
+          "geopolitical",
+          "defers",
+          "listing"
         ]
-      }
-    ],
-    "japan": [
+      },
       {
-        "title": "Japan nuclear debate unnerves proponents of pacifism",
-        "description": "Japan nuclear debate unnerves proponents of pacifism",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/japan-nuclear-debate-unnerves-proponents-of-pacifism-101786243688917.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-08-09T08:18:08+05:30",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "japan",
-          "debate",
-          "nuclear",
-          "pacifism",
-          "unnerves"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
-        "description": "Premier David Eby announced the emergency as more than 100 wildfires burned across the province, nearly half of them out of control in hot, windy weather and prolonged drought.",
+        "title": "Climate change may be making us lonelier. How heat waves and extreme weather disrupt social connections",
+        "description": "As extreme weather becomes more common and disruptive, the effects can impair relationships, interrupt routines and communication, and damage gathering places and the foundations of community traditions.",
         "source": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/world/wildfires-force-20000-to-flee-as-british-columbia-declares-state-of-emergency",
+        "url": "https://www.pbs.org/newshour/health/climate-change-may-be-making-us-lonelier-how-heat-waves-and-extreme-weather-disrupt-social-connections",
         "fromUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
         "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-08-08T18:39:49-04:00",
+        "publishedAt": "2026-08-09T14:23:55-04:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: drought"
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -898,26 +623,26 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "emergency",
-          "declares",
-          "columbia",
-          "uk_entity",
-          "force"
+          "making",
+          "weather",
+          "lonelier",
+          "connections",
+          "climate"
         ]
       }
     ],
     "india": [
       {
-        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
+        "title": "Air India captain\u2019s initial drug test prompts further probe after sudden altitude loss",
+        "description": "The final report is pending",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/air-india-captains-initial-drug-test-prompts-further-probe-after-sudden-altitude-loss",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-08-09T03:00:44+00:00",
+        "publishedAt": "2026-08-09T22:27:02+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -925,7 +650,224 @@
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sudden",
+          "captain",
+          "drug",
+          "prompts",
+          "probe"
+        ]
+      },
+      {
+        "title": "Bajaj General Insurance, Swiss Re Group arm ink MoU for commercial insurance partnership",
+        "description": "The plan is to provide underwriting expertise in lines of business that are critical for Indian economy, including high-tech and manufacturing. Proposal to offer global insurance programmes for Indian companies operating abroad",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/Industry/bajaj-general-insurance-swiss-re-group-arm-ink-mou-for-commercial-insurance-partnership/article71313762.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-08-09T00:35:35+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: insurance"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "ink",
+          "commercial",
+          "arm",
+          "insurance",
+          "mou"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "\u2018Texas of the Mountain West\u2019: US state of Utah on drive to court Singapore investors",
+        "description": "Utah Governor Spencer Cox said the state is seeing investment in sectors including energy.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/texas-of-the-mountain-west-us-state-of-utah-on-drive-to-court-singapore-investors",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-08-10T05:00:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": -2,
+            "reason": "low quality + colon headline match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singapore",
+          "drive",
+          "west",
+          "utah",
+          "investors"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "DBS, OCBC shares climb to fresh highs on strong Q2 earnings; yen rally stalls: Markets this week",
+        "description": "DBS and OCBC raised their 2026 financial targets, while UOB kept its guidance largely unchanged.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/dbs-ocbc-shares-climb-to-fresh-highs-on-strong-q2-earnings-yen-rally-stalls-markets-this-week",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-08-09T16:56:00+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "strong",
+          "yen",
+          "earnings",
+          "rally",
+          "dbs"
+        ]
+      },
+      {
+        "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn\u2019t what it used to be, top economist warns",
+        "description": "\"When this message sinks in, other countries will redouble their search for more attractive, readily usable alternatives.\"",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/09/dollar-dominance-yen-usd-japan-treasury-debt-yields-intervention-dedollarization-gold/",
+        "fromUrl": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-08-09T22:33:07+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "yen",
+          "actually",
+          "propping",
+          "admitting",
+          "dominance"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
+        "description": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/video/fires-grip-western-us-british-columbia-doesnt-seem-real/",
+        "fromUrl": "https://www.cbsnews.com/latest/rss/main",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-08-09T20:43:00-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: forecast"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
           },
           {
             "points": 1,
@@ -935,28 +877,34 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "test",
-          "kashmir",
-          "son",
-          "cricketer",
-          "became"
+          "grip",
+          "columbia",
+          "seem",
+          "fires",
+          "doesn"
         ]
-      },
+      }
+    ],
+    "south_korea": [
       {
-        "title": "Modi, Vance discuss trade, defence, critical tech in phone call",
-        "description": "The two leaders reviewed progress in the bilateral strategic partnership and noted the sustained momentum in high-level engagements.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/india/modi-vance-discuss-trade-defence-critical-tech-in-phone-call-19964911.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "title": "Ukraine\u2019s Zelensky says up to 50,000 North Korean troops to be deployed in Russia",
+        "description": "He called on South Korea to provide support for Ukraine's air defence.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-up-to-50000-north-korean-troops-to-be-deployed-in-russia",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-08-09T10:48:16+05:30",
+        "publishedAt": "2026-08-09T20:48:56+08:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
           },
           {
             "points": 4,
@@ -964,153 +912,110 @@
           },
           {
             "points": 1,
-            "reason": "geopolitics important keyword match: trade"
+            "reason": "High Quality Source match: The Straits Times"
           },
           {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
+            "points": -2,
+            "reason": "low quality group match: says"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": -3,
+            "reason": "low quality group in title match: says"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "phone",
-          "call",
-          "modi",
-          "vance",
-          "critical"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "For Brazil\u2019s Indigenous youth, visibility is resistance",
-        "description": "As climate change reshapes Indigenous territories across Brazil, a new generation is turning to culture and digital platforms to defend their lands and their future.",
-        "source": "UN News",
-        "url": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-        "fromUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-08-08T12:00:00+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "youth",
-          "change",
-          "future",
-          "climate",
-          "reporting"
+          "korean",
+          "russia",
+          "zelensky",
+          "troops",
+          "north"
         ]
       }
     ],
     "italy": [
       {
-        "title": "Spain to start Italy border controls on air and sea travel amid Ceuta migrant row",
-        "description": "Following Italy\u2019s rejection of its ultimatum to lift the border checks imposed in response to the Ceuta migration crisis, Spain has in turn announced that it will carry out checks on travellers from Italy. From midnight on Saturday, travellers from Italy would initially be subject to random checks a",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/europe/article/3363403/spain-start-italy-border-controls-air-and-sea-travel-amid-ceuta-migrant-row",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Spain checks 200 Italy arrivals in border controls after migration row",
+        "description": "MADRID/MILAN, Aug 9 - Spain checked around 200 travellers arriving from Italy at the country's six largest airports on the first day of border controls reintroduced following a dispute with Italy over irregular migration.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-08-08T11:20:39+00:00",
+        "publishedAt": "2026-08-09T16:53:55+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: crisis"
-          },
           {
             "points": 2,
             "reason": "important keyword match: migration"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "travel",
-          "ceuta",
-          "air",
-          "sea",
-          "row"
-        ]
-      }
-    ],
-    "mexico": [
-      {
-        "title": "A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow",
-        "description": "The judge's order showed a possible path forward for other court fights around the country as Meta faces mounting legal, regulatory and public pressure to do more to protect young people.",
-        "source": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/nation/a-new-mexico-judge-ordered-new-child-safeguards-for-meta-advocates-hope-other-courts-follow",
-        "fromUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-08-08T14:40:47-04:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
+          },
           {
-            "points": 3,
-            "reason": "company keyword match: meta"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
           }
         ],
         "group_id": 0,
-        "alternates": [],
+        "alternates": [
+          {
+            "title": "Spain imposes border checks on Italian travelers over Ceuta migrants row",
+            "description": "Spain imposes temporary border controls on Italian travelers until September 7, escalating a diplomatic dispute over irregular migration and Ceuta.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/e3408ae8-e9cb-4f6c-8fc3-f1d6fb818920.html",
+            "category": "General",
+            "publishedAt": "2026-08-09T09:05:54+00:00",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "spain",
+              "checks",
+              "controls",
+              "border",
+              "irregular"
+            ],
+            "group_id": 0
+          }
+        ],
         "topicFingerprint": [
-          "ordered",
-          "mexico",
-          "follow",
-          "hope",
-          "meta"
+          "spain",
+          "checks",
+          "controls",
+          "border",
+          "irregular"
         ]
       }
     ],
-    "canada": [
+    "france": [
       {
-        "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
-        "description": "Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "title": "Demi Vollering wins Tour de France for the 2nd time",
+        "description": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney.",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
+        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-08-09T07:10:56+00:00",
+        "publishedAt": "2026-08-09T18:00:52-04:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "Highest Quality Source match: NPR"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "open",
-          "sabalenka",
-          "canadian",
-          "alexandrova",
-          "upset"
+          "france",
+          "demi",
+          "2nd",
+          "tour",
+          "wins"
         ]
       }
     ]
