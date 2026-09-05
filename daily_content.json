@@ -1,151 +1,259 @@
 {
-  "updatedAt": "2026-09-04T06:51:58.994916",
+  "updatedAt": "2026-09-05T06:36:21.353921",
   "insight": {
-    "title": "You Never Actually Touch Anything",
-    "subtitle": "The feeling of solid contact is an illusion created by forces you can't see.",
-    "notificationHook": "You never truly touch anything.",
+    "title": "You Carry the Habits of People You Loved",
+    "subtitle": "We quietly preserve the people who shaped us through the small gestures we never gave back.",
+    "notificationHook": "You carry habits from people you once loved",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "When you \"touch\" something, your atoms never actually make contact with its atoms. An invisible force keeps them infinitesimally apart. You are merely feeling the pushback of electric repulsion."
+        "text": "The way you make your tea, a peculiar phrase you use, or how you hold a book. Without noticing, you preserve tiny rituals gifted by people from your past."
       },
       {
         "type": "paragraph",
-        "text": "All matter is made of atoms with electron clouds orbiting their nuclei. These clouds have a negative charge. When two objects approach, these negative charges repel each other strongly."
+        "text": "When we connect deeply with someone, we quietly mirror them. We absorb their cadence, their laughter, and the gentle ways they learned to move through the world."
       },
       {
         "type": "paragraph",
-        "text": "This electromagnetic force is why objects feel solid and why your hand doesn't pass through a table. Your brain interprets this repulsion as a sensation of touch."
+        "text": "Even when distances grow and years pass, those small details linger. Long after conversations end, their presence survives, woven naturally into who you are."
       },
       {
         "type": "paragraph",
-        "text": "Your entire world is held together by invisible pushes."
+        "text": "You carry pieces of everyone you have ever loved."
       }
     ]
   },
   "news": [
     {
-      "title": "OpenAI unveils GPT\u20116 Astra amid rising scrutiny and safety concerns",
-      "description": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety",
-      "category": "Technology",
+      "title": "Why the U.S. job market remains resilient in face of global pressures and inflation",
+      "description": "The job market delivered a surprising rebound in August, adding 162,000 jobs, far more than economists had expected. The unemployment rate held steady at 4.1%, and the Labor Department revised July numbers upward. The stronger-than-expected report comes as the Federal Reserve is set to weigh interes",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/why-the-u-s-job-market-remains-resilient-in-face-of-global-pressures-and-inflation",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 18,
-      "why": "AI tools you use may become more powerful or restricted.",
-      "context": "OpenAI released its new advanced AI model, GPT-6 Astra.",
-      "next": "More advanced AI models will likely emerge with ongoing debate.",
-      "bigger": "AI development faces a growing tension between innovation and safety.",
-      "publishedAt": "2026-09-04T03:36:19+00:00",
+      "score": 29,
+      "why": "Finding new work may remain easier.",
+      "context": "The U.S. job market added more jobs than expected in August. The unemployment rate remained steady at 4.1%.",
+      "next": "The Federal Reserve may reconsider interest rate decisions.",
+      "bigger": "Global economies are balancing inflation with growth.",
+      "publishedAt": "2026-09-04T18:55:43-04:00",
       "topicFingerprint": [
-        "model",
-        "openai",
-        "ai_group",
-        "astra",
-        "gpt"
+        "us_entity",
+        "donald_trump",
+        "rate",
+        "rates",
+        "august"
       ],
       "alternates": [
         {
-          "title": "OpenAI begins rollout of GPT-6 amid growing scrutiny over safety",
-          "description": "OpenAI said Thursday it would begin rolling out GPT-6, its most powerful AI model yet, to select customers, touting stronger safety safeguards as concerns grow over the cybersecurity risks posed by increasingly capable artificial intelligence systems.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/technology/20260904-openai-begins-rollout-of-gpt-6-with-focus-on-cyber-security-safeguards",
-          "category": "Technology",
-          "publishedAt": "2026-09-04T02:44:09+00:00",
+          "title": "US job market rebounds with 162,000 new jobs, far surpassing expectations",
+          "description": "The US job market rebounded in August as employers added a surprising 162,000 jobs. The unemployment rate stayed at a low 4.1 per cent. The jobs report, issued by the Labour Department on Friday, could be good news for President Donald Trump two months before midterm elections in which the health of",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3366441/us-job-market-rebounds-162000-new-jobs-unemployment-rate-stays-41-cent",
+          "category": "Health",
+          "publishedAt": "2026-09-04T14:54:18+00:00",
           "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "model",
-            "openai",
-            "ai_group",
-            "astra",
-            "gpt"
+            "us_entity",
+            "donald_trump",
+            "rate",
+            "rates",
+            "august"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 15,
+      "why": "The conflict's resolution remains uncertain.",
+      "context": "Trump's peace envoys will visit Moscow and Kyiv soon. Their previous efforts to end the war had stalled.",
+      "next": "New diplomatic discussions on the conflict will take place.",
+      "bigger": "Geopolitical conflicts often require complex, multi-party diplomacy.",
+      "publishedAt": "2026-09-05T04:28:21+00:00",
+      "topicFingerprint": [
+        "war",
+        "donald_trump",
+        "ukraine",
+        "russia",
+        "kyiv"
+      ],
+      "alternates": [
+        {
+          "title": "Witkoff, Kushner to visit Moscow and Kyiv in renewed push to end Russia-Ukraine war",
+          "description": "The Trump administration is trying to revive peace talks between Russia and Ukraine. This weekend, White House special envoy Steve Witkoff and President Trump's son-in-law Jared Kushner are traveling to Moscow and Kyiv to meet with Russian President Vladimir Putin and Ukrainian President Volodymyr Z",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/witkoff-kushner-to-visit-moscow-kyiv-renewed-push-end-russia-ukraine-war/",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-04T19:50:41-04:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
           ],
           "group_id": 0
         },
         {
-          "title": "OpenAI claims GPT-6 Astra does anything you do on a computer, finds unseen security holes",
-          "description": "OpenAI has rolled out GPT-6 Astra, its most advanced AI model yet, to select users, adding stronger cybersecurity safeguards after a security breach linked to Hugging Face this summer.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/technology/openai-claims-gpt-6-astra-does-anything-you-do-on-a-computer-finds-unseen-security-holes-19983856.htm",
-          "category": "Technology",
-          "publishedAt": "2026-09-04T08:07:17+05:30",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "model",
-            "openai",
-            "ai_group",
-            "astra",
-            "gpt"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "El Ni\u00f1o weather phenomenon set to deliver massive blow to global economy",
-      "description": "The UN warns El Ni\u00f1o is a \"supersized\" phenomenon that will hit the global economy. UK cider producers are feeling the impact of drought. Plus, Nvidia buys Hugging Face for $12.9 billion.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260903-el-ni%C3%B1o-weather-phenomenon-set-to-deliver-massive-blow-to-global-economy",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Your food prices and availability may be affected by weather changes.",
-      "context": "The UN warned a \"supersized\" El Ni\u00f1o will impact the global economy.",
-      "next": "Weather patterns will likely become more extreme globally.",
-      "bigger": "Climate change intensifies global weather events and economic risks.",
-      "publishedAt": "2026-09-03T19:52:47+00:00",
-      "topicFingerprint": [
-        "weather",
-        "supersized",
-        "warns",
-        "phenomenon",
-        "nio"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "China's Xi visits Egypt for the first time in a decade",
-      "description": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Geopolitical alliances in the Middle East are shifting more rapidly.",
-      "context": "China's President Xi visited Egypt for the first time in ten years.",
-      "next": "China will likely strengthen its influence in the Middle East.",
-      "bigger": "Global power dynamics are realigning with new partnerships.",
-      "publishedAt": "2026-09-03T04:08:39-04:00",
-      "topicFingerprint": [
-        "war",
-        "visits",
-        "jinping",
-        "decade",
-        "egypt"
-      ],
-      "alternates": [
-        {
-          "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-          "description": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+          "title": "Trump sends envoys Witkoff and Kushner with plan to end Russia-Ukraine war",
+          "description": "Trump sends Steve Witkoff and Jared Kushner to Moscow and Kyiv with a concrete proposal to restart peace negotiations and end the Russia-Ukraine war.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/588535d0-11d4-4753-9902-7230375efed1.html",
           "category": "Geopolitics",
-          "publishedAt": "2026-09-03T03:04:25-04:00",
+          "publishedAt": "2026-09-04T23:11:46+00:00",
           "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
             "war",
-            "visits",
-            "jinping",
-            "decade",
-            "egypt"
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Witkoff and Kushner will travel to \u2018end\u2019 Russia\u2019s war in Ukraine: Trump",
+          "description": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-04T21:19:05+00:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+          "description": "Al Jazeera\u2019s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan",
+          "category": "General",
+          "publishedAt": "2026-09-05T03:25:46+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump envoys Witkoff, Kushner to visit Russia and Ukraine in coming days",
+          "description": "US President Donald Trump's envoys Steve Witkoff and Jared Kushner are expected to arrive in Kyiv for a first-time visit on Sunday, several sources reported. Witkoff and Kushner \u2013 Trump's son-in-law \u2013 have been involved in shuttle diplomacy between Russia and Ukraine, travelling to Moscow multiple t",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days",
+          "category": "Policy",
+          "publishedAt": "2026-09-04T15:29:52+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+          "description": "US envoys Steve Witkoff and Jared Kushner are travelling to Moscow and Kyiv this weekend with what US President Donald Trump says is a new proposal to end the Russia-Ukraine war. Despite Trump's promises to resolve the conflict, Washington's efforts to broker a peace have so far come to nothing.",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-05T02:37:17+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump says envoys Witkoff, Kushner heading abroad to discuss Ukraine peace",
+          "description": "Trump suggested the US had a concrete proposal aimed at ending the war.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/trump-says-witkoff-kushner-heading-abroad-to-discuss-ukraine-peace",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-05T03:26:29+08:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend",
+          "description": "President Trump's envoys Steve Witkoff and Jared Kushner will travel this weekend to Moscow and Kyiv for talks on ending the war, U.S. officials said. Why it matters: This will be the first visit by Witkoff and Kushner to Kyiv since President Trump returned to office. State of play: Witkoff and Kush",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-04T20:23:34+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "donald_trump",
+            "ukraine",
+            "russia",
+            "kyiv"
           ],
           "group_id": 0
         }
       ]
+    },
+    {
+      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+      "description": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 17,
+      "why": "More AI innovation may reach you sooner.",
+      "context": "Nvidia has significantly increased its investments in AI companies. Their equity holdings now total $99 billion.",
+      "next": "AI technology development will likely accelerate further.",
+      "bigger": "Major tech companies are consolidating power in AI development.",
+      "publishedAt": "2026-09-04T09:32:09+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "nvidia",
+        "billion",
+        "chips",
+        "giant"
+      ],
+      "alternates": []
     },
     {
       "title": "US automakers seek permanent ban on Chinese cars, connected tech over security risks",
@@ -154,18 +262,18 @@
       "url": "https://www.cnbctv18.com/auto/us-automakers-seek-permanent-ban-on-chinese-cars-connected-tech-over-security-risks-19983934.htm",
       "category": "Policy",
       "readingTime": 2,
-      "score": 16,
-      "why": "Your options for affordable electric vehicles could become limited.",
-      "context": "US automakers requested a permanent ban on Chinese cars and tech.",
-      "next": "Governments may impose more trade barriers on foreign cars.",
-      "bigger": "Global trade competition intensifies, driven by security concerns.",
+      "score": 12,
+      "why": "Your vehicle choices may become more limited.",
+      "context": "U.S. automakers want a permanent ban on Chinese vehicles. They cite national security and economic risks.",
+      "next": "Congress will consider imposing stricter import restrictions on cars.",
+      "bigger": "Geopolitical tensions are influencing global trade and technology.",
       "publishedAt": "2026-09-04T09:16:25+05:30",
       "topicFingerprint": [
         "congress",
+        "permanently",
         "ban",
-        "automakers",
-        "china_entity",
-        "us_entity"
+        "cars",
+        "automakers"
       ],
       "alternates": [
         {
@@ -175,612 +283,481 @@
           "url": "https://www.businesstimes.com.sg/international/global/top-automakers-urge-us-congress-permanently-ban-chinese-cars",
           "category": "Financial",
           "publishedAt": "2026-09-04T03:15:21+00:00",
-          "score": 8,
+          "score": 4,
           "readingTime": 2,
           "topicFingerprint": [
             "congress",
+            "permanently",
             "ban",
-            "automakers",
-            "china_entity",
-            "us_entity"
-          ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "India\u2019s June quarter GDP print is courting controversy. Here\u2019s why",
-      "description": "India's forecast-beating economic growth has come under scrutiny after a former government official claimed that the GDP print is overstated.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 24,
-      "why": "Investor confidence in India's economic data may decrease.",
-      "context": "India's latest GDP growth figures are facing scrutiny over accuracy.",
-      "next": "Further reviews of India's economic data methodology may occur.",
-      "bigger": "Trust in national economic statistics can influence investment.",
-      "publishedAt": "2026-09-04T05:52:15+00:00",
-      "topicFingerprint": [
-        "growth",
-        "gdp",
-        "quarter",
-        "india",
-        "former"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-      "description": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Your job security and hiring prospects may remain uncertain.",
-      "context": "The August jobs report is expected to show modest job growth.",
-      "next": "Central banks will likely continue monitoring labor market data.",
-      "bigger": "Economic health dictates labor market stability and policy decisions.",
-      "publishedAt": "2026-09-03T19:38:09+00:00",
-      "topicFingerprint": [
-        "rate",
-        "fed",
-        "hike",
-        "month",
-        "interest"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Argentina's Milei escalates Falklands dispute with UK and vows oil sanctions",
-      "description": "Argentine President Javier Milei escalates the Falklands dispute with the UK, vowing oil sanctions and increased defense resources in the country's south.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/f6d00d3c-bac3-456c-bb22-7446d637c525.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Regional geopolitical tensions and resource conflicts are rising.",
-      "context": "Argentina's President Milei escalated the Falklands dispute with the UK.",
-      "next": "Diplomatic relations between Argentina and the UK may worsen.",
-      "bigger": "Historical territorial disputes continue to fuel modern conflicts.",
-      "publishedAt": "2026-09-04T04:14:09+00:00",
-      "topicFingerprint": [
-        "javier",
-        "milei",
-        "oil",
-        "falklands",
-        "argentina"
-      ],
-      "alternates": [
-        {
-          "title": "Milei escalates Argentina\u2019s Falklands dispute with UK as Trump hints at US policy shift",
-          "description": "Argentine President Javier Milei escalated his country\u2019s dispute with Britain over the Falkland Islands on Thursday, vowing new measures to halt an oil project near the British-controlled archipelago and praising US President Donald Trump for saying Washington could reconsider its neutral stance on ",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/americas/article/3366309/milei-escalates-argentinas-falklands-dispute-uk-trump-hints-us-policy-shift",
-          "category": "Policy",
-          "publishedAt": "2026-09-04T04:09:11+00:00",
-          "score": 15,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "javier",
-            "milei",
-            "oil",
-            "falklands",
-            "argentina"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Milei vows tougher sanctions, defense push over Falklands oil drilling",
-          "description": "BUENOS AIRES, Sept 3 - Argentine President Javier Milei said on Thursday he would tighten sanctions on companies involved in oil projects around the Falkland Islands, boost defense resources in the country's south and send Congress a bill aimed at strengthening Argentina's response to what he called",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-04T09:56:28+08:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "javier",
-            "milei",
-            "oil",
-            "falklands",
-            "argentina"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
-          "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
-          "category": "General",
-          "publishedAt": "2026-09-04T01:30:29-04:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "javier",
-            "milei",
-            "oil",
-            "falklands",
-            "argentina"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
-          "description": "Argentine President Javier Milei is escalating his country s dispute with Britain over the Falkland Islands",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/argentinas-milei-escalates-falklands-dispute-seizing-trump-comments-136186158",
-          "category": "General",
-          "publishedAt": "2026-09-04T02:34:14-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "javier",
-            "milei",
-            "oil",
-            "falklands",
-            "argentina"
+            "cars",
+            "automakers"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "US wants foreign warships for its navy. Japan is hoping to be picked",
-      "description": "Japan\u2019s Mogami-class warship is turning out to be a hot item among global navies. Australia is buying 11, New Zealand is considering putting in an order \u2013 and now, even the United States is showing interest. According to a US Naval Institute report published on Tuesday, government and naval planners",
+      "title": "Chinese team extracts uranium from seawater at 8 times the US target rate",
+      "description": "Chinese researchers have found a way to extract uranium from seawater at several times the target rate set by the US Department of Energy, putting China at the forefront of a global quest to tap into a vast source of nuclear fuel. The team from the Chinese Academy of Sciences in Qingdao did this usi",
       "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/economics/article/3366257/us-wants-foreign-warships-its-navy-japan-hoping-be-picked",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Global defense industries may see increased international collaboration.",
-      "context": "The US Navy is considering buying warships from foreign nations.",
-      "next": "More countries may seek to procure defense technology internationally.",
-      "bigger": "Shifting security needs drive new defense procurement strategies.",
-      "publishedAt": "2026-09-04T02:30:05+00:00",
-      "topicFingerprint": [
-        "hoping",
-        "warships",
-        "japan",
-        "picked",
-        "foreign"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing \u2018geopolitical unrest\u2019",
-      "description": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a \u2018crisis situation\u2019 The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing \u201cincreasing geopolitical unrest\u201d. De Nederl",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Central banks are adjusting asset locations due to geopolitical risk.",
-      "context": "The Dutch central bank moved 86 tonnes of gold to the UK.",
-      "next": "Other central banks may review their gold reserve locations.",
-      "bigger": "Geopolitical risks increasingly influence national financial strategy.",
-      "publishedAt": "2026-09-02T23:47:15+00:00",
-      "topicFingerprint": [
-        "geopolitical",
-        "gold",
-        "uk_entity",
-        "unrest",
-        "tonnes"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US continues to squeeze Cuban economy with new round of sanctions",
-      "description": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Cuban citizens may face greater economic hardship and fewer goods.",
-      "context": "The US imposed new economic sanctions on Cuba.",
-      "next": "Cuba will likely continue to implement pro-market reforms.",
-      "bigger": "Geopolitical rivalries often impact civilian economies severely.",
-      "publishedAt": "2026-09-04T01:45:56+00:00",
-      "topicFingerprint": [
-        "cuban",
-        "continues",
-        "squeeze",
-        "round",
-        "sanctions"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "ICC leaders condemn efforts to erode international legal order",
-      "description": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Global legal frameworks for accountability are facing challenges.",
-      "context": "ICC leaders condemned actions aimed at weakening international law.",
-      "next": "Support for international justice institutions may fluctuate.",
-      "bigger": "International norms and institutions face increasing political pressure.",
-      "publishedAt": "2026-09-04T01:51:34+00:00",
-      "topicFingerprint": [
-        "erode",
-        "order",
-        "legal",
-        "efforts",
-        "icc"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why Nepal floods should worry India",
-      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Regional communities face increased risks from shared climate disasters.",
-      "context": "Nepal experienced severe floods, raising concerns for India.",
-      "next": "India and Nepal may enhance collaboration on disaster preparedness.",
-      "bigger": "Climate change intensifies cross-border environmental challenges.",
-      "publishedAt": "2026-09-03T00:58:44+00:00",
-      "topicFingerprint": [
-        "india",
-        "floods",
-        "nepal",
-        "worry"
-      ],
-      "alternates": []
-    }
-  ],
-  "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, OpenAI has just unveiled its advanced new AI model, GPT-6 Astra. This release comes amid rising scrutiny and safety concerns, meaning the AI tools you use could become more powerful, but also face stricter regulations.\n\nMeanwhile, the United Nations has issued a stark warning about a \"supersized\" El Ni\u00f1o weather phenomenon. It's expected to deliver a massive blow to the global economy, potentially affecting your food prices and availability due to widespread weather changes.\n\nSwitching to geopolitics, China's President Xi Jinping has made his first visit to Egypt in a decade. This signals a shifting landscape in Middle Eastern alliances, showing how global power dynamics are realigning with new partnerships.\n\nNext, US automakers are pushing for a permanent ban on Chinese cars and their connected technology, citing significant security risks. If successful, this could limit your options for more affordable electric vehicles.\n\nMoving on, India's latest GDP growth figures for the June quarter are facing significant controversy, with questions raised about their accuracy. This scrutiny could decrease investor confidence in India's economic data, affecting future investments.\n\nThe big August jobs report is due out this Friday, following what's been called a jobless summer. Experts expect only modest job growth, meaning your job security and hiring prospects might remain uncertain.\n\nIn South America, Argentina's President Milei has escalated the Falklands dispute with the United Kingdom, even vowing oil sanctions. This raises concerns about rising regional geopolitical tensions and potential conflicts over natural resources.\n\nElsewhere, the US Navy is exploring the possibility of buying warships from foreign nations, with Japan reportedly hoping to be chosen. This move could signal increased international collaboration within global defense industries.\n\nIn a significant financial move, the Dutch central bank has transferred 86 tonnes of gold from the US and Canada to the UK, citing 'geopolitical unrest.' This highlights how central banks are adjusting asset locations in response to global risks.\n\nThe US continues to put pressure on the Cuban economy, imposing a new round of sanctions. This action will likely lead to greater economic hardship for Cuban citizens, reducing the availability of essential goods and impacting daily life.\n\nLeaders of the International Criminal Court have condemned efforts aimed at eroding the international legal order. They warn that global legal frameworks for accountability are facing serious challenges, reflecting growing political pressure on institutions.\n\nAnd finally, in the news, Nepal has experienced severe floods, which are now raising significant concerns for India. This highlights how regional communities face increased risks from shared climate disasters, intensifying cross-border environmental challenges.\n\nAnd finally, a thought to consider. Have you ever considered that you never actually touch anything? That feeling of solid contact is an illusion. Your atoms never truly meet the atoms of what you're touching. Instead, an invisible electromagnetic force simply pushes them apart. What you feel is that repulsion. So, your entire world is, in a sense, held together by these invisible pushes.\n\nThat's your Sift Daily Briefing for today. We'll be back tomorrow.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 183
-  },
-  "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we go beyond the headlines, taking the time to truly understand the stories shaping our world.\n\nFirst up today, we\u2019re looking at artificial intelligence. OpenAI has just unveiled its newest advanced AI model, GPT-6 Astra. This release comes amid escalating safety and ethical concerns within the AI community. The fundamental mechanism here is that as AI models become more powerful and sophisticated, like the GPT-6 Astra that OpenAI claims is their most advanced yet, they gain capabilities that can be both beneficial and potentially problematic. This rapid advancement raises critical questions about how these tools might be used, the biases they could perpetuate, or the amount of human oversight they require. Regulators and ethicists are grappling with how to ensure these powerful systems are developed responsibly. This new model release intensifies that tension between the drive for innovation and the necessity for robust safety measures, suggesting that ongoing public and policy debates around AI are only set to become more urgent in the months ahead. Your experience with AI tools, from chatbots to creative assistants, may become both more potent and more subject to new restrictions.\n\nMeanwhile, a major climate story. The United Nations has issued a stark warning that a \"supersized\" El Ni\u00f1o weather phenomenon is set to deliver a massive blow to the global economy. El Ni\u00f1o is a natural climate pattern characterized by the warming of ocean surface temperatures in the central and eastern tropical Pacific, which then disrupts global weather patterns. A \"supersized\" event means these disruptions are far more intense. The source snippet specifically mentions UK cider producers already feeling the impact of drought. The mechanism at play is that El Ni\u00f1o drastically alters rainfall and temperature across different regions of the world, leading to severe droughts in some areas, while others face extreme flooding. These shifts directly impact agricultural output. Reduced crop yields for staples like grains, or specialized products such as apples for cider, lead to decreased supply. This scarcity drives up commodity prices globally, ultimately translating into higher food costs and reduced availability for consumers everywhere. While El Ni\u00f1o is a natural cycle, climate change is intensifying these events, making them more frequent and severe, thereby increasing global economic risks and threatening food security worldwide.\n\nSwitching to geopolitics, China's President Xi Jinping has visited Egypt for the first time in a decade. This rare visit, happening specifically during the ongoing Iran war, signals a significant diplomatic play. Egypt is a pivotal nation in the Middle East, traditionally a strong U.S. ally, and holds immense strategic importance due to its geography and influence. The underlying mechanism is China's expanding global influence and its strategy to build alternative partnerships, particularly in regions where traditional alliances are under pressure. By engaging with U.S. allies like Egypt, especially after a ten-year gap, China positions itself as a growing diplomatic and economic partner, potentially offering investment and trade without the political conditionalities often associated with Western powers. The visit itself is a concrete manifestation of China's intent to broaden its security and economic ties, leveraging regional instability, such as the Iran war, to foster new relationships. This move indicates a continuous realignment of global power dynamics, as major nations like China seek to strengthen their footprint in key strategic areas.\n\nNext, U.S. automakers are seeking a permanent ban on Chinese cars and their connected technologies, citing both economic and national security risks. The core of this concern lies in the rapid rise of Chinese electric vehicles, which are quickly gaining global market share, often at lower price points. The mechanism behind the automakers' request is a dual one. Economically, they fear direct competition from more affordable and technologically advanced Chinese EVs could severely undercut the U.S. domestic industry, leading to job losses and reduced profitability. From a national security perspective, modern \"connected-car\" vehicles are essentially sophisticated data-gathering devices. They collect vast amounts of information on driver behavior, location, and even personal communications within the car. The fear is that if Chinese software or hardware is embedded in these vehicles, this sensitive data could be accessed by the Chinese government, posing espionage risks. Furthermore, there's a hypothetical concern that a foreign power could potentially remotely disable or disrupt a fleet of vehicles in a crisis. This request to Congress highlights intensifying global trade competition, now driven increasingly by cybersecurity and national security concerns, and if approved, could significantly limit consumer options for electric vehicles in the U.S. market.\n\nMoving to economics, India\u2019s June quarter GDP print is courting controversy, with its forecast-beating economic growth coming under scrutiny. This follows a claim by a former government official that the GDP figures are \"overstated.\" The underlying mechanism here revolves entirely around trust in official statistics. GDP, or Gross Domestic Product, is a complex measure of a nation's economic output, compiled from various data points across different sectors. When an official, especially one with past government experience, alleges that these figures are inflated, it introduces significant doubt about the methodology and transparency of the data. Investors, both domestic and international, rely heavily on accurate and credible economic statistics to make informed decisions about where to allocate capital. If confidence in India's economic data decreases, it makes the country a less attractive destination for investment, as perceived risks increase. This can directly impact foreign direct investment, stock market performance, and the overall pace of economic development. The controversy will likely necessitate a thorough review of India's economic data collection and reporting to restore credibility in the eyes of global markets.\n\nWe're also looking ahead to the August jobs report due out this Friday. Expectations are for nonfarm payrolls to show a modest increase of around 53,000 jobs, signaling what's being described as a \"subdued labor market.\" The mechanism here ties directly into the broader economic landscape and central bank policy. The U.S. Federal Reserve closely monitors labor market data as a key indicator of economic health and inflationary pressures. Modest job growth, especially after what's been termed a \"jobless summer,\" suggests that the economy is cooling down. A subdued labor market, if accompanied by easing wage growth, can indicate that the Fed\u2019s previous interest rate hikes are effectively slowing demand and helping to bring down inflation. Conversely, if the market becomes too weak, it raises concerns about a potential recession. So, this report will be a crucial signal for the Fed, influencing their decisions on future interest rates. For you, this translates into potential uncertainty regarding job security, hiring prospects, and overall wage growth in the coming months.\n\nTurning to international disputes, Argentina's President Javier Milei has escalated the Falklands dispute with the UK, vowing \"oil sanctions\" and an increase in \"defense resources in the country's south.\" The Falkland Islands, known in Argentina as the Malvinas, have been a source of contention and conflict between the two nations for decades, notably in the 1982 war. Milei's actions represent a deliberate and concrete increase in pressure. The waters surrounding the islands are believed to hold significant oil and gas reserves. Argentina's threat of oil sanctions would aim to deter any companies involved in exploration or extraction under UK license, using economic leverage to assert its sovereignty claim. Furthermore, boosting defense resources in the region is a clear signal of a more assertive, potentially confrontational, military posture, even if it's currently rhetorical. This mechanism directly exacerbates diplomatic relations between Argentina and the UK, raising the specter of further economic countermeasures or increased military presence from the UK. The dispute illustrates how deeply rooted historical territorial claims continue to fuel modern conflicts and resource competition.\n\nIn defense news, the U.S. Navy is now considering buying warships from foreign nations, with Japan's Mogami-class warship being highlighted as a potential candidate. This marks a notable departure from the U.S. Navy's traditional reliance on domestic shipbuilding. The underlying mechanism for this shift lies in a combination of factors, including evolving security needs, industrial capacity, and cost-efficiency. The U.S. Naval Institute report suggests that government and naval planners are recognizing that certain foreign-built vessels, like the Mogami-class, which is also being acquired by Australia and considered by New Zealand, offer compelling capabilities, potentially faster delivery times, or better cost-effectiveness compared to purely domestic designs. Procuring foreign warships could allow the U.S. to modernize its fleet more rapidly, fill specific capability gaps, or free up domestic shipyards for more specialized projects. This move not only signifies increased international collaboration within the defense industry but also points to a broader trend where nations are looking beyond their own borders for advanced defense technology, driven by shifting security requirements and budgetary considerations.\n\nMoving to global finance, the Dutch central bank has moved 86 tonnes of its gold reserves from the U.S. and Canada to the UK, explicitly citing \"increasing geopolitical unrest.\" Central banks hold gold as a strategic reserve asset, valued for its stability during times of economic or political uncertainty. Traditionally, many countries store their gold in major financial centers abroad for security and ease of market access. The \"Dutch central bank's\" decision to move \"86 tonnes\" of this gold is a deliberate strategic adjustment. The mechanism they articulate is based on liquidity and rapid response: the bank states that gold held in London \"could be traded more easily\" and would allow them \"to respond more rapidly in a \u2018crisis situation\u2019.\" This suggests a concern that in an era of heightened geopolitical instability, accessing or transacting gold reserves held in some locations might become more complicated due to potential sanctions, political blockages, or logistical challenges. London, as a major global gold trading hub, offers superior liquidity and transactional flexibility. This move reflects a proactive strategy by a central bank to de-risk its strategic assets and underscores how escalating geopolitical risks are increasingly influencing national financial strategies, potentially prompting other nations to review their own reserve locations.\n\nMeanwhile, the U.S. continues to squeeze the Cuban economy with a new round of sanctions. This action is part of a long-standing policy of economic pressure against the island nation. The core mechanism of these sanctions is to limit Cuba's ability to engage in international trade, attract foreign investment, and access hard currency. These restrictions directly impact the Cuban government's capacity to fund public services and provide essential goods for its citizens. For instance, sanctions can hinder the import of food, medicine, and industrial components, or restrict tourism and remittances from abroad. The source snippet mentions that \"Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.\" While the military threats are a separate dimension, the economic pressure from sanctions forces the Cuban government to seek internal solutions. \"Pro-market reforms\" are an attempt to stimulate domestic production and create alternative income streams by allowing more private enterprise and foreign investment. However, the direct consequence for \"Cuban citizens\" remains significant, often leading to greater economic hardship and fewer available goods, illustrating how geopolitical rivalries can severely impact civilian economies.\n\nIn the realm of international law, leaders of the International Criminal Court, or ICC, have condemned efforts to erode the international legal order. The ICC exists to prosecute individuals for the gravest international crimes, such as genocide, war crimes, and crimes against humanity, relying on cooperation from member states to carry out its mandate. The \"efforts to isolate the International Criminal Court\" that its leaders are condemning aim to weaken its authority and effectiveness. The mechanism here is that when powerful nations or influential actors either refuse to cooperate with the ICC, actively sanction its officials, or withdraw their support, it directly undermines the court's ability to investigate and prosecute these severe crimes. This is particularly impactful when those actors are themselves under scrutiny or seeking to protect allies from international justice. By diminishing the ICC's power, these actions threaten the \"global rule of law\"\u2014the principle that all individuals, regardless of their position, are accountable under international law. Such erosion makes it harder to achieve justice for victims and potentially emboldens those who would commit atrocities, challenging the foundations of international norms and institutions established to prevent them.\n\nAnd finally, a climate concern with cross-border implications. Nepal has experienced severe floods, which should raise significant worry for India. Nepal, situated in the Himalayas, is highly vulnerable to the escalating impacts of climate change, including more intense and erratic rainfall, alongside accelerated glacial melt. The fundamental mechanism for India's concern is the geographical and hydrological interconnectedness of the region. Many of India's major river systems, which are crucial for agriculture and drinking water in the northern plains, originate in the Himalayas and flow through Nepal before entering India. When Nepal experiences \"severe floods,\" the massive volumes of water rush downstream, overwhelming these river systems within India. This directly leads to widespread flooding, displacement of communities, destruction of crops, and loss of life in Indian states like Bihar and Uttar Pradesh. The source snippet's warning that \"climate change raises shared Himalayan risks\" underscores that these environmental impacts do not respect national borders. Therefore, a disaster in Nepal has immediate, direct, and often devastating consequences for India, making enhanced collaboration on disaster preparedness and water management strategies between the two nations an urgent imperative.\n\nToday\u2019s reflective insight invites us to consider a fascinating scientific truth: You Never Actually Touch Anything. That familiar feeling of solid contact, say when your hand rests on a table, is, in fact, an illusion created by forces you can't see.\n\nWhen we perceive that we are \"touching\" something, our atoms never truly make physical contact with the atoms of the object. Instead, an invisible, powerful force keeps them infinitesimally apart. What you are actually feeling is the pushback of electric repulsion.\n\nThis happens because all matter is composed of atoms, and each atom has electron clouds orbiting its nucleus. These electron clouds carry a negative charge. When two objects draw near to each other, the negatively charged electron clouds on their outermost layers strongly repel one another, preventing the atoms from ever quite meeting.\n\nIt is this fundamental electromagnetic force that gives objects their solidity. It\u2019s why your hand doesn't simply pass through a table, or why you can push against a wall. Your brain interprets this powerful resistance, this unseen repulsion, as the sensation of touch. It\u2019s a profound thought: your entire world, the firmness of the ground beneath your feet, the solidity of objects you hold, is ultimately held together and perceived through a dance of invisible pushes. It makes you wonder what other fundamental aspects of our reality are, in fact, sophisticated interpretations of forces we cannot directly perceive.\n\nAs you move through your day, perhaps consider those invisible forces at play all around you. Thank you for choosing Sift for your in-depth understanding. Take good care, and we'll speak again soon.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 857
-  },
-  "candidatePool": [
-    {
-      "title": "STAT+: OpenEvidence launches new family of AI models",
-      "description": "In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more.",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Healthcare providers may gain new tools for diagnostics and treatment.",
-      "context": "OpenEvidence launched a new family of AI models for health tech.",
-      "next": "More specialized AI applications will emerge in healthcare.",
-      "bigger": "AI is rapidly transforming medical research and clinical practice.",
-      "publishedAt": "2026-09-03T13:18:32+00:00",
-      "topicFingerprint": [
-        "pilot",
-        "ai_group",
-        "tempo",
-        "stat",
-        "fda"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Microsoft\u00a0reveals Azure cloud sales in financial reporting shift",
-      "description": "Its sales place Microsoft behind Amazon, but ahead of Google",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/microsoft-reveals-azure-cloud-sales-financial-reporting-shift",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Cloud service providers will face intensified competition for market share.",
-      "context": "Microsoft revealed its Azure cloud sales with new reporting.",
-      "next": "Tech companies may adjust their cloud market strategies.",
-      "bigger": "The cloud computing market sees ongoing strong growth and competition.",
-      "publishedAt": "2026-09-02T22:40:38+00:00",
-      "topicFingerprint": [
-        "sales",
-        "shift",
-        "reporting",
-        "cloud",
-        "financial"
-      ],
-      "alternates": [
-        {
-          "title": "Microsoft reveals Azure cloud sales in financial reporting shift",
-          "description": "Its Azure sales trail Amazon\u2019s US$42.2b quarterly cloud sales but exceed Google\u2019s US$24.8b in the same period.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/microsoft-reveals-azure-cloud-sales-in-financial-reporting-shift",
-          "category": "Financial",
-          "publishedAt": "2026-09-03T07:50:00+08:00",
-          "score": 15,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "sales",
-            "shift",
-            "reporting",
-            "cloud",
-            "financial"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Pentagon temporarily rescinds guidance on testosterone screening for US troops",
-      "description": "WASHINGTON, Sept 3 - The Pentagon is temporarily rescinding recently published clinical guidance for a new, mandatory testosterone deficiency screening policy for service members aged 30 and older, a U.S. official told Reuters on Thursday.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/pentagon-temporarily-rescinds-guidance-on-testosterone-screening-for-us-troops",
-      "category": "Geopolitics",
+      "url": "https://www.scmp.com/news/china/science/article/3366307/chinese-team-extracts-uranium-seawater-8-times-us-target-rate",
+      "category": "Science",
       "readingTime": 2,
       "score": 11,
-      "why": "US service members will not undergo mandatory testosterone screenings yet.",
-      "context": "The Pentagon temporarily withdrew new testosterone screening guidance for troops.",
-      "next": "The Pentagon will likely revise and reintroduce the policy later.",
-      "bigger": "Military healthcare policies adapt to evolving medical understanding.",
-      "publishedAt": "2026-09-04T00:31:26+08:00",
+      "why": "Access to nuclear fuel sources may expand.",
+      "context": "Chinese scientists developed a method to extract uranium from seawater. They achieved 8 times the U.S. target rate.",
+      "next": "Other countries will likely accelerate their own research efforts.",
+      "bigger": "Nations are competing for control over critical energy resources.",
+      "publishedAt": "2026-09-04T14:00:08+00:00",
       "topicFingerprint": [
-        "troops",
-        "rescinds",
-        "mandatory",
-        "deficiency",
-        "aged"
+        "extracts",
+        "rate",
+        "times",
+        "seawater",
+        "team"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Yen surges and US dollar slumps amid shifting rate bets and carry trade exodus",
+      "description": "The Japanese yen surged and the US dollar slumped amid shifting rate bets and a carry trade exodus, marking the yen's strongest week since July.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/f33e5758-eeee-40af-b366-c78deb31e52c.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Importing Japanese goods may become costlier.",
+      "context": "The Japanese yen surged significantly while the U.S. dollar slumped. This happened due to shifting interest rate expectations.",
+      "next": "Currency markets may remain volatile with further shifts possible.",
+      "bigger": "Global currency values are sensitive to interest rate expectations.",
+      "publishedAt": "2026-09-05T01:22:43+00:00",
+      "topicFingerprint": [
+        "carry",
+        "bets",
+        "rate",
+        "slumps",
+        "yen"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Private equity faces existential crisis in US as unsold companies pile up",
+      "description": "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts\u2019 concerns of collapse are growing Retail stalwarts Saks and Eddie Bauer filed for bankruptcy. Kmart and JoAnn Fabrics are gone for good, a trail of layoffs and di",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Jobs at private equity-owned firms may become less secure.",
+      "context": "Private equity firms in the U.S. face a crisis. Unsold companies are piling up, raising collapse concerns.",
+      "next": "Private equity firms may restructure or sell assets quickly.",
+      "bigger": "High interest rates are challenging financial markets.",
+      "publishedAt": "2026-09-04T10:00:04+00:00",
+      "topicFingerprint": [
+        "faces",
+        "unsold",
+        "equity",
+        "pile",
+        "crisis"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Microsoft tells court Copilot rarely copies books while selling OpenAI\u2019s most capable model",
+      "description": "Microsoft moved for summary judgment in the New York AI copyright litigation on 4 September, arguing Copilot reproduced book passages 24 times in 8.2 million conversations. Two days earlier it began selling GPT-6 Astra through Foundry, a model OpenAI rates Critical for cybersecurity, and European la",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/microsoft-copilot-fair-use-brief-gpt-6-astra-foundry-eu-ai-act-article-55-systemic-risk-data-zone",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 15,
+      "why": "AI tools may face stricter content usage rules.",
+      "context": "Microsoft argued in court that Copilot rarely copies copyrighted books. This is part of an ongoing AI copyright lawsuit.",
+      "next": "The court will rule on the copyright implications for AI models.",
+      "bigger": "Legal frameworks are struggling to adapt to AI content creation.",
+      "publishedAt": "2026-09-04T18:45:01+00:00",
+      "topicFingerprint": [
+        "openai",
+        "ai_group",
+        "agents",
+        "astra",
+        "model"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Nepal flood disaster puts climate justice under spotlight",
+      "description": "The devastating Himalayan glacial floods have raised broader questions about who should bear the costs and responsibility for the impacts of climate-related disasters.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/nepal-flood-disaster-puts-climate-justice-under-spotlight/a-78998617",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Global funding for climate disaster recovery may increase.",
+      "context": "Devastating glacial floods in Nepal caused a disaster. This sparked debate over climate justice and disaster costs.",
+      "next": "International discussions on climate aid and responsibility will intensify.",
+      "bigger": "Climate change is creating more frequent and severe disasters globally.",
+      "publishedAt": "2026-09-04T13:59:00+00:00",
+      "topicFingerprint": [
+        "nepal",
+        "floods",
+        "flood",
+        "flash",
+        "catastrophic"
       ],
       "alternates": [
         {
-          "title": "Pentagon rolls out and rescinds mandatory testosterone screening for US troops",
-          "description": "The Pentagon has temporarily rescinded mandatory testosterone deficiency screening guidance for active-duty and reserve service members aged 30 and older.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/e9af9326-0c4a-481c-ad31-8c027d17d689.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-03T22:13:14+00:00",
+          "title": "Nepal wants climate compensation, putting major emitters on the hook",
+          "description": "Following the catastrophic glacial collapse and flash flood on August 26, Nepal is demanding climate compensation from the world\u2019s biggest emitters; by shifting the framework from charity to liability, the small Himalayan country has turned a devastating tragedy into a global test of climate justice",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/nepal-wants-climate-compensation-putting-major-emitters-on-the-hook/article71428646.ece",
+          "category": "Environment",
+          "publishedAt": "2026-09-05T02:11:48+05:30",
           "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "troops",
-            "rescinds",
-            "mandatory",
-            "deficiency",
-            "aged"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "New Pentagon guidelines temporarily rescind testosterone screening for US Army troops: Report",
-          "description": "Pentagon temporarily rescinds new mandatory testosterone deficiency screening guidance for troops aged 30+, saying updates are needed.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/new-pentagon-guidelines-temporarily-rescind-testosterone-screening-for-us-army-troops-report-101788453466344.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-03T22:15:36+05:30",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "troops",
-            "rescinds",
-            "mandatory",
-            "deficiency",
-            "aged"
+            "nepal",
+            "floods",
+            "flood",
+            "flash",
+            "catastrophic"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "PayPal cuts 220 India jobs as part of previously announced restructuring plan",
-      "description": "PayPal has set a target of achieving US$400 million in cost savings by year-end",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/paypal-cuts-220-india-jobs-part-previously-announced-restructuring-plan",
-      "category": "General",
+      "title": "Cyclosporiasis\u00a0outbreak exposes a weakened US\u00a0public health system",
+      "description": "YPSILANTI, Michigan, Sept 4 - During the height of the summer outbreak of cyclosporiasis, Dea Lancaster set aside her usual duties as nurse coordinator at Michigan's Washtenaw County Health Department to call patients, asking about their symptoms and tracing the contaminated food they ate.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/cyclosporiasis-outbreak-exposes-a-weakened-us-public-health-system",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Local public health services may face future strain.",
+      "context": "A cyclosporiasis outbreak in the U.S. revealed a weakened public health system. Health departments struggled during the summer.",
+      "next": "Public health systems may receive increased funding or scrutiny.",
+      "bigger": "Underfunding of public health systems creates vulnerability.",
+      "publishedAt": "2026-09-04T18:46:43+08:00",
+      "topicFingerprint": [
+        "weakened",
+        "exposes",
+        "us_entitypublic",
+        "system",
+        "cyclosporiasisoutbreak"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "\u2018To challenge deadly blockade\u2019: New flotilla mission sets sail for Gaza",
+      "description": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel s deadly Gaza blockade.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 10,
-      "why": "Job opportunities in India's tech sector may become scarcer.",
-      "context": "PayPal eliminated 220 jobs in India as part of restructuring.",
-      "next": "Tech companies may continue cost-cutting measures globally.",
-      "bigger": "Corporate restructuring impacts regional employment markets.",
-      "publishedAt": "2026-09-03T15:28:00+00:00",
+      "why": "Humanitarian aid access to Gaza remains highly restricted.",
+      "context": "A new flotilla mission has sailed towards Gaza. Human rights advocates seek to challenge the blockade.",
+      "next": "International pressure on the Gaza blockade will likely increase.",
+      "bigger": "Geopolitical blockades hinder humanitarian relief efforts.",
+      "publishedAt": "2026-09-05T02:43:23+00:00",
       "topicFingerprint": [
-        "paypal",
-        "previously",
+        "sets",
+        "sail",
+        "flotilla",
+        "gaza",
+        "blockade"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
+      "description": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla\u2019s new self-driving car.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Driverless taxi deployment may face delays or restrictions.",
+      "context": "U.S. regulators launched a safety investigation into Tesla's driverless taxis. Tesla recently deployed the self-driving vehicles.",
+      "next": "Tesla's self-driving technology will undergo intense scrutiny.",
+      "bigger": "Regulators are grappling with rapidly advancing AI autonomy.",
+      "publishedAt": "2026-09-04T21:27:26+00:00",
+      "topicFingerprint": [
+        "tesla",
+        "investigation",
+        "self",
+        "cybercab",
+        "safety"
+      ],
+      "alternates": [
+        {
+          "title": "U.S. ends probe into Tesla remote driving feature after software updates",
+          "description": "The NHTSA last year opened an investigation into 2.9 \u2060million vehicles equipped with its Full Self-Driving system over more than 50 \u2060reports of traffic-safety violations and a series of crashes",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/us-ends-probe-into-tesla-remote-driving-feature-after-software-updates/article70832780.ece",
+          "category": "Technology",
+          "publishedAt": "2026-09-04T11:36:15+05:30",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "tesla",
+            "investigation",
+            "self",
+            "cybercab",
+            "safety"
+          ],
+          "group_id": 0
+        }
+      ]
+    }
+  ],
+  "audioBrief": {
+    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, the American job market is showing surprising resilience in the face of persistent inflation. Employers added more jobs than expected last month, keeping the unemployment rate steady at just over four percent. For everyday workers, that means finding new employment should remain relatively steady, even as the broader economy navigates mixed signals.\n\nMeanwhile, diplomatic efforts around the war in Ukraine are seeing renewed momentum. Peace envoys representing Donald Trump are scheduled to visit both Moscow and Kyiv over the coming days, hoping to revive talks that have long been stalled. While any resolution remains uncertain, the visits highlight how fragile and complex the diplomatic path ahead will be.\n\nNext, Nvidia is cementing its position as the central engine of the tech landscape. The chipmaker has dramatically expanded its equity holdings in emerging artificial intelligence companies, with total investments now reaching ninety-nine billion dollars. For consumers, this massive wave of backing means next-generation AI tools may reach everyday devices much sooner.\n\nSwitching to the automotive world, American car manufacturers are pushing the government for a permanent ban on Chinese connected vehicles. Domestic automakers point to serious national security and economic risks tied to the onboard software. If federal regulators agree, it could keep your future vehicle choices narrower, even as global competition heats up.\n\nIn the energy sector, researchers in China say they have developed a breakthrough method to extract uranium directly from seawater. The team achieved an extraction rate eight times higher than the target set by the United States. If the technology scales, it could dramatically broaden access to nuclear fuel and reshape global energy competition.\n\nOn the financial markets, the Japanese yen has surged rapidly against a falling U.S. dollar. The shift was driven by changing interest rate expectations and a sudden unwind of popular global currency trades. If this trend holds, importing Japanese goods or traveling overseas could soon become noticeably more expensive.\n\nAt the same time, American private equity firms are confronting a quiet crisis of their own. With high borrowing costs stalling deals, a massive backlog of unsold companies has piled up on firm balance sheets. For anyone employed by a company owned by private equity, the pressure could bring fresh uncertainty to the workplace.\n\nIn legal news, Microsoft defended its Copilot tool in court, arguing that the assistant rarely generates direct copies of copyrighted books. The defense comes amid growing lawsuits over how tech giants train their most capable systems. The final outcome could establish strict new boundaries for how AI software learns from creative work.\n\nTurning abroad, catastrophic glacial floods in Nepal have ignited an urgent conversation about climate justice. The destruction has put a spotlight on who should bear the mounting costs of rebuilding in vulnerable communities. The tragedy is expected to push global leaders to consider larger recovery funds for regions hit hardest by extreme weather.\n\nBack at home, a summer outbreak of the foodborne illness cyclosporiasis has revealed vulnerabilities in the nation's public health infrastructure. Underfunded local health departments struggled to quickly track and manage the cases over the summer months. It is a quiet reminder that local services may face growing strain during future health alerts.\n\nIn the Middle East, a new humanitarian flotilla has set sail in an attempt to reach Gaza. Human rights advocates on board hope to challenge the naval blockade and deliver vital relief supplies. The voyage highlights the immense challenges aid organizations still face in reaching civilians on the ground.\n\nAnd finally, federal safety regulators have opened an investigation into Tesla's driverless taxis. The probe was launched just as the company began deploying the autonomous vehicles on public streets. Depending on what investigators find, the rollout of fully self-driving taxi services could see fresh restrictions or delays.\n\nBefore we leave you, here is a quiet thought to carry through your day.\n\nNotice the way you make your tea, a peculiar phrase you use, or how you hold a book. Without noticing, you quietly preserve tiny rituals gifted by people from your past. When we connect deeply with someone, we absorb their cadence, their laughter, and the gentle ways they learned to move through the world. Even when distances grow and years pass, those small details linger. Long after conversations end, their presence survives, woven naturally into who you are. You carry pieces of everyone you have ever loved.\n\nThat is your Sift Daily Briefing for today. Have a peaceful day.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
+    "estimatedDurationSeconds": 226
+  },
+  "audioBriefIndepth": {
+    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly understand the stories shaping our world, moving beyond the headlines to explore the mechanisms and deeper implications.\n\nFirst up today, we're looking at the surprising resilience of the U.S. job market. The job market delivered a significant rebound in August, adding 162,000 jobs, which was far more than economists had predicted. The unemployment rate also held steady at 4.1 percent, and the Labor Department even revised July numbers upward, indicating stronger growth than previously thought. This robust job growth and stable unemployment rate suggest that despite global pressures and inflation concerns, there's still a strong underlying demand for labor in the American economy. When businesses are hiring at this pace, it often signals confidence in future economic activity. For you, this means finding new work or advancing in your career may remain easier than anticipated. Looking ahead, this stronger-than-expected report comes just as the Federal Reserve is weighing its next moves on interest rates. A resilient job market could give the Fed more leeway to maintain or even adjust rates to cool inflation without immediately fearing a significant economic slowdown. Ultimately, the Fed's decision on interest rates will be a key indicator for how global economies balance the dual challenges of managing inflation and fostering growth.\n\nMeanwhile, we turn our attention to ongoing diplomatic efforts concerning the Russia-Ukraine conflict. Two individuals closely associated with former President Donald Trump, Steve Witkoff and Jared Kushner, are preparing to visit Moscow and Kyiv this weekend. These individuals have previously led President Trump's efforts to broker an end to the war, but those initial talks had stalled, highlighting the immense complexity of finding a resolution. Their upcoming visits signal a renewed attempt to open unofficial channels for negotiation. While the involvement of non-governmental envoys can sometimes offer flexibility that official channels lack, the fact that previous efforts by the same individuals have faltered underscores the deep-seated disagreements between the warring parties. The conflict's resolution remains highly uncertain, but these new diplomatic discussions, even informal ones, are always a focal point. This situation really highlights how geopolitical conflicts often require creative and multi-party diplomacy, involving both official state channels and, at times, less conventional approaches, as the global community searches for pathways to peace.\n\nNext, we shift our focus to the tech world and Nvidia's growing influence in artificial intelligence. Nvidia has significantly increased its investments in AI companies, with its equity holdings now totaling an impressive $99 billion. This isn't just about selling their powerful graphics processing units, or GPUs, which are crucial for AI computation. Instead, Nvidia is actively backing AI labs, cloud providers, and other infrastructure companies across the entire sector. By investing directly into these areas, Nvidia is effectively cementing its position as a major enabler and shaper of the AI ecosystem. This strategic move ensures broader adoption of its technology and helps steer the direction of AI innovation toward areas where its hardware excels. What this means for you is that more AI innovation may reach you sooner, as these investments will likely accelerate the development of new AI technologies and applications. On a larger scale, this exemplifies how major tech companies are not just competing for market share, but actively consolidating their power and influence in the rapidly evolving field of AI development.\n\nSwitching gears, U.S. automakers are advocating for a permanent ban on certain Chinese imports. Specifically, they are urging Congress to permanently ban Chinese vehicles, along with their connected-car software and hardware, citing significant economic and national security risks. This push comes as Chinese electric vehicles, or EVs, are rapidly gaining global market share, presenting a formidable competitive threat to established American manufacturers. The concern isn't solely about economic competition; U.S. automakers and government officials worry about potential vulnerabilities in connected-car technology, such as the possibility of data exfiltration or even remote manipulation of vehicles, posing a national security threat. If Congress decides to impose stricter import restrictions on cars, your vehicle choices in the future may become more limited, especially as Chinese manufacturers introduce more affordable and technologically advanced EV options. This situation underscores how geopolitical tensions are increasingly influencing global trade and technology policies, moving beyond traditional economic concerns to encompass broader national security considerations.\n\nAnd now, an intriguing development in energy security from China. Chinese researchers have reportedly found a novel way to extract uranium from seawater, achieving a rate that is eight times higher than the target set by the U.S. Department of Energy. A team from the Chinese Academy of Sciences in Qingdao developed this method. Uranium is a critical resource, essential for nuclear power generation and, controversially, for nuclear weapons. While seawater contains vast amounts of dissolved uranium, extracting it efficiently and economically has been a long-standing scientific challenge. This breakthrough, if scaled up, could significantly expand global access to nuclear fuel sources, reducing reliance on traditional land-based mining and potentially altering the energy landscape. This development puts China at the forefront of a global quest to tap into this immense resource, suggesting that other countries will now likely accelerate their own research efforts in this area. It also highlights the intensifying competition among nations for control over critical energy resources, with long-term implications for global power dynamics and energy independence.\n\nTurning to global finance, we've seen significant movement in currency markets recently. The Japanese yen has surged, marking its strongest week since July, while the U.S. dollar has slumped. This shift is primarily attributed to changing expectations around interest rates and what's known as a \"carry trade exodus.\" A carry trade is a strategy where investors borrow money in a currency with very low interest rates, like the yen has traditionally been, and then invest that money in a currency with higher interest rates, such as the dollar, to profit from the interest rate differential. However, when investors anticipate that the central bank of the low-interest currency might soon raise rates, or the central bank of the high-interest currency might cut them, they begin to unwind these positions. This \"exodus\" means they sell off their dollar holdings and buy back yen to repay their loans, causing the yen to strengthen rapidly and the dollar to weaken. For you, this currency movement could mean that importing Japanese goods may become costlier, while U.S. exports might become more attractive to Japanese buyers. Given the underlying shifts in interest rate expectations, currency markets may remain volatile with further fluctuations possible, reminding us how sensitive global currency values are to central bank policies and investor sentiment.\n\nMoving to the financial sector, private equity firms in the U.S. are reportedly facing an existential crisis. There's a growing pile-up of unsold companies within their portfolios, leading experts to raise concerns about potential collapses. Private equity firms typically acquire companies, often using significant amounts of borrowed money, with the intention of improving their operations and then selling them a few years later for a substantial profit. However, the current environment of high interest rates makes it more expensive for these firms to borrow, and it also makes it harder to find buyers for their portfolio companies, as potential acquirers also face higher borrowing costs. This creates a bottleneck, where companies bought years ago cannot be profitably exited. The consequences can be severe: companies owned by private equity, which collectively employ over 13 million people in sectors ranging from startups to rural hospitals and large retailers, are feeling the strain. We've already seen retail stalwarts like Saks and Eddie Bauer file for bankruptcy, while Kmart and JoAnn Fabrics have closed for good, leaving a trail of layoffs and disruptions. This situation suggests that jobs at private equity-owned firms may become less secure in the coming months, and private equity firms themselves may be forced to restructure or sell assets quickly, reflecting the broader challenges that high interest rates pose to financial markets.\n\nIn the ongoing debate around artificial intelligence and copyright, Microsoft has made a significant legal argument. In a New York AI copyright litigation case, Microsoft moved for summary judgment, asserting that its Copilot AI tool rarely copies copyrighted books. Specifically, the company argued that Copilot reproduced passages from books only 24 times across 8.2 million conversations. This legal maneuver is part of a broader, critical discussion about how AI models, which are trained on vast amounts of data including copyrighted material, should legally operate. The legal outcome here will determine the extent to which AI tools can use existing content without infringing on intellectual property rights. Interestingly, just two days before making this court argument, Microsoft began selling GPT-6 Astra through its Foundry service, a model that OpenAI itself rates as \"Critical\" for cybersecurity applications and European law compliance. This highlights the complex balancing act for Microsoft: defending its current AI offerings while simultaneously pushing the boundaries with new, more powerful models. The court's eventual ruling will have significant implications for the future of AI content creation, potentially leading to stricter content usage rules for AI tools and challenging legal frameworks to adapt to this rapidly advancing technology.\n\nOur next story takes us to Nepal, where devastating glacial floods in the Himalayas have brought the issue of climate justice into sharp focus. These floods have caused widespread disaster, raising profound questions about who should ultimately bear the costs and responsibility for the impacts of climate-related catastrophes. Countries like Nepal, despite contributing relatively little to global greenhouse gas emissions, are often among the most vulnerable to the severe consequences of climate change, such as these increasingly frequent and intense glacial floods. The concept of climate justice argues that wealthier, industrialized nations, which have historically been the largest emitters, have a moral and financial obligation to assist less developed countries in coping with these impacts, including funding for disaster recovery and adaptation measures. This disaster is intensifying international discussions on climate aid and responsibility. Such events continue to highlight how climate change is creating more frequent and severe disasters globally, disproportionately affecting those least equipped to handle them and putting global funding for climate disaster recovery under increasing scrutiny.\n\nFrom public health, we hear of a recent outbreak that exposed weaknesses in the U.S. public health system. A cyclosporiasis outbreak that occurred over the summer revealed significant strains on local health departments. Cyclosporiasis is a parasitic infection often caused by contaminated food, and tracking its source requires intensive public health efforts. For instance, in Ypsilanti, Michigan, Dea Lancaster, a nurse coordinator at Washtenaw County Health Department, had to set aside her usual duties to call patients, trace symptoms, and pinpoint the contaminated food source. This kind of diversion of resources, and the difficulty in managing the outbreak, points to underlying issues of underfunding and understaffing that have weakened the system over time. When local health departments lack sufficient resources, their ability to respond effectively to outbreaks is compromised, potentially leading to slower containment and wider spread. This implies that local public health services may face continued strain in future crises. The situation highlights how underfunding of public health systems creates vulnerability across communities, and suggests that these systems may now receive increased funding or scrutiny as their crucial role is re-evaluated.\n\nNext, a new humanitarian mission is underway in the Mediterranean. A new flotilla mission has set sail for Gaza, with human rights advocates aiming to challenge the long-standing blockade on the territory. This blockade, enforced by Israel, severely restricts the entry of goods, including essential humanitarian aid, which has led to dire living conditions and a humanitarian crisis for the residents of Gaza. The purpose of this flotilla is to draw international attention to the blockade and deliver much-needed supplies, effectively attempting to circumvent existing restrictions. Human rights advocates involved in the mission are calling for diplomatic measures to guarantee the flotilla's safety and to ultimately end what they describe as a \"deadly Gaza blockade.\" For the people in Gaza, humanitarian aid access remains highly restricted, and the success of this mission, or the diplomatic response to it, will be closely watched. This action is likely to increase international pressure on the Gaza blockade, further demonstrating how geopolitical blockades can severely hinder humanitarian relief efforts and exacerbate crises for civilian populations.\n\nAnd finally, in the realm of autonomous vehicles, U.S. regulators have launched a safety investigation into Tesla's driverless taxis. The U.S. National Highway Traffic Safety Administration, or NHTSA, has opened this investigation following Tesla's recent deployment of its self-driving vehicles for public use. As the primary federal agency responsible for vehicle safety, NHTSA's involvement is critical. Their investigation will thoroughly scrutinize Tesla's self-driving technology to assess its safety performance, reliability, and any potential risks it may pose to passengers, other drivers, and pedestrians. This intense scrutiny is crucial because, if safety concerns are identified, it could lead to significant delays, restrictions, or even recalls impacting the broader deployment of driverless taxis and other autonomous vehicles. This situation clearly illustrates how regulators are grappling with the rapid advancements in AI autonomy, trying to establish appropriate safety standards and oversight for a technology that is quickly transforming the automotive industry and our daily lives.\n\nThat brings us to today's daily insight, a moment for quiet reflection.\n\nToday's insight reminds us that we carry the habits of people we loved. It\u2019s a quiet preservation, a subtle echo of those who shaped us, manifesting in the small gestures we never quite gave back.\n\nThink about it: the specific way you make your tea, a peculiar phrase you find yourself using, or even how you hold a book when you're deeply absorbed. These are often tiny rituals, gifted to you by people from your past, absorbed without conscious notice.\n\nWhen we connect deeply with someone, we often mirror them in quiet ways. We absorb their cadence of speech, the sound of their laughter, and even the gentle ways they learned to move through the world. It\u2019s a beautiful, unconscious assimilation.\n\nEven as distances grow, and years pass, those small details linger. Long after conversations end, their presence doesn't vanish; instead, it survives, woven naturally and intimately into the fabric of who you are.\n\nIt\u2019s a profound thought: you carry pieces of everyone you have ever loved, like precious, invisible threads, holding the tapestry of your life together.\n\nAs you go about your day, perhaps you'll notice one of those small echoes within yourself, a tiny gesture or habit that connects you to someone cherished. Until next time, take a moment, and be well.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
+    "estimatedDurationSeconds": 847
+  },
+  "candidatePool": [
+    {
+      "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+      "description": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market. The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last N",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 20,
+      "why": "Finding new work may remain easier.",
+      "context": "The U.S. economy added 162,000 jobs in August. The unemployment rate held steady despite fluctuations.",
+      "next": "The Federal Reserve may re-evaluate future interest rate hikes.",
+      "bigger": "Labor market resilience impacts global economic stability.",
+      "publishedAt": "2026-09-04T12:40:44+00:00",
+      "topicFingerprint": [
+        "us_entity",
+        "donald_trump",
+        "rate",
+        "rates",
+        "august"
+      ],
+      "alternates": [
+        {
+          "title": "US adds 162,000 jobs in August, beating expectations",
+          "description": "The U.S. added 162,000 jobs in August, beating expectations. The unemployment rate held steady at 4.1%, with growth led by public schools and food services.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/c3fe643d-b205-4642-96d4-13d955369576.html",
+          "category": "General",
+          "publishedAt": "2026-09-04T13:14:26+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "us_entity",
+            "donald_trump",
+            "rate",
+            "rates",
+            "august"
+          ],
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "title": "India\u2019s key money market gets unusually quiet at start of trade",
+      "description": "The freeze in activity has implications for monetary policy",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-key-money-market-gets-unusually-quiet-start-trade",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Indian financial market stability may face new challenges.",
+      "context": "India's key money market saw unusually quiet activity at market open. This \"freeze in activity\" has monetary policy implications.",
+      "next": "India's central bank may need to intervene in markets.",
+      "bigger": "Liquidity in financial markets is crucial for economic stability.",
+      "publishedAt": "2026-09-04T09:47:19+00:00",
+      "topicFingerprint": [
+        "start",
+        "unusually",
+        "quiet",
+        "india",
+        "gets"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Who runs the labor market? Women accounted for 98% of U.S. job gains in August",
+      "description": "The economy added 162,000 jobs, nearly triple forecasts, but the gains were unusually concentrated among women.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/04/jobs-report-september-women-162000-jobs/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Women's employment opportunities are expanding.",
+      "context": "Women accounted for 98% of U.S. job gains in August. The U.S. economy added 162,000 jobs overall.",
+      "next": "More detailed analysis on sector-specific job gains will emerge.",
+      "bigger": "Labor market trends reflect and influence societal changes.",
+      "publishedAt": "2026-09-04T14:24:03+00:00",
+      "topicFingerprint": [
+        "jobs",
+        "volkswagen",
+        "job",
         "plan",
-        "part",
         "cuts"
       ],
       "alternates": []
     },
     {
-      "title": "Scientists studying cockroach milk and nose-blowing win Ig Nobel prizes",
-      "description": "Ten research teams were honoured on Thursday at a satirical science awards ceremony that was hosted outside the US for the first time due to travel concerns. Researchers who studied milk from cockroaches and analysed soil health using underwear received Ig Nobel prizes celebrating unusual and imagin",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/world/europe/article/3366281/scientists-studying-cockroach-milk-and-nose-blowing-win-ig-nobel-prizes",
-      "category": "Health",
+      "title": "Jefferies-linked fund has almost US$500 million\u00a0exposure to trader Radiant World, FT reports",
+      "description": "LAM Trade Finance Group II secured a freezing order from a London Court against Radiant World.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/jefferies-linked-fund-has-almost-us500-million-exposure-to-trader-radiant-world-ft-reports",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 9,
-      "why": "Researchers in niche fields may gain unexpected public recognition.",
-      "context": "Scientists won satirical Ig Nobel prizes for unusual research.",
-      "next": "More unconventional research topics may receive public attention.",
-      "bigger": "Humor and satire play a role in popularizing scientific discovery.",
-      "publishedAt": "2026-09-03T20:07:51+00:00",
+      "score": 11,
+      "why": "Investor confidence in some funds may decline.",
+      "context": "A Jefferies-linked fund has a large exposure to Radiant World. A court issued a freezing order against Radiant World.",
+      "next": "Further investigations into Radiant World's finances will follow.",
+      "bigger": "Financial markets face risks from opaque trading practices.",
+      "publishedAt": "2026-09-05T14:20:00+08:00",
       "topicFingerprint": [
-        "prizes",
-        "research",
-        "science",
-        "ceremony",
-        "nobel"
+        "linked",
+        "trader",
+        "millionexposure",
+        "almost",
+        "us_entity500"
       ],
-      "alternates": [
-        {
-          "title": "Scientists studying cockroach milk, nose-blowing win 2026 Ig Nobel prizes for quirky science",
-          "description": "Ten research teams were honored Thursday at a satirical science awards ceremony that was hosted outside the U.S. for the first time due to travel concerns.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/science/scientists-studying-cockroach-milk-nose-blowing-win-2026-ig-nobel-prizes-for-quirky-science",
-          "category": "Science",
-          "publishedAt": "2026-09-03T16:59:27-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "prizes",
-            "research",
-            "science",
-            "ceremony",
-            "nobel"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "FIFA accuses UEFA of 'smear campaign' against Infantino",
-      "description": "FIFA accuses UEFA of a smear campaign against its leadership in a US court dispute over a scrapped $20 billion plan to sell World Cup commercial rights.",
+      "title": "Automakers urge Congress to permanently ban Chinese cars in U.S.",
+      "description": "The Alliance for Automotive Innovation urges Congress to permanently ban Chinese connected vehicles due to national security and data collection concerns.",
       "source": "Frontpage",
-      "url": "https://frontpage.ink/79b15a7f-823b-40f3-adab-3c51aa61334c.html",
-      "category": "Policy",
+      "url": "https://frontpage.ink/c42316b2-14cd-4dec-ab7b-3ee30891f106.html",
+      "category": "General",
       "readingTime": 2,
-      "score": 8,
-      "why": "Public trust in major international sports organizations may decline.",
-      "context": "FIFA accused UEFA of a smear campaign against its president.",
-      "next": "Legal battles and disputes between sports bodies may continue.",
-      "bigger": "Governance and corruption issues plague international sports.",
-      "publishedAt": "2026-09-03T23:09:39+00:00",
+      "score": 10,
+      "why": "Your vehicle choices may become more limited.",
+      "context": "U.S. automakers are pushing for a permanent ban on Chinese cars. They cite national security and data risks.",
+      "next": "Congress will likely debate new legislation on vehicle imports.",
+      "bigger": "Countries are increasing protectionist trade policies.",
+      "publishedAt": "2026-09-04T12:07:08+00:00",
       "topicFingerprint": [
-        "accuses",
-        "smear",
-        "fifa",
-        "infantino",
-        "campaign"
+        "congress",
+        "permanently",
+        "ban",
+        "cars",
+        "automakers"
       ],
       "alternates": []
     },
     {
-      "title": "France agriculture production sees economic hit from heatwaves",
-      "description": "France's recent heatwaves didn't just pose enormous health risks, they also hampered the economy. Authorities have estimated that the recent heat and drought caused production to plummet and expect wealth generated by the agricultural sector to decline by 8% over the course of the year. The knock-on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
-      "category": "Health",
+      "title": "US to restrict birthright citizenship for children of foreign government workers: What the new rule means",
+      "description": "A new DHS rule expands the definition of foreign government employees, denying citizenship at birth to their children.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/us-to-restrict-birthright-citizenship-for-children-of-foreign-government-workers-what-the-new-rule-means-101788569690453.html",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 8,
-      "why": "Your grocery bills may rise due to crop failures and shortages.",
-      "context": "French agricultural production declined due to severe heatwaves.",
-      "next": "Governments may invest more in climate-resilient farming methods.",
-      "bigger": "Climate change severely impacts agricultural output and food security.",
-      "publishedAt": "2026-09-03T16:05:41+00:00",
+      "score": 10,
+      "why": "Citizenship rules for specific groups are changing.",
+      "context": "The U.S. will restrict birthright citizenship for some children. This applies to children of certain foreign government workers.",
+      "next": "Legal challenges to the new citizenship rule may arise.",
+      "bigger": "Immigration and citizenship policies are often contentious issues.",
+      "publishedAt": "2026-09-05T07:19:20+05:30",
       "topicFingerprint": [
-        "agriculture",
-        "production",
-        "sees",
-        "france",
-        "hit"
+        "children",
+        "birthright",
+        "means",
+        "workers",
+        "restrict"
       ],
       "alternates": []
     },
     {
-      "title": "Apple has been sued for $2.7 billion over App Tracking Transparency rules",
-      "description": "A lawsuit claims the policy was stricter on third-party developers than Apple itself.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2250555/apple-sued-for-2-billion-over-app-tracking-transparency-rules/",
-      "category": "Policy",
+      "title": "Russian airspace tense after Zelensky's big warning, foreign airline suspends flights",
+      "description": "The airline cited security concerns and said the decision follows a routine risk assessment of the operating environment along the route.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/russian-airspace-tense-after-zelensky-ukraine-big-warning-foreign-airline-suspends-flights-air-tanzania-101788510928082.html",
+      "category": "Environment",
       "readingTime": 2,
       "score": 7,
-      "why": "App developers may face changed or stricter platform regulations.",
-      "context": "Apple faces a $2.7 billion lawsuit over its app tracking rules.",
-      "next": "Apple may adjust its App Tracking Transparency policies.",
-      "bigger": "Tech giants face ongoing scrutiny over platform control.",
-      "publishedAt": "2026-09-03T18:10:00+00:00",
+      "why": "Air travel routes and flight availability may change.",
+      "context": "A foreign airline suspended flights over Russian airspace. This followed a security risk assessment.",
+      "next": "Other airlines may reassess their routes through Russian airspace.",
+      "bigger": "Geopolitical tensions can disrupt global transportation networks.",
+      "publishedAt": "2026-09-04T14:28:13+05:30",
       "topicFingerprint": [
-        "rules",
-        "billion",
-        "app",
-        "tracking",
-        "apple"
+        "tense",
+        "suspends",
+        "russian",
+        "foreign",
+        "warning"
       ],
       "alternates": []
     },
     {
-      "title": "South African business delegation aims to boost economic ties during India visit",
-      "description": "South African business delegation aims to boost economic ties during India visit",
+      "title": "Scientists win Ig Nobel prizes for studies on cockroach milk, evolution of kissing, nose-blowing",
+      "description": "The awards organised by a digital magazine called the Annals of Improbable Research shifted to Europe after 35 years in the US.",
       "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/south-african-business-delegation-aims-to-boost-economic-ties-during-india-visit-101788460596862.html",
+      "url": "https://www.hindustantimes.com/world-news/scientists-win-ig-nobel-prizes-for-studies-on-cockroach-milk-evolution-of-kissing-noseblowing-101788512247378.html",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Public engagement with scientific oddities may grow.",
+      "context": "Scientists won Ig Nobel prizes for unusual research topics. The awards ceremony moved to Europe from the U.S.",
+      "next": "More unconventional research may gain public attention.",
+      "bigger": "Science communication benefits from diverse and engaging approaches.",
+      "publishedAt": "2026-09-04T14:47:28+05:30",
+      "topicFingerprint": [
+        "blowing",
+        "cockroach",
+        "evolution",
+        "prizes",
+        "kissing"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Disabled workers at greater risk of losing health insurance",
+      "description": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 4,
+      "why": "Healthcare access for disabled workers may decline.",
+      "context": "Disabled workers face a greater risk of losing health insurance. This highlights ongoing healthcare access issues.",
+      "next": "Advocacy groups may push for stronger protections.",
+      "bigger": "Healthcare disparities continue to affect vulnerable populations.",
+      "publishedAt": "2026-09-04T13:08:15+00:00",
+      "topicFingerprint": [
+        "disabled",
+        "workers",
+        "losing",
+        "risk",
+        "greater"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Indian founders, CEOs to train US talent under new American programme to boost domestic manufacturing",
+      "description": "Vance and Rubio announced the creation of a training program for the US\u2019 engineering and technical talent - dubbed 'Foundry School'.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/indian-founders-ceos-to-train-us-engineers-talent-under-new-american-programme-to-boost-domestic-manufacturing-foundry-101788534770452.html",
       "category": "Progress",
       "readingTime": 2,
-      "score": 7,
-      "why": "Trade and investment opportunities between South Africa and India may increase.",
-      "context": "A South African business delegation visited India to boost economic ties.",
-      "next": "Bilateral trade agreements and collaborations may develop further.",
-      "bigger": "Emerging economies are forging stronger South-South trade links.",
-      "publishedAt": "2026-09-04T00:06:36+05:30",
+      "score": 4,
+      "why": "U.S. manufacturing jobs may become more competitive.",
+      "context": "Indian founders and CEOs will train U.S. talent. A new American program aims to boost domestic manufacturing.",
+      "next": "The U.S. manufacturing sector could see skilled worker growth.",
+      "bigger": "Global partnerships are addressing skilled labor shortages.",
+      "publishedAt": "2026-09-04T20:56:29+05:30",
       "topicFingerprint": [
-        "african",
-        "india",
-        "delegation",
-        "ties",
-        "visit"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Morgan Stanley takes aim at X accounts posting its research",
-      "description": "Morgan Stanley complained to X about posts on the social media site using the bank\u2019s charts and research.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/morgan-stanley-takes-aim-at-x-accounts-posting-its-research",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Access to financial research on social media may become restricted.",
-      "context": "Morgan Stanley complained to X about unauthorized use of its research.",
-      "next": "Social media platforms may tighten content sharing policies.",
-      "bigger": "Intellectual property protection faces challenges on digital platforms.",
-      "publishedAt": "2026-09-04T08:43:00+08:00",
-      "topicFingerprint": [
-        "accounts",
-        "takes",
-        "research",
-        "aim",
-        "morgan"
-      ],
-      "alternates": [
-        {
-          "title": "Morgan Stanley takes aim at X accounts posting its research",
-          "description": "This has led to at least one account getting temporarily locked",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/international/morgan-stanley-takes-aim-x-accounts-posting-its-research",
-          "category": "Science",
-          "publishedAt": "2026-09-04T00:29:16+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "accounts",
-            "takes",
-            "research",
-            "aim",
-            "morgan"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Addvalue secures US$5 million in new orders across space, radio units",
-      "description": "The group\u2019s order book now stands at about US$20.2 million",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/addvalue-secures-us5-million-new-orders-across-space-radio-units",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "The company's financial stability and growth prospects have improved.",
-      "context": "Addvalue secured $5 million in new orders for space and radio units.",
-      "next": "Addvalue will likely continue expanding its technology offerings.",
-      "bigger": "Demand for satellite and communication technologies is growing.",
-      "publishedAt": "2026-09-04T01:14:29+00:00",
-      "topicFingerprint": [
-        "radio",
-        "addvalue",
-        "space",
-        "across",
-        "units"
+        "talent",
+        "indian",
+        "founders",
+        "train",
+        "manufacturing"
       ],
       "alternates": []
     }
@@ -788,28 +765,28 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "Pipes, power and petaflops: what\u2019s behind China\u2019s massive \u20186 networks\u2019 investment",
-        "description": "China\u2019s biggest economic buzzword this year could be the \u201csix networks\u201d, as Beijing aims to use infrastructure investment to inject fresh momentum into an economy facing persistent headwinds such as weak domestic demand and a prolonged property downturn. The scale is substantial, with investment exp",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3366211/pipes-power-and-petaflops-whats-behind-chinas-massive-6-networks-investment",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "Can China\u2019s chip ambitions reshape the global tech landscape?",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-09-04T00:00:11+00:00",
+        "publishedAt": "2026-09-05T06:00:00+08:00",
         "reason": "within_48h",
-        "score": 13,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: economy"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: investment"
+            "reason": "important keyword match: global"
           },
           {
             "points": 2,
-            "reason": "important keyword match: infrastructure"
+            "reason": "important keyword match: chip"
           },
           {
             "points": 2,
@@ -821,83 +798,79 @@
           },
           {
             "points": 1,
-            "reason": "financial important keyword match: economy"
-          },
-          {
-            "points": 1,
-            "reason": "large scale impact boost"
-          },
-          {
-            "points": 4,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
             "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "pipes",
-          "massive",
-          "petaflops",
-          "networks",
-          "investment"
+          "ambitions",
+          "landscape",
+          "chip",
+          "tech",
+          "reshape"
         ]
       },
       {
-        "title": "American automakers urge Congress to ban Chinese vehicle sales in U.S.",
-        "description": "Chinese cars can collect and send consumer and vehicle data to Beijing, U.S. automaker group warns in calling for a ban on sales.",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/automakers-urge-congress-ban-chinese-vehicles/",
-        "fromUrl": "https://www.cbsnews.com/latest/rss/main",
-        "category": "General",
+        "title": "Luxury spending spurs Hong Kong\u2019s \u2018flight to quality\u2019 economic recovery: analysts",
+        "description": "The improving economy has brought some much-needed relief to the city\u2019s real estate sector",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/luxury-spending-spurs-hong-kongs-flight-quality-economic-recovery-analysts",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-03T17:18:45-04:00",
+        "publishedAt": "2026-09-03T23:00:00+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: consumer"
+            "reason": "important keyword match: economy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: data"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
+            "reason": "other category"
           },
           {
             "points": 1,
-            "reason": "less than 12 hours"
+            "reason": "financial important keyword match: economy"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
-        "group_id": 2,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "congress",
-          "ban",
-          "automakers",
-          "china_entity",
-          "us_entity"
+          "kong",
+          "luxury",
+          "flight",
+          "recovery",
+          "hong"
         ]
       }
     ],
     "united_states": [
       {
-        "title": "Shares rally ahead of US jobs data, Fed\u2019s Waller soothes bonds",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
+        "title": "Wall Street ends lower as solid jobs data fuels hawkish US Fed bets",
+        "description": "The Dow Jones Industrial Average fell 272.51 points, or 0.51 per cent.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-solid-jobs-data-fuels-hawkish-fed-bets",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-04T06:19:10+00:00",
+        "publishedAt": "2026-09-05T04:49:39+08:00",
         "reason": "within_48h",
-        "score": 12,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
@@ -916,47 +889,43 @@
             "reason": "other category"
           },
           {
-            "points": -1,
-            "reason": "Low Quality Source match: Investing.com"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
-        "group_id": 3,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "rate",
+          "bets",
+          "jobs",
+          "solid",
           "fed",
-          "hike",
-          "month",
-          "interest"
+          "wall"
         ]
       },
       {
-        "title": "US unemployment claims tick up to 206,000 but remain at historically low levels",
-        "description": "US jobless claims edged up last week, but remained at historically low levels, underscoring a resilient labour market. However, weak hiring points to a \u201cno-hire, no-fire\u201d environment, making it harder for jobseekers to find work.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/us-unemployment-claims-tick-up-to-206000-but-remain-at-historically-low-levels-19983575.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "title": "US stocks: Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+        "description": "All three major US indexes close lower amid a broad selloff ahead of the three-day holiday weekend",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-wall-street-ends-lower-solid-jobs-data-fuels-hawkish-fed-bets",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-03T18:50:41+05:30",
+        "publishedAt": "2026-09-04T23:48:30+00:00",
         "reason": "within_48h",
-        "score": 12,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: unemployment"
+            "reason": "important keyword match: jobs"
           },
           {
             "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: environment"
+            "reason": "important keyword match: data"
           },
           {
             "points": 2,
@@ -964,56 +933,48 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: labour"
-          },
-          {
-            "points": 2,
             "reason": "other category"
           },
           {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 3,
-            "reason": "Impact priority base match: unemployment"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: unemployment"
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
-        "group_id": 0,
+        "group_id": 1,
         "alternates": [],
         "topicFingerprint": [
-          "remain",
-          "levels",
-          "claims",
-          "unemployment",
-          "low"
+          "bets",
+          "jobs",
+          "solid",
+          "fed",
+          "wall"
         ]
       }
     ],
-    "europe": [
+    "canada": [
       {
-        "title": "UK-EU alignment is a \u201cproblem\u201d for U.S. trade deal, Greer says - report",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economy-news/ukeu-alignment-is-a-problem-for-us-trade-deal-greer-says--report-4888842",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
+        "title": "US DOJ's antitrust division asked to pause cooperation with Canadian government, WSJ reports",
+        "description": "The United States and Canada, close allies for decades, have been increasingly at odds over trade and other issues.",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-04T06:07:40+00:00",
+        "publishedAt": "2026-09-05T06:00:00+08:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: u.s"
+            "reason": "important keyword match: government"
           },
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "important keyword match: us"
           },
           {
             "points": 4,
@@ -1024,61 +985,53 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
-            "points": -1,
-            "reason": "Low Quality Source match: Investing.com"
-          },
-          {
-            "points": 0,
-            "reason": "skipped say/says/said penalty because report exists"
-          },
-          {
-            "points": 0,
-            "reason": "skipped title say/says/said penalty because report exists"
-          },
-          {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "uk_entity",
-          "problem",
-          "alignment",
-          "greer",
-          "eu_entity"
+          "asked",
+          "pause",
+          "doj",
+          "division",
+          "cooperation"
         ]
       }
     ],
     "india": [
       {
-        "title": "Belgium assures India of no defence cooperation with Pakistan; Rajnath Singh raises technology transfer concerns",
-        "description": "Belgian Defence Minister Theo Francken highlights the growing strategic partnership between India and European Union, pointing to expanding cooperation in maritime security, information security and aerospace",
+        "title": "India\u2019s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data? | Business Matters",
+        "description": "India\u2019s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI\u2019s own estimate of 7% for the April-June quarter. How did this happen? Aren\u2019t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let\u2019s dive in.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/india-belgium-agree-to-expand-defence-and-industrial-cooperation/article71422842.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "url": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-03T20:32:37+05:30",
+        "publishedAt": "2026-09-04T00:40:26+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: gdp"
           },
           {
             "points": 2,
-            "reason": "important keyword match: security"
+            "reason": "important keyword match: rbi"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
           },
           {
             "points": 2,
             "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: european union"
           },
           {
             "points": 4,
@@ -1087,113 +1040,82 @@
           {
             "points": -5,
             "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: gdp"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: gdp"
+          },
+          {
+            "points": -2,
+            "reason": "opinion rhetorical headline"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
-        "group_id": 3,
+        "group_id": 1,
         "alternates": [],
         "topicFingerprint": [
-          "oil",
-          "us_entity",
-          "billion",
-          "venezuela",
-          "deals"
+          "growth",
+          "gdp",
+          "quarter",
+          "india",
+          "june"
         ]
       },
       {
-        "title": "After Gen Z, India\u2019s Gen Alpha rises, demanding education reforms",
-        "description": "School students across multiple states have held protests in recent weeks, seeking better conditions.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
+        "title": "Kenya's Ruto orders Indian company Tata Chemicals to leave the country",
+        "description": "Kenya's President William Ruto has directed Tata Chemicals to leave the country, accusing the company of failing to generate economic impact",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/kenyas-ruto-orders-indian-company-tata-chemicals-leave-136198674",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-04T06:20:33+00:00",
+        "publishedAt": "2026-09-04T09:43:42-04:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: education"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "reforms",
-          "gen",
-          "rises",
-          "alpha",
-          "education"
+          "tata",
+          "chemicals",
+          "indian",
+          "ruto",
+          "orders"
         ]
       }
     ],
-    "uk": [
+    "singapore": [
       {
-        "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-        "description": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-03T21:40:42+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "security",
-          "uk_entity",
-          "stronger",
-          "border",
-          "macron"
-        ]
-      },
-      {
-        "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
-        "description": "An Asian city will eventually overtake London and New York as the world\u2019s leading financial centre, with Hong Kong well placed to compete for the top spot given its legal predictability and low tax burden, according to the creator of a closely watched ranking of financial hubs. \u201cIt\u2019s going to happen",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Singapore tax revenue hits record $97.3 billion, up 9.4% on stronger economy",
+        "description": "IRAS says it recovered about $589 million from a small minority of taxpayers who wilfully evaded tax.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/singapore-tax-revenue-hits-record-97-3-billion-up-9-4-on-stronger-economy",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-03T23:00:08+00:00",
+        "publishedAt": "2026-09-04T13:05:00+08:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: finance"
+            "reason": "important keyword match: economy"
           },
           {
             "points": 2,
@@ -1204,219 +1126,36 @@
             "reason": "other category"
           },
           {
-            "points": -4,
-            "reason": "South China regional news"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: tax"
-          },
-          {
             "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "hub",
-          "kong",
-          "london",
-          "york",
-          "top"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-        "description": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-03T21:40:42+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
+            "reason": "financial important keyword match: economy"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "security",
-          "uk_entity",
-          "stronger",
-          "border",
-          "macron"
-        ]
-      },
-      {
-        "title": "France records its hottest summer since measurements began over a century ago",
-        "description": "France has recorded its hottest summer since measurements began over a century ago, according to the environment minister",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/france-records-hottest-summer-measurements-began-century-ago-136177353",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-09-03T12:08:36-04:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: environment"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "environment",
-          "hottest",
-          "records",
-          "france",
-          "recorded"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea says chip investments under discussion with US amid tariff concerns",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-04T13:45:00+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariff"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "discussion",
-          "concerns",
-          "chip",
-          "investments",
-          "sk_entity"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Russia to shut German cultural centers as Moscow-Berlin tensions escalate over Ukraine",
-        "description": "Earlier Thursday in Munich, several incendiary devices were thrown at a construction site near a building where several companies are located.",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/09/03/europe-russia-finland-civil-defense-drill/",
-        "fromUrl": "https://fortune.com/feed/fortune-feeds/?id=3230629",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-03T20:26:53+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "centers",
-          "cultural",
-          "russia",
-          "german",
-          "moscow"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Eduardo Saverin tops Forbes\u2019 Singapore\u2019s 50 richest for 4th year, even as tech tycoons\u2019 fortunes slide",
-        "description": "The collective wealth of listees remained flat at US$239 billion, unchanged from 2025.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/eduardo-saverin-tops-forbes-list-of-singapores-50-richest-for-4th-year-but-tech-tycoons-fortunes",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-09-03T14:30:00+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
+            "points": -1,
+            "reason": "financial low priority keyword match: says"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: tax"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority title match: tax"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
           },
           {
             "points": -3,
@@ -1427,35 +1166,103 @@
         "alternates": [],
         "topicFingerprint": [
           "singapore",
-          "tops",
-          "tycoons",
-          "saverin",
-          "slide"
+          "record",
+          "hits",
+          "stronger",
+          "billion"
         ]
       },
       {
-        "title": "Singapore shares edge up amid mixed regional showing; STI gains 0.1%",
-        "description": "DFI Retail Group leads gainers on the blue-chip index",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-edge-amid-mixed-regional-showing-sti-gains-0-1",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "title": "More than retail: Why Singapore commercial spaces are redeveloping to add homes and offices",
+        "description": "Property developers bundle luxury residences with malls and offices to maximise financial returns.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/property/more-than-retail-why-singapore-commercial-spaces-are-redeveloping-to-add-homes-and-offices",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-03T11:04:39+00:00",
+        "publishedAt": "2026-09-04T18:15:00+08:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: chip"
+            "reason": "important keyword match: financial"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": -2,
-            "reason": "Singapore-local Business Times article"
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "singapore",
+          "commercial",
+          "redeveloping",
+          "homes",
+          "offices"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "The EU has regulated ChatGPT as a search engine. Calling it a platform would have handed OpenAI a liability shield.",
+        "description": "The European Commission designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, exposing OpenAI to fines of up to 6% of global revenue but covering only the parts of the tool that retrieve rather than converse. The article\u2019s argument is that the alternative label, Very L",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/eu-chatgpt-vlose-designation-safe-harbour-gap",
+        "fromUrl": "https://thenextweb.com/feed",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T18:05:58+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: openai"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: The Next Web"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "platform",
+          "shield",
+          "chatgpt",
+          "regulated"
+        ]
+      },
+      {
+        "title": "Economists see final ECB hike next week in split with markets",
+        "description": "The Strait of Hormuz \u201chas become the swing factor for the ECB\u2019s future decisions\u201d",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/economists-see-final-ecb-hike-next-week-split-markets",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T07:22:55+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -1465,11 +1272,314 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "sti",
-          "singapore",
-          "gains",
-          "edge",
-          "regional"
+          "hike",
+          "ecb",
+          "economists",
+          "final",
+          "week"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan finance minister vows to keep eye on fiscal balance",
+        "description": "Continued concerns over Japan\u2019s fiscal sustainability have sparked a rise in government bond yields and weighed on the yen.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/japan-finance-minister-vows-to-keep-eye-on-fiscal-balance-101788511061623.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T17:01:04+05:30",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: finance"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eye",
+          "fiscal",
+          "balance",
+          "vows",
+          "keep"
+        ]
+      },
+      {
+        "title": "Japan\u2019s Toei denies issuing licences for Dragon Ball theme park in France",
+        "description": "France and Saudi Arabia have agreed to build 3 theme parks near Paris.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/japans-toei-denies-issuing-licenses-for-dragon-ball-theme-park-in-france",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-05T11:15:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: saudi arabia"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "toei",
+          "denies",
+          "theme",
+          "ball",
+          "france"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "France announces \u20ac1 billion aid for farmers after climate-hit summer",
+        "description": "France has recorded its hottest summer on record this year as the country battled heatwaves, drought and massive wildfires. The extreme weather has continued into September, with France's national weather service placing five departments on orange alert for several days. Temperatures are expected to",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T15:12:29+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: drought"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "France allocates over \u20ac1 billion in farm aid after heat waves and drought",
+            "description": "France allocates over \u20ac1 billion in aid to help farmers recover from record-breaking heatwaves, droughts, and wildfires that damaged crops and pastures.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/65fff740-4327-49a4-915b-1548e616f810.html",
+            "category": "Environment",
+            "publishedAt": "2026-09-05T04:05:26+00:00",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "heatwaves",
+              "aid",
+              "wildfires",
+              "record",
+              "farmers"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "heatwaves",
+          "aid",
+          "wildfires",
+          "record",
+          "farmers"
+        ]
+      },
+      {
+        "title": "Japan\u2019s Toei denies issuing licences for Dragon Ball theme park in France",
+        "description": "France and Saudi Arabia have agreed to build 3 theme parks near Paris.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/japans-toei-denies-issuing-licenses-for-dragon-ball-theme-park-in-france",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-05T11:15:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: saudi arabia"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "toei",
+          "denies",
+          "theme",
+          "ball",
+          "france"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "Brazilian Supreme Court justices at odds as election and probe into failed bank loom",
+        "description": "Brazil s Supreme Court has plunged further into an institutional crisis, as two of its best known justices are now requesting major sanctions against each other",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/brazilian-supreme-court-justices-odds-election-probe-failed-136215238",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T18:29:10-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: supreme court"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: crisis"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "election",
+          "odds",
+          "probe",
+          "justices",
+          "failed"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "Is a far-right party on the precipice of power in a German state?",
+        "description": "AfD Saxony-Anhalt is a racist extremist group, according to the German state's intelligence agency. The party may well trounce its rivals in this weekend's state election.",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/afd-germany-saxony-anhalt-election-europe-far-right/",
+        "fromUrl": "https://www.cbsnews.com/latest/rss/main",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-04T12:43:00-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+            "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+            "source": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo",
+            "category": "Geopolitics",
+            "publishedAt": "2026-09-04T23:07:23+00:00",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "far",
+              "party",
+              "anhalt",
+              "power",
+              "saxony"
+            ],
+            "group_id": 0
+          },
+          {
+            "title": "Germany's far-right poised for power in state election as AfD surges",
+            "description": "The Alternative for Germany party is poised for a historical victory in Saxony-Anhalt, potentially holding state power for the first time since WWII.",
+            "source": "Frontpage",
+            "url": "https://frontpage.ink/566c08a0-cc07-4024-99a9-2a0aa2da07a0.html",
+            "category": "Policy",
+            "publishedAt": "2026-09-04T13:17:01+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "far",
+              "party",
+              "anhalt",
+              "power",
+              "saxony"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "far",
+          "party",
+          "anhalt",
+          "power",
+          "saxony"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-6364376",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-05T13:55:42+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "ytd",
+          "hit",
+          "exports",
+          "record",
+          "surpass"
         ]
       }
     ]
