@@ -1,622 +1,797 @@
 {
-  "updatedAt": "2026-09-06T05:44:03.290064",
+  "updatedAt": "2026-09-07T11:17:30.608339",
   "insight": {
-    "title": "The CEO Who Bet the Rent on a Board Game",
-    "subtitle": "Reed Hastings had a failing DVD-by-mail startup until he chose to kill his best-performing product.",
-    "notificationHook": "Why Netflix killed its cash cow.",
-    "readingTime": 2,
+    "title": "Why Perfectionism Often Causes Scientific Failure",
+    "subtitle": "How being too precise can blind you to the truth of your data",
+    "notificationHook": "Perfectionism kills discovery",
+    "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "By 2007, Netflix was a profitable DVD-by-mail powerhouse. But Reed Hastings saw a future in streaming, a technology that was still buffering, pixelated, and technically inferior to the discs that paid their bills."
+        "text": "In 1923, Robert Millikan won a Nobel Prize for measuring the charge of an electron. He famously ignored data points he deemed \"flawed,\" filtering out thousands of results to reach a suspiciously perfect, clean number."
       },
       {
         "type": "paragraph",
-        "text": "In a closed-door meeting, he made the call to cannibalize his own business. He shifted focus to an unproven streaming model, effectively setting his primary revenue stream on a slow path to obsolescence."
+        "text": "When we strive for flawless execution, we subconsciously prune away \"messy\" data. We treat outliers as noise rather than as the most important signals, missing the anomalies that contain our next genuine breakthrough."
       },
       {
         "type": "paragraph",
-        "text": "The pivot caused the company\u2019s stock to crater and ignited a massive customer revolt. Shareholders called him reckless; the industry assumed he had finally lost his grip on the market reality."
+        "text": "This happens in business when we dismiss small customer complaints or project glitches because they don't fit our clean, idealized strategy. We prioritize a pristine outcome over the reality of the situation."
       },
       {
         "type": "paragraph",
-        "text": "Sometimes, you have to destroy your success to survive the future."
+        "text": "Try this today: The next time you discard an \"outlier\" detail today, investigate why it doesn't fit your plan."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rigorous precision is often just a sophisticated way of ignoring the truth."
       }
-    ]
+    ],
+    "debug": {
+      "date": "2026-09-07",
+      "day_index": 250,
+      "weekday": 0,
+      "topic_index": 10,
+      "topic": "a surprising historical moment",
+      "theme_index": 3,
+      "theme_family": "scientific surprises",
+      "content_index": 2,
+      "content_type": "decision insight",
+      "tone_index": 2,
+      "tone": "a practical real-world insight",
+      "opening_index": 2,
+      "opening_style": "start with a surprising statement",
+      "angle_index": 2,
+      "angle": "focus on decision-making"
+    }
   },
   "news": [
     {
-      "title": "After hitting oil tankers, Iran targets Navy warships and U.S. retaliates with \u2018higher economic cost\u2019 in new escalation that could transform the war",
-      "description": "\"Attempting to strike U.S. warships enforcing the blockade therefore crosses a different threshold.\"",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/05/iran-war-navy-warships-us-higher-economic-cost-escalation/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Regional conflict risks disrupting global oil supplies and trade routes.",
-      "context": "Iran escalated tensions by targeting US Navy warships, leading to US retaliation.",
-      "next": "Military engagements in the region could intensify further.",
-      "bigger": "Geopolitical rivalries are increasing maritime security risks globally.",
-      "publishedAt": "2026-09-05T17:25:55+00:00",
-      "topicFingerprint": [
-        "us_entity",
-        "iran",
-        "ukraine",
-        "envoys",
-        "war",
-        "strikes"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why the U.S. job market remains resilient in face of global pressures and inflation",
-      "description": "The job market delivered a surprising rebound in August, adding 162,000 jobs, far more than economists had expected. The unemployment rate held steady at 4.1%, and the Labor Department revised July numbers upward. The stronger-than-expected report comes as the Federal Reserve is set to weigh interes",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/why-the-u-s-job-market-remains-resilient-in-face-of-global-pressures-and-inflation",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 24,
-      "why": "Strong job growth may lead the Federal Reserve to maintain higher interest rates.",
-      "context": "The US job market showed unexpected resilience, adding 162,000 jobs in August.",
-      "next": "Interest rate decisions will continue to impact borrowing costs.",
-      "bigger": "Economic resilience may delay global central banks easing monetary policy.",
-      "publishedAt": "2026-09-04T18:55:43-04:00",
-      "topicFingerprint": [
-        "inflation",
-        "face",
-        "job",
-        "remains",
-        "pressures"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "U.S., China gear up for mid-September AI safety talks: Reuters",
-      "description": "The AI safety talks will be led by U.S. Treasury Secretary Scott Bessent on the U.S. side, sources told Reuters.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/05/us-china-gear-up-for-mid-september-ai-safety-talks-reuters.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Future AI development and access to advanced tools could be shaped by these discussions.",
-      "context": "The US and China are preparing for talks on AI safety in September.",
-      "next": "Nations will discuss global standards for AI safety and development.",
-      "bigger": "International cooperation is crucial for managing advanced AI risks.",
-      "publishedAt": "2026-09-05T10:01:14+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "china_entity",
-        "us_entity",
-        "mid",
-        "sources"
-      ],
-      "alternates": [
-        {
-          "title": "U.S., China gear up for mid-September AI safety talks",
-          "description": "The final agenda and participants remain in flux, the sources cautioned.",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-china-gear-up-for-mid-september-ai-safety-talks/article71430964.ece",
-          "category": "Technology",
-          "publishedAt": "2026-09-05T08:44:48+05:30",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "china_entity",
-            "us_entity",
-            "mid",
-            "sources"
-          ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Air travel will likely experience more delays, diversions, and cancellations.",
-      "context": "Aviation faces increasing disruptions from hotter, stormier weather patterns.",
-      "next": "Airlines may adjust flight paths and schedules due to weather.",
-      "bigger": "Climate change is directly impacting global transportation infrastructure.",
-      "publishedAt": "2026-09-05T23:20:00+00:00",
-      "topicFingerprint": [
-        "effects",
-        "climate",
-        "increasingly",
-        "change",
-        "disruption"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "More Than 1,200 Food Packaging Chemicals Can Pose Serious Health Risks",
-      "description": "This story was originally published by Inside Climate News and is reproduced here as part of the Climate Desk collaboration. Most people decide if it\u2019s safe to eat an old tub of yogurt in the fridge or canned tuna in the back of the cupboard by checking its sell-by date. But no label indicates that ",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/09/food-packaging-chemicals-serious-health-risks-study/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Food safety standards may tighten, potentially affecting product availability.",
-      "context": "Over 1,200 food packaging chemicals are linked to serious health risks.",
-      "next": "Regulators will likely review and update food packaging chemical guidelines.",
-      "bigger": "Public health concerns are driving scrutiny of industrial chemical usage.",
-      "publishedAt": "2026-09-05T11:30:00+00:00",
-      "topicFingerprint": [
-        "serious",
-        "packaging",
-        "pose",
-        "risks",
-        "chemicals"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump demands Fed lower rates, threatening to cut trade with some countries",
-      "description": "Trump demands the Federal Reserve lower interest rates, threatening to cut trade with countries with which the US maintains a trade deficit.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/44ad52f3-7cd3-439e-8af9-ab8e276c891f.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Potential trade disruptions could increase prices for imported goods.",
-      "context": "Donald Trump demanded the Fed lower rates and threatened trade cuts.",
-      "next": "Future US trade policies could become more protectionist.",
-      "bigger": "Political influence on central banks and trade policy is rising globally.",
-      "publishedAt": "2026-09-05T01:06:38+00:00",
-      "topicFingerprint": [
-        "trade",
-        "rates",
-        "donald_trump",
-        "countries",
-        "interest"
-      ],
-      "alternates": [
-        {
-          "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-          "description": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-04T19:48:08+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "rates",
-            "donald_trump",
-            "countries",
-            "interest"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Trump demands Fed lower rates, reviving pressure campaign",
-          "description": "He threatened to cut off trade with certain economies which the US has a deficit if the central bank doesn\u2019t act.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/trump-demands-fed-lower-rates-reviving-pressure-campaign",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-05T08:47:00+08:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "rates",
-            "donald_trump",
-            "countries",
-            "interest"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
-      "description": "",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
+      "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+      "description": "For the first time, Trump's top envoys take their peace push to Kyiv \u2014 after talks with Putin in Moscow.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 16,
-      "why": "Ukrainian citizens and businesses may face higher taxes and costs.",
-      "context": "Ukraine is considering new tax measures to fund its ongoing war effort.",
-      "next": "The government will propose specific tax changes for approval.",
-      "bigger": "War-torn nations often resort to fiscal tightening to survive.",
-      "publishedAt": "2026-09-06T02:40:10+00:00",
+      "why": "Diplomatic efforts may intensify to end the ongoing conflict.",
+      "context": "Trump's envoys visited Ukraine after Moscow talks to push for peace.",
+      "next": "More high-level diplomatic engagements could follow to broker peace.",
+      "bigger": "International mediation aims to resolve major global conflicts.",
+      "publishedAt": "2026-09-07T06:43:43-04:00",
       "topicFingerprint": [
-        "us_entity",
-        "iran",
-        "ukraine",
         "envoys",
-        "war",
-        "strikes"
+        "ukraine",
+        "us_entity",
+        "witkoff",
+        "kyiv"
       ],
       "alternates": [
         {
-          "title": "Putin meets with Trump envoys in Moscow in new push to end Ukraine war",
-          "description": "Russian President Vladimir Putin met with American envoys Steve Witkoff and Jared Kushner at the Kremlin in Moscow in a new effort to end the war with Ukraine.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/putin-meets-with-trump-envoys-in-moscow-in-new-push-to-end-ukraine-war/",
+          "title": "Signs of progress after US envoys Witkoff and Kushner hold talks in Ukraine?",
+          "description": "US peace envoys Jared Kushner and Steve Witkoff heralded new momentum in peace talks after meeting Ukrainian President Volodymyr Zelenskiy in Kyiv on Sunday as the Trump administration renewed its push to end Russia's four-and-a-half-year war in Ukraine. But while there maybe some tentative signs th",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20260907-signs-of-progress-after-us-envoys-witkoff-and-kushner-hold-talks-in-ukraine",
           "category": "Geopolitics",
-          "publishedAt": "2026-09-05T21:01:30-04:00",
-          "score": 9,
+          "publishedAt": "2026-09-07T08:54:23+00:00",
+          "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "us_entity",
-            "iran",
-            "ukraine",
             "envoys",
-            "war",
-            "strikes"
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
           ],
-          "group_id": 3
+          "group_id": 0
         },
         {
-          "title": "Brought in for civilian use, Starlink is now integral to Ukraine\u2019s war effort",
-          "description": "Russia\u2019s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
+          "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+          "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779",
           "category": "Geopolitics",
-          "publishedAt": "2026-09-05T17:25:24+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "iran",
-            "ukraine",
-            "envoys",
-            "war",
-            "strikes"
-          ],
-          "group_id": 3
-        }
-      ]
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 13,
-      "why": "AI companies may face increased costs and restrictions on content use.",
-      "context": "Seattle Times and Newsday sued OpenAI and Microsoft over AI training.",
-      "next": "Courts will decide intellectual property rights regarding AI training data.",
-      "bigger": "Copyright law is struggling to adapt to generative AI technologies.",
-      "publishedAt": "2026-09-05T22:49:55+00:00",
-      "topicFingerprint": [
-        "seattle",
-        "microsoft",
-        "times",
-        "openai",
-        "newsday"
-      ],
-      "alternates": [
-        {
-          "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
-          "description": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
-          "category": "Technology",
-          "publishedAt": "2026-09-05T17:46:29+00:00",
+          "publishedAt": "2026-09-06T22:22:00+00:00",
           "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
-            "seattle",
-            "microsoft",
-            "times",
-            "openai",
-            "newsday"
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
           ],
           "group_id": 0
         },
         {
-          "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-          "description": "The tech companies are accused of copying the newspapers\u2019 journalism without permission.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement",
-          "category": "Technology",
-          "publishedAt": "2026-09-05T12:35:00+08:00",
+          "title": "U.S. envoys make first Kyiv visit amid Ukraine war peace push",
+          "description": "",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-06T14:11:58+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump envoys visit Kyiv for peace talks after meeting Putin in Moscow",
+          "description": "Trump envoys Steve Witkoff and Jared Kushner visited Moscow and Kyiv to propose peace routes to end the war in Ukraine, though no breakthrough was announced.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/40ee4385-75ae-4fae-ae11-be9e1671f52f.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-06T06:08:55+00:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "seattle",
-            "microsoft",
-            "times",
-            "openai",
-            "newsday"
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
           ],
           "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Nepali residents may face power outages and higher electricity costs.",
-      "context": "Floods significantly damaged Nepal's hydropower, cutting over 10% of capacity.",
-      "next": "Nepal will urgently work to restore damaged power infrastructure.",
-      "bigger": "Over-reliance on single energy sources creates critical vulnerabilities.",
-      "publishedAt": "2026-09-05T14:07:38+00:00",
-      "topicFingerprint": [
-        "problem",
-        "bet",
-        "everything",
-        "nearly",
-        "floods"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The violent Israeli nomads who defy law and order in the name of God",
-      "description": "Young squatters ditch mainstream lives to push Palestinians from land in the West Bank they claim is the divine birthright of Jewish people.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/the-violent-israeli-nomads-who-defy-law-and-order-in-the-name-of-god-101788659674731.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Regional tensions and conflict over land ownership are intensifying.",
-      "context": "Israeli squatters are violently displacing Palestinians in the West Bank.",
-      "next": "International pressure on both sides to de-escalate will likely grow.",
-      "bigger": "Religious and territorial disputes continue to fuel regional instability.",
-      "publishedAt": "2026-09-06T10:01:00+05:30",
-      "topicFingerprint": [
-        "violent",
-        "order",
-        "law",
-        "name",
-        "israeli"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Jefferies-linked fund has almost US$500 million\u00a0exposure to trader Radiant World, FT reports",
-      "description": "LAM Trade Finance Group II secured a freezing order from a London Court against Radiant World.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/jefferies-linked-fund-has-almost-us500-million-exposure-to-trader-radiant-world-ft-reports",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Investors in affected funds may face financial losses.",
-      "context": "A Jefferies-linked fund has significant exposure to troubled trader Radiant World.",
-      "next": "The fund will try to recover assets from Radiant World.",
-      "bigger": "Financial markets face risks from interconnected, opaque trading entities.",
-      "publishedAt": "2026-09-05T14:20:00+08:00",
-      "topicFingerprint": [
-        "jefferies",
-        "trader",
-        "freezing",
-        "order",
-        "fund"
-      ],
-      "alternates": [
+        },
         {
-          "title": "Jefferies-run fund has nearly US$500 million exposure to iron ore trader Radiant World: FT",
-          "description": "The fund has secured a freezing order against Radiant World, its founder Pinkesh Nahar and Sapphire Minmetals",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/jefferies-run-fund-has-nearly-us500-million-exposure-iron-ore-trader-radiant-world-ft",
-          "category": "Policy",
-          "publishedAt": "2026-09-06T04:58:31+00:00",
+          "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+          "description": "President Trump's envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for diplomatic talks aimed at resuming negotiations between Russia and Ukraine . Why it matters: Kushner and Witkoff traveled to Kyiv right after talks with Russian President Vladimir Putin in Moscow. This is Witkoff ",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-06T21:06:29+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "US envoys bring \u2018more effective\u2019 Ukraine peace proposals to Kyiv, official says",
+          "description": "US envoys brought new, \u201cmore effective\u201d proposals to Kyiv aimed at ending the war with Russia, a senior Ukrainian presidential official said on Sunday. President Volodymyr Zelensky and US envoys Steve Witkoff and Jared Kushner described talks positively but announced no breakthrough, as Zelensky war",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-07T00:31:28+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
+          "description": "President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for ending the war in Ukraine. Why it matters: Witkoff and Kushner want to resume direct talks between Russia and Ukraine after negotiations were suspende",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-06T00:43:17+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
+          "description": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
+          "category": "General",
+          "publishedAt": "2026-09-06T17:06:49-04:00",
           "score": 4,
           "readingTime": 2,
           "topicFingerprint": [
-            "jefferies",
-            "trader",
-            "freezing",
-            "order",
-            "fund"
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
+          "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
+          "category": "General",
+          "publishedAt": "2026-09-06T10:02:21-04:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
+          "description": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+          "category": "General",
+          "publishedAt": "2026-09-06T05:51:04-04:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "envoys",
+            "ukraine",
+            "us_entity",
+            "witkoff",
+            "kyiv"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "From bottles to bakery: How scientists create edible cookies from recycled plastic",
-      "description": "New research at the American Chemical Society meeting showcased a potentially edible cookie made out of \u2014 plastic!",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5947227-e1/from-bottles-to-bakery-how-scientists-create-edible-cookies-from-recycled-plastic",
-      "category": "Science",
+      "title": "Bitcoin drops below US$80,000 as hot jobs data spurs US Federal Reserve hike bets",
+      "description": "Stronger-than-expects job data in August revived bets on an interest rate hike in September.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/bitcoin-drops-below-80000-as-hot-jobs-data-spurs-us-federal-reserve-hike-bets",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Your investments in digital assets may face increased volatility.",
+      "context": "Bitcoin price fell as strong US jobs data boosted rate hike bets.",
+      "next": "Interest rates in the US could rise further, impacting markets.",
+      "bigger": "Economic data heavily influences global cryptocurrency valuations.",
+      "publishedAt": "2026-09-07T08:52:00+08:00",
+      "topicFingerprint": [
+        "job",
+        "august",
+        "jobs",
+        "data",
+        "us_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
+      "description": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 18,
+      "why": "AI tools you use may change frequently with new features.",
+      "context": "Major AI labs are rapidly releasing new model updates and acquisitions.",
+      "next": "The AI market could see consolidation and intense innovation.",
+      "bigger": "Rapid AI development is transforming technology and industries.",
+      "publishedAt": "2026-09-06T12:13:49+00:00",
+      "topicFingerprint": [
+        "versions",
+        "model",
+        "sets",
+        "roll",
+        "frenetic"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Ebola: Why children are last to be treated in medical crises",
+      "description": "In the latest Ebola outbreak in the Democratic Republic of Congo, children are more likely to die than adults. But it's not always due to the disease. Specific medicines for younger people are often harder to come by.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Access to critical medicines for children remains a challenge globally.",
+      "context": "Children in the DRC Ebola outbreak are dying at higher rates.",
+      "next": "Future medical crises could again see children underserved.",
+      "bigger": "Health equity for vulnerable populations is a persistent global issue.",
+      "publishedAt": "2026-09-06T06:13:00+00:00",
+      "topicFingerprint": [
+        "treated",
+        "ebola",
+        "children",
+        "crises",
+        "medical"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "How a mountain collapse triggered Nepal\u2019s deadly flood in just 7 minutes | The Climate Economy",
+      "description": "How did a mountain collapse trigger one of Nepal\u2019s deadliest flood disasters? In this explainer, we break down the strange warning signs, the shrinking river, the seismic signal initially mistaken for an earthquake, and the chain reaction that turned rock, ice and water into a catastrophic flood. He",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/videos/how-a-mountain-collapse-triggered-nepals-deadly-flood-in-just-7-minutes-the-climate-economy/article71434691.ece",
+      "category": "Environment",
       "readingTime": 2,
       "score": 6,
-      "why": "This innovative research could lead to new ways of addressing plastic waste.",
-      "context": "Scientists developed a method to create edible cookies from recycled plastic.",
-      "next": "Further research is needed to commercialize the edible plastic process.",
-      "bigger": "Scientific breakthroughs offer novel solutions for environmental challenges.",
-      "publishedAt": "2026-09-05T07:43:24-04:00",
+      "why": "Rapid natural disasters pose a severe risk to community safety.",
+      "context": "A mountain collapse caused a deadly flood in Nepal in minutes.",
+      "next": "Countries vulnerable to such events may improve early warning systems.",
+      "bigger": "Climate change exacerbates geological hazards and disaster risks.",
+      "publishedAt": "2026-09-06T11:48:38+05:30",
       "topicFingerprint": [
-        "bakery",
-        "bottles",
-        "plastic",
-        "edible",
-        "recycled"
+        "deadly",
+        "flood",
+        "triggered",
+        "minutes",
+        "nepal"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+      "description": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Your transportation and daily costs may rise due to conflicts.",
+      "context": "US consumers spent billions more on fuel due to the Iran war.",
+      "next": "Fuel prices could remain elevated as regional tensions persist.",
+      "bigger": "Geopolitical conflicts directly impact global energy markets.",
+      "publishedAt": "2026-09-07T09:30:44+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "oil",
+        "hormuz",
+        "strait",
+        "war"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "description": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Government efforts to stabilize currency can deplete national assets.",
+      "context": "Japan's foreign reserves significantly dropped after yen intervention.",
+      "next": "Japan may face pressure to further manage its currency's value.",
+      "bigger": "Central banks intervene in markets to control currency fluctuations.",
+      "publishedAt": "2026-09-07T07:38:42+00:00",
+      "topicFingerprint": [
+        "drop",
+        "foreign",
+        "japan",
+        "august",
+        "following"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India\u2019s central bank withdraws over six trillion rupees of bank liquidity after record spike",
+      "description": "The surplus hits 11.6 trillion rupees on Sep 6, amounting to nearly 4% of the banking system deposits",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-central-bank-withdraws-over-six-trillion-rupees-bank-liquidity-after-record-spike",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Lending for businesses and individuals in India may tighten.",
+      "context": "India's central bank withdrew huge liquidity from the banking system.",
+      "next": "The central bank might continue managing excess money supply.",
+      "bigger": "Central banks use various tools to control inflation and credit.",
+      "publishedAt": "2026-09-07T07:50:41+00:00",
+      "topicFingerprint": [
+        "liquidity",
+        "india",
+        "withdraws",
+        "spike",
+        "six"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Jamaica to file slavery reparations petition during UK visit",
+      "description": "Petition to King Charles questions the legality of slavery under English law and UK\u2019s responsibility for reparations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Former colonial powers face renewed calls for historical redress.",
+      "context": "Jamaica will formally petition the UK for slavery reparations.",
+      "next": "The UK government will need to officially respond to the petition.",
+      "bigger": "Global discussions on historical injustices and reparations are growing.",
+      "publishedAt": "2026-09-07T01:34:57+00:00",
+      "topicFingerprint": [
+        "uk_entity",
+        "jamaica",
+        "reparations",
+        "slavery",
+        "english"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Google, Cathay Pacific use AI to tackle aviation\u2019s top climate headache",
+      "description": "The solution mitigates the warming effects of contrails by adjusting flight paths",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/google-cathay-pacific-use-ai-tackle-aviations-top-climate-headache",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Your future flights may contribute less to climate change.",
+      "context": "Google and Cathay Pacific use AI to reduce aircraft contrail warming effects.",
+      "next": "More airlines could adopt AI-driven flight path optimization.",
+      "bigger": "Technology offers new ways to decarbonize complex industries.",
+      "publishedAt": "2026-09-07T09:07:57+00:00",
+      "topicFingerprint": [
+        "cathay",
+        "pacific",
+        "google",
+        "ai_group",
+        "contrails"
+      ],
+      "alternates": [
+        {
+          "title": "Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/cathay-pacific-google-expand-ai-trials-cut-climate-warming-aircraft-contrails-6366981",
+          "category": "Technology",
+          "publishedAt": "2026-09-07T16:10:19+08:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "cathay",
+            "pacific",
+            "google",
+            "ai_group",
+            "contrails"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Cathay Pacific, Google scale up AI tests to reduce aviation\u2019s climate impact",
+          "description": "Hong Kong flag carrier Cathay Pacific and Google are expanding AI-powered flight trials designed to steer aircraft away from contrail-forming zones in the Asia-Pacific region, using the data to inform broader sustainability decisions. Condensation trails, or contrails, form when aircraft fly through",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3366654/cathay-pacific-google-scale-ai-tests-reduce-aviations-climate-impact",
+          "category": "Progress",
+          "publishedAt": "2026-09-07T10:45:25+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "cathay",
+            "pacific",
+            "google",
+            "ai_group",
+            "contrails"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Religious freedom in European schools may face new legal restrictions.",
+      "context": "Austria implemented a ban on Islamic headscarves for girls under 14.",
+      "next": "Legal challenges and social debates against the ban could intensify.",
+      "bigger": "European nations grapple with balancing religious freedom and integration.",
+      "publishedAt": "2026-09-07T00:01:32+00:00",
+      "topicFingerprint": [
+        "austria",
+        "force",
+        "school",
+        "headscarf",
+        "islamic"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Explainer-Options for UK finance minister Healey to tax wealth in October's budget",
+      "description": "LONDON, Sept 7 - British finance minister John Healey faces pressure to raise billions of pounds in tax at his first budget to offset higher borrowing costs and fund Prime Minister Andy Burnham's plans for expanded social care and more defence spending.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/explainer-options-for-uk-finance-minister-healey-to-tax-wealth-in-octobers-budget",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Affluent individuals in the UK may face higher tax burdens.",
+      "context": "UK finance minister is pressured to consider new wealth taxes.",
+      "next": "The UK budget will likely propose measures to raise government revenue.",
+      "bigger": "Governments are seeking ways to fund spending and reduce debt.",
+      "publishedAt": "2026-09-07T13:22:04+08:00",
+      "topicFingerprint": [
+        "budget",
+        "healey",
+        "finance",
+        "uk_entity",
+        "minister"
       ],
       "alternates": []
     }
   ],
   "audioBrief": null,
-  "audioBriefIndepth": null,
+  "audioBriefIndepth": {
+    "script": "Welcome to your Sift In-Depth Briefing. This is your comprehensive dive into today's most important stories, designed for when you have time for real understanding.\n\nFirst up, we're looking at renewed diplomatic efforts in the conflict in Ukraine. Former President Trump's top envoys, Jared Kushner and Richard Witkoff, have recently visited Ukraine with hopes of jumpstarting peace talks with Russia. Their visit to Kyiv comes after they held discussions with Russian President Vladimir Putin in Moscow. The significance here is that these aren't traditional diplomats, but rather figures with a direct and strong connection to a former US president, suggesting a potentially unique, informal channel for negotiation. Their goal is to understand the positions of both sides and explore avenues for a ceasefire or a more lasting peace, aiming to restart dialogue that has largely stalled. This effort highlights how international mediation can sometimes come from unexpected places, seeking to resolve major global conflicts outside of established government channels. What this means for the immediate future is that we could see more high-level, though perhaps unconventional, diplomatic engagements trying to broker a peace agreement.\n\nMeanwhile, we\u2019re seeing some turbulence in the cryptocurrency market. Bitcoin\u2019s price has dipped below eighty thousand US dollars, a reaction to stronger-than-expected jobs data from the United States. Specifically, robust job growth in August has led investors to revive bets on a potential interest rate hike by the US Federal Reserve in September. The underlying mechanism here is straightforward: when the economy shows strong signs of growth, like significant job creation, the Federal Reserve gains more confidence that it can raise interest rates to cool inflation without derailing the economy. Higher interest rates typically make safer investments, such as government bonds, more attractive, which in turn reduces the appeal of riskier assets like Bitcoin. This shift in investor sentiment then triggers sell-offs, causing prices to fall. For investors in digital assets, this signals continued volatility tied closely to macroeconomic indicators.\n\nMoving onto the world of artificial intelligence, a new phenomenon called \u2018model fatigue\u2019 is setting in as AI labs race to roll out new versions at a frenetic pace. Just this week, major players like Anthropic, OpenAI, Meta, and Google all released model updates. Adding to the flurry, Nvidia announced its acquisition of the open-source AI platform Hugging Face. This intense competition is driving rapid innovation, but it also creates challenges. Developers and businesses struggle to keep up with the constant changes, requiring frequent updates to their own applications and workflows to integrate the latest AI capabilities. This \"fatigue\" comes from the sheer volume and speed of new releases, making it difficult to choose and commit to a particular model or platform. The consequence is that the AI tools you use may change frequently, and the AI market could see further consolidation as companies vie for dominance in this rapidly evolving sector. This fast-paced AI development is fundamentally reshaping technology and numerous industries.\n\nNext, a critical look at health crises, specifically why children are often last to be treated, even during outbreaks like Ebola. In the latest Ebola outbreak in the Democratic Republic of Congo, children are dying at higher rates than adults. This isn't just because children are more vulnerable to disease; the source snippet highlights a crucial systemic issue: specific medicines for younger people are often harder to come by. The process for developing and approving drugs typically prioritizes adults, leading to delays in creating child-specific dosages or formulations. Furthermore, supply chains in crisis-affected regions may not be equipped to handle the unique needs of pediatric medications. This systemic disadvantage means that during medical emergencies, children can be underserved, contributing to tragic outcomes. This story underscores the persistent global challenge of health equity for vulnerable populations and the need to prioritize pediatric care in all emergency preparedness.\n\nSwitching to climate-related disasters, we're learning more about how a mountain collapse triggered Nepal\u2019s deadly flood in just seven minutes. The explainer reveals a chain reaction: warning signs, a shrinking river, and a seismic signal initially mistaken for an earthquake. What happened was that a massive volume of rock, ice, and water detached from the mountain. This immense landslide blocked the river below, creating a sudden, unstable natural dam. When this temporary dam inevitably failed under the immense pressure, it released a catastrophic surge of water downstream, causing a flash flood that devastated communities in mere minutes. The seismic signal was likely the actual impact of the mountain falling, rather than an earthquake. For countries vulnerable to such events, understanding this rapid chain reaction is crucial for improving early warning systems. This incident highlights how geological hazards, potentially exacerbated by changing climate conditions that affect mountain stability and glacial melt, pose severe risks to community safety.\n\nOn the economic front, US consumers have spent an additional one hundred billion dollars on fuel due to ongoing geopolitical tensions. The average US household alone has spent an extra $763 on fuel in the past six months, directly attributed to the US-Israel war on Iran pushing up fuel costs. The mechanism here is that conflicts or heightened tensions in major oil-producing regions, like the Middle East, create uncertainty in the global oil supply. Traders and markets react to this by driving up the price of crude oil, anticipating potential disruptions to extraction or shipping. This increased cost of crude oil is then passed directly to consumers at the gas pump. This means your transportation and daily costs are directly impacted by conflicts far away. With regional tensions persisting, fuel prices could remain elevated for the foreseeable future, demonstrating how geopolitical conflicts directly influence global energy markets and household budgets.\n\nOver in Japan, the nation's foreign reserves saw a record drop of eighty billion dollars in August, following interventions to support the yen. Finance ministry data shows that Japan's official foreign reserves now stand at 1.207 trillion dollars, down from 1.287 trillion in July. The reason for this significant decrease is that the Japanese central bank intervened in the currency market to strengthen the yen. When a central bank wants to boost its currency's value, it sells its holdings of foreign currencies, primarily US dollars, and uses that money to buy its own currency. This increases demand for the yen, pushing its value up. While this can help mitigate imported inflation and make Japanese assets more attractive, it comes at the cost of depleting a nation's foreign currency reserves. For Japan, this means the government\u2019s efforts to stabilize its currency can come with a substantial price tag, and it may face continued pressure to manage the yen\u2019s value against other major currencies.\n\nMeanwhile, India's central bank has withdrawn over six trillion rupees of liquidity from the banking system after a record spike. On September 6th, the surplus liquidity in the Indian banking system hit an unprecedented 11.6 trillion rupees, which amounts to nearly four percent of the country\u2019s total banking system deposits. The Reserve Bank of India took this action to manage the money supply. An excess of liquidity means there's too much cash flowing through the financial system, which can potentially lead to higher inflation as people and businesses have more money to spend, and it can also fuel asset bubbles. By withdrawing this liquidity, typically by selling government bonds to commercial banks, the central bank aims to absorb the surplus cash, thereby cooling down inflationary pressures and ensuring financial stability. The consequence for India is that lending for businesses and individuals may tighten as there's less cash available in the banking system. This illustrates how central banks actively use various tools to control inflation and credit conditions within an economy.\n\nIn international relations, Jamaica is preparing to file a slavery reparations petition during a visit to the UK. This formal petition to King Charles questions the legality of slavery under English law and directly asserts the UK\u2019s responsibility for reparations. The underlying argument from Jamaica is that the immense wealth accumulated by Britain through the transatlantic slave trade came at the cost of immense human suffering and created lasting economic and social disadvantages for the descendants of enslaved people in former colonies. By formally presenting this petition, Jamaica is seeking not only an acknowledgment of the historical injustice but also concrete financial and developmental redress. This action puts renewed pressure on former colonial powers to address their historical legacy. The next step will be for the UK government to officially respond to this petition, contributing to the growing global discussions on historical injustices and the complex issue of reparations.\n\nLooking at environmental solutions, Google and Cathay Pacific are collaborating to use AI to tackle one of aviation\u2019s top climate headaches. Their solution aims to mitigate the warming effects of contrails by adjusting flight paths. Contrails are those visible white streaks left behind by aircraft at high altitudes, formed by water vapor freezing around exhaust particles. While many dissipate quickly, some persistent contrails can trap heat in the atmosphere, acting like thin, high-altitude clouds and contributing to global warming. The AI system works by analyzing vast amounts of meteorological data to predict where and when persistent contrails are most likely to form. It then suggests minor adjustments to flight altitudes or routes for aircraft to avoid these specific atmospheric conditions. By doing so, the airlines can significantly reduce the climate impact of these contrails. This innovative approach suggests that your future flights may contribute less to climate change, and more airlines could adopt AI-driven flight path optimization as technology offers new ways to decarbonize complex industries.\n\nMoving to Europe, Austria has implemented a ban on Islamic headscarves for girls under the age of fourteen, which is now in force as students return to school. The government states that the law is intended to protect the rights of young girls, suggesting a belief that wearing a headscarf might restrict their freedom or social integration. However, critics strongly argue that this ban fuels anti-Muslim sentiment and infringes upon religious freedom. This legislative act directly imposes a dress code in schools that targets a specific religious symbol for a particular age group. The move reflects a broader tension within some European nations that are grappling with how to balance secular principles, religious freedom, and policies concerning integration and national identity, particularly when it comes to minority religious groups. This policy is likely to face legal challenges and continue to spark significant social debates about religious expression in public spaces.\n\nAnd finally, in the UK, finance minister John Healey is facing considerable pressure to consider new wealth taxes in October\u2019s budget. The drive for this comes from the need to raise billions of pounds to offset higher borrowing costs and to fund Prime Minister Andy Burnham\u2019s ambitious plans for expanded social care and increased defense spending. Governments typically explore wealth taxes \u2013 which could include taxes on assets like property, investments, or inheritances \u2013 as a way to generate significant revenue without broadly raising income or consumption taxes, which might disproportionately affect lower and middle-income households. Such taxes are often framed as a means of improving fairness and redistributing wealth. This pressure means affluent individuals in the UK may face higher tax burdens, and the upcoming budget will reveal the specific measures the government intends to propose to raise the necessary revenue, highlighting the ongoing challenge for governments to balance public spending priorities with fiscal sustainability.\n\nToday's reflective insight is about why perfectionism often causes scientific failure. In 1923, Robert Millikan won a Nobel Prize for measuring the charge of an electron. He famously ignored data points he deemed \"flawed,\" filtering out thousands of results to reach a suspiciously perfect, clean number.\n\nWhen we strive for flawless execution, we subconsciously prune away \"messy\" data. We treat outliers as noise rather than as the most important signals, missing the anomalies that contain our next genuine breakthrough. This isn't just a scientific pitfall; it happens in business when we dismiss small customer complaints or project glitches because they don't fit our clean, idealized strategy. We prioritize a pristine outcome over the reality of the situation.\n\nIt's a fascinating paradox: the very pursuit of perfection can blind us to the unexpected truths that reside in the imperfections. What valuable insights are we missing, what breakthroughs are we delaying, by instinctively editing reality to fit our ideal vision? Think about it: that \"flawed\" data point, that irritating outlier, might just be the most honest piece of information you have.\n\nTry this today: The next time you discard an \"outlier\" detail, investigate why it doesn't fit your plan. Rigorous precision is often just a sophisticated way of ignoring the truth.\n\nThank you for joining us for this in-depth look at today's news. We hope this has offered you a clearer perspective and given you something to consider. Take a moment to reflect on what you've heard, and we wish you a thoughtful day ahead.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
+    "estimatedDurationSeconds": 708
+  },
   "candidatePool": [
     {
-      "title": "Republicans sour on the economy",
-      "description": "Republicans' confidence in the economy has plummeted over the last six months at a pace unseen since Covid \u2014 reminiscent of the declines during the global financial crisis nearly two decades ago. Why it matters: Usually, the president's party is upbeat about the economy, while the party out of power",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/05/trump-economy-michigan-survey-inflation-iran-war",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Shifting public sentiment may influence future economic policies.",
-      "context": "Republican confidence in the economy has sharply declined recently.",
-      "next": "Political parties will likely adjust their economic messaging.",
-      "bigger": "Political polarization often affects perceptions of economic performance.",
-      "publishedAt": "2026-09-05T11:30:06+00:00",
-      "topicFingerprint": [
-        "sour",
-        "republicans",
-        "economy"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
-      "description": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Strong job growth may lead central banks to keep interest rates higher.",
-      "context": "US payrolls increased by 162,000 in August, exceeding expectations.",
-      "next": "The Federal Reserve will assess labor data for future rate decisions.",
-      "bigger": "Robust job markets can complicate efforts to control inflation.",
-      "publishedAt": "2026-09-04T17:16:37+00:00",
-      "topicFingerprint": [
-        "payrolls",
-        "unemployment",
-        "rate",
-        "expected",
-        "august"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation",
-      "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Cybercab availability and future autonomous vehicle deployment could be delayed.",
-      "context": "Tesla's Cybercab has been deployed but is under US government safety investigation.",
-      "next": "The investigation will determine if Cybercab meets safety requirements.",
-      "bigger": "Regulators are grappling with rapid advancements in autonomous vehicle tech.",
-      "publishedAt": "2026-09-05T15:17:36+00:00",
-      "topicFingerprint": [
-        "investigation",
-        "tesla",
-        "already",
-        "cybercab",
-        "deployed"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Lie detectors, 50 officials and a leak hunt: Inside Pentagon\u2019s growing paranoia over Iran",
-      "description": "President Trump has pushed administration officials to aggressively pursue those responsible for leaks.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/lie-detectors-50-officials-and-a-leak-hunt-inside-pentagon-s-growing-paranoia-over-iran-donald-trump-war-hegseth-101788592551498.html",
+      "title": "US adtech giant The Trade Desk lays off 15% of global workforce; Singapore team affected",
+      "description": "Some of its employees in Singapore spoke about the layoffs on social media.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/us-adtech-giant-the-trade-desk-lays-off-15-of-global-workforce-singapore-team-affected",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 8,
-      "why": "Government employees may face heightened scrutiny and surveillance.",
-      "context": "The Pentagon is intensely hunting for leaks about Iran-related information.",
-      "next": "Internal security measures within the Pentagon will likely increase.",
-      "bigger": "Governments are tightening controls on sensitive national security information.",
-      "publishedAt": "2026-09-05T13:21:33+05:30",
+      "score": 15,
+      "why": "Job security in the technology sector may remain uncertain.",
+      "context": "The Trade Desk, an adtech company, laid off 15% of its global workforce.",
+      "next": "Other adtech firms could also face similar restructuring pressures.",
+      "bigger": "Tech companies are adjusting to changing market conditions.",
+      "publishedAt": "2026-09-07T12:53:05+08:00",
       "topicFingerprint": [
-        "leak",
-        "pentagon",
-        "hunt",
-        "lie",
-        "military"
+        "giant",
+        "team",
+        "adtech",
+        "singapore",
+        "desk"
       ],
       "alternates": []
     },
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro",
-      "category": "Policy",
+      "title": "CNBC Daily Open: Trump's \u2018little excursion\u2019 becomes an uphill battle as Iran war continues",
+      "description": "Comments from U.S. Energy Secretary Chris Wright over suggest those promises may be increasingly difficult to reconcile.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/cnbc-daily-open-trump-iran-war-oil-prices-nuclear-deal.html",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 7,
-      "why": "This change may improve global understanding of geographic scale.",
-      "context": "The UN adopted a new world map to accurately reflect Africa's size.",
-      "next": "Other international bodies may update their official maps.",
-      "bigger": "Cartography evolves with new data and perspectives on representation.",
-      "publishedAt": "2026-09-05T16:14:24+00:00",
+      "score": 14,
+      "why": "Geopolitical conflicts may complicate diplomatic initiatives.",
+      "context": "Trump's Middle East peace efforts face challenges as the Iran war continues.",
+      "next": "US foreign policy in the Middle East could face increased scrutiny.",
+      "bigger": "Regional conflicts often frustrate international peace endeavors.",
+      "publishedAt": "2026-09-07T01:29:19+00:00",
       "topicFingerprint": [
-        "adopts",
-        "true",
-        "africa",
-        "size",
-        "map"
+        "iran",
+        "us_entity",
+        "oil",
+        "hormuz",
+        "strait",
+        "war"
       ],
       "alternates": []
     },
     {
-      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-      "description": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms",
+      "title": "Nikkei, Kospi rally as strong US jobs data brighten global growth outlook",
+      "description": "Rising bond yields remain a drag for equity valuation",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/nikkei-kospi-rally-strong-us-jobs-data-brighten-global-growth-outlook",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Investor confidence in global economic growth may improve.",
+      "context": "Asian stock markets Nikkei and Kospi rallied on strong US jobs data.",
+      "next": "Equity markets could see continued gains if economic data remains positive.",
+      "bigger": "US economic performance significantly impacts global market sentiment.",
+      "publishedAt": "2026-09-07T00:00:34+00:00",
+      "topicFingerprint": [
+        "strong",
+        "growth",
+        "data",
+        "outlook",
+        "kospi"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "European stocks mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+      "description": "European stocks were mixed on Monday as Asia-Pacific markets broadly rose, with investor attention focused on the latest developments in the U.S.-Iran war.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Geopolitical tensions can cause market volatility worldwide.",
+      "context": "European stocks were mixed, Asian markets rose amid Middle East hostilities.",
+      "next": "Investors will closely monitor developments in the Middle East.",
+      "bigger": "Global markets react sensitively to international conflicts and news.",
+      "publishedAt": "2026-09-07T10:36:39+00:00",
+      "topicFingerprint": [
+        "hostilities",
+        "pacific",
+        "mixed",
+        "east",
+        "asia"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Google-backed Pixxel raises $100M in India\u2019s largest space tech round",
+      "description": "Pixxel, the Indian company that has spent six years arguing that Earth observation is worth doing in colours the human eye cannot see, has raised $100M in a Series C round led by Singapore\u2019s state investor Temasek and the London-listed Seraphim Space Investment Trust. It is the largest single round ",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/pixxel-100m-series-c-temasek-seraphim",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Investment in Earth observation technology is accelerating globally.",
+      "context": "Indian space tech company Pixxel raised $100M in a major funding round.",
+      "next": "Pixxel may expand its satellite constellation and data services.",
+      "bigger": "Private space industry is rapidly growing with significant investments.",
+      "publishedAt": "2026-09-07T08:52:25+00:00",
+      "topicFingerprint": [
+        "raises",
+        "space",
+        "round",
+        "india",
+        "google"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Philippine president\u2019s cousin charged with plunder over US$118 million flood scandal",
+      "description": "Philippine prosecutors filed a criminal charge on Monday against a lawmaker and cousin of President Ferdinand Marcos Jnr over his alleged involvement in a massive corruption scandal involving bogus flood-control projects. The case came more than a year after Marcos put the so-called \u201cghost\u201d infrastr",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366632/philippine-presidents-cousin-charged-plunder-over-us118-million-flood-scandal",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Government corruption can divert public funds from essential services.",
+      "context": "Philippine president's cousin was charged in a $118M flood scandal.",
+      "next": "The lawmaker will likely face trial for alleged corruption.",
+      "bigger": "Combating corruption remains a global challenge for good governance.",
+      "publishedAt": "2026-09-07T08:55:56+00:00",
+      "topicFingerprint": [
+        "flood",
+        "charged",
+        "control",
+        "lawmaker",
+        "philippine"
+      ],
+      "alternates": [
+        {
+          "title": "A Philippine lawmaker charged with corruption in flood control projects",
+          "description": "A Philippine lawmaker and former House speaker has been charged with allegedly pocketing millions from flood control projects",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/philippine-lawmaker-charged-corruption-flood-control-projects-136250057",
+          "category": "Environment",
+          "publishedAt": "2026-09-07T06:05:52-04:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "flood",
+            "charged",
+            "control",
+            "lawmaker",
+            "philippine"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Philippine president's lawmaker cousin charged over flood control scandal",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/asia/philippine-presidents-lawmaker-cousin-charged-over-flood-control-scandal-6367006",
+          "category": "Environment",
+          "publishedAt": "2026-09-07T16:35:12+08:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "flood",
+            "charged",
+            "control",
+            "lawmaker",
+            "philippine"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "description": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o",
       "category": "General",
       "readingTime": 2,
-      "score": 7,
-      "why": "Media scrutiny increases pressure on officials regarding regional conflicts.",
-      "context": "An Al Jazeera reporter challenged a US ambassador over settler violence.",
-      "next": "Diplomatic conversations about Israeli settler violence may intensify.",
-      "bigger": "Media plays a vital role in challenging official narratives.",
-      "publishedAt": "2026-09-05T20:00:05+00:00",
+      "score": 9,
+      "why": "Students' academic futures in India may be compromised by fraud.",
+      "context": "India's centralized exam system is facing a crisis of trust.",
+      "next": "India may reform its national examination processes.",
+      "bigger": "Ensuring fair and secure education systems is a global concern.",
+      "publishedAt": "2026-09-06T23:02:40+00:00",
       "topicFingerprint": [
-        "mike",
-        "settlers",
-        "israeli",
-        "huckabee",
-        "jazeera"
+        "stakes",
+        "trust",
+        "exam",
+        "india",
+        "system"
       ],
       "alternates": []
     },
     {
-      "title": "Chimpanzees used for vaccine research get health checks as part of long-term care",
-      "description": "Chimpanzees once used in hepatitis B vaccine experiments are getting health checks at their new home in Liberia",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/chimpanzees-vaccine-research-health-checks-part-long-term-136222541",
-      "category": "Health",
+      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+      "description": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+      "category": "Science",
       "readingTime": 2,
-      "score": 5,
-      "why": "Ethical treatment of research animals is improving with long-term care.",
-      "context": "Chimpanzees from vaccine research are receiving long-term health checks.",
-      "next": "More retired research animals may receive similar dedicated care.",
-      "bigger": "Animal welfare standards in scientific research are evolving.",
-      "publishedAt": "2026-09-05T09:22:26-04:00",
+      "score": 7,
+      "why": "Future space-based internet services may face significant delays.",
+      "context": "Building data centers in space faces major technical challenges.",
+      "next": "Engineers must overcome complex hurdles for off-world computing.",
+      "bigger": "Humanity is pushing computing infrastructure beyond Earth.",
+      "publishedAt": "2026-09-07T05:56:40+00:00",
       "topicFingerprint": [
-        "chimpanzees",
-        "vaccine",
-        "part",
-        "long",
-        "term"
+        "four",
+        "space",
+        "ambitious",
+        "centers",
+        "timeline"
       ],
       "alternates": []
     },
     {
-      "title": "Crews working to restore power to tens of thousands in Michigan after storms",
-      "description": "As of Saturday afternoon, DTE Energy says around 4,000 utility workers are focused on restoring power to tens of thousands of Southeast Michigan residents.",
+      "title": "Huawei unveils new trifold smartphone powered by Tau Scaling Law-based Kirin chip",
+      "description": "Huawei Technologies has unveiled its first smartphone powered by a next-generation mobile processor based on the company\u2019s proprietary Tau Scaling Law, continuing its push to boost chip performance while reducing reliance on advanced foreign semiconductor equipment. Speaking at a launch event in Gua",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3366650/huawei-unveils-new-trifold-smartphone-powered-tau-scaling-law-based-kirin-chip",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Consumers may soon have more innovative smartphone options.",
+      "context": "Huawei unveiled a new trifold smartphone with its advanced Kirin chip.",
+      "next": "Huawei will likely continue its focus on advanced chip development.",
+      "bigger": "Smartphone manufacturers constantly innovate with new designs and tech.",
+      "publishedAt": "2026-09-07T10:32:07+00:00",
+      "topicFingerprint": [
+        "smartphone",
+        "kirin",
+        "scaling",
+        "huawei",
+        "powered"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Crews working to restore power to thousands in Michigan after storms",
+      "description": "DTE Energy says around 4,000 utility workers were focused on restoring power to thousands of Southeast Michigan residents on Saturday and Sunday.",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/southeast-michigan-storms-power-restoration-progress/",
       "category": "Progress",
       "readingTime": 2,
       "score": 3,
-      "why": "Michigan residents are experiencing power outages and significant inconvenience.",
-      "context": "Crews are restoring power to tens of thousands in Michigan after storms.",
-      "next": "Power restoration efforts will continue across affected regions.",
-      "bigger": "Extreme weather events increasingly challenge critical infrastructure.",
-      "publishedAt": "2026-09-05T21:11:00-04:00",
+      "why": "Your home services may be disrupted by severe weather events.",
+      "context": "Utility crews are restoring power to thousands in Michigan after storms.",
+      "next": "Utility companies will continue efforts to fully restore power.",
+      "bigger": "Aging infrastructure faces increasing strain from extreme weather.",
+      "publishedAt": "2026-09-06T22:14:00-04:00",
       "topicFingerprint": [
-        "working",
-        "thousands",
-        "tens",
+        "storms",
         "crews",
-        "restore"
+        "power",
+        "restore",
+        "working"
       ],
       "alternates": []
     }
@@ -624,220 +799,29 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "How Asian shipyards in Japan, Korea and Philippines keep US warships battle ready",
-        "description": "After being stranded in the South China Sea following a power failure in July, the Arleigh Burke-class destroyer USS Benfold was towed to Subic Bay in the Philippines for emergency repairs. The facility is among the repair and maintenance hubs the US Navy has been developing in the region, strategic",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/military/article/3366489/how-asian-shipyards-japan-korea-and-philippines-keep-us-warships-battle-ready",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Taiwan pledges $20bn more in US chip investment while courting the EU, Reuters reports",
+        "description": "Taiwan spent this week\u2019s SEMICON trade show in Taipei making the same argument twice over, once to Washington and once to Brussels: that its chips arrive with democratic governance attached. The commercial half of that argument came with a number, and economy minister Kung Ming-hsin supplied it, ann",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/taiwan-chip-diplomacy-semicon-20bn-us-investment",
+        "fromUrl": "https://thenextweb.com/feed",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T14:00:06+00:00",
+        "publishedAt": "2026-09-07T09:06:31+00:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 13,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: economy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ready",
-          "shipyards",
-          "asian",
-          "battle",
-          "philippines"
-        ]
-      },
-      {
-        "title": "Wall Street ends lower as solid jobs data fuels hawkish US Fed bets",
-        "description": "The Dow Jones Industrial Average fell 272.51 points, or 0.51 per cent.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-as-solid-jobs-data-fuels-hawkish-fed-bets",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-05T04:49:39+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
+            "reason": "important keyword match: investment"
           },
           {
             "points": 2,
-            "reason": "important keyword match: data"
+            "reason": "important keyword match: chip"
           },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "lower",
-          "jobs",
-          "us_entity",
-          "data",
-          "fed"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "How Asian shipyards in Japan, Korea and Philippines keep US warships battle ready",
-        "description": "After being stranded in the South China Sea following a power failure in July, the Arleigh Burke-class destroyer USS Benfold was towed to Subic Bay in the Philippines for emergency repairs. The facility is among the repair and maintenance hubs the US Navy has been developing in the region, strategic",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/military/article/3366489/how-asian-shipyards-japan-korea-and-philippines-keep-us-warships-battle-ready",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-05T14:00:06+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ready",
-          "shipyards",
-          "asian",
-          "battle",
-          "philippines"
-        ]
-      },
-      {
-        "title": "Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?",
-        "description": "Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. The robotaxi \u2013 which operates entirely without a steering wheel, pedals or rear-vi",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-06T04:00:09+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: tesla"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "opinion rhetorical headline"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "robotaxi",
-          "spark",
-          "buzz",
-          "tesla",
-          "slow"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "How Asian shipyards in Japan, Korea and Philippines keep US warships battle ready",
-        "description": "After being stranded in the South China Sea following a power failure in July, the Arleigh Burke-class destroyer USS Benfold was towed to Subic Bay in the Philippines for emergency repairs. The facility is among the repair and maintenance hubs the US Navy has been developing in the region, strategic",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/military/article/3366489/how-asian-shipyards-japan-korea-and-philippines-keep-us-warships-battle-ready",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-05T14:00:06+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ready",
-          "shipyards",
-          "asian",
-          "battle",
-          "philippines"
-        ]
-      },
-      {
-        "title": "Yen surges and US dollar slumps amid shifting rate bets and carry trade exodus",
-        "description": "The Japanese yen surged and the US dollar slumped amid shifting rate bets and a carry trade exodus, marking the yen's strongest week since July.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/f33e5758-eeee-40af-b366-c78deb31e52c.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-05T01:22:43+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
@@ -851,49 +835,8 @@
             "reason": "geopolitics important keyword match: trade"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "yen",
-          "dollar",
-          "slumps",
-          "carry",
-          "trade"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Isar's German rocket reaches space as Europe enters satellite launch race",
-        "description": "Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial flight to reach orbit from continental Europe.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/2056a8ff-5592-490f-be4c-52f0706ed0d9.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-06T01:08:10+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: rocket"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "points": -1,
+            "reason": "Low Quality Source match: The Next Web"
           },
           {
             "points": 1,
@@ -901,250 +844,195 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "German rocket reaches space as Europe enters satellite launch race",
-            "description": "The launch strengthens European space autonomy and security.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/german-rocket-reaches-space-as-europe-enters-satellite-launch-race",
-            "category": "General",
-            "publishedAt": "2026-09-06T08:20:00+08:00",
-            "score": 6,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "eu_entity",
-              "rocket",
-              "satellite",
-              "reaches"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "German rocket reaches space as Europe enters satellite launch race",
-            "description": "German start-up Isar Aerospace on Saturday launched its first rocket into space from a site in Arctic Norway, bringing Europe closer to offering satellite flights from its own soil. The uncrewed Spectrum rocket was the first commercial flight to reach orbit from continental Europe, \u200cwhere several na",
-            "source": "South China Morning Post",
-            "url": "https://www.scmp.com/news/world/europe/article/3366509/german-rocket-reaches-space-europe-enters-satellite-launch-race",
-            "category": "Financial",
-            "publishedAt": "2026-09-05T22:06:47+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "eu_entity",
-              "rocket",
-              "satellite",
-              "reaches"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Europe\u2019s satellite launch ambitions take off as German rocket reaches orbit",
-            "description": "",
-            "source": "Investing.com",
-            "url": "https://www.investing.com/news/economy-news/europes-satellite-launch-ambitions-take-off-as-german-rocket-reaches-orbit-4890245",
-            "category": "Technology",
-            "publishedAt": "2026-09-06T00:03:34+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "eu_entity",
-              "rocket",
-              "satellite",
-              "reaches"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "German company launches rocket as Europe enters satellite race",
-            "description": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from And\u00f8ya spaceport in Arctic Norway.",
-            "source": "Al Jazeera",
-            "url": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race",
-            "category": "General",
-            "publishedAt": "2026-09-06T00:53:23+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "eu_entity",
-              "rocket",
-              "satellite",
-              "reaches"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "German rocket reaches space as Europe enters satellite launch race",
-            "description": "Five satellites ride a German startup rocket from Arctic Norway as Europe pushes for homegrown launch capability.",
-            "source": "Channel News Asia",
-            "url": "https://www.channelnewsasia.com/business/german-space-rocket-lifts-norway-base-6365096",
-            "category": "General",
-            "publishedAt": "2026-09-06T04:17:00+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "german",
-              "eu_entity",
-              "rocket",
-              "satellite",
-              "reaches"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "german",
-          "eu_entity",
-          "rocket",
-          "satellite",
-          "reaches"
+          "investment",
+          "20bn",
+          "pledges",
+          "chip",
+          "courting"
         ]
       },
       {
-        "title": "Berlin launches crisis response after hackers publish stolen data",
-        "description": "BERLIN, Sept 5 - Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group, as investigators attempt to assess the scale and impact of the cyberattack that targeted two departments.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/berlin-launches-crisis-response-after-hackers-publish-stolen-data",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
+        "title": "Top Wall Street analysts like these 3 stocks for the long haul",
+        "description": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-06T00:46:35+08:00",
+        "publishedAt": "2026-09-07T10:37:16+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: research"
           },
           {
             "points": 2,
-            "reason": "important keyword match: crisis"
+            "reason": "other category"
           },
           {
             "points": 2,
-            "reason": "important keyword match: data"
+            "reason": "Highest Quality Source match: CNBC"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "crisis",
-          "data",
-          "berlin",
-          "stolen",
-          "publish"
+          "analysts",
+          "haul",
+          "top",
+          "long",
+          "street"
         ]
       }
     ],
-    "singapore": [
+    "china": [
       {
-        "title": "Taiwan remains Asia\u2019s \u2018most dangerous\u2019 issue, former Singaporean diplomat warns",
-        "description": "Asia is still shackled by \u201cmental colonisation\u201d despite accounting for over half the global population, a former UN Security Council president has said, while warning that Taiwan remains the region\u2019s most dangerous flashpoint. \u201cThe big mistake that Asians made after the end of colonial rule [is assu",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3366488/taiwan-remains-asias-most-dangerous-issue-former-singaporean-diplomat-warns",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
+        "title": "China\u2019s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
+        "description": "\"The result is an industrial machine that cannot stop and cannot slow down\u2014but that, owing to the limits of demand, cannot keep going.\"",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
+        "fromUrl": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T12:30:05+00:00",
+        "publishedAt": "2026-09-06T23:04:53+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 12,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
           {
             "points": 2,
             "reason": "important keyword match: global"
           },
           {
             "points": 2,
-            "reason": "important keyword match: security"
+            "reason": "important keyword match: u.s"
           },
           {
             "points": 2,
-            "reason": "important keyword match: asia"
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
-            "reason": "policy important keyword match: un"
+            "reason": "important keyword match: export"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: export"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
           },
           {
             "points": -2,
-            "reason": "low quality group match: said"
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "low quality group in title match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "warns",
+          "clean",
+          "pushing",
+          "shock",
           "former",
-          "remains",
-          "dangerous",
-          "singaporean"
+          "breaking"
         ]
       },
       {
-        "title": "US eggs return to Singapore: Will customers shell out up to $14.80 for a dozen?",
-        "description": "A pack of 12 free-range white or brown eggs costs $12.80, and a dozen organic free-range eggs costs $14.80.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/us-eggs-return-to-singapore-will-customers-shell-out-up-to-14-80-for-a-dozen",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
+        "title": "What America\u2019s high bond yields and China\u2019s low rates tell us",
+        "description": "Neither high yields nor low ones are inherently reassuring \u2013 they reflect different economic conundrums",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/what-americas-high-bond-yields-and-chinas-low-rates-tell-us",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T14:30:00+08:00",
+        "publishedAt": "2026-09-06T23:00:00+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 11,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: customers"
-          },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
-            "points": -2,
-            "reason": "opinion rhetorical headline"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "customers",
-          "singapore",
-          "shell",
-          "dozen",
-          "return"
+          "yields",
+          "rates",
+          "low",
+          "us",
+          "bond"
         ]
       }
     ],
-    "india": [
+    "australia": [
       {
-        "title": "Building collapses after heavy rain in northern India",
-        "description": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
+        "title": "Australia\u2019s proposed \u2018opt out\u2019 law targets Big Tech algorithms",
+        "description": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4",
+        "url": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms",
         "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T21:11:25+00:00",
+        "publishedAt": "2026-09-07T02:35:14+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 2,
@@ -1158,136 +1046,470 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "building",
-          "collapses",
-          "india",
-          "rain",
-          "heavy"
+          "media",
+          "give",
+          "algorithms",
+          "social",
+          "face"
         ]
-      },
+      }
+    ],
+    "uae": [
       {
-        "title": "India's NSE eyes Sep 21-week listing after regulator clears IPO, sources say",
-        "description": "NSE has been valued at about US$55 billion in the unlisted market",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/international/global/indias-nse-eyes-sep-21-week-listing-after-regulator-clears-ipo-sources-say",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
-        "category": "Financial",
+        "title": "UAE builds alternative trade, energy routes after Iran attacks, official says",
+        "description": "DUBAI, Sept 7 - The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not \\\"held hostage\\\" by the ongoing war with Iran, UAE presidential adviser Anwar Gargash said on Monday.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/uae-builds-alternative-trade-energy-routes-after-iran-attacks-official-says",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T07:49:52+00:00",
+        "publishedAt": "2026-09-07T16:46:49+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: market"
+            "reason": "important keyword match: energy"
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: iran"
           },
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: exports"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "low quality group in title match: says"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "builds",
+          "alternative",
+          "attacks",
+          "uae_entity",
+          "routes"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Goldman boosts Asia ex-Japan index target for one big reason",
+        "description": "Goldman raises its forecast for MSCI AC Asia Pacific ex-Japan Index on expectations for higher earnings forecasts led by Taiwan and Korea.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/07/goldman-boosts-asia-ex-japan-index-target-ai-korea.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T02:08:36+00:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: forecast"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
             "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: say"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: say"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "nse",
-          "ipo",
-          "regulator",
-          "india",
-          "sources"
+          "japan",
+          "goldman",
+          "asia",
+          "reason",
+          "boosts"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Markets decline amid West Asia conflict, concerns over possible U.S. interest-rate hike",
+        "description": "The 30-share BSE Sensex dropped 172.77 points to 76,342.66 in early trade. The 50-share NSE Nifty declined 63.30 points to 23,832.60",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/markets/markets-decline-amid-west-asia-conflict-concerns-over-possible-us-interest-rate-hike/article71437458.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T10:40:55+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: interest"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "interest",
+          "rate",
+          "conflict",
+          "asia",
+          "west"
+        ]
+      },
+      {
+        "title": "Rupee rises 4 paise to 94.39 against U.S. dollar in early trade",
+        "description": "Meanwhile, the dollar index, which gauges the greenback's strength against a basket of six currencies, was trading at 99.18, higher by 0.01% on safe-haven demand amid renewed U.S.-Iran tensions.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-4-paise-to-9439-against-us-dollar-in-early-trade/article71437446.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T10:25:29+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: u.s"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "rises",
+          "dollar",
+          "early",
+          "paise",
+          "trade"
         ]
       }
     ],
     "uk": [
       {
-        "title": "Reform UK officials resign as Nigel Farage faces funding scandal",
-        "description": "Two senior Reform UK officials have resigned following allegations they broke electoral laws by arranging for a foreign donor to pay for political polling.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/203c896d-7d3b-4741-8b22-3279bf1c1023.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
+        "title": "Britain\u2019s Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "description": "The manufacturer said it was targeting $2.9 billion of savings.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/britains-jaguar-land-rover-to-cut-4000-jobs-over-next-two-years",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T07:12:36+00:00",
+        "publishedAt": "2026-09-07T18:46:00+08:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 5,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: jobs"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 3,
+            "reason": "combined impact signal: job cuts"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 2,
+        "alternates": [
+          {
+            "title": "Jaguar Land Rover to cut 4,000 jobs over two years",
+            "description": "",
+            "source": "Investing.com",
+            "url": "https://www.investing.com/news/company-news/jaguar-land-rover-to-cut-4000-jobs-over-two-years-93CH-4890599",
+            "category": "General",
+            "publishedAt": "2026-09-07T10:23:22+00:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "jaguar",
+              "land",
+              "rover",
+              "jobs",
+              "cut"
+            ],
+            "group_id": 2
+          }
+        ],
+        "topicFingerprint": [
+          "jaguar",
+          "land",
+          "rover",
+          "jobs",
+          "cut"
+        ]
+      },
+      {
+        "title": "UK government condemns anti-immigrant demonstrators after Channel crossing protests",
+        "description": "The British government has condemned the intimidating and thuggish behavior of anti-immigrant demonstrators who tried to prevent migrants arriving in southern England",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/uk-government-condemns-anti-immigrant-demonstrators-after-channel-136249780",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T06:07:54-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
           {
             "points": 2,
             "reason": "important keyword match: uk"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "reform",
-          "faces",
-          "farage",
-          "nigel",
-          "funding"
+          "anti",
+          "uk_entity",
+          "protests",
+          "thuggish",
+          "protesters"
         ]
       }
     ],
-    "france": [
+    "germany": [
       {
-        "title": "France allocates over \u20ac1 billion in farm aid after heat waves and drought",
-        "description": "France allocates over \u20ac1 billion in aid to help farmers recover from record-breaking heatwaves, droughts, and wildfires that damaged crops and pastures.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/65fff740-4327-49a4-915b-1548e616f810.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Environment",
+        "title": "Germany fights Gaza genocide claims at the top UN court",
+        "description": "Germany has told the United Nations top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-09-05T04:05:26+00:00",
+        "publishedAt": "2026-09-07T06:02:21-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: un"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 2,
+        "alternates": [],
+        "topicFingerprint": [
+          "top",
+          "germany",
+          "genocide",
+          "israel",
+          "court"
+        ]
+      },
+      {
+        "title": "Germany fights Gaza genocide claims at the UN\u2019s top court",
+        "description": "Last year, Germany stopped authorising any exports of military equipment to Israel that could be used in Gaza but later lifted those restrictions.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/germany-fights-gaza-genocide-claims-at-the-uns-top-court/article71437625.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T12:38:26+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: exports"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "top",
+          "germany",
+          "genocide",
+          "israel",
+          "court"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "Korean food chain Seoul Yummy to close final outlet at Kallang Wave Mall on Oct 22",
+        "description": "The restaurant will offer 18 per cent off its signature Korean army stew from now till Oct 22.",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/dining/seoul-yummy-closure-kallang-wave-mall-6366596",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T16:16:00+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "close",
+          "kallang",
+          "yummy",
+          "oct",
+          "korean"
+        ]
+      }
+    ],
+    "italy": [
+      {
+        "title": "Kimi Antonelli takes sensational home Italian GP win from 19th on grid",
+        "description": "Kimi Antonelli secured a sensational Italian GP victory from 19th on the grid, becoming the first Italian to win his home Grand Prix in 60 years.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/6f47fa13-f3cb-4568-a03b-abeee3de32c6.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-07T00:11:12+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: drought"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
             "reason": "Highest Quality Source match: Frontpage"
           },
           {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "waves",
-          "heat",
-          "allocates",
-          "france",
-          "drought"
+          "italian",
+          "takes",
+          "win",
+          "sensational",
+          "grid"
         ]
       }
     ]
