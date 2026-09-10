@@ -1,49 +1,191 @@
 {
-  "updatedAt": "2026-09-09T10:26:53.148265",
+  "updatedAt": "2026-09-10T07:05:41.496488",
   "insight": {
-    "title": "Your Elevator \"Door Close\" Button is a Lie",
-    "subtitle": "Many elevator \"Door Close\" buttons are designed to make you feel in control, not to actually close the doors faster.",
-    "notificationHook": "Your elevator close button is a lie.",
+    "title": "The Algorithm Knows Your Next Core",
+    "subtitle": "Recommendation algorithms don't just reflect your taste, they actively shape what you'll love next.",
+    "notificationHook": "Your feed knows your next niche.",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Ever frantically jabbed the \"Door Close\" button in an elevator, only to watch the doors leisurely shut anyway? You're not alone in feeling that frustration."
+        "text": "You scroll, react, and suddenly your feed is overflowing with a hyper-specific aesthetic you never explicitly searched for, yet somehow find yourself drawn to. It's eerily specific."
       },
       {
         "type": "paragraph",
-        "text": "In many public elevators, especially newer ones, this button is often disconnected or programmed with a significant delay for safety and accessibility reasons."
+        "text": "Recommendation algorithms detect subtle patterns in your clicks and lingers, connecting disparate interests to predict nascent tastes before you even consciously recognize them as \"yours.\""
       },
       {
         "type": "paragraph",
-        "text": "Its true purpose is often psychological: providing a sense of agency and control, reducing impatience and anxiety for riders, even when it\u2019s a placebo."
+        "text": "This constant algorithmic curation means our personal \"cores\" aren't just discovered; they're often gently nudged, pre-empted, and even constructed by our feeds themselves."
       },
       {
         "type": "paragraph",
-        "text": "Sometimes, the best design is just a good illusion."
+        "text": "Your \"personal taste\" might just be a very good suggestion."
       }
     ]
   },
   "news": [
     {
-      "title": "AI datacentres pose growing threat to electricity systems worldwide",
-      "description": "Use of data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 is growing faster than electricity infrastructure can handle, the UN\u2019s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.",
-      "source": "UN News",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168296",
+      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+      "description": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities The price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies. Brent crude, the",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 24,
+      "why": "Your fuel and shipping costs may rise soon.",
+      "context": "Oil prices surged past $100 a barrel due to escalating tensions. Conflicts between US, Iran, and Houthi attacks fueled the rise.",
+      "next": "Geopolitical tensions could keep oil prices volatile.",
+      "bigger": "Global energy markets remain highly sensitive to regional conflicts.",
+      "publishedAt": "2026-09-09T19:09:13+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "oil",
+        "donald_trump",
+        "war",
+        "prices"
+      ],
+      "alternates": [
+        {
+          "title": "Oil reverses course to slip, but Brent stays above $100 a barrel on Mideast worries",
+          "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+          "category": "Financial",
+          "publishedAt": "2026-09-10T05:57:17+00:00",
+          "score": 15,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "oil",
+            "donald_trump",
+            "war",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-09T16:46:53+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "oil",
+            "donald_trump",
+            "war",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "India condemns Houthi attacks on Saudi oil installations",
+          "description": "The Iran-backed Houthi militant group targeted Saudi oil facilities and some other civilian infrastructure on Tuesday (September 8, 2026), triggering widespread apprehensions about further escalation in the West Asia conflict",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-condemns-houthi-attacks-on-saudi-oil-installations/article71446021.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-09T13:46:47+05:30",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "oil",
+            "donald_trump",
+            "war",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Crude Oil Prices hit $100: Why they are rising and how higher can they go?",
+          "description": "Brent crude neared $100 after US attacks on Iranian tankers near Kharg Island, escalating US-Iran tensions and Houthi attacks in Saudi Arabia.",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/market/commodities/oil-surges-as-brent-crude-nears-critical-100-mark-amid-escalation-in-west-asia-wti-commodities-strait-of-hormuz-19987055.htm",
+          "category": "Financial",
+          "publishedAt": "2026-09-09T14:15:16+05:30",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "oil",
+            "donald_trump",
+            "war",
+            "prices"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks",
+          "description": "The price of oil surpassed $100 a barrel for the first time since July after attacks on oil facilities and ships in the Middle East threatened to debilitate an already weakened supply chain.",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/economy/oil-rises-past-100-a-barrel-after-the-latest-wave-of-middle-east-attacks",
+          "category": "Financial",
+          "publishedAt": "2026-09-09T15:35:19-04:00",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "us_entity",
+            "oil",
+            "donald_trump",
+            "war",
+            "prices"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "OpenAI\u00a0pushes for mandatory national AI safety rules",
+      "description": "Several incidents in which AI models have gone rogue have prompted calls for tighter safety regulations",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-pushes-mandatory-national-ai-safety-rules",
       "category": "Technology",
       "readingTime": 2,
-      "score": 18,
-      "why": "Your power reliability may decrease due to AI infrastructure demands.",
-      "context": "AI data centers are growing faster than global electricity grids can support. This poses a significant challenge to power systems worldwide.",
-      "next": "Countries will invest heavily in upgrading their energy infrastructure.",
-      "bigger": "Global electricity demand is rapidly increasing due to technological advancements.",
-      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "score": 17,
+      "why": "The AI tools you use may change or become restricted.",
+      "context": "OpenAI advocated for national regulations on AI safety. This follows incidents of AI models behaving unexpectedly.",
+      "next": "Governments may begin drafting new AI safety legislation.",
+      "bigger": "Global tech companies are grappling with the ethical development of AI.",
+      "publishedAt": "2026-09-10T04:51:52+00:00",
       "topicFingerprint": [
-        "datacentres",
-        "electricity",
-        "systems",
         "ai_group",
-        "pose"
+        "openai",
+        "safety",
+        "anthropic",
+        "researcher"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+      "description": "Yemen s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Regional instability may disrupt shipping routes and trade.",
+      "context": "Fighting intensified in Yemen with Houthi attacks and Saudi air raids. Yemen's government reported civilian casualties.",
+      "next": "Further military clashes and humanitarian crises are likely.",
+      "bigger": "Prolonged conflicts in the Middle East risk broader regional destabilization.",
+      "publishedAt": "2026-09-10T05:09:39+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "oil",
+        "donald_trump",
+        "war",
+        "prices"
       ],
       "alternates": []
     },
@@ -52,21 +194,20 @@
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
-      "category": "Geopolitics",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 22,
-      "why": "US tariffs may raise prices for some imported Canadian goods.",
-      "context": "The US will ban imports of specific Canadian alcohol, dairy, and motorbikes. This action continues a trade dispute between the two nations.",
-      "next": "Canada may introduce further retaliatory tariffs on US products.",
-      "bigger": "Trade tensions between major allies are continuing to escalate globally.",
-      "publishedAt": "2026-09-09T09:21:50+00:00",
+      "score": 17,
+      "why": "Affected Canadian industries may face reduced market access.",
+      "context": "The US will ban imports of select Canadian products. This action follows Canadian tariffs on US goods.",
+      "next": "Both countries may impose additional retaliatory tariffs.",
+      "bigger": "Trade disputes are increasingly common between close allies.",
+      "publishedAt": "2026-09-09T10:20:40+00:00",
       "topicFingerprint": [
+        "dairy",
         "trade",
-        "canada",
-        "us_entity",
         "tariffs",
-        "goods",
-        "ban"
+        "canadian",
+        "alcohol"
       ],
       "alternates": [
         {
@@ -76,72 +217,14 @@
           "url": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
           "category": "Geopolitics",
           "publishedAt": "2026-09-08T23:42:11+00:00",
-          "score": 15,
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
+            "dairy",
             "trade",
-            "canada",
-            "us_entity",
             "tariffs",
-            "goods",
-            "ban"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "US to ban Canadian motorcycle, dairy, alcohol imports as trade war sizzles",
-          "description": "The import bans go into effect on Sept 29.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/us-to-ban-canadian-motorcycle-dairy-alcohol-imports-as-trade-war-sizzles",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-09T08:51:00+08:00",
-          "score": 14,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "canada",
-            "us_entity",
-            "tariffs",
-            "goods",
-            "ban"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Canada\u2019s retaliatory US tariffs take effect as trade dispute grows",
-          "description": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada\u2019s retaliatory tariffs on billions of dollars\u2019 worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between the US president, Do",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-08T04:00:59+00:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "canada",
-            "us_entity",
-            "tariffs",
-            "goods",
-            "ban"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Trump administration to ban some Canadian motorcycles, dairy, alcohol",
-          "description": "The Trump administration moved Tuesday to ban imports of Canadian motorcycles, some dairy products and most types of alcohol starting later this month, intensifying the trade war between the two countries.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-administration-ban-canada-motorcycles-dairy-alcohol-trade-war/",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-08T20:33:00-04:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "canada",
-            "us_entity",
-            "tariffs",
-            "goods",
-            "ban"
+            "canadian",
+            "alcohol"
           ],
           "group_id": 0
         },
@@ -152,1073 +235,574 @@
           "url": "https://www.cnbctv18.com/world/us-to-ban-canadian-motorcycle-dairy-alcohol-imports-as-trade-war-sizzles-19987080.htm",
           "category": "Geopolitics",
           "publishedAt": "2026-09-09T07:13:13+05:30",
-          "score": 10,
+          "score": 5,
           "readingTime": 2,
           "topicFingerprint": [
+            "dairy",
             "trade",
-            "canada",
-            "us_entity",
             "tariffs",
-            "goods",
-            "ban"
+            "canadian",
+            "alcohol"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "China\u2019s exports surge as demand for high-tech, AI help prop up economic growth",
-      "description": "Chinese exports expanded 25 per cent year-on-year in August in US dollar terms.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/chinas-exports-expand-faster-in-august-underpin-economic-growth",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 21,
-      "why": "Global technology markets may see increased competition and availability.",
-      "context": "China\u2019s exports significantly increased due to strong demand for high-tech and AI products. This surge is supporting the nation's economic growth.",
-      "next": "China will likely continue focusing on technology-driven export growth.",
-      "bigger": "High-tech manufacturing is a key driver of global economic expansion.",
-      "publishedAt": "2026-09-08T11:51:00+08:00",
-      "topicFingerprint": [
-        "prop",
-        "exports",
-        "growth",
-        "surge",
-        "tech"
-      ],
-      "alternates": [
-        {
-          "title": "China\u2019s exports surge 25% as demand for high-tech, AI help prop up economic growth",
-          "description": "Imports jump 28.2%, compared with a 27.5% year-on-year increase in July",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/international/global/chinas-exports-surge-25-demand-high-tech-ai-help-prop-economic-growth",
-          "category": "Financial",
-          "publishedAt": "2026-09-08T03:58:40+00:00",
-          "score": 21,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "prop",
-            "exports",
-            "growth",
-            "surge",
-            "tech"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Japan's faster GDP and wage growth keep BOJ on rate-hike path",
-      "description": "Faster GDP and nominal wage growth in Japan strengthen the case for a Bank of Japan interest-rate hike next week and further monetary tightening.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/18a2627b-3dcd-4749-b573-44865da0900e.html",
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "description": "The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
       "category": "Financial",
       "readingTime": 2,
-      "score": 14,
-      "why": "Japanese loans and mortgages may become more expensive.",
-      "context": "Japan's economy is growing with faster GDP and wage increases. This strengthens the case for the Bank of Japan to raise interest rates.",
-      "next": "The Bank of Japan is likely to implement an interest rate hike.",
-      "bigger": "Major global economies are moving towards tighter monetary policies.",
-      "publishedAt": "2026-09-08T13:36:51+00:00",
-      "topicFingerprint": [
-        "hike",
-        "growth",
-        "keep",
-        "faster",
-        "wage"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Funding cuts are forcing dozens of health clinics in Sudan to close, aid groups warn",
-      "description": "Aid groups say three dozen health facilities in Sudan are closing this year due to global aid cuts",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/funding-cuts-forcing-dozens-health-clinics-sudan-close-136281594",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Sudanese residents may lose critical healthcare access.",
-      "context": "Dozens of health clinics in Sudan are closing because of reduced global aid funding. This is impacting healthcare access for many.",
-      "next": "More health facilities in conflict zones could face closure without funding.",
-      "bigger": "Humanitarian aid funding is facing global shortfalls affecting vulnerable regions.",
-      "publishedAt": "2026-09-08T22:50:24-04:00",
-      "topicFingerprint": [
-        "cuts",
-        "forcing",
-        "aid",
-        "sudan",
-        "warn"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-      "description": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
       "score": 12,
-      "why": "Ford's China strategy may face increased political scrutiny.",
-      "context": "The US government expressed significant concern over Ford's business ties with Chinese companies. They questioned Ford's strategic direction.",
-      "next": "Ford may re-evaluate or adjust its partnerships with Chinese firms.",
-      "bigger": "US-China geopolitical tensions are increasingly affecting global business strategies.",
-      "publishedAt": "2026-09-08T21:37:12+00:00",
+      "why": "Financial markets could become more volatile globally.",
+      "context": "UBS CEO warned investors about growing geopolitical and economic risks. He highlighted a complex environment.",
+      "next": "Investors may reassess their risk exposures and portfolios.",
+      "bigger": "Global economic stability faces challenges from multiple fronts.",
+      "publishedAt": "2026-09-10T06:02:51+00:00",
       "topicFingerprint": [
-        "expresses",
-        "ford",
-        "ties",
-        "donald_trump",
-        "concern"
+        "flags",
+        "investor",
+        "complacency",
+        "mount",
+        "ubs"
       ],
       "alternates": []
     },
     {
-      "title": "Chinese energy firms warn policy volatility complicates long-term expansion abroad",
-      "description": "Chinese energy firms have called for policy stability in overseas markets as their global investments face mounting geopolitical risks amid headwinds from the oil crisis. The call came from Sungrow Power Supply and EVE Energy executives, who said policy stability topped their expectations at an even",
+      "title": "Brazil scraps tax on small parcels as Chinese platforms lose US and EU access",
+      "description": "Brazil on Wednesday eliminated its federal import tax on small overseas parcels, moving in the opposite direction from US and European Union efforts to close a loophole that saw such Chinese retail giants as Shein and Temu expand rapidly. The elimination will hurt the country\u2019s tax base, but the lev",
       "source": "South China Morning Post",
-      "url": "https://www.scmp.com/business/china-business/article/3366876/chinese-energy-firms-warn-policy-volatility-complicates-long-term-expansion-abroad",
+      "url": "https://www.scmp.com/news/china/article/3366975/brazil-scraps-tax-small-parcels-chinese-platforms-lose-us-and-eu-access",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Brazilian consumers may find imported goods cheaper.",
+      "context": "Brazil removed its import tax on small international parcels. This contrasts with US and EU efforts to restrict similar imports.",
+      "next": "Online shopping from international retailers could increase in Brazil.",
+      "bigger": "Countries are taking diverse approaches to regulating cross-border e-commerce.",
+      "publishedAt": "2026-09-09T21:26:38+00:00",
+      "topicFingerprint": [
+        "lose",
+        "eu_entity",
+        "access",
+        "parcels",
+        "platforms"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s green push aims to boost energy security but exposes China dependency",
+      "description": "India's ambition to create a self-reliant energy ecosystem by expanding its renewable energy footprint is facing a China problem.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 13,
+      "why": "India's green energy projects may face supply chain risks.",
+      "context": "India's renewable energy expansion reveals its dependence on China. This impacts its goal of energy self-reliance.",
+      "next": "India may seek to diversify its renewable energy supply chains.",
+      "bigger": "Energy transitions in many nations face reliance on critical foreign supplies.",
+      "publishedAt": "2026-09-10T00:09:06+00:00",
+      "topicFingerprint": [
+        "exposes",
+        "india",
+        "push",
+        "energy",
+        "security"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Floods expose fragility of Nepal\u2019s bid to reduce trade dependence on India through China",
+      "description": "Deadly floods have destroyed Nepal\u2019s main overland trade route with China, highlighting the challenge Kathmandu faces as it tries to reduce its heavy economic dependence on India.",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/asia/nepal-china-flood-disaster-trade-routes-6374776",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Nepal's access to goods from China may be disrupted.",
+      "context": "Floods destroyed Nepal's main trade route to China. This hinders Nepal's effort to reduce dependence on India.",
+      "next": "Nepal faces delays in diversifying its trade relationships.",
+      "bigger": "Natural disasters can severely disrupt national trade and development plans.",
+      "publishedAt": "2026-09-10T12:31:00+08:00",
+      "topicFingerprint": [
+        "trade",
+        "india",
+        "china_entity",
+        "us_entity",
+        "donald_trump"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "UK plan to sanction Israel\u2019s illegal West Bank settlements is a historic shift in tone and policy",
+      "description": "The government\u2019s move is a direct cricitism of the Netanyahu government.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/uk-plan-to-sanction-israels-illegal-west-bank-settlements-is-a-historic-shift-in-tone-and-policy-291577",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "Overseas Chinese energy projects may face increased risks.",
-      "context": "Chinese energy companies are warning that unstable policies complicate their overseas expansion. Geopolitical risks are increasing for their global investments.",
-      "next": "Chinese firms will likely seek stronger assurances for international investments.",
-      "bigger": "Geopolitical risks are increasingly hindering international energy development.",
-      "publishedAt": "2026-09-09T08:00:07+00:00",
+      "why": "Israeli officials and settlers involved may face travel restrictions.",
+      "context": "The UK plans sanctions against illegal West Bank settlements. This marks a significant policy shift.",
+      "next": "Other nations may consider similar actions against settlements.",
+      "bigger": "International pressure on Israeli settlement policy is increasing.",
+      "publishedAt": "2026-09-09T11:42:19+00:00",
       "topicFingerprint": [
-        "geopolitical",
-        "overseas",
-        "long",
-        "firms",
-        "china_entity"
+        "west",
+        "uk_entity",
+        "bank",
+        "settlements",
+        "israeli"
       ],
       "alternates": []
     },
     {
-      "title": "Indonesian wildfire emissions surge to world's highest, data shows",
-      "description": "From Sep 1 to Sep 7, fire emission intensity exceeded 1,500kg per sq km, more than 10 times the Russian level, with the highest concentrations in Kalimantan in Indonesia's part of Borneo and eastern parts of Sumatra.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-wildfire-emissions-world-highest-6372366",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Regional air quality may worsen, posing health risks.",
-      "context": "Wildfire emissions in Indonesia have surged to the world's highest levels. This concentrated pollution is affecting Kalimantan and Borneo.",
-      "next": "Authorities will likely intensify efforts to control and extinguish the fires.",
-      "bigger": "Climate change is increasing the frequency and intensity of global wildfires.",
-      "publishedAt": "2026-09-09T16:33:00+08:00",
-      "topicFingerprint": [
-        "wildfire",
-        "indonesian",
-        "highest",
-        "data",
-        "emissions"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Google\u2019s revived nuclear power plant gets $1.9B loan from US government",
-      "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "category": "Policy",
+      "title": "AIIB eyes new platform to pool private capital for Asia\u2019s US$1.7tr infrastructure needs",
+      "description": "The Asian Infrastructure Investment Bank (AIIB) is developing a new platform to pool capital from institutional investors, aiming to roughly quadruple the private capital it mobilises for infrastructure projects across Asia, according to a senior officer. The mechanism will allow insurers, pension f",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/business/banking-finance/article/3366985/aiib-eyes-new-platform-pool-private-capital-asias-us17tr-infrastructure-needs",
+      "category": "Financial",
       "readingTime": 2,
       "score": 13,
-      "why": "US energy capacity is expanding with nuclear power.",
-      "context": "A nuclear power plant in Iowa, supported by Google, received a significant US government loan. This funding aims to revive the plant.",
-      "next": "The revived nuclear plant will likely become operational, adding to the grid.",
-      "bigger": "Governments are investing in nuclear energy to achieve decarbonization goals.",
-      "publishedAt": "2026-09-08T15:25:35+00:00",
+      "why": "Asian nations may gain increased funding for infrastructure projects.",
+      "context": "The AIIB is creating a platform to attract private capital. It aims to boost infrastructure investment in Asia.",
+      "next": "The new platform will seek to attract major institutional investors.",
+      "bigger": "Public-private partnerships are crucial for financing global development needs.",
+      "publishedAt": "2026-09-10T03:00:07+00:00",
       "topicFingerprint": [
-        "google",
-        "invest",
-        "billion",
-        "investment",
-        "infrastructure"
+        "capital",
+        "asia",
+        "aiib",
+        "needs",
+        "eyes"
       ],
       "alternates": []
     },
     {
-      "title": "Apple faces new UK rules over nude images on children\u2019s iPhones",
-      "description": "Bloomberg reports that the UK intends to introduce legislation that would require Apple and Google to \u201cstop children from taking, sharing or viewing nude images on their phones and tablets.\u201d Here are the details. more\u2026",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/",
-      "category": "Policy",
+      "title": "Cyclospora outbreak followed years of declining FDA foreign inspections",
+      "description": "A nationwide outbreak of cyclospora tied to contaminated lettuce has heightened safety concerns about imported food, while underscoring a longer-term trend: U.S. regulators are conducting fewer international inspections to catch contaminated produce before it lands on American plates.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/cyclospora-outbreak-followed-years-of-declining-fda-foreign-inspections",
+      "category": "Health",
       "readingTime": 2,
-      "score": 7,
-      "why": "UK users' phone privacy features may change soon.",
-      "context": "Apple and Google face new UK rules requiring them to prevent children from accessing or sharing nude images. This aims to enhance child safety online.",
-      "next": "Tech companies will develop new content moderation tools for their devices.",
-      "bigger": "Governments worldwide are increasing pressure for online child safety regulations.",
-      "publishedAt": "2026-09-08T21:20:19+00:00",
+      "score": 11,
+      "why": "Consumers may face increased risks from imported food.",
+      "context": "A cyclospora outbreak linked to lettuce caused health concerns. US regulators have reduced foreign food inspections for years.",
+      "next": "Regulators may increase inspections of imported food products.",
+      "bigger": "Global food supply chains require robust international safety oversight.",
+      "publishedAt": "2026-09-09T17:26:17-04:00",
       "topicFingerprint": [
-        "nude",
-        "apple",
-        "uk_entity",
-        "google",
-        "images"
+        "fda",
+        "outbreak",
+        "foreign",
+        "inspections",
+        "years"
       ],
       "alternates": []
     },
     {
-      "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
-      "description": "Sept 9 - Female reproductive organ development may be impacted by a mother's use of Tylenol during pregnancy, according to researchers who emphasize that their study does not prove the pain medicine is to blame and does not indicate any effect on the girls\u2019 future fertility.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daughters",
-      "category": "Science",
+      "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+      "description": "The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade \u2013 while pressing all sides to move quickly from paper to practice.",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168302",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 6,
-      "why": "Pregnant individuals may rethink common pain medication use.",
-      "context": "A study suggests Tylenol use during pregnancy might be linked to reproductive organ changes in daughters. Researchers emphasize this is not definitive proof.",
-      "next": "Further research will explore the potential links between Tylenol and development.",
-      "bigger": "Growing research is scrutinizing pharmaceutical safety during pregnancy.",
-      "publishedAt": "2026-09-09T12:07:34+08:00",
+      "why": "Libya may achieve greater political stability and peace.",
+      "context": "Libya's rival factions reached an election agreement. The UN Security Council welcomed this step.",
+      "next": "Libyans will prepare for their first national elections in years.",
+      "bigger": "International mediation efforts are vital for resolving protracted civil conflicts.",
+      "publishedAt": "2026-09-09T12:00:00+00:00",
       "topicFingerprint": [
-        "daughters",
-        "tylenol",
-        "pregnancy",
-        "uterus",
-        "linked"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "German exports in July unexpectedly fall as trade volatility bites",
-      "description": "Rising shipments to US a sole bright spot but 5.7% fall in imports means trade surplus has widened",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/german-exports-in-july-unexpectedly-fall-as-trade-volatility-bites",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 14,
-      "why": "German economic growth may slow from decreased trade.",
-      "context": "German exports unexpectedly declined in July, while imports fell more significantly. This resulted in a wider trade surplus.",
-      "next": "Germany will likely seek to boost export demand and stabilize trade.",
-      "bigger": "Global trade remains volatile amidst economic slowdowns and geopolitical shifts.",
-      "publishedAt": "2026-09-08T22:13:00+08:00",
-      "topicFingerprint": [
-        "volatility",
-        "july",
-        "exports",
-        "unexpectedly",
-        "trade"
+        "seize",
+        "security",
+        "urges",
+        "election",
+        "libya"
       ],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, AI data centers are growing at an incredible pace, far outstripping the global electricity grids designed to support them. This rapid expansion poses a significant challenge to power systems worldwide, meaning your own power reliability might decrease due to these growing AI infrastructure demands.\n\nMeanwhile, the United States is set to ban imports of specific Canadian alcohol, dairy goods, and motorbikes. This action continues a trade dispute between the two nations and could mean higher prices for some of those imported Canadian items here in the US.\n\nAcross the Pacific, China's exports have surged, driven by strong global demand for high-tech and AI products. This significant increase is helping prop up the nation's economic growth and could lead to more competition and availability in global technology markets.\n\nSwitching focus to Japan, its economy is experiencing faster GDP and wage growth. This positive trend strengthens the case for the Bank of Japan to raise interest rates, potentially making Japanese loans and mortgages more expensive in the near future.\n\nTurning to humanitarian news, dozens of health clinics in Sudan are being forced to close due to reduced global aid funding. This heartbreaking situation is severely impacting healthcare access for many Sudanese residents, who may now lose critical services.\n\nBack in the US, the Trump administration has expressed profound concern over Ford's business ties with Chinese companies. This puts Ford's strategic direction in the spotlight and suggests its China strategy may face increased political scrutiny.\n\nIn related news, Chinese energy firms are warning that unstable government policies are complicating their long-term expansion abroad. They say geopolitical risks are increasing for their global investments, meaning overseas Chinese energy projects could face heightened instability.\n\nMoving to environmental news, wildfire emissions in Indonesia have surged to the world's highest levels, creating concentrated pollution. This is primarily affecting Kalimantan and Borneo, and could significantly worsen regional air quality, posing health risks to residents.\n\nIn positive energy news for the US, a nuclear power plant in Iowa, which is supported by Google, has received a substantial 1.9-billion-dollar loan from the US government. This funding aims to revive the plant and signals an expansion of US energy capacity with nuclear power.\n\nOver in the United Kingdom, Apple is facing new rules regarding nude images on children\u2019s iPhones. Alongside Google, they'll be required to prevent children from accessing or sharing such content, which could lead to changes in UK users' phone privacy features soon.\n\nNew research suggests a potential link between Tylenol use during pregnancy and reproductive organ changes in daughters. While researchers emphasize this is not definitive proof, the findings may cause pregnant individuals to reconsider their use of common pain medication.\n\nAnd finally, German exports unexpectedly fell in July, with imports declining even more significantly. This resulted in a wider trade surplus, but also suggests that German economic growth may slow due to decreased trade volatility.\n\nBefore we go, here's a thought to end on. Have you ever frantically jabbed the \"Door Close\" button in an elevator, only to watch the doors leisurely shut anyway? You're not alone in that feeling. In many public elevators, especially newer ones, that button is often disconnected or programmed with a significant delay for safety and accessibility reasons. Its true purpose is often purely psychological: to give you a sense of agency and control, reducing impatience and anxiety, even when it\u2019s just a placebo. Sometimes, the best design is simply a good illusion.\n\nThat's your Sift Daily Briefing for today.",
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nOil prices have surged past one hundred dollars a barrel for the first time since July, fueled by escalating tensions and conflicts involving the US, Iran, and Houthi attacks. This rise could soon translate into higher fuel costs for you and increased shipping expenses for many goods.\n\nOpenAI, a leading AI developer, is advocating for national regulations to ensure AI safety, following incidents where models behaved unexpectedly. This push means the AI tools you use, or plan to use, might see changes or new restrictions in the future.\n\nFighting has intensified in Yemen, marked by Houthi attacks and Saudi air raids, with Yemen's government reporting civilian casualties. This growing regional instability has the potential to disrupt crucial shipping routes and global trade.\n\nThe US plans to ban imports of select Canadian products, including some alcohol, dairy, and motorbikes, in retaliation for earlier Canadian tariffs on American goods. This action will likely lead to reduced market access and challenges for the affected Canadian industries.\n\nThe CEO of UBS has warned investors about increasing geopolitical and economic risks worldwide, describing a complex and challenging environment. This signals that global financial markets could become more volatile and unpredictable in the near future.\n\nBrazil has removed its import tax on small international parcels, a move that contrasts with US and EU efforts to restrict similar imports, particularly from Chinese platforms. For Brazilian consumers, this decision means imported goods may now become cheaper and more accessible.\n\nIndia's ambitious expansion into renewable energy is revealing a significant reliance on China for critical components, complicating its goal of energy self-reliance. As a result, India's green energy projects could face supply chain vulnerabilities and potential delays.\n\nSevere floods have destroyed Nepal's main trade route to China, hindering its ongoing efforts to lessen economic dependence on India. This disruption means Nepal's access to essential goods from China may be severely impacted, setting back its diversification plans.\n\nThe UK is reportedly planning sanctions against illegal West Bank settlements, representing a significant shift in its policy and tone on the Israeli-Palestinian conflict. This could lead to travel restrictions and other punitive measures for involved Israeli officials and settlers.\n\nThe Asian Infrastructure Investment Bank, or AIIB, is developing a new platform to attract private investment, aiming to fund Asia's massive infrastructure needs, estimated at 1.7 trillion US dollars. This initiative could provide increased funding opportunities for Asian nations seeking to develop and improve their infrastructure.\n\nA cyclospora outbreak, linked to contaminated lettuce, has raised public health concerns, following years of reduced foreign food inspections by US regulators. This situation suggests that consumers might face higher risks from imported food products due to less oversight.\n\nLibya's rival political factions have reached an agreement on holding elections, a step welcomed by the UN Security Council as crucial. This breakthrough offers a path for Libya to achieve greater political stability and potentially lasting peace after years of civil conflict.\n\nAnd finally, a thought for today. You scroll, react, and suddenly your feed is overflowing with a hyper-specific aesthetic you never explicitly searched for, yet somehow find yourself drawn to. It's eerily specific. Recommendation algorithms don't just reflect your taste; they detect subtle patterns in your clicks and lingers, connecting disparate interests to predict nascent tastes before you even consciously recognize them as 'yours.' This constant algorithmic curation means our personal 'cores' aren't just discovered; they're often gently nudged, pre-empted, and even constructed by our feeds themselves. Your 'personal taste' might just be a very good suggestion.\n\nThat's your Sift Daily Briefing for today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 188
+    "estimatedDurationSeconds": 218
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly understand the stories shaping our world, moving beyond the headlines to explore the mechanisms and consequences.\n\nFirst up today, we're seeing growing concerns about the strain artificial intelligence is placing on our global power grids. The UN\u2019s economic commission for Europe has issued a stark warning, stating that \"data-intensive technologies \u2013 in particular artificial intelligence (AI) data centres \u2013 are growing faster than electricity infrastructure can handle.\" This imbalance is raising serious questions about the future reliability and resilience of energy systems across the world. The underlying mechanism here is straightforward but profound: AI processing demands immense computational power, and that power comes from vast data centers. These centers don't just consume electricity to run the servers; they also need enormous amounts of energy for cooling to prevent overheating. As AI adoption continues its rapid acceleration, the construction of these data centers outpaces the ability of existing national and regional electricity grids to supply the power they need. These grids were simply not designed for such an exponential surge in demand. This creates a supply-demand imbalance, which inevitably strains the infrastructure and could lead to increased instances of outages or reduced power reliability for homes and businesses everywhere. Looking ahead, this means countries will need to invest heavily and quickly in upgrading their energy infrastructure, or face the prospect of a less reliable power supply.\n\nMeanwhile, a trade dispute between two major allies continues to escalate. The US is set to ban imports of certain Canadian products, specifically some alcohol, dairy goods, and motorbikes. This move, as a source snippet notes, \"is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.\" This situation is a classic example of retaliatory trade actions. One country imposes tariffs \u2013 which are essentially taxes on imported goods \u2013 often to protect its domestic industries or exert political leverage. The other country then responds with its own counter-tariffs on different products from the first nation. The US's latest ban on these particular Canadian items is a direct response to recent Canadian counter-tariffs, further escalating this cycle of trade friction. The ultimate goal for each side is often to create economic pressure that forces the other to concede or renegotiate trade terms. For consumers, this could mean higher prices for these specific Canadian imports, and for businesses, it could lead to reduced market access and supply chain adjustments.\n\nShifting focus to Asia, China\u2019s export economy is seeing a significant boost, thanks to strong global demand for high-tech and AI products. Chinese exports, according to a source, \"expanded 25 per cent year-on-year in August in US dollar terms,\" providing crucial support for the nation's economic growth. The mechanism behind this surge is China's strategic investment in and development of its high-tech manufacturing capabilities. Over years, China has built up a massive industrial base capable of producing advanced electronics, machinery, and components that are essential for today's rapidly evolving technological landscape, including the booming AI sector. As global digitalization and AI adoption accelerate, so does the international appetite for these sophisticated products. China\u2019s ability to efficiently meet this demand at scale translates directly into substantial export revenue, powering its overall economic expansion. This trend highlights how deeply integrated China has become into the global technology supply chain, and it suggests we'll see China continue to prioritize technology-driven growth in its economic strategy.\n\nNext, Japan\u2019s economy is showing signs of robust health, which is putting its central bank on track for a significant policy shift. With \"faster GDP and nominal wage growth in Japan,\" the case for the Bank of Japan to raise interest rates next week, and pursue further monetary tightening, is strengthening. For decades, Japan grappled with deflation and sluggish growth, leading its central bank to maintain ultra-low or even negative interest rates to stimulate the economy. However, the recent data indicating accelerated GDP and wage increases points to a healthier economy and, importantly, rising inflationary pressures. When wages grow, people have more disposable income, which often leads to increased consumer spending, which can then push up prices. Central banks typically respond to these conditions by raising interest rates. This 'monetary tightening' aims to cool down an overheating economy and keep inflation in check by making borrowing more expensive, thereby reducing overall spending and investment. This potential rate hike would mark a significant departure from Japan's long-standing easy money policy. It means that Japanese loans and mortgages may soon become more expensive, impacting both businesses and individual borrowers.\n\nTragically, in Sudan, critical healthcare access is being severely impacted by global funding shortfalls. Aid groups are warning that \"three dozen health facilities in Sudan are closing this year due to global aid cuts.\" Sudan is a nation plagued by conflict, making much of its population heavily dependent on humanitarian assistance for basic services like healthcare. International aid organizations and donor countries provide the funding that sustains these health facilities, paying for staff, medicines, and operational costs. However, global aid budgets are currently experiencing significant cuts, often due to shifting geopolitical priorities, economic slowdowns in donor countries, or simply a growing fatigue among donors. When this crucial funding decreases, clinics in places like Sudan, which lack sustainable local revenue streams, simply cannot afford to continue operating. The direct consequence is the closure of these facilities, leaving vulnerable populations without essential medical care. Without intervention, this trend suggests that more health facilities in conflict zones worldwide could face similar fates.\n\nIn other news, the Trump administration has voiced \"profound concern\" regarding Ford\u2019s business connections with China. In a direct communication, \"U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies\" in a letter to Ford CEO Jim Farley. This reflects broader geopolitical tensions between the US and China, touching on concerns about national security, the vulnerability of supply chains, and economic competition. The administration's questioning of Ford\u2019s strategic direction regarding Chinese companies signals a clear desire for American corporations to lessen their reliance on and engagement with Chinese entities. This pressure could be driven by issues like intellectual property theft, human rights concerns, or a broader ambition to onshore manufacturing and reduce economic ties. Ford's investments, for instance, in Chinese electric vehicle battery technology, might be viewed as indirectly supporting a rival nation's industry or creating undesirable dependencies. This scrutiny means Ford's China strategy may face increased political pressure, potentially leading the company to re-evaluate or adjust its partnerships with Chinese firms, and other US companies are surely watching closely.\n\nEchoing this theme of geopolitical risk, Chinese energy firms themselves are expressing warnings about the challenges of expanding their operations abroad. These companies are highlighting that \"policy volatility\" in overseas markets is complicating their long-term international expansion, as their global investments face \"mounting geopolitical risks amid headwinds from the oil crisis.\" Executives from major players like \"Sungrow Power Supply and EVE Energy\" have explicitly called for greater policy stability. The mechanism at play here is that large-scale energy investments, whether in solar farms or battery factories, require predictable regulatory environments and long-term planning to be viable. Sudden shifts in host country regulations, tariffs, or investment incentives \u2013 what they call \"policy volatility\" \u2013 create immense uncertainty. For example, if a country introduces tax breaks for renewable energy, and then abruptly removes them, a project could become financially unfeasible. This unpredictability makes it difficult for these firms to secure financing, plan operations, and guarantee returns on their substantial investments. The broader implication is that geopolitical risks are increasingly hindering international energy development, potentially slowing the global transition to cleaner energy sources.\n\nSwitching to environmental concerns, Indonesia is currently battling a severe problem with wildfire emissions. Data shows that \"Indonesian wildfire emissions surge to world's highest levels,\" with particularly intense pollution concentrated in \"Kalimantan in Indonesia's part of Borneo and eastern parts of Sumatra.\" From September 1st to 7th, the \"fire emission intensity exceeded 1,500kg per sq km, more than 10 times the Russian level,\" highlighting the extreme scale of the problem. The core mechanism here is tied to Indonesia's vast peatlands. Peat is partially decayed vegetation that, when dry, is incredibly flammable and, once ignited, releases immense amounts of carbon dioxide and other toxic pollutants. These fires are frequently started deliberately for agricultural land clearing, often for palm oil plantations. However, once alight, they spread rapidly through the dry peat, creating a thick, persistent haze. The combination of land-clearing practices, dry conditions, and the unique flammability of peatlands drives this exceptional level of emissions. This results in severe air pollution across Southeast Asia, causing widespread respiratory health problems and significantly contributing to global greenhouse gas emissions.\n\nMeanwhile, a notable investment in clean energy is moving forward in the US. A nuclear power plant in Iowa, with support from Google, has secured a substantial \"1.9 billion dollar loan from the U.S. Energy Department\" to revive its operations. Nuclear power plants offer a reliable source of carbon-free electricity, but they are incredibly capital-intensive to build and maintain, leading many older facilities to face closure. The US government's significant financial support here is crucial because it helps to reduce the financial risk for the plant's owner, making it economically viable to refurbish and restart the facility. Google's backing likely stems from its commitment to powering its data centers with 24/7 carbon-free energy. This loan enables the complex process of plant refurbishment and restarting, ensuring it can contribute to grid stability and the broader goals of decarbonization. This not only expands US energy capacity with a clean source but also sets a precedent for how governments might support nuclear energy projects in the future.\n\nNext, Apple and Google are facing new regulations in the UK aimed at enhancing child safety online. New legislation in the UK will require these tech giants to \"stop children from taking, sharing or viewing nude images on their phones and tablets.\" Governments globally are increasingly concerned about online child exploitation and the spread of harmful content, including child sexual abuse material and non-consensual image sharing. The UK's planned legislation directly targets the major tech platforms that manufacture the devices children use. The mechanism this requires is for Apple and Google to implement technologies on their devices or within their services that can detect, prevent, or flag nude images specifically when children are involved in their creation, sharing, or viewing. This could involve on-device scanning, sophisticated AI-powered image recognition, or stricter content moderation policies. These measures would fundamentally change how these companies manage user content and privacy on their platforms. It marks a significant step in the ongoing global effort to establish robust online child safety regulations.\n\nAn important piece of research is shedding light on potential health considerations for pregnant individuals. A new study suggests that \"Tylenol use during pregnancy might be linked with uterus, ovary changes in daughters,\" though researchers are careful to emphasize that the \"study does not prove the pain medicine is to blame and does not indicate any effect on the girls\u2019 future fertility.\" This research explores potential correlations between common medications and fetal development. While the precise biochemical mechanism is not yet fully understood or definitively proven, the hypothesis is that acetaminophen, the active ingredient in Tylenol, could potentially interfere with hormone pathways or cellular development during critical stages of fetal growth. It's crucial, as the researchers stress, that this is an observed correlation warranting further investigation, not a definitive cause-and-effect conclusion. This finding, even in its preliminary stage, will naturally prompt pregnant individuals and their healthcare providers to carefully review medication choices and will undoubtedly spur further scientific inquiry into the long-term safety of common over-the-counter drugs during pregnancy.\n\nAnd finally, Germany's economy is signaling a period of trade volatility. German exports unexpectedly declined in July, while its imports fell even more significantly, resulting in a widened trade surplus. The mechanism at play here reflects a broader slowdown in global trade. Germany is a heavily export-dependent economy, and its economic health is often a key indicator for global demand. When German exports fall, it suggests that international demand for its goods\u2014like machinery, cars, and chemicals\u2014is weaker than anticipated, possibly due to economic slowdowns in key trading partners or ongoing geopolitical uncertainties. The even steeper \"5.7% fall in imports\" means German businesses and consumers are also purchasing less from abroad, which can signal underlying domestic economic weakness or reduced industrial activity. While the wider trade surplus might initially seem positive, as the snippet notes, \"rising shipments to US a sole bright spot,\" the overall contraction in both exports and imports points to underlying fragility in trade volumes. A sustained decline in exports could ultimately lead to a slowdown in Germany's economy, potentially impacting the wider Eurozone and signaling ongoing volatility in global trade.\n\nAnd now, for today\u2019s Sift Insight.\n\nMany of us have been there: in an elevator, feeling a rush of impatience, and frantically jabbing that \"Door Close\" button, only to watch the doors leisurely shut anyway. That frustration is remarkably common. The interesting truth, however, is that in many public elevators, particularly newer models, that \"Door Close\" button is often disconnected or programmed with a significant delay. It's not actually designed to close the doors faster for you. Its true purpose is largely psychological: to provide a sense of agency and control to the rider, helping to reduce impatience and anxiety, even if that control is, in fact, an illusion.\n\nSometimes, the most effective design isn't about direct functionality, but about a clever perception. It makes you wonder, doesn't it? How often in our daily lives, or within the technology we use, are we given an illusion of control? What other 'placebo buttons' exist around us, subtly shaping our perceptions and behaviors without us even realizing it? It\u2019s a fascinating thought about how the pursuit of comfort and reassurance can sometimes override strict utility.\n\nAs you go about your day, perhaps take a moment to consider where a little bit of perceived control might make all the difference. Thank you for joining us for this Sift In-Depth Briefing. We hope this analysis helps you navigate the news with greater clarity and understanding. Take a breath, and we look forward to connecting with you again soon.",
+    "script": "Welcome to your Sift In-Depth Briefing. This is where we go beyond the headlines to truly understand the stories shaping our world.\n\nFirst up, a significant development in global energy markets. Oil prices surged past one hundred dollars a barrel for the first time since July. This isn't just a general market fluctuation; the rise in Brent crude, specifically by more than three percent, is a direct consequence of escalating conflict in the Middle East. Recent incidents, including what's been described as a \"fire between the US and Iran in the Gulf\" and renewed Houthi attacks on Saudi cities, directly threaten the flow of oil through critical shipping lanes and production facilities. When geopolitical tensions mount in such a vital oil-producing region, traders anticipate potential supply disruptions, driving up the price of crude oil. For you, this means an almost certain increase in fuel prices at the pump in the coming weeks and months, and higher shipping costs for goods across the board, which could contribute to broader inflation. The global energy markets remain highly sensitive, so watch for continued volatility as regional conflicts unfold.\n\nMeanwhile, a major player in the tech world, OpenAI, is advocating for mandatory national regulations on AI safety. This call for tighter safety rules comes directly after \"several incidents in which AI models have gone rogue.\" What this means is that as artificial intelligence systems become more sophisticated and autonomous, they can sometimes behave in unexpected or even harmful ways that were not intended by their creators. OpenAI, as a leading developer of these technologies, understands the critical need for external oversight and standardized safety protocols. They're pushing for these rules to ensure that as AI evolves, it does so responsibly, helping to build public trust and prevent unforeseen dangers. If governments move forward with such legislation, the AI tools you use, from chatbots to advanced analytics, could be subject to much stricter testing and deployment guidelines. This could mean some features are altered or that new AI products are rolled out more cautiously, prioritizing safety over speed.\n\nSwitching to another area of instability, fighting has sharply escalated in Yemen. The Yemeni government has accused Houthi rebels of killing three children, while the Houthis claim Saudi forces launched fifty-four air raids in just twelve hours. This marks a significant intensification of the country's long-running civil conflict. The Houthi movement, which controls large parts of Yemen, and the internationally recognized Yemeni government, backed by a Saudi-led coalition, are locked in a brutal power struggle. The recent flare-up sees each side launching attacks, often in retaliation, leading to a grim cycle of violence that disproportionately impacts civilians. This prolonged conflict continues to fuel a devastating humanitarian crisis in Yemen, leaving millions in need of aid. Further military clashes are almost inevitable, which will only exacerbate an already dire situation and continue to destabilize the broader region, potentially impacting crucial shipping routes.\n\nOn the trade front, the United States is moving to ban imports of some Canadian alcohol, dairy goods, and motorbikes. This action isn't an isolated incident; it's described as \"the latest strike in a long trade war,\" and it follows Canadian counter-tariffs on US goods that recently came into force. This is a classic example of retaliatory trade measures. When one country imposes tariffs\u2014essentially taxes on imports\u2014to protect its domestic industries or gain leverage, the affected country often responds with its own tariffs or import bans on specific products from the first country. In this instance, Canadian tariffs prompted the US to take reciprocal action, directly impacting Canadian industries. This means that Canadian producers of these specific goods will lose valuable market access in the US, potentially hurting their revenues and jobs. We should anticipate that both countries may consider imposing even more retaliatory tariffs, further escalating this trade dispute between close allies.\n\nA prominent voice in the financial world, the CEO of UBS, has flagged investor complacency as geopolitical and economic risks continue to mount globally. The UBS top boss cautioned that \"investors face an increasingly complicated environment given multiple headwinds.\" In essence, he's warning that many investors might be underestimating the potential dangers lurking in the global economy and political landscape. Factors like the escalating conflicts in the Middle East, ongoing trade disputes, and persistent inflation concerns create a more volatile and unpredictable market than some might currently perceive. This complacency could lead investors to take on excessive risk, making markets more vulnerable to sudden downturns if any of these risks materialize. As a result, we may see investors begin to reassess their risk exposures and portfolios, potentially leading to increased market volatility as they seek safer havens or adjust their strategies.\n\nMoving to international trade policy, Brazil has scrapped its federal import tax on small overseas parcels. This decision stands in stark contrast to efforts by the US and European Union, who are actively trying to \"close a loophole that saw such Chinese retail giants as Shein and Temu expand rapidly.\" For years, many countries allowed small-value imports to enter without significant taxes to streamline customs. Companies like Shein and Temu leveraged this by shipping directly to consumers in numerous small parcels, avoiding duties. The US and EU are now closing this loophole to protect their domestic retailers and collect taxes, but Brazil is moving in the opposite direction. Brazil's choice, despite potentially hurting its tax base, will make imported goods, particularly from fast-fashion and e-commerce giants, significantly cheaper for its consumers. This policy is likely to trigger a surge in online shopping from international retailers within Brazil, increasing competition for local businesses.\n\nMeanwhile, India's ambitious push to create a self-reliant energy ecosystem through renewable power is revealing an unexpected challenge: a significant dependence on China. The core issue is that \"India's ambition to create a self-reliant energy ecosystem by expanding its renewable energy footprint is facing a China problem.\" To build out solar farms and wind power plants, India needs a vast supply of components like solar panels, wind turbine blades, and specialized electronics. China has become the dominant global manufacturer of these green energy technologies, often at highly competitive prices. Despite India's goal of energy independence, its rapid renewable expansion necessitates importing many of these critical components, making it reliant on Chinese supply chains. This reliance exposes India's green energy projects to potential supply chain disruptions, price volatility, or geopolitical tensions with its neighbor. India will likely now seek to diversify its renewable energy supply chains, looking to other nations or boosting its own domestic manufacturing capabilities.\n\nFurther east, Nepal's efforts to diversify its trade relationships have been dealt a setback. Deadly floods have destroyed Nepal\u2019s main overland trade route with China, \"highlighting the challenge Kathmandu faces as it tries to reduce its heavy economic dependence on India.\" Nepal, a landlocked nation, has historically relied heavily on India for trade and transit due to geography and existing infrastructure. In an effort to lessen this dependence, Nepal had been developing alternative trade routes and economic ties with China, particularly overland connections through its mountainous terrain. The destruction of this crucial trade route by natural disaster severely hampers this diversification strategy, making it much harder and more expensive to import goods from China or export Nepali products there. This effectively pushes Nepal back towards a greater reliance on India for essential goods and trade, at least in the short to medium term, disrupting its long-term development plans.\n\nIn a notable shift in international diplomacy, the UK plans to sanction Israel\u2019s illegal West Bank settlements. This move is being characterized as a \"historic shift in tone and policy\" and \"a direct criticism of the Netanyahu government.\" While many nations, including the UK, have consistently voiced concerns about the legality and expansion of Israeli settlements in the occupied West Bank under international law, direct sanctions represent a significant escalation. These sanctions will likely target specific individuals or entities involved in the construction or expansion of these settlements, possibly involving travel restrictions or financial asset freezes. This stronger stance by the UK reflects growing international frustration over continued settlement expansion and its perceived obstruction of a two-state solution. It could potentially lead other nations to consider similar actions, intensifying international pressure on Israeli settlement policy.\n\nTurning to development finance, the Asian Infrastructure Investment Bank, or AIIB, is developing a new platform aimed at pooling private capital for Asia's substantial infrastructure needs. The goal is to \"roughly quadruple the private capital it mobilises for infrastructure projects across Asia.\" Developing countries across Asia have an enormous demand for new infrastructure, including roads, railways, power grids, and water systems, requiring trillions of dollars in investment. Public funds alone from governments and multilateral banks are often insufficient. This new platform is designed to attract large institutional investors, such as pension funds and insurance companies, who are often looking for stable, long-term returns. By creating a structured mechanism, the AIIB makes it easier and more appealing for this private capital to flow into large, complex infrastructure projects, sharing risks and significantly increasing the overall funding available. This initiative could unlock crucial funding, accelerating economic development and improving connectivity across Asian nations. The next step will be for the platform to actively court major institutional investors.\n\nFinally, a public health concern linked to food safety. A nationwide outbreak of cyclospora, a parasitic illness, has been tied to contaminated lettuce. This outbreak has heightened safety concerns about imported food, especially as it \"underscor[es] a longer-term trend: U.S. regulators are conducting fewer international inspections to catch contaminated produce before it lands on American plates.\" Cyclospora outbreaks often occur when fresh produce is contaminated through unsanitary conditions during growth, harvest, or processing. The Food and Drug Administration, or FDA, is responsible for ensuring the safety of imported foods. A decline in foreign inspections means there are fewer boots on the ground to verify safety standards at international farms and facilities before their products reach American consumers. This reduced oversight increases the risk that contaminated food can enter the supply chain, leading to illnesses like the recent cyclospora outbreak. Consumers may face increased risks from imported food, and in response, regulators will likely face pressure to increase inspections of imported food products to restore confidence.\n\nAnd finally, some hopeful news from Libya. The UN Security Council has welcomed a \"breakthrough agreement\" between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade. Libya has been in a state of civil conflict and political fragmentation since 2011, with various factions and parallel governments vying for power. The lack of a unified, democratically elected government has prolonged instability and hindered national reconstruction. This agreement, brokered through international mediation, establishes the crucial framework and steps necessary for holding national elections. It provides a tangible path toward establishing a legitimate, unified government. The UN Security Council is now urging all sides to move quickly \"from paper to practice,\" emphasizing the need for swift implementation. This agreement offers Libya a real chance at achieving greater political stability and peace after years of turmoil, as Libyans prepare to choose their leaders for the first time in many years.\n\nToday's reflective insight is about how \"The Algorithm Knows Your Next Core\" \u2013 the idea that recommendation algorithms don't just reflect your taste, they actively shape what you'll love next.\n\nYou've likely experienced it: you're scrolling through a feed, perhaps reacting to a few things, and suddenly, your screen is overflowing with a hyper-specific aesthetic or interest. It\u2019s something you never explicitly searched for, something you might not have even known you liked, yet somehow, you find yourself completely drawn to it. It\u2019s eerily specific.\n\nThis isn't magic. Recommendation algorithms are designed to detect subtle patterns in your clicks, your pauses, how long you linger on certain content. They connect seemingly disparate interests, piecing together fragments of your online behavior to predict nascent tastes \u2013 those preferences just beginning to form \u2013 before you even consciously recognize them as \"yours.\" They're not just showing you more of what you already like; they're showing you what you *will* like, what you *could* like, what you *should* like, based on countless data points from yourself and others.\n\nThis constant algorithmic curation means that our personal \"cores\" \u2013 those defining interests, styles, or beliefs that make us, us \u2013 aren't simply discovered by us. Instead, they are often gently nudged, pre-empted, and even constructed by the feeds themselves. The algorithm doesn't just hold a mirror to your taste; it acts as a subtle sculptor, guiding your evolving preferences.\n\nSo, the next time you feel a strong, almost uncanny pull towards something new in your feed, consider this: your \"personal taste\" might just be a very good suggestion.\n\nAs you go about your day, perhaps with a new thought about what shapes your preferences, take a moment to absorb what you've learned. We hope this deep dive helps you navigate the complexities of our world with greater clarity. Until next time, stay curious, and enjoy your journey.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 843
+    "estimatedDurationSeconds": 732
   },
   "candidatePool": [
     {
-      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-      "description": "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.",
+      "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+      "description": "Apple rolled out the foldable iPhone Duo, iPhone 18 Pro and Max, Watch Series 12 and many other features and updates in its first launch under CEO John Ternus.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 24,
-      "why": "Chinese businesses may face higher raw material costs.",
-      "context": "China's wholesale inflation exceeded expectations in August due to rising commodity costs. Consumer price increases met forecasts.",
-      "next": "China will monitor inflation pressures while aiming for economic stability.",
-      "bigger": "Global commodity prices are influencing manufacturing costs and inflation worldwide.",
-      "publishedAt": "2026-09-09T03:07:32+00:00",
-      "topicFingerprint": [
-        "oil",
-        "us_entity",
-        "iran",
-        "attacks",
-        "tankers",
-        "iranian"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "description": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 18,
-      "why": "US markets for specific Canadian goods may see reduced availability.",
-      "context": "The US announced an import ban on various Canadian goods, including motorbikes, alcohol, and dairy products. This escalates trade tensions.",
-      "next": "Canada is expected to announce further retaliatory trade measures.",
-      "bigger": "Trade disputes are increasingly impacting cross-border economic relations globally.",
-      "publishedAt": "2026-09-09T09:21:28+00:00",
-      "topicFingerprint": [
-        "trade",
-        "canada",
-        "us_entity",
-        "tariffs",
-        "goods",
-        "ban"
-      ],
-      "alternates": [
-        {
-          "title": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
-          "description": "The US and Canada escalated a bitter trade dispute on Tuesday, with Washington imposing new import bans on Canadian alcohol, motorcycles and dairy products as Ottawa's retaliatory tariffs on US goods took effect.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-09T02:36:11+00:00",
-          "score": 13,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "canada",
-            "us_entity",
-            "tariffs",
-            "goods",
-            "ban"
-          ],
-          "group_id": 1
-        },
-        {
-          "title": "Trump bans some Canada goods as trade war swells",
-          "description": "The import ban, which targets various alcoholic beverages as well as some dairy products like whey, will come into effect on September 29",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/trump-bans-some-canada-goods-as-trade-war-swells/article71445399.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-09T08:44:07+05:30",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "trade",
-            "canada",
-            "us_entity",
-            "tariffs",
-            "goods",
-            "ban"
-          ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "New Apple CEO to face first test with foldable iPhone launch",
-      "description": "",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/new-apple-ceo-to-face-first-test-with-foldable-iphone-launch",
+      "url": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
       "category": "Technology",
       "readingTime": 2,
-      "score": 12,
-      "why": "Foldable phone technology may soon become mainstream.",
-      "context": "Apple's new CEO is expected to face a key challenge with the launch of a foldable iPhone. This marks a significant product introduction.",
-      "next": "Apple will likely introduce its first foldable device, setting new market standards.",
-      "bigger": "Smartphone manufacturers are innovating with new form factors and features.",
-      "publishedAt": "2026-09-09T11:20:00+08:00",
+      "score": 17,
+      "why": "Your next phone or watch may offer new advanced features.",
+      "context": "Apple launched new products, including a foldable iPhone and AI features. This was under new CEO John Ternus.",
+      "next": "Other tech companies will likely innovate with foldable devices.",
+      "bigger": "Major tech companies continue to drive innovation in consumer electronics.",
+      "publishedAt": "2026-09-10T00:01:17+00:00",
       "topicFingerprint": [
         "apple",
         "iphone",
-        "launch",
         "foldable",
-        "ternus"
+        "duo",
+        "pro",
+        "event"
       ],
       "alternates": [
         {
-          "title": "Apple expected to announce the biggest iPhone update in its history, as new CEO John Ternus prepares launch of foldable device",
-          "description": "Apple on Wednesday is expected to unveil its first foldable iPhone.",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
+          "title": "After Apple\u2019s launch of its foldable iPhone, what are the caveats for Chinese buyers?",
+          "description": "Apple unveiled the iPhone Duo, its first-ever foldable smartphone, at its annual product launch event on Wednesday in Cupertino, California, following months of mounting anticipation. Presented by CEO John Ternus, the sleek, passport-style device stole the spotlight at the Apple Park event. Ternus, ",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3366983/after-apples-launch-its-foldable-iphone-what-are-caveats-chinese-buyers",
           "category": "Technology",
-          "publishedAt": "2026-09-09T07:05:00+00:00",
+          "publishedAt": "2026-09-10T02:11:38+00:00",
           "score": 12,
           "readingTime": 2,
           "topicFingerprint": [
             "apple",
             "iphone",
-            "launch",
             "foldable",
-            "ternus"
+            "duo",
+            "pro",
+            "event"
           ],
           "group_id": 0
         },
         {
-          "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple\u2019s rumored foldable iPhone",
-          "description": "Xiaomi and Huawei launched new foldables ahead of Apple\u2019s event, where the company is rumored to unveil its first foldable iPhone.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html",
+          "title": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/welcome-foldables-samsung-braces-apples-foldable-iphone-challenge-6375011",
           "category": "Technology",
-          "publishedAt": "2026-09-08T20:21:37+00:00",
+          "publishedAt": "2026-09-10T13:27:42+08:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "iphone",
+            "foldable",
+            "duo",
+            "pro",
+            "event"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple\u2019s iPhone 18 Pro has variable aperture, and no Siri AI in Europe",
+          "description": "Apple has announced the iPhone 18 Pro and iPhone 18 Pro Max. The headline feature is a camera that can change its aperture, which no iPhone has done before. Two of the phone\u2019s flagship features will not work in Europe at launch. Apple announced both models on Wednesday. Pre-orders open on Saturday 1",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/apple-iphone-18-pro-variable-aperture-siri-ai-eu",
+          "category": "Technology",
+          "publishedAt": "2026-09-09T17:51:15+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "iphone",
+            "foldable",
+            "duo",
+            "pro",
+            "event"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Details on Apple's 2 new iPhones, including the foldable Duo",
+          "description": "Apple's new CEO, John Ternus, led a special event on Wednesday announcing the release of new products, including the first foldable iPhone. CBS News contributor Patrick McGee breaks it down.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/apples-new-ceo-announced-iphone-18-pro-new-foldable-iphone-duo/",
+          "category": "Technology",
+          "publishedAt": "2026-09-09T19:53:00-04:00",
           "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
             "apple",
             "iphone",
-            "launch",
             "foldable",
-            "ternus"
+            "duo",
+            "pro",
+            "event"
           ],
           "group_id": 0
         },
         {
-          "title": "Apple releases iOS 26.6.2 for iPhone, here\u2019s what\u2019s new",
-          "description": "On the eve of its big iPhone launch event , Apple has just released a new iOS 26.6.2 software update for iPhone. Here\u2019s what\u2019s new. more\u2026",
+          "title": "Apple event recap: CEO John Ternus reveals new iPhone 18 Pro and first foldable device",
+          "description": "For the first time in 15 years, a new CEO led Apple's fall event. Taking a page out of Steve Jobs' book, John Ternus announced \"one more thing.\"",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/apple-iphone-ultra-event-today-live-updates-2026-9",
+          "category": "General",
+          "publishedAt": "2026-09-09T19:00:38+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "apple",
+            "iphone",
+            "foldable",
+            "duo",
+            "pro",
+            "event"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Apple announces A20 Pro chip with 2nm design and major performance gains",
+          "description": "Apple today unveiled the A20 Pro, its first chip built on 2nm technology at its \u201cSurprise and Shine\u201d event, bringing major CPU, GPU, and AI upgrades to the iPhone Duo , iPhone 18 Pro, and iPhone 18 Pro Max . Here are the details. more\u2026",
           "source": "9To5Mac",
-          "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
+          "url": "https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/",
           "category": "Technology",
-          "publishedAt": "2026-09-08T17:36:30+00:00",
+          "publishedAt": "2026-09-09T17:37:32+00:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
             "apple",
             "iphone",
-            "launch",
             "foldable",
-            "ternus"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "New Apple Watch models launch this week, here\u2019s what\u2019s coming",
-          "description": "This week brings Apple\u2019s big iPhone launch event , where new Apple Watch models will be introduced too. Here\u2019s what to expect from Apple Watch Ultra 4 and Apple Watch Series 12. more\u2026",
-          "source": "9To5Mac",
-          "url": "https://9to5mac.com/2026/09/08/new-apple-watch-models-launch-this-week-heres-whats-coming/",
-          "category": "Technology",
-          "publishedAt": "2026-09-08T13:03:15+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "apple",
-            "iphone",
-            "launch",
-            "foldable",
-            "ternus"
+            "duo",
+            "pro",
+            "event"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Google, Blackstone cloud venture faces delays at data centre sites",
-      "description": "The Alphabet unit has taken over the project, which will scale down after facing snag, sources say",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/startups-tech/technology/google-blackstone-cloud-venture-faces-delays-data-centre-sites",
-      "category": "Technology",
+      "title": "Netanyahu visits troops in occupied Syria as Damascus slams 'blatant violation' of sovereignty",
+      "description": "Israeli Prime Minister Benjamin Netanyahu made a third visit to Israeli troops in an occupied stretch of Syria Wednesday, sparking fresh condemnation from Damascus. Netanyahu repeated his claim that the Iranian government is on the verge of collapse as the US-Israeli war against Iran drags on.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260910-netanyahu-visits-troops-occupied-syria-damascus-slams-blatant-violation-sovereignty",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Regional tensions in the Middle East could escalate further.",
+      "context": "Netanyahu visited Israeli troops in occupied Syria. Damascus condemned this as a sovereignty violation.",
+      "next": "Syria may increase diplomatic pressure against Israeli presence.",
+      "bigger": "Cross-border military activities risk regional stability and international law.",
+      "publishedAt": "2026-09-10T06:23:50+00:00",
+      "topicFingerprint": [
+        "iran",
+        "us_entity",
+        "oil",
+        "donald_trump",
+        "war",
+        "prices"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The incomplete history of Duo devices",
+      "description": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple [",
+      "source": "Tech | The Verge",
+      "url": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Your device choices for foldable screens are increasing.",
+      "context": "Apple launched its first foldable phone, the iPhone Duo. Other companies already offer similar foldable devices.",
+      "next": "More manufacturers will likely enter the foldable phone market.",
+      "bigger": "Foldable technology is becoming a mainstream feature in mobile devices.",
+      "publishedAt": "2026-09-09T22:23:35+00:00",
+      "topicFingerprint": [
+        "apple",
+        "iphone",
+        "foldable",
+        "duo",
+        "pro",
+        "event"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Exclusive-Nepal puts climate justice at centre of global pitch for flood aid",
+      "description": "NEPAL-FLOODS-RECONSTRUCTION:Exclusive-Nepal puts climate justice at centre of global pitch for flood aid",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/exclusivenepal-puts-climate-justice-at-centre-of-global-pitch-for-flood-aid-101788978682987.html",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Developing nations may seek more climate financing from rich countries.",
+      "context": "Nepal is seeking international flood aid based on climate justice. It highlights its vulnerability to climate change.",
+      "next": "Nepal will likely push for greater global climate accountability.",
+      "bigger": "Climate change impacts are disproportionately affecting vulnerable nations.",
+      "publishedAt": "2026-09-10T00:01:22+05:30",
+      "topicFingerprint": [
+        "floods",
+        "nepal",
+        "climate",
+        "justice",
+        "flood"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+      "description": "Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Crypto markets may face stricter US regulatory oversight.",
+      "context": "Coinbase CEO expects US crypto regulation to advance. This will occur irrespective of the Clarity Act vote.",
+      "next": "US lawmakers may pursue alternative regulatory frameworks for crypto.",
+      "bigger": "Governments worldwide are increasing efforts to regulate cryptocurrencies.",
+      "publishedAt": "2026-09-10T05:24:52+00:00",
+      "topicFingerprint": [
+        "act",
+        "coinbase",
+        "vote",
+        "regardless",
+        "advancing"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Tunisian flotilla activists remain jailed as hunger striker worsens",
+      "description": "The four have been held since March in a financial investigation linked to organisers of the Global Sumud Flotilla.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/tunisian-flotilla-activists-remain-jailed-as-hunger-striker-worsens",
+      "category": "Financial",
       "readingTime": 2,
       "score": 9,
-      "why": "Cloud infrastructure expansion may face slower progress.",
-      "context": "A cloud data center venture involving Google and Blackstone is experiencing site delays. Google has taken over, scaling down the project.",
-      "next": "Google will likely re-evaluate its cloud data center development strategy.",
-      "bigger": "Demand for cloud computing is rapidly outpacing available infrastructure.",
-      "publishedAt": "2026-09-09T02:52:39+00:00",
+      "why": "Human rights organizations may increase calls for their release.",
+      "context": "Tunisian activists linked to a flotilla remain jailed. One activist's health is deteriorating due to a hunger strike.",
+      "next": "Pressure on Tunisian authorities regarding the activists may intensify.",
+      "bigger": "Governments sometimes use legal means to suppress protest movements.",
+      "publishedAt": "2026-09-10T02:41:50+00:00",
       "topicFingerprint": [
-        "cloud",
-        "delays",
-        "blackstone",
-        "faces",
-        "venture"
+        "tunisian",
+        "hunger",
+        "striker",
+        "flotilla",
+        "jailed"
       ],
       "alternates": []
     },
     {
-      "title": "Amazon accused of systematically denying pregnant warehouse workers chairs and breaks",
-      "description": "Four former Amazon warehouse employees have filed a proposed nationwide class action accusing the company of routinely refusing pregnant workers the accommodations they are entitled to by law, and then disciplining them for the absences that followed. The case was filed on Tuesday in federal court i",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/amazon-pregnancy-discrimination-class-action",
-      "category": "Policy",
+      "title": "Data Centers Now Facing Backlash Over Contaminated Wastewater",
+      "description": "This story was originally published by The Guardian and is reproduced here as part of the Climate Desk collaboration. When officials in Wyoming conducted a routine test on the water that was being discharged from a massive under-construction Meta data center, it was a shock to find it contained a ra",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/09/meta-data-center-rare-bacteria-backlash-waste-water-contamination/",
+      "category": "Environment",
       "readingTime": 2,
       "score": 8,
-      "why": "Amazon may face legal costs and reputational damage.",
-      "context": "Amazon is accused in a lawsuit of systematically denying pregnant warehouse workers legal accommodations. This includes chairs and breaks.",
-      "next": "Amazon will likely review its policies and practices for pregnant employees.",
-      "bigger": "Worker rights and corporate accountability are under increasing global examination.",
-      "publishedAt": "2026-09-09T07:01:46+00:00",
+      "why": "Local communities may face environmental health risks.",
+      "context": "Data centers are facing criticism for contaminated wastewater. Wyoming officials found issues with discharged water.",
+      "next": "Data centers may face tighter environmental regulations on water discharge.",
+      "bigger": "Technology infrastructure growth presents new environmental sustainability challenges.",
+      "publishedAt": "2026-09-09T11:30:00+00:00",
       "topicFingerprint": [
-        "accused",
-        "pregnant",
-        "warehouse",
-        "systematically",
-        "denying"
+        "center",
+        "backlash",
+        "centers",
+        "data",
+        "meta"
       ],
       "alternates": []
     },
     {
-      "title": "What \u2018right\u2019 and \u2018left\u2019 mean in Israel today",
-      "description": "In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation.",
+      "title": "Spain\u2019s spy agency warned of mass crossings into Ceuta before border crisis",
+      "description": "Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Israeli politics is primarily divided by territorial issues.",
-      "context": "The traditional left-right political divide in Israel is defined by views on Palestinian statehood. Economic policies are less central to this distinction.",
-      "next": "Political parties will continue to campaign heavily on land and peace issues.",
-      "bigger": "Historical conflicts can define political landscapes more than economics.",
-      "publishedAt": "2026-09-09T07:22:27+00:00",
-      "topicFingerprint": [
-        "right",
-        "israel",
-        "left",
-        "mean",
-        "today"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "German economy frets about Saxony-Anhalt election results",
-      "description": "The AfD won the election in the eastern German state by a wide margin. While politicians and election analysts are still debating the reasons for the far-right party's popularity, economists are sounding the alarm.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "German economic policy direction may face new uncertainty.",
-      "context": "The far-right AfD party won an election in the German state of Saxony-Anhalt. This has caused concern among German economists.",
-      "next": "Other German states may see similar gains by far-right political parties.",
-      "bigger": "Populist and far-right parties are gaining traction across European democracies.",
-      "publishedAt": "2026-09-08T18:35:00+00:00",
-      "topicFingerprint": [
-        "right",
-        "far",
-        "german",
-        "afd",
-        "election"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "ONGC Chairman calls for greater focus on tech, innovation; commits to fund and support startups",
-      "description": "Stating that India must become more efficient and innovative to address its energy requirements, he said there was a need to do things \u201cfundamentally different\u201d to strengthen energy security and reduce dependence on imports",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/ongc-chairman-calls-for-greater-focus-on-tech-innovation-commits-to-fund-and-support-startups/article71443622.ece",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Indian energy independence will be boosted by new tech.",
-      "context": "The ONGC Chairman urged greater focus on technology and innovation for India's energy sector. He committed to funding and supporting relevant startups.",
-      "next": "Indian energy companies will likely invest more in research and development.",
-      "bigger": "Countries are prioritizing innovation to achieve energy independence and security.",
-      "publishedAt": "2026-09-08T22:53:59+05:30",
-      "topicFingerprint": [
-        "greater",
-        "ongc",
-        "innovation",
-        "support",
-        "commits"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "There are fewer than 4,000 billionaires worldwide, and they now hold a record $15.1 trillion. That\u2019s nearly half of the U.S. economy",
-      "description": "Just 29 superbillionaires now control more than one-quarter of all billionaire wealth, up from 7% in 2017.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/09/4000-billionaires-worldwide-hold-record-15-trillion-half-us-economy/",
+      "url": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis",
       "category": "General",
       "readingTime": 2,
       "score": 7,
-      "why": "Global wealth disparity continues to increase significantly.",
-      "context": "The world's billionaires, fewer than 4,000, now hold a record $15.1 trillion in wealth. A small number control a significant portion of this wealth.",
-      "next": "Debates about wealth distribution and taxation will intensify globally.",
-      "bigger": "Wealth concentration poses long-term challenges to economic and social stability.",
-      "publishedAt": "2026-09-09T07:01:00+00:00",
+      "why": "Border regions may face increased migration pressures.",
+      "context": "Spain's intelligence warned of mass migrant crossings into Ceuta. Warnings were sent to Madrid and Morocco.",
+      "next": "Spain and Morocco may boost border security measures.",
+      "bigger": "International borders are under increasing pressure from migration flows.",
+      "publishedAt": "2026-09-10T01:26:46+00:00",
       "topicFingerprint": [
-        "record",
-        "nearly",
-        "billionaires",
-        "fewer",
-        "hold"
+        "plans",
+        "ceuta",
+        "agency",
+        "mass",
+        "warned"
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Spain\u2019s spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show",
+          "description": "Spain's Foreign Minister countered by saying there had been no warning of the migrant rush's scale.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/spains-spy-agency-warned-of-plans-to-storm-ceuta-before-mass-migrant-crossing-documents-show",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-10T01:22:28+08:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "plans",
+            "ceuta",
+            "agency",
+            "mass",
+            "warned"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Spain's intelligence agency issued several warnings about plans to breach border before Ceuta crisis",
+          "description": "Spain's intelligence agency issued several warnings about plans to breach border before Ceuta crisis",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/spains-intelligence-agency-issued-several-warnings-about-plans-to-breach-border-before-ceuta-crisis-101788981142636.html",
+          "category": "General",
+          "publishedAt": "2026-09-10T00:42:22+05:30",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "plans",
+            "ceuta",
+            "agency",
+            "mass",
+            "warned"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "Planning health like wealth",
-      "description": "[The content of this article has been produced by our advertising partner.] Hongkongers may be increasingly conscious of staying healthy for longer, but awareness alone does not always lead to action. A new survey by Standard Chartered in collaboration with HKSH Medical Group (HKSH) found that nearl",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/presented/business/topics/planning-health-wealth/article/3366102/planning-health-wealth",
-      "category": "Health",
+      "title": "US Senators demand action against three India-based companies for data 'theft'",
+      "description": "US Senators demand action against three India-based companies for data 'theft'",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/us-senators-demand-action-against-three-india-based-companies-for-data-theft-101789002394739.html",
+      "category": "General",
       "readingTime": 2,
-      "score": 5,
-      "why": "Hongkongers may prioritize health planning for longer lives.",
-      "context": "Hongkongers are increasingly aware of long-term health, similar to financial planning. However, this awareness does not always translate into action.",
-      "next": "More individuals will likely adopt proactive strategies for long-term health management.",
-      "bigger": "Preventive health and longevity are becoming major consumer priorities worldwide.",
-      "publishedAt": "2026-09-09T04:30:52+00:00",
+      "score": 7,
+      "why": "International data sharing and privacy rules may tighten.",
+      "context": "US Senators demanded action against three Indian companies. They accuse these companies of data theft.",
+      "next": "US and Indian governments may discuss cross-border data protection.",
+      "bigger": "Data security and digital privacy are growing global concerns.",
+      "publishedAt": "2026-09-10T06:36:34+05:30",
       "topicFingerprint": [
-        "wealth",
-        "planning"
+        "senators",
+        "india",
+        "theft",
+        "data",
+        "action"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "united_states": [
+    "germany": [
       {
-        "title": "Australians question US commitment to Aukus submarine deal in crowdfunded inquiry",
-        "description": "Dissent voiced in an ongoing inquiry into Australia\u2019s most ambitious nuclear submarine pact has laid bare growing uncertainty over US commitment, amid questions about the clarity of Canberra\u2019s explanation of the Aukus deal to citizens. Under the trilateral security pact between Australia, the UK and",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/week-asia/economics/article/3366900/australians-question-us-commitment-aukus-submarine-deal-crowdfunded-inquiry",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T08:07:37+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "crowdfunded",
-          "question",
-          "inquiry",
-          "submarine",
-          "commitment"
-        ]
-      },
-      {
-        "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
-        "description": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T07:14:12+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: medicine"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: iran"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: say"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "blockade",
-          "iran",
-          "tightens",
-          "grow",
-          "sanctions"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "China needs monkeys: lab animal shortage could hinder biotech growth",
-        "description": "China\u2019s biotechnology market has \u201csignificantly\u201d driven up the demand for primate experimental models as the market recovers, tightening the supply of laboratory monkeys, according to a leading biotech firm. The continued recovery of fundraising and out-licensing deals in innovative drugs in China t",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/companies/article/3366870/china-needs-monkeys-lab-animal-shortage-could-hinder-biotech-growth",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T05:01:10+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: shortage"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "lab",
-          "hinder",
-          "growth",
-          "biotech",
-          "monkeys"
-        ]
-      },
-      {
-        "title": "Belt and Road Initiative is more than a trade and investment platform",
-        "description": "Feel strongly about these letters, or any other aspects of the news? Share your views by emailing us your Letter to the Editor at letters@scmp.com or filling in this Google form. Submissions should not exceed 400 words. The Belt and Road Initiative Summit taking place in Hong Kong on Wednesday and T",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/opinion/letters/article/3366731/belt-and-road-initiative-more-trade-and-investment-platform",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T03:30:10+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Opinion detected"
-          },
-          {
-            "points": -4,
-            "reason": "South China regional news"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "platform",
-          "trade",
-          "initiative",
-          "road",
-          "investment"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "B'desh foreign minister keeps mum on PM Rahman's participation in India-hosted BRICS summit",
-        "description": "B'desh foreign minister keeps mum on PM Rahman's participation in India-hosted BRICS summit",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/bdesh-foreign-minister-keeps-mum-on-pm-rahman-s-participation-in-india-hosted-brics-summit-101788924060084.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T08:50:59+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "summit",
-          "india",
-          "brics",
-          "russia",
-          "ties"
-        ]
-      },
-      {
-        "title": "Singapore police question 5 over racist comments on Nepal floods, Air India investment",
-        "description": "The police have identified and interviewed five people over online comments relating to the Nepal floods and discussions surrounding Singapore Airlines\u2019 (SIA) investment in Air India. Senior Minister K Shanmugam said on Saturday that the police were looking into \u201cshameful\u201d racist and xenophobic onli",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T03:48:25+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: floods"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [
-          {
-            "title": "Singapore police investigate five people over 'racist' online comments on Nepal floods, Air India",
-            "description": "Singapore police investigate five people over 'racist' online comments on Nepal floods, Air India",
-            "source": "Hindustan Times",
-            "url": "https://www.hindustantimes.com/world-news/us-news/singapore-police-investigate-five-people-over-racist-online-comments-on-nepal-floods-air-india-101788933769681.html",
-            "category": "Environment",
-            "publishedAt": "2026-09-09T11:32:49+05:30",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "air",
-              "india",
-              "sia",
-              "strategic",
-              "investment"
-            ],
-            "group_id": 1
-          }
-        ],
-        "topicFingerprint": [
-          "air",
-          "india",
-          "sia",
-          "strategic",
-          "investment"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Singapore police question 5 over racist comments on Nepal floods, Air India investment",
-        "description": "The police have identified and interviewed five people over online comments relating to the Nepal floods and discussions surrounding Singapore Airlines\u2019 (SIA) investment in Air India. Senior Minister K Shanmugam said on Saturday that the police were looking into \u201cshameful\u201d racist and xenophobic onli",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366861/singapore-police-question-5-over-racist-comments-nepal-floods-air-india-investment",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T03:48:25+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: floods"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [
-          {
-            "title": "Singapore police investigate five people over 'racist' online comments on Nepal floods, Air India",
-            "description": "Singapore police investigate five people over 'racist' online comments on Nepal floods, Air India",
-            "source": "Hindustan Times",
-            "url": "https://www.hindustantimes.com/world-news/us-news/singapore-police-investigate-five-people-over-racist-online-comments-on-nepal-floods-air-india-101788933769681.html",
-            "category": "Environment",
-            "publishedAt": "2026-09-09T11:32:49+05:30",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "air",
-              "india",
-              "sia",
-              "strategic",
-              "investment"
-            ],
-            "group_id": 1
-          }
-        ],
-        "topicFingerprint": [
-          "air",
-          "india",
-          "sia",
-          "strategic",
-          "investment"
-        ]
-      },
-      {
-        "title": "Trade and investment can support jobs in both Singapore and the US, says DPM Gan",
-        "description": "The US has maintained a substantial trade surplus with Singapore for more than two decades.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/trade-and-investment-can-support-jobs-in-both-singapore-and-the-us-says-dpm-gan",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-08T10:00:40+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: says"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "trade",
-          "support",
-          "both",
-          "jobs",
-          "gan"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Japan's empty temples seek new ways to survive",
-        "description": "With a declining population, shrinking congregations and growing economic pressures, temples are struggling to stay relevant. As more temples are sold or closed, is religion in decline in modern Japan?",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/japan-s-empty-temples-seek-new-ways-to-survive/a-79157964",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-08T12:31:00+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "seek",
-          "ways",
-          "temples",
-          "japan",
-          "survive"
-        ]
-      },
-      {
-        "title": "Yen hits seven-month high on hawkish BOJ bets and soft US dollar",
-        "description": "The Japanese yen hit a seven-month high against the dollar, driven by expectations of Bank of Japan policy tightening and a softening US dollar.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/25efd326-20f5-4edb-8ebe-dbbaec87c11f.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-09-08T03:12:38+00:00",
+        "publishedAt": "2026-09-09T13:29:33+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
@@ -1226,7 +810,7 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: migration"
           },
           {
             "points": 3,
@@ -1234,66 +818,19 @@
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "reason": "Highest Quality Source match: BBC News"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "dollar",
-          "bets",
-          "seven",
-          "boj",
-          "soft"
+          "germany",
+          "attacks",
+          "far",
+          "win",
+          "election"
         ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "SK Hynix, Samsung lead South Korea\u2019s Kospi higher as Asian chip stocks gain",
-        "description": "The advances follow a 1.3% rise for the Philadelphia Semiconductor Index on Sep 8",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/sk-hynix-samsung-lead-south-koreas-kospi-higher-asian-chip-stocks-gain",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T01:14:30+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "asian",
-          "sk_entity",
-          "kospi",
-          "chip",
-          "samsung"
-        ]
-      }
-    ],
-    "germany": [
+      },
       {
         "title": "Germany fights Gaza genocide claims at the UN\u2019s top court",
         "description": "Last year, Germany stopped authorising any exports of military equipment to Israel that could be used in Gaza but later lifted those restrictions.",
@@ -1304,7 +841,7 @@
         "readingTime": 2,
         "publishedAt": "2026-09-09T13:42:29+05:30",
         "reason": "within_48h",
-        "score": 5,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1325,6 +862,127 @@
           {
             "points": -5,
             "reason": "Lowerst Quality Source match: The Hindu"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "germany",
+          "fights",
+          "claims",
+          "top",
+          "genocide"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "'Passengers or pilots?' Europe looks to challenge US dominance in space sector with \u20ac10 billion plan",
+        "description": "Key figures from Europe\u2019s space industry and other international players have converged on Paris to discuss how to advance the continent\u2019s ambitions in a global market dominated by the United States.",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20260909-passengers-or-pilots-europe-looks-to-challenge-us-dominance-in-space-sector-with-%E2%82%AC10-billion-plan",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-09T19:56:05+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "space",
+          "sector",
+          "pilots",
+          "eu_entity",
+          "passengers"
+        ]
+      },
+      {
+        "title": "Stocks to watch: DBS, Sembcorp, Kore US Reit",
+        "description": "[SINGAPORE] The following companies saw new developments that may affect trading of their securities on Thursday (Sep 10):",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-dbs-sembcorp-kore-us-reit",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T00:27:12+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "watch",
+          "dbs",
+          "reit",
+          "sembcorp",
+          "kore"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Hong Kong court convicts publisher of deterring reporter from taking union role",
+        "description": "A Hong Kong court has convicted the publisher of The Wall Street Journal of deterring its reporter from taking up a trade union role",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/hong-kong-court-convicts-wall-street-journal-publisher-136326720",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T01:42:58-04:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
           },
           {
             "points": 1,
@@ -1334,24 +992,145 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gaza",
-          "israel",
-          "germany",
-          "genocide",
-          "fights"
+          "role",
+          "deterring",
+          "convicts",
+          "kong",
+          "hong"
         ]
       },
       {
-        "title": "Germany fights Nicaragua's Gaza genocide case at top UN court",
-        "description": "Germany asks the International Court of Justice to dismiss Nicaragua's case accusing it of facilitating genocide in Gaza by supplying arms to Israel.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/88078530-9ce5-4a53-a96d-fdf5c5b5e215.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
+        "title": "Racketeering conspiracy trial against Chinese tech giant Huawei begins in New York",
+        "description": "Racketeering conspiracy trial against Chinese tech giant Huawei begins in New York",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/racketeering-conspiracy-trial-against-chinese-tech-giant-huawei-begins-in-new-york-101788988063923.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T02:37:43+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "tech",
+          "trial",
+          "huawei",
+          "giant",
+          "china_entity"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "SIA to seek tougher terms for any fresh Air India funding",
+        "description": "It will seek greater influence over management and stronger governance rights",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/sia-seek-tougher-terms-any-fresh-air-india-funding",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Policy",
         "readingTime": 2,
-        "publishedAt": "2026-09-07T22:23:06+00:00",
+        "publishedAt": "2026-09-09T07:38:40+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sia",
+          "seek",
+          "fresh",
+          "india",
+          "funding"
+        ]
+      },
+      {
+        "title": "Jio Payment Solutions launches cross-border payments to connect exporters with global markets",
+        "description": "The launch follows the receipt of authorisation from the RBI to operate as a Payment Aggregator for Cross-Border (PA-CB) transactions, covering exports and imports",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/Industry/jio-payment-solutions-launches-cross-border-payments-to-connect-exporters-with-global-markets/article71446946.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-09T16:55:26+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: rbi"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: imports"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "connect",
+          "launches",
+          "solutions",
+          "jio",
+          "exporters"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "Israel opens embassy in Slovenia as small EU nation shifts policies",
+        "description": "Israel has opened its embassy in Slovenia, boosting relations with the small European Union nation as ties soured with the United Kingdom and some of the other longtime allies",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/israel-opens-embassy-slovenia-small-eu-nation-shifts-136308725",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T01:46:53-04:00",
+        "reason": "within_48h",
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
@@ -1359,44 +1138,149 @@
           },
           {
             "points": 2,
-            "reason": "policy important keyword match: un"
+            "reason": "important keyword match: european union"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
-        "group_id": 1,
+        "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "gaza",
+          "opens",
+          "embassy",
           "israel",
-          "germany",
-          "genocide",
-          "fights"
+          "ties",
+          "slovenia"
         ]
       }
     ],
-    "uk": [
+    "south_korea": [
       {
-        "title": "UK flights resume after major air traffic outage",
-        "description": "Airports warn of more disruption",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/uk-flights-resume-after-major-air-traffic-outage",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "General",
+        "title": "Samsung, SK Hynix payouts test South Korea\u2019s reform drive as investors seek more",
+        "description": "South Korea\u2019s benchmark KOSPI remains about 26 per cent below the record high reached in June.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-09-09T08:30:17+00:00",
+        "publishedAt": "2026-09-10T09:51:00+08:00",
         "reason": "within_48h",
         "score": 4,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Samsung, SK Hynix payouts test South Korea\u2019s reform drive as investors seek more",
+            "description": "Unlike other indices, the Kospi trades at just 4.3 times of expected 2027 earnings",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-investors-seek-more",
+            "category": "Financial",
+            "publishedAt": "2026-09-10T02:15:58+00:00",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "reform",
+              "hynix",
+              "payouts",
+              "seek",
+              "test"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "reform",
+          "hynix",
+          "payouts",
+          "seek",
+          "test"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Two Indian firms to participate in inaugural Canada Investment Summit",
+        "description": "The summit will be hosted by Prime Minister Mark Carney in Toronto next week. It is part of an \u201cambitious plan to catalyse US$ 724 billion in total investment in Canada over the next five years\u201d",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/two-indian-firms-to-participate-in-inaugural-canada-investment-summit-101789017138914.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T10:42:18+05:30",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -3,
+            "reason": "financial lowest priority keyword match: firms"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "inaugural",
+          "participate",
+          "investment",
+          "canada",
+          "summit"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Singapore-Sydney route gets sixth airline as EgyptAir enters market",
+        "description": "The move adds to a recent capacity surge, but incumbents SIA and Qantas will likely be insulated",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/singapore-sydney-route-gets-sixth-airline-egyptair-enters-market",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-10T06:31:01+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
           },
           {
             "points": 1,
@@ -1408,81 +1292,26 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "UK summons air traffic boss after major outage as flights slowly resume",
-            "description": "LONDON, Sept 9 - Flights from British airports resumed on Wednesday after a major air traffic failure, but questions mounted about the reliability of Britain's aviation systems and ministers called in the flight control boss to explain the shutdown.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/uk-flights-resume-but-airports-warn-of-ongoing-disruption-from-air-traffic-outage",
-            "category": "General",
-            "publishedAt": "2026-09-09T14:32:44+08:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "flights",
-              "air",
-              "airports",
-              "uk_entity",
-              "traffic"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Air traffic control issue disrupts flights at major UK airports",
-            "description": "Nearly a thousand flights were disrupted on Tuesday",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/air-traffic-control-issue-disrupts-flights-major-uk-airports",
-            "category": "General",
-            "publishedAt": "2026-09-08T23:30:00+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "flights",
-              "air",
-              "airports",
-              "uk_entity",
-              "traffic"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Wizz Air, Ryanair call for overhaul of UK air traffic control provider after flight disruption",
-            "description": "A new technical issue disrupted hundreds of flights at key airports in the country.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/wizz-air-ryanair-call-for-overhaul-of-uk-air-traffic-control-provider-after-flight-disruption",
-            "category": "General",
-            "publishedAt": "2026-09-09T03:43:15+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "flights",
-              "air",
-              "airports",
-              "uk_entity",
-              "traffic"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "flights",
-          "air",
-          "airports",
-          "uk_entity",
-          "traffic"
+          "route",
+          "enters",
+          "sydney",
+          "singapore",
+          "egyptair"
         ]
       }
     ],
-    "australia": [
+    "singapore": [
       {
-        "title": "What Australian developer Bathla\u2019s\u00a0collapse means for home buyers and their money",
-        "description": "The credit crisis lays bare the pitfalls for buyers when corporate missteps collide with a market correction.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/companies-markets/what-australian-developer-bathlas-collapse-means-for-homebuyers-and-their-money",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "title": "Singapore-Sydney route gets sixth airline as EgyptAir enters market",
+        "description": "The move adds to a recent capacity surge, but incumbents SIA and Qantas will likely be insulated",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/singapore-sydney-route-gets-sixth-airline-egyptair-enters-market",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-08T10:40:00+08:00",
+        "publishedAt": "2026-09-10T06:31:01+00:00",
         "reason": "within_48h",
         "score": 4,
         "score_debug": [
@@ -1492,124 +1321,15 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: crisis"
-          },
-          {
-            "points": 2,
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "home",
-          "buyers",
-          "bathla",
-          "means",
-          "developer"
-        ]
-      },
-      {
-        "title": "Australia proposes law to let social media users opt out of algorithms",
-        "description": "Australia proposes legislation letting users over 16 opt out of social media algorithms and requiring platforms to protect children from harmful content.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/3e121a97-2d5b-4041-88db-d96cd1ccc7dc.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-09-08T08:06:59+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "law",
-          "media",
-          "social",
-          "proposes",
-          "opt"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "Brazil Supreme Court removes federal police chief, deepening crisis at the top court",
-        "description": "Brazilian Supreme Court Justice Andr Mendonca has removed the head of the federal police and the intelligence chief from their posts",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/brazil-supreme-court-removes-federal-police-chief-deepening-136278215",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-09-08T12:23:34-04:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: supreme court"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: crisis"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "removes",
-          "deepening",
-          "supreme",
-          "brazil",
-          "top"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "EU faces complaint over plan to simplify more environmental laws",
-        "description": "BRUSSELS, Sept 8 - Environmental campaign groups lodged a complaint against the European Commission on Tuesday, accusing the EU executive of moving ahead with an overhaul of water protection and management laws without enough evidence.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/eu-faces-complaint-over-plan-to-simplify-more-environmental-laws",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-09T16:07:20+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: environmental"
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "High Quality Source match: Business Times"
           },
           {
             "points": 1,
@@ -1619,52 +1339,44 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
-          "complaint",
-          "faces",
-          "plan",
-          "simplify"
+          "route",
+          "enters",
+          "sydney",
+          "singapore",
+          "egyptair"
         ]
       }
     ],
-    "italy": [
+    "japan": [
       {
-        "title": "Inside Italy\u2019s banking M&A boom \u2014 and why Wall Street is watching",
-        "description": "Italy has become the center of Europe\u2019s banking consolidation boom, with a wave of takeover bids reshaping the country\u2019s financial sector. This video explains what is driving the dealmaking, how battles for influence over banks including Monte dei Paschi and Mediobanca connect to insurer Generali, a",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/video/2026/09/08/italy-banking-ma-boom.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
+        "title": "Japan\u2019s protest over Russian soldier statue aggravates \u2018summer of tension\u2019",
+        "description": "Russia has rebuffed a strongly worded complaint from Japan about the unveiling of a statue in the city of Khabarovsk depicting a Soviet soldier smashing an imperial-era border marker bearing the emblem of the Japanese emperor, with analysts suggesting the bilateral relations will inevitably remain c",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/politics/article/3366952/japans-protest-over-russian-soldier-statue-aggravates-summer-tension",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-09-08T04:00:01+00:00",
+        "publishedAt": "2026-09-10T00:00:24+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: financial"
+            "reason": "important keyword match: russia"
           },
           {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "street",
-          "italy",
-          "inside",
-          "boom",
-          "watching"
+          "summer",
+          "statue",
+          "soldier",
+          "protest",
+          "aggravates"
         ]
       }
     ]
