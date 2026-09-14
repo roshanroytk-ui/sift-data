@@ -1,729 +1,746 @@
 {
-  "updatedAt": "2026-09-13T07:04:32.061860",
+  "updatedAt": "2026-09-14T07:32:23.389687",
   "insight": {
-    "title": "Your Phone Camera Only Sees in Black and White",
-    "subtitle": "Why digital photography is mostly mathematical guesswork",
-    "notificationHook": "Your camera doesn't actually see color",
+    "title": "Street Signs Don't Shout For a Reason",
+    "subtitle": "Mixed-case lettering helps your brain process street names faster, especially when you're driving at speed.",
+    "notificationHook": "Street signs use lowercase on purpose.",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Every digital photo you have ever taken started as pure black and white. Silicon camera sensors are completely colorblind\u2014they can only count how many light particles hit each pixel."
+        "text": "You'd think crucial road signs would scream directions in all capital letters for maximum impact. Yet, virtually every street name sign you see uses standard mixed-case, like \"Main Street,\" not \"MAIN STREET.\""
       },
       {
         "type": "paragraph",
-        "text": "To simulate reality, a mosaic of red, green, and blue filters sits over the sensor. Software then reads the brightness behind each filter and mathematically calculates the missing colors in between."
+        "text": "That's intentional. All-caps words form uniform rectangular blocks, blurring distinct word shapes. Mixed-case letters, however, feature varied heights (ascenders and descenders) like the 'h' or 'p'."
       },
       {
         "type": "paragraph",
-        "text": "That means no camera captures what your eye actually witnessed. Every sunset, portrait, and landscape on your screen is an algorithm\u2019s reconstruction of what it thinks was there."
+        "text": "These unique letter variations create a distinctive \"word picture\" for your brain to grab onto instantly. This lightning-fast recognition is vital when you're cruising at 60 mph with precious seconds to process information."
       },
       {
         "type": "paragraph",
-        "text": "Your camera never captures color; it calculates an educated guess."
+        "text": "The shape of the word is more readable than its letters."
       }
     ]
   },
   "news": [
     {
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "description": "Saudi Arabia shut down its East-West pipeline after drone attacks, as Houthi rebels capture a strategic island, threatening Red Sea shipping and oil exports.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/d17464bb-b700-44aa-b399-553a71f03381.html",
+      "title": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
+      "description": "The United States begins G20 meetings in Houston on Monday promoting \u201cenergy abundance,\u201d as President Donald Trump\u2019s war against Iran disrupts global fuel markets. Delegations from major economies, including China, India, Japan and Germany, will attend alongside oil producers Canada and Saudi Arabia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 17,
-      "why": "Global oil supplies and shipping routes face new disruption.",
-      "context": "Saudi Arabia shut an oil pipeline after drone attacks and Houthi Red Sea advances.",
-      "next": "Oil markets may experience increased volatility.",
-      "bigger": "Regional conflicts significantly impact global energy security.",
-      "publishedAt": "2026-09-13T03:07:11+00:00",
+      "score": 21,
+      "why": "Your fuel and transport costs may rise soon.",
+      "context": "US hosted G20 energy talks promoting \"energy abundance.\" This occurs as the Iran conflict disrupts global fuel markets.",
+      "next": "Countries will discuss strategies to stabilize energy supplies.",
+      "bigger": "Global energy security is a constant challenge for major economies.",
+      "publishedAt": "2026-09-14T01:42:29+00:00",
       "topicFingerprint": [
-        "saudi",
+        "energy",
+        "hosts",
+        "houston",
+        "war",
+        "iran"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The tab is coming due for America's borrowing binge",
+      "description": "Americans are facing a rising tab as a multi-decade borrowing binge collides with a spike in energy prices caused by the Iran war. The big picture: Long-term interest rates are surging, as are consumer prices. It's a toxic mix of near-term inflation pressures and years of fiscal imbalance. Driving t",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/13/national-debt-interest-rates-rising",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 20,
+      "why": "Your borrowing costs and loan payments may soon increase.",
+      "context": "America faces increased debt costs after years of borrowing. Surging energy prices from the Iran conflict add pressure.",
+      "next": "The US government may explore measures to curb national debt.",
+      "bigger": "Sustained national debt can lead to higher long-term interest rates.",
+      "publishedAt": "2026-09-13T11:11:55+00:00",
+      "topicFingerprint": [
         "iran",
-        "oil",
-        "pipeline",
-        "houthis",
-        "houthi"
+        "ukraine",
+        "saudi",
+        "strait",
+        "strikes",
+        "russian"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "AI CEOs and Elon Musk call for a slowdown in reckless AI development",
+      "description": "Anthropic CEO Dario Amodei, OpenAI's Sam Altman, and Elon Musk urge a slowdown in AI development to prevent existential threats and ensure public safety.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/cefef2b5-cd71-4e53-95b5-b07e555f84dd.html",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 20,
+      "why": "The AI tools you use may soon face new restrictions.",
+      "context": "Leading AI executives, including Elon Musk, urged slower AI development. They warn against existential risks and advocate for public safety.",
+      "next": "Regulators and developers will likely discuss new safety guidelines.",
+      "bigger": "Balancing AI innovation with safety concerns is a growing global debate.",
+      "publishedAt": "2026-09-14T06:06:54+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "development",
+        "anthropic",
+        "slowdown",
+        "openai",
+        "donald_trump"
       ],
       "alternates": [
         {
-          "title": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
-          "description": "Saudi Arabia on Saturday \u200bshut down the vital East-West pipeline after the conduit came under attack in the widening Middle East war, threatening to send energy prices soaring. The 1,200-km pipeline has served as the main route out for global \u200bsupplies of Middle East oil for the \u200cpast six months whi",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-12T20:51:50+00:00",
+          "title": "OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development",
+          "description": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Da",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+          "category": "Technology",
+          "publishedAt": "2026-09-13T14:02:24+00:00",
           "score": 15,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         },
         {
-          "title": "Iran\u2019s Houthi allies capture strategic island on vital oil shipping route",
-          "description": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exports Why the rapid Houthi advance matters and what\u2019s at stake Yemen\u2019s rampant Houthi forces have captured the strategic island of Perim in the Bab al-Mandab strait, expanding ",
+          "title": "\u2018Too little, too late\u2019: critics perplexed and suspicious of AI leaders\u2019 call for a slowdown",
+          "description": "From the Trump administration to AI experts, plans by the Anthropic boss to boost safety have spawned a largely negative response OpenAI boss and Elon Musk back slowdown on \u2018reckless\u2019 AI development Editorial: controlling AI \u2013 humanity cannot outsource its survival The safety debate that ignited whe",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-12T04:45:28+00:00",
+          "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
+          "category": "Progress",
+          "publishedAt": "2026-09-13T16:54:58+00:00",
           "score": 11,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         },
         {
-          "title": "Iran-backed Houthis tighten grip on key oil shipping lane",
-          "description": "The moves by the Houthis make it easier for the Iran-backed rebels to target ships transiting the crucial Bab el-Mandeb Strait for Saudi Arabian oil exports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
-          "category": "General",
-          "publishedAt": "2026-09-13T02:34:41-04:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-          "description": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+          "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+          "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-11T21:35:14+00:00",
+          "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+          "category": "Financial",
+          "publishedAt": "2026-09-13T22:21:33+00:00",
+          "score": 11,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+          "description": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+          "category": "Technology",
+          "publishedAt": "2026-09-13T16:39:24+00:00",
           "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         },
         {
-          "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-          "description": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-12T01:57:08-04:00",
-          "score": 9,
+          "title": "What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "description": "Anthropic CEO Dario Amodei called for a slowdown of frontier AI, winning support from Sam Altman, Elon Musk, and Demis Hassabis \u2014 but not everyone.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "category": "Technology",
+          "publishedAt": "2026-09-13T20:55:24+00:00",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         },
         {
-          "title": "Iraq reacts to Iran-backed militia drone attacks that shut Saudi oil pipeline",
-          "description": "Iraq is investigating drone attacks launched from its territory that shut Saudi Arabia's East-West pipeline, blamed on Iran-backed militias.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/fc2c4ef9-fe8f-4536-9e9b-db27f0e798d5.html",
-          "category": "General",
-          "publishedAt": "2026-09-12T08:11:52+00:00",
+          "title": "Anthropic CEO urges slower AI development as Altman, Musk rally behind call",
+          "description": "Unclear how far the leading AI companies will go in imposing new limits or safety checks",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/anthropic-ceo-urges-slower-ai-development-altman-musk-rally-behind-call",
+          "category": "Technology",
+          "publishedAt": "2026-09-13T01:22:47+00:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         },
         {
-          "title": "Saudis shut down oil pipeline as Houthis tighten grip",
-          "description": "IRAN-CRISIS:Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-101789241584767.html",
-          "category": "General",
-          "publishedAt": "2026-09-13T01:03:04+05:30",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "source": "Techcrunch",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "category": "Technology",
+          "publishedAt": "2026-09-12T19:34:44+00:00",
           "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-          "description": "IRAN-CRISIS/ (WRAPUP 8, PIX, TV):WRAPUP 8-Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-101789241584297.html",
-          "category": "General",
-          "publishedAt": "2026-09-13T01:03:03+05:30",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-          "description": "ADEN/DUBAI, Sept 12 - Saudi Arabia has shut down its East-West pipeline after the vital oil conduit came under aerial attack in the widening Middle East war.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-12T09:06:12+08:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Iran-backed Houthis seize island at entrance to Red Sea, threatening Saudi oil exports",
-          "description": "Houthi rebels in Yemen consolidated lightning gains across the country's western coast. The group, which recently resumed fighting with the Saudi-backed government, also extended its hold on the Bab al-Mandab Strait, a crucial chokepoint at the southern reaches of the Red Sea. Ali Rogin reports.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/iran-backed-houthis-seize-island-at-entrance-to-red-sea-threatening-saudi-oil-exports",
-          "category": "Policy",
-          "publishedAt": "2026-09-11T18:50:58-04:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "ai_group",
+            "development",
+            "anthropic",
+            "slowdown",
+            "openai",
+            "donald_trump"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
-      "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Your money buys less as prices increase faster than your pay.",
-      "context": "Consumer prices are rising faster than wages, reducing purchasing power.",
-      "next": "Households may face tighter budgets and reduced savings.",
-      "bigger": "Sustained inflation erodes living standards and consumer confidence.",
-      "publishedAt": "2026-09-12T12:49:15+00:00",
-      "topicFingerprint": [
-        "wage",
-        "americans",
-        "inflation",
-        "outpacing",
-        "paychecks"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Beijing pushes AI-assisted chip design as part of self-sufficiency drive",
-      "description": "Artificial intelligence agents are increasingly taking the wheel in designing China\u2019s next-generation semiconductors, as Beijing and domestic technology firms accelerate efforts to integrate AI into chip design software to bolster national self-sufficiency. Empyrean Technology, China\u2019s top maker of ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Global competition in advanced chip technology will intensify.",
-      "context": "China is using AI to design next-generation semiconductors for self-sufficiency.",
-      "next": "China may produce more advanced domestic chips.",
-      "bigger": "AI is rapidly transforming complex industrial design processes.",
-      "publishedAt": "2026-09-13T06:00:08+00:00",
-      "topicFingerprint": [
-        "self",
-        "beijing",
-        "assisted",
-        "chip",
-        "drive"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump is open to China building cars in US as Xi visit looms",
-      "description": "Currently, Chinese vehicles are essentially shut out of the US market by steep tariffs and a Commerce Department ban.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/trump-says-open-to-china-building-cars-in-us-as-xi-visit-looms",
+      "title": "The third rail isn\u2019t what it used to be. As the Social Security fund\u2019s insolvency nears, more lawmakers are open to tax hikes\u2014even Republicans",
+      "description": "\u201cI\u2019m willing to look at the tax rate. I am willing to raise the amount of income through tax.\u201d",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/13/social-security-trust-fund-insolvency-tax-hikes-income-cap-republicans/",
       "category": "Policy",
       "readingTime": 2,
-      "score": 10,
-      "why": "US auto jobs and market competition could be affected.",
-      "context": "Trump is considering allowing Chinese car manufacturing within the US.",
-      "next": "US trade policy towards Chinese auto imports may shift.",
-      "bigger": "Geopolitical rivals seek ways to navigate trade barriers.",
-      "publishedAt": "2026-09-12T09:47:39+08:00",
+      "score": 11,
+      "why": "US taxpayers may face higher income taxes soon.",
+      "context": "More US lawmakers are now open to raising taxes. This addresses the looming insolvency of the Social Security fund.",
+      "next": "Lawmakers will debate specific proposals to secure the fund's future.",
+      "bigger": "Aging populations increasingly strain national pension systems worldwide.",
+      "publishedAt": "2026-09-13T19:12:51+00:00",
       "topicFingerprint": [
-        "visit",
-        "donald_trump",
-        "open",
-        "cars",
-        "building"
+        "rail",
+        "third",
+        "isn",
+        "lawmakers",
+        "security"
       ],
       "alternates": []
     },
     {
-      "title": "Corals as climate archive: Are El Ninos intensifying?",
-      "description": "Records from the past few decades show that, during this period, El Nino events have been frequent and often extreme. But is this normal, or is it the result of climate change? Corals can give us a clear indication.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425",
-      "category": "Science",
+      "title": "Investment in Irrigation Systems Is Vital in Preparing for the Next Climate Shock",
+      "description": "When the African continent experiences erratic rains, crops fail, leaving millions of people facing hunger. Approximately 95% of Africa\u2019s arable land depends heavily on rainfall, which is vulnerable to climate shocks such as drought. El Ni\u00f1o-induced drought expected to hit some parts of Africa, part",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/09/investment-in-irrigation-systems-is-vital-in-preparing-for-the-next-climate-shock/",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 6,
-      "why": "Understanding climate patterns helps predict future weather disruptions.",
-      "context": "Scientists are studying corals to determine if El Nino events are intensifying.",
-      "next": "Research may confirm a link between climate change and El Nino strength.",
-      "bigger": "Natural archives offer crucial insights into past climate change.",
-      "publishedAt": "2026-09-12T08:53:00+00:00",
+      "score": 9,
+      "why": "Food security in affected regions will become less reliable.",
+      "context": "Africa faces severe crop failures from erratic rains. Millions experience hunger due to reliance on rainfall.",
+      "next": "Investment in robust irrigation systems will become a priority.",
+      "bigger": "Climate change exacerbates food insecurity in vulnerable agricultural regions.",
+      "publishedAt": "2026-09-14T06:23:57+00:00",
       "topicFingerprint": [
-        "corals",
         "climate",
-        "ninos",
-        "intensifying",
-        "archive"
+        "vital",
+        "shock",
+        "investment",
+        "irrigation"
       ],
       "alternates": []
     },
     {
-      "title": "Ukraine braces for harsh winter as Russian attacks hit economy",
-      "description": "KYIV, Sept 12 - Ukraine is bracing for a brutal winter as intensified Russian attacks on the country's infrastructure and key export industries compound a deepening budget crisis, Ukrainian officials said on Saturday.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/ukraine-braces-for-harsh-winter-as-russian-attacks-hit-economy",
+      "title": "BRICS leaders meet in India amid wars and tensions to test the bloc",
+      "description": "BRICS leaders met in New Delhi for the 18th summit to discuss trade, investment, and global conflicts amid geopolitical rifts and economic challenges.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/a0d57b76-1205-4311-9276-0564f0012ee7.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 16,
-      "why": "Ukrainian citizens face disrupted services and economic hardship.",
-      "context": "Ukraine faces a harsh winter due to Russian attacks on infrastructure and exports.",
-      "next": "Ukraine's energy infrastructure may suffer further damage.",
-      "bigger": "War devastates civilian infrastructure and national economies.",
-      "publishedAt": "2026-09-13T01:06:19+08:00",
+      "score": 17,
+      "why": "Global trade and investment patterns may see shifts.",
+      "context": "BRICS leaders convened in India for their 18th summit. They discussed trade, investment, and global geopolitical challenges.",
+      "next": "BRICS nations may deepen economic cooperation and expand their influence.",
+      "bigger": "Geopolitical shifts are reshaping international alliances and economic blocs.",
+      "publishedAt": "2026-09-13T10:28:01+00:00",
       "topicFingerprint": [
-        "russian",
-        "hit",
-        "harsh",
-        "braces",
-        "winter"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Israel bombs southern Lebanon as talks postponed",
-      "description": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Regional stability and de-escalation efforts face new setbacks.",
-      "context": "Israel bombed southern Lebanon after peace talks were postponed.",
-      "next": "Tensions along the Israel-Lebanon border may escalate.",
-      "bigger": "Diplomatic efforts often struggle amidst active conflict.",
-      "publishedAt": "2026-09-12T19:56:09+00:00",
-      "topicFingerprint": [
-        "lebanon",
-        "bombs",
-        "southern",
-        "israel",
-        "postponed"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "After Musk and Altman, Google DeepMind founder backs Anthropic CEO Dario Amodei amid alarm over AI",
-      "description": "Commenting on Dario Amodei's remarks, Demis Hassabis emphasised that although details need refining, the \"direction is correct\" for meeting this crucial moment.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/after-musk-and-altman-google-deepmind-founder-backs-anthropic-ceo-dario-amodei-amid-alarm-over-ai-101789271487807.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Top AI developers agree on the urgent need for safety measures.",
-      "context": "Google DeepMind founder supports Anthropic CEO's alarm over AI risks.",
-      "next": "Industry leaders may push for stronger AI safety protocols.",
-      "bigger": "AI development faces increasing scrutiny over its future impact.",
-      "publishedAt": "2026-09-13T10:32:24+05:30",
-      "topicFingerprint": [
-        "ai_group",
         "brics",
-        "anthropic",
         "india",
-        "amodei",
-        "dario"
+        "trade",
+        "summit",
+        "china_entity"
       ],
       "alternates": []
     },
     {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "category": "Cybersecurity",
+      "title": "China\u2019s intelligence chief warns of risks from AI as \u2018new arena for strategic rivalry\u2019",
+      "description": "China\u2019s top intelligence official has warned of rising national security risks posed by artificial intelligence (AI), calling for robust risk prevention frameworks and stronger global governance of the emerging technology. The call from Chen Yixin, China\u2019s state security minister, comes as Beijing s",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 12,
-      "why": "Your personal information and financial accounts are at risk.",
-      "context": "Revolut confirmed a customer data breach via fraudulent government requests.",
-      "next": "Affected customers may face increased phishing attempts.",
-      "bigger": "Financial institutions remain targets for sophisticated cyber fraud.",
-      "publishedAt": "2026-09-12T14:40:00+00:00",
+      "why": "Global access to advanced AI technology may face new restrictions.",
+      "context": "China\u2019s intelligence chief warned of rising AI national security risks. He urged robust prevention and stronger global governance frameworks.",
+      "next": "Countries will likely increase efforts to control AI development and use.",
+      "bigger": "AI is becoming a critical domain for national security and geopolitical competition.",
+      "publishedAt": "2026-09-14T00:00:10+00:00",
       "topicFingerprint": [
-        "through",
-        "fake",
-        "requests",
-        "revolut",
-        "breach"
+        "warns",
+        "arena",
+        "ai_group",
+        "strategic",
+        "rivalry"
       ],
       "alternates": []
     },
     {
-      "title": "Swedes vote in election that could usher far right into government",
-      "description": "Incumbent Prime Minister Ulf Kristersson has pledged to bring the far-right Sweden Democrats into government if his bloc wins.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/swedes-vote-in-election-that-could-usher-far-right-into-government",
-      "category": "Policy",
+      "title": "SoftBank gets upsized US$11.9 billion loan in OpenAI funding push",
+      "description": "The Japanese conglomerate attracts commitments from around 20 banks for the two-year facility",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/softbank-gets-upsized-us11-9-billion-loan-openai-funding-push",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 7,
-      "why": "Sweden's political landscape and policies could significantly shift.",
-      "context": "Swedes are voting in an election that could bring the far-right into power.",
-      "next": "The far-right Sweden Democrats may gain government influence.",
-      "bigger": "Populist parties are increasingly gaining traction in Europe.",
-      "publishedAt": "2026-09-13T08:06:26+08:00",
+      "score": 9,
+      "why": "Investment in AI development and innovation will likely accelerate.",
+      "context": "SoftBank secured a large $11.9 billion loan facility. This funding push aims to support its OpenAI investments.",
+      "next": "OpenAI and SoftBank may expand their AI development projects further.",
+      "bigger": "Major investments continue to fuel rapid advancement in artificial intelligence.",
+      "publishedAt": "2026-09-14T02:54:08+00:00",
       "topicFingerprint": [
-        "swedes",
-        "usher",
-        "bring",
-        "bloc",
-        "election"
+        "loan",
+        "funding",
+        "billion",
+        "gets",
+        "softbank"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Middle East diplomacy stalls as war spreads, Hormuz talks postponed",
+      "description": "Middle East diplomacy appeared to falter heading into Monday with the postponement of a meeting between Iran and other Gulf powers, while attacks around the region\u2019s two most important oil transit routes deepened concern over global energy supplies. Oil prices jumped more than 3 per cent on Monday, ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3367372/iran-set-unveil-temporary-hormuz-agreement-gulf-nations-monday",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Your fuel and shipping costs may rise soon.",
+      "context": "Middle East diplomacy stalled and key talks were postponed. This occurred as regional conflict spread and oil routes faced attacks.",
+      "next": "Tensions in the Middle East region are expected to remain high.",
+      "bigger": "Geopolitical conflicts often destabilize global energy markets and trade.",
+      "publishedAt": "2026-09-13T18:57:50+00:00",
+      "topicFingerprint": [
+        "iran",
+        "ukraine",
+        "saudi",
+        "strait",
+        "strikes",
+        "russian"
       ],
       "alternates": [
         {
-          "title": "Swedes vote in close general election that could usher far right into government",
-          "description": "Swedes are heading to the polls Sunday for a general election that will either bring a far right party into government for the first time or shift the country back towards the liberalism it has long been known for. The center-left opposition holds a narrow lead over the ruling right-wing bloc but Pr",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260913-swedes-vote-in-close-general-election-that-could-usher-far-right-into-government",
-          "category": "Policy",
-          "publishedAt": "2026-09-13T06:16:49+00:00",
-          "score": 5,
+          "title": "Meeting between Iran and Gulf states on Hormuz postponed; Oman cites need for consensus",
+          "description": "Saudi Arabia\u2019s critical pipeline for Middle East oil bypassing the strait remains shut",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/meeting-between-iran-and-gulf-states-hormuz-postponed-oman-cites-need-consensus",
+          "category": "General",
+          "publishedAt": "2026-09-13T21:57:17+00:00",
+          "score": 9,
           "readingTime": 2,
           "topicFingerprint": [
-            "swedes",
-            "usher",
-            "bring",
-            "bloc",
-            "election"
+            "iran",
+            "ukraine",
+            "saudi",
+            "strait",
+            "strikes",
+            "russian"
           ],
-          "group_id": 0
+          "group_id": 3
         }
       ]
     },
     {
-      "title": "As US leadership proves unreliable, Asia needs to start focusing on itself",
-      "description": "The Group of 20 (G20) was launched in 1999 amid high hopes that Asia and other emerging regions of the world would gain a stronger voice in global economic and financial affairs. Things have not worked out that way. Instead, a world order led by the United States stumbled into the 2008 global financ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/opinion/asia-opinion/article/3367041/us-leadership-proves-unreliable-asia-needs-start-focusing-itself",
+      "title": "Russia's Putin proposes new insurance system and grain market for Brics nations",
+      "description": "The Russian president said Brics should strengthen independent routes for capital, labour and technology while promoting a balanced global governance system.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/russias-putin-proposes-new-insurance-system-and-grain-market-for-brics-nations-101789349129805.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Global power dynamics are shifting, changing international relations.",
-      "context": "Asian nations are urged to self-organize as US leadership seems unreliable.",
-      "next": "Asian countries may seek greater regional cooperation and autonomy.",
-      "bigger": "Multipolarity challenges traditional global leadership structures.",
-      "publishedAt": "2026-09-12T21:30:06+00:00",
+      "score": 13,
+      "why": "Global financial and trade systems may become more fragmented.",
+      "context": "Russia's Putin proposed new BRICS insurance and grain systems. He advocates independent routes for capital, labor, and technology.",
+      "next": "BRICS nations will likely discuss implementing these proposed initiatives.",
+      "bigger": "Emerging economic blocs are seeking to establish alternative global structures.",
+      "publishedAt": "2026-09-14T07:23:02+05:30",
       "topicFingerprint": [
-        "start",
-        "focusing",
-        "asia",
-        "proves",
-        "leadership"
+        "independent",
+        "putin",
+        "insurance",
+        "russian",
+        "brics"
       ],
       "alternates": []
     },
     {
-      "title": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
-      "description": "\u201cIndia and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations. He stressed the need to further expand cooperation between the two countries in education, trade, culture, science, technology, connectivity and energy,\u201d Mr. Abbas told The Hindu",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/up-top-shia-leader-pushes-for-stronger-india-iran-ties-in-meeting-with-president-pezeshkian/article71460722.ece",
-      "category": "Geopolitics",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 13,
-      "why": "Bilateral trade and cultural exchanges between India and Iran may increase.",
-      "context": "A Shia leader advocates for stronger India-Iran relations with President Pezeshkian.",
-      "next": "Diplomatic engagement between India and Iran could strengthen.",
-      "bigger": "Nations seek strategic alliances to enhance regional influence.",
-      "publishedAt": "2026-09-13T09:47:11+05:30",
+      "score": 7,
+      "why": "LGBTQ+ individuals in Turkey may face increased safety risks.",
+      "context": "Turkish police detained dozens in raids on gay bars. Human rights groups accuse the government of targeting LGBTQ+ activists.",
+      "next": "International human rights groups may condemn these actions.",
+      "bigger": "Governments sometimes use \"family values\" to restrict minority rights.",
+      "publishedAt": "2026-09-13T14:25:56+00:00",
       "topicFingerprint": [
-        "top",
-        "shia",
-        "iran",
-        "meeting",
-        "pushes"
+        "lgbtq",
+        "dozens",
+        "police",
+        "groups",
+        "turkish"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Your car is selling your data",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this ye",
+      "source": "Tech | The Verge",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Your personal data privacy in vehicles may be compromised.",
+      "context": "Modern cars are increasingly collecting and selling user data. This raises new concerns about personal data privacy.",
+      "next": "Consumers will demand more control over their vehicle data.",
+      "bigger": "Data privacy and ownership are growing concerns in connected technologies.",
+      "publishedAt": "2026-09-13T12:00:00+00:00",
+      "topicFingerprint": [
+        "car",
+        "data",
+        "selling"
       ],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, Saudi Arabia has shut down an oil pipeline following drone attacks and Houthi advances in the Red Sea. This means global oil supplies and vital shipping routes now face new disruptions, impacting energy security worldwide.\n\nMeanwhile, economic news shows consumer prices are once again rising faster than wages, which is squeezing Americans' paychecks. Your money simply isn't buying as much as it used to, as prices increase faster than your pay.\n\nSwitching to technology, China is now using artificial intelligence to design its next generation of semiconductors for self-sufficiency. This move is set to intensify global competition in advanced chip technology.\n\nNext, on trade and politics, Donald Trump is reportedly open to allowing Chinese car manufacturers to build vehicles within the United States. This could significantly affect US auto jobs and market competition.\n\nTurning our attention to the climate, scientists are studying corals to determine if El Nino events are intensifying. Understanding these climate patterns helps us predict future weather disruptions.\n\nIn Eastern Europe, Ukraine is bracing for a very harsh winter due to Russian attacks on infrastructure and exports. Ukrainian citizens face disrupted services and economic hardship as a result.\n\nAcross the Middle East, Israel has bombed southern Lebanon after peace talks were postponed. This unfortunately marks new setbacks for regional stability and de-escalation efforts.\n\nOn the evolving world of AI, the Google DeepMind founder is backing Anthropic CEO Dario Amodei's alarm over AI risks. This is a significant sign that top AI developers agree on the urgent need for safety measures.\n\nLooking at digital security, Revolut has confirmed a customer data breach through fraudulent government requests. This means your personal information and financial accounts are at risk from sophisticated cyber fraud.\n\nIn Europe, Sweden is holding an election that could see the far-right enter government. This outcome would likely bring significant shifts to Sweden's political landscape and policies.\n\nAcross Asia, nations are being encouraged to organize more autonomously as US leadership appears increasingly unreliable. This reflects shifting global power dynamics and changes international relations.\n\nAnd finally, a prominent Shia leader in Uttar Pradesh is pushing for stronger India-Iran ties in a meeting with President Pezeshkian. This initiative may increase bilateral trade and cultural exchanges.\n\nFor a reflective thought to end on today: Your phone camera captures life in a fascinating way. Every digital photo you've ever taken actually started in pure black and white. Silicon camera sensors are completely colorblind; they only count light particles. To simulate reality, software then mathematically calculates the missing colors from behind red, green, and blue filters. So, every vibrant image on your screen isn't what your eye saw, but an algorithm's clever reconstruction\u2014an educated guess of what it thinks was there.\n\nThat's your Sift Daily Briefing for today.",
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, the US hosted G20 energy talks in Texas, promoting \"energy abundance.\" This comes as the Iran conflict significantly disrupts global fuel markets. You may soon see your fuel and transport costs begin to rise.\n\nMeanwhile, America faces increased debt costs after years of borrowing. Surging energy prices, partly due to the Iran conflict, add further pressure. This could soon lead to higher borrowing costs and loan payments for you.\n\nSwitching to technology, leading AI executives, including Elon Musk, have urged a slower pace for AI development. They warn against potential existential risks and advocate for public safety. The AI tools you use might soon face new restrictions.\n\nNext, more US lawmakers are now considering raising taxes to address the Social Security fund's looming insolvency. This marks a shift, even among some Republicans. US taxpayers might soon face higher income taxes.\n\nMoving to climate, Africa is experiencing severe crop failures from erratic rains, leaving millions facing hunger. Their reliance on unpredictable rainfall makes food security less reliable. Affected regions will continue to struggle with food stability.\n\nOn the global stage, BRICS leaders just concluded their 18th summit in India. They discussed critical issues like trade, investment, and global geopolitical challenges. These discussions could lead to shifts in global trade and investment patterns.\n\nFollowing up on AI, China\u2019s intelligence chief has warned about rising national security risks from artificial intelligence. He's calling for strong prevention and better global governance. Global access to advanced AI technology might soon face new restrictions.\n\nIn related news, SoftBank has secured a substantial loan of nearly twelve billion dollars. This funding push specifically aims to support its OpenAI investments. We can expect this to accelerate AI development and innovation further.\n\nTurning back to the Middle East, diplomacy has stalled, and key talks were postponed amidst spreading regional conflict. Attacks on oil routes add to instability. This means your fuel and shipping costs may well rise again soon.\n\nMeanwhile, Russia's Putin has proposed new insurance and grain systems for BRICS nations. He advocates independent routes for capital, labor, and technology. Such moves could make global financial and trade systems more fragmented.\n\nIn Turkey, police have detained dozens in raids on gay bars and homes of LGBTQ+ activists. Human rights groups accuse the government of targeting these individuals. LGBTQ+ individuals in Turkey may face increased safety risks.\n\nAnd finally, a note on your privacy: modern cars are increasingly collecting and selling your user data. This raises new concerns about personal data privacy for drivers. Your personal data in vehicles may soon be compromised.\n\nNow for a moment of insight to end your day. You'd think crucial road signs would scream directions in all capital letters for maximum impact. Yet, most street name signs use standard mixed-case, like \"Main Street.\" That\u2019s intentional. All-caps words form uniform blocks, blurring distinct shapes. Mixed-case letters, with varied heights, create a unique \"word picture\" for your brain to grab onto instantly. This lightning-fast recognition is vital when you\u2019re driving at speed, needing precious seconds to process information. The shape of the word is simply more readable than its individual letters. A nice thought to take with you.\n\nThat's your Sift Daily Briefing for today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 161
+    "estimatedDurationSeconds": 195
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we unpack the day's events to truly understand what's happening beneath the headlines.\n\nFirst up today, we're looking at developments in the Middle East, where Saudi Arabia has taken significant action regarding its oil infrastructure. Saudi Arabia recently shut down its East-West pipeline, a critical artery for oil exports, following a series of drone attacks. This move comes as Houthi rebels in Yemen have further tightened their grip on Red Sea shipping lanes, including capturing a strategic island. The Houthi strategy, which is often seen as backed by Iran, involves disrupting vital global trade routes and targeting Saudi energy assets. The East-West pipeline offers an alternative route to ship oil if the Red Sea is too dangerous, but the drone attacks on the pipeline itself signal a broader campaign to impact Saudi oil infrastructure directly, regardless of the route. By capturing strategic islands in the Red Sea, the Houthis increase their control over the narrow Bab al-Mandab strait, a crucial choke point for oil tankers and cargo ships moving between Europe and Asia. This means global oil supplies and shipping face new, direct disruption. As a consequence, we can expect increased volatility in oil markets as traders factor in these new risks to supply lines. This ongoing regional conflict highlights the significant vulnerability of global energy security and supply chains to localized geopolitical tensions.\n\nMeanwhile, many Americans are feeling the pinch as the latest economic data reveals inflation is once again outpacing wage growth. In August, consumer prices climbed by 3.4% over the past year. However, average wages only increased by 3.1% in the same period. This discrepancy means that while paychecks may be slightly larger in absolute terms, the money earned actually buys less than it did before, effectively reducing purchasing power. The mechanism here is straightforward: when the cost of living\u2014from groceries to rent to transportation\u2014rises faster than the income people bring home, their real standard of living declines. Households will inevitably face tighter budgets, forcing them to make difficult choices, potentially cutting back on discretionary spending or reducing their savings. This sustained imbalance, where inflation outpaces wage gains, consistently erodes people's living standards and can dampen overall consumer confidence in the economy.\n\nSwitching to global technology, Beijing is making aggressive moves in the semiconductor industry by pushing the use of AI-assisted chip design. This is part of China's broader drive for technological self-sufficiency. Artificial intelligence agents are increasingly taking the lead in designing the country's next-generation semiconductors. Firms like Empyrean Technology, China\u2019s top maker of chip design software, are at the forefront of integrating AI into these complex design processes. The rationale behind this strategy is to reduce China's reliance on foreign, particularly Western, chip design tools and expertise, which are often subject to export controls and geopolitical leverage. By leveraging AI to automate and optimize the incredibly intricate process of chip development, China aims to accelerate its domestic production of advanced chips, potentially allowing them to circumvent existing international restrictions. This initiative signals a new intensity in global competition for advanced chip technology, with AI rapidly transforming what was once a highly specialized, human-intensive industrial design process.\n\nIn US politics, a significant shift in trade policy could be on the horizon. Donald Trump has indicated he is open to Chinese car manufacturers building vehicles within the United States. This discussion comes ahead of a looming visit from Chinese President Xi Jinping. Currently, Chinese-made vehicles are largely shut out of the American market due to steep tariffs and a Commerce Department ban, which significantly drives up their cost and makes them uncompetitive. The proposed change would allow Chinese auto companies to bypass these import restrictions by establishing factories and manufacturing cars directly on US soil. This move could create some American manufacturing jobs, a key political talking point, but it would also introduce a new, potentially lower-cost competitor directly into the domestic auto market, impacting existing US automakers and their workforce. This scenario reflects how geopolitical rivals, facing trade barriers, explore alternative strategies to gain market access. A shift like this would redefine US trade policy towards Chinese auto imports, with real consequences for American consumers and the industry.\n\nNext, scientists are looking to the past to understand future climate trends by studying corals as a climate archive to determine if El Nino events are intensifying. Records from the past few decades show El Nino events have been frequent and often extreme, leading researchers to question if this is a normal pattern or a result of climate change. Corals are particularly useful because their growth rings and chemical composition preserve a detailed record of ocean conditions, including water temperature and salinity, over hundreds or even thousands of years. As corals grow, they incorporate elements and isotopes into their calcium carbonate skeletons that reflect the surrounding ocean environment at the time. By analyzing these subtle chemical variations in annual growth bands, scientists can reconstruct historical sea surface temperatures and rainfall, giving us a clear indication of the frequency and intensity of past El Nino events. This research could confirm a direct link between climate change and the strength or frequency of El Nino, helping improve long-range weather predictions. Such natural archives offer crucial insights into past climate change patterns, which are vital for understanding and preparing for future weather disruptions.\n\nMoving to Eastern Europe, Ukraine is bracing for what is expected to be another brutal winter. This comes amidst intensified Russian attacks on the country's critical infrastructure and key export industries, which are compounding a deepening budget crisis. Ukrainian officials have highlighted concerns about the ability to provide basic services. Russia's strategic aim is to cripple Ukraine's capacity to sustain itself, both economically and in terms of its citizens' daily lives. By systematically targeting power plants, substations, and energy grids, Russia intends to disrupt heating and electricity supplies, making the cold winter months far more dangerous and difficult for the civilian population. These attacks, coupled with the disruption of key export sectors like grain, significantly weaken Ukraine's economy by reducing its ability to earn revenue and fund essential services. Ukraine's energy infrastructure, which suffered extensive damage last winter, faces the prospect of even further degradation, potentially leading to widespread outages and severe humanitarian challenges. This ongoing situation starkly illustrates how war devastates civilian infrastructure and national economies, inflicting immense human suffering beyond the battlefields.\n\nIn the Middle East, tensions remain high as Israel carried out bombings in southern Lebanon. This action came after a round of US-mediated talks between Israel and Lebanon was postponed. The postponement itself signals a breakdown in diplomatic efforts to de-escalate tensions and formalize a long-disputed maritime border. Without ongoing negotiations providing a diplomatic off-ramp, the likelihood of military action to resolve underlying issues increases. Israel's subsequent bombing indicates a direct military response to perceived threats or a pre-emptive strike in the absence of continued dialogue. This development significantly sets back regional stability and any efforts towards de-escalation. As a direct consequence, tensions along the Israel-Lebanon border are likely to escalate further, increasing the risk of a wider conflict, especially with the prominent presence of groups like Hezbollah in southern Lebanon. It\u2019s a stark reminder that diplomatic efforts often struggle to gain traction and unravel quickly amidst active conflict, leaving military options as a default.\n\nTurning to the world of artificial intelligence, a significant voice has joined the chorus of concern regarding AI risks. Demis Hassabis, co-founder of Google DeepMind, has publicly backed Dario Amodei, the CEO of Anthropic, over his warnings about the potential dangers of advanced AI. Hassabis emphasized that while the details might need refining, the \"direction is correct\" for addressing this crucial moment. This alignment among top AI developers, from two of the most prominent AI research labs globally, signals a growing consensus within the industry itself about the urgent need for robust safety measures and ethical guidelines. Both DeepMind and Anthropic are at the forefront of developing powerful AI systems, so their leaders are acutely aware of both the technology's immense potential and its inherent risks, such as misuse or unintended consequences. This shared alarm could generate significant momentum within the industry, potentially leading to stronger, unified safety protocols and influencing future regulatory frameworks for AI. As AI development progresses at a rapid pace, it faces increasing scrutiny over its future impact, underscoring the importance of collective responsibility among its creators.\n\nNext, we look at a concerning development in digital security. Revolut, the popular digital banking platform, has confirmed a customer data breach. This breach occurred not through a direct hack of their systems, but via fraudulent \"government requests.\" This indicates a sophisticated form of social engineering, where criminals impersonated legitimate authorities to trick Revolut employees into divulging sensitive customer data. The company stated it notified affected customers and alerted relevant government agencies, law enforcement, and financial regulators. This type of breach is particularly alarming because it exploits trust in official channels, putting personal financial information at direct risk. Once criminals obtain personal details such as names, addresses, or account specifics, they can use this information for highly targeted phishing attempts or even identity theft. As a result, affected customers may face an increased risk of these fraudulent activities and will need to be extra vigilant. This incident highlights the ongoing battle financial institutions face against increasingly sophisticated cyber fraud, emphasizing the continuous challenge of protecting digital assets and personal data.\n\nIn European politics, Swedes are heading to the polls in an election that could usher the far-right into government for the first time. The incumbent Prime Minister, Ulf Kristersson, has made a pledge to bring the far-right Sweden Democrats into his governing coalition if his center-right bloc secures a victory. The Sweden Democrats, a party with roots in nationalist and anti-immigration movements, have steadily gained public support over the past years, driven by concerns over immigration, law and order, and national identity. In Sweden's multi-party parliamentary system, governments are typically formed by coalitions. If Kristersson's bloc wins enough seats, they will likely need the Sweden Democrats' support to form a stable majority, giving the party significant leverage. This means Sweden's political landscape and its policies on critical issues like immigration and EU relations could significantly shift. Should they gain influence, it would mark a notable political realignment, further illustrating the broader trend of populist parties gaining increasing traction and power across Europe.\n\nTurning our attention to global power dynamics, there's a growing sentiment that Asia needs to start focusing on itself, as US leadership is proving unreliable. The Group of 20, or G20, was initially launched in 1999 with high hopes that emerging regions, including Asia, would gain a stronger voice in global economic and financial affairs. However, the perception is that things haven't quite worked out that way, with a world order traditionally led by the United States stumbling through crises like the 2008 global financial meltdown. The argument is that the US, as a primary global leader, has shown inconsistent engagement and policy shifts, encouraging regions like Asia to develop their own robust mechanisms for economic and political cooperation rather than relying solely on external powers. This perceived unreliability encourages Asian nations to strengthen regional alliances, trade agreements, and diplomatic frameworks to gain greater autonomy and shape their own destiny on the world stage. This reflects a broader global shift towards multipolarity, where power is becoming more distributed among several major centers, challenging traditional global leadership structures that have been in place for decades.\n\nAnd finally, on the diplomatic front, a top Shia leader from Uttar Pradesh, India, has been pushing for stronger India-Iran ties during a meeting with Iranian President Pezeshkian. Mr. Abbas told The Hindu that \"India and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations,\" and stressed the need to expand cooperation in areas like education, trade, culture, science, technology, connectivity, and energy. India, a rapidly growing economy and major energy importer with a significant Shia Muslim population, has historical and strategic reasons to maintain good relations with Iran, an energy-rich nation in a strategically important region. Calls from influential figures like this Shia leader reflect a desire to leverage these shared cultural and historical bonds to deepen cooperation, particularly in areas like energy supply, potentially navigating around Western sanctions where feasible, and to further develop critical connectivity projects, such as the Chabahar Port, which offers India access to Afghanistan and Central Asia, bypassing Pakistan. Diplomatic engagement between India and Iran could certainly strengthen, leading to new bilateral agreements and increased cultural exchange. This demonstrates how nations seek strategic alliances to enhance their regional influence, diversify economic partnerships, and secure vital resources.\n\nToday's reflective insight asks us to think about how we perceive the world through the lens of technology. Every digital photo you've ever taken, whether it's a vibrant sunset or a detailed portrait, started its life as pure black and white. This might sound counterintuitive, but it's fundamentally how silicon camera sensors work. These tiny components are completely colorblind; they can only detect and count the number of light particles, or photons, that hit each individual pixel.\n\nTo transform this colorless information into a recognizable image, camera manufacturers use a clever trick. A mosaic of tiny red, green, and blue filters, known as a Bayer filter array, is placed directly over the sensor. Each pixel underneath one of these filters then records only the brightness of the light in *that specific color*. The sensor doesn't see the full spectrum of color for every pixel. Instead, software then steps in, reading the brightness behind each individual red, green, and blue filter, and mathematically calculates the missing colors in between for all the surrounding pixels.\n\nWhat this means is that no digital camera truly captures what your eye actually witnessed directly. Every single sunset, portrait, and landscape you see on your screen is not a perfect replication; it is an algorithm\u2019s intricate reconstruction of what it thinks was there, based on limited data. Your camera never literally \"captures\" color in the way your eyes do; it calculates an educated guess, blending data points to create the illusion of full color. It\u2019s a powerful reminder that even in our most direct technological observations, there\u2019s an element of interpretation, of mathematical guesswork. It leaves us to ponder: how much of what we experience through our screens, through our technology, is a true reflection of reality, and how much is a remarkably convincing, but ultimately constructed, approximation?\n\nAnd with that thought, we bring today's Sift In-Depth Briefing to a close. Take a moment to reflect, carry these insights with you, and enjoy the rest of your day.",
+    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly understand the stories shaping our world, moving beyond the quick headlines to the deeper analysis.\n\nFirst up today, the United States recently hosted G20 energy talks in Houston, Texas, promoting what it calls \"energy abundance.\" This comes at a critical moment, as President Donald Trump's actions regarding Iran are significantly disrupting global fuel markets. The meeting brought together high-level delegations from major economies like China, India, Japan, and Germany, alongside key oil producers such as Canada and Saudi Arabia. The core issue here is that tensions with Iran, particularly concerning its oil exports and regional influence, create significant uncertainty in the global oil supply. Any disruption in a major oil-producing region like the Middle East or threats to key shipping lanes can cause supply anxieties, leading traders to bid up prices. The G20 discussions are aimed at exploring strategies to ensure a stable and ample supply of energy worldwide, seeking to counteract these geopolitical pressures. Ultimately, the outcome of these talks, and the ongoing situation with Iran, could directly influence your fuel costs and the expenses associated with transporting goods in the near future. Maintaining global energy security remains a persistent and complex challenge for these major economies, always susceptible to geopolitical shifts.\n\nMeanwhile, Americans are facing the financial consequences of a multi-decade borrowing binge, with the bill now starting to come due. This long-term fiscal imbalance is colliding with a sharp increase in energy prices, intensified by the ongoing situation with Iran. The underlying mechanism is straightforward: when the government consistently borrows large sums, it increases the overall demand for credit, which pushes up long-term interest rates. Simultaneously, the jump in energy prices translates into higher costs for businesses and consumers, fueling broader inflation. To combat this inflation, central banks often raise their benchmark interest rates further, making all forms of borrowing \u2014 from mortgages to car loans \u2014 more expensive. This creates a \"toxic mix\" as the source snippet describes it, of immediate inflationary pressures compounded by years of accumulated national debt. For you, this means your borrowing costs and loan payments could soon climb, as the cost of servicing both national and personal debt rises. Looking ahead, the US government will likely need to explore various measures to curb the national debt and stabilize the economy, as sustained high debt can lead to chronic economic instability and higher costs for everyone.\n\nSwitching to the world of artificial intelligence, several leading AI executives, including Anthropic CEO Dario Amodei, OpenAI's Sam Altman, and the often outspoken Elon Musk, have collectively urged a slowdown in reckless AI development. Their primary concern is preventing what they describe as \"existential threats\" and ensuring public safety. The mechanism at play is the incredibly rapid pace of AI advancement; as AI models become more powerful and autonomous, concerns grow about unintended consequences, such as their potential misuse in weapons, their capacity for societal manipulation, or even a loss of human control over increasingly intelligent systems. These industry leaders are not merely raising an abstract alarm; they are calling for a more cautious, deliberate approach to research and deployment. This push for a slowdown suggests that the AI tools you interact with, or those in development, may soon face new restrictions, as regulators and developers will likely engage in crucial discussions to establish new safety guidelines and ethical frameworks. Balancing the immense potential of AI innovation with profound safety and ethical concerns is rapidly becoming one of the most significant global debates of our time.\n\nNext, a significant shift is occurring in US politics regarding Social Security. What was once known as the \"third rail\" \u2014 a politically untouchable issue for fear of voter backlash \u2014 is now being openly discussed. More US lawmakers, including even some Republicans, are expressing openness to raising taxes to address the looming insolvency of the Social Security fund. The problem stems from demographics: as the population ages and birth rates decline, there are fewer active workers contributing to the system for each retiree drawing benefits. Without adjustments, the fund is projected to be unable to pay full benefits in the coming years. The source snippet directly quotes a lawmaker saying, \"I\u2019m willing to look at the tax rate. I am willing to raise the amount of income through tax,\" which illustrates this unprecedented willingness to consider options previously off-limits. This shift means that US taxpayers may indeed face higher income taxes soon, as lawmakers are forced to seriously debate specific proposals to secure the fund's long-term future. This challenge isn't unique to the US; aging populations worldwide are increasingly straining national pension and social security systems.\n\nLooking at global food security, investment in robust irrigation systems is proving vital for preparing vulnerable regions for the next climate shock. In Africa, for instance, approximately ninety-five percent of its arable land heavily depends on rainfall, making it incredibly vulnerable to erratic weather patterns. When the African continent experiences these unpredictable rains, whether too much or too little, crops often fail, leaving millions of people facing acute hunger. This risk is particularly stark with phenomena like the El Ni\u00f1o-induced droughts, which are currently expected to hit parts of the continent. The mechanism is clear: climate change intensifies the variability of rainfall, making traditional rain-fed agriculture highly unreliable. By investing in irrigation, communities can decouple their crop yields from the whims of the weather, providing a controlled and consistent water supply. This strategic investment is now becoming a critical priority to bolster food security in affected regions, which are otherwise highly susceptible to climate-induced disruptions.\n\nAnd in international relations, BRICS leaders recently convened in New Delhi, India, for their eighteenth summit. Amidst ongoing global conflicts and heightened geopolitical tensions, the bloc \u2013 comprising Brazil, Russia, India, China, and South Africa \u2013 met to discuss trade, investment, and the broader challenges facing the international system. The reason for their gathering is to strengthen their collective influence and explore alternatives to Western-dominated global institutions, especially given current geopolitical rifts. These discussions aim to deepen economic cooperation among member nations and potentially expand the bloc's reach, signaling a desire to reshape global trade and investment patterns. Such meetings highlight the ongoing geopolitical shifts that are redefining international alliances and the emergence of new economic blocs.\n\nSwitching focus back to AI and national security, China's top intelligence official, Chen Yixin, who serves as the country's state security minister, has issued a stark warning about the rising national security risks posed by artificial intelligence. He specifically called for robust risk prevention frameworks and stronger global governance over this emerging technology. From China's perspective, AI is not just an economic opportunity but a new \"arena for strategic rivalry.\" The concern is that AI could be weaponized in various ways, from sophisticated cyber warfare and surveillance to autonomous military systems, potentially creating new vulnerabilities for national security. This call from such a high-ranking intelligence official underscores that major powers view AI as a critical domain for geopolitical competition, driving increased efforts by countries to control its development and deployment.\n\nMeanwhile, the Japanese conglomerate SoftBank recently secured a substantial 11.9 billion US dollar loan facility. This massive funding push is specifically aimed at supporting its investments in OpenAI, the developer behind ChatGPT. The source snippet reveals that this two-year facility attracted commitments from around twenty banks, indicating significant market confidence in SoftBank's strategy and the future of artificial intelligence. This influx of capital provides OpenAI with considerable resources to accelerate its research, development, and expansion projects. The underlying mechanism is that large-scale financial backing fuels rapid innovation by allowing companies to invest heavily in talent, computing power, and new technologies. This substantial investment further cements the trend that major capital continues to pour into the AI sector, driving its rapid advancement and transforming various industries.\n\nTurning back to the Middle East, diplomacy in the region has stalled, with key talks being postponed as regional conflicts continue to spread and critical oil transit routes face renewed attacks. A scheduled meeting between Iran and other Gulf powers, for instance, was put off. This comes as attacks around the region\u2019s two most important oil transit routes \u2013 likely referring to areas like the Strait of Hormuz, a vital chokepoint for global oil supply \u2013 deepen concerns over global energy supplies. The immediate consequence was that oil prices jumped more than three percent on Monday alone, reflecting market anxiety. The mechanism is clear: any threat or actual disruption to these crucial shipping lanes directly impacts the flow of oil, creating supply shocks that quickly translate into higher prices. The postponement of diplomatic engagement, particularly between Iran and its neighbors, removes a key channel for de-escalation, suggesting that tensions in the Middle East region are expected to remain high. This situation starkly illustrates how geopolitical conflicts in critical energy-producing areas can quickly destabilize global energy markets and impact trade worldwide.\n\nAnd on the economic front, Russia's President Putin has proposed new insurance and grain market systems specifically for BRICS nations. This initiative is part of a broader strategy to strengthen what he calls \"independent routes\" for capital, labor, and technology, with the aim of promoting a more \"balanced global governance system.\" The underlying mechanism here is a desire by Russia, especially in the face of Western sanctions, to establish alternative economic structures that reduce reliance on existing Western-dominated financial and trade frameworks. For example, a BRICS-specific insurance system would offer member countries financial security without needing to engage with Western insurers, while a dedicated grain market would give them more control over food supply chains, bypassing traditional commodity exchanges often influenced by Western powers. These proposals indicate an active effort by emerging economic blocs to establish alternative global structures, potentially leading to more fragmented international financial and trade systems if implemented.\n\nMoving to human rights, Turkish police recently detained dozens of individuals in raids targeting gay bars and the homes of LGBTQ+ activists. Human rights groups in Turkey have accused the government of using a \"family-values campaign\" as a pretext to target and persecute the LGBTQ+ community. The mechanism often seen in such situations is that conservative governments, under the banner of promoting traditional family values, launch campaigns that stigmatize and then actively restrict the rights of minority groups deemed to deviate from those norms. The police raids are not random acts but rather a targeted enforcement strategy, designed to intimidate and suppress the LGBTQ+ community, creating an environment of fear. This action means that LGBTQ+ individuals in Turkey may face increased safety risks and a more hostile environment. These developments will likely prompt condemnation from international human rights organizations, highlighting the global concern when governments use social rhetoric to restrict fundamental rights.\n\nFinally, a growing concern for your personal data: your car is increasingly selling your information. Modern vehicles are equipped with a host of connected technologies, from built-in navigation and telematics to infotainment systems and even sophisticated sensors for autonomous features. These systems collect a vast amount of data \u2013 everything from your location and driving habits to how you use the vehicle's features and even, in some cases, voice commands. The underlying mechanism is that car manufacturers, and the third-party tech providers they partner with, are monetizing this data by selling it to various entities, which could include advertisers, insurance companies, or even urban planners. This raises significant privacy concerns because often, this data collection and sharing happens without clear, explicit consent from the owner, or without consumers fully understanding the extent of what's being collected. As cars become more integrated into our digital lives, your personal data privacy in vehicles may be compromised, and there's a growing push for consumers to demand more control and transparency over their vehicle data. This situation is part of a larger, evolving debate about data privacy and ownership in an increasingly connected technological landscape.\n\nAnd that brings us to our daily insight. It might seem counterintuitive, but street signs don't shout in all capital letters for a very good reason. You'd think that crucial road signs, designed to deliver information quickly, would use all caps for maximum impact, like \"MAIN STREET.\" Yet, almost every street name sign you encounter uses standard mixed-case lettering, like \"Main Street.\" This is entirely intentional, and it reveals something fascinating about how our brains process information.\n\nWhen words are written entirely in capital letters, they tend to form uniform rectangular blocks. This uniformity makes it harder for your brain to distinguish between different words at a glance. Think of it like a series of identical bricks. But mixed-case letters, with their varied heights \u2013 some letters have \"ascenders\" that go up, like the top of a 'h' or 't', and others have \"descenders\" that go down, like the tail of a 'p' or 'g' \u2013 create unique and distinctive \"word pictures.\"\n\nThese distinct shapes allow your brain to recognize the entire word instantly, almost like seeing a familiar logo. This lightning-fast recognition isn't just a nicety; it's absolutely vital when you're driving at sixty miles per hour and have only precious seconds to process critical information. The shape of the word, it turns out, is more readable, more instantly recognizable, than having to process each individual letter. It's a subtle but powerful example of design prioritizing human cognition and safety, reminding us that sometimes, less \"shouting\" actually leads to clearer, faster understanding.\n\nAs you go about your day, perhaps noticing those mixed-case street signs, take a moment to appreciate the intentional design in the world around you, often crafted for our calm efficiency, even in motion. Thank you for joining us for your Sift In-Depth Briefing.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 823
+    "estimatedDurationSeconds": 788
   },
   "candidatePool": [
     {
-      "title": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
-      "description": "The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks",
-      "category": "Geopolitics",
+      "title": "Two top execs at scandal-hit nuclear plant operator resign",
+      "description": "Japan is moving to revive nuclear power 15 years after an enormous earthquake and tsunami sent reactors at the Fukushima atomic plant into meltdown in 2011.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/two-top-execs-at-scandal-hit-nuclear-plant-operator-resign-101789367284732.html",
+      "category": "Environment",
       "readingTime": 2,
-      "score": 10,
-      "why": "Global oil transit and shipping costs may rise.",
-      "context": "Saudi Arabia shut a key oil pipeline after Houthi attacks near the Red Sea.",
-      "next": "Red Sea shipping lanes face continued security threats.",
-      "bigger": "Regional conflicts consistently disrupt global supply chains.",
-      "publishedAt": "2026-09-12T08:19:22-04:00",
+      "score": 13,
+      "why": "Public trust in nuclear power operations may face scrutiny.",
+      "context": "Two top executives resigned from a scandal-hit nuclear operator. This occurs as Japan plans to revive nuclear power.",
+      "next": "Japan will likely face debate over nuclear safety and energy policy.",
+      "bigger": "Balancing energy needs with nuclear safety remains a global challenge.",
+      "publishedAt": "2026-09-14T12:03:45+05:30",
       "topicFingerprint": [
-        "saudi",
-        "iran",
-        "oil",
-        "pipeline",
-        "houthis",
-        "houthi"
+        "japan",
+        "tsunami",
+        "scandal",
+        "fukushima",
+        "nuclear"
       ],
       "alternates": [
         {
-          "title": "Yemen government forces hit Houthis in strategic Red Sea city",
-          "description": "The Iran-backed Houthis seized control of the port city of Mokha on Sept 10.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/yemen-government-forces-hit-houthis-in-strategic-red-sea-city",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-12T20:24:22+08:00",
-          "score": 9,
+          "title": "Japan scandal-hit nuclear plant operator head to resign: reports",
+          "description": "Japan is moving to revive nuclear power 15 years after an enormous earthquake and tsunami sent reactors at the Fukushima atomic plant into meltdown in 2011",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/japan-scandal-hit-nuclear-plant-operator-head-to-resign-reports/article71465441.ece",
+          "category": "Environment",
+          "publishedAt": "2026-09-14T10:58:39+05:30",
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
+            "japan",
+            "tsunami",
+            "scandal",
+            "fukushima",
+            "nuclear"
           ],
-          "group_id": 2
-        },
-        {
-          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-          "description": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies",
-          "category": "General",
-          "publishedAt": "2026-09-12T12:52:06-04:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "saudi",
-            "iran",
-            "oil",
-            "pipeline",
-            "houthis",
-            "houthi"
-          ],
-          "group_id": 2
+          "group_id": 0
         }
       ]
     },
     {
-      "title": "\u2018The biggest risk is low liquidity\u2019: South Korea tests global demand for after-hours stock trading",
-      "description": "Whether it can draw sufficient volume remains a key question",
+      "title": "S-Reits an \u2018oasis of calm\u2019 amid global bond yield surge: UOBKH",
+      "description": "Deteriorating fiscal sustainability in major economies is keeping foreign bond yields structurally higher",
       "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/biggest-risk-low-liquidity-south-korea-tests-global-demand-after-hours-stock-trading",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Access to South Korean markets could expand for international investors.",
-      "context": "South Korea is testing global demand for after-hours stock trading.",
-      "next": "After-hours trading volumes will determine its feasibility.",
-      "bigger": "Financial markets are extending trading hours globally.",
-      "publishedAt": "2026-09-13T05:38:56+00:00",
-      "topicFingerprint": [
-        "low",
-        "biggest",
-        "risk",
-        "trading",
-        "sk_entity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why Spain\u2019s new Sahrawi citizenship law matters to Morocco",
-      "description": "The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid\u2019s ties with Rabat.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Diplomatic tensions between Spain and Morocco may worsen.",
-      "context": "Spain's new Sahrawi citizenship law strains relations with Morocco.",
-      "next": "Morocco may respond with diplomatic or trade measures.",
-      "bigger": "Citizenship laws can have significant international implications.",
-      "publishedAt": "2026-09-13T01:41:10+00:00",
-      "topicFingerprint": [
-        "law",
-        "citizenship",
-        "morocco",
-        "sahrawi",
-        "spain"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Alexander Zverev vs Ben Shelton: US Open men\u2019s singles final \u2013 all to know",
-      "description": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles",
+      "url": "https://www.businesstimes.com.sg/companies-markets/reits-property/s-reits-oasis-calm-amid-global-bond-yield-surge-uobkh",
       "category": "Environment",
       "readingTime": 2,
       "score": 9,
-      "why": "American men's tennis hopes to end a long Grand Slam drought.",
-      "context": "Ben Shelton and Alexander Zverev will play in the US Open final.",
-      "next": "The US Open champion will be crowned soon.",
-      "bigger": "Major sporting events captivate global audiences annually.",
-      "publishedAt": "2026-09-12T23:25:22+00:00",
+      "why": "Investment returns and government borrowing costs may rise.",
+      "context": "S-Reits are considered stable amid surging global bond yields. Major economies' fiscal issues cause these higher yields.",
+      "next": "Investors may shift capital towards more stable, higher-yielding assets.",
+      "bigger": "Global fiscal policies impact investment landscapes and market stability.",
+      "publishedAt": "2026-09-14T01:40:29+00:00",
       "topicFingerprint": [
-        "zverev",
-        "final",
-        "alexander",
-        "open",
-        "ben"
+        "bond",
+        "surge",
+        "oasis",
+        "yield",
+        "uobkh"
       ],
       "alternates": []
     },
     {
-      "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-      "description": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk",
-      "category": "Policy",
+      "title": "\u2018Trump accounts\u2019 promise to mint child millionaires. Experts have their doubts",
+      "description": "President has hyped growth of federal investment accounts to help US children \u2013 for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation\u2019s public schools . But with midterm elections fa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+      "category": "Financial",
       "readingTime": 2,
       "score": 8,
-      "why": "UK political funding for far-right parties is increasing rapidly.",
-      "context": "A second crypto billionaire made a large donation to Reform UK.",
-      "next": "Reform UK will have substantial funds for campaigning.",
-      "bigger": "Wealthy donors exert significant influence over political landscapes.",
-      "publishedAt": "2026-09-12T20:43:57+00:00",
+      "why": "US families may be misled about long-term financial security.",
+      "context": "Donald Trump promoted federal investment accounts for children. Experts expressed doubts about their promised returns.",
+      "next": "Further scrutiny will likely follow these financial claims.",
+      "bigger": "Political rhetoric often influences public financial expectations and policy.",
+      "publishedAt": "2026-09-13T11:00:05+00:00",
       "topicFingerprint": [
-        "49m",
-        "uk_entity",
-        "record",
-        "donates",
-        "crypto"
+        "elections",
+        "donald_trump",
+        "midterm",
+        "us_entity",
+        "federal"
       ],
       "alternates": []
     },
     {
-      "title": "LG responds to TV spying allegations",
-      "description": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed t",
-      "source": "Tech | The Verge",
-      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "category": "Science",
+      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "description": "Ex-Tory chancellor says economy has \u2018fallen off a cliff\u2019 since Brexit but rejoining union could be \u2018quite simple\u2019 The former chancellor George Osborne said Britain\u2019s economy had \u201cfallen off a cliff\u201d since Brexit and that rejoining the European Union\u2019s customs union would be the fastest route to reco",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 8,
+      "why": "UK businesses may face fewer trade barriers.",
+      "context": "Former UK Chancellor George Osborne urged rejoining the EU customs union. He believes this would boost UK trade post-Brexit.",
+      "next": "The UK government will face renewed debate over its EU trade policy.",
+      "bigger": "Post-Brexit economic realities continue to shape UK trade relations.",
+      "publishedAt": "2026-09-13T10:48:04+00:00",
+      "topicFingerprint": [
+        "trade",
+        "customs",
+        "rejoin",
+        "george",
+        "uk_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Swedish centre-left opposition in pole position to take power after tight election",
+      "description": "STOCKHOLM, Sept 14 - Sweden's centre-left opposition on Monday looked set to form the next government as preliminary election results showed it holding a narrow three-seat lead over the right-wing ruling parties with most of the votes counted after Sunday's vote.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/swedish-centre-left-opposition-in-pole-position-to-take-power-after-tight-election",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Swedish domestic policies may shift towards center-left priorities.",
+      "context": "Sweden's centre-left opposition is poised to form the next government. Preliminary election results show a narrow lead.",
+      "next": "The new government will form and set its policy agenda.",
+      "bigger": "Democratic elections regularly lead to shifts in national governance and policy.",
+      "publishedAt": "2026-09-14T15:01:36+08:00",
+      "topicFingerprint": [
+        "election",
+        "left",
+        "sweden",
+        "right",
+        "swedish"
+      ],
+      "alternates": [
+        {
+          "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
+          "description": "Sweden s national election was too close to call early Monday with preliminary results giving the left-wing opposition a narrow three-seat advantage over Prime Minister Ulf Kristersson s right-wing coalition",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161",
+          "category": "Policy",
+          "publishedAt": "2026-09-14T02:10:14-04:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "election",
+            "left",
+            "sweden",
+            "right",
+            "swedish"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Center-left leads tight Swedish election as far right eyes government role",
+          "description": "Sweden's tight general election sees a narrow preliminary lead for the center-left bloc as the country decides if the far-right will enter government.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/52eeaa95-4484-4497-92dc-8fbdca0975be.html",
+          "category": "Policy",
+          "publishedAt": "2026-09-13T07:06:48+00:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "election",
+            "left",
+            "sweden",
+            "right",
+            "swedish"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+          "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo",
+          "category": "General",
+          "publishedAt": "2026-09-14T01:58:59+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "election",
+            "left",
+            "sweden",
+            "right",
+            "swedish"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Mary Chia\u2019s CPF court case faces SGX scrutiny, auditor flags 12 areas of concern: Markets this week",
+      "description": "The Government defended Singapore Airlines' investment in Air India in Parliament this week.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/mary-chias-cpf-court-case-faces-sgx-scrutiny-auditor-flags-12-areas-of-concern-markets-this-week",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Investor confidence in local regulated markets may be affected.",
+      "context": "Mary Chia's CPF court case faces SGX scrutiny. Auditors flagged twelve areas of concern.",
+      "next": "Regulators will likely investigate the flagged concerns further.",
+      "bigger": "Corporate governance and regulatory oversight are crucial for market trust.",
+      "publishedAt": "2026-09-13T16:45:00+08:00",
+      "topicFingerprint": [
+        "week",
+        "cpf",
+        "mary",
+        "sgx",
+        "auditor"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo",
+      "category": "General",
       "readingTime": 2,
       "score": 6,
-      "why": "Your personal data privacy from smart devices is at risk.",
-      "context": "LG is responding to allegations that its smart TVs are spying on users.",
-      "next": "LG may release software updates to address privacy concerns.",
-      "bigger": "Smart devices collect vast amounts of user data, raising privacy issues.",
-      "publishedAt": "2026-09-12T15:19:44+00:00",
+      "why": "Small aircraft safety protocols may be reviewed.",
+      "context": "A US Congressman's plane made an emergency lake landing. He swam to safety after mechanical failure.",
+      "next": "Aviation authorities will investigate the plane's mechanical failure.",
+      "bigger": "Air safety incidents prompt continuous review of aviation regulations.",
+      "publishedAt": "2026-09-13T15:30:43+00:00",
       "topicFingerprint": [
-        "spying",
-        "responds",
-        "allegations"
+        "tom",
+        "tiffany",
+        "rep",
+        "swims",
+        "pilot"
+      ],
+      "alternates": [
+        {
+          "title": "Wisconsin Rep. Tom Tiffany swims to safety after emergency plane landing in lake",
+          "description": "Wisconsin Rep. Tom Tiffany and his pilot swam to safety after their plane lost power and made an emergency landing in Lake Wausau.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/571fc9c3-0c3a-46ef-b033-7844ceacf0c0.html",
+          "category": "General",
+          "publishedAt": "2026-09-13T20:10:40+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "tom",
+            "tiffany",
+            "rep",
+            "swims",
+            "pilot"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Man up, break down: unpacking the Philippines\u2019 male suicide crisis",
+      "description": "Richardson Mojica is no stranger to thoughts of ending it all. The 40-year-old university professor and mental health advocate was diagnosed with generalised anxiety disorder, bipolar disorder and depression in his early 20s. He finds fulfilment in his job, yet suicidal ideation has always lingered.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3367229/man-break-down-unpacking-philippines-male-suicide-crisis",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Male mental health support in the Philippines may improve.",
+      "context": "The Philippines is experiencing a male suicide crisis. Mental health advocates highlight this growing issue.",
+      "next": "Public health initiatives will likely increase mental health awareness.",
+      "bigger": "Societal pressures often impact men's mental health globally.",
+      "publishedAt": "2026-09-14T00:00:08+00:00",
+      "topicFingerprint": [
+        "man",
+        "unpacking",
+        "crisis",
+        "suicide",
+        "philippines"
       ],
       "alternates": []
     },
     {
-      "title": "Will Mitch McConnell return to work next week? Major update on Kentucky Senator as US Senate set to resume",
-      "description": "Sen. Mitch McConnell discharged from rehab as he may return to the Senate soon after three months away due to health issues",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/will-mitch-mcconnell-return-to-senate-next-week-major-update-on-kentucky-senator-as-us-senate-set-to-resume-101789219271262.html",
-      "category": "Health",
+      "title": "Time for the CPFIS to get in on the Next 50 act",
+      "description": "The EQDP\u2019s bumper boost to the SGX has yet to fully trickle down to the Smids, and the Q50 deserves a CPF...",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/time-cpfis-get-next-50-act",
+      "category": "Progress",
       "readingTime": 2,
       "score": 4,
-      "why": "US Senate leadership may soon regain a key figure.",
-      "context": "Senator Mitch McConnell was discharged from rehab and may return to the Senate.",
-      "next": "Senator McConnell's health and role will be closely watched.",
-      "bigger": "The health of political leaders impacts legislative stability.",
-      "publishedAt": "2026-09-12T19:15:34+05:30",
+      "why": "Singaporean retirement savings may see improved growth.",
+      "context": "The article suggests including \"Next 50\" stocks in CPFIS. This aims to boost returns for retirement funds.",
+      "next": "Policymakers may review investment options for the CPFIS.",
+      "bigger": "Optimizing national retirement schemes is crucial for future financial security.",
+      "publishedAt": "2026-09-13T23:00:00+00:00",
       "topicFingerprint": [
-        "mcconnell",
-        "return",
-        "major",
-        "update",
-        "set"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Paris cheers the power of Celine Dion",
-      "description": "NANTERRE, France, Sept 12 - Celine Dion made an emotional return to the stage after a six-year absence on Saturday, overcoming high-profile health woes to thrill fans in the first of a series of concerts in Paris.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/paris-cheers-the-power-of-celine-dion",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 4,
-      "why": "Fans are celebrating her comeback to live music performances.",
-      "context": "Celine Dion made an emotional return to the stage after a six-year absence.",
-      "next": "Celine Dion will continue her series of comeback concerts.",
-      "bigger": "Iconic artists often inspire enduring fan loyalty.",
-      "publishedAt": "2026-09-13T08:06:31+08:00",
-      "topicFingerprint": [
-        "power",
-        "celine",
-        "dion",
-        "cheers",
-        "paris"
+        "act",
+        "cpfis"
       ],
       "alternates": []
     }
@@ -731,204 +748,16 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "China bets on early port and power deals in Sudan to secure post-war economic edge",
-        "description": "China is moving early to secure a role in Sudan\u2019s reconstruction, pursuing port and power agreements with the army-backed government while the war continues and many Western countries maintain only a limited presence. One expert also said Beijing was using the prospect of future investment as a bila",
+        "title": "Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO",
+        "description": "Hong Kong is intensifying efforts to attract technology start-ups and nurture unicorns through expanded financial support via a key government-backed platform, leveraging the city\u2019s booming fundraising activities and world-class financial infrastructure. Investors are displaying an increased appetit",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3365972/china-bets-early-port-and-power-deals-sudan-secure-post-war-economic-edge",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-13T04:00:07+00:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "edge",
-          "power",
-          "war",
-          "early",
-          "sudan"
-        ]
-      },
-      {
-        "title": "Focus on jobs sees affluent Chinese families spend more on tutoring than overseas exposure",
-        "description": "China\u2019s upper-middle-class families are spending more on their children\u2019s local education to help them compete in a tight domestic job market at the expense of summer programmes aimed at gaining admission to foreign universities, a recent survey found. A survey of 277 affluent Chinese families by Ba",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3367243/focus-jobs-sees-affluent-chinese-families-spend-more-tutoring-overseas-exposure",
+        "url": "https://www.scmp.com/business/article/3367351/hong-kong-aims-scale-its-tech-ecosystem-and-nurture-more-unicorns-hkstp-ceo",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-13T03:00:09+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: education"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "affluent",
-          "overseas",
-          "exposure",
-          "jobs",
-          "spend"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "Shun US goods, buy local: Canadians \u2018mad with America\u2019 reshape grocery shelves",
-        "description": "A growing consumer push to buy Canadian and boycott US products is \u2060reshaping supermarket shelves in Canada, forcing grocers to improve country-of-origin labelling and secure new sources of supply. In Ontario, the president of independent grocer Vince\u2019s Market, Giancarlo Trimarchi, turned to social ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3367331/shun-us-goods-buy-local-canadians-mad-america-reshape-grocery-shelves",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-13T02:42:48+00:00",
+        "publishedAt": "2026-09-13T23:00:11+00:00",
         "reason": "within_48h",
         "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: consumer"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "shun",
-          "buy",
-          "canadians",
-          "mad",
-          "shelves"
-        ]
-      },
-      {
-        "title": "France apologises for criticising US\u2019 human rights record after backlash",
-        "description": "The French UN mission said it regretted an online post criticising how the United States voted during a UN General Assembly meeting, with US officials saying on Saturday that Washington appreciated the statement. France\u2019s permanent mission to the UN published the apology on Friday, saying it regrett",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/europe/article/3367336/france-apologises-criticising-us-human-rights-record-after-backlash",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-09-13T05:03:29+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: rights"
-          },
-          {
-            "points": 2,
-            "reason": "policy important keyword match: un"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "apologises",
-          "rights",
-          "record",
-          "human",
-          "backlash"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea expands espionage law to protect chip technology",
-        "description": "",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/economy-news/south-korea-expands-espionage-law-to-protect-chip-technology-4898708",
-        "fromUrl": "https://www.investing.com/rss/news.rss",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-09-13T05:32:57+00:00",
-        "reason": "within_48h",
-        "score": 8,
         "score_debug": [
           {
             "points": 2,
@@ -936,52 +765,7 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Investing.com"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "law",
-          "expands",
-          "espionage",
-          "chip",
-          "technology"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Why do GDP figures face a controversy in India?",
-        "description": "Frequent revisions and claims and counter-claims by the government and the Opposition lead to disputes",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/business/Economy/why-do-gdp-figures-face-a-controversy-in-india/article71454662.ece",
-        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-12T13:35:53+05:30",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: gdp"
+            "reason": "important keyword match: financial"
           },
           {
             "points": 2,
@@ -989,103 +773,19 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: infrastructure"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: gdp"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: gdp"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "gdp",
-          "face",
-          "figures",
-          "india",
-          "controversy"
-        ]
-      },
-      {
-        "title": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-        "description": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-12T13:15:04+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: israel"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "urges",
-          "dialogue",
-          "won",
-          "modi",
-          "iranian"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "Tens of thousands march across Germany to protest far-right party AfD",
-        "description": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-09-12T22:37:03+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "points": -4,
+            "reason": "South China regional news"
           },
           {
             "points": 1,
@@ -1093,59 +793,46 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
-          {
-            "title": "Tens of thousands protest against far-right AfD in Germany after state election victory",
-            "description": "About 150,000 demonstrators took to the streets in around 20 cities nationwide.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/tens-of-thousands-protest-against-far-right-afd-in-germany-after-state-election-victory",
-            "category": "Policy",
-            "publishedAt": "2026-09-13T02:11:09+08:00",
-            "score": 6,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "protest",
-              "tens",
-              "afd",
-              "thousands",
-              "right"
-            ],
-            "group_id": 0
-          }
-        ],
+        "alternates": [],
         "topicFingerprint": [
-          "protest",
-          "tens",
-          "afd",
-          "thousands",
-          "right"
+          "hong",
+          "kong",
+          "efforts",
+          "city",
+          "technology"
         ]
-      }
-    ],
-    "france": [
+      },
       {
-        "title": "France apologises for criticising US\u2019 human rights record after backlash",
-        "description": "The French UN mission said it regretted an online post criticising how the United States voted during a UN General Assembly meeting, with US officials saying on Saturday that Washington appreciated the statement. France\u2019s permanent mission to the UN published the apology on Friday, saying it regrett",
+        "title": "Tourism and technology may hold key to boosting China\u2019s public image in the US",
+        "description": "China could improve its image in the United States by highlighting areas such as tourism and technology and positioning itself as a responsible major power, a survey has concluded. Researchers from Sun Yat-sen University in Guangzhou said that although concepts such as \u201cdecoupling\u201d and \u201cde-risking\u201d ",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/europe/article/3367336/france-apologises-criticising-us-human-rights-record-after-backlash",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3367365/tourism-and-technology-may-hold-key-boosting-chinas-public-image-us",
         "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-09-13T05:03:29+00:00",
+        "publishedAt": "2026-09-14T02:00:40+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 9,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: researchers"
+          },
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
           {
-            "points": 3,
-            "reason": "policy scoring keyword: rights"
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
-            "reason": "policy important keyword match: un"
+            "reason": "other category"
           },
           {
             "points": -2,
@@ -1159,113 +846,38 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "apologises",
-          "rights",
-          "record",
-          "human",
-          "backlash"
-        ]
-      },
-      {
-        "title": "USA and France reach Women's Basketball World Cup final",
-        "description": "USA and France reach the women's FIBA World Cup final after defeating Spain and Germany. The two teams will face off in the decider on Sunday in Berlin.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/d015da01-e53c-4474-9d73-4c2804c6315e.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-12T23:08:19+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "USA edge Spain to book Women\u2019s Basketball World Cup final against France",
-            "description": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
-            "source": "Al Jazeera",
-            "url": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france",
-            "category": "General",
-            "publishedAt": "2026-09-12T22:10:18+00:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "cup",
-              "final",
-              "basketball",
-              "women",
-              "france"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "cup",
-          "final",
-          "basketball",
-          "women",
-          "france"
+          "hold",
+          "technology",
+          "tourism",
+          "boosting",
+          "us_entity"
         ]
       }
     ],
-    "uk": [
+    "japan": [
       {
-        "title": "Anti-migrant activists, counter-protesters face off in flashpoint UK city",
-        "description": "Masked protesters had clashed with police six days earlier in Portsmouth.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/anti-migrant-activists-counter-protesters-face-off-in-flashpoint-uk-city",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "General",
+        "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
+        "description": "",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-12T23:41:58+08:00",
+        "publishedAt": "2026-09-14T07:10:37+00:00",
         "reason": "within_48h",
-        "score": 3,
+        "score": 8,
         "score_debug": [
           {
-            "points": 2,
-            "reason": "important keyword match: uk"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "activists",
-          "anti",
-          "face",
-          "uk_entity",
-          "city"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Singapore Fitness Alliance helping True Fitness, True Yoga employees find jobs",
-        "description": "About 230 employees and freelancers from True Group have reached out to Singapore Fitness Alliance.",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/singapore/true-fitness-yoga-singapore-fitness-alliance-staff-jobs-6380976",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-13T10:03:00+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
+            "reason": "geopolitics important keyword match: trade"
+          },
           {
             "points": 2,
-            "reason": "important keyword match: jobs"
+            "reason": "Highest Quality Source match: CNBC"
           },
           {
             "points": 1,
@@ -1275,11 +887,341 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "helping",
-          "yoga",
-          "alliance",
-          "true",
-          "find"
+          "trade",
+          "appreciation",
+          "yen",
+          "looking",
+          "seekers"
+        ]
+      },
+      {
+        "title": "Japan's Okinawa ousts anti-US base governor",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-genta-koja-governor-6382641",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-14T13:32:55+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "base",
+          "japan",
+          "ousts",
+          "governor",
+          "anti"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "NOAA winter weather forecast map: Which US states could see more rain and snow this year?",
+        "description": "NOAA's new winter maps show a strong El Nino could bring more rain to the south and warmer weather up north.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/noaa-winter-weather-forecast-map-which-us-states-could-see-more-rain-and-snow-this-year-101789328057633.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-09-14T04:01:18+05:30",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: forecast"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 3,
+            "reason": "environment important keyword match: strong"
+          },
+          {
+            "points": -2,
+            "reason": "opinion rhetorical headline"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "snow",
+          "winter",
+          "see",
+          "forecast",
+          "weather"
+        ]
+      },
+      {
+        "title": "France apologises for human rights criticism that sparked US walkout",
+        "description": "PARIS, Sept 13 - France's mission to the United Nations in Geneva has said it \\\"regrets\\\" criticising the United States over human rights in a social media post that triggered a diplomatic dispute which has delayed the arrival of a new French ambassador in Washington.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/france-apologises-for-human-rights-criticism-that-sparked-us-walkout",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-13T22:21:28+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: united nations"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "apologises",
+          "human",
+          "france",
+          "rights",
+          "sparked"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "\u2018The biggest risk is low liquidity\u2019: South Korea tests global demand for after-hours stock trading",
+        "description": "Whether it can draw sufficient volume remains a key question",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/biggest-risk-low-liquidity-south-korea-tests-global-demand-after-hours-stock-trading",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-13T05:38:56+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: liquidity"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sk_entity",
+          "tests",
+          "liquidity",
+          "trading",
+          "hours"
+        ]
+      },
+      {
+        "title": "South Korea\u2019s \u2018grey digital divide\u2019 leaves seniors pleading for help",
+        "description": "A little cheer rose for 79-year-old Hwang Sun-hee after she managed to place an online order at a training session in South Korea, which has one of the world\u2019s starkest digital divides for seniors. Age gaps in digital literacy are a global concern, yet the gulf has widened massively in the hyper-con",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3367383/south-koreas-grey-digital-divide-leaves-seniors-pleading-help",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-14T03:13:09+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sk_entity",
+          "pleading",
+          "seniors",
+          "grey",
+          "leaves"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "France apologises for human rights criticism that sparked US walkout",
+        "description": "PARIS, Sept 13 - France's mission to the United Nations in Geneva has said it \\\"regrets\\\" criticising the United States over human rights in a social media post that triggered a diplomatic dispute which has delayed the arrival of a new French ambassador in Washington.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/france-apologises-for-human-rights-criticism-that-sparked-us-walkout",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-13T22:21:28+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: rights"
+          },
+          {
+            "points": 2,
+            "reason": "policy important keyword match: united nations"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "apologises",
+          "human",
+          "france",
+          "rights",
+          "sparked"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
+        "description": "Shein's Hong Kong-listed shares fell as much as 10%, amid news that a contact lens product has been recalled urgently due to worries of contamination.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-14T05:21:29+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "recall",
+          "lens",
+          "shein",
+          "australia",
+          "fall"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Eliminating non-tariff barriers, smooth payment mechanism key to boosting BRICS trade: EEPC India",
+        "description": "The country's apex engineering exports promotion body, EEPC India, on Sunday called for eliminating nontariff barriers and having a smooth payment mechanism among BRICS nations to boost trade.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/world/eliminating-non-tariff-barriers-smooth-payment-mechanism-key-to-boosting-brics-trade-eepc-india-19990061.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Progress",
+        "readingTime": 2,
+        "publishedAt": "2026-09-13T16:34:12+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: tariff"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          }
+        ],
+        "group_id": 10,
+        "alternates": [],
+        "topicFingerprint": [
+          "brics",
+          "india",
+          "trade",
+          "summit",
+          "china_entity"
         ]
       }
     ]
