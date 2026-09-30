@@ -1,697 +1,683 @@
 {
-  "updatedAt": "2026-09-29T06:32:20.819634",
+  "updatedAt": "2026-09-30T07:47:05.491992",
   "insight": {
-    "title": "Barcode Stripes Don't Hold Product Data",
-    "subtitle": "The familiar stripes don't actually encode prices, names, or descriptions.",
-    "notificationHook": "The barcode stripes are just an ID",
+    "title": "Our Sun Will Be A Diamond",
+    "subtitle": "The remnants of stars like our Sun are predicted to eventually transform into colossal, crystalline structures.",
+    "notificationHook": "Your sun will be a giant diamond.",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "When a scanner reads a barcode, it isn't decoding the item's price or description from the stripes. Those black and white lines actually only encode a single, unique identification number."
+        "text": "In billions of years, after our Sun exhausts its nuclear fuel and sheds its outer layers, it will leave behind a stellar corpse."
       },
       {
         "type": "paragraph",
-        "text": "This ID number is instantly sent to a central database, which then looks up all the corresponding product details: price, inventory, and description. It's a lightning-fast lookup system."
+        "text": "This dense remnant, a white dwarf, is roughly the size of Earth but holds the mass of our entire Sun, slowly cooling over eons."
       },
       {
         "type": "paragraph",
-        "text": "This design allows stores to change prices or update product info instantly, without ever needing to reprint a single barcode. It\u2019s how millions of unique products are tracked globally every second."
+        "text": "Over an unfathomable amount of time, this super-compressed carbon and oxygen will crystallize, becoming a magnificent, cosmic diamond."
       },
       {
         "type": "paragraph",
-        "text": "The barcode: a silent key to a global database."
+        "text": "A future sun, solidified and silent."
       }
     ]
   },
   "news": [
     {
-      "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
-      "description": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
+      "title": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
+      "description": "Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
+      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 21,
-      "why": "Mideast oil supplies may stabilize, impacting global prices.",
-      "context": "US and Iran officials held separate talks with mediators for a Mideast ceasefire.",
-      "next": "Mediators will likely continue efforts to achieve a regional ceasefire.",
-      "bigger": "Geopolitical tensions consistently influence global energy markets.",
-      "publishedAt": "2026-09-29T04:02:47+00:00",
+      "score": 26,
+      "why": "Your fuel and shipping costs may rise soon.",
+      "context": "Oil prices increased after Trump denied sanctions relief to Iran. Qatar is advocating for peace talks between the US and Iran.",
+      "next": "Geopolitical tensions around Iran's oil supply may escalate.",
+      "bigger": "Global energy markets remain highly sensitive to Mideast policy.",
+      "publishedAt": "2026-09-30T07:12:51+00:00",
       "topicFingerprint": [
-        "ai_group",
+        "iran",
         "us_entity",
-        "safety",
         "donald_trump",
-        "openai",
-        "iran"
+        "war",
+        "oil"
       ],
       "alternates": []
     },
     {
-      "title": "The economic legacy of the Biden immigration surge",
-      "description": "The historic immigration surge that reshaped the U.S. population after the pandemic left a big imprint on the economy: boosting growth with surprisingly little disruption to native-born workers \u2014 but also adding to rent inflation. Why it matters: Those findings \u2014 unveiled in new research presented a",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/28/economic-legacy-biden-immigration-surge",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 22,
-      "why": "Labor supply growth may support lower costs for businesses.",
-      "context": "Historic immigration boosted US economic growth with little disruption to native workers.",
-      "next": "Future immigration policies will likely be debated for economic effects.",
-      "bigger": "Immigration plays a significant role in national economic development.",
-      "publishedAt": "2026-09-28T16:27:57+00:00",
-      "topicFingerprint": [
-        "legacy",
-        "biden",
-        "surge",
-        "immigration",
-        "economic"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "source": "Techcrunch",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "title": "Trump, AI CEOs sign voluntary safety pact, back data centre expansion",
+      "description": "The document was signed by Trump and the bosses of Google, Anthropic, Meta, OpenAI, X and Nvidia.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/trump-releases-ai-accord-with-tech-executives",
       "category": "Technology",
       "readingTime": 2,
-      "score": 21,
-      "why": "AI systems may become safer and more reliable for users.",
-      "context": "Nvidia launched a new platform to secure AI agents against rogue behavior.",
-      "next": "Developers will integrate these security tools into new AI applications.",
-      "bigger": "Companies are focusing on AI safety and ethical development.",
-      "publishedAt": "2026-09-28T18:31:23+00:00",
+      "score": 25,
+      "why": "AI tools you use may become safer or more controlled.",
+      "context": "Trump and leading AI CEOs signed a voluntary AI safety pact. They also support expanding data center infrastructure.",
+      "next": "More detailed AI safety regulations or guidelines could emerge.",
+      "bigger": "Governments are seeking to balance AI innovation with risk management.",
+      "publishedAt": "2026-09-30T06:48:00+08:00",
       "topicFingerprint": [
         "ai_group",
-        "us_entity",
-        "safety",
         "donald_trump",
         "openai",
-        "iran"
+        "safety",
+        "tech",
+        "us_entity"
       ],
       "alternates": [
         {
-          "title": "Nvidia announces new software to prevent AI agents from \"going rogue\"",
-          "description": "Technology company and chip maker Nvidia has created a new security platform aimed at preventing artificial intelligence agents from going rogue. Connor Leahy, executive director of ControlAI, joins \"The Daily Report\" to discuss.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/nvidia-announces-new-software-prevent-ai-agents-going-rogue/",
+          "title": "Trump releases AI accord with tech executives",
+          "description": "The document was signed by Mr. Trump and the bosses of Google, Anthropic, Meta, OpenAI, social media platform X and NVIDIA.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/trump-releases-ai-accord-with-tech-executives/article71525807.ece",
           "category": "Technology",
-          "publishedAt": "2026-09-28T20:15:16-04:00",
-          "score": 19,
+          "publishedAt": "2026-09-30T11:50:37+05:30",
+          "score": 20,
           "readingTime": 2,
           "topicFingerprint": [
             "ai_group",
-            "us_entity",
-            "safety",
             "donald_trump",
             "openai",
-            "iran"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-          "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to ",
-          "source": "Tech | The Verge",
-          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "category": "Technology",
-          "publishedAt": "2026-09-28T13:36:06+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ai_group",
-            "us_entity",
             "safety",
-            "donald_trump",
-            "openai",
-            "iran"
+            "tech",
+            "us_entity"
           ],
           "group_id": 0
         }
       ]
     },
     {
+      "title": "US trade chief to consider trade deal tariff caps in excess capacity probe",
+      "description": "China\u2019s excess production capacity and over-reliance on exports for growth is under scrutiny",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/international/global/us-trade-chief-consider-trade-deal-tariff-caps-excess-capacity-probe",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Imported goods from China may become more expensive.",
+      "context": "The US trade chief is investigating China's excess production capacity. Tariffs on some trade deals are under consideration.",
+      "next": "New tariffs or trade restrictions on Chinese exports could be imposed.",
+      "bigger": "Global trade relations are shifting towards protectionism and scrutiny.",
+      "publishedAt": "2026-09-30T02:19:38+00:00",
+      "topicFingerprint": [
+        "capacity",
+        "excess",
+        "caps",
+        "chief",
+        "tariff"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
+      "description": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Financial markets may become more unstable or volatile.",
+      "context": "Hedge funds now hold a record share of the US Treasury market. Their growing involvement raises concerns about financial instability.",
+      "next": "Regulators may introduce new rules to monitor hedge fund activities.",
+      "bigger": "Modern financial systems face new systemic risks from large funds.",
+      "publishedAt": "2026-09-30T00:19:09+00:00",
+      "topicFingerprint": [
+        "share",
+        "wrong",
+        "hedge",
+        "record",
+        "trillion"
+      ],
+      "alternates": []
+    },
+    {
       "title": "Overshoot of Paris Agreement and the Looming Super El Ni\u00f1o Drive Urgent Calls for Global Climate Action at UNGA 81",
-      "description": "On September 23, the United Nations held its 2026 Climate Summit as part of the High-Level Week of the 81st session of the General Assembly (UNGA 81). Convening civil society actors, climate scientists, major energy producers and consumers, development experts, and world leaders, the summit addresse",
+      "description": "The United Nations 2026 Climate Summit addressed critical strategies to mitigate the compounding impacts of the climate crisis and accelerate progress toward the Sustainable Development Goals (SDGs). The summit brought together civil society actors, climate scientists, major energy producers and con",
       "source": "Inter Press Service",
       "url": "https://www.ipsnews.net/2026/09/overshoot-of-paris-agreement-and-the-looming-super-el-nino-drive-urgent-calls-for-global-climate-action-at-unga-81/",
       "category": "Environment",
       "readingTime": 2,
-      "score": 14,
-      "why": "Governments may introduce stricter environmental regulations soon.",
-      "context": "UNGA 81 climate summit urged global action due to Paris Agreement overshoot and El Ni\u00f1o.",
-      "next": "Nations will negotiate new commitments and climate policies.",
-      "bigger": "Climate change continues to demand urgent international cooperation.",
+      "score": 10,
+      "why": "Expect stricter environmental rules and higher energy bills.",
+      "context": "The UN Climate Summit called for urgent action on climate change. This follows the Paris Agreement overshoot and a Super El Ni\u00f1o.",
+      "next": "Countries will face renewed pressure to commit to stronger climate goals.",
+      "bigger": "Climate change is intensifying, demanding accelerated global responses.",
       "publishedAt": "2026-09-29T05:23:01+00:00",
       "topicFingerprint": [
         "overshoot",
-        "paris",
-        "urgent",
         "nio",
-        "climate"
+        "action",
+        "super",
+        "calls"
       ],
       "alternates": []
     },
     {
-      "title": "Congo Ebola outbreak tops 8,000 confirmed cases as disease remains out of control",
-      "description": "The number of confirmed Ebola cases in Congo has surged past 8,000 as the country struggles with a shortage of health workers",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/congo-ebola-outbreak-tops-8000-confirmed-cases-disease-136816027",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 8,
-      "why": "The shortage of health workers could hinder containing diseases.",
-      "context": "Congo's Ebola outbreak exceeded 8,000 cases, remaining uncontrolled.",
-      "next": "International aid agencies will likely increase support to Congo.",
-      "bigger": "Global health crises are exacerbated by inadequate healthcare infrastructure.",
-      "publishedAt": "2026-09-28T10:26:20-04:00",
-      "topicFingerprint": [
-        "ebola",
-        "disease",
-        "congo",
-        "tops",
-        "confirmed"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Australia\u2019s central bank lifts rates to 15-year high, signals risk of further hikes",
-      "description": "Markets had fully priced in a hike given inflation came in hotter than expected in July.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/australias-central-bank-lifts-rates-to-15-year-high-signals-risk-of-further-hikes",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Loans and mortgages may become more expensive for Australians.",
-      "context": "Australia's central bank raised interest rates to a 15-year high.",
-      "next": "The central bank will monitor inflation for future rate decisions.",
-      "bigger": "Central banks globally are using rate hikes to combat inflation.",
-      "publishedAt": "2026-09-29T13:36:00+08:00",
-      "topicFingerprint": [
-        "risk",
-        "rates",
-        "hikes",
-        "inflation",
-        "signals"
-      ],
-      "alternates": [
-        {
-          "title": "Australia\u2019s central bank lifts rates to 15-year high, signals risk of further hikes",
-          "description": "Core inflation was running at 3.6%, above RBA\u2019s target range of 2% to 3%",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/australias-central-bank-lifts-rates-15-year-high-signals-risk-further-hikes",
-          "category": "Financial",
-          "publishedAt": "2026-09-29T04:59:19+00:00",
-          "score": 16,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "risk",
-            "rates",
-            "hikes",
-            "inflation",
-            "signals"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Russia hammers Ukraine's capital with major daytime drone strike",
-      "description": "A wave of Russian strikes hit Ukraine Monday, killing at least 7 people, including a woman hit by a daytime strike on the National Academy of Sciences in Kyiv.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Civilian areas in Ukraine face continued severe safety risks.",
-      "context": "Russia launched a major daytime drone strike on Ukraine's capital, Kyiv.",
-      "next": "Ukraine will strengthen its air defenses against future attacks.",
-      "bigger": "Geopolitical conflicts often target civilian populations and infrastructure.",
-      "publishedAt": "2026-09-28T19:34:31-04:00",
-      "topicFingerprint": [
-        "ukraine",
-        "russia",
-        "russian",
-        "academy",
-        "kyiv"
-      ],
-      "alternates": [
-        {
-          "title": "Russia pounds Ukraine\u2019s Kyiv after deadly strike on Academy of Sciences",
-          "description": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2",
-          "category": "General",
-          "publishedAt": "2026-09-29T03:38:16+00:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "russian",
-            "academy",
-            "kyiv"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Ukrainian arms producers warn competitive edge eroding due to stringent export licence rules",
-          "description": "Russian drones struck Ukraine's National Academy of Sciences in the historic heart of Kyiv on Monday, in the latest deadly daytime attack on the capital. Volodymyr Zelensky has long been pleading with Ukraine\u2019s allies for more military aid to fend off Russia. But Ukrainian weapons producers say the ",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/ukrainian-arms-producers-warn-competitive-edge-eroding-due-to-stringent-export-licence-rules",
-          "category": "Geopolitics",
-          "publishedAt": "2026-09-28T19:28:26+00:00",
-          "score": 10,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "russian",
-            "academy",
-            "kyiv"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Russian drone hits cultural landmark in Ukraine's capital",
-          "description": "Russia struck a cultural landmark in Ukraine on Monday, the National Academy of Sciences, killing at least seven people and wounding dozens more. They also attacked apartment buildings, offices and data centers. CBS News international reporter Aidan Stretch was forced to take shelter shortly after c",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/russian-drone-hits-cultural-landmark-ukraines-capital/",
-          "category": "General",
-          "publishedAt": "2026-09-28T20:17:12-04:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "russian",
-            "academy",
-            "kyiv"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "People escape historic Kyiv building hit by Russian drone",
-          "description": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo",
-          "category": "General",
-          "publishedAt": "2026-09-28T17:04:14+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "russian",
-            "academy",
-            "kyiv"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
-      "description": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 15,
-      "why": "India aims to boost its domestic technological independence and innovation.",
-      "context": "India is investing $25 billion in Deep Tech to reduce foreign tech reliance.",
-      "next": "New Indian deep tech startups will emerge, attracting more investment.",
-      "bigger": "Nations are increasing investments in strategic, advanced technologies.",
-      "publishedAt": "2026-09-29T05:12:10+00:00",
-      "topicFingerprint": [
-        "deep",
-        "race",
-        "readies",
-        "tech",
-        "investment"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Pentagon policy chief says NATO allies back Europe defence shift",
-      "description": "Europeans have expressed concerns that the US could withdraw troops and equipment from the continent.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/pentagon-policy-chief-says-nato-allies-back-europe-defence-shift",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 8,
-      "why": "European nations may take greater responsibility for their security.",
-      "context": "NATO allies support a shift in Europe's defense strategy.",
-      "next": "NATO will develop new defense plans to adapt to changing dynamics.",
-      "bigger": "Global defense alliances are adapting to new geopolitical realities.",
-      "publishedAt": "2026-09-29T08:22:00+08:00",
-      "topicFingerprint": [
-        "nato",
-        "shift",
-        "eu_entity",
-        "pentagon",
-        "allies"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "NASA will try again with Boeing\u2019s space capsule after an earlier mission was so botched it was reclassified as a crew-endangering \u2018Type A mishap\u2019",
-      "description": "Astronauts will not strap in until 2028 because of the need for further safety redesigns that will take months, if not years, to complete.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/28/nasa-boeing-starliner-space-capsule-iss-crew-endangering-type-a-mishap/",
+      "title": "China\u2019s R&D spending hits record 2.8% of GDP, beating OECD average for the first time",
+      "description": "For the first time, China\u2019s spending on research and development as a share of gross domestic product has surpassed the average for Organisation for Economic Cooperation and Development (OECD) members \u2013 a trend one analyst expects to continue as Beijing seeks to strengthen technological self-relianc",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/china-economy/article/3369296/chinas-rd-spending-hits-record-28-gdp-beating-oecd-average-first-time",
       "category": "Science",
       "readingTime": 2,
-      "score": 9,
-      "why": "Space travel will face further delays due to safety concerns.",
-      "context": "NASA postponed Boeing's Starliner crewed mission until 2028 for safety redesigns.",
-      "next": "Boeing must complete extensive safety redesigns before next launch.",
-      "bigger": "Safety protocols are paramount in complex space exploration missions.",
-      "publishedAt": "2026-09-28T23:03:21+00:00",
+      "score": 17,
+      "why": "China's technological innovation and competitiveness will increase.",
+      "context": "China's R&D spending hit a record 2.8% of GDP. This surpasses the OECD average for the first time.",
+      "next": "China may emerge as a leader in more advanced technological fields.",
+      "bigger": "The global balance of power in science and technology is shifting.",
+      "publishedAt": "2026-09-30T06:01:56+00:00",
       "topicFingerprint": [
-        "space",
-        "reclassified",
-        "nasa",
-        "boeing",
-        "crew"
+        "beating",
+        "average",
+        "oecd",
+        "hits",
+        "record"
       ],
       "alternates": []
     },
     {
-      "title": "Apple and Amazon face renewed UK antitrust lawsuit",
-      "description": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details. more\u2026",
-      "source": "9To5Mac",
-      "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "description": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and R",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Instability and humanitarian crises persist for DRC citizens.",
+      "context": "Fighting continues in Eastern DRC despite peace agreements. The Security Council met as an Ebola crisis deepens.",
+      "next": "International efforts may focus on stronger peacekeeping or aid.",
+      "bigger": "Complex conflicts are worsened by health crises and political instability.",
+      "publishedAt": "2026-09-29T12:00:00+00:00",
+      "topicFingerprint": [
+        "drc",
+        "congo",
+        "ebola",
+        "democratic",
+        "fighting"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "description": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Ukraine's economic recovery and reconstruction efforts face setbacks.",
+      "context": "Ukraine's crucial steel industry is now in ruins. Relentless Russian missile attacks caused widespread damage.",
+      "next": "Global steel supply chains may experience some minor disruption.",
+      "bigger": "War devastates industrial capacity and long-term economic prospects.",
+      "publishedAt": "2026-09-29T23:33:34+00:00",
+      "topicFingerprint": [
+        "ruins",
+        "campaign",
+        "ukraine",
+        "prized",
+        "missile"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "India central bank's FX blitz drains nearly US$20 billion from surplus liquidity",
+      "description": "Dollar-rupee swaps played a prominent role in liquidity management",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/india-central-banks-fx-blitz-drains-nearly-us20-billion-surplus-liquidity",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Indian banks may have less capital for new loans.",
+      "context": "India's central bank drained nearly $20 billion in liquidity. It used dollar-rupee swaps to manage surplus funds.",
+      "next": "India's short-term interest rates might see an upward adjustment.",
+      "bigger": "Central banks actively manage currency flows to stabilize markets.",
+      "publishedAt": "2026-09-29T07:43:01+00:00",
+      "topicFingerprint": [
+        "blitz",
+        "india",
+        "liquidity",
+        "surplus",
+        "nearly"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Asia\u2019s top tech startups move beyond software towards physical AI",
+      "description": "This includes deploying artificial intelligence across wind farms, warehouses and operating theatres",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/startups-tech/asias-top-tech-startups-move-beyond-software-towards-physical-ai",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 17,
+      "why": "Physical tasks in industries may become automated and efficient.",
+      "context": "Asian tech startups are increasingly deploying physical AI solutions. AI is being integrated into wind farms, warehouses, and hospitals.",
+      "next": "Expect more real-world applications of AI beyond software.",
+      "bigger": "AI is moving from virtual to tangible, transforming physical industries.",
+      "publishedAt": "2026-09-30T05:34:39+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "donald_trump",
+        "openai",
+        "safety",
+        "tech",
+        "us_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Venezuela leader admits \u2018abusive\u2019 use of anti-hate law",
+      "description": "The law had been used to justify the arrests of dozens of government critics.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/venezuela-leader-admits-abusive-use-of-anti-hate-law",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Freedom of expression and dissent remain at risk in Venezuela.",
+      "context": "Venezuela's leader admitted to abusive use of an anti-hate law. The law justified arrests of many government critics.",
+      "next": "International bodies may condemn Venezuela's human rights practices.",
+      "bigger": "\"Anti-hate\" laws can be misused to suppress political opposition.",
+      "publishedAt": "2026-09-30T09:10:00+08:00",
+      "topicFingerprint": [
+        "hate",
+        "law",
+        "anti",
+        "abusive",
+        "venezuela"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Malaysia begins Myanmar repatriations despite safety warnings by UN and rights groups",
+      "description": "Malaysia has begun repatriating Myanmar nationals under a voluntary program, despite warnings from the UN refugee agency and rights groups about unsafe conditions in Myanmar",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/malaysia-begins-myanmar-repatriations-despite-safety-warnings-rights-136844283",
       "category": "Policy",
       "readingTime": 2,
       "score": 8,
-      "why": "Product prices and availability for consumers may change in the UK.",
-      "context": "Apple and Amazon face a renewed UK antitrust lawsuit over alleged competition restrictions.",
-      "next": "The lawsuit will proceed, potentially leading to court battles.",
-      "bigger": "Tech giants face increasing global scrutiny over market dominance.",
-      "publishedAt": "2026-09-29T01:21:23+00:00",
+      "why": "Repatriated Myanmar nationals may face safety risks.",
+      "context": "Malaysia began repatriating Myanmar nationals under a voluntary program. This proceeds despite UN warnings about unsafe conditions in Myanmar.",
+      "next": "International scrutiny of Malaysia's repatriation policies will increase.",
+      "bigger": "Balancing national policies with international human rights remains challenging.",
+      "publishedAt": "2026-09-30T00:18:14-04:00",
       "topicFingerprint": [
-        "apple",
-        "face",
-        "lawsuit",
-        "renewed",
-        "uk_entity"
+        "myanmar",
+        "rights",
+        "repatriating",
+        "voluntary",
+        "nationals"
       ],
-      "alternates": []
-    },
-    {
-      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-      "description": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 19,
-      "why": "Future AI regulation could be influenced by these discussions.",
-      "context": "Key tech executives are scheduled to meet with former President Trump.",
-      "next": "Further discussions on AI policy and regulation are expected.",
-      "bigger": "Policy makers are engaging with tech leaders on AI governance.",
-      "publishedAt": "2026-09-28T20:00:45+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "us_entity",
-        "safety",
-        "donald_trump",
-        "openai",
-        "iran"
-      ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Malaysia repatriates Myanmar migrants despite UN warnings",
+          "description": "Malaysia has started repatriating about 1,500 Myanmar nationals, defying warnings from the UN and rights groups. Malaysia, facing an uptick in anti-migrant sentiment, says the program is strictly voluntary.",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814",
+          "category": "Policy",
+          "publishedAt": "2026-09-29T10:26:00+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "myanmar",
+            "rights",
+            "repatriating",
+            "voluntary",
+            "nationals"
+          ],
+          "group_id": 0
+        }
+      ]
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, officials from the US and Iran recently held separate discussions with mediators, all aimed at brokering a ceasefire in the Middle East. This could potentially help stabilize the vital oil supplies from the region, which would in turn impact global fuel prices for everyone.\n\nMeanwhile, on the economic front, historic levels of immigration have significantly boosted US economic growth. This surge in labor supply seems to have occurred with very little disruption to native workers, and it could help support lower costs for businesses across the country.\n\nIn tech news, Nvidia has launched an important new platform designed to secure artificial intelligence agents. The goal is to prevent them from behaving unexpectedly or \"going rogue,\" hopefully making AI systems safer and more reliable for users everywhere.\n\nMoving to climate action, a recent summit at the UN General Assembly urged immediate global responses. Leaders highlighted the overshoot of the Paris Agreement goals and the looming Super El Ni\u00f1o phenomenon. This intense focus could mean that governments worldwide might soon introduce stricter environmental regulations.\n\nStaying with global health, the Ebola outbreak in Congo has now tragically surpassed eight thousand confirmed cases and remains uncontrolled. This ongoing crisis highlights how a shortage of health workers can severely hinder efforts to contain widespread diseases, emphasizing the need for robust healthcare infrastructure.\n\nAcross the globe, Australia's central bank has raised interest rates to a fifteen-year high, and there are signals that even further hikes might be on the way. For Australians, this likely means that loans and mortgages could become more expensive in the near future.\n\nTurning to the conflict in Ukraine, Russia recently launched a major daytime drone strike on Kyiv, the capital. This action tragically reinforces that civilian areas in Ukraine continue to face severe safety risks from these ongoing geopolitical conflicts.\n\nShifting focus to innovation, India is preparing to invest a substantial twenty-five billion dollars into \"Deep Tech\" \u2014 advanced technologies like AI and quantum computing. This strategic move aims to boost the nation's domestic technological independence and innovation, reducing its reliance on foreign tech.\n\nAnd looking at defense alliances, NATO allies are reportedly backing a significant shift in Europe's defense strategy, according to the Pentagon policy chief. This development suggests that European nations may soon take on greater responsibility for their own security.\n\nFrom space exploration, NASA has unfortunately postponed Boeing's Starliner crewed mission until 2028. The decision comes after an earlier mission was reclassified as a serious \"Type A mishap,\" necessitating major safety redesigns and further delays for space travel as safety concerns remain paramount.\n\nBack on Earth, in the business world, Apple and Amazon are facing a renewed antitrust lawsuit in the UK. The legal challenge centers on allegations of restricting competition, and the outcome could potentially change product prices and availability for consumers across the UK.\n\nAnd finally, looking ahead, several key tech executives, including Mark Zuckerberg and Dario Amodei, are scheduled to meet with former President Trump on Tuesday. These high-level discussions could significantly influence future regulations around artificial intelligence.\n\nBefore we go, here's a little something to ponder: Have you ever thought about what's really in a barcode? The familiar stripes on a barcode don't actually encode an item's price, name, or description. Instead, they contain just a single, unique identification number. When a scanner reads this ID, it instantly sends that number to a central database. That database then does a lightning-fast lookup, fetching all the corresponding product details like price, inventory, and a full description. This clever design allows stores to change prices or update product information instantly, without ever needing to reprint a single barcode. It's a silent key that powers a global system, tracking millions of unique products every second.\n\nThat's your Sift Daily Briefing for today. Enjoy the rest of your day.",
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, oil prices climbed today after former President Trump denied offering Iran sanctions relief. Qatar, meanwhile, is actively pushing for peace talks between the United States and Iran. This situation suggests your fuel and shipping costs may begin to rise soon.\n\nSwitching to technology, Trump and several leading AI company CEOs signed a voluntary AI safety pact. They also expressed support for expanded data center infrastructure across the country. This move suggests the artificial intelligence tools you use might become either safer or more regulated in the future.\n\nMeanwhile, the US trade chief is investigating China's excess production capacity. As part of this, tariffs on certain existing trade deals are currently under consideration. This could mean that imported goods from China will likely become more expensive for consumers.\n\nIn financial news, hedge funds now hold a record share of the 30 trillion dollar US Treasury market. Their increasing involvement is raising some concerns about potential financial instability. This shift could make financial markets generally more volatile in the near future.\n\nTurning to climate, the UN Climate Summit issued urgent calls for global climate action. This follows an overshoot of Paris Agreement targets and the looming threat of a Super El Ni\u00f1o. For you, this could mean anticipating stricter environmental rules and potentially higher energy bills.\n\nNext, China's spending on research and development hit a record 2.8% of its Gross Domestic Product. This marks the first time it has surpassed the average for OECD countries, signaling increased technological innovation and global competitiveness.\n\nUnfortunately, fighting continues in the Eastern Democratic Republic of Congo despite peace agreements, as an Ebola crisis deepens the humanitarian situation. This means instability and profound humanitarian crises regrettably persist for many DRC citizens.\n\nIn Ukraine, the crucial steel industry has been largely left in ruins following relentless Russian missile campaigns. These attacks caused widespread damage, creating significant setbacks for Ukraine's economic recovery and future reconstruction efforts.\n\nOver in India, the central bank drained nearly 20 billion US dollars in surplus liquidity from its financial system, using dollar-rupee swaps. As a result, Indian banks may now have less capital available for issuing new loans.\n\nAcross Asia, top tech startups are increasingly deploying physical AI solutions, integrating artificial intelligence into areas like wind farms, warehouses, and hospitals. This suggests many physical tasks in various industries could soon become more automated and efficient.\n\nMoving to South America, Venezuela's leader recently admitted to the \"abusive\" use of an anti-hate law. This law had previously justified the arrests of many government critics, highlighting that freedom of expression and dissent continues to be at significant risk.\n\nAnd finally, Malaysia has begun repatriating Myanmar nationals under a voluntary program. This is happening despite strong warnings from the UN and human rights groups about unsafe conditions, raising concerns that repatriated individuals may face substantial safety risks.\n\nAnd finally, a reflective insight to close your briefing. Imagine our very own Sun, billions of years from now. After it burns through its fuel and sheds its outer layers, it will leave behind a dense, stellar remnant, a white dwarf. Over an unfathomable span of time, this super-compressed carbon and oxygen will slowly crystallize. Our future sun, solid and silent, will transform into a magnificent, cosmic diamond.\n\nThat's your Sift Daily Briefing for today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 223
+    "estimatedDurationSeconds": 212
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly unpack the stories shaping our world, moving beyond the headlines to understand the underlying mechanisms and lasting impact.\n\nFirst up, in a significant diplomatic move, Iranian and U.S. officials recently held separate talks with various mediators, signaling efforts to push for a ceasefire in the Middle East. This indirect diplomacy is happening at a time when Middle Eastern crude exports have actually rebounded to a wartime high. The mechanism here is that even amidst regional tensions and conflicts, the global demand for oil remains high, and producers are finding ways to get it to market. The \"war-time high\" exports suggest either a strategic push by oil-producing nations to capitalize on global demand or a testament to the resilience of supply chains, even in volatile regions. The separate talks, rather than direct engagement, reflect the deeply complex and often adversarial relationship between the U.S. and Iran, making mediators crucial for any progress. If these efforts succeed in bringing about a ceasefire, it could stabilize oil shipping routes and supply, potentially impacting global prices. Conversely, a failure would leave the region's energy stability, and thus global prices, in continued uncertainty.\n\nMeanwhile, new research is shedding light on the economic legacy of the historic immigration surge in the U.S. post-pandemic. This influx of people, the study finds, significantly boosted economic growth with surprisingly little disruption to native-born workers. However, it also contributed to rising rent inflation. The underlying mechanism is quite direct: a larger population means a larger labor force. This increased labor supply helps businesses fill open positions, keeping wage growth steady rather than surging, which in turn helps manage business costs. This extra workforce directly contributes to overall economic output and growth. On the flip side, more people also means a higher demand for housing, which, without an equivalent increase in housing supply, inevitably pushes rents upward. So, while immigration bolsters the productive capacity of the economy, it simultaneously puts pressure on existing resources like housing. These findings will undoubtedly fuel future debates on U.S. immigration policies, as policymakers weigh the economic benefits against pressures on housing markets.\n\nSwitching to artificial intelligence, Nvidia has just launched a new platform designed to rein in rogue AI agents. CEO Jensen Huang introduced a toolkit of software and hardware products that essentially add independent security layers around AI agents. The core idea is to ensure these AI systems stay within their designated test environments, even if they attempt to \"break out\" or deviate from their intended programming. As AI models become more autonomous and capable, the risk of them developing unintended behaviors or even acting maliciously becomes a serious concern. Nvidia's solution works by creating virtual containment zones and monitoring systems that can detect and prevent an AI from accessing unauthorized data or executing commands outside its specified parameters. This mechanism is crucial for building trust in AI and preventing potential misuse or unforeseen consequences as these systems are deployed more widely. Developers will begin integrating these security tools, aiming to make AI systems safer and more reliable for users across all applications.\n\nUrgent calls for global climate action were a central theme at the UNGA 81 Climate Summit recently. This urgency stems from two major concerns: the world is overshooting the targets set by the Paris Agreement, and there\u2019s a looming threat of a Super El Ni\u00f1o event. The Paris Agreement aimed to limit global warming to well below 2 degrees Celsius, preferably to 1.5 degrees, but current emissions trajectories show we are far off track, indicating insufficient global effort. A Super El Ni\u00f1o refers to an exceptionally strong natural climate phenomenon that typically leads to widespread warming of ocean waters in the Pacific, causing significant and often extreme weather pattern shifts globally\u2014from droughts to floods. The combined effect of failing to meet human-driven climate goals and the intensification of natural warming patterns creates a double-pronged crisis, demanding immediate and drastic action. Governments are now under increased pressure to introduce stricter environmental regulations and negotiate new, more ambitious climate commitments to mitigate these intensifying risks.\n\nIn distressing news from Africa, the Ebola outbreak in Congo has now topped 8,000 confirmed cases and remains largely out of control. A significant factor hindering containment efforts is a severe shortage of health workers. The mechanism of an uncontrolled outbreak like this is a grim cycle: Ebola is highly contagious and deadly, requiring intensive public health measures like rapid case identification, isolation, contact tracing, and safe burial practices to stop its spread. When there aren't enough health workers, these critical functions break down. Hospitals become overwhelmed, new cases go undetected, and the virus continues to spread within communities unchecked, leading to an exponential increase in infections. This lack of human resources directly compromises the ability to implement effective containment strategies. International aid agencies will likely increase their support to Congo, focusing on deploying medical personnel and providing essential resources to bolster the overwhelmed healthcare infrastructure.\n\nAustralia\u2019s central bank has taken aggressive action, lifting interest rates to a 15-year high, with signals that further hikes might be on the horizon. This move was widely anticipated by markets, especially after inflation figures for July came in hotter than expected. The central bank's primary tool to combat inflation\u2014which is when prices rise too quickly\u2014is to adjust the cash rate. By increasing this rate, it becomes more expensive for commercial banks to borrow money, and these costs are then passed on to consumers through higher interest rates on loans such as mortgages, car loans, and business credit. The intended mechanism is to reduce overall borrowing and spending in the economy, thereby cooling down demand and bringing price increases back under control. For ordinary Australians, this means that loans and mortgages will become more expensive, directly impacting their household budgets. The central bank will now closely monitor incoming inflation data to inform its next decisions.\n\nTragically, Russia recently launched a major daytime drone strike on Ukraine's capital, Kyiv, resulting in at least seven deaths, including a woman hit at the National Academy of Sciences. These strikes aim to achieve several objectives: they target critical infrastructure, military facilities, and, significantly, civilian morale. Daytime attacks, especially on non-military targets in a capital city, are often designed to inflict psychological damage, disrupt daily life, and demonstrate ongoing military capability despite defensive efforts. The use of drones allows for saturation attacks that can sometimes overwhelm air defense systems, increasing the likelihood of impacts in populated areas and causing civilian casualties. The mechanism of these attacks is not just about physical destruction but also about sowing fear and undermining the civilian population's resilience. Ukraine will undoubtedly strengthen its air defenses, often with international support, to counter these persistent and devastating attacks.\n\nIn a push for technological self-reliance, India is preparing to invest a substantial $25 billion into Deep Tech startups. This strategic move aims to reduce the nation's reliance on foreign technology and help it catch up with global leaders like the U.S. and China. Deep Tech refers to technologies based on fundamental scientific discoveries or significant engineering innovations, such as advanced AI, quantum computing, or biotechnology, often requiring long-term research and development. India's current dependence on imported technology means it often licenses or purchases solutions developed elsewhere, potentially limiting its intellectual property and control over critical digital infrastructure. By investing domestically, India aims to cultivate its own ecosystem of innovation, fostering the creation of proprietary technologies and high-skilled jobs. The mechanism is to build a robust indigenous tech industry that can both serve national needs and become a global competitor, moving India from a technology consumer to a technology producer. This investment is expected to catalyze the emergence of new Indian deep tech startups, attracting further private and international capital.\n\nMeanwhile, the Pentagon's policy chief has indicated that NATO allies support a shift in Europe's defense strategy. This comes amid concerns among European nations that the U.S. might potentially withdraw troops and equipment from the continent. For decades, the presence of U.S. forces has been a foundational pillar of European security, providing a substantial military deterrent and operational capabilities. The perceived threat of a U.S. withdrawal, or even a significant reduction, forces European nations to consider greater self-reliance. The \"shift in strategy\" mechanism means that European members will likely need to significantly increase their defense spending, enhance military interoperability among themselves, and develop more robust, independent defense capabilities to fill any potential gaps left by reduced U.S. engagement. This would translate into Europe taking on a greater share of responsibility for its own security, rather than relying as heavily on American guarantees. NATO will now work to develop new defense plans that adapt to these changing geopolitical dynamics and expectations.\n\nIn space exploration news, NASA has been forced to postpone Boeing's Starliner crewed mission until 2028. This significant delay is due to the need for extensive safety redesigns, following an earlier, uncrewed mission that was reclassified as a \"Type A mishap\"\u2014NASA's most severe classification for an incident. The core mechanism behind such a reclassification and subsequent delay is a commitment to astronaut safety. A Type A mishap indicates a critical failure that could have resulted in loss of life or a catastrophic vehicle loss. This means the initial design, testing, or operational procedures had fundamental flaws that made the spacecraft unsafe for human flight. The \"months, if not years,\" required for redesigns highlight the meticulous and exhaustive process of re-engineering, re-testing, and re-validating every component and system to meet the stringent safety standards for human spaceflight. This delay impacts the U.S.'s ability to independently ferry astronauts to the International Space Station and beyond, pushing back key scientific and exploratory missions. Boeing must now complete these comprehensive safety redesigns before any crewed launch can be attempted.\n\nTurning to the business world, Apple and Amazon are facing a renewed UK antitrust lawsuit. A tribunal in the UK has allowed part of this lawsuit to move forward, which alleges that the tech giants restricted competition for Apple and Beats products sold on the Amazon platform. Antitrust laws are designed to ensure fair market competition, preventing powerful companies from forming monopolies or engaging in practices that harm consumers or smaller businesses. The alleged mechanism of \"restricted competition\" could involve exclusive agreements, preferential product placement, or other arrangements between Apple and Amazon that might have disadvantaged rival brands or limited consumer choices on Amazon's vast marketplace. If these allegations are proven, it would mean that the market was not operating freely, and could lead to significant fines for the companies, requirements to alter their business practices, and potentially more competitive prices and greater product availability for consumers in the UK. The lawsuit will now proceed, likely leading to a detailed discovery process and potentially a lengthy court battle.\n\nAnd finally, key tech executives, including Meta's Mark Zuckerberg and Anthropic CEO Dario Amodei, are scheduled to meet with former President Trump. This meeting is notable as the debate around AI safety has been intensifying, with leaders like Amodei, Elon Musk, and OpenAI CEO Sam Altman calling for a more cautious pace in the development of advanced AI models, often referred to as \"frontier models.\" The mechanism here is direct political engagement. By meeting with a prominent political figure like Trump, who remains highly influential in U.S. politics, these tech executives are directly attempting to shape the political discourse and potential regulatory landscape around artificial intelligence. They will likely be advocating for their perspectives on AI governance, safety, innovation, and the appropriate level of government oversight. Their input could significantly influence future AI policy and regulation, particularly as lawmakers grapple with the complex implications of rapidly advancing AI technology. We can expect further discussions on AI policy and regulation to continue, with a broader range of voices engaging in the conversation.\n\nAs we conclude our news analysis for today, let's turn to a quiet insight that often goes unnoticed. When a scanner reads a barcode at the checkout, it isn't decoding the item's price, name, or description from those familiar black and white stripes. The barcode actually only encodes a single, unique identification number. This number is instantly sent to a central database, which then looks up all the corresponding product details: price, inventory, and description. It\u2019s a lightning-fast lookup system.\n\nThis design is incredibly powerful because it allows stores to change prices, update product information, or manage inventory instantly, all without ever needing to reprint a single barcode. Imagine the logistical nightmare if every price change required re-labeling millions of products across thousands of stores. Instead, the barcode acts as a silent key to a vast, invisible global database. It's how millions of unique products are tracked globally every second, a testament to the quiet elegance of networked information.\n\nThis insight makes us reflect on how often the most powerful and scalable solutions are those that are deceptively simple in their physical manifestation, yet rely on immense, invisible digital infrastructure. It's a quiet testament to the power of a networked world. It makes you wonder how many other \"simple\" things around us are actually keys to enormous, complex systems, silently orchestrating the intricate dance of modern life.\n\nAs you go about your day, perhaps noticing the barcodes on items around you, consider the silent elegance of that system. It's a reminder that even the simplest patterns can unlock vast networks of information. Take a moment to appreciate those quiet connections, and we'll be here tomorrow to help you Sift through the world's deeper stories.",
+    "script": "Welcome to your Sift In-Depth Briefing. Here, we take the time to explore the underlying currents of the news, giving you a full understanding beyond the headlines.\n\nFirst up, a look at global energy markets. Oil prices saw an increase recently after U.S. President Donald Trump publicly denied having offered any sanctions relief to Iran. This denial signals that the current restrictions on Iran's oil exports will remain in place, or even intensify. When the market perceives a tighter supply of oil, as it does when a major producer like Iran is under sanctions, prices tend to rise. Qatar has been attempting to mediate peace talks between the US and Iran, which, if successful, could potentially lead to a de-escalation of tensions and perhaps a future re-entry of Iranian oil into the global market. However, for now, Trump's firm stance means that the expected increase in supply from Iran is off the table, directly contributing to higher prices. The immediate effect for you could be higher costs at the pump and for goods transported globally. The wider implication here is just how sensitive the international energy landscape remains to political shifts and policy decisions in the Middle East.\n\nMeanwhile, a development in the tech world. Former President Trump, alongside the chief executives of major artificial intelligence companies like Google, Anthropic, Meta, OpenAI, X, and Nvidia, recently signed a voluntary pact focused on AI safety. This agreement signifies a collective recognition from both government and industry leaders that as AI becomes more powerful, its development needs guardrails. By signing a *voluntary* pact, these companies are committing to certain safety standards and best practices, aiming to self-regulate to some extent before more stringent government mandates might come into play. The pact also voiced support for expanding the infrastructure that powers AI, specifically data centers. This dual focus suggests a desire to both innovate *and* mitigate potential risks, which could mean that the AI tools you use will integrate more safety features or operate under stricter ethical guidelines moving forward. This moment underscores how governments worldwide are grappling with the challenge of fostering technological advancement while simultaneously managing the complex risks that come with it.\n\nSwitching to global trade. The U.S. trade chief is currently investigating China's \"excess production capacity\" and what's seen as an over-reliance on exports for its economic growth. This investigation could lead to new tariffs on certain trade deals. The core issue is that China, often supported by government subsidies, produces more goods than its domestic market can consume. These goods are then exported globally, sometimes at prices so low that they are considered \"dumping\" \u2013 making it incredibly difficult for companies in other countries, including the U.S., to compete. This creates an uneven playing field. The trade chief's probe is looking into this specific mechanism to determine if these practices are unfair. If confirmed, the U.S. could then implement tariffs, which are taxes on imported goods, to raise their price and protect domestic industries. For consumers, this could translate into higher prices for various imported goods from China. The bigger picture here reflects a broader global trend where countries are increasingly scrutinizing trade practices and moving towards more protectionist measures to safeguard their own economies.\n\nNext, a look at financial stability. Hedge funds now hold a record share of the immense $30 trillion U.S. Treasury market. While these funds can provide liquidity, meaning they make it easier to buy and sell these government bonds, their increasing involvement also introduces a potential risk for financial instability. Hedge funds often operate with significant leverage, meaning they borrow large sums of money to amplify their trading positions. If market conditions suddenly shift against their bets, or if there's a broad market downturn, these highly leveraged funds might be forced to sell off their Treasury holdings rapidly to cover their losses. Such a large-scale, forced selling could flood the market with Treasuries, driving down prices quickly and creating ripple effects that destabilize the wider financial system. This growing concentration of holdings raises questions about market resilience. Regulators are likely to be watching closely, and we might see new rules introduced to monitor these activities more closely to mitigate potential risks. This situation highlights how modern financial systems face evolving systemic risks, particularly from large, interconnected investment vehicles like hedge funds.\n\nMoving to climate action. A recent UN Climate Summit issued urgent calls for global action, prompted by a persistent overshoot of the Paris Agreement's climate targets and the looming threat of a \"Super El Ni\u00f1o\" weather pattern. The Paris Agreement sets goals for limiting global warming, but current emissions trajectories mean we're exceeding those targets. A Super El Ni\u00f1o, a natural climate phenomenon, further compounds this by typically bringing warmer global temperatures and more extreme weather events, intensifying the effects of human-induced climate change. The summit, which brought together civil society, scientists, and even major energy producers, focused on strategies to address these compounding impacts. This renewed urgency could lead to stricter environmental regulations and, potentially, higher costs associated with energy production as countries try to shift away from fossil fuels. Nations will undoubtedly face intensified pressure to commit to and implement more ambitious climate goals in the coming years.\n\nTurning to economic development and innovation. China's spending on research and development, known as R&D, has hit a record 2.8% of its Gross Domestic Product. For the first time ever, this surpasses the average for members of the Organisation for Economic Co-operation and Development, or OECD. This significant investment is part of Beijing's strategic effort to boost its technological self-reliance, meaning it wants to develop its own advanced technologies rather than depend on other countries. By pouring resources into research across various sectors, China aims to foster homegrown innovation and move up the value chain in global manufacturing. This continued focus on R&D suggests that China is set to become a leader in even more advanced technological fields, which could reshape the global balance of power in science and technology, impacting everything from consumer electronics to advanced manufacturing and artificial intelligence.\n\nIn Central Africa, the situation in the Democratic Republic of Congo remains deeply troubling. Despite a series of peace agreements, fighting continues in the eastern part of the country between government forces and M23 rebels. The UN Security Council recently met to discuss the crisis, which is made even more complex by a deepening Ebola crisis. The ongoing conflict disrupts public health efforts, making it incredibly difficult to contain the spread of diseases like Ebola, as access to affected areas is hindered and populations are displaced. This persistent violence and the intertwined health emergency mean instability and immense humanitarian suffering for the citizens of the DRC. The international community, through bodies like the Security Council, will likely intensify its focus on strengthening peacekeeping efforts, monitoring ceasefires, and providing much-needed aid to address the dire humanitarian situation on the ground. This ongoing crisis highlights how complex conflicts are often worsened by concurrent health emergencies and broader political instability.\n\nNext, a look at the economic fallout of the conflict in Ukraine. The country's once-thriving steel industry, a vital component of its economy, has been largely decimated by relentless Russian missile attacks. Critical infrastructure, including remaining steelworks, has been targeted, effectively bringing production to a near halt. This widespread damage has profound implications for Ukraine's ability to rebuild its economy once the war ends, as the steel industry is fundamental to construction and infrastructure development. The disruption of such a significant steel producer could also cause minor ripple effects in global steel supply chains, potentially leading to price fluctuations or supply shortages elsewhere. Ultimately, this destruction underscores the long-term economic devastation that modern warfare inflicts, crippling industrial capacity and setting back recovery efforts for years.\n\nIn India, the central bank recently conducted a significant \"FX blitz,\" draining nearly $20 billion from surplus liquidity in the financial system. It achieved this by utilizing dollar-rupee swaps. Here's how that works: the central bank, in an effort to manage the amount of money flowing through the economy, effectively engaged in transactions where it sold dollars to commercial banks in exchange for rupees, with an agreement to reverse the trade later. By taking rupees out of circulation this way, the central bank reduces the amount of extra cash, or liquidity, available in the banking system. This action aims to control inflation and stabilize the currency. The immediate consequence is that Indian banks will have less capital readily available, which could make them more conservative in issuing new loans. This, in turn, could lead to a slight upward adjustment in India's short-term interest rates. This active management of currency flows is a key tool central banks use to stabilize markets and guide economic conditions.\n\nLooking at technological trends in Asia. Top tech startups in the region are increasingly moving beyond purely software-based solutions and are deploying physical artificial intelligence applications. This means AI is no longer just on your screen; it's being integrated into tangible, real-world environments. For example, AI is now being used to optimize operations in wind farms, making them more efficient, to manage complex logistics in warehouses, improving speed and accuracy, and even being deployed in operating theaters to assist medical procedures. This shift represents a significant evolution in AI's capabilities, as it moves from processing data and performing virtual tasks to directly interacting with and controlling physical systems. This trend indicates that many physical tasks across a wide range of industries are becoming automated and significantly more efficient. Expect to see an acceleration of AI's presence in our tangible world, transforming industries from manufacturing to healthcare and energy.\n\nTurning to human rights. Venezuela's leader has recently admitted to the \"abusive\" use of an anti-hate law, acknowledging that it had been used to justify the arrests of dozens of government critics. This admission confirms concerns from international observers and human rights groups that such laws, often framed with good intentions to combat hate speech, can be weaponized by authoritarian regimes. By broadly interpreting what constitutes \"hate\" or \"incitement,\" authorities can use these legal frameworks to silence dissent and suppress political opposition. This practice creates an environment where freedom of expression and the ability to voice disagreement with the government remain severely at risk for Venezuelan citizens. This admission is likely to intensify international scrutiny and condemnation of Venezuela's human rights practices. It also serves as a stark reminder globally that laws designed to combat hate speech must be carefully crafted and implemented to prevent their misuse as tools for political repression.\n\nAnd finally today, a complex situation involving repatriation. Malaysia has begun a voluntary program to repatriate Myanmar nationals, despite explicit warnings from the UN refugee agency and various human rights groups about unsafe conditions within Myanmar. The term \"voluntary program\" implies that individuals are choosing to return, but the circumstances surrounding such decisions in a country facing severe instability and widespread human rights abuses are often complicated. The UN and rights organizations have highlighted that Myanmar's internal conflict and political unrest mean that returning individuals may face significant safety risks, persecution, or a lack of basic protections. This decision by Malaysia underscores the difficult balance countries face between managing their own immigration policies and upholding international human rights obligations. This move will undoubtedly increase international scrutiny of Malaysia's repatriation policies and reignite conversations about the responsibilities of nations towards refugees and asylum seekers.\n\nAnd now, for a moment of reflection.\n\nToday's insight reminds us of the profound cosmic journey our Sun will one day embark upon. Billions of years from now, after it has exhausted its nuclear fuel, our Sun will shed its outer layers, leaving behind a dense, stellar core known as a white dwarf. Imagine something roughly the size of Earth, yet containing the entire mass of our Sun, slowly, almost imperceptibly, cooling over unimaginable expanses of time.\n\nThis super-compressed remnant, primarily carbon and oxygen, will undergo a truly magnificent transformation. Over eons, as it continues to cool, the extreme pressure within will cause these elements to crystallize, solidifying into a colossal, cosmic diamond. A diamond, not of the Earth, but of a future sun, silent and still. It's a humbling thought, isn't it? That the fiery heart of our solar system, the source of all life and light we know, will eventually become a celestial jewel, a testament to the universe's incredible transformations. It leaves us to wonder what other silent wonders are forming in the cosmos, far beyond our current comprehension.\n\nThank you for joining us for this in-depth exploration of today's news. Take a moment to let these stories settle, and enjoy the rest of your day.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 780
+    "estimatedDurationSeconds": 726
   },
   "candidatePool": [
     {
-      "title": "Hundreds set up tent encampments in Madrid over housing crisis",
-      "description": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
+      "title": "Trump calls Kim Jong Un a \u2018friend\u2019 and plays down N Korea\u2019s nuclear arsenal",
+      "description": "US president s comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Housing affordability concerns are growing for Madrid residents.",
-      "context": "Hundreds set up tent camps in Madrid protesting soaring housing costs.",
-      "next": "Madrid's government may face increased pressure to address housing.",
-      "bigger": "Global cities are grappling with persistent housing affordability challenges.",
-      "publishedAt": "2026-09-28T21:12:29+00:00",
-      "topicFingerprint": [
-        "housing",
-        "crisis",
-        "spain",
-        "protests",
-        "woman"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Indian firms ready US$3 billion of debt issues with eye on potential RBI rate hike",
-      "description": "The move comes ahead of the central bank\u2019s October 7 monetary policy decision",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indian-firms-ready-us3-billion-debt-issues-eye-potential-rbi-rate-hike",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Borrowing costs for businesses in India may rise soon.",
-      "context": "Indian firms are preparing $3 billion in debt issues before a potential rate hike.",
-      "next": "The Reserve Bank of India will announce its monetary policy decision.",
-      "bigger": "Businesses are proactively managing debt amidst rising interest rates.",
-      "publishedAt": "2026-09-28T10:37:35+00:00",
-      "topicFingerprint": [
-        "hike",
-        "eye",
-        "debt",
-        "rbi",
-        "indian"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Anti-South Asian \u2018hate speech\u2019 on X surges by 240%, US report finds",
-      "description": "Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Online platforms may become less safe for minority groups.",
-      "context": "Anti-South Asian hate speech on X (formerly Twitter) surged by 240%.",
-      "next": "Social media platforms may face pressure to combat hate speech.",
-      "bigger": "Online platforms struggle with content moderation and hate speech.",
-      "publishedAt": "2026-09-28T22:05:43+00:00",
-      "topicFingerprint": [
-        "asian",
-        "speech",
-        "finds",
-        "south",
-        "surges"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trade agreement can contribute to \u2018better\u2019 India-US ties: EAM Jaishankar",
-      "description": "Trade agreement can contribute to \u2018better\u2019 India-US ties: EAM Jaishankar",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/trade-agreement-can-contribute-to-better-india-us-ties-eam-jaishankar-101790657775260.html",
+      "url": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 10,
-      "why": "Improved trade relations could increase product availability.",
-      "context": "India's EAM Jaishankar stated a trade agreement could improve India-US ties.",
-      "next": "India and the US will likely continue trade negotiations.",
-      "bigger": "Trade agreements are crucial for strengthening international relations.",
-      "publishedAt": "2026-09-29T10:26:14+05:30",
+      "score": 15,
+      "why": "US foreign policy towards nuclear proliferation appears inconsistent.",
+      "context": "Trump called Kim Jong Un a \"friend\" and downplayed North Korea's nuclear arsenal. These comments contrast with his stance on Iran's nuclear program.",
+      "next": "North Korea may feel emboldened to continue its nuclear program.",
+      "bigger": "Personal diplomacy can overshadow established geopolitical strategies.",
+      "publishedAt": "2026-09-30T06:48:09+00:00",
       "topicFingerprint": [
-        "ties",
-        "contribute",
-        "jaishankar",
-        "eam",
-        "agreement"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Sushi wars roll into America as Japan\u2019s top chains face off",
-      "description": "As Sushiro re-enters the US, it joins a crowded market where sushi trade has grown more mature in recent years",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/lifestyle/sushi-wars-roll-america-japans-top-chains-face",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "US consumers may see more varied sushi options and prices.",
-      "context": "Japanese sushi chains are intensifying competition in the US market.",
-      "next": "New sushi restaurants will open, increasing market competition.",
-      "bigger": "International food chains are expanding into new global markets.",
-      "publishedAt": "2026-09-28T09:08:55+00:00",
-      "topicFingerprint": [
-        "face",
-        "sushi",
-        "japan",
-        "roll",
-        "top"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Slovenia\u2019s U-turn towards Israel",
-      "description": "Slovenia\u2019s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Slovenia's diplomatic stance in the region has changed.",
-      "context": "Slovenia's policy towards Palestine shifted after a meeting with Israel's PM.",
-      "next": "Slovenia's future foreign policy decisions will be observed closely.",
-      "bigger": "International relations are frequently reshaped by diplomatic engagements.",
-      "publishedAt": "2026-09-28T20:35:51+00:00",
-      "topicFingerprint": [
-        "turn",
-        "israel",
-        "slovenia",
-        "towards"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "WFP official on addressing global hunger in face of wars and climate disasters",
-      "description": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toughest jobs. Hundreds of millions around the world go hungry every day, and reaching as many as possibl",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Food aid distribution to vulnerable populations faces ongoing challenges.",
-      "context": "A new WFP executive director will address global hunger amid crises.",
-      "next": "The WFP will implement new strategies to combat global food insecurity.",
-      "bigger": "Global hunger remains a pressing issue compounded by various crises.",
-      "publishedAt": "2026-09-28T18:25:11-04:00",
-      "topicFingerprint": [
-        "face",
-        "disasters",
-        "climate",
-        "addressing",
-        "hunger"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Africa\u2019s space ambitions are moving from policy to practice",
-      "description": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Africa will develop more localized satellite services and technology.",
-      "context": "African nations are transitioning from space policy to practical projects.",
-      "next": "More African countries will launch their own space initiatives.",
-      "bigger": "Developing nations are increasingly investing in space technology.",
-      "publishedAt": "2026-09-29T00:26:22+00:00",
-      "topicFingerprint": [
-        "space",
-        "africa",
-        "ambitions",
-        "moving",
-        "practice"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Japan enlists royal visit, subsidies to revive tourism in quake-hit Kyushu",
-      "description": "Travel companies in southern Japan are pinning their hopes on a business revival following a planned visit by Emperor Naruhito and Empress Masako to the areas hardest hit by a major earthquake this summer. The imperial couple, who were scheduled to meet communities in Kumamoto prefecture on Tuesday,",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/economics/article/3369071/japan-enlists-royal-visit-subsidies-revive-tourism-quake-hit-kyushu",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Tourism businesses in Kyushu aim to recover economic losses.",
-      "context": "Japan is using royal visits and subsidies to revive Kyushu's quake-hit tourism.",
-      "next": "Kyushu expects an increase in tourist arrivals and economic activity.",
-      "bigger": "Governments use strategic initiatives to aid disaster-affected regions.",
-      "publishedAt": "2026-09-29T01:30:15+00:00",
-      "topicFingerprint": [
-        "royal",
-        "enlists",
-        "japan",
-        "hit",
-        "tourism"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US Fed watchdog flags apparent data breaches by retiring staff member",
-      "description": "The apparent breaches did not ultimately trigger a formal misconduct finding.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/us-fed-watchdog-flags-apparent-data-breaches-by-retiring-staff-member",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Government data security protocols require continuous strengthening.",
-      "context": "A US Fed watchdog flagged apparent data breaches by a retiring staff member.",
-      "next": "The US Fed will likely review and enhance its data security measures.",
-      "bigger": "Insider threats remain a significant challenge for data security.",
-      "publishedAt": "2026-09-29T08:12:00+08:00",
-      "topicFingerprint": [
-        "retiring",
-        "breaches",
-        "apparent",
-        "member",
-        "staff"
+        "iran",
+        "us_entity",
+        "donald_trump",
+        "war",
+        "oil"
       ],
       "alternates": [
         {
-          "title": "US Fed watchdog flags apparent data breaches by retiring staff member",
-          "description": "The employee removed information without seeking approval",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us-fed-watchdog-flags-apparent-data-breaches-retiring-staff-member",
-          "category": "General",
-          "publishedAt": "2026-09-28T23:07:19+00:00",
-          "score": 6,
+          "title": "\u2018Kim Jong Un a friend\u2019: Trump's reasoning on why North Korea can have nuclear weapons but Iran cannot",
+          "description": "Donald Trump said North Korea had a \u201cpretty large\u201d nuclear arsenal and blamed previous US administrations for failing to stop its nuclear programme.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/kim-jong-un-a-friend-trumps-reasoning-on-why-north-korea-can-have-nuclear-weapons-but-iran-cannot-101790740208430.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-09-30T10:27:43+05:30",
+          "score": 8,
           "readingTime": 2,
           "topicFingerprint": [
-            "retiring",
-            "breaches",
-            "apparent",
-            "member",
-            "staff"
+            "iran",
+            "us_entity",
+            "donald_trump",
+            "war",
+            "oil"
+          ],
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney layoffs: New CEO announces major job cuts in HR and tech roles - 5 things to know",
+      "description": "Disney is reducing its workforce by nearly 300 employees as part of restructuring efforts led by CEO Josh D'Amaro.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/disney-layoffs-new-ceo-announces-major-job-cuts-in-hr-and-tech-roles-5-things-to-know-101790706284130.html",
+      "category": "General",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Hiring in the entertainment tech sector may slow down.",
+      "context": "Disney announced nearly 300 job cuts in HR and tech roles. This is part of a restructuring effort by the new CEO.",
+      "next": "Other large media companies might follow with similar restructurings.",
+      "bigger": "Companies are streamlining operations amid economic uncertainties.",
+      "publishedAt": "2026-09-30T00:08:26+05:30",
+      "topicFingerprint": [
+        "employees",
+        "josh",
+        "disney",
+        "layoffs",
+        "amaro"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
+      "description": "Mar\u00eda del Carmen Abascal's case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country's housing crisis.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Spain's government may implement new renter protections soon.",
+      "context": "An 87-year-old woman, whose eviction sparked protests, is returning home. The case prompted Spain to propose housing crisis measures.",
+      "next": "Public pressure could lead to broader reforms in housing policy.",
+      "bigger": "Housing affordability crises are driving social and political action.",
+      "publishedAt": "2026-09-30T03:07:42-04:00",
+      "topicFingerprint": [
+        "eviction",
+        "people",
+        "crisis",
+        "old",
+        "spain"
+      ],
+      "alternates": [
+        {
+          "title": "Spain to ban evictions and fix housing crisis as evicted 87-year-old returns",
+          "description": "Spain plans to ban evictions of vulnerable people until 2030 and address its housing crisis after protests over an 87-year-old pensioner's eviction.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/5c93fc86-5355-4b17-bd16-71cb04473ef9.html",
+          "category": "General",
+          "publishedAt": "2026-09-29T20:59:37+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "eviction",
+            "people",
+            "crisis",
+            "old",
+            "spain"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "French hotels, souvenir shops benefit from pope business boost",
-      "description": "Monday is the final day of Pope Leo'svisit to France and the trip has been marked not only by an outpouring of emotion from France's Catholics but also flurry of economic activity. The first figures are beginning to come in from the pope's trip, and unsurprisingly, they're showing a big boost in tou",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-french-hotels-souvenir-shops-benefit-from-pope-business-boost",
+      "title": "New portal allows S\u2019pore businesses to access grants and calculate tariffs",
+      "description": "The BizSG initiative is jointly led by the Ministry of Energy, Trade and Industry, and EnterpriseSG.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/new-portal-allows-spore-businesses-to-access-grants-and-calculate-tariffs",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Singaporean businesses may find grants and trade information easier.",
+      "context": "Singapore launched BizSG, a new portal for businesses. It allows access to grants and tariff calculation.",
+      "next": "More businesses will likely utilize the streamlined digital services.",
+      "bigger": "Governments are digitizing services to support local economies.",
+      "publishedAt": "2026-09-30T11:55:00+08:00",
+      "topicFingerprint": [
+        "pore",
+        "calculate",
+        "grants",
+        "tariffs",
+        "businesses"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Crystal Jade Fine Dining faces charge over failure to file income tax return on time",
+      "description": "Its parent company Crystal Jade has also shuttered a string of outlets this year.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/crystal-jade-fine-dining-faces-charge-for-failing-to-file-income-tax-returns-on-time",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Legal compliance failures can lead to business penalties.",
+      "context": "Crystal Jade Fine Dining is charged for failing to file income tax. Its parent company has also closed several outlets.",
+      "next": "The company may face fines and reputational damage.",
+      "bigger": "Economic pressures are challenging even established F&B businesses.",
+      "publishedAt": "2026-09-29T19:10:00+08:00",
+      "topicFingerprint": [
+        "jade",
+        "dining",
+        "faces",
+        "return",
+        "file"
+      ],
+      "alternates": [
+        {
+          "title": "Crystal Jade Fine Dining faces charge for failing to file income tax return on time",
+          "description": "The court hearing was adjourned for four weeks after the company\u2019s representative failed to turn up on Sept 29",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/singapore/crystal-jade-fine-dining-faces-charge-failing-file-income-tax-return-time",
+          "category": "Policy",
+          "publishedAt": "2026-09-29T13:47:47+00:00",
+          "score": 6,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "jade",
+            "dining",
+            "faces",
+            "return",
+            "file"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Judge rules Mamdani's pied-\u00e0-terre tax rollout needs a do-over",
+      "description": "New York City plans to place a tax on multi-million-dollar second homes. A judge ruled Tuesday that its rollout needs to be redone.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/mamdanis-pied-a-terre-tax-rollout-was-botched-judge-rules-2026-9",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 10,
+      "why": "New York City's wealthy homeowners may face new taxes later.",
+      "context": "A judge ruled New York City's pied-\u00e0-terre tax rollout needs a do-over. The city plans to tax multi-million-dollar second homes.",
+      "next": "The city will likely revise its tax implementation strategy.",
+      "bigger": "Cities are seeking new revenue sources from luxury properties.",
+      "publishedAt": "2026-09-29T21:38:03+00:00",
+      "topicFingerprint": [
+        "york",
+        "city",
+        "terre",
+        "homes",
+        "mamdani"
+      ],
+      "alternates": [
+        {
+          "title": "Judge orders Mamdani administration to cancel pied-\u00e0-terre tax notices and start over",
+          "description": "The ruling leaves New York City\u2019s tax on luxury second homes in place but wipes out the thousands of warnings the city mailed this summer.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/09/29/judge-orders-mamdani-administration-to-cancel-pied-a-terre-tax-notices-and-start-over/",
+          "category": "Financial",
+          "publishedAt": "2026-09-29T21:15:48+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "york",
+            "city",
+            "terre",
+            "homes",
+            "mamdani"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "How can the same El Ni\u00f1o cause drought in one part of the world and floods in another?",
+      "description": "The climate science behind 2026\u2019s super El Ni\u00f1o.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/how-can-the-same-el-nino-cause-drought-in-one-part-of-the-world-and-floods-in-another-293013",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Expect more unpredictable and extreme weather patterns globally.",
+      "context": "A Super El Ni\u00f1o event is projected for 2026. This phenomenon can cause varied extreme weather globally.",
+      "next": "Communities will need to prepare for diverse climate impacts.",
+      "bigger": "Climate change is amplifying natural weather phenomena like El Ni\u00f1o.",
+      "publishedAt": "2026-09-29T14:53:29+00:00",
+      "topicFingerprint": [
+        "nio",
+        "floods",
+        "drought",
+        "another",
+        "cause"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "This year's MacArthur Fellows include researchers who fuse science and justice",
+      "description": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at the intersection of science and justice.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Innovative research linking science and social justice will advance.",
+      "context": "The MacArthur Foundation announced 20 new \"genius\" fellows. Researchers fusing science and justice were recognized.",
+      "next": "These fellows will pursue impactful work in their respective fields.",
+      "bigger": "Philanthropy supports groundbreaking research at the intersection of disciplines.",
+      "publishedAt": "2026-09-29T12:03:34-04:00",
+      "topicFingerprint": [
+        "macarthur",
+        "researchers",
+        "include",
+        "fellows",
+        "science"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "U.S.-Iran talks yield little, raising odds of renewed combat",
+      "description": "Efforts this week by Qatari mediators to broker a diplomatic breakthrough between the U.S. and Iran have made little progress, with neither side willing to budge, according to three sources familiar with the talks. Why it matters: The stalemate bolsters the belief on both sides that a renewed milita",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Regional tensions in the Middle East may intensify further.",
+      "context": "US-Iran diplomatic talks, mediated by Qatar, made little progress. Neither side was willing to compromise.",
+      "next": "The risk of renewed military conflict between the US and Iran increases.",
+      "bigger": "Diplomatic stalemates often precede periods of heightened conflict.",
+      "publishedAt": "2026-09-29T22:27:09+00:00",
+      "topicFingerprint": [
+        "combat",
+        "us_entityiran",
+        "raising",
+        "renewed",
+        "odds"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Why MAHA wants to make health data much more accessible",
+      "description": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Medical research for new treatments could accelerate.",
+      "context": "MAHA Institute advocated for more accessible health data. This would benefit researchers studying vaccines and diseases.",
+      "next": "Policymakers may explore new regulations for health data sharing.",
+      "bigger": "Data accessibility is crucial for accelerating scientific and medical breakthroughs.",
+      "publishedAt": "2026-09-29T08:30:00+00:00",
+      "topicFingerprint": [
+        "data",
+        "wants",
+        "maha",
+        "accessible"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
+      "description": "\"Many of the current disputes between Europe and the U.S. are minor compared with this agreement's size and benefits,\" the JPMorgan boss wrote this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
       "category": "Progress",
       "readingTime": 2,
-      "score": 4,
-      "why": "Tourism and local businesses benefited from increased visitors.",
-      "context": "Pope Leo's visit boosted business for French hotels and souvenir shops.",
-      "next": "Local businesses will see a return to normal post-visit operations.",
-      "bigger": "Major events often provide significant short-term economic boosts.",
-      "publishedAt": "2026-09-28T16:48:33+00:00",
+      "score": 6,
+      "why": "US and European economic cooperation could strengthen significantly.",
+      "context": "Jamie Dimon proposed a \"big, beautiful\" deal with Europe. He believes it could revive the West and resolve minor disputes.",
+      "next": "Leaders may consider new frameworks for transatlantic collaboration.",
+      "bigger": "Geopolitical challenges are prompting calls for greater Western unity.",
+      "publishedAt": "2026-09-29T17:34:18+00:00",
       "topicFingerprint": [
-        "benefit",
-        "pope",
-        "shops",
-        "souvenir",
-        "french"
+        "west",
+        "dimon",
+        "beautiful",
+        "revive",
+        "eu_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "description": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
+      "source": "Mit Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 3,
+      "why": "Border security effectiveness may not match spending.",
+      "context": "US virtual border wall surveillance towers are failing. Billions were spent, but effectiveness remains low.",
+      "next": "Lawmakers may question the continued funding of virtual border technology.",
+      "bigger": "Technology solutions for complex social issues often face limitations.",
+      "publishedAt": "2026-09-28T22:17:07+00:00",
+      "topicFingerprint": [
+        "roundtables",
+        "wall",
+        "border",
+        "failures",
+        "deadly"
       ],
       "alternates": []
     }
@@ -699,40 +685,63 @@
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "Why is JPMorgan expanding in China? CEO Dimon sees another decade of sharp growth",
-        "description": "JPMorgan Chase, the world\u2019s top bank by market capitalisation, plans to expand hiring and technology investment across mainland China and Hong Kong and is looking to take advantage of the city\u2019s strengthening capital markets as well as its platform for serving companies operating in and out of the C",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/banking-finance/article/3369009/why-jpmorgan-expanding-china-ceo-dimon-sees-another-decade-sharp-growth",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "North Korea has recently completed two road bridges easing transport to strategic allies Russia and China",
+        "description": "Two recently opened bridges are expected to ease trade and transport between North Korea and its powerful neighbors. The new connections come as Pyongyang builds strategic ties with China and Russia.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-29T06:00:05+00:00",
+        "publishedAt": "2026-09-29T13:35:00+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: investment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ceo"
+            "reason": "important keyword match: russia"
           },
           {
             "points": 2,
             "reason": "important keyword match: china"
           },
           {
-            "points": 3,
-            "reason": "company keyword match: jpmorgan chase"
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "easing",
+          "north",
+          "bridges",
+          "russia",
+          "transport"
+        ]
+      },
+      {
+        "title": "Looming interest rate rises will not hit Hong Kong as hard as 2022: analysts",
+        "description": "Hong Kong looks set to be hit by a wave of interest rate rises in the coming months, but the city\u2019s property market is unlikely to suffer the same level of damage as during the last rate cycle in 2022-2023, according to analysts. Though major Hong Kong banks have so far held rates steady despite the",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/markets/article/3369265/looming-interest-rate-rises-will-not-hit-hong-kong-hard-2022-analysts",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T02:02:57+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
@@ -744,60 +753,15 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "another",
-          "dimon",
-          "growth",
-          "expanding",
-          "decade"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "As global markets extend trading hours, South Korea tests the case in Asia",
-        "description": "Analysts say it is too early to tell whether the new evening session is generating genuinely new liquidity",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/global-markets-extend-trading-hours-south-korea-tests-case-asia",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-29T01:00:00+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 1,
             "reason": "large scale impact boost"
           },
           {
             "points": 4,
-            "reason": "Impact priority base match: liquidity"
+            "reason": "Impact priority base match: interest rate"
           },
           {
-            "points": -2,
-            "reason": "low quality group match: say"
+            "points": 2,
+            "reason": "Impact priority title match: interest rate"
           },
           {
             "points": 1,
@@ -807,421 +771,210 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "sk_entity",
-          "hours",
-          "asia",
-          "case",
-          "extend"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat",
-        "description": "The central bank also introduces S$20 million market-making grant under Gems scheme",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/mas-allocates-s1-45-billion-five-asset-managers-third-eqdp-batch-chee-hong-tat",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-29T03:07:07+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "MAS appoints five new asset managers, to inject $1.45b to boost Singapore equities",
-            "description": "They are the third batch of asset managers under the $6.5 billion Equity Market Development Programme.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/companies-markets/mas-appoints-five-new-asset-managers-to-inject-1-45b-to-boost-singapore-equities",
-            "category": "Progress",
-            "publishedAt": "2026-09-29T11:00:00+08:00",
-            "score": 6,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "asset",
-              "billion",
-              "third",
-              "managers",
-              "mas"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "asset",
-          "billion",
-          "third",
-          "managers",
-          "mas"
-        ]
-      },
-      {
-        "title": "Singapore shares end higher as bank counters rise; STI up 0.3%",
-        "description": "UOB leads the gainers on the blue-chip index, rising 1.7%",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-shares-end-higher-bank-counters-rise-sti-0-3",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T10:17:23+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: chip"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -2,
-            "reason": "Singapore-local Business Times article"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "higher",
-          "rise",
-          "sti",
-          "singapore",
-          "counters"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Foreign Secretary discusses Russia sanctions, India-US ties in meeting with US Congressional delegation",
-        "description": "India-US ties, energy security and the newly enacted Russia sanctions law were among the key issues discussed during Vikram Misri\u2019s meeting with a US Congressional delegation in New Delhi.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/india-us-foreign-secretary-vikram-misri-brian-mast-russia-sanctions-law-19999940.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T13:51:27+05:30",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "delegation",
-          "secretary",
-          "ties",
-          "congressional",
-          "meeting"
-        ]
-      },
-      {
-        "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-        "description": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-09-29T00:50:19+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: law"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "conversion",
-          "sign",
-          "law",
-          "indian",
-          "churchgoers"
+          "interest",
+          "rate",
+          "hong",
+          "kong",
+          "analysts"
         ]
       }
     ],
     "united_states": [
       {
-        "title": "Foreign Secretary discusses Russia sanctions, India-US ties in meeting with US Congressional delegation",
-        "description": "India-US ties, energy security and the newly enacted Russia sanctions law were among the key issues discussed during Vikram Misri\u2019s meeting with a US Congressional delegation in New Delhi.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/india-us-foreign-secretary-vikram-misri-brian-mast-russia-sanctions-law-19999940.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Environment",
+        "title": "Gold edges up from 7-week low; all eyes on Middle East, US economic data",
+        "description": "Spot gold rose 0.7 per cent to US$4,143.87 per ounce.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/gold-edges-up-from-7-week-low-all-eyes-on-middle-east-us-economic-data",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-28T13:51:27+05:30",
+        "publishedAt": "2026-09-29T15:54:00+08:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 10,
         "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: law"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: russia"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "delegation",
-          "secretary",
-          "ties",
-          "congressional",
-          "meeting"
-        ]
-      },
-      {
-        "title": "World News in Brief: Refugee funding, US migration policy triggers \u2018cascade\u2019 of rights violations, world forests report, restorative justice in Colombia",
-        "description": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding \u2013 combined with the impact of climate change \u2013 the UN Children\u2019s Fund, UNICEF, said on Monday.",
-        "source": "UN News",
-        "url": "https://news.un.org/feed/view/en/story/2026/09/1168467",
-        "fromUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T12:00:00+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: migration"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 0,
-            "reason": "skipped say/says/said penalty because report exists"
-          },
-          {
-            "points": -2,
-            "reason": "low quality + colon headline match: said"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "brief",
-          "forests",
-          "restorative",
-          "funding",
-          "refugee"
-        ]
-      }
-    ],
-    "australia": [
-      {
-        "title": "Plan for controversial Sydney data centre scrapped after push-back",
-        "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T12:47:09+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: environment"
-          },
           {
             "points": 2,
             "reason": "important keyword match: data"
           },
           {
             "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
             "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Australian firm drops US$842 million Sydney data centre plan after public fury",
-            "description": "Australian industrial property developer Goodman Group has withdrawn an application to develop a 24-hour data centre on Sydney\u2019s north shore following public push back. Goodman said it would not proceed with its Project Mars development application after considering evolving federal and state policy",
-            "source": "South China Morning Post",
-            "url": "https://www.scmp.com/news/asia/australasia/article/3369125/australian-firm-drops-us842-million-sydney-data-centre-plan-after-public-fury",
-            "category": "Technology",
-            "publishedAt": "2026-09-29T01:28:20+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "centre",
-              "data",
-              "property",
-              "plan",
-              "sydney"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "centre",
-          "data",
-          "property",
-          "plan",
-          "sydney"
-        ]
-      },
-      {
-        "title": "Australia's Codan jumps to record high on robust forecast",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/australias-codan-jumps-record-high-robust-forecast-6417546",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-09-29T12:33:28+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: forecast"
-          },
-          {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "forecast",
-          "codan",
-          "robust",
-          "record",
-          "jumps"
+          "low",
+          "gold",
+          "data",
+          "edges",
+          "east"
+        ]
+      },
+      {
+        "title": "US Federal Reserve\u2019s Williams sees one more interest rate hike in late 2026",
+        "description": "But he said there was no urgency to act following the Fed's decision to lift rates this month.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/economy/us-federal-reserves-williams-sees-one-more-interest-rate-hike-in-late-2026",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T08:55:00+08:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: interest rate"
+          },
+          {
+            "points": 2,
+            "reason": "Impact priority title match: interest rate"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 2,
+        "alternates": [],
+        "topicFingerprint": [
+          "us_entity",
+          "treasury",
+          "yields",
+          "highest",
+          "rate"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "New Mexico and Arizona flooding update: Flash flood videos emerge as evacuations ordered",
+        "description": "Severe flash flooding is underway between Garfield and Salem in Do\u00f1a Ana County after officials warned of the imminent failure of McLeod Dam.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/new-mexico-and-arizona-flooding-update-flash-flood-videos-emerge-as-evacuations-ordered-101790721939419.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T04:41:00+05:30",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: flood"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 3,
+            "reason": "environment important keyword match: flood"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "McLeod Dam update: Which Dona Ana County areas are at risk as dam failure looms? Flash Flood Emergency issued",
+            "description": "Do\u00f1a Ana County ordered evacuations for rural areas between Salem and Garfield as McLeod Dam faces imminent failure amid flash flood risks.",
+            "source": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/world-news/us-news/nm-mcleod-dam-update-which-dona-ana-county-areas-are-at-risk-as-dam-failure-looms-flash-flood-emergency-issue-101790717114685.html",
+            "category": "Environment",
+            "publishedAt": "2026-09-30T03:19:32+05:30",
+            "score": 6,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "garfield",
+              "salem",
+              "doa",
+              "ordered",
+              "evacuations"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "garfield",
+          "salem",
+          "doa",
+          "ordered",
+          "evacuations"
         ]
       }
     ],
     "uae": [
+      {
+        "title": "UAE vice president visits Saudi Arabia in first visit since rift",
+        "description": "Sept 29 - UAE Vice President Sheikh Mansour bin Zayed Al Nahyan visited Saudi Arabia on Tuesday and met with the Saudi Crown Prince Mohammed bin Salman and the kingdom's defence minister, the first visit by a senior UAE official to the kingdom since a deep rift emerged between the two Gulf powers la",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/uae-vice-president-visits-saudi-arabia-in-first-visit-since-rift",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T04:17:51+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: saudi arabia"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "arabia",
+          "visits",
+          "saudi",
+          "rift",
+          "visit"
+        ]
+      },
       {
         "title": "UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal",
         "description": "India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year.",
@@ -1232,7 +985,7 @@
         "readingTime": 2,
         "publishedAt": "2026-09-29T03:00:17+05:30",
         "reason": "within_48h",
-        "score": 7,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
@@ -1259,119 +1012,84 @@
             "reason": "Lowerst Quality Source match: The Hindu"
           },
           {
-            "points": 1,
-            "reason": "less than 12 hours"
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "energy",
           "india",
-          "uae_entity",
           "investment",
-          "goyal"
+          "ports",
+          "another",
+          "energy"
         ]
-      },
+      }
+    ],
+    "singapore": [
       {
-        "title": "Israel files security complaint after TV station reports Netanyahu\u2019s secret UAE visit",
-        "description": "Israel\u2019s domestic security service filed a complaint against a television channel that reported Prime Minister Benjamin Netanyahu visited the UAE, his office said on Monday, the government\u2019s first acknowledgement of the trip despite not naming the destination. \u201cThis evening the Shin Bet filed a comp",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3369118/israel-security-agency-files-complaint-over-tv-report-netanyahu-visited-uae",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
+        "title": "Electricity tariff for Singapore households to fall by 10.4% in 4th quarter of 2026",
+        "description": "The overall tariff before GST, including that for non-households, will fall by an average of 10.6%",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/singapore/electricity-tariff-singapore-households-fall-10-4-4th-quarter-2026",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-09-28T22:25:11+00:00",
+        "publishedAt": "2026-09-30T04:32:16+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: tariff"
           },
           {
             "points": 2,
-            "reason": "important keyword match: security"
+            "reason": "important keyword match: electricity"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: israel"
+            "points": 4,
+            "reason": "geopolitics category"
           },
           {
             "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "netanyahu",
-          "benjamin",
-          "israel",
-          "uae_entity",
-          "visit"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "Rolls-Royce to invest US$398 million in UK manufacturing",
-        "description": "[LONDON] British engine maker Rolls-Royce will invest \u00a3300 million (US$397.9 million) to build and upgrade manufacturing and engineering facilities in the UK...",
-        "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/rolls-royce-invest-us398-million-uk-manufacturing",
-        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T13:29:07+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
+            "reason": "Singapore-local Business Times article"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "royce",
-          "invest",
-          "us_entity398",
-          "rolls",
-          "manufacturing"
+          "4th",
+          "fall",
+          "electricity",
+          "households",
+          "quarter"
         ]
       },
       {
-        "title": "Aldi to invest US$1.2 billion in Britain in 2027",
-        "description": "This includes opening 40 new stores and boosting its distribution network",
+        "title": "MAS allocates S$1.45 billion to five asset managers in third EQDP batch: Chee Hong Tat",
+        "description": "The central bank also introduces S$20 million market-making grant under Gems scheme",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/companies-markets/aldi-invest-us1-2-billion-britain-2027",
+        "url": "https://www.businesstimes.com.sg/companies-markets/mas-allocates-s1-45-billion-five-asset-managers-third-eqdp-batch-chee-hong-tat",
         "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-09-28T08:18:48+00:00",
+        "publishedAt": "2026-09-29T03:07:07+00:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: market"
           },
           {
             "points": 2,
@@ -1380,129 +1098,10 @@
           {
             "points": 1,
             "reason": "High Quality Source match: Business Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "us_entity12",
-          "invest",
-          "uk_entity",
-          "aldi",
-          "billion"
-        ]
-      }
-    ],
-    "europe": [
-      {
-        "title": "Leo the moderate? Pope in France defends EU values",
-        "description": "There's a new Pope in town and he's got very different ideas on what France's far-right calls the defense of Christian civilization. Leo the 14th concluding his trip to France in the eastern city of Metz, hometown of a founding father of present-day European federalism Maurice Schumann. There, the h",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T18:49:50+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "france",
-          "pope",
-          "leo",
-          "metz",
-          "ideas"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Leo the moderate? Pope in France defends EU values",
-        "description": "There's a new Pope in town and he's got very different ideas on what France's far-right calls the defense of Christian civilization. Leo the 14th concluding his trip to France in the eastern city of Metz, hometown of a founding father of present-day European federalism Maurice Schumann. There, the h",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T18:49:50+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: defense"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "france",
-          "pope",
-          "leo",
-          "metz",
-          "ideas"
-        ]
-      }
-    ],
-    "brazil": [
-      {
-        "title": "BRAZIL: \u2018Resistance Is Intergenerational, and Art Is How Energy Gets Renewed\u2019",
-        "description": "CIVICUS discusses the role of art in climate and rights struggles in the Brazilian Amazon with Tom Wheeler, executive director and co-founder of Treesistance. Treesistance is a platform operated by the Netherlands-based Sinchi Foundation that partners with Indigenous communities across four Brazilia",
-        "source": "Inter Press Service",
-        "url": "https://www.ipsnews.net/2026/09/brazil-resistance-is-intergenerational-and-art-is-how-energy-gets-renewed/",
-        "fromUrl": "https://www.ipsnews.net/feed/",
-        "category": "Environment",
-        "readingTime": 2,
-        "publishedAt": "2026-09-28T04:17:55+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: energy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: climate"
           },
           {
             "points": 3,
-            "reason": "company keyword match: amazon"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
+            "reason": "Impact priority base match: central bank"
           },
           {
             "points": -3,
@@ -1512,57 +1111,335 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "intergenerational",
-          "gets",
-          "resistance",
-          "renewed",
-          "art"
+          "third",
+          "hong",
+          "billion",
+          "eqdp",
+          "batch"
         ]
       }
     ],
-    "italy": [
+    "india": [
       {
-        "title": "Italy's Meloni passes by-election test against new far-right rival",
-        "description": "ROME, Sept 28 - Italy's ruling coalition won a closely watched by-election in the southern region of Calabria on Monday, the first major test for Prime Minister Giorgia Meloni against a new far-right foe ahead of a general election due next year.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/italys-meloni-passes-by-election-test-against-new-far-right-rival",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
+        "title": "DoorDash to create 3,000 jobs at global tech\u00a0centre in India",
+        "description": "",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/doordash-to-create-3000-jobs-at-global-techcentre-in-india-4924243",
+        "fromUrl": "https://www.investing.com/rss/news.rss",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-09-29T00:07:34+08:00",
+        "publishedAt": "2026-09-30T07:24:28+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 8,
         "score_debug": [
           {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
+            "points": 2,
+            "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: jobs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: Investing.com"
           },
           {
             "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "meloni",
-          "italy",
-          "election",
-          "test",
-          "right"
+          "india",
+          "doordash",
+          "jobs",
+          "techcentre"
+        ]
+      },
+      {
+        "title": "Apple Pay now rolling out to Axis Bank customers in India [U]",
+        "description": "Update, 10:13 p.m. ET : Apple has now confirmed the launch for \u201ccustomers with Axis Bank-issued Visa and Mastercard credit cards.\u201d The original story follows below. Nearly twelve years to the day after Apple first announced Apple Pay, the feature is now rolling out in India, one of the few major mar",
+        "source": "9To5Mac",
+        "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
+        "fromUrl": "https://9to5mac.com/feed/",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T01:19:30+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: customers"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: apple"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: 9To5Mac"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "topicFingerprint": [
+          "india",
+          "apple",
+          "pay",
+          "axis",
+          "years"
         ]
       }
     ],
-    "mexico": [
+    "uk": [
       {
-        "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-        "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+        "title": "UK PM Burnham seeks 'hope again' at Labour Party conference",
+        "description": "Andy Burnham is seeking a delicate balance between optimism and realism at Labour's annual party conference. He promised hope and an end to \"politics as usual\" but also an \"honest conversation\" about difficult dilemmas.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-29T13:38:00+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: labour"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "conference",
+          "uk_entity",
+          "seeks",
+          "party",
+          "hope"
+        ]
+      },
+      {
+        "title": "Apple and Amazon face renewed UK antitrust lawsuit",
+        "description": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details. more\u2026",
+        "source": "9To5Mac",
+        "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+        "fromUrl": "https://9to5mac.com/feed/",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-29T01:21:23+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: apple"
+          },
+          {
+            "points": 3,
+            "reason": "company keyword match: amazon"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: 9To5Mac"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "antitrust",
+          "amazon",
+          "uk_entity",
+          "lawsuit",
+          "renewed"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Japan PM to vow nimble response to unexpected market moves, Nikkei reports",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/japan-pm-vow-nimble-response-unexpected-market-moves-nikkei-reports-6420661",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T14:25:57+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "vow",
+          "nikkei",
+          "japan",
+          "nimble",
+          "unexpected"
+        ]
+      },
+      {
+        "title": "Toys \u2018R\u2019 Us eyes exiting Japan, selling business to Don Quijote operator",
+        "description": "Toys \"R\" Us Japan has been losing money in recent years.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/toys-r-us-eyes-exiting-japan-selling-business-to-don-quijote-operator",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T10:40:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "quijote",
+          "operator",
+          "toys",
+          "selling",
+          "japan"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Vietnam detains 3 men on terrorism charges, including Norwegian, Australian citizens",
+        "description": "Vietnamese police have detained three men accused of terrorism, including a Norwegian citizen and an Australian national of Vietnamese origin, according to the Ministry of Public Security",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/vietnam-detains-3-men-terrorism-charges-including-norwegian-136849777",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-09-29T09:19:48-04:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: ministry"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "terrorism",
+          "citizens",
+          "men",
+          "norwegian",
+          "detains"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "Clashes between French teens, police as school blockades intensify",
+        "description": "Grievances include timetables, class sizes and a shortage of teachers.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/blockades-in-france-over-high-school-grievances-see-hundreds-detained",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T05:16:25+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: shortage"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "blockades",
+          "clashes",
+          "french",
+          "intensify",
+          "police"
+        ]
+      },
+      {
+        "title": "More than 400 detained as France student protests escalate",
+        "description": "Students have been protesting conditions and resources in high schools since last week.",
         "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o",
+        "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo",
         "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-09-28T23:43:48+00:00",
+        "publishedAt": "2026-09-29T21:55:13+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
@@ -1576,32 +1453,77 @@
           }
         ],
         "group_id": 0,
-        "alternates": [
+        "alternates": [],
+        "topicFingerprint": [
+          "escalate",
+          "france",
+          "student",
+          "protests",
+          "detained"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T05:24:52+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
           {
-            "title": "Hurricane Polo threatens Southwest U.S. with flooding. See its path.",
-            "description": "Hurricane Polo could bring \"life-threatening winds and flash floods\" to Mexico's Baja California Sur and nearby Sonora and then heavy rain and flooding to parts of the U.S.",
-            "source": "CBS News",
-            "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/",
-            "category": "Environment",
-            "publishedAt": "2026-09-28T23:06:44-04:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "threatening",
-              "mexico",
-              "winds",
-              "california",
-              "hurricane"
-            ],
-            "group_id": 0
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
+        "group_id": 0,
+        "alternates": [],
         "topicFingerprint": [
-          "threatening",
-          "mexico",
-          "winds",
-          "california",
-          "hurricane"
+          "landmine",
+          "blasts",
+          "apology",
+          "demands",
+          "injured"
+        ]
+      },
+      {
+        "title": "North Korea denies South Korea's claim its mines caused DMZ explosions",
+        "description": "North Korea denies South Korea's claims that it caused DMZ explosions that injured three soldiers, which Seoul views as a violation of the armistice agreement.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/aa3feb46-3467-4605-ae7b-5839aa0fd59d.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-09-30T07:12:26+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "caused",
+          "dmz",
+          "mines",
+          "denies",
+          "north"
         ]
       }
     ]
