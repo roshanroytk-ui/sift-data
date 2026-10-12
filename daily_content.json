@@ -1,528 +1,634 @@
 {
-  "updatedAt": "2026-10-11T09:39:18.957583",
+  "updatedAt": "2026-10-12T10:06:09.833112",
   "insight": {
-    "title": "A Spoonful of Star Weighs a Mountain",
-    "subtitle": "Neutron stars compress the mass of a sun into a city-sized sphere, making them unbelievably dense.",
-    "notificationHook": "Stars can be incredibly dense.",
+    "title": "Why Keyboards Still Use QWERTY",
+    "subtitle": "The layout designed for antique typewriters still shapes how we type today.",
+    "notificationHook": "QWERTY: Designed to slow you down?",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "If you could scoop a teaspoon of matter from a neutron star, it would weigh billions of tons \u2013 more than all the cars on Earth combined."
+        "text": "Your keyboard's QWERTY layout feels universal. Surprisingly, this familiar arrangement wasn't designed for typing speed. Its counter-intuitive order was a solution to a specific mechanical problem from another era."
       },
       {
         "type": "paragraph",
-        "text": "These stellar remnants are born from collapsed giant stars, squeezing protons and electrons together until they become a sea of neutrons."
+        "text": "Early mechanical typewriters suffered from typebar jams when users typed common letter pairs too quickly. QWERTY deliberately separated frequently used letters, forcing typists to slow down and prevent machine lock-ups."
       },
       {
         "type": "paragraph",
-        "text": "Such extreme density means a neutron star's gravity can flatten mountains on its surface to mere millimeters, creating an impossibly smooth sphere."
+        "text": "Despite more efficient layouts emerging, QWERTY\u2019s early dominance created immense user inertia. The sheer cost and effort of retraining millions of typists cemented its place in history."
       },
       {
         "type": "paragraph",
-        "text": "Gravity's ultimate crushing power."
+        "text": "A legacy of antique jams, still at your fingertips."
       }
     ]
   },
   "news": [
     {
-      "title": "China and EU agree to halve Chinese hybrid car exports",
-      "description": "China and the EU agree to reduce exports of Chinese electric and plug-in hybrid cars by up to 50% over four years to ease trade tensions.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/8e4ad4dd-e049-43a0-b3dd-40993db2593d.html",
+      "title": "US\u00a0threatens to block arms for Ukraine over refinery attacks, FT reports",
+      "description": "Oct 11 - The US is threatening to stop the procurement system that provides Ukraine with weapons in order to press Kyiv to halt its deep strikes on Russian energy infrastructure, the Financial Times reported on Sunday, citing officials in Europe.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/us-threatens-to-block-arms-for-ukraine-over-refinery-attacks-ft-reports",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 9,
-      "why": "European car buyers may have fewer choices for hybrid vehicles.",
-      "context": "China and the EU agreed to cut Chinese hybrid car exports by half.",
-      "next": "Both sides will implement the agreed export reduction plan.",
-      "bigger": "Global trade relations are shifting towards managed competition.",
-      "publishedAt": "2026-10-10T00:21:12+00:00",
-      "topicFingerprint": [
-        "eu_entity",
-        "hybrid",
-        "trade",
-        "exports",
-        "china_entity"
-      ],
-      "alternates": [
-        {
-          "title": "China, EU strike interim trade deal that could cut Chinese hybrid exports",
-          "description": "China and the EU reached an interim trade agreement following two days of talks to ease tensions. The deal includes lower EU tariffs in China, stabilised rare earth supply chains, and could cut Chinese electric and plug-in hybrid vehicle imports by up to 50%.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/china-eu-strike-interim-trade-deal-that-could-cut-chinese-hybrid-exports-20008881.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-10T09:39:51+05:30",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "eu_entity",
-            "hybrid",
-            "trade",
-            "exports",
-            "china_entity"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "India unveils tough curbs on dollar demand to defend rupee",
-      "description": "Persistent pressure on the rupee, fueled by surging oil prices and global bond yields, has driven the currency down more than 7% this year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html",
-      "category": "Financial",
-      "readingTime": 2,
       "score": 15,
-      "why": "Foreign travel is becoming costlier for Indian consumers.",
-      "context": "India imposed strict controls on dollar demand to protect its currency.",
-      "next": "The Indian rupee's stability will be closely monitored.",
-      "bigger": "Emerging markets face currency pressures from global economics.",
-      "publishedAt": "2026-10-10T11:12:58+00:00",
+      "why": "Military aid for Ukraine may slow, impacting their defense efforts.",
+      "context": "The US threatens to halt weapons supplies to Ukraine. This is to stop Kyiv's attacks on Russian energy infrastructure.",
+      "next": "Ukraine may need to reconsider its strategy for attacking Russian infrastructure.",
+      "bigger": "Geopolitical allies often clash over military strategy and aid conditions.",
+      "publishedAt": "2026-10-12T02:05:03+08:00",
       "topicFingerprint": [
-        "oil",
-        "prices",
-        "dollar",
-        "unveils",
-        "curbs"
-      ],
-      "alternates": [
-        {
-          "title": "India unveils tough curbs on dollar demand to defend rupee",
-          "description": "The central bank will open a special window to meet the daily dollar requirements of three state-run oil-marketing companies.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee",
-          "category": "General",
-          "publishedAt": "2026-10-10T15:00:00+08:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "oil",
-            "prices",
-            "dollar",
-            "unveils",
-            "curbs"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-      "description": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data",
-      "source": "Tech | The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Your personal data with AI tools may become more secure.",
-      "context": "OpenAI introduced new AI agents, promising higher privacy standards.",
-      "next": "AI companies will compete on privacy features for their agents.",
-      "bigger": "Data privacy and security are becoming critical in AI development.",
-      "publishedAt": "2026-10-10T13:00:00+00:00",
-      "topicFingerprint": [
-        "muse",
-        "meta",
-        "agent",
-        "ai_group",
-        "spend"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India-U.S. trade pact to be finalised keeping changed circumstances in mind: Piyush Goyal",
-      "description": "Piyush Goyal also said trade pact negotiations are on with number of regions including Israel, Chile, GCC, and Russia-led group Eurasian Economic Union",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/india-us-trade-pact-to-be-finalised-keeping-changed-circumstances-in-mind-piyush-goyal/article71569239.ece",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Trade negotiations between India and the US are progressing.",
-      "context": "India and the U.S. plan to finalize a trade pact, adjusting for new conditions.",
-      "next": "New trade agreements will be shaped by evolving geopolitical realities.",
-      "bigger": "Nations are re-evaluating trade partnerships amidst global changes.",
-      "publishedAt": "2026-10-10T22:04:35+05:30",
-      "topicFingerprint": [
-        "finalised",
-        "circumstances",
-        "goyal",
-        "india",
-        "changed"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "\u2018H-1B is a business model\u2019: Trump official defends tech firm suspensions, claims visa program is costing Americans jobs",
-      "description": "Labor Department Inspector General Anthony D\u2019Esposito defended the suspension of Microsoft, Adobe and six IT companies from the PERM green card process.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/h1b-is-a-business-model-trump-official-defends-tech-firm-suspensions-claims-visa-program-is-costing-americans-jobs-101791680529306.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Hiring in the US tech sector may face stricter visa rules.",
-      "context": "A Trump official defended suspending major tech firms from a green card program.",
-      "next": "The H-1B visa program will likely see further scrutiny.",
-      "bigger": "Immigration policies are central to economic and labor discussions.",
-      "publishedAt": "2026-10-11T06:56:56+05:30",
-      "topicFingerprint": [
-        "firm",
-        "claims",
-        "model",
-        "costing",
-        "americans"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Canada to send 300-member trade delegation to India, largest in over 30 years",
-      "description": "Canada to send 300-member trade delegation to India, largest in over 30 years",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/canada-to-send-300-member-trade-delegation-to-india-largest-in-over-30-years-101791635308014.html",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Trade and investment ties between Canada and India may grow.",
-      "context": "Canada is sending its largest trade delegation in decades to India.",
-      "next": "New business partnerships and trade deals could emerge.",
-      "bigger": "Countries are diversifying trade relationships and seeking new markets.",
-      "publishedAt": "2026-10-10T17:58:27+05:30",
-      "topicFingerprint": [
-        "member",
-        "send",
-        "india",
-        "canada",
-        "delegation"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump\u2019s trade wars sting US manufacturers ahead of midterms",
-      "description": "Ohio businesses say higher duties and Canada tensions are hurting sales, hiring and expansion plans.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/trumps-trade-wars-sting-us-manufacturers-ahead-of-midterms",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Some US businesses face higher costs and reduced sales.",
-      "context": "U.S. manufacturers, especially in Ohio, are hurting from past trade wars.",
-      "next": "Trade policies could become a key issue in upcoming elections.",
-      "bigger": "Protectionist trade measures can have lasting domestic economic effects.",
-      "publishedAt": "2026-10-11T13:55:00+08:00",
-      "topicFingerprint": [
-        "sting",
-        "midterms",
-        "trade",
+        "russia",
+        "ukraine",
         "donald_trump",
-        "wars"
+        "energy",
+        "ceasefire",
+        "russian"
       ],
       "alternates": []
     },
     {
-      "title": "Nvidia discusses boosting Reflection investment, computing deal",
-      "description": "Reflection AI debuted in October its first open-weight model, a market dominated by Chinese start-ups.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/nvidia-discusses-boosting-reflection-investment-computing-deal",
-      "category": "Technology",
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI \u2018tsunami\u2019",
+      "description": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a \u201cslow-moving tsunami,\u201d with young workers entering the job market the most exposed.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "category": "Economy",
       "readingTime": 2,
-      "score": 15,
-      "why": "Competition in the global AI model market may intensify.",
-      "context": "Nvidia is reportedly discussing increased investment in Reflection AI.",
-      "next": "Nvidia could expand its influence in the rapidly growing AI sector.",
-      "bigger": "Major tech firms are investing heavily in the AI infrastructure race.",
-      "publishedAt": "2026-10-11T10:32:00+08:00",
+      "score": 21,
+      "why": "Your job market skills may soon need adapting due to AI advances.",
+      "context": "The World Bank council urges job support. This follows an IMF warning that AI threatens global employment.",
+      "next": "Governments and employers may introduce new job training programs.",
+      "bigger": "Automation and AI are profoundly reshaping global labor markets.",
+      "publishedAt": "2026-10-12T08:58:54+00:00",
       "topicFingerprint": [
+        "workers",
         "ai_group",
-        "investment",
-        "computing",
-        "model",
-        "reflection"
+        "tsunami",
+        "jobs",
+        "slow"
       ],
       "alternates": []
     },
     {
-      "title": "Musk vows affordable Starlink in India days before Ambani\u2019s record Jio IPO",
-      "description": "The trillionaire again accuses PM Modi\u2019s government and the Indian billionaire of stalling the satellite venture\u2019s entry into the market",
+      "title": "European shares rise on lower oil prices, bank strength ahead of earnings",
+      "description": "EUROPEAN shares rose on Monday (Oct 12), led by banking stocks as oil prices eased on hopes of Russia-Ukraine energy ceasefire, while...",
       "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
-      "category": "Technology",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-shares-rise-lower-oil-prices-bank-strength-ahead-earnings",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Indian consumers may gain new, affordable internet options.",
-      "context": "Elon Musk promised affordable Starlink in India, criticizing government delays.",
-      "next": "Starlink's entry into the Indian market will face regulatory hurdles.",
-      "bigger": "Satellite internet aims to bridge the digital divide globally.",
-      "publishedAt": "2026-10-11T08:28:52+00:00",
+      "score": 22,
+      "why": "European bank stability may provide some financial market confidence.",
+      "context": "European shares increased, driven by falling oil prices and strong banking stocks.",
+      "next": "Investors will closely watch upcoming earnings reports for market direction.",
+      "bigger": "Global energy prices significantly influence regional economic stability and markets.",
+      "publishedAt": "2026-10-12T08:12:30+00:00",
       "topicFingerprint": [
-        "affordable",
-        "ambani",
-        "jio",
-        "starlink",
-        "vows"
+        "russia",
+        "ukraine",
+        "donald_trump",
+        "energy",
+        "ceasefire",
+        "russian"
       ],
       "alternates": [
         {
-          "title": "Musk vows affordable Starlink in India days before Ambani\u2019s record Jio IPO",
-          "description": "Mobile data prices in India are among the lowest in the world.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo",
-          "category": "Financial",
-          "publishedAt": "2026-10-11T16:05:00+08:00",
-          "score": 9,
+          "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/oil-falls-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-6451591",
+          "category": "Progress",
+          "publishedAt": "2026-10-12T14:47:01+08:00",
+          "score": 13,
           "readingTime": 2,
           "topicFingerprint": [
-            "affordable",
-            "ambani",
-            "jio",
-            "starlink",
-            "vows"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Musk vows \u2018affordable\u2019 Starlink in India as he escalates feud with Ambani",
-          "description": "Pledge comes days before Mukesh Ambani s low-cost Reliance Jio s parent launches India s largest-ever IPO.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani",
-          "category": "Financial",
-          "publishedAt": "2026-10-11T07:57:36+00:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "affordable",
-            "ambani",
-            "jio",
-            "starlink",
-            "vows"
+            "russia",
+            "ukraine",
+            "donald_trump",
+            "energy",
+            "ceasefire",
+            "russian"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Severe weather events continue to disrupt daily life and safety.",
-      "context": "Hurricane Isaias caused four deaths and widespread power outages in the US.",
-      "next": "Communities will focus on recovery and rebuilding efforts.",
-      "bigger": "Climate change is increasing the frequency of extreme weather events.",
-      "publishedAt": "2026-10-10T23:19:55+00:00",
-      "topicFingerprint": [
-        "isaias",
-        "dead",
-        "thousands",
-        "cyclone",
-        "hurricane"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Shares of S\u2019pore banks stabilise after recent decline; SGX cuts board lots: Markets this week",
-      "description": "Analysts expect further volatility in bank shares amid earnings concerns and global bond market risks.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/shares-of-spore-banks-stabilise-after-recent-decline-sgx-cuts-board-lots-markets-this-week",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Investors in Singaporean banks may face continued market swings.",
-      "context": "Singapore bank shares stabilized, but analysts expect further volatility.",
-      "next": "Global financial market instability could affect bank performance.",
-      "bigger": "Financial markets worldwide remain sensitive to global economic shifts.",
-      "publishedAt": "2026-10-11T12:00:00+08:00",
-      "topicFingerprint": [
-        "banks",
-        "decline",
-        "week",
-        "pore",
-        "board"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
-      "description": "Spanish Prime Minister Pedro Sanchez launched his campaign for a snap November election on Saturday. The vote comes as a deepening housing crisis is driving protests and putting pressure on his left-wing coalition.",
+      "title": "El Nino breaks Pacific temperature record as weather pattern intensifies",
+      "description": "An intensifying El Nino pushed sea surface temperatures in a key Pacific monitoring region to a record 29.70C in September, the EU\u2019s Copernicus climate service said Monday. Forecasters expect the weather pattern, which raises drought and flood risks and exacerbates global warming, to become the stro",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests",
-      "category": "Policy",
+      "url": "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather",
+      "category": "Environment",
       "readingTime": 2,
       "score": 11,
-      "why": "Spanish voters will decide on government leadership amid social issues.",
-      "context": "Spanish PM Sanchez began his election campaign amidst housing crisis protests.",
-      "next": "The upcoming election will determine Spain's political direction.",
-      "bigger": "Housing affordability remains a significant social challenge globally.",
-      "publishedAt": "2026-10-11T07:46:57+00:00",
+      "why": "Expect more extreme weather events and altered global climate patterns.",
+      "context": "An intensifying El Nino set a new record for Pacific sea surface temperatures.",
+      "next": "The world will likely experience more severe droughts, floods, and storms.",
+      "bigger": "Climate change is intensifying natural weather phenomena globally.",
+      "publishedAt": "2026-10-12T02:12:30+00:00",
       "topicFingerprint": [
-        "campaign",
-        "pedro",
-        "snap",
-        "spanish",
-        "sanchez"
-      ],
-      "alternates": [
-        {
-          "title": "Spanish PM begins vote campaign overshadowed by housing protests",
-          "description": "Spain's Prime Minister Pedro Sanchez aimed to pull off another unlikely comeback as he began campaigning on Saturday for a snap vote dominated by housing protests that have shaken the country. Our correspondent Sarah Morris tells us more.",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests",
-          "category": "General",
-          "publishedAt": "2026-10-11T08:37:13+00:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "campaign",
-            "pedro",
-            "snap",
-            "spanish",
-            "sanchez"
-          ],
-          "group_id": 0
-        }
-      ]
-    }
-  ],
-  "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, China and the European Union have agreed to cut Chinese hybrid car exports by half. This means European car buyers could soon have fewer choices when looking for hybrid vehicles, reflecting shifts in global trade relations.\n\nMoving to India, the country has imposed strict controls on the demand for US dollars to protect its national currency. This move is making foreign travel more expensive for Indian consumers, highlighting currency pressures faced by emerging markets globally.\n\nNext, in artificial intelligence, companies like OpenAI have introduced new AI agents, promising much higher privacy standards. This could mean your personal data, when used with these tools, may become more secure, as data privacy becomes critical in AI development.\n\nMeanwhile, trade negotiations between India and the United States are progressing, with plans to finalize a pact adjusted for new global conditions. This indicates nations are actively re-evaluating and shaping their trade partnerships in response to changing global dynamics.\n\nShifting focus to US immigration, a former Trump official has defended suspending major tech firms from a green card program. This could lead to stricter visa rules for hiring in the US tech sector, as immigration policies remain central to economic and labor discussions.\n\nCanada is sending its largest trade delegation in over three decades to India, demonstrating commitment to global trade. This significant move could foster stronger trade and investment ties between the two countries, as nations diversify relationships and explore new markets.\n\nTurning to business in the US, manufacturers, especially in Ohio, are still feeling the effects of past trade wars. This means some American businesses face higher costs and reduced sales, illustrating how protectionist trade measures can have lasting domestic economic impacts.\n\nIn other tech news, Nvidia is reportedly discussing significantly boosting its investment in Reflection AI and a new computing deal. This suggests competition in the global market for AI models is set to intensify, as major tech firms invest heavily in AI infrastructure.\n\nElon Musk has promised affordable Starlink internet services for India, criticizing government delays. If approved, Indian consumers could soon gain new and more affordable internet options, furthering the global effort to bridge the digital divide through satellite technology.\n\nOn the environmental front, Hurricane Isaias recently lashed the United States, tragically causing four deaths and leaving thousands without power. This event underscores how severe weather continues to disrupt daily life and safety, highlighting the increasing frequency of extreme weather.\n\nLooking at financial markets, shares of Singaporean banks have stabilized after a recent decline, though analysts anticipate further volatility. This means investors in these banks should prepare for continued market swings, reflecting how financial markets worldwide remain sensitive to global economic shifts.\n\nFinally, overseas, Spanish Prime Minister Pedro Sanchez has officially kicked off his election campaign amidst ongoing protests over the country\u2019s housing crisis. Spanish voters will soon decide on their government leadership, addressing critical social issues like housing affordability.\n\nAnd now, for a moment of reflection to close out your briefing. Consider this incredible fact: if you could scoop just a teaspoon of matter from a neutron star, it would weigh billions of tons \u2013 more than all the cars on Earth combined. These stellar remnants form when giant stars collapse, squeezing matter into an unbelievably dense sea of neutrons. This extreme density means a neutron star's gravity is so immense it can flatten entire mountains on its surface to mere millimeters, creating an impossibly smooth sphere. It's a truly powerful thought about the ultimate crushing power of gravity in our universe.\n\nThat's your Sift Daily Briefing for today. We'll be back tomorrow to help you sift through the news that truly matters. Until then, have a calm and informed day.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 200
-  },
-  "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly unpack the day's most important stories, moving beyond the headlines to understand the underlying currents shaping our world.\n\nFirst up today, a significant development in global trade, as China and the European Union have reached an agreement regarding electric and hybrid vehicle exports. The **source snippet** tells us that they've agreed to reduce exports of Chinese electric and plug-in hybrid cars by up to 50% over four years. This decision stems from growing trade tensions. The mechanism at play here is one of economic competition and national industrial protection. China\u2019s robust manufacturing sector, often supported by state policies, has enabled its electric vehicle industry to produce highly competitive cars at lower price points. This has led to a surge of Chinese-made EVs entering European markets, causing concern among European automakers and policymakers who fear their domestic industry could be undercut and lose significant market share, potentially impacting jobs and technological leadership within the EU. By agreeing to halve these exports, both sides aim to ease this tension, providing European manufacturers some breathing room to innovate and compete, while perhaps encouraging Chinese manufacturers to invest in production facilities *within* the EU. The immediate consequence is that European car buyers might see a slightly narrower range of choices for these particular vehicles as the agreement is implemented. More broadly, this reflects a shift in global trade dynamics, moving towards what some call \"managed competition,\" where major economic blocs actively negotiate and control trade flows to protect their strategic industries, rather than relying purely on free-market principles.\n\nMeanwhile, India is taking strong measures to protect its currency. We learn from the **source snippet** that \"Persistent pressure on the rupee, fueled by surging oil prices and global bond yields, has driven the currency down more than 7% this year.\" The core mechanism behind this is the balance of demand and supply for foreign currency, specifically the US dollar, within India's economy. India is a major importer of crude oil, which is typically priced in US dollars. When global oil prices surge, India needs significantly more dollars to pay for its energy imports. This increases the demand for dollars and simultaneously increases the supply of rupees in the foreign exchange market, as Indian entities convert rupees to dollars. Adding to this pressure, rising global bond yields make dollar-denominated investments more attractive to international investors. This can cause capital to flow out of emerging markets like India, further increasing dollar demand and weakening the rupee. To counteract these pressures, India has imposed \"tough curbs on dollar demand,\" meaning it's restricting how much foreign currency its citizens and businesses can purchase for non-essential purposes. The aim is to reduce the outflow of dollars from the country, thereby shoring up the rupee's value. The immediate effect for Indian consumers is that foreign travel becomes more expensive, but it's a measure intended to stabilize the broader economy by controlling inflation and maintaining financial stability. This situation highlights how global economic forces, like energy prices and interest rates, can create significant currency pressures for emerging market economies.\n\nShifting focus to the rapidly evolving world of artificial intelligence, a key player is making promises about user privacy. The **source snippet** notes that \"At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to 'set a new standard for privacy in frontier AI.'\" The underlying mechanism here relates to how these advanced AI agents, which are designed to proactively assist users across various digital platforms, interact with and process personal data. To be truly helpful \u2013 scheduling meetings, managing emails, or making recommendations \u2013 these agents often require access to sensitive user information. The privacy challenge arises from how this data is collected, stored, processed, and potentially used for further training or shared with third parties. OpenAI's promise to \"set a new standard\" suggests they intend to implement more robust technical and policy safeguards. This could involve techniques like on-device processing, where data remains on the user's device rather than being sent to cloud servers, or strict anonymization and data retention protocols. The mention of \"taking veiled shots at Meta's Muse\" indicates that privacy is becoming a competitive battleground among AI developers. As AI agents become more integrated into our daily lives, the level of trust users have in these systems' ability to protect their personal information will be crucial for widespread adoption. This marks data privacy and security as central concerns in the ongoing development and deployment of advanced AI.\n\nStaying with India, we hear about progress on a significant trade agreement. Piyush Goyal, a high-ranking Indian official, indicated that the India-U.S. trade pact will be finalized \"keeping changed circumstances in mind,\" as per our **source snippet**, which also mentions negotiations with other regions like Israel, Chile, and the GCC. The core mechanism of a trade pact is to reduce barriers\u2014like tariffs or quotas\u2014between two countries, making it cheaper and easier for goods and services to flow across borders. The phrase \"changed circumstances\" is key here. It suggests that the geopolitical landscape and global supply chain vulnerabilities, which have become more apparent in recent years, are influencing the shape of this agreement. For instance, both India and the U.S. might be looking to diversify supply chains away from over-reliance on single countries, or to strengthen economic ties with like-minded partners. This isn't just about economic efficiency; it's also about strategic alignment and resilience. As negotiations progress, both nations will be looking for terms that not only boost economic growth but also align with their broader strategic interests, potentially leading to specific concessions or protections for key industries on both sides. The successful finalization of this pact would deepen economic ties between two of the world's largest democracies, creating new opportunities for businesses and consumers in both countries.\n\nAcross the globe, the H-1B visa program in the United States is facing scrutiny. A Trump official, Labor Department Inspector General Anthony D\u2019Esposito, is defending the suspension of major tech firms like Microsoft and Adobe from the PERM green card process, according to the **source snippet**, arguing that the H-1B program is a \"business model\" costing Americans jobs. The H-1B visa program allows U.S. employers to temporarily employ foreign workers in specialty occupations, typically requiring a bachelor's degree or higher. The PERM process is the first step for many employers seeking to sponsor foreign workers for permanent residency (a green card). The official's argument implies a mechanism where some companies might be using the H-1B program not just to fill unique skill gaps, but to source cheaper labor or to maintain a larger pool of skilled workers than strictly necessary, thereby potentially displacing American workers or depressing wages in certain sectors. Suspending these firms from the PERM process effectively blocks their path to sponsoring new green cards for their foreign employees. This defense suggests a push towards tightening immigration policies, particularly those impacting the tech sector, under the premise of protecting domestic jobs. Consequently, U.S. tech companies could face stricter rules and greater hurdles when seeking to hire international talent, potentially affecting their ability to scale and innovate.\n\nIn a contrasting move on the international trade front, Canada is making a significant push into India. We hear directly from the **source snippet** that Canada is sending its largest trade delegation to India in over 30 years, comprising 300 members. The mechanism at play here is a deliberate effort to strengthen economic ties and diversify trade partnerships. A large trade delegation typically includes representatives from various industries\u2014from technology and agriculture to education and energy\u2014who aim to explore market opportunities, identify potential business partners, and negotiate deals. For Canada, this signifies an intent to reduce its reliance on traditional trading partners and tap into India's massive and growing economy, seeking new export markets for its goods and services, and attracting Indian investment. For India, it presents an opportunity to welcome foreign capital and expertise, and to further integrate into global supply chains. The sheer size of this delegation indicates a serious strategic commitment from the Canadian government, likely preceded by extensive market research and diplomatic groundwork. The most direct consequence will likely be an increase in new business partnerships and trade deals, leading to greater trade and investment flows between the two nations, which could offer more diversified goods and services to consumers in both countries over time.\n\nHowever, the impacts of past trade policies are still being felt. The **source snippet** reports that \"Ohio businesses say higher duties and Canada tensions are hurting sales, hiring and expansion plans,\" ahead of midterms. This speaks to the tangible, real-world mechanism of protectionist trade measures. Tariffs, or \"higher duties,\" are taxes imposed on imported goods. While intended to protect domestic industries by making foreign goods more expensive, they can also trigger retaliatory tariffs from other countries, or increase the cost of imported raw materials and components for domestic manufacturers. For Ohio businesses, this means that if they rely on imported parts, their production costs rise. If their products are exported, retaliatory tariffs from countries like Canada could make their goods more expensive and less competitive abroad, leading to reduced sales. This in turn impacts their ability to hire new staff or invest in expansion. The phrase \"Canada tensions\" hints at broader diplomatic and economic friction that can complicate cross-border trade beyond just tariffs. The connection to the midterms highlights how these economic consequences become potent political issues, as affected businesses and workers pressure policymakers for change. This illustrates how protectionist trade policies, while aiming to help domestic industries, can have a complex and sometimes negative ripple effect across various sectors of the economy, especially for businesses integrated into international supply chains.\n\nMoving to the competitive landscape of artificial intelligence, Nvidia is looking to expand its influence. The **source snippet** indicates that Nvidia is discussing boosting investment in Reflection AI, which \"debuted in October its first open-weight model, a market dominated by Chinese start-ups.\" The mechanism here involves strategic investment and market positioning within the burgeoning field of AI foundational models. Nvidia is a dominant player in AI hardware, particularly with its powerful GPUs that are essential for training and running complex AI models. By investing in Reflection AI, a company that develops \"open-weight models\" (meaning their underlying code and data are accessible for others to build upon), Nvidia is aiming to deepen its engagement in the software and ecosystem side of AI. This is a move to not only secure future demand for its hardware but also to influence the direction of AI development and gain a stronger foothold in a market currently led by Chinese startups. Increased investment would provide Reflection AI with the capital needed for research, development, and scaling, potentially allowing them to accelerate their innovation and capture more market share. This investment will intensify competition in the global AI model market and signals that major tech firms like Nvidia are making significant financial bets on companies that are building the foundational software layers of future AI applications.\n\nAnother tech titan, Elon Musk, is making promises regarding internet access in India. The **source snippet** tells us that Musk is vowing \"affordable Starlink in India\" and accusing \"PM Modi\u2019s government and the Indian billionaire of stalling the satellite venture\u2019s entry into the market.\" The core mechanism behind Starlink is a constellation of thousands of low Earth orbit satellites that beam internet directly to user terminals on the ground, bypassing traditional terrestrial infrastructure like fiber optic cables or cellular towers. This model is particularly effective in rural or underserved areas where terrestrial infrastructure is expensive or difficult to deploy. Musk's promise of \"affordable Starlink\" highlights his aim to offer competitive pricing in a cost-sensitive market like India. The accusation of \"stalling\" refers to regulatory hurdles and competition. To operate in India, Starlink needs specific licenses and spectrum allocation from the Indian government, which involves navigating existing telecom regulations and potentially facing opposition from established local players, such as those associated with the mentioned \"Indian billionaire.\" This situation underscores the tension between an innovative global technology company seeking to enter a new market and the sovereign right of a government to regulate its telecommunications sector, often balancing innovation with national security, local industry protection, and revenue generation. The outcome will determine whether Indian consumers gain a new, potentially transformative, option for high-speed internet access, especially in regions currently lacking it.\n\nOn a different note, severe weather continues to impact communities. Hurricane Isaias caused \"four deaths and widespread power outages in the US,\" after it \"barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone,\" according to our **source snippet**. The mechanism of a hurricane involves a complex interplay of warm ocean waters, atmospheric pressure systems, and the Coriolis effect, leading to a powerful rotating storm system with high winds and heavy rainfall. As Isaias made landfall, its intense winds ripped off roofs and downed trees, which in turn brought down power lines, leading to widespread electricity loss. The heavy rainfall associated with such storms can also cause flooding, posing direct threats to life and property. Even after weakening to a \"post-tropical cyclone,\" these systems can still deliver significant impacts due to residual wind and rain. The four deaths are a tragic direct consequence of these destructive forces, highlighting the immediate dangers posed by extreme weather. For the affected communities, the immediate next steps involve extensive recovery efforts: restoring power, clearing debris, and repairing damaged infrastructure and homes. These events serve as a stark reminder of the increasing frequency and intensity of extreme weather, often linked to broader climate change patterns that provide more energy and moisture to fuel such powerful storms.\n\nIn the financial world, Singapore's banking sector is showing signs of stabilization after some turbulence. The **source snippet** notes that \"Analysts expect further volatility in bank shares amid earnings concerns and global bond market risks,\" even though shares of Singapore banks have stabilized after a recent decline. The mechanism behind bank share volatility is multi-faceted. Bank earnings are highly sensitive to economic conditions. Factors like rising interest rates can initially benefit banks by increasing their lending margins, but if economic growth slows or a recession looms, loan defaults can increase, hurting profitability. \"Global bond market risks\" refer to concerns about the stability and direction of interest rates and government debt markets worldwide. For example, if bond yields fluctuate sharply or if major economies face sovereign debt crises, it can impact banks' investment portfolios and their ability to raise capital. Even a \"stabilization\" in shares means they've stopped their immediate decline, but the underlying uncertainties about the global economy, interest rate trajectories, and potential credit risks continue to create a climate where bank shares could experience further ups and downs. This means investors in Singaporean banks should anticipate ongoing market swings, reflecting how deeply interconnected global financial markets are and how sensitive they are to macroeconomic indicators and global policy decisions.\n\nAnd finally today, political campaigns are kicking off amidst social unrest. Spanish Prime Minister Pedro Sanchez has launched his election campaign for a snap November election, while facing \"a deepening housing crisis [that] is driving protests and putting pressure on his left-wing coalition,\" as detailed in the **source snippet**. The mechanism connecting a housing crisis to political pressure is quite direct: when housing becomes unaffordable, whether through soaring rents, high purchase prices, or a lack of available properties, it creates significant financial strain and social hardship for a large segment of the population. This directly impacts people's quality of life, their ability to save, and their sense of economic security. Such widespread dissatisfaction often translates into public protests and, critically, into voter sentiment against the incumbent government. A \"snap election\" means the election was called earlier than scheduled, often by a ruling party hoping to capitalize on a favorable moment or to refresh its mandate amidst challenges. For Sanchez's left-wing coalition, the housing crisis is a particular vulnerability because affordability and social welfare are typically central tenets of left-leaning platforms. The protests indicate that the government's current policies are perceived as insufficient or ineffective in addressing the issue. The upcoming election will therefore serve as a direct referendum on how well the government has managed key social issues, with the outcome determining Spain's political direction for the next term and potentially influencing policy approaches to housing affordability across Europe.\n\nNow, for a moment of deeper reflection.\n\nToday's insight reminds us that a spoonful of star weighs a mountain. Imagine, if you could scoop a mere teaspoon of matter from a neutron star, it would weigh billions of tons \u2013 more than all the cars on Earth combined. These incredible stellar remnants are born from the catastrophic collapse of giant stars, where gravity becomes an ultimate crushing force, squeezing protons and electrons together until they literally fuse into a dense, tightly packed sea of neutrons. This extreme density means a neutron star's gravity is so immense that it could flatten mountains on its surface to mere millimeters, creating an impossibly smooth sphere.\n\nWhat\u2019s truly fascinating about this isn't just the mind-bending scale of the numbers, but what it tells us about the universe's capacity for extremes. It's a vivid illustration of how fundamental forces, like gravity, can completely reshape matter in ways we can scarcely comprehend on Earth. We live in a world governed by familiar physics, but out there, in the cosmos, entire suns can be compressed into a sphere the size of a city, their fundamental particles altered by pressures unimaginable. It challenges our intuitive understanding of mass and space, revealing that the \"nothingness\" of space is full of phenomena that push the very boundaries of reality. It leaves us to ponder: what other forms of matter, or states of being, might exist when gravity is given its ultimate, unrestrained power?\n\nThank you for joining us for this Sift In-Depth Briefing. Take a moment to let these insights settle, and we hope you carry this deeper understanding into your day. Until next time, find your calm, and stay curious.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 1008
-  },
-  "candidatePool": [
-    {
-      "title": "Exasperation and resignation in Greece over allegations against US ambassador Kimberly Guilfoyle",
-      "description": "She allegedly provided a Republican donor information in exchange for him paying her credit card bill.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/exasperation-and-resignation-in-greece-over-allegations-against-us-ambassador-kimberly-guilfoyle",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Diplomatic relations between the US and Greece could face strain.",
-      "context": "Allegations surfaced against a US ambassador, causing frustration in Greece.",
-      "next": "Investigations into the ambassador's conduct may proceed.",
-      "bigger": "Diplomatic ethics and accountability are crucial for international trust.",
-      "publishedAt": "2026-10-11T08:04:00+08:00",
-      "topicFingerprint": [
-        "exasperation",
-        "resignation",
-        "kimberly",
-        "allegations",
-        "ambassador"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "California El Nino latest forecast: When will it hit and how to prepare",
-      "description": "California is preparing for a very strong El Nino, with heavy rain and floods expected from December 2026. Here is what you can do to prepare.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/california-el-nino-latest-forecast-when-will-it-hit-and-how-to-prepare-101791674973202.html",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Californians face increased risks of flooding and weather damage.",
-      "context": "California is preparing for a strong El Ni\u00f1o with heavy rain and floods.",
-      "next": "Local authorities will issue further guidance for disaster preparedness.",
-      "bigger": "Climate patterns are causing more extreme and unpredictable weather events.",
-      "publishedAt": "2026-10-11T05:37:42+05:30",
-      "topicFingerprint": [
-        "prepare",
-        "forecast",
-        "hit",
-        "california",
+        "pacific",
+        "record",
+        "eu_entity",
+        "forecasters",
         "nino"
       ],
       "alternates": []
     },
     {
-      "title": "Americans trust science more than peers around the world, survey shows",
-      "description": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/",
-      "category": "Health",
+      "title": "Japan steps up cyber warnings as data leaks hit millions of customers",
+      "description": "Japan\u2019s government has told ministries, local authorities and companies to step up their cyber defences. A wave of attacks has exposed the data of millions of customers. The National Cybersecurity Office sent the instructions on Friday, the Associated Press reported. \u201cThe attacks are getting increas",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/japan-cyberattacks-warning-data-leaks",
+      "category": "Cybersecurity",
       "readingTime": 2,
-      "score": 7,
-      "why": "Public confidence in scientific institutions varies widely by country.",
-      "context": "A survey found Americans trust science more than many other nations.",
-      "next": "Institutions may need to rebuild trust with their citizens.",
-      "bigger": "Trust in science and healthcare systems is a global concern.",
-      "publishedAt": "2026-10-10T23:01:00+00:00",
+      "score": 10,
+      "why": "Your personal information may be at higher risk from online attacks.",
+      "context": "Japan issued stronger cyber defense warnings. This came after data leaks affected millions of customers.",
+      "next": "Companies and government agencies may implement stricter security measures.",
+      "bigger": "Cybersecurity threats are a growing and persistent global challenge.",
+      "publishedAt": "2026-10-12T08:48:37+00:00",
       "topicFingerprint": [
-        "confidence",
-        "trust",
-        "science",
-        "survey",
-        "hospitals"
+        "steps",
+        "cyber",
+        "japan",
+        "customers",
+        "data"
       ],
       "alternates": []
     },
     {
-      "title": "\u2018India not funding our detractors\u2019: US lawmaker pitches closer ties with New Delhi",
-      "description": "Haley Stevens went on to say that the US government \u201cgot to be standing alongside democratic, free market trade partners like the country of India.\u201d",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/india-not-funding-our-detractors-us-lawmaker-pitches-closer-ties-with-new-delhi-101791687202043.html",
+      "title": "US\u2019s Reagan-era economic promises return as Trump\u2019s AI-fueled growth fantasy",
+      "description": "\u2018Even if AI supercharged the economy, its impact on the government\u2019s finances would be muted\u2019 Back through political history to the age of Ronald Reagan , Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government\u2019s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 24,
+      "why": "Political promises of economic growth may prove unrealistic long-term.",
+      "context": "US politicians are making AI-fueled growth promises. These echo past Reagan-era economic pledges.",
+      "next": "Voters will scrutinize the feasibility of ambitious economic growth plans.",
+      "bigger": "Economic policy debates often revisit historical promises for future growth.",
+      "publishedAt": "2026-10-11T11:00:25+00:00",
+      "topicFingerprint": [
+        "reagan",
+        "donald_trump",
+        "return",
+        "fantasy",
+        "era"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Poland arrests man over plot to assassinate PM Donald Tusk and defense minister",
+      "description": "Poland arrests a man over a plot to assassinate Prime Minister Donald Tusk and Defence Minister W\u0142adys\u0142aw Kosiniak-Kamysz.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/bfe09856-b12b-4f03-b445-9e5e62825e15.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Polish political leaders face heightened security risks.",
+      "context": "Poland arrested a man for allegedly plotting to assassinate its Prime Minister and Defense Minister.",
+      "next": "Investigations will likely uncover more details about the assassination plot.",
+      "bigger": "Political stability in Europe faces ongoing threats from various actors.",
+      "publishedAt": "2026-10-11T13:13:19+00:00",
+      "topicFingerprint": [
+        "defense",
+        "assassinate",
+        "donald_trump",
+        "poland",
+        "tusk"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Pakistan imposes emergency rule in Imran Khan's party stronghold province",
+      "description": "President Asif Ali Zardari declared a state of emergency in Khyber Pakhtunkhwa, suspending its government due to rising terrorism and law and order issues.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/e7853a31-d005-4f1c-a714-cbc018b2b944.html",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Regional stability in Pakistan faces significant new security challenges.",
+      "context": "Pakistan declared emergency rule in Khyber Pakhtunkhwa province. This was due to rising terrorism and lawlessness.",
+      "next": "The province's government will remain suspended under federal control.",
+      "bigger": "Internal security challenges can severely destabilize national governance.",
+      "publishedAt": "2026-10-12T01:09:22+00:00",
+      "topicFingerprint": [
+        "pakistan",
+        "pakhtunkhwa",
+        "emergency",
+        "khyber",
+        "province"
+      ],
+      "alternates": [
+        {
+          "title": "What do emergency and governor rule in Pakistan\u2019s Khyber Pakhtunkhwa mean?",
+          "description": "Pakistan has taken control of a province governed by Imran Khan\u2019s PTI. Here is what the move means and what happens next",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean",
+          "category": "Policy",
+          "publishedAt": "2026-10-12T08:54:25+00:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "pakistan",
+            "pakhtunkhwa",
+            "emergency",
+            "khyber",
+            "province"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Microsoft launches a decision model built on Alibaba\u2019s Qwen",
+      "description": "Microsoft has released Microsoft-Decision-1, a small model that picks between fixed answer options instead of writing text. Microsoft built it on Alibaba\u2019s open-weight Qwen3.5-9B and then post-trained it, according to the Foundry model card. Achint Srivastava, a vice president of software engineerin",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/microsoft-decision-1-qwen-decision-model",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "More efficient AI tools may soon streamline business and data choices.",
+      "context": "Microsoft released a new AI decision model. It was built using Alibaba\u2019s Qwen framework.",
+      "next": "Developers may integrate this model into various analytical applications.",
+      "bigger": "Tech giants are increasingly collaborating on foundational AI research and tools.",
+      "publishedAt": "2026-10-12T08:59:51+00:00",
+      "topicFingerprint": [
+        "microsoft",
+        "model",
+        "alibaba",
+        "launches",
+        "qwen"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Chinese desalination plant cuts 60% energy use, turns waste brine into industrial salt",
+      "description": "A large desalination plant on Bohai Bay has achieved an energy efficiency breakthrough, slashing electricity consumption by more than half while converting millions of tonnes of toxic waste brine into high-value chemical salt. Situated in the Caofeidian industrial zone of Tangshan, Hebei province, t",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/science/article/3370356/chinese-desalination-plant-cuts-60-energy-use-turning-waste-brine-industrial-salt",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Water purification methods may become more sustainable and cost-effective.",
+      "context": "A Chinese desalination plant drastically cut energy use. It also converts waste brine into industrial salt.",
+      "next": "Other countries may adopt similar advanced desalination technologies.",
+      "bigger": "Innovation in water technology is critical for global resource management.",
+      "publishedAt": "2026-10-12T04:15:34+00:00",
+      "topicFingerprint": [
+        "waste",
+        "turns",
+        "cuts",
+        "desalination",
+        "energy"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Vikrom Kromadit built his industrial park empire in Thailand and Vietnam. Laos is next",
+      "description": "Laos's green energy potential is why the Amata CEO calls the landlocked country \"the battery of Southeast Asia.\u201d",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/12/amata-industrial-park-thailand-vietnam-laos/",
       "category": "Economy",
       "readingTime": 2,
-      "score": 7,
-      "why": "US-India relations are strengthening for strategic and trade reasons.",
-      "context": "A US lawmaker advocated for closer strategic ties with India.",
-      "next": "Both nations will likely explore new areas of cooperation.",
-      "bigger": "Geopolitical alliances are shifting towards democratic partnerships.",
-      "publishedAt": "2026-10-11T09:57:37+05:30",
+      "score": 9,
+      "why": "Laos's green energy potential may attract more foreign investment.",
+      "context": "Industrial park developer Amata is expanding operations into Laos. This follows its success in Thailand and Vietnam.",
+      "next": "Laos could become a major hub for renewable energy production in Southeast Asia.",
+      "bigger": "Southeast Asia is rapidly developing its industrial and energy infrastructure.",
+      "publishedAt": "2026-10-12T08:32:35+00:00",
       "topicFingerprint": [
-        "detractors",
-        "our",
-        "pitches",
-        "india",
-        "delhi"
+        "vikrom",
+        "thailand",
+        "laos",
+        "park",
+        "empire"
       ],
       "alternates": []
     },
     {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o",
-      "category": "Health",
+      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "description": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 4,
-      "why": "The ethics and effectiveness of lethal injection methods are questioned.",
-      "context": "Christa Pike was discharged after surviving a failed execution attempt.",
-      "next": "Legal challenges regarding execution protocols may arise.",
-      "bigger": "Capital punishment continues to spark legal and ethical debates.",
-      "publishedAt": "2026-10-10T17:44:26+00:00",
+      "score": 9,
+      "why": "Regional conflict dynamics in Tigray are shifting.",
+      "context": "Ethiopian government forces entered Adigrat in Tigray. This happened after rebel fighters withdrew.",
+      "next": "The region may see further military movements and changing territorial control.",
+      "bigger": "Internal conflicts continue to displace populations and destabilize regions.",
+      "publishedAt": "2026-10-12T04:00:56+00:00",
       "topicFingerprint": [
-        "pike",
-        "murderer",
-        "execution",
-        "discharged",
-        "hospital"
+        "near",
+        "tigray",
+        "eritrean",
+        "troops",
+        "enter"
       ],
       "alternates": []
+    }
+  ],
+  "audioBrief": {
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, the United States is reportedly threatening to halt weapon supplies to Ukraine. This move comes as Washington aims to stop Kyiv's ongoing attacks on Russian energy infrastructure. If carried out, this could significantly slow military aid to Ukraine and impact their defense efforts.\n\nMeanwhile, a World Bank jobs council is urging \"crisis-era\" employment support measures. This follows a stark warning from the International Monetary Fund, which described AI as a \"tsunami\" threatening global employment. This suggests many of us may soon need to adapt our job market skills as AI advances rapidly.\n\nSwitching focus to markets, European shares have seen a rise. This upward trend is largely driven by falling oil prices and the perceived strength of banking stocks, ahead of upcoming earnings reports. This stability in European banks could provide a measure of confidence in the financial markets right now.\n\nMoving to environmental news, an intensifying El Nino weather pattern has now set a new record for Pacific sea surface temperatures. As this phenomenon strengthens, we can expect more extreme weather events and altered global climate patterns to emerge.\n\nIn Japan, authorities have stepped up cyber defense warnings. This follows recent data leaks that affected millions of customers across the country. These incidents highlight that your personal information could be at a higher risk from online attacks, underscoring the ongoing challenge of cybersecurity.\n\nShifting to US economic discussions, some politicians are making promises of AI-fueled growth that echo Reagan-era economic pledges from the past. These grand political promises of future economic expansion may, however, prove unrealistic in the long term.\n\nIn Poland, a man has been arrested for allegedly plotting to assassinate both Prime Minister Donald Tusk and the defense minister. This event points to heightened security risks now facing Polish political leaders.\n\nMeanwhile, Pakistan has declared emergency rule in Khyber Pakhtunkhwa province, a stronghold of Imran Khan's party. This decision was made due to rising terrorism and widespread lawlessness in the area, indicating significant new security challenges for regional stability there.\n\nNext, in the world of tech, Microsoft has launched a new AI decision model. This model was notably built using Alibaba\u2019s Qwen framework, showing growing collaboration between tech giants. It suggests that more efficient AI tools are on the horizon, ready to streamline business and data-driven choices.\n\nOn the innovation front, a Chinese desalination plant has made remarkable strides. It has drastically cut its energy use by sixty percent and, even more impressively, converts its waste brine into industrial salt. This breakthrough could mean that water purification methods are becoming both more sustainable and cost-effective globally.\n\nMoving to Southeast Asia, industrial park developer Amata, which built an empire in Thailand and Vietnam, is now expanding operations into Laos. This expansion is partly due to Laos's green energy potential, which may attract even more foreign investment to the region.\n\nAnd finally, Ethiopian government forces have reportedly entered Adigrat in Tigray, a town near the Eritrean border. This happened after rebel fighters withdrew from the area, signaling a shift in the regional conflict dynamics within Tigray.\n\nBefore we go, here's a quick thought about something you probably use every day: your keyboard. The familiar QWERTY layout wasn't actually designed for speed. In fact, it was created for antique typewriters to *slow down* typists and prevent the mechanical keys from jamming. Even though more efficient layouts exist, QWERTY\u2019s early dominance created such inertia that it's still with us today. It\u2019s a fascinating legacy of mechanical challenges, right at your fingertips.\n\nThat's your Sift Daily Briefing for today. We'll be back tomorrow with more.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
+    "estimatedDurationSeconds": 200
+  },
+  "audioBriefIndepth": {
+    "script": "Welcome to your Sift In-Depth Briefing. This is the complete analysis of today\u2019s top stories, moving beyond the headlines to explain the mechanics of what\u2019s really happening.\n\nFirst up, the United States is reportedly threatening to halt the procurement system that supplies Ukraine with weapons. The goal here is to pressure Kyiv into stopping its deep-strike drone attacks on Russian energy infrastructure. The logic from the American side is twofold: they fear that targeting refineries could drive global oil prices upward, and they are concerned about the potential for horizontal escalation\u2014where hitting these facilities might provoke a harsher Russian response against civilians or Western-supplied assets. For Ukraine, however, these strikes are a strategic necessity designed to disrupt Russia\u2019s revenue streams and logistics. If the US follows through, it could leave Ukrainian defenses vulnerable during a critical period, likely forcing Kyiv to weigh the strategic value of those strikes against the dire need for continued military support.\n\nMeanwhile, the global job market is facing an inflection point. The World Bank\u2019s jobs council is pushing for crisis-era employment measures, a move prompted by a stark warning from the IMF\u2019s Kristalina Georgieva. She described the rise of artificial intelligence as a slow-moving tsunami that is disproportionately exposing young people entering the workforce to sudden displacement. This isn't just about robots replacing assembly lines; it is about generative AI automating the cognitive tasks that once defined entry-level professional roles. As firms integrate these tools to cut costs, the traditional ladder for career growth is being dismantled, necessitating a massive, systemic shift toward government-backed re-skilling initiatives to prevent a permanent underclass of displaced workers.\n\nSwitching to the markets, European shares saw a lift this week, bolstered by a dip in oil prices and a resilient banking sector. The cooling of energy prices stems from newfound, albeit fragile, market optimism regarding a potential energy ceasefire between Russia and Ukraine. When energy prices settle, it eases the inflationary pressure that has haunted European manufacturing, allowing central banks more breathing room. With banking stocks leading the charge, investors are looking toward upcoming earnings reports to see if this momentum is backed by actual corporate performance or merely sentiment. It\u2019s a reminder that at the core of European economic health lies a delicate balance between energy security and financial institutional stability.\n\nNext, we look to the Pacific, where the El Nino weather pattern has officially broken temperature records. The European Union\u2019s Copernicus climate service confirmed that sea surface temperatures in a critical monitoring region reached a staggering 29.7 degrees Celsius in September. El Nino works by shifting massive heat reserves across the ocean, which fundamentally alters atmospheric circulation. This intensifies the frequency of extreme weather, ranging from devastating droughts in some regions to catastrophic flooding in others. As this pattern strengthens, the global climate is increasingly pushed into a cycle of heightened volatility, making it clear that these aren't just isolated storms, but symptoms of a climate system that is struggling to regulate itself under current warming trends.\n\nIn Japan, the government is sounding the alarm on digital security after a wave of sophisticated cyberattacks exposed the data of millions of customers. The National Cybersecurity Office has directed ministries, local authorities, and private companies to immediately bolster their defenses. The mechanism here is a move from decentralized to coordinated security; as digital infrastructure becomes more interconnected, a single point of failure in a municipal system can compromise a massive national database. This is a sign that Japan is moving to treat cyber defense not just as an IT issue, but as a core pillar of national infrastructure that requires consistent, high-level oversight.\n\nTurning to the US, a familiar economic narrative is resurfacing. Politicians are once again leaning on the promise that AI-fueled growth will pay for massive government expenditures and tax cuts, echoing the supply-side rhetoric of the Reagan era. The theory is that if you trigger enough productivity growth through technology, the resulting tax revenue will naturally offset the deficit. Economists, however, often point to a disconnect here: even if AI significantly boosts productivity, the actual impact on federal debt is frequently muted because the benefits are often concentrated in private capital rather than the public treasury. It remains a classic tug-of-war between optimistic political visions for the future and the more rigid realities of fiscal accounting.\n\nIn Poland, authorities have made a high-stakes arrest regarding a plot to assassinate Prime Minister Donald Tusk and Defense Minister W\u0142adys\u0142aw Kosiniak-Kamysz. This incident highlights the increasingly volatile climate for political leaders in Europe, where fringe extremism is often emboldened by hyper-polarized national discourse. When threats reach the level of cabinet-level officials, it forces a rapid tightening of security protocols that can change the way a government interacts with its public. It serves as a reminder that political stability is not a static condition; it requires constant vigilance against those who seek to use violence to disrupt democratic processes.\n\nMeanwhile, Pakistan has declared an emergency in the Khyber Pakhtunkhwa province, effectively suspending the local government due to an explosion in terrorism and a breakdown in law and order. This is a drastic measure designed to allow federal forces to bypass local administrative gridlock to secure the region. The underlying issue is that the province has become a focal point for various insurgent groups, and when the state loses its monopoly on the use of force, governance becomes impossible. This state of emergency is a temporary bandage, but the path toward stability requires addressing the underlying security gaps that allow these groups to operate in the first place.\n\nMoving to the tech sector, Microsoft has launched a new AI decision model built on the foundation of Alibaba\u2019s Qwen framework. Rather than generating long-form prose, this model is designed to make discrete choices, which is highly efficient for analytical business tasks. The partnership is notable because it demonstrates a growing trend: even amid geopolitical friction, tech giants are increasingly standardizing their tools on open-weight models produced globally. By leveraging Alibaba\u2019s architecture, Microsoft can accelerate its own development cycles, showing that in the race for AI dominance, the sharing of foundational research is becoming just as important as the proprietary code built on top of it.\n\nIn China, a breakthrough in water technology is offering a glimpse of a more sustainable industrial future. A desalination plant on Bohai Bay has successfully slashed its energy consumption by over half while repurposing toxic waste brine into industrial-grade salt. Typically, desalination is incredibly energy-intensive and produces a hazardous byproduct that harms local ecosystems. By closing the loop\u2014using the waste as a raw material\u2014the plant turns a liability into an asset. If this model can be scaled, it provides a blueprint for countries struggling with water scarcity to secure their supply without the massive environmental or energy overhead that has traditionally made desalination so difficult.\n\nIn Southeast Asia, the industrial landscape is shifting as the developer Amata expands its massive park empire from Thailand and Vietnam into Laos. The logic here is centered on geography and energy; Amata\u2019s CEO refers to Laos as the battery of Southeast Asia, thanks to its immense potential for green energy production. By plugging into Laos\u2019s renewable grid, companies can establish manufacturing hubs with a lower carbon footprint, attracting foreign investors who are under increasing pressure to meet sustainability goals. It\u2019s an example of regional integration where natural resources in one country are leveraged to spark industrialization in another.\n\nFinally, in Ethiopia, government forces have entered the town of Adigrat in the Tigray region following the withdrawal of rebel fighters. This is a significant development in a conflict that has been defined by shifting frontlines and deep territorial contestation. When rebels pull back, the immediate concern shifts to the safety of the civilian population and the restoration of state services. This movement suggests a tactical recalibration by both sides, but until a durable political settlement is reached, these territorial shifts are likely to remain fragile, keeping the entire region in a state of precarious uncertainty.\n\nNow, let\u2019s take a moment for today\u2019s reflective insight. We\u2019ve been talking about the forces that shape our world, but sometimes the most powerful forces are the ones we touch every day\u2014like your keyboard. \n\nThe QWERTY layout is a remarkable example of how a temporary fix can become a permanent feature of human life. It wasn't designed for speed or comfort; it was designed to stop antique typewriters from jamming. When the early machines were typed on quickly, the mechanical arms would collide and get stuck, forcing the user to stop and manually disentangle them. The QWERTY design was literally created to slow the typist down by spreading out common letter pairings, ensuring the machine could keep up with the person behind it.\n\nWhat\u2019s fascinating is that even after we moved to electric machines and eventually computers\u2014where the speed of the keys is no longer a concern\u2014we kept the layout. Why? Because of what we call path dependence. Millions of people had already spent years building the muscle memory to type in this inefficient way. Retraining the world to use a more ergonomic or faster layout would have been a massive, prohibitively expensive undertaking. So, we stuck with a system designed for a problem that stopped existing a century ago.\n\nIt\u2019s a powerful metaphor for how legacy systems work in our own lives. We often inherit structures, habits, and processes that were built to solve a problem that no longer exists, yet we continue to use them simply because the cost of changing course feels too high. It leaves you wondering: what other QWERTY layouts exist in your own professional or personal life? What are you still doing a certain way, not because it\u2019s the best way, but simply because that\u2019s how the machine was built?\n\nThat\u2019s your Sift In-Depth Briefing for today. We hope this gave you the clarity and context you needed. Take a breath, enjoy the rest of your day, and we'll be here whenever you're ready for your next deep dive.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
+    "estimatedDurationSeconds": 547
+  },
+  "candidatePool": [
+    {
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "description": "Backdated paperwork also made the Russian oligarch\u2019s yachts and mansions disappear from accounts, investigation finds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Wealthy individuals may still exploit loopholes to avoid taxes.",
+      "context": "An investigation found falsified documents. These were used to evade taxes on Abramovich's wealth.",
+      "next": "Further scrutiny of offshore financial dealings and asset ownership is likely.",
+      "bigger": "International efforts to combat offshore tax evasion face significant challenges.",
+      "publishedAt": "2026-10-12T05:00:52+00:00",
+      "topicFingerprint": [
+        "wealth",
+        "bbc",
+        "documents",
+        "falsified",
+        "finds"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "AirAsia founder denies state bailout talks despite insiders\u2019 claims",
+      "description": "AirAsia co-founder Tony Fernandes met with officials from Malaysia\u2019s finance ministry two weeks ago to discuss potential government support for Southeast Asia\u2019s largest low-cost airline, according to three people with knowledge of the matter. The talks reflect growing government concerns about the f",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370529/airasia-founder-denies-state-bailout-talks-despite-insiders-claims",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Southeast Asia's airline industry may still face financial strains.",
+      "context": "AirAsia's founder denied discussing a government bailout. This contradicts claims from internal sources.",
+      "next": "The airline's financial situation will face continued market scrutiny.",
+      "bigger": "Post-pandemic recovery for some airlines remains fragile, needing support.",
+      "publishedAt": "2026-10-12T03:24:07+00:00",
+      "topicFingerprint": [
+        "potential",
+        "airline",
+        "airasia",
+        "support",
+        "growing"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Polish security services meet after 'serious' threat to PM and defense minister",
+      "description": "A special services spokesperson said authorities were treating the threat as \"deadly serious\".",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/polish-security-services-meet-after-serious-threat-to-pm-defense-minister.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Polish political leaders face heightened security risks.",
+      "context": "Polish security services convened. They addressed a \"deadly serious\" threat to the Prime Minister and Defense Minister.",
+      "next": "Security measures for top Polish officials will likely be enhanced.",
+      "bigger": "Political stability in Europe faces ongoing threats from various actors.",
+      "publishedAt": "2026-10-11T12:51:58+00:00",
+      "topicFingerprint": [
+        "defense",
+        "services",
+        "serious",
+        "threat",
+        "security"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Jeff Bezos says he gets why socialism is surging\u2014but politicians blaming \u2018greedy landlords\u2019 have housing all wrong",
+      "description": "A record 43% of Americans now view socialism favorably. The Amazon founder blames government policy for the housing crunch and holds up Austin, where rents have fallen, as proof that building more works.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/12/jeff-bezos-socialism-gallup-poll-housing-affordability-greedy-landlords-austin-rents/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Housing debates will likely focus more on policy versus market factors.",
+      "context": "Jeff Bezos commented on rising socialism and housing issues. He disagreed with blaming landlords.",
+      "next": "Public discourse on housing affordability and solutions will intensify.",
+      "bigger": "Economic inequality and housing costs are driving social and political shifts.",
+      "publishedAt": "2026-10-12T09:07:00+00:00",
+      "topicFingerprint": [
+        "gets",
+        "politicians",
+        "bezos",
+        "landlords",
+        "blaming"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "\u2018Some aren\u2019t going to make it\u2019: how pressure on farmers threatens UK food security",
+      "description": "Food producers are adding their voices to the chorus of warnings about the vulnerability of British supply chains \u201cThere are so many decent, capable, productive, efficient arable farmers out there, asking how they are supposed to finance the crop they are meant to be putting in the ground,\u201d Jamie Bu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains",
+      "category": "General",
+      "readingTime": 2,
+      "score": 8,
+      "why": "UK food security faces growing risks from farming pressures.",
+      "context": "Pressure on UK farmers is increasing. This poses a threat to the nation's food security.",
+      "next": "The government may need to introduce new support for the agricultural sector.",
+      "bigger": "Global food supply chains are increasingly vulnerable to economic and climate pressures.",
+      "publishedAt": "2026-10-11T11:00:24+00:00",
+      "topicFingerprint": [
+        "food",
+        "threatens",
+        "aren",
+        "farmers",
+        "going"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+      "description": "Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 7,
+      "why": "The humanitarian situation in Yemen may further worsen due to conflict.",
+      "context": "Heavy clashes broke out in Yemen. Houthi fighters are advancing toward the strategic city of Taiz.",
+      "next": "The conflict around the strategic city of Taiz will likely intensify.",
+      "bigger": "Protracted civil conflicts continue to devastate populations and regions.",
+      "publishedAt": "2026-10-12T05:27:22+00:00",
+      "topicFingerprint": [
+        "yemen",
+        "advance",
+        "towards",
+        "clashes",
+        "houthis"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "The giant cavity in America's dental care industry",
+      "description": "Dental offices are struggling to hire and retain hygienists. Burnout, injuries, and lack of health insurance are contributing to a major shortage.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/america-dental-hygienist-shortage-patients-workplace-quality-2026-10",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Access to dental care services in the US may become more difficult.",
+      "context": "The US dental industry faces a severe shortage of hygienists.",
+      "next": "Dental offices may struggle to maintain appointment availability and quality.",
+      "bigger": "Healthcare sectors worldwide face staffing shortages and burnout issues.",
+      "publishedAt": "2026-10-12T08:24:01+00:00",
+      "topicFingerprint": [
+        "dental",
+        "industry",
+        "cavity",
+        "giant",
+        "care"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Social Security COLA 2027: Why a $73 monthly boost could spell trouble ahead of October 14 announcement",
+      "description": "Social Security COLA 2027 could reach 3.5%, adding $73 monthly for retirees. Here's why the October 14 announcement could raise funding concerns.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/social-security-cola-2027-why-a-73-monthly-boost-could-spell-trouble-ahead-of-october-14-announcement-101791739507812.html",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 6,
+      "why": "US retiree benefits may face long-term funding challenges.",
+      "context": "A projected Social Security COLA increase for 2027 raises funding concerns.",
+      "next": "Policymakers will debate reforms to ensure the program's solvency.",
+      "bigger": "Aging populations are straining social welfare systems globally.",
+      "publishedAt": "2026-10-11T23:14:24+05:30",
+      "topicFingerprint": [
+        "social",
+        "monthly",
+        "ahead",
+        "trouble",
+        "spell"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "SGX woos European traders with new futures window",
+      "description": "It aims to boost activity from market makers and asset managers later in the Asian trading day",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/sgx-woos-european-traders-new-futures-window",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 6,
+      "why": "European investors may gain new access to Asian market opportunities.",
+      "context": "The Singapore Exchange (SGX) opened a new window for European futures traders.",
+      "next": "SGX aims to increase trading activity from asset managers and market makers.",
+      "bigger": "Global financial exchanges compete for international trading volume and liquidity.",
+      "publishedAt": "2026-10-12T08:30:50+00:00",
+      "topicFingerprint": [
+        "woos",
+        "window",
+        "sgx",
+        "eu_entity",
+        "traders"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "NutryFarm shareholders seek CEO\u2019s removal as company pivots from durians to data centres",
+      "description": "They also want to elect Charlie In to the board and ask directors to consider appointing him as CEO.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/nutryfarm-shareholders-seek-ceos-removal-as-company-pivots-from-durians-to-data-centres",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Shareholders may face risks when companies drastically change business models.",
+      "context": "NutryFarm shareholders are seeking to remove the CEO. This is due to a shift from durians to data centers.",
+      "next": "The company's future strategic direction and leadership will be uncertain.",
+      "bigger": "Companies often struggle with transitions to new, high-growth industries.",
+      "publishedAt": "2026-10-12T12:15:00+08:00",
+      "topicFingerprint": [
+        "durians",
+        "pivots",
+        "seek",
+        "data",
+        "shareholders"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Pope Leo XIV will have surgery in the coming days to remove a nodule on his lung",
+      "description": "Pope Leo XIV will undergo surgery to remove a nodule on his lung in the first major health event of his 17-month pontificate",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-undergo-surgery-remove-nodule-lung-137170592",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 3,
+      "why": "The Vatican may see a period of reduced papal activity.",
+      "context": "Pope Leo XIV will undergo lung surgery. This is to remove a nodule.",
+      "next": "The Pope's health recovery will be closely monitored globally.",
+      "bigger": "The health of global leaders can influence institutional operations and stability.",
+      "publishedAt": "2026-10-11T21:30:57-04:00",
+      "topicFingerprint": [
+        "surgery",
+        "undergo",
+        "leo",
+        "nodule",
+        "remove"
+      ],
+      "alternates": [
+        {
+          "title": "Pope Leo XIV to undergo surgery to remove lung nodule",
+          "description": "Pope Leo XIV will undergo surgery this week to remove a lung nodule discovered during medical checks. Recovery is expected to take one week.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/b0a5e8c3-ba2c-4969-8f0c-34e193604917.html",
+          "category": "Health",
+          "publishedAt": "2026-10-11T12:14:28+00:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "surgery",
+            "undergo",
+            "leo",
+            "nodule",
+            "remove"
+          ],
+          "group_id": 0
+        }
+      ]
     }
   ],
   "regionalNewsByCountry": {
     "china": [
       {
-        "title": "As clock ticks on China\u2019s commercial land leases, renewal plans allay investors\u2019 concerns",
-        "description": "Groundbreaking land-renewal policies recently announced in Guangzhou and Shanghai represent a step forward in stabilising China\u2019s commercial property market and shoring up investors\u2019 confidence amid Beijing\u2019s efforts to revive the real estate industry, according to officials and industry analysts. T",
+        "title": "Beijing moves to steady A-share market after sharp tech sell-off",
+        "description": "China\u2019s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commi",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/china-business/article/3370350/clock-ticks-chinas-commercial-land-leases-renewal-plans-allay-investors-concerns",
+        "url": "https://www.scmp.com/business/banking-finance/article/3370506/beijing-moves-steady-share-market-after-sharp-tech-sell",
         "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Progress",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-11T01:00:11+00:00",
+        "publishedAt": "2026-10-12T01:00:19+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 11,
         "score_debug": [
           {
             "points": 2,
+            "reason": "important keyword match: technology"
+          },
+          {
+            "points": 2,
             "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -540,153 +646,48 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "plans",
-          "commercial",
-          "clock",
-          "leases",
-          "concerns"
+          "steady",
+          "share",
+          "tech",
+          "sell",
+          "sharp"
         ]
       },
       {
-        "title": "Chinese court sentenced former mayor of Wuhan city to 14 years in prison for bribery",
-        "description": "A former Chinese mayor of a central Chinese city plagued by the coronavirus outbreak more than six years ago has been sentenced to 14 years in prison for corruption",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/chinese-court-sentenced-former-mayor-wuhan-city-14-137155735",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Health",
+        "title": "Goldman Sachs president urges market reforms to boost Shanghai as financial hub",
+        "description": "Goldman Sachs president John Waldron has called on China to loosen foreign exchange rules, ease cross-border data restrictions and improve regulatory transparency as the country\u2019s policymakers seek to strengthen Shanghai\u2019s role as an international financial centre. Waldron, also the investment bank\u2019",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/china-economy/article/3370551/goldman-sachs-president-urges-market-reforms-boost-shanghais-financial-hub-role",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-10T09:34:44-04:00",
+        "publishedAt": "2026-10-12T06:07:33+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 10,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: outbreak"
+            "reason": "important keyword match: market"
           },
-          {
-            "points": 1,
-            "reason": "health important keyword match: outbreak"
-          },
-          {
-            "points": 1,
-            "reason": "health important keyword match: outbreak"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sentenced",
-          "mayor",
-          "city",
-          "prison",
-          "former"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-        "description": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
-        "fromUrl": "https://www.engadget.com/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-10-10T15:30:00+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: investment"
           },
           {
-            "points": 3,
-            "reason": "company keyword match: apple"
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: Engadget"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "iphone",
-          "oppo",
-          "challenging",
-          "xiaomi",
-          "brands"
-        ]
-      },
-      {
-        "title": "Money, networks and bias: Why women struggle to win seats in US politics",
-        "description": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented \u2014 but they may win some historic victories in the midterms on November 3.",
-        "source": "Deutsche Welle",
-        "url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179",
-        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-10T19:16:00+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Deutsche Welle"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "seats",
-          "women",
-          "politics",
-          "money",
-          "bias"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Lower immigration reshaping economy:\u2009Canada central bank report",
-        "description": "Canada\u2019s central bank says lower immigration and an aging population are slowing growth and reshaping the workforce, demand and economy.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/lower-immigration-reshaping-economy-canada-central-bank-report-101791700567390.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-11T12:06:06+05:30",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: economy"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: central bank"
-          },
-          {
-            "points": 0,
-            "reason": "skipped say/says/said penalty because report exists"
-          },
-          {
-            "points": -2,
-            "reason": "low quality + colon headline match: says"
           },
           {
             "points": 1,
@@ -696,26 +697,63 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "immigration",
-          "reshaping",
-          "economycanada",
-          "lower",
-          "central"
+          "reforms",
+          "shanghai",
+          "financial",
+          "urges",
+          "hub"
         ]
       }
     ],
-    "india": [
+    "united_states": [
       {
-        "title": "India detains thousands, locks down Delhi to foil election chief protest",
-        "description": "Police detained more than 2,000 protesters and the founder of the \"cockroach\" youth movement in Delhi on Saturday as security forces locked down parts of the capital to thwart a rally demanding the resignation of India's election chief. Our correspondent Navodita Kumari tells us more.",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "General",
+        "title": "Why are 54% of US stocks down 20% as the S&P 500 nears a record high?",
+        "description": "Why are 54% of US stocks down 20% as the S P 500 nears a record? Morgan Stanley data reveals market losses, rising risks and possible opportunities.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/why-are-54-of-us-stocks-down-20-as-the-s-p-500-nears-a-record-high-101791741907179.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-10T15:54:28+00:00",
+        "publishedAt": "2026-10-12T00:11:51+05:30",
         "reason": "within_48h",
-        "score": 5,
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "record",
+          "nears",
+          "us_entity"
+        ]
+      },
+      {
+        "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'",
+        "description": "DUBAI, Oct 11 - The United States' response to Iran's seven conditions in a proposal to reopen the strategic Strait of Hormuz was \\\"insufficient\\\", Iran's security chief, Mohsen Rezaei, was quoted by state media on Sunday as saying.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T01:10:15+08:00",
+        "reason": "within_48h",
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -727,7 +765,449 @@
           },
           {
             "points": 2,
+            "reason": "important keyword match: iran"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: says"
+          },
+          {
+            "points": -3,
+            "reason": "low quality group in title match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Iran says it will reply to US response on Hormuz proposal once review over",
+            "description": "DUBAI, Oct 12 - Iran is still reviewing a US response to its proposal regarding the reopening of the Strait of Hormuz and will reply to Washington via intermediaries when the review is over, foreign ministry spokesperson Esmaeil Baghaei said on Monday.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/iran-says-it-will-reply-to-us-response-on-hormuz-proposal-once-review-over",
+            "category": "Policy",
+            "publishedAt": "2026-10-12T17:20:19+08:00",
+            "score": 4,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "response",
+              "proposal",
+              "oct",
+              "iran",
+              "dubai"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "response",
+          "proposal",
+          "oct",
+          "iran",
+          "dubai"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "EU eyes COP31 climate deal to accelerate CO2 cuts, document shows",
+        "description": "BRUSSELS, Oct 12 - The European Union will use next month's COP31 climate summit to push for agreement on a \\\"package\\\" of efforts to reduce the greenhouse gas emissions heating the planet, an internal EU document seen by Reuters showed.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/eu-eyes-cop31-climate-deal-to-accelerate-co2-cuts-document-shows",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T13:05:57+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "cuts",
+          "climate",
+          "eu_entity",
+          "accelerate",
+          "cop31"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India protest live: Opposition marches to Supreme Court over \u2018vote theft\u2019",
+        "description": "Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T06:07:44+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: supreme court"
+          },
+          {
+            "points": 2,
             "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Al Jazeera"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "India opposition plans New Delhi protest to demand election chief resign",
+            "description": "Thousands of security personnel have been deployed before a protest rally calling for the election chief s removal.",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign",
+            "category": "General",
+            "publishedAt": "2026-10-12T08:00:16+00:00",
+            "score": 7,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "chief",
+              "election",
+              "opposition",
+              "protest",
+              "india"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "chief",
+          "election",
+          "opposition",
+          "protest",
+          "india"
+        ]
+      },
+      {
+        "title": "Musk vows affordable Starlink in India days before Ambani\u2019s record Jio IPO",
+        "description": "The trillionaire again accuses PM Modi\u2019s government and the Indian billionaire of stalling the satellite venture\u2019s entry into the market",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/musk-vows-affordable-starlink-india-days-ambanis-record-jio-ipo",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-11T08:28:52+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -3,
+            "reason": "older than 24 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "Musk vows affordable Starlink in India days before Ambani\u2019s record Jio IPO",
+            "description": "Mobile data prices in India are among the lowest in the world.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/musk-vows-affordable-starlink-in-india-days-before-ambanis-record-jio-ipo",
+            "category": "Financial",
+            "publishedAt": "2026-10-11T16:05:00+08:00",
+            "score": 5,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "starlink",
+              "jio",
+              "vows",
+              "ambani",
+              "record"
+            ],
+            "group_id": 0
+          }
+        ],
+        "topicFingerprint": [
+          "starlink",
+          "jio",
+          "vows",
+          "ambani",
+          "record"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Singapore tops global air pollution ranks again, rolls out haze subsidies",
+        "description": "Singapore again ranked as the world\u2019s most polluted city on Monday, according to Swiss-based air quality monitor IQAir, as the fires on Borneo and Sumatra islands \u2013 intensified by a turbocharged El Nino weather phenomenon \u2013 keep emitting toxic haze. The city state has rolled out subsidies for haze-r",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370563/singapore-tops-global-air-pollution-ranks-again-rolls-out-haze-subsidies",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T07:01:13+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: subsidies"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "haze",
+          "air",
+          "tops",
+          "subsidies",
+          "singapore"
+        ]
+      },
+      {
+        "title": "MAS introduces enhanced safeguards around public events by financial institutions",
+        "description": "Street canvassing and door-to-door prospecting will also remain prohibited.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/mas-introduces-enhanced-safeguards-around-public-events-by-financial-institutions",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T15:57:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "mas",
+          "events",
+          "introduces",
+          "safeguards",
+          "enhanced"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "European, Chinese automakers launch product blitz at Paris car show in fight for market share",
+        "description": "Carmakers are expected to unveil up to 60 new models.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/european-chinese-automakers-launch-product-blitz-at-paris-car-show-in-fight-for-market-share",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T14:50:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "product",
+          "eu_entity",
+          "share",
+          "launch",
+          "fight"
+        ]
+      },
+      {
+        "title": "Le Pen, Melenchon head for run-off as France's political divide deepens, poll shows",
+        "description": "PARIS, Oct 12 - French far-right leader Marine Le Pen and hard-left rival Jean-Luc Melenchon widened their lead over other candidates and would face each other in a run-off in all tested scenarios, a poll showed on Monday, stressing growing polarisation as President Emmanuel Macron's era ends.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/le-pen-melenchon-head-for-run-off-as-frances-political-divide-deepens-poll-shows",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T14:05:23+08:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "pen",
+          "run",
+          "political",
+          "france",
+          "melenchon"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "UK finance minister to call for big economies to get borrowing under control at IMF",
+        "description": "",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/economy-news/uk-finance-minister-to-call-for-big-economies-to-get-borrowing-under-control-at-imf-4942885",
+        "fromUrl": "https://www.investing.com/rss/news.rss",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-12T09:48:42+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: finance"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: imf"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: Investing.com"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "economies",
+          "borrowing",
+          "call",
+          "finance",
+          "imf"
+        ]
+      },
+      {
+        "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+        "description": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while fo",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-11T19:42:09+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: european union"
           },
           {
             "points": -1,
@@ -735,223 +1215,102 @@
           }
         ],
         "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "political",
+          "influence",
+          "brexit",
+          "burnham",
+          "warns"
+        ]
+      }
+    ],
+    "mexico": [
+      {
+        "title": "Hurricane Simon batters Mexico's Pacific coast, slamming towns and resorts",
+        "description": "Hurricane Simon battered Mexico's Pacific coast, bringing destructive winds and heavy rain that flooded homes and threatened areas like Puerto Vallarta.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/edfd7894-224c-4272-98d9-ec527e2ed2e3.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-11T23:16:16+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
         "alternates": [
           {
-            "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
-            "description": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
-            "source": "BBC News",
-            "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo",
-            "category": "General",
-            "publishedAt": "2026-10-10T14:13:13+00:00",
-            "score": 4,
+            "title": "Hurricane Simon weakens to Category 3 as rains flood Mexico's Pacific coast",
+            "description": "MANZANILLO, Mexico Oct 11 - Hurricane Simon weakened to a Category 3 storm on Sunday as it moved parallel to Mexico's Pacific coast, bringing strong winds and heavy rain that flooded homes.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/world/hurricane-simon-weakens-to-category-3-as-rains-flood-mexicos-pacific-coast",
+            "category": "Environment",
+            "publishedAt": "2026-10-12T10:30:23+08:00",
+            "score": 12,
             "readingTime": 2,
             "topicFingerprint": [
-              "india",
-              "protest",
-              "cockroach",
-              "protesters",
-              "election"
+              "pacific",
+              "heavy",
+              "hurricane",
+              "simon",
+              "mexico"
             ],
             "group_id": 0
           },
           {
-            "title": "India detains youth protest leader to defuse rally against election chief",
-            "description": "The protest by the \"Cockroach\" youth movement aimed to draw thousands of demonstrators against the chief election commissioner over a revision of voter lists.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/10/10/india-detains-youth-protest-leader-over-rally-against-election-chief.html",
+            "title": "Hurricane Simon batters Mexico's Pacific Coast",
+            "description": "Hurricane Simon is currently running parallel to Mexico's Pacific Coast, bringing heavy rainfall and strong winds to vulnerable towns.",
+            "source": "Deutsche Welle",
+            "url": "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873",
             "category": "General",
-            "publishedAt": "2026-10-10T10:29:34+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "india",
-              "protest",
-              "cockroach",
-              "protesters",
-              "election"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
-            "description": "Indian police detained the head of the satirical \"cockroach\" online movement on Saturday as hundreds of protesters demanding the election commissioner's resignation gathered in New Delhi despite a heavy security crackdown.",
-            "source": "France 24",
-            "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
-            "category": "General",
-            "publishedAt": "2026-10-10T15:37:28+00:00",
+            "publishedAt": "2026-10-12T06:50:00+00:00",
             "score": 3,
             "readingTime": 2,
             "topicFingerprint": [
-              "india",
-              "protest",
-              "cockroach",
-              "protesters",
-              "election"
+              "pacific",
+              "heavy",
+              "hurricane",
+              "simon",
+              "mexico"
             ],
             "group_id": 0
           }
         ],
         "topicFingerprint": [
-          "india",
-          "protest",
-          "cockroach",
-          "protesters",
-          "election"
-        ]
-      },
-      {
-        "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-11T15:11:19+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 1,
-        "alternates": [],
-        "topicFingerprint": [
-          "affordable",
-          "ambani",
-          "jio",
-          "starlink",
-          "vows"
+          "pacific",
+          "heavy",
+          "hurricane",
+          "simon",
+          "mexico"
         ]
       }
     ],
-    "uk": [
+    "australia": [
       {
-        "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
-        "description": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
-        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
+        "title": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
+        "description": "Smith moves to 223 career catches, a record for fielders, as Australia bowl out South Africa for 284 in reply to 390.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa",
+        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-10-10T17:40:58-04:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: NPR"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "tapestry",
-          "london",
-          "bayeux",
-          "enthusiasts",
-          "battle"
-        ]
-      },
-      {
-        "title": "UK government blocks Northern Ireland march after standoff fueled sectarian tensions",
-        "description": "The British government has blocked a contentious march in Northern Ireland after a two-week standoff",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/uk-government-blocks-northern-ireland-march-after-standoff-137155116",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-10-10T07:23:01-04:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ireland",
-          "sectarian",
-          "fueled",
-          "blocks",
-          "tensions"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Why Japan's 7-Eleven store closures in India don\u2019t signal an exit",
-        "description": "7-Eleven store closures point to a reset of its operations in India, not to an exit.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/10/7-eleven-india-japan-reliance.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-10T11:21:05+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "eleven",
-          "don",
-          "japan",
-          "signal",
-          "exit"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks",
-        "description": "South Korean President President Lee Jae Myung has made Arctic shipping a priority, and officials hope to launch regular services by 2030.",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/asia/south-korea-arctic-europe-commercial-voyage-6449811",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-11T12:57:24+08:00",
+        "publishedAt": "2026-10-12T08:17:50+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "other category"
+            "reason": "Highest Quality Source match: Al Jazeera"
           },
           {
             "points": 1,
@@ -961,52 +1320,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "eu_entity",
-          "risks",
-          "commercial",
-          "regular",
-          "arctic"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
-        "description": "Eligible Singaporeans will pay no more than S$10 for treatment of haze-related conditions, said the Ministry of Health.",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/singapore/haze-subsidy-scheme-gp-clinics-polyclinics-moh-6449066",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-10-11T10:01:00+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: subsidies"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "singapore",
-          "oct",
-          "clinics",
-          "subsidies",
-          "polyclinics"
+          "smith",
+          "record",
+          "fielding",
+          "breaks",
+          "australia"
         ]
       }
     ]
