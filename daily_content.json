@@ -1,68 +1,127 @@
 {
-  "updatedAt": "2026-10-15T12:29:38.752358",
+  "updatedAt": "2026-10-16T06:42:37.508944",
   "insight": {
-    "title": "The Deepest Lakes Are Buried Under Ice",
-    "subtitle": "Miles of frozen darkness hide ancient, liquid worlds teeming with unique life.",
-    "notificationHook": "",
-    "readingTime": 2,
+    "title": "Why Partial Knowledge Fuels Your Drive",
+    "subtitle": "How a little mystery can spark your motivation.",
+    "notificationHook": "Unfinished thoughts boost your focus.",
+    "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Beneath two miles of Antarctic ice, vast lakes of liquid water lie completely cut off from the surface. They have been sealed for millions of years."
+        "text": "Imagine reading a captivating book that ends a chapter on a cliffhanger. Your brain, wired to close open loops, instantly seeks resolution. This \"information gap\" effect is a potent motivator."
       },
       {
         "type": "paragraph",
-        "text": "The colossal pressure of the ice sheet above, combined with Earth's geothermal heat, keeps these colossal bodies of water from freezing solid."
+        "text": "Behavioral psychology shows we feel a natural tension when faced with incomplete patterns or puzzles. This discomfort drives us to expend mental effort, seeking out missing pieces."
       },
       {
         "type": "paragraph",
-        "text": "In this unimaginable darkness, isolated ecosystems thrive. Organisms have evolved entirely apart from the sunlit world, existing in ancient, preserved habitats."
+        "text": "Whether learning a new skill or tackling a project, presenting just enough to spark curiosity, but not too much, encourages deeper engagement and sustained effort."
       },
       {
         "type": "paragraph",
-        "text": "Our planet hides entire liquid worlds."
+        "text": "Try this today: When you explain a new idea today, leave one small interesting detail unsaid."
+      },
+      {
+        "type": "paragraph",
+        "text": "The subtle power of the unsaid doesn't diminish understanding; it ignites the desire for it."
       }
-    ]
+    ],
+    "debug": {
+      "date": "2026-10-16",
+      "day_index": 289,
+      "weekday": 4,
+      "topic_index": 1,
+      "topic": "science",
+      "theme_index": 0,
+      "theme_family": "behavioral psychology",
+      "content_index": 3,
+      "content_type": "contrarian idea",
+      "tone_index": 3,
+      "tone": "a surprising and lighter idea",
+      "opening_index": 3,
+      "opening_style": "start with a relatable everyday situation",
+      "angle_index": 1,
+      "angle": "focus on a hidden pattern in everyday life"
+    }
   },
   "news": [
     {
-      "title": "Russia hits Ukraine energy sites as Ukraine resumes Russian refinery strikes",
-      "description": "Russia targets Ukraine's energy sites, prompting Ukraine to resume strikes on Russian oil refineries after a failed energy ceasefire.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/d14cd394-5a62-4541-8337-1aa42743c0c4.html",
+      "title": "Trump rebukes Zelensky, calls Ukraine\u2019s strikes on Russian refineries a \u2018disgrace\u2019",
+      "description": "Ukraine\u2019s resumption of strikes on Russian refineries is \u2060a \u201cdisgrace\u201d that keeps \u2060global energy prices elevated, US President \u2060Donald Trump told the Newsmax news outlet in an interview aired on Thursday. Ukraine struck a Russian oil refinery after President Volodymyr Zelensky declared that Kyiv was",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/europe/article/3371106/trump-rebukes-zelensky-calls-ukraines-strikes-russian-refineries-disgrace",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 16,
-      "why": "Energy prices and supply chain stability may face new risks.",
-      "context": "Russia attacked Ukrainian energy sites. Ukraine responded by resuming strikes on Russian oil refineries.",
-      "next": "Both sides may escalate attacks on each other's energy infrastructure.",
-      "bigger": "Energy infrastructure becomes a primary target in modern conflicts.",
-      "publishedAt": "2026-10-14T16:20:13+00:00",
+      "score": 21,
+      "why": "Global energy prices may remain unstable due to these attacks.",
+      "context": "Donald Trump criticized Ukraine's attacks on Russian refineries.",
+      "next": "Political pressure on Ukraine's military strategy may increase.",
+      "bigger": "Energy supply security remains a sensitive global issue.",
+      "publishedAt": "2026-10-16T04:56:59+00:00",
       "topicFingerprint": [
         "ukraine",
+        "russian",
+        "donald_trump",
         "russia",
         "us_entity",
-        "russian",
-        "attacks",
-        "starlink"
+        "strikes"
       ],
       "alternates": [
         {
-          "title": "Russia says Ukraine resumes attacks on oil refineries",
-          "description": "Ukraine s president earlier said Kyiv was done with energy ceasefire and that strikes on Russian oil refineries would resume.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
+          "title": "Zelensky rallies European allies as US support for Ukraine wanes",
+          "description": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump\u2019s demands to stop. Tensions between Kyiv and Washington have escalated in recent days over sanctions, energy infrastructure attacks and r",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
           "category": "Geopolitics",
-          "publishedAt": "2026-10-15T10:02:17+00:00",
-          "score": 15,
+          "publishedAt": "2026-10-15T23:06:00+00:00",
+          "score": 17,
           "readingTime": 2,
           "topicFingerprint": [
             "ukraine",
+            "russian",
+            "donald_trump",
             "russia",
             "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Ukraine resumes strikes on Russian oil refineries as Zelenskyy defies Trump",
+          "description": "Ukraine resumes strikes on Russian oil refineries as President Zelenskyy defies Donald Trump following the collapse of a unilateral energy ceasefire.",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/565bfa1d-b5d2-47b7-8fca-c59311ec4cfa.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-10-16T02:34:04+00:00",
+          "score": 17,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ukraine",
             "russian",
-            "attacks",
-            "starlink"
+            "donald_trump",
+            "russia",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+          "description": "US President Donald Trump called Ukraine's renewed strikes on Russian oil refineries a \"disgrace\" after Ukrainian President Volodymyr Zelensky rejected his calls for an \"energy ceasefire\". Zelensky on Thursday sought support from European allies on the sidelines of an EU summit in Brussels. Follow o",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
+          "category": "Geopolitics",
+          "publishedAt": "2026-10-16T01:50:10+00:00",
+          "score": 16,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ukraine",
+            "russian",
+            "donald_trump",
+            "russia",
+            "us_entity",
+            "strikes"
           ],
           "group_id": 0
         },
@@ -72,213 +131,235 @@
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o",
           "category": "Geopolitics",
-          "publishedAt": "2026-10-15T12:03:51+00:00",
-          "score": 15,
+          "publishedAt": "2026-10-15T16:50:18+00:00",
+          "score": 10,
           "readingTime": 2,
           "topicFingerprint": [
             "ukraine",
+            "russian",
+            "donald_trump",
             "russia",
             "us_entity",
-            "russian",
-            "attacks",
-            "starlink"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-          "description": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-          "category": "General",
-          "publishedAt": "2026-10-15T06:05:58-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "russian",
-            "attacks",
-            "starlink"
+            "strikes"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "Inflation heats up as gas prices surge",
-      "description": "Data: Bureau of Labor Statistics ; Chart: Courtenay Brown/Axios U.S. inflation picked up in September as soaring energy prices added to already stubborn price pressures, the Labor Department said on Wednesday. Why it matters: The latest Consumer Price Index shows that the inflation fight is far from",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/14/cpi-september-inflation-trump",
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+      "description": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
       "category": "Financial",
       "readingTime": 2,
-      "score": 25,
-      "why": "Your monthly expenses, especially for fuel, may rise soon.",
-      "context": "US inflation rose in September. Higher energy prices contributed to stubborn pressures.",
-      "next": "Central banks may consider further interest rate hikes.",
-      "bigger": "Global inflation remains a persistent challenge for economies.",
-      "publishedAt": "2026-10-14T13:00:05+00:00",
+      "score": 19,
+      "why": "Central banks worldwide are coordinating efforts to control inflation.",
+      "context": "A former Fed official avoided signaling future interest rate hikes.",
+      "next": "Central banks may continue to monitor global inflation trends closely.",
+      "bigger": "Global financial stability relies on coordinated central bank actions.",
+      "publishedAt": "2026-10-16T06:18:12+00:00",
       "topicFingerprint": [
-        "inflation",
-        "us_entity",
         "rate",
-        "september",
-        "energy",
-        "hike"
+        "inflation",
+        "hike",
+        "us_entity",
+        "fed"
       ],
       "alternates": []
     },
     {
-      "title": "Suddenly, Wall Street is worried that the U.S. economy is more \u2018vulnerable\u2019 than it looks",
-      "description": "The stock market is up 13% this year, unemployment is low, and U.S. GDP is growing, but suddenly it seems like Wall Street thinks this glass is half empty rather than half full.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/15/suddenly-wall-street-is-worried-that-the-u-s-economy-is-more-vulnerable-than-it-looks/",
+      "title": "India expected to overtake Japan as world\u2019s 4th largest economy in 2027: IMF",
+      "description": "India's GDP is projected to reach US$4.52 trillion (S$5.8 trillion) in 2027.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
       "category": "Economy",
       "readingTime": 2,
-      "score": 20,
-      "why": "Investment returns and market stability may face increased uncertainty.",
-      "context": "Wall Street is increasingly concerned. The US economy seems more vulnerable.",
-      "next": "Investors may become more cautious, impacting stock performance.",
-      "bigger": "Economic sentiment often shifts despite strong headline numbers.",
-      "publishedAt": "2026-10-15T10:19:21+00:00",
-      "topicFingerprint": [
-        "suddenly",
-        "looks",
-        "street",
-        "vulnerable",
-        "worried"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Setback for TikTok as EU court adviser backs gatekeeper label",
-      "description": "Companies designated as gatekeepers include Google, Meta, Apple, Amazon, Microsoft and Booking.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/setback-for-tiktok-as-eu-court-adviser-backs-gatekeeper-label",
-      "category": "Policy",
-      "readingTime": 2,
       "score": 17,
-      "why": "TikTok's services and user data handling may face new restrictions.",
-      "context": "An EU court adviser supported labeling TikTok as a \"gatekeeper.\"",
-      "next": "TikTok may have to change its business practices in Europe.",
-      "bigger": "Regulators are tightening control over major digital platforms.",
-      "publishedAt": "2026-10-15T17:47:00+08:00",
+      "why": "Global investment and trade opportunities in India will likely expand significantly.",
+      "context": "IMF projects India will become the world's fourth-largest economy by 2027.",
+      "next": "India's economic policies may gain increased international attention.",
+      "bigger": "Economic power is shifting towards emerging Asian markets.",
+      "publishedAt": "2026-10-15T17:51:00+08:00",
       "topicFingerprint": [
-        "tiktok",
-        "setback",
-        "label",
-        "gatekeeper",
-        "eu_entity"
+        "expected",
+        "4th",
+        "overtake",
+        "india",
+        "imf"
       ],
       "alternates": []
     },
     {
-      "title": "Climate change pushed Earth to its limits in 2026, researchers find",
-      "description": "Climate change has pushed the planet's environmental systems \"deeper into uncharted territory,\" researchers said in a new report centered on the state of Earth's climate in 2026.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/climate-change-earth-limits-2026-research/",
-      "category": "Science",
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+      "description": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 6,
-      "why": "Your daily life may increasingly be affected by extreme weather.",
-      "context": "Researchers reported Earth's climate systems are \"beyond limits.\" Climate change continues driving shifts.",
-      "next": "Governments will face pressure for stronger climate action.",
-      "bigger": "Climate change poses growing existential risks to global systems.",
-      "publishedAt": "2026-10-14T15:27:00-04:00",
+      "score": 19,
+      "why": "Lack of dialogue could increase risks from uncontrolled AI development.",
+      "context": "Nvidia's CEO called for US-China talks on dangerous AI development.",
+      "next": "Governments may consider new frameworks for international AI cooperation.",
+      "bigger": "Regulating advanced AI requires global, collaborative efforts.",
+      "publishedAt": "2026-10-15T12:17:13+00:00",
       "topicFingerprint": [
-        "pushed",
-        "limits",
-        "earth",
-        "researchers",
-        "change"
+        "urges",
+        "nvidia",
+        "dialogue",
+        "potentially",
+        "us_entitychina"
       ],
       "alternates": []
+    },
+    {
+      "title": "Earthquake of magnitude 6.9 jolts Russia's Kamchatka Peninsula, no tsunami warning issued",
+      "description": "According to EMSC, the quake was at a depth of 140 km (86.99 miles) and took place at about 3.35 pm (local time).",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/russia-kamchatka-peninsula-earthquake-magnitude-7-emsc-says-101792122678739.html",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 18,
+      "why": "People in the region may face risks from aftershocks and infrastructure damage.",
+      "context": "A strong 6.9 magnitude earthquake struck Russia's Kamchatka Peninsula.",
+      "next": "Authorities will assess damage and ensure regional safety.",
+      "bigger": "Active seismic zones worldwide remain vulnerable to quakes.",
+      "publishedAt": "2026-10-16T09:27:45+05:30",
+      "topicFingerprint": [
+        "local",
+        "russia",
+        "warning",
+        "issued",
+        "quake"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
+      "description": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 18,
+      "why": "Availability of cutting-edge AI devices and technology may face delays.",
+      "context": "Major tech companies are fiercely competing for TSMC's chip production capacity.",
+      "next": "Chipmakers may seek to expand production capacity rapidly.",
+      "bigger": "Semiconductor supply chain constraints impact global tech innovation.",
+      "publishedAt": "2026-10-15T16:56:07+00:00",
+      "topicFingerprint": [
+        "customers",
+        "chip",
+        "record",
+        "capacity",
+        "quarter"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "China\u2019s plan to make yuan a global currency enters faster phase",
+      "description": "Beijing is focused on developing the infrastructure needed to expand the yuan\u2019s use in global financing and investment",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/chinas-plan-make-yuan-global-currency-enters-faster-phase",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Global trade and financial transactions may increasingly use the yuan.",
+      "context": "China is accelerating its efforts to globalize the yuan currency.",
+      "next": "More countries may adopt the yuan for international settlements.",
+      "bigger": "The US dollar's dominance in global finance faces challenges.",
+      "publishedAt": "2026-10-15T23:44:40+00:00",
+      "topicFingerprint": [
+        "focused",
+        "plan",
+        "beijing",
+        "infrastructure",
+        "enters"
+      ],
+      "alternates": [
+        {
+          "title": "China\u2019s plan to make renminbi a global currency enters faster phase",
+          "description": "Beijing is focused on developing the infrastructure needed to expand the renminbi\u2019s use.",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/chinas-plan-to-make-renminbi-a-global-currency-enters-faster-phase",
+          "category": "General",
+          "publishedAt": "2026-10-16T08:20:00+08:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "focused",
+            "plan",
+            "beijing",
+            "infrastructure",
+            "enters"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
       "title": "EU summit to focus on China, Ukraine and bloc budget",
       "description": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338",
-      "category": "Geopolitics",
+      "category": "Policy",
       "readingTime": 2,
-      "score": 14,
-      "why": "European businesses may face changes in trade policies with China.",
-      "context": "EU leaders discuss China trade, Ukraine aid, and bloc budget.",
-      "next": "The EU may implement new trade restrictions or economic policies.",
-      "bigger": "Geopolitical tensions increasingly influence global trade relations.",
-      "publishedAt": "2026-10-15T06:43:00+00:00",
+      "score": 13,
+      "why": "EU companies may face new trade regulations when dealing with China.",
+      "context": "EU leaders are discussing trade imbalances with China and the bloc's budget.",
+      "next": "The EU may implement new policies to reduce its trade deficit.",
+      "bigger": "Geopolitical tensions are reshaping international trade relations.",
+      "publishedAt": "2026-10-15T14:37:00+00:00",
       "topicFingerprint": [
-        "budget",
-        "leaders",
-        "eu_entity",
-        "bloc",
-        "meeting"
+        "ukraine",
+        "russian",
+        "donald_trump",
+        "russia",
+        "us_entity",
+        "strikes"
       ],
       "alternates": []
     },
     {
-      "title": "China's September exports soar, putting a $1 trillion trade surplus in sight",
-      "description": "China's September exports rose 36.3% and imports grew 31.0%, pushing the nine-month trade surplus to $938 billion and nearing a $1 trillion record.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/6990c5c1-2417-4aff-a41f-9a62faa7b884.html",
-      "category": "Economy",
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "description": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 15,
-      "why": "Global trade balances and competition among nations may intensify.",
-      "context": "China's exports and imports surged in September. Trade surplus nears record $1 trillion.",
-      "next": "Other nations may adjust their trade policies with China.",
-      "bigger": "China dominates global manufacturing and trade increasingly.",
-      "publishedAt": "2026-10-14T15:21:46+00:00",
+      "score": 14,
+      "why": "Gaza residents may face severe shortages of essential goods.",
+      "context": "Israel stopped commercial goods from entering Gaza.",
+      "next": "Humanitarian organizations may push for renewed aid access.",
+      "bigger": "Conflicts often severely disrupt civilian access to basic necessities.",
+      "publishedAt": "2026-10-15T21:57:58+00:00",
       "topicFingerprint": [
-        "september",
-        "imports",
-        "trade",
-        "china_entity",
-        "sight"
+        "entering",
+        "israel",
+        "tax",
+        "commercial",
+        "goods"
       ],
       "alternates": [
         {
-          "title": "China\u2019s September exports soar, putting $1 trillion trade surplus in sight",
-          "description": "Imports remained robust, up 31% compared with 28.2% growth in August and forecasts of a 24.5% gain.",
+          "title": "Israel says commercial goods not entering Gaza over Hamas tax dispute",
+          "description": "Hamas \u201ccategorically\u201d denied imposing taxes or government fees on commercial trucks.",
           "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/chinas-september-exports-soar-putting-1-trillion-trade-surplus-in-sight",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-14T14:49:00+08:00",
-          "score": 11,
+          "url": "https://www.straitstimes.com/world/middle-east/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend-coordination",
+          "category": "Financial",
+          "publishedAt": "2026-10-15T23:56:14+08:00",
+          "score": 7,
           "readingTime": 2,
           "topicFingerprint": [
-            "september",
-            "imports",
-            "trade",
-            "china_entity",
-            "sight"
+            "entering",
+            "israel",
+            "tax",
+            "commercial",
+            "goods"
           ],
           "group_id": 0
         }
       ]
-    },
-    {
-      "title": "Japan\u2019s Katayama renews FX warnings after US CPI heats up",
-      "description": "She said that Japan is among the few advanced economies in a position to make a credible case for fiscal sustainability",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/japans-katayama-renews-fx-warnings-after-us-cpi-heats",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Japanese consumers may find imported goods becoming more expensive.",
-      "context": "Japan's finance official warned about currency moves. This followed rising US inflation.",
-      "next": "Japan's government may intervene to stabilize the yen's value.",
-      "bigger": "Currency volatility remains a challenge for global economies.",
-      "publishedAt": "2026-10-15T07:45:19+00:00",
-      "topicFingerprint": [
-        "cpi",
-        "renews",
-        "katayama",
-        "japan",
-        "heats"
-      ],
-      "alternates": []
     },
     {
       "title": "CEO confidence drops into negative territory",
@@ -287,18 +368,181 @@
       "url": "https://www.axios.com/2026/10/15/ceo-confidence-conference-board",
       "category": "Economy",
       "readingTime": 2,
-      "score": 10,
-      "why": "Business investment and hiring plans may slow down significantly.",
-      "context": "CEO confidence in the US economy fell. Business leaders showed declining optimism.",
-      "next": "Companies may become more conservative with spending and expansion.",
-      "bigger": "Business sentiment often foreshadows broader economic shifts.",
+      "score": 9,
+      "why": "Businesses may slow hiring and investment, affecting job growth.",
+      "context": "US CEO confidence in the economy has fallen into negative territory.",
+      "next": "Companies may adopt more cautious spending and expansion plans.",
+      "bigger": "Business sentiment is a key indicator of economic health.",
       "publishedAt": "2026-10-15T10:01:04+00:00",
       "topicFingerprint": [
-        "confidence",
         "territory",
         "drops",
         "negative",
+        "confidence",
         "ceo"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Social Security warning: Retirees face 22% benefit cuts in 2032 despite 3.6% COLA boost in 2027",
+      "description": "Social Security benefits could face 22% cuts in 2032 as retirees get a 3.6% COLA boost in 2027, raising average monthly payments by about $75.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/social-security-warning-retirees-face-22-benefit-cuts-in-2032-despite-3-6-cola-boost-in-2027-101792087917984.html",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "US retirees may face significantly reduced income in their later years.",
+      "context": "US Social Security benefits could be cut by 22% for retirees by 2032.",
+      "next": "Policymakers will debate reforms to ensure Social Security's solvency.",
+      "bigger": "Aging populations strain public pension systems worldwide.",
+      "publishedAt": "2026-10-16T00:10:21+05:30",
+      "topicFingerprint": [
+        "retirees",
+        "social",
+        "benefit",
+        "warning",
+        "face"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "What did the Liberty Bell sound like? Science is on the case.",
+      "description": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Historians and the public may gain a new understanding of its sound.",
+      "context": "Researchers are using science to determine the original sound of the Liberty Bell.",
+      "next": "Further analysis may reveal more details about historical sounds.",
+      "bigger": "Scientific methods can unlock secrets of historical artifacts.",
+      "publishedAt": "2026-10-15T19:10:03+00:00",
+      "topicFingerprint": [
+        "did",
+        "bell",
+        "liberty",
+        "science",
+        "case"
+      ],
+      "alternates": []
+    }
+  ],
+  "audioBrief": {
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, Donald Trump has openly criticized Ukraine's attacks on Russian refineries, calling them a \"disgrace.\" This stance suggests that global energy prices could remain unstable as these attacks continue to impact energy supply security.\n\nMeanwhile, a former Federal Reserve official recently chose not to signal any future interest rate hikes. This reflects how central banks worldwide are increasingly coordinating efforts to control inflation and maintain global financial stability.\n\nShifting to economic news, the International Monetary Fund now projects India will become the world's fourth-largest economy by the year 2027. This significant shift means global investment and trade opportunities in India are likely to expand considerably in the coming years.\n\nNext, Nvidia's CEO, Jensen Huang, has urged the US and China to engage in dialogue regarding the development of potentially dangerous artificial intelligence. A lack of conversation could significantly increase risks from uncontrolled AI development, highlighting the need for global, collaborative regulation.\n\nIn other news, a strong 6.9 magnitude earthquake recently struck Russia's Kamchatka Peninsula, though no tsunami warning was issued. People in the region may still face risks from aftershocks and potential infrastructure damage, as active seismic zones remain vulnerable.\n\nSwitching to technology, major tech companies are currently in a fierce battle for chip production capacity at TSMC, amid a record quarter for the manufacturer. This intense competition means the availability of cutting-edge AI devices and technology may face delays due to semiconductor supply chain constraints.\n\nChina is also accelerating its efforts to globalize the yuan currency, entering a faster phase of its plan. This move suggests that global trade and financial transactions may increasingly use the yuan, challenging the US dollar's long-standing dominance in global finance.\n\nNext, EU leaders are holding a summit to discuss trade imbalances with China, along with the bloc's budget and support for Ukraine. EU companies may face new trade regulations when dealing with China, as geopolitical tensions continue to reshape international trade relations.\n\nIn the Middle East, Israel has halted commercial goods from entering Gaza, with Hamas denying claims about tax revenues. This action means Gaza residents may face severe shortages of essential goods, underscoring how conflicts often severely disrupt civilian access to basic necessities.\n\nMoving to the economy, US CEO confidence in the economy has now fallen into negative territory. This drop indicates that businesses may slow hiring and investment, potentially affecting overall job growth and serving as a key indicator of economic health.\n\nAnd there's a Social Security warning for the US: retirees could see a twenty-two percent cut in benefits by 2032, despite a projected increase in 2027. This means US retirees may face significantly reduced income in their later years, a challenge faced by aging populations worldwide.\n\nFinally today, researchers are using science to determine the original sound of the Liberty Bell. This project means historians and the public may soon gain a new understanding of this iconic artifact, demonstrating how scientific methods can unlock secrets of historical objects.\n\nAnd as you head into your day, here\u2019s a thought on what drives us. Think about reading a captivating book that ends a chapter on a cliffhanger; your brain instantly seeks resolution. This natural 'information gap' effect is a potent motivator. We feel a tension when faced with incomplete patterns, which drives us to find the missing pieces. Whether learning a new skill or starting a project, presenting just enough to spark curiosity\u2014but not too much\u2014encourages deeper engagement. The subtle power of the unsaid doesn't diminish understanding; it ignites the desire for it.\n\nThat's your Sift Daily Briefing for today.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
+    "estimatedDurationSeconds": 205
+  },
+  "audioBriefIndepth": {
+    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly understand the stories shaping our world, moving beyond the headlines to explore the underlying dynamics.\n\nFirst up, we're looking at a recent development in the ongoing conflict in Ukraine. Former US President Donald Trump has publicly criticized Ukraine's recent strikes on Russian oil refineries, calling them a \"disgrace.\" He specifically told the Newsmax news outlet that these actions contribute to elevated global energy prices.\n\nTo understand why this is happening, Ukraine has indeed resumed striking Russian oil refineries, a strategic move declared by President Volodymyr Zelensky. The aim here is to disrupt Russia's war economy by targeting its capacity to refine crude oil into sellable fuel, which is a significant source of revenue for Moscow. However, when these refineries are hit, they reduce the global supply of refined petroleum products, or at least increase the perceived risk in the market for future supply. This reduction or increased risk then creates upward pressure on global energy prices. Trump's criticism highlights a complex dilemma: while Ukraine targets Russian military financing, the indirect effect is higher costs for consumers worldwide, a point that could create friction among international allies prioritizing economic stability. The political consequence of this is that Ukraine's military strategy could face increased scrutiny or pressure from countries concerned about the ripple effect on global markets.\n\nMoving on to global finance, a former Federal Reserve official, Kevin Warsh, recently withheld any signal about another interest rate hike this month. Instead, he highlighted what he called a \"synchronous tightening\" by central banks around the world, all working together to combat inflation.\n\nCentral banks typically raise interest rates to cool down an overheating economy and bring inflation under control. When borrowing becomes more expensive, it discourages spending and investment, which in turn reduces demand and helps to stabilize prices. What Warsh emphasized with \"synchronous tightening\" is that major central banks globally are enacting similar policies at roughly the same time. This coordinated action is crucial because if only one country raises rates, it can attract capital from other nations, potentially weakening their currencies and making their own inflation fight harder. By acting in concert, these central banks amplify the collective impact, making their efforts more effective in bringing down global inflation without unintended side effects. This suggests a shared understanding among central banking authorities that inflation is a global challenge requiring a united front. Looking ahead, central banks will continue to meticulously monitor global inflation trends and economic data to determine if current policies are sufficient, or if further adjustments are needed to maintain financial stability.\n\nNext, a significant shift in the global economic landscape is on the horizon. The International Monetary Fund, or IMF, now projects that India is set to overtake Japan as the world's fourth-largest economy by the year 2027. This means India's Gross Domestic Product, or GDP \u2013 which measures the total value of all goods and services produced in the country \u2013 is expected to reach $4.52 trillion in just a few years.\n\nThis projection isn't merely about a change in ranking; it reflects a fundamental and sustained growth trajectory for India. The country benefits from a large and relatively young population, which provides both a substantial workforce and a growing consumer base. Coupled with significant government investment in infrastructure and a burgeoning technology and manufacturing sector, India is expanding its productive capacity at a rapid pace. As its economic output continues to increase faster than that of more mature economies like Japan, it naturally climbs the global economic ladder. This ascent signals a substantial increase in India's influence and opportunities on the international stage. As this economic power shift unfolds, global investors and trading partners will increasingly turn their attention to India, likely leading to expanded investment flows and new trade agreements. India's economic policies and market dynamics are poised to gain considerable international attention, reflecting its growing importance in the global economy.\n\nShifting focus to the future of technology, Jensen Huang, the CEO of Nvidia, a leading chipmaker, has called for crucial dialogue between the United States and China regarding the development of what he terms \"potentially dangerous\" artificial intelligence. He told CNBC that he is already engaged in ongoing \"dialogs\" with researchers in China.\n\nThe core mechanism here is the rapid and largely unregulated advancement of AI technology, particularly advanced systems that could develop capabilities beyond human control or understanding. Without open communication and collaboration between the two global AI superpowers, the US and China, there's a heightened risk that each nation could develop AI systems with divergent ethical standards, incompatible safety protocols, or even in ways that create strategic instability or an AI arms race. Huang's call for dialogue, especially between researchers, aims to foster a shared understanding of the risks, establish common ground for safety measures, and potentially agree on red lines that prevent the development of truly dangerous AI. This proactive engagement from industry leaders underscores the urgency of establishing guardrails before the technology progresses too far. Governments around the world may begin to consider new frameworks for international AI cooperation, recognizing that regulating advanced AI requires a unified, global approach to mitigate potential catastrophic outcomes.\n\nMeanwhile, the Earth continues to remind us of its powerful forces. A strong earthquake, with a magnitude of 6.9, recently jolted Russia's Kamchatka Peninsula. The good news is that no tsunami warning was issued following the quake.\n\nThe Kamchatka Peninsula is situated along the Pacific Ring of Fire, a region notorious for its high seismic and volcanic activity, where multiple tectonic plates are constantly interacting. Earthquakes occur when these massive plates abruptly shift, releasing enormous amounts of stored energy. The EMSC reported that this particular quake occurred at a depth of 140 kilometers, which is quite deep. The significance of a deep earthquake is that the energy dissipates more over a longer distance before reaching the surface. This often means that while the earthquake can be felt widely, the intensity of the shaking at the surface is less severe than a shallower quake of the same magnitude. Additionally, deep quakes are generally less likely to generate tsunamis because the displacement of the seafloor is less direct. Consequently, the immediate focus turns to assessing any localized damage and ensuring the safety of residents, especially from potential aftershocks, which are smaller tremors that often follow a larger earthquake. This event is a stark reminder that active seismic zones globally remain inherently vulnerable to such powerful geological events, necessitating constant preparedness.\n\nIn the highly competitive world of technology, there's a fierce battle unfolding over semiconductor manufacturing. TSMC, the Taiwan Semiconductor Manufacturing Company, which is the world's largest contract chipmaker, had a record quarter, yet it's struggling to meet demand as major players like Nvidia, Apple, Broadcom, and AMD all fight for its limited production capacity.\n\nThe underlying mechanism here is the critical role TSMC plays in producing the most advanced, cutting-edge chips. These aren't just any chips; they are the sophisticated components essential for breakthroughs in artificial intelligence, high-performance computing, and premium consumer electronics. As global demand for AI-driven technologies has exploded, these tech giants, who design their own chips but rely on TSMC to manufacture them, are all vying for a finite number of production slots. Despite TSMC's massive output and continued expansion, its capacity for the absolute leading-edge process nodes simply cannot keep pace with the exponential growth in demand from multiple industry titans simultaneously. This fierce competition means that companies may face delays in getting their chips manufactured, which in turn can lead to delays in the availability of cutting-edge AI devices and other advanced technologies for consumers. Consequently, chipmakers are under immense pressure to expand their production capacity rapidly, a challenge that requires significant investment and several years to bring new facilities online. This bottleneck underscores how semiconductor supply chain constraints continue to impact global tech innovation, shaping which companies can bring new products to market fastest.\n\nSwitching our attention to global economics, China is accelerating its long-term plan to globalize the yuan, its national currency. Beijing is intensely focused on building out the necessary infrastructure to expand the yuan's use in international financing and investment.\n\nFor decades, the US dollar has been the undisputed king of global finance, used as the primary currency for international trade, investment, and as a reserve currency held by central banks worldwide. China's objective is to challenge this dollar dominance by making the yuan a more attractive and viable alternative. This isn't just about encouraging more countries to use the yuan for direct trade; it involves creating the underlying financial plumbing. This \"infrastructure\" includes establishing more yuan-denominated clearing houses in major financial hubs, promoting the issuance of yuan-denominated bonds, and encouraging its use in bilateral currency swap agreements with other nations. By making it easier, more liquid, and more widely accepted for global transactions and investments, China aims to reduce its own reliance on the dollar, enhance its geopolitical influence, and give other countries an alternative to dollar-centric financial systems. As this initiative gains momentum, we may see more countries adopting the yuan for international settlements, which could gradually erode the US dollar's long-standing dominance in global finance, ushering in a more multipolar currency system.\n\nAcross the Atlantic, European Union leaders are convening a summit to tackle a range of critical issues, with a strong focus on their economic relationship with China, the ongoing situation in Ukraine, and the bloc's upcoming budget.\n\nA key item on their agenda is curbing the EU's substantial trade deficit with China. This deficit means that the EU is importing significantly more goods from China than it exports, which some leaders view as unsustainable and potentially detrimental to European industries. Discussions will likely explore measures such as investigating alleged unfair Chinese trade practices, considering targeted tariffs on certain imports, or promoting policies that strengthen European domestic production to reduce reliance on Chinese goods. These actions stem from a broader geopolitical pivot to re-evaluate trade dependencies and economic security. Separately, leaders are also working to finalize the next EU budget. This is always a complex negotiation, as member states have differing priorities on how much to contribute and where funds should be allocated, from agricultural subsidies to defense initiatives. Reaching an agreement is particularly urgent given major elections scheduled for next year, which could significantly alter the political landscape within the bloc and shift budgetary priorities. The outcome of these discussions could lead to new trade regulations impacting companies operating between the EU and China, and a successful budget agreement is vital for the EU's ability to fund its strategic objectives and respond to future challenges.\n\nA pressing humanitarian concern centers on Gaza, where Israel has halted the entry of commercial goods. This includes essential items like fruit and winter clothing, cutting off a vital source of supplies for the territory.\n\nThis action by Israel effectively closes a key access point for a wide array of necessities for Gaza's civilian population. While such measures are often justified by security concerns, for instance, to prevent the entry of items that could be diverted for military purposes, the immediate and profound impact is a severe reduction in the availability of essential goods within Gaza. The territory already faces significant challenges due to years of blockade and conflict, and this halt exacerbates an already precarious humanitarian situation. Hamas, the governing authority in Gaza, has denied specific tax claims that Israel reportedly cited as part of the justification, indicating a clear dispute over the reasons for the shutdown. This immediate consequence is that residents of Gaza will likely face increased scarcity, higher prices, and deepened hardship. The international community and humanitarian organizations are expected to intensify their calls for renewed access for aid and commercial goods, underscoring how conflicts routinely disrupt civilians' fundamental access to basic necessities, often with dire consequences.\n\nIn the US economy, a notable indicator has recently shifted. CEO confidence in the US economy has now dropped into negative territory, according to a survey from the Conference Board.\n\nCEO confidence is a critical barometer for the health and future direction of the economy. When chief executives feel optimistic about economic prospects, they are typically more inclined to invest in their businesses, expand operations, and hire more employees. Conversely, when confidence falls into \"negative territory,\" it signifies that more business leaders expect economic conditions to worsen rather than improve. This shift in sentiment isn't just an abstract feeling; it translates directly into tangible business decisions. Companies are likely to adopt more cautious spending and expansion plans, potentially freezing hiring, postponing new investment projects, or tightening budgets. This collective pullback in business activity can then dampen overall economic growth and job creation. A sustained decline in business sentiment can become a self-fulfilling prophecy, contributing to an economic slowdown as companies collectively prepare for leaner times.\n\nLooking at a significant issue for many Americans, a new warning has emerged regarding Social Security. Retirees could face a substantial 22% cut in their benefits by 2032. This projection comes despite a modest 3.6% Cost of Living Adjustment, or COLA, boost expected in 2027, which would raise average monthly payments by about $75.\n\nTo understand this, Social Security is funded primarily by payroll taxes paid by current workers. The system faces a long-term solvency challenge because the demographic balance is shifting: there are fewer workers paying in relative to the growing number of retirees drawing benefits. This imbalance is driven by factors like lower birth rates and increased life expectancy. The Social Security trust funds are projected to become depleted around 2032. If Congress does not take legislative action to address this shortfall before then, the program would only be able to pay out benefits from its incoming tax revenue, which would cover about 78% of scheduled benefits, leading to an automatic, across-the-board cut of 22%. The COLA boost in 2027 is a temporary adjustment to help retirees keep pace with inflation in the short term, but it does not solve the fundamental, long-term funding gap. A 22% reduction in benefits would significantly impact the financial security of millions of US retirees, potentially pushing many into financial hardship. This looming deadline creates immense pressure for policymakers to find solutions, which could involve raising the retirement age, increasing payroll taxes, or adjusting benefits formulas.\n\nAnd finally, a fascinating dive into history through the lens of science: researchers are now using scientific methods to determine what the iconic Liberty Bell actually sounded like before it cracked.\n\nThe Liberty Bell, a symbol of American independence, hasn't been rung since the 19th century due to its famous crack. To uncover its original acoustic properties, researchers are employing a technique called modal analysis. This involves studying the vibrational characteristics of objects. In this case, they are using a 20th-century replica bell at Penn State Behrend. By carefully striking the replica and using sensors like accelerometers, scientists can measure precisely how the bell vibrates at different frequencies. This data allows them to create a detailed mathematical model of the bell's unique sound properties. By combining this information with historical data about the original bell's materials and dimensions, they can then simulate and reconstruct what the un-cracked Liberty Bell would have sounded like. This scientific detective work leverages physics and engineering to bring a lost sensory experience back to life. This research offers a unique and tangible connection to a pivotal piece of American history, allowing us to \"hear\" the past in a way previously thought impossible. It demonstrates how modern scientific methods can unlock secrets of historical artifacts, deepening our understanding and appreciation for the past.\n\nNow, for today's reflection: Why does partial knowledge fuel your drive? It's about how a little mystery can spark your motivation.\n\nImagine you're engrossed in a captivating book, and a chapter suddenly ends on a cliffhanger. That feeling you get, that irresistible urge to turn the page? That's your brain, wired to close open loops, instantly seeking resolution. This powerful phenomenon is known as the \"information gap\" effect.\n\nBehavioral psychology shows us that we experience a natural tension when we're confronted with incomplete patterns or puzzles. This isn't necessarily a bad feeling; in fact, it's a profound motivator. This discomfort actively drives us to expend mental effort, to explore, to seek out and piece together those missing bits of information. It's a fundamental part of how we learn and engage with the world.\n\nWhether you're learning a new skill, starting a challenging project, or simply trying to understand a complex idea, presenting just enough to spark genuine curiosity, but strategically holding back some of the detail, is a remarkably effective strategy. It encourages deeper engagement, prompts you to ask questions, and sustains your effort as you actively seek answers.\n\nSo, here's a thought for you today: when you're explaining a new idea to someone, consider leaving just one small, interesting detail unsaid. Don't hide it entirely, but let it be a subtle hint that there's more to discover.\n\nThe subtle power of the unsaid doesn't diminish understanding; quite the opposite. It ignites the desire for it, transforming passive listening into active inquiry. Take that thought with you as you navigate your day, allowing curiosity to be a gentle guide.\n\nThat's your Sift In-Depth Briefing for today. We hope this exploration has offered you a clearer perspective on the intricate workings of the world. Take a moment to absorb what you've heard, and then, move forward with a renewed sense of understanding.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
+    "estimatedDurationSeconds": 1011
+  },
+  "candidatePool": [
+    {
+      "title": "America's not ready for the consequences of space warfare",
+      "description": "The future of war is in outer space \u2014 and the U.S. is unprepared for the fallout. Why it matters: An outbreak of space warfare would cripple the global economy by disrupting satellites used for everything from worldwide financial transactions to maritime navigation. It would also hinder the U.S. mil",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/space-war-china-russia",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Global economy and daily life could be crippled by satellite disruptions.",
+      "context": "The US is unprepared for the consequences of potential space warfare.",
+      "next": "Governments may increase investments in space defense capabilities.",
+      "bigger": "Space is becoming a critical and contested domain for nations.",
+      "publishedAt": "2026-10-15T09:30:08+00:00",
+      "topicFingerprint": [
+        "space",
+        "consequences",
+        "ready",
+        "warfare",
+        "us_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Here\u2019s Apple\u2019s official response to OpenAI\u2019s trade secret theft allegations",
+      "description": "Apple has responded to OpenAI\u2019s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more\u2026",
+      "source": "9To5Mac",
+      "url": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Company intellectual property is at increased risk from employee transitions.",
+      "context": "Apple responded to OpenAI's claims of an ex-employee stealing trade secrets.",
+      "next": "Legal proceedings may further clarify intellectual property protections.",
+      "bigger": "Protecting trade secrets is crucial in competitive tech industries.",
+      "publishedAt": "2026-10-15T19:57:37+00:00",
+      "topicFingerprint": [
+        "openai",
+        "trade",
+        "apple",
+        "details",
+        "theft"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "UK's Streeting says he and Hegseth welcomed Starlink restoration in Ukraine",
+      "description": "WASHINGTON, Oct 15 - Britain's defense secretary said he and US Defense Secretary Pete Hegseth welcomed the restoration of the Starlink service in Ukraine in talks on Thursday, but did not get into why the interruption happened.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/uks-streeting-says-he-and-hegseth-welcomed-starlink-restoration-in-ukraine",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Ukrainian forces regained crucial battlefield communication capabilities.",
+      "context": "UK and US defense secretaries welcomed Starlink's restoration in Ukraine.",
+      "next": "Western allies may continue supporting Ukraine's communication infrastructure.",
+      "bigger": "Satellite internet is vital for modern military and disaster response.",
+      "publishedAt": "2026-10-16T04:21:06+08:00",
+      "topicFingerprint": [
+        "streeting",
+        "starlink",
+        "hegseth",
+        "ukraine",
+        "restoration"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "They fled Russia, but the West sent them back",
+      "description": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Activists fleeing persecution may find fewer safe havens.",
+      "context": "Anti-government activists seeking refuge in the West were deported back to Russia.",
+      "next": "Human rights organizations may increase monitoring of refugee policies.",
+      "bigger": "Asylum policies face scrutiny amidst rising political tensions.",
+      "publishedAt": "2026-10-16T04:57:28+00:00",
+      "topicFingerprint": [
+        "them",
+        "west",
+        "fled",
+        "russia",
+        "sent"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "International Day for the Eradication of Poverty 2026",
+      "description": "A safe home is more than a roof over our heads. It is the foundation of health, security, opportunity and human dignity. Yet for billions of people, that foundation remains out of reach. According to UN-Habitat, 2.8 billion people worldwide face some form of inadequate housing. More than one billion",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/10/international-day-for-the-eradication-of-poverty-2026/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Billions worldwide still lack safe housing, impacting health and dignity.",
+      "context": "The UN marked the International Day for the Eradication of Poverty.",
+      "next": "International efforts will continue to address global housing crises.",
+      "bigger": "Housing security is a fundamental human rights issue globally.",
+      "publishedAt": "2026-10-15T18:34:04+00:00",
+      "topicFingerprint": [
+        "poverty",
+        "eradication"
       ],
       "alternates": []
     },
@@ -307,250 +551,106 @@
       "description": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928",
-      "category": "Environment",
+      "category": "Health",
       "readingTime": 2,
-      "score": 10,
-      "why": "Global efforts to combat climate change may be strengthened or weakened.",
-      "context": "Brazil is holding elections. The outcome could impact the Amazon rainforest.",
-      "next": "New Amazon deforestation policies could be enacted or reversed.",
-      "bigger": "National elections increasingly have global environmental consequences.",
+      "score": 9,
+      "why": "The planet's climate and biodiversity health depend on election outcomes.",
+      "context": "Brazil's upcoming elections are critical for the future of the Amazon rainforest.",
+      "next": "Global environmental groups will closely watch Brazil's election results.",
+      "bigger": "National elections can have far-reaching global environmental impacts.",
       "publishedAt": "2026-10-15T09:52:00+00:00",
       "topicFingerprint": [
         "elections",
-        "planet",
-        "brazil"
+        "brazil",
+        "planet"
       ],
       "alternates": []
     },
     {
-      "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-      "description": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-      "category": "Technology",
+      "title": "Clashes erupt at protest over university funding law in Argentina",
+      "description": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 18,
-      "why": "Global AI development may require more international cooperation on safety.",
-      "context": "Nvidia's CEO urged collaboration with Chinese AI firms for safety.",
-      "next": "AI companies may increase cross-border dialogues on ethical guidelines.",
-      "bigger": "AI technology development necessitates global standards and governance.",
-      "publishedAt": "2026-10-15T11:12:51+00:00",
+      "score": 9,
+      "why": "Argentine students and faculty demand better access to education resources.",
+      "context": "Protesters clashed in Argentina over a university funding law.",
+      "next": "The government may face renewed pressure to address funding demands.",
+      "bigger": "Public education funding often sparks social and political unrest.",
+      "publishedAt": "2026-10-16T01:19:25+00:00",
       "topicFingerprint": [
-        "jensen",
-        "ai_group",
-        "cnbc",
-        "huang",
-        "work"
+        "protest",
+        "university",
+        "argentina",
+        "law",
+        "funding"
       ],
       "alternates": []
     },
     {
-      "title": "STAT+: FDA adcomm members\u2019 ties to industry under scrutiny",
-      "description": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/",
+      "title": "West Asia, Ukraine conflicts drag on; global turmoil leaves no room for political experiments",
+      "description": "Iran and its proxies have hit at the UAE's and Saudi's ambitions to become modern states with vibrant economies.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/west-asia-conflict-drags-on-amid-global-economic-and-energy-uncertainty-101792126122086.html",
+      "category": "General",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Regional economic development and stability face increasing threats.",
+      "context": "Conflicts in West Asia and Ukraine continue, causing global turmoil.",
+      "next": "Geopolitical tensions may further intensify across these regions.",
+      "bigger": "Prolonged conflicts destabilize entire regions and global systems.",
+      "publishedAt": "2026-10-16T11:08:54+05:30",
+      "topicFingerprint": [
+        "drag",
+        "ukraine",
+        "leaves",
+        "room",
+        "west"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
+      "description": "Fran\u00e7ois Picard is pleased to welcome Layla Abdelk\u00e9 Yakoub, Tax Justice and Inequality Advocacy Officer at Oxfam France. \"Today in France a billionaire pays less taxes proportionally than a nurse or a firefighter,\" explains Yakoub. She challenges the foundations of France's fiscal system, arguing th",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "French public services may suffer from unfair taxation of wealthy individuals.",
+      "context": "Oxfam is suing France over alleged tax inequality impacting public services.",
+      "next": "The lawsuit may prompt a review of France's tax policies.",
+      "bigger": "Tax fairness and wealth distribution are growing global concerns.",
+      "publishedAt": "2026-10-15T20:41:16+00:00",
+      "topicFingerprint": [
+        "tax",
+        "france",
+        "takes",
+        "funding",
+        "oxfam"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+      "description": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris poll Tell us: what is your personal \u2018recession indicator\u2019? With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Repu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
       "category": "Policy",
       "readingTime": 2,
       "score": 6,
-      "why": "The neutrality of drug approval processes may face increased skepticism.",
-      "context": "Research revealed close ties between FDA advisors and advocacy groups.",
-      "next": "The FDA may revise advisor affiliation and disclosure policies.",
-      "bigger": "Regulatory bodies struggle to maintain public trust and independence.",
-      "publishedAt": "2026-10-14T14:12:14+00:00",
+      "why": "Consumer spending and confidence in the US economy may decline.",
+      "context": "A US poll shows many voters believe the economy is worsening before midterms.",
+      "next": "Economic sentiment may heavily influence upcoming US elections.",
+      "bigger": "Public perception of the economy often shapes political outcomes.",
+      "publishedAt": "2026-10-15T09:00:13+00:00",
       "topicFingerprint": [
-        "members",
-        "ties",
-        "fda",
-        "scrutiny",
-        "stat"
-      ],
-      "alternates": []
-    }
-  ],
-  "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nRussia has launched new attacks on Ukrainian energy sites, while Ukraine has resumed its own strikes on Russian oil refineries. This escalating conflict could bring fresh risks to global energy prices and the stability of supply chains.\n\nMoving to economics, US inflation saw a rise in September, largely driven by higher energy prices. This continued pressure means your monthly expenses, especially for fuel, may soon start to climb.\n\nMeanwhile, a growing number of voices on Wall Street are concerned that the US economy might be more fragile than it appears. This shift in sentiment could introduce greater uncertainty for your investments and market stability.\n\nSwitching gears, TikTok faces a potential setback as an EU court adviser backed labeling it a \"gatekeeper\" platform. If this designation holds, TikTok's services and how it handles your user data could face new and stricter regulations.\n\nOn climate, researchers have now reported that Earth's climate systems are \"beyond limits,\" with climate change continuing to drive significant shifts. This means you might find your daily life increasingly affected by more frequent extreme weather events.\n\nEuropean Union leaders are gathering for a summit focused on trade relations with China, ongoing aid for Ukraine, and the bloc's budget. This meeting could lead to significant changes in trade policies with China, impacting many European businesses.\n\nIn a related development, China's exports and imports surged impressively in September, bringing its trade surplus close to a record one trillion dollars. This highlights how global trade balances are shifting and competition among nations may intensify.\n\nAcross the Pacific, Japan's finance official issued new warnings about currency movements, especially after the latest rise in US inflation. This volatility could mean imported goods become more expensive for Japanese consumers.\n\nBack in the US, CEO confidence in the economy has now dropped into negative territory, signaling declining optimism among business leaders. This decrease in confidence could significantly slow down business investment and hiring plans.\n\nNext, the upcoming elections in Brazil carry significant global weight due to their potential impact on the Amazon rainforest. Depending on the outcome, worldwide efforts to combat climate change could either be strengthened or weakened.\n\nLooking at technology, Nvidia's CEO has urged collaboration with Chinese AI firms on safety, highlighting the need for global cooperation. This suggests that future AI development will increasingly require international standards and governance for safety.\n\nAnd finally, new research has revealed close ties between FDA advisors and various advocacy groups within the industry. This raises important questions about the neutrality of drug approval processes, potentially leading to increased public skepticism.\n\nFor a moment of quiet reflection, consider this: Beneath two miles of Antarctic ice, vast lakes of liquid water lie completely cut off from the surface, sealed for millions of years. The colossal pressure of the ice sheet above, combined with Earth's geothermal heat, keeps these enormous bodies of water from freezing solid. In this unimaginable darkness, isolated ecosystems thrive. Organisms have evolved entirely apart from the sunlit world, existing in ancient, preserved habitats. Our planet truly hides entire liquid worlds.\n\nThat's your Sift Daily Briefing for today. Thank you for listening.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 191
-  },
-  "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is where we take the time to truly understand the stories shaping our world, moving beyond the headlines to explore the underlying causes and connections.\n\nFirst up today, a concerning escalation in the conflict between Russia and Ukraine. Russia recently launched a series of attacks targeting Ukraine's critical energy sites. This move prompted an immediate response from Ukraine, which announced it would resume its own strikes on Russian oil refineries. This exchange marks a dangerous turn after what was described as a failed attempt at an energy ceasefire, indicating that the fragile truce efforts regarding vital infrastructure have collapsed. The mechanism here is a direct tit-for-tat: Russia seeks to cripple Ukraine's ability to power its cities, industries, and military operations by targeting power generation and distribution. Ukraine, in turn, retaliates by attacking Russia's oil refineries, aiming to disrupt its capacity to produce fuel for its own military and, crucially, to reduce the valuable oil exports that help fund its war efforts. These actions put energy supplies at significant risk for both nations and could lead to volatile energy prices globally. The immediate consequence is a likely intensification of attacks on vital infrastructure, turning energy into a primary weapon in modern warfare, impacting stability far beyond the battlefield.\n\nMeanwhile, a report from the Labor Department indicates that US inflation experienced an uptick in September. This rise was largely driven by a surge in energy prices, which compounded other persistent cost pressures in the economy. The data, often seen through the Consumer Price Index, or CPI, highlights that the battle against inflation is far from over. When energy prices, particularly gas, increase, it has a cascading effect throughout the economy. Businesses face higher costs for transportation, manufacturing, and heating, which are then often passed on to consumers in the form of higher prices for goods and services. This means your household budget, especially for fuel, is likely to feel the pinch. Looking ahead, this trend may prompt central banks, like the Federal Reserve, to consider further interest rate hikes to cool the economy, which in turn affects borrowing costs for everything from mortgages to car loans. It underscores how global economic stability remains a persistent challenge, with energy costs playing a pivotal role.\n\nShifting gears to economic sentiment, despite some outwardly strong numbers, Wall Street is growing increasingly concerned about the US economy's underlying vulnerabilities. While the stock market has shown a respectable 13% gain this year, unemployment rates remain low, and the Gross Domestic Product is still growing, there's a palpable sense of unease among investors. This suggests that while current statistics look good, market participants are looking beyond the present. Their apprehension often stems from concerns about the sustainability of current growth, potential future impacts of high interest rates, geopolitical risks, or even signs of cooling corporate earnings not yet fully reflected in headline data. This shift in sentiment is significant because Wall Street's outlook often influences real-world investment decisions. If investors become more cautious, they may pull back from riskier assets, potentially impacting overall stock market performance and the availability of capital for businesses.\n\nNext, a significant setback for TikTok in Europe, as an adviser to the EU's top court has supported labeling the popular social media platform as a \"gatekeeper.\" Under the European Union's Digital Markets Act, companies designated as gatekeepers \u2013 a list that includes tech giants like Google, Meta, Apple, Amazon, and Microsoft \u2013 face much stricter regulations due to their significant market power. The mechanism behind this is the EU's desire to ensure fair competition and protect consumer data from dominant online platforms. Being labeled a gatekeeper means TikTok would face new obligations, such as interoperability requirements, restrictions on combining user data across its various services, and rules ensuring that businesses can access its platform fairly. This legal opinion suggests TikTok will likely have to make substantial changes to its business practices, especially concerning how it handles user data and promotes content within Europe. This development is part of a broader global trend where regulators are tightening their grip on major digital platforms to curb their influence and potential abuses.\n\nIn climate news, researchers have issued a stark warning, indicating that climate change has pushed Earth's environmental systems \"deeper into uncharted territory.\" This new report, which focuses on the state of the planet's climate in the year 2026, suggests that we are moving beyond predictable patterns and into realms where historical data and past models may no longer fully capture future behavior. The causal chain here is clear: rising global temperatures, driven by human activity, are intensifying extreme weather events such as more frequent and severe heatwaves, devastating floods, and prolonged droughts. These changes are not just gradual shifts; they are creating cascading effects, from melting glaciers and rising sea levels to widespread ecosystem disruption. This means your daily life may increasingly be affected by more intense and unpredictable weather phenomena, impacting everything from food supply to infrastructure. Governments worldwide will face escalating pressure to implement far more robust climate action, as the planet's systems move closer to irreversible tipping points, posing growing existential risks to global stability.\n\nTurning to international diplomacy, European Union leaders are currently meeting in Brussels to address a range of critical issues, with a particular focus on trade relations with China, continued aid for Ukraine, and the bloc's upcoming budget. A key agenda item is examining measures to curb the EU's substantial trade deficit with China. This deficit signifies that the EU imports significantly more goods and services from China than it exports, which can create economic imbalances and concerns about industrial competitiveness within the bloc. Discussions on potential measures could include imposing new tariffs, increasing subsidies for European industries, or implementing stricter regulations on Chinese imports, all aimed at fostering a more balanced trade relationship. Additionally, leaders are working to finalize the next EU budget, a crucial step that determines how the bloc funds its various policies and initiatives, including its vital support for Ukraine, ahead of significant European elections next year. The outcomes of these discussions could lead to new trade restrictions or economic policies that reshape European businesses' interactions with China, highlighting how geopolitical tensions are increasingly driving global trade relations.\n\nFurther illustrating global trade dynamics, China's September exports and imports both surged significantly, pushing its nine-month trade surplus closer to a record-breaking $1 trillion. Specifically, exports rose by an impressive 36.3%, while imports grew by 31.0%. This substantial increase means China is exporting far more goods than it imports, accumulating a massive amount of foreign currency. The mechanism behind this is China's immense manufacturing capacity and robust global demand for its products, alongside strong domestic consumption for imported goods. This growth reinforces China's position as a dominant force in global manufacturing and trade. A near-$1 trillion trade surplus indicates extraordinary economic strength and competitiveness. This strong performance means global trade balances and competition among nations are likely to intensify, potentially prompting other countries to adjust their own trade policies and strategies in response to China's formidable economic presence.\n\nSwitching to currency markets, Japan's finance official, Ms. Katayama, has renewed warnings about currency movements following the recent uptick in US inflation. This statement comes amidst concerns about the value of the Japanese yen. The core mechanism at play here is interest rate differentials and economic policy. When US inflation heats up, it can signal that the Federal Reserve might continue to raise interest rates or keep them high, strengthening the US dollar. If Japan's central bank maintains a very low-interest rate policy \u2013 as it has for a long time \u2013 the yen can weaken significantly against the dollar. A weaker yen makes imported goods, like energy and raw materials, more expensive for Japanese consumers and businesses, which can then fuel domestic inflation. Ms. Katayama's warnings are a strong signal that Japan's government is closely watching the situation and may be prepared to intervene in foreign exchange markets, potentially by selling dollars and buying yen, to stabilize its currency. Her comment about Japan's \"fiscal sustainability\" suggests the country has the financial capacity to credibly execute such interventions if necessary. This highlights how currency volatility continues to be a persistent challenge for global economies, with direct impacts on purchasing power.\n\nMeanwhile, a recent survey from the Conference Board indicates that CEO confidence in the US economy has dipped into negative territory earlier this month. This finding signifies that, on balance, more business leaders now expect economic conditions to worsen rather than improve in the near future. The significance of CEO confidence cannot be overstated: these are the individuals responsible for making major decisions about business investment, hiring, and expansion. When their outlook turns pessimistic, it directly influences their plans. A decline in confidence often leads to companies becoming more conservative with their spending, postponing or reducing capital investments, and slowing down hiring processes. This cautious approach can then ripple through the broader economy, potentially leading to reduced job growth and slower economic expansion. This trend also suggests a shared sentiment with consumers, as the report indicates business leaders are \"mind-melding\" with the public's general economic outlook. Business sentiment often serves as a key indicator that can foreshadow broader shifts in the economic landscape.\n\nNext, attention turns to Brazil, where upcoming elections hold significant implications that could resonate worldwide, particularly concerning the future of the Amazon rainforest. The Amazon is globally recognized as vital for the planet's health, acting as a massive carbon sink that absorbs greenhouse gases and a crucial reservoir of biodiversity. The core mechanism connecting these elections to the environment is political will and policy. Different presidential administrations in Brazil have vastly different approaches to environmental protection, land use, and resource management. A government that prioritizes economic development and agricultural expansion at all costs might roll back environmental regulations, leading to accelerated deforestation, illegal mining, and habitat destruction. Conversely, an administration committed to conservation could enact stronger protections and enforce existing laws, potentially slowing or reversing the damage. Therefore, the outcome of these elections could either strengthen or weaken global efforts to combat climate change, directly impacting the well-being of indigenous communities and the planet's ecological balance for decades to come.\n\nMoving to the rapidly evolving field of artificial intelligence, Jensen Huang, the CEO of Nvidia, a leading designer of AI chips, has stressed the critical need for collaboration with Chinese AI companies on safety. He specifically mentioned having \"ongoing dialogs\" with researchers in China. The underlying mechanism here is the recognition that AI development is a global endeavor, and its potential risks and ethical challenges transcend national borders. If different countries and companies pursue AI without shared safety protocols, ethical frameworks, or even a common understanding of potential dangers, it could lead to the proliferation of misaligned or potentially harmful AI systems. Nvidia's leadership in AI hardware gives its CEO a unique perspective on these issues, understanding that the technology itself does not respect geographical boundaries. Therefore, ensuring the safe, ethical, and beneficial development of AI worldwide requires sustained international cooperation and open communication among all major players, including those in China.\n\nAnd finally today, new research has brought the ties between members of FDA advisory committees and industry groups under scrutiny. This study revealed that nearly 40% of FDA advisory meetings held over a recent 20-year period included at least one patient or consumer representative with active connections to an advocacy group. The mechanism of concern here lies in the integrity and perceived neutrality of the drug approval process. FDA advisory committees play a crucial role by evaluating new drugs and medical devices and offering recommendations to the agency. While patient and consumer advocacy groups provide invaluable perspectives, active ties \u2013 such as funding or leadership positions \u2013 could potentially introduce biases into the decision-making process. The worry is that these connections, if not fully transparent and managed, might inadvertently influence recommendations towards specific treatments or companies, based on factors beyond pure scientific merit. This finding raises questions about the public's trust in the objectivity of these critical regulatory bodies. In response, the FDA may face pressure to review and potentially revise its policies regarding advisor affiliations and disclosure requirements to reinforce public confidence and maintain independence in its crucial role.\n\nToday's reflective insight is about the remarkable discovery that the deepest lakes on Earth are actually buried under ice.\n\nImagine this: beneath two miles of solid Antarctic ice, vast bodies of liquid water lie completely cut off from the surface world. These colossal lakes have remained sealed away, isolated from the sun and atmosphere, for millions of years. It's an astonishing thought.\n\nThe physics behind it are equally fascinating. The immense pressure exerted by the colossal ice sheet above, combined with the Earth's natural geothermal heat emanating from below, works in concert to prevent these massive reservoirs of water from freezing solid. It creates a unique, self-sustaining environment.\n\nAnd in this unimaginable, perpetual darkness, thriving, isolated ecosystems have been found. Organisms have evolved entirely apart from the sunlit world we know, adapting to survive in these ancient, preserved habitats. It's a profound reminder of life's incredible resilience and adaptability. Our planet truly hides entire liquid worlds, completely distinct from anything we've explored before, offering a powerful sense of wonder about the mysteries still waiting to be uncovered right here on Earth.\n\nThank you for joining us for your Sift In-Depth Briefing. We hope this analysis has provided a clearer understanding of the forces at play in our complex world. Take a moment to reflect, and we wish you a peaceful and informed day.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 786
-  },
-  "candidatePool": [
-    {
-      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-      "description": "A sell-off in global technology hardware stocks deepened Thursday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Investment in AI technologies may become more volatile and risky.",
-      "context": "Major AI tech stocks like Nvidia, AMD, Micron fell. Sell-off in hardware deepened.",
-      "next": "Investors may re-evaluate portfolios for tech hardware companies.",
-      "bigger": "Tech sector faces rapid growth followed by market corrections.",
-      "publishedAt": "2026-10-15T08:18:14+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "amd",
-        "micron",
-        "sell",
-        "nvidia"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "description": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Energy prices and supply chain stability may face new risks.",
-      "context": "Ukraine will resume strikes on Russian oil refineries. This ends hopes for an energy ceasefire.",
-      "next": "Both sides may escalate attacks on each other's energy infrastructure.",
-      "bigger": "Energy infrastructure becomes a primary target in modern conflicts.",
-      "publishedAt": "2026-10-15T10:13:25+00:00",
-      "topicFingerprint": [
-        "ukraine",
-        "russia",
-        "us_entity",
-        "russian",
-        "attacks",
-        "starlink"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "America's not ready for the consequences of space warfare",
-      "description": "The future of war is in outer space \u2014 and the U.S. is unprepared for the fallout. Why it matters: An outbreak of space warfare would cripple the global economy by disrupting satellites used for everything from worldwide financial transactions to maritime navigation. It would also hinder the U.S. mil",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/15/space-war-china-russia",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Your daily services, like GPS, may face disruption risks.",
-      "context": "The US is unprepared for space warfare. Such conflicts could cripple global economy.",
-      "next": "Nations may accelerate efforts to develop and defend space capabilities.",
-      "bigger": "Space increasingly becomes a critical domain for national security.",
-      "publishedAt": "2026-10-15T09:30:08+00:00",
-      "topicFingerprint": [
-        "warfare",
-        "consequences",
-        "ready",
-        "space",
-        "us_entity"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Why is Spain facing a housing crisis? | Explained",
-      "description": "How are tourism and investment funds worsening the crisis? Why is Spain struggling to provide affordable housing? How has the housing crisis affected S\u00e1nchez\u2019s government? What measures has the government proposed to tackle the crisis? What is at stake in Spain\u2019s snap election?",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/why-is-spain-facing-a-housing-crisis-explained/article71583583.ece",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Affordable housing access for residents in Spain may worsen.",
-      "context": "Spain is facing a severe housing crisis. Tourism worsens affordability challenges.",
-      "next": "The Spanish government may implement new rental market regulations.",
-      "bigger": "Global cities struggle with housing affordability due to various pressures.",
-      "publishedAt": "2026-10-15T09:07:22+05:30",
-      "topicFingerprint": [
-        "crisis",
-        "spain",
-        "explained",
-        "housing"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Netflix\u00a0cuts about 6% of jobs in biggest layoff since 2022,\u00a0WSJ reports",
-      "description": "Most of the job cuts will be in the company\u2019s product, tech, legal and HR teams",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/netflix-cuts-about-6-jobs-biggest-layoff-2022-wsj-reports",
-      "category": "General",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Tech and media job markets may face increased competition.",
-      "context": "Netflix cut about 6% of its workforce. These are the largest layoffs since 2022.",
-      "next": "Other media and tech companies might follow with job reductions.",
-      "bigger": "Tech sector restructuring and efficiency drives continue globally.",
-      "publishedAt": "2026-10-14T14:19:21+00:00",
-      "topicFingerprint": [
-        "2022wsj",
-        "layoff",
-        "netflixcuts",
-        "biggest",
-        "jobs"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "CapitaLand India Trust unveils US$203.2 million Chennai data centre",
-      "description": "The 53 MW facility is due for completion by end-2026",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 10,
-      "why": "India's digital infrastructure capacity and services will expand significantly.",
-      "context": "CapitaLand India Trust launched a new data center in Chennai. It will be completed by 2026.",
-      "next": "More international tech investments may flow into India.",
-      "bigger": "Data center expansion is crucial for supporting global digital growth.",
-      "publishedAt": "2026-10-15T11:07:02+00:00",
-      "topicFingerprint": [
-        "us_entity2032",
-        "million",
-        "trust",
-        "unveils",
-        "centre"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Sally Rooney books no longer sold in UK over Palestine Action support",
-      "description": "Sally Rooney is withdrawing her books from sale in the UK after pledging revenues to Palestine Action, a group banned by the British government.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/72c19133-2a6e-4068-b8f7-769e29942bed.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "The availability of certain cultural works may become politically restricted.",
-      "context": "Sally Rooney's books are no longer sold in the UK. She supports a banned group.",
-      "next": "This action may spark debate on artistic freedom and activism.",
-      "bigger": "Political activism increasingly influences commercial decisions and public discourse.",
-      "publishedAt": "2026-10-15T07:10:48+00:00",
-      "topicFingerprint": [
-        "action",
-        "uk_entity",
-        "sold",
-        "books",
-        "longer"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Student protests in Albania turn violent as fire erupts at Education Ministry",
-      "description": "Student protests in Tirana, Albania, turned violent with fires at the Education Ministry and banks as demonstrators demanded PM Edi Rama's resignation.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/0e13fafa-1e66-4f71-943a-14b133dc76ad.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Public safety and daily life in Tirana may face increased disruption.",
-      "context": "Student protests in Albania turned violent. Fires erupted at government buildings and banks.",
-      "next": "The government may deploy more security forces to manage unrest.",
-      "bigger": "Social unrest can quickly escalate into broader political instability.",
-      "publishedAt": "2026-10-14T18:11:46+00:00",
-      "topicFingerprint": [
-        "student",
-        "ministry",
-        "turn",
-        "albania",
-        "violent"
+        "voters",
+        "ahead",
+        "finds",
+        "worse",
+        "midterms"
       ],
       "alternates": []
     },
@@ -561,599 +661,131 @@
       "url": "https://www.motherjones.com/politics/2026/10/ohio-revolt-data-centers-backlash-midterm-elections-opposition/",
       "category": "Environment",
       "readingTime": 2,
-      "score": 6,
-      "why": "Local communities may face environmental and resource strain from tech growth.",
-      "context": "Ohio residents are resisting data center growth. Concerns about energy use are rising.",
-      "next": "State governments may implement stricter regulations on data center development.",
-      "bigger": "Rapid tech expansion often sparks local environmental opposition.",
+      "score": 5,
+      "why": "Local communities may experience increased energy strain and noise pollution.",
+      "context": "Ohio residents are protesting the rapid expansion of data centers.",
+      "next": "Local governments may implement stricter regulations for data center development.",
+      "bigger": "Tech infrastructure growth often creates environmental and community conflicts.",
       "publishedAt": "2026-10-15T11:30:00+00:00",
       "topicFingerprint": [
-        "ohio",
         "revolt",
-        "data",
         "inside",
+        "data",
+        "ohio",
         "centers"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 5,
-      "why": "Workers in Brazil may soon have increased leisure time and balance.",
-      "context": "Brazil's Congress approved a shorter working week. This is a win for President Lula.",
-      "next": "The new policy will likely be implemented, impacting national labor.",
-      "bigger": "Governments worldwide explore policies to improve worker well-being.",
-      "publishedAt": "2026-10-15T10:05:17+00:00",
-      "topicFingerprint": [
-        "brazil",
-        "lula",
-        "approves",
-        "win",
-        "ahead"
-      ],
-      "alternates": [
-        {
-          "title": "Brazil Senate approves shorter workweek in win for Lula ahead of runoff",
-          "description": "Brazil's Congress approves reducing the maximum workweek from 44 to 40 hours without salary cuts, a political victory for President Lula ahead of the runoff.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/7b288b57-fffa-49e7-a237-f316148b60c5.html",
-          "category": "General",
-          "publishedAt": "2026-10-15T05:16:22+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "brazil",
-            "lula",
-            "approves",
-            "win",
-            "ahead"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "How proposed cuts to this major national health survey could disadvantage Americans with disabilities",
-      "description": "As many as a quarter of wheelchair users and more than a third of people who are blind or deaf could be miscategorized as not disabled because of the shorter survey, according to some advocates and researchers.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/health/how-proposed-cuts-to-this-major-national-health-survey-could-disadvantage-americans-with-disabilities",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 4,
-      "why": "Access to vital support services for disabled Americans may diminish.",
-      "context": "Proposed cuts to a US health survey could miscategorize disabled Americans. This may disadvantage them.",
-      "next": "Advocates will likely lobby against proposed survey changes.",
-      "bigger": "Data collection quality is crucial for equitable public policy.",
-      "publishedAt": "2026-10-14T15:55:14-04:00",
-      "topicFingerprint": [
-        "americans",
-        "major",
-        "disabilities",
-        "survey",
-        "disadvantage"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "India, Brunei identify pharma, healthcare and energy as key areas for closer ties",
-      "description": "India and Brunei will explore opportunities in pharmaceuticals, healthcare and energy to boost trade and investment. Bilateral trade between the two countries stood at $365 million in FY26.",
-      "source": "CNBC TV",
-      "url": "https://www.cnbctv18.com/world/india-brunei-identify-pharma-healthcare-and-energy-as-key-areas-for-closer-ties-20012107.htm",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 3,
-      "why": "Trade and investment opportunities between India and Brunei will expand.",
-      "context": "India and Brunei identified key sectors for closer ties. Pharma, healthcare, energy will boost trade.",
-      "next": "Both nations may sign new agreements to facilitate collaboration.",
-      "bigger": "Emerging economies are forging new partnerships to diversify trade.",
-      "publishedAt": "2026-10-14T22:11:27+05:30",
-      "topicFingerprint": [
-        "brunei",
-        "healthcare",
-        "identify",
-        "pharma",
-        "energy"
       ],
       "alternates": []
     }
   ],
   "regionalNewsByCountry": {
-    "india": [
-      {
-        "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-        "description": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T01:56:53+00:00",
-        "reason": "within_48h",
-        "score": 13,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: meta"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "backed",
-          "meta",
-          "jio",
-          "google",
-          "historic"
-        ]
-      },
-      {
-        "title": "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality check amid Musk spat",
-        "description": "Jio Platforms, the company at the center of Musk\u2019s remarks, is launching an IPO later this month.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T06:22:45+00:00",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ipo",
-          "jio",
-          "india",
-          "ambani",
-          "month"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "France is \u2018putting the house in order\u2019 and can slash deficit to 3% in three years, central bank governor tells CNBC",
-        "description": "France is able to slash its huge budget deficit troubling investors across the globe, according to the head of the country's central bank.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T10:05:53+00:00",
-        "reason": "within_48h",
-        "score": 12,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: budget"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: central bank"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: central bank"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "slash",
-          "years",
-          "governor",
-          "deficit",
-          "cnbc"
-        ]
-      },
-      {
-        "title": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-        "description": "Far-right leader and presidential candidate Marine Le Pen said on Wednesday that France could no longer afford to fund Ukraine, citing the country's high deficit and weak economic growth.",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T05:49:13+00:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: finance"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "financial low priority keyword match: says"
-          },
-          {
-            "points": -1,
-            "reason": "financial low priority title keyword match: says"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic growth"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
-          },
-          {
-            "points": -3,
-            "reason": "low quality group in title match: says"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "france",
-          "frontrunner",
-          "pen",
-          "finance",
-          "right"
-        ]
-      }
-    ],
     "china": [
       {
-        "title": "Shenzhen offers discount fares, other perks to keep residents off roads during Apec summit",
-        "description": "Shenzhen residents have been encouraged to work from home and reduce their driving during the coming Asia-Pacific Economic Cooperation (Apec) summit, as the local government unveiled logistics arrangements for one of the year\u2019s biggest events. The measures included \u201cflexible work arrangements\u201d and \u201c",
+        "title": "Why Japanese PM Takaichi is still keen to roll out the welcome mat for Trump",
+        "description": "Japan\u2019s hopes for a visit by Donald Trump during his trip to Asia next month may be hanging in the balance as relations between China and the United States steadily improve. The US president spent three days in Japan ahead of last year\u2019s Asia-Pacific Economic Cooperation summit, and his meeting with",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/article/3371029/shenzhen-offers-discount-fares-other-perks-keep-residents-roads-during-apec-summit",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371045/why-japanese-pm-takaichi-still-keen-roll-out-welcome-mat-trump",
         "fromUrl": "https://www.scmp.com/rss/feed/",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-15T11:00:16+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: asia"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: economic"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "discount",
-          "apec",
-          "keep",
-          "residents",
-          "shenzhen"
-        ]
-      },
-      {
-        "title": "Could Trump join Xi and Putin for 3-way meeting at next month\u2019s Apec summit?",
-        "description": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month\u2019s Apec summit in Shenzhen. Chinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3371002/could-trump-join-xi-and-putin-three-way-meeting-next-months-apec-summit",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T09:00:47+00:00",
+        "publishedAt": "2026-10-16T00:00:26+00:00",
         "reason": "within_48h",
         "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: russia"
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
             "reason": "important keyword match: china"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "month",
-          "putin",
-          "way",
-          "donald_trump",
-          "apec"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "Canada calls sale of 60 stake in IDBI Bank to Toronto firm a \u2018big win\u2019",
-        "description": "Canada calls approval of Fairfax\u2019s $5.6 billion acquisition of a 60.72% stake in IDBI Bank a major win, as India-Canada trade talks resume.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/canada-calls-sale-of-60-stake-in-idbi-bank-to-toronto-firm-a-big-win-101792050375898.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T13:16:15+05:30",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
             "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "India\u2019s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
-            "description": "The Indian government has been divesting its stake in several state-owned companies this year as it tries to keep its growth engine running amid deepening fiscal pressures.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
-            "category": "Policy",
-            "publishedAt": "2026-10-15T06:12:04+00:00",
-            "score": 7,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "idbi",
-              "fairfax",
-              "canada",
-              "india",
-              "billion"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "idbi",
-          "fairfax",
-          "canada",
-          "india",
-          "billion"
-        ]
-      },
-      {
-        "title": "\u2018Enormous potential\u2019 for India-Canada ties amidst global uncertainty: Canadian Foreign Minister",
-        "description": "Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-14T22:16:28+05:30",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "foreign",
-          "ties",
-          "canada",
-          "india",
-          "canadian"
-        ]
-      }
-    ],
-    "united_states": [
-      {
-        "title": "How backlash against data centres could shape the US midterm elections",
-        "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-10-14T23:02:57+00:00",
-        "reason": "within_48h",
-        "score": 8,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: data"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
+            "reason": "important keyword match: asia"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "elections",
-          "shape",
-          "midterm",
-          "backlash",
-          "data"
+          "japanese",
+          "keen",
+          "mat",
+          "takaichi",
+          "welcome"
         ]
       },
       {
-        "title": "Electric vehicle sales in the US are showing signs of life",
-        "description": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-        "fromUrl": "https://techcrunch.com/feed/",
+        "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+        "description": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-14T20:12:07+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "vehicle",
-          "signs",
-          "sales",
-          "electric",
-          "life"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "Singapore\u2019s PDG seeks US$1.2 billion loan for Malaysia data centre",
-        "description": "The Asian data centre operator has been on a borrowing spree as it seeks to expand across Asia.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/singapores-pdg-seeks-us1-2-billion-loan-for-malaysia-data-centre",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-10-14T16:10:00+08:00",
+        "publishedAt": "2026-10-15T12:15:09+00:00",
         "reason": "within_48h",
         "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: loan"
+            "reason": "important keyword match: tech"
           },
           {
             "points": 2,
-            "reason": "important keyword match: data"
+            "reason": "important keyword match: china"
           },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "memory",
+          "hammered",
+          "worries",
+          "oversupply",
+          "china_entity"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Why Japanese PM Takaichi is still keen to roll out the welcome mat for Trump",
+        "description": "Japan\u2019s hopes for a visit by Donald Trump during his trip to Asia next month may be hanging in the balance as relations between China and the United States steadily improve. The US president spent three days in Japan ahead of last year\u2019s Asia-Pacific Economic Cooperation summit, and his meeting with",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371045/why-japanese-pm-takaichi-still-keen-roll-out-welcome-mat-trump",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T00:00:26+00:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
           },
           {
             "points": 2,
@@ -1164,45 +796,8 @@
             "reason": "other category"
           },
           {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "seeks",
-          "pdg",
-          "centre",
-          "us_entity12",
-          "malaysia"
-        ]
-      }
-    ],
-    "uae": [
-      {
-        "title": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues",
-        "description": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/jaishankar-meets-uae-foreign-minister-discusses-bilateral-and-global-issues-101792043032936.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T11:13:52+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": 3,
+            "reason": "Impact priority base match: economic"
           },
           {
             "points": 1,
@@ -1212,46 +807,13 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "foreign",
-          "bilateral",
-          "uae_entity",
-          "discusses",
-          "jaishankar"
+          "japanese",
+          "keen",
+          "mat",
+          "takaichi",
+          "welcome"
         ]
       },
-      {
-        "title": "Jaishankar calls for 'urgent' reform of multilateralism, cites India-UAE partnership",
-        "description": "Jaishankar calls for 'urgent' reform of multilateralism, cites India-UAE partnership",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/jaishankar-calls-for-urgent-reform-of-multilateralism-cites-india-uae-partnership-101792035403106.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-15T09:06:42+05:30",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "urgent",
-          "cites",
-          "reform",
-          "india",
-          "uae_entity"
-        ]
-      }
-    ],
-    "japan": [
       {
         "title": "MUFG\u00a0wades back into Japanese bonds with eye on policy risks",
         "description": "The chief executive of the bank\u2019s global markets business says it has started \u2018exploratory purchases\u2019 of 10-year JGBs at around 3.1%",
@@ -1262,7 +824,7 @@
         "readingTime": 2,
         "publishedAt": "2026-10-15T08:00:15+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
@@ -1283,6 +845,51 @@
           {
             "points": -2,
             "reason": "low quality group match: says"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "japanese",
+          "risks",
+          "mufgwades",
+          "bonds",
+          "eye"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+        "description": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T00:54:25+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: rbi"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: forecast"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
           },
           {
             "points": 1,
@@ -1292,70 +899,169 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "japanese",
-          "bonds",
-          "risks",
-          "eye",
-          "mufgwades"
+          "forecast",
+          "rupee",
+          "dollar",
+          "pushes",
+          "toward"
         ]
-      }
-    ],
-    "australia": [
+      },
       {
-        "title": "What if you could turn off your algorithm? Australia is about to try",
-        "description": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "title": "CapitaLand India Trust unveils US$203.2 million Chennai data centre",
+        "description": "The 53 MW facility is due for completion by end-2026",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-10-14T18:00:54+00:00",
+        "publishedAt": "2026-10-15T11:07:02+00:00",
         "reason": "within_48h",
-        "score": 5,
+        "score": 9,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: tech"
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
             "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
-          },
-          {
-            "points": -1,
-            "reason": "Low opinion keyword: you"
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "australia",
-          "algorithm",
-          "turn",
-          "try"
+          "chennai",
+          "million",
+          "trust",
+          "data",
+          "unveils"
         ]
       }
     ],
-    "mexico": [
+    "europe": [
       {
-        "title": "Mexico's president signs decree ordering tech platforms to protect minors from adult content",
-        "description": "Mexico's president Claudia Sheinbaum has signed a decree ordering digital platforms to protect children from accessing harmful content.",
+        "title": "Why the GCC-EU summit was recently postponed | Explained",
+        "description": "Economic relations, climate change, energy and research opportunities were some of the aspects of the partnership that were expected to be discussed during the summit",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/why-the-gcc-eu-summit-was-recently-postponed-explained/article71590081.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T10:59:52+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: research"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "gcc",
+          "postponed",
+          "summit",
+          "explained"
+        ]
+      },
+      {
+        "title": "Russia moves on more European firms ahead of Zelenskiy's appearance at EU summit",
+        "description": "MOSCOW, Oct 16 - Russia has moved to place local assets of French, German, Swedish and Dutch companies under temporary management, according to a decree by President Vladimir Putin, as EU ties hit a new low over the bloc's support for Ukraine.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/russia-moves-on-more-european-firms-ahead-of-zelenskiys-appearance-at-eu-summit",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T13:50:24+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: russia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "eu_entity",
+          "ahead",
+          "moves",
+          "appearance",
+          "zelenskiy"
+        ]
+      }
+    ],
+    "united_states": [
+      {
+        "title": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
+        "description": "E Ink's new display tech offers improved color reproduction and refresh rates.",
         "source": "Engadget",
-        "url": "https://www.engadget.com/2287376/mexico-president-signs-decree-tech-restrict-adult-content-minors/",
+        "url": "https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/",
         "fromUrl": "https://www.engadget.com/rss.xml",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-10-15T11:36:22+00:00",
+        "publishedAt": "2026-10-15T18:41:58+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 6,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: tech"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 2,
@@ -1367,17 +1073,342 @@
           },
           {
             "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "kaleido",
+          "us",
+          "closer",
+          "perfect",
+          "color"
+        ]
+      },
+      {
+        "title": "Brent steady as US weighs easing sanctions on global 'shadow fleet'",
+        "description": "[HOUSTON] Brent was little changed on Thursday (Oct 15) as investors weighed possible US steps to ease restrictions on the world\u2019s \u201cshadow...",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/brent-steady-us-weighs-easing-sanctions-global-shadow-fleet",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T22:13:23+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "sanctions",
+          "weighs",
+          "brent",
+          "shadow",
+          "steady"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Singapore shares fall as global chip rout hits regional markets; STI down 0.4%",
+        "description": "The worst performer on the blue-chip index is Seatrium",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/singapore-shares-fall-global-chip-rout-hits-regional-markets-sti-down-0-4",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T10:17:51+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          }
+        ],
+        "group_id": 7,
+        "alternates": [],
+        "topicFingerprint": [
+          "rate",
+          "inflation",
+          "hike",
+          "us_entity",
+          "fed"
+        ]
+      },
+      {
+        "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+        "description": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures \u2014 and issue warnings.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T00:06:48+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "gasping",
+          "haze",
+          "relentless",
+          "prime",
+          "air"
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "title": "Brazil's Congress approves shorter working week in win for Lula",
+        "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "Progress",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T10:05:17+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "approves",
+          "win",
+          "working",
+          "lula",
+          "congress"
+        ]
+      },
+      {
+        "title": "Brazil investigates Amazon wildfires that disrupt daily life",
+        "description": "Brazilian authorities are investigating whether a recent surge in Amazon wildfires was orchestrated",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/brazil-investigates-amazon-wildfires-disrupt-daily-life-fueled-137285901",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T09:39:53-04:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "company keyword match: amazon"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "wildfires",
+          "disrupt",
+          "life",
+          "amazon",
+          "investigates"
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "title": "France and Germany agree to ease EU car emissions rules in new deal",
+        "description": "France and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a \u201cmade in Europe\u201d scheme, in a provisional deal reached Thursday that could reshape the bloc\u2019s automotive and climate policies.",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T23:48:57+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "car",
+          "eu_entity",
+          "france",
+          "agree",
+          "emissions"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "France and Germany agree to ease EU car emissions rules in new deal",
+        "description": "France and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a \u201cmade in Europe\u201d scheme, in a provisional deal reached Thursday that could reshape the bloc\u2019s automotive and climate policies.",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T23:48:57+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: climate"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "car",
+          "eu_entity",
+          "france",
+          "agree",
+          "emissions"
+        ]
+      },
+      {
+        "title": "Are student protests being manipulated ahead of France's presidential election?",
+        "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-15T23:25:06+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "protests",
+          "ahead",
+          "france",
+          "election",
+          "presidential"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "UK cabbie is handed counterfeit money, drives fraudster straight to police station",
+        "description": "He immediately knew the note he was handed was fake due to the way it felt in his hands.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/uk-cabbie-is-handed-counterfeit-money-drives-fraudster-straight-to-police-station",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-10-16T14:20:00+08:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "protect",
-          "signs",
-          "ordering",
-          "decree",
-          "mexico"
+          "straight",
+          "fraudster",
+          "station",
+          "cabbie",
+          "counterfeit"
         ]
       }
     ]
