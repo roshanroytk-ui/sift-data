@@ -1,399 +1,593 @@
 {
-  "updatedAt": "2026-10-22T06:59:48.068893",
+  "updatedAt": "2026-10-23T08:14:54.017582",
   "insight": {
-    "title": "You Are Always a Part of Another Story",
-    "subtitle": "This quiet truth acknowledges our deep, often unseen, interdependence.",
-    "notificationHook": "Your life shapes unseen stories.",
+    "title": "The Hand That Unleashed Criticality",
+    "subtitle": "A momentary slip brought a plutonium core to lethal criticality.",
+    "notificationHook": "He triggered a nuclear reaction by hand.",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "In every quiet moment, your mere presence subtly colors the shared canvas of human life, often without a single word."
+        "text": "Los Alamos, 1946. Louis Slotin balanced beryllium hemispheres around a plutonium core, a risky \"tickling the dragon's tail\" experiment. His only separator: a precise instrument."
       },
       {
         "type": "paragraph",
-        "text": "You are, unknowingly, a quiet supporting character in countless individual narratives unfolding around you, near and far."
+        "text": "Then, his hand slipped. The hemispheres slammed shut. A blinding blue flash filled the room as the core went instantly critical, delivering a fatal dose of radiation."
       },
       {
         "type": "paragraph",
-        "text": "This silent, beautiful interplay weaves a vast, living tapestry, where every thread, however small, is profoundly essential."
+        "text": "Slotin reflexively tore the halves apart, likely saving his colleagues but sealing his own fate. He died in agony nine days later, forever haunted by the glow."
       },
       {
         "type": "paragraph",
-        "text": "We are, each of us, a quiet grace in another's world."
+        "text": "Humans push limits, then pay the ultimate price."
       }
     ]
   },
   "news": [
     {
-      "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "description": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "title": "US envoy Witkoff meets Putin; Russia agrees to resume trilateral Ukraine talks",
+      "description": "US envoy Steve Witkoff met Vladimir Putin, who agreed in principle to resume trilateral peace talks with Ukraine and the US to end the invasion of Ukraine.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/9d05fc4f-6853-4c92-a1ac-cbf04b3f80e9.html",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 26,
-      "why": "Your fuel and travel costs may rise soon.",
-      "context": "Oil prices surged amid fears of new military strikes against Iran.",
-      "next": "Energy markets will watch closely for retaliatory attacks.",
-      "bigger": "Geopolitical conflict continues to threaten global supply chains.",
-      "publishedAt": "2026-10-22T05:18:24+00:00",
-      "topicFingerprint": [
-        "saudi",
-        "arabia",
-        "us_entity",
-        "iran",
-        "strikes"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-      "description": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Rising government debt could push up your borrowing costs.",
-      "context": "Global debt reached record levels as borrowing costs rose across major economies.",
-      "next": "More countries may impose steep tax hikes and spending cuts.",
-      "bigger": "Sovereign debt burdens threaten global fiscal stability.",
-      "publishedAt": "2026-10-22T05:59:52+00:00",
-      "topicFingerprint": [
-        "interest",
-        "trillion",
-        "climbing",
-        "bill",
-        "debt"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "description": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "category": "Cybersecurity",
-      "readingTime": 2,
-      "score": 18,
-      "why": "Major online platforms and services may experience sudden security disruptions.",
-      "context": "Tech giants mobilized to patch dangerous vulnerabilities found in widely used software.",
-      "next": "Companies will rapidly push out mandatory security updates.",
-      "bigger": "Software supply chain flaws pose massive threats to internet infrastructure.",
-      "publishedAt": "2026-10-22T01:05:15+00:00",
-      "topicFingerprint": [
-        "google",
-        "openai",
-        "cloud",
-        "ai_group",
-        "models"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "World set to breach 1.5\u00b0C warming limit set by Paris Climate Agreement",
-      "description": "The UN is warning that global commitments to cut planet-heating emissions are falling far short of the Paris climate goals of 1.5 degrees Celsius warming \u2013 and put the world on course for 2.6C warming this century. The report by the United Nations Environment Programme lays bare the chasm between rh",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Expect higher utility bills and more extreme weather disruptions.",
-      "context": "Global emissions cuts remain insufficient to prevent surpassing international temperature limits.",
-      "next": "Governments will face mounting pressure to enforce tougher climate laws.",
-      "bigger": "Global climate transition plans are failing to meet target timelines.",
-      "publishedAt": "2026-10-21T15:56:42+00:00",
-      "topicFingerprint": [
-        "cut",
-        "century",
-        "breach",
-        "set",
-        "15c"
-      ],
-      "alternates": [
-        {
-          "title": "Global warming will breach 1.5\u00b0C \u2013 but deep, fast cuts can still bring it back",
-          "description": "With global temperature rise set to exceed 1.5\u00b0C above pre-industrial levels, countries \u201cmust pull out all the stops\u201d and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168634",
-          "category": "Environment",
-          "publishedAt": "2026-10-21T12:00:00+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "cut",
-            "century",
-            "breach",
-            "set",
-            "15c"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Nigeria identifies travel-related Ebola case",
-      "description": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health",
-      "source": "Stat",
-      "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Regional air travel may face stricter health screenings and border delays.",
-      "context": "Nigerian authorities confirmed an imported Ebola infection linked to a regional outbreak.",
-      "next": "Health officials will trace contacts to contain any local spread.",
-      "bigger": "Cross-border viral outbreaks continue to test global health surveillance.",
-      "publishedAt": "2026-10-21T11:54:47+00:00",
-      "topicFingerprint": [
-        "nigeria",
-        "ebola",
-        "case",
-        "outbreak",
-        "africa"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Russia and Ukraine trade major attacks as Trump touts progress",
-      "description": "Russia and Ukraine traded major attacks overnight with Moscow\u2019s mayor saying on Thursday that 630 drones had been launched towards the region, shortly after a US envoy held talks with the Russian president in St Petersburg. Following Wednesday\u2019s meeting between his envoy Steve Witkoff and Vladimir P",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/world/europe/article/3371739/russia-and-ukraine-trade-major-attacks-trump-touts-progress",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Escalating battlefield attacks may stall potential peace negotiations.",
-      "context": "Russia and Ukraine launched intense strikes against each other amid diplomatic talks.",
-      "next": "Military forces on both sides may intensify cross-border strikes.",
-      "bigger": "Diplomacy remains deeply fragile amid ongoing frontline combat.",
-      "publishedAt": "2026-10-22T05:04:43+00:00",
+      "score": 15,
+      "why": "Diplomatic efforts to end the conflict may now advance.",
+      "context": "A US envoy met Putin, who agreed to resume trilateral peace talks on Ukraine.",
+      "next": "Trilateral discussions involving Ukraine, Russia, and the US could begin.",
+      "bigger": "Diplomacy remains crucial for resolving international conflicts.",
+      "publishedAt": "2026-10-22T20:40:51+00:00",
       "topicFingerprint": [
         "ukraine",
         "russia",
         "us_entity",
-        "putin",
-        "witkoff",
-        "war"
+        "iran",
+        "russian",
+        "strikes"
       ],
       "alternates": [
         {
-          "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-          "description": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-21T06:20:50-04:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Russia, Ukraine exchange strikes as US envoy leaves after talks",
-          "description": "KYIV, Oct 22 - Missiles struck Kyiv in the early hours of Thursday, a Reuters witness said, and Ukraine sent hundreds of drones towards Moscow overnight, as the two sides kept up a barrage of attacks despite the latest US mediation attempts to end the war.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/russia-ukraine-exchange-strikes-as-us-envoy-leaves-after-talks",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-22T11:36:22+08:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Russia and Ukraine trade strikes overnight as Moscow signals readiness for peace talks",
-          "description": "Russia and Ukraine traded major drone and missile strikes on each other's capitals overnight, hours after Moscow signalled readiness to resume US-mediated peace talks. President Donald Trump said negotiations were closer than ever to ending the war, though the Kremlin expressed doubts over Ukrainian",
+          "title": "\u2018No change\u2019 in Russia\u2019s attitude on war shown by deadly attacks, Zelensky says",
+          "description": "Russia\u2019s latest attacks on Ukraine show there has been \u201cno real change\u201d in Moscow\u2019s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin told US envoy Steve Witkoff his country was ready to resume tr",
           "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks",
+          "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
           "category": "Geopolitics",
-          "publishedAt": "2026-10-22T01:51:03+00:00",
-          "score": 12,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-          "description": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-          "category": "General",
-          "publishedAt": "2026-10-21T06:56:00-04:00",
-          "score": 8,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says",
-          "description": "MOSCOW, Oct 21 - Russian President Vladimir Putin told US special envoy Steve Witkoff on Wednesday that Moscow is willing in principle to resume talks next month with Ukraine and the US on ending the conflict in Ukraine, Kremlin aide Yuri Ushakov said.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-21T22:06:28+08:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Russia, Ukraine exchange strikes as US envoy leaves after talks",
-          "description": "Missiles struck Kyiv in the early hours of Thursday, a Reuters witness said, and Ukraine sent hundreds of drones towards Moscow overnight, as the two sides kept up a barrage of attacks despite the latest US mediation attempts to end the war.",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/russia-ukraine-exchange-strikes-as-us-envoy-leaves-after-talks-20016660.htm",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-22T09:11:39+05:30",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Missiles strike Ukraine's capital after U.S. envoy visits Russia",
-          "description": "Mr. Witkoff praised Mr. Putin as a \"humanitarian\" for freeing U.S. citizen Stephen Hubbard, but the Kremlin warned after the meeting in Saint Petersburg that while Moscow was \"in principle\" willing to restart talks there was little \"substance\" in Ukrainian and European peace proposals the U.S. diplo",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece",
-          "category": "General",
-          "publishedAt": "2026-10-22T07:36:37+05:30",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ukraine",
-            "russia",
-            "us_entity",
-            "putin",
-            "witkoff",
-            "war"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
-          "description": "White House envoy Steve Witkoff will meet Russian President Vladimir Putin in St. Petersburg on Wednesday and present him with an updated proposal to end the war in Ukraine , a U.S. official said. President Trump's son-in-law and adviser Jared Kushner will join the meeting virtually. Why it matters:",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-20T23:04:09+00:00",
+          "publishedAt": "2026-10-22T16:43:59+00:00",
           "score": 4,
           "readingTime": 2,
           "topicFingerprint": [
             "ukraine",
             "russia",
             "us_entity",
-            "putin",
-            "witkoff",
-            "war"
+            "iran",
+            "russian",
+            "strikes"
+          ],
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "title": "Philippines surprises with jumbo interest-rate hike as inflation surges, peso slumps",
+      "description": "The country is reeling from war-fuelled price hikes and faces further risks from a \u201csuper\u201d El Nino.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/philippines-surprises-with-jumbo-hike-as-inflation-surges-peso-slumps",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 20,
+      "why": "Philippine consumers may face higher borrowing costs and loan payments.",
+      "context": "The Philippines unexpectedly raised interest rates significantly to counter surging inflation.",
+      "next": "Inflationary pressures in the Philippines may start to ease.",
+      "bigger": "Central banks use interest rates to combat rising global inflation.",
+      "publishedAt": "2026-10-22T17:46:26+08:00",
+      "topicFingerprint": [
+        "risks",
+        "nino",
+        "hike",
+        "inflation",
+        "faces"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining",
+      "description": "Prices for crude oil and diesel have surged since the US and Israel attacked Iran in February.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Your fuel costs may stabilize or decrease slightly.",
+      "context": "Trump invoked the Defense Production Act to boost US oil production and refining.",
+      "next": "US oil companies will prioritize increasing output and refining capacity.",
+      "bigger": "Governments use emergency powers to secure vital energy supplies.",
+      "publishedAt": "2026-10-23T08:20:00+08:00",
+      "topicFingerprint": [
+        "ukraine",
+        "russia",
+        "us_entity",
+        "iran",
+        "russian",
+        "strikes"
+      ],
+      "alternates": [
+        {
+          "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
+          "description": "",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-10-22T21:37:31+00:00",
+          "score": 13,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "ukraine",
+            "russia",
+            "us_entity",
+            "iran",
+            "russian",
+            "strikes"
           ],
           "group_id": 0
         }
       ]
     },
     {
-      "title": "China is moving past a GDP-first mindset. Can local officials get with the programme?",
-      "description": "Plenary sessions of the Central Committee, the upper echelon of China\u2019s ruling Communist Party, are major events on the country\u2019s political calendar. This month\u2019s edition, the fifth plenum, is attracting even more attention as the world\u2019s second-largest economy takes on a more prominent role in glob",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/economy/policy/article/3371666/china-moving-past-gdp-first-mindset-can-local-officials-get-programme",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Businesses operating in China may face stricter regulatory compliance checks.",
-      "context": "China shifted its policy priorities away from raw economic growth targets.",
-      "next": "Local governments will adjust economic plans toward tech and security.",
-      "bigger": "China is prioritizing industrial self-reliance over rapid economic expansion.",
-      "publishedAt": "2026-10-21T22:00:07+00:00",
-      "topicFingerprint": [
-        "local",
-        "officials",
-        "past",
-        "moving",
-        "programme"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Ukraine's strikes on Russian data centers disrupt key services and derail AI research",
-      "description": "Russia prides itself on its digital advances from an extensive e-commerce services sector to ambitious plans for developing artificial intelligence",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/ukraines-strikes-russian-data-centers-disrupt-key-services-137466595",
+      "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+      "description": "Nvidia has launched Minerva, AI operations software that combines data from GPUs, networks, storage and workloads to spot failing parts in large AI data centres early. It groups alerts into single incidents and has an AI assistant. IREN uses it, and Lambda, IBM and Tesla plan to. Nvidia has launched",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
       "category": "Technology",
       "readingTime": 2,
-      "score": 19,
-      "why": "Essential digital services and e-commerce across Russia face major outages.",
-      "context": "Ukrainian attacks crippled major Russian data centers and technology research facilities.",
-      "next": "Critical digital infrastructure could become prime targets in modern warfare.",
-      "bigger": "Modern conflicts increasingly target digital networks and computing power.",
-      "publishedAt": "2026-10-22T02:33:57-04:00",
+      "score": 17,
+      "why": "AI services and tools may become more reliable for users.",
+      "context": "Nvidia launched Minerva, AI software to detect failing components in large AI data centers.",
+      "next": "Data centers will implement Minerva to improve operational efficiency.",
+      "bigger": "AI is increasingly used to manage and optimize complex systems.",
+      "publishedAt": "2026-10-22T17:25:00+00:00",
       "topicFingerprint": [
+        "nvidia",
+        "failing",
         "ai_group",
-        "meta",
-        "billion",
-        "data",
-        "pay",
-        "php"
+        "centres",
+        "parts"
       ],
       "alternates": []
     },
     {
-      "title": "Chinese automaker reports set to shine before challenges mount",
-      "description": "Import curbs in Europe and export tax changes at home are now clouding their outlook.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/chinese-automaker-reports-set-to-shine-before-challenges-mount",
+      "title": "WHO warns Africa faces \u2018complex\u2019 Ebola outbreak as virus reaches Nigeria",
+      "description": "The World Health Organization has warned that Africa faced a \u201ccomplex\u201d Ebola outbreak after the virus crossed from east Africa to Nigeria, marking the first case in the west of the continent. Nigeria on Tuesday had announced an imported case of the Bundibugyo strain, currently causing a major Ebola ",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Public health services will focus on containing this new spread.",
+      "context": "The WHO warned of a complex Ebola outbreak as the virus reached Nigeria.",
+      "next": "International organizations will intensify efforts to control the outbreak.",
+      "bigger": "Disease outbreaks pose ongoing global public health challenges.",
+      "publishedAt": "2026-10-23T06:49:24+00:00",
+      "topicFingerprint": [
+        "warns",
+        "reaches",
+        "ebola",
+        "faces",
+        "who_entity"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "US jobless claims hover near 57-year low as layoffs remain subdued",
+      "description": "America\u2019s jobs market is showing a curious split: employers are holding back on layoffs, yet hiring remains sluggish and more jobseekers are staying on unemployment benefits. The latest data offer a fresh test of the labour market\u2019s resilience.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/economy/us-jobless-claims-hover-near-57-year-low-as-layoffs-remain-subdued-20017279.htm",
       "category": "Economy",
       "readingTime": 2,
-      "score": 13,
-      "why": "International buyers may see higher prices on imported electric vehicles.",
-      "context": "Chinese electric vehicle makers face rising foreign tariffs and shifting domestic subsidies.",
-      "next": "Automakers may seek to open manufacturing plants inside foreign markets.",
-      "bigger": "Trade barriers against clean energy products are growing worldwide.",
-      "publishedAt": "2026-10-21T08:55:00+08:00",
+      "score": 17,
+      "why": "US workers have job security, but new hiring remains difficult.",
+      "context": "US jobless claims remain near historic lows, showing few layoffs despite slow hiring.",
+      "next": "The US labor market may continue to show mixed signals.",
+      "bigger": "Economic recovery often creates an uneven job market.",
+      "publishedAt": "2026-10-22T18:24:03+05:30",
       "topicFingerprint": [
-        "mount",
-        "automaker",
-        "challenges",
-        "set",
-        "shine"
+        "remain",
+        "hover",
+        "jobless",
+        "layoffs",
+        "near"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+      "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 14,
+      "why": "Bulgarian voters prioritize national security and foreign relations.",
+      "context": "Black Sea security and Ukraine policy are dominating Bulgaria's presidential election.",
+      "next": "Bulgaria's foreign policy stances may shift after the election.",
+      "bigger": "Geopolitical events heavily influence national political agendas.",
+      "publishedAt": "2026-10-22T08:31:00+00:00",
+      "topicFingerprint": [
+        "sea",
+        "campaign",
+        "election",
+        "security",
+        "bulgaria"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
+      "description": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Chinese offshore wealth is becoming harder to hide from authorities.",
+      "context": "Wealthy Chinese clients are moving offshore money to US banks due to Beijing's wider tax net.",
+      "next": "US banks may see increased capital inflows from Chinese clients.",
+      "bigger": "Governments are intensifying efforts to track and tax offshore wealth.",
+      "publishedAt": "2026-10-23T04:55:59+00:00",
+      "topicFingerprint": [
+        "beijing",
+        "net",
+        "banks",
+        "offshore",
+        "tax"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Tibet rocked by 7.0-magnitude earthquake",
+      "description": "Tibet rocked by 7.0-magnitude earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Residents in Tibet may face significant damage and safety risks.",
+      "context": "A powerful 7.0-magnitude earthquake struck Tibet.",
+      "next": "Emergency services will assess damage and provide humanitarian aid.",
+      "bigger": "Earthquakes remain a constant threat in seismically active regions.",
+      "publishedAt": "2026-10-23T00:33:16+00:00",
+      "topicFingerprint": [
+        "earthquake",
+        "magnitude",
+        "rocked",
+        "tibet"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Venezuela faces a deepening energy crisis as protests grow",
+      "description": "Venezuela\u2019s worsening electricity crisis is disrupting daily life, pushing frustrated residents into the streets as prolonged blackouts expose the fragility of the country\u2019s power grid.",
+      "source": "Global Voices",
+      "url": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Venezuelan residents face severe disruptions to daily life and safety.",
+      "context": "Venezuela faces a deepening energy crisis with prolonged blackouts sparking growing protests.",
+      "next": "Social unrest in Venezuela may escalate due to the energy crisis.",
+      "bigger": "Failing infrastructure can lead to widespread social instability.",
+      "publishedAt": "2026-10-22T20:06:56+00:00",
+      "topicFingerprint": [
+        "grow",
+        "deepening",
+        "faces",
+        "protests",
+        "crisis"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Canva\u2019s first AI image model plans designs before generating them",
+      "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
+      "source": "Tech | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 18,
+      "why": "Creative professionals will have more diverse AI design tools available.",
+      "context": "Canva launched its first AI image generation model, competing with major tech companies.",
+      "next": "The AI image generation market will become more competitive.",
+      "bigger": "AI is rapidly transforming the landscape of digital content creation.",
+      "publishedAt": "2026-10-22T21:51:25+00:00",
+      "topicFingerprint": [
+        "ai_group",
+        "canva",
+        "designs",
+        "them",
+        "plans"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
+      "description": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 16,
+      "why": "Auto sector workers may face increased job insecurity.",
+      "context": "Volvo Cars shares plunged 31% after citing market slumps in China and the US.",
+      "next": "Volvo may implement further cost-cutting measures.",
+      "bigger": "Global economic slowdowns impact major automotive manufacturers.",
+      "publishedAt": "2026-10-23T07:54:36+00:00",
+      "topicFingerprint": [
+        "cuts",
+        "job",
+        "volvo",
+        "cars",
+        "automaker"
+      ],
+      "alternates": []
+    }
+  ],
+  "audioBrief": {
+    "script": "Welcome to your Sift Daily Briefing. Here's everything that matters today.\n\nFirst up, a US envoy recently met with Vladimir Putin, where Russia agreed to resume trilateral peace talks concerning Ukraine. This significant step means that diplomatic efforts to find a resolution for the ongoing conflict may now finally advance.\n\nMeanwhile, the Philippines has surprised markets by significantly raising its interest rates in an unexpected move to counter surging inflation and a slumping peso. This means consumers there may soon face higher borrowing costs and increased loan payments.\n\nSwitching focus, Donald Trump has invoked the Cold War-era Defense Production Act to boost US oil production and refining capabilities. For you, this action could potentially lead to a stabilization or even a slight decrease in your everyday fuel costs.\n\nNext, Nvidia has launched Minerva, new AI software designed to automatically detect failing components within giant AI data centers. This development aims to make AI services and the various tools we use much more reliable for everyone.\n\nIn public health news, the World Health Organization is warning that Africa now faces a complex Ebola outbreak, as the virus has unfortunately reached Nigeria. This means public health services across the region will now concentrate on containing this new and challenging spread.\n\nTurning to the economy, US jobless claims are hovering near a 57-year low, indicating that layoffs remain subdued despite slower hiring rates. This suggests that while many US workers currently have job security, finding new employment can still be quite difficult.\n\nIn Bulgaria, concerns surrounding Black Sea security and the nation's policy towards Ukraine are now dominating the presidential election campaign. This highlights that Bulgarian voters are heavily prioritizing issues of national security and international relations as they head to the polls.\n\nWe're also seeing wealthy Chinese clients increasingly move their offshore money into US banks, responding to Beijing's expanding tax scrutiny. This trend means it's becoming significantly harder for Chinese offshore wealth to remain hidden from authorities.\n\nAnd tragically, Tibet has been rocked by a powerful 7.0-magnitude earthquake. This severe event means that residents across the affected region may now be facing significant damage to infrastructure and considerable safety risks.\n\nVenezuela is currently grappling with a deepening energy crisis, where prolonged blackouts are sparking growing public protests. For Venezuelan residents, this means severe disruptions to their daily lives, affecting everything from basic services to personal safety.\n\nNext, Canva has launched its first AI image generation model, entering a competitive field alongside major tech companies. This innovation offers creative professionals a wider and more diverse range of AI-powered design tools to enhance their work.\n\nAnd finally, Volvo Cars shares have plunged by 31% after the company cited significant market slumps in both China and the US, alongside fresh job cuts. This unfortunate news suggests that auto sector workers may now face increased job insecurity.\n\nBefore we go, here's a reflective insight to consider. At Los Alamos in 1946, a scientist named Louis Slotin was conducting a risky experiment, balancing beryllium hemispheres around a plutonium core. His only separator was a precise instrument. But then, his hand slipped. The hemispheres slammed shut, unleashing a blinding blue flash as the core instantly went critical, delivering a fatal dose of radiation. Slotin reflexively tore the halves apart, likely saving his colleagues but sealing his own fate. He died in agony nine days later, forever haunted by the glow. It\u2019s a stark reminder of how humans often push limits, sometimes paying the ultimate price.\n\nThat's your Sift Daily Briefing for today. We hope you have a calm and informed day ahead.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
+    "estimatedDurationSeconds": 219
+  },
+  "audioBriefIndepth": {
+    "script": "Welcome to your Sift In-Depth Briefing. This is our full analysis edition, where we look past the headlines to understand the forces shaping your world today.\n\nFirst up, a significant development in the diplomatic sphere. US envoy Steve Witkoff has met with Vladimir Putin, resulting in an agreement in principle to resume trilateral peace talks involving Russia, Ukraine, and the United States. While peace in Ukraine has seemed elusive for a long time, the involvement of the US directly alongside both primary parties marks a change in strategy. This shift acknowledges that the conflict has expanded beyond a regional border dispute into a global geopolitical standoff that requires direct American mediation to move the needle. The next step here is the actual convening of these three parties. Should these talks materialize, the focus will likely be on establishing a framework to halt the active fighting, though the gap between the two sides remains immense. Diplomacy often moves at a glacial pace, but after months of frozen communication, the mere act of sitting at the same table is a necessary precursor to any eventual de-escalation.\n\nSwitching gears to the global economy, the Philippines has surprised markets by implementing a jumbo interest-rate hike. The move comes as the country reels from a combination of war-fuelled price hikes\u2014which have pushed up global commodity costs\u2014and the looming threat of a super El Nino, which could severely damage agricultural output. When a central bank makes such a sharp move, they are essentially trying to suppress demand before inflation becomes entrenched in the psychology of the market. For the average Filipino, this will unfortunately translate into higher borrowing costs and more expensive loan payments, essentially cooling the economy to save it from runaway prices. This is a common, if painful, lever that central banks pull when global supply shocks begin to destabilize domestic cost-of-living standards.\n\nIn the United States, we are seeing a dramatic application of federal power. Former President Trump has invoked the Defense Production Act to aggressively ramp up domestic oil production and refining capacity. This action is a direct response to the surge in crude oil and diesel prices that followed the conflict between the US and Israel against Iran in February. By forcing industrial priorities to align with energy output, the administration is attempting to insulate the American economy from foreign supply instability. You will likely see this materialize as a stabilization\u2014or perhaps a slight decrease\u2014in fuel costs at the pump, provided the industry can scale up as intended. It serves as a stark reminder of how energy security remains the bedrock of national economic policy.\n\nMeanwhile, in the tech sector, Nvidia is pushing further into infrastructure management with the launch of Minerva. This is an AI operations tool designed for the massive data centers that power our digital lives. These facilities are incredibly complex, relying on intricate webs of GPUs, network hardware, and storage systems; until now, spotting a failing component often required manual intervention or reactive troubleshooting. Minerva changes that by aggregating alerts into single incidents and using an AI assistant to predict failures before they crash a system. Companies like IREN, Lambda, IBM, and Tesla are already aligning with this, signaling a broader move toward self-healing industrial systems. As our dependency on AI grows, the reliability of the underlying hardware becomes a critical vulnerability that these automated diagnostic tools are racing to solve.\n\nShifting to public health, the World Health Organization has issued a grave warning regarding a complex Ebola outbreak. The virus has officially crossed from East Africa into Nigeria, marking the first time this specific, potent Bundibugyo strain has hit the western part of the continent. The danger here lies in the mobility of modern transit; what begins as a localized outbreak can quickly become a regional emergency if travel hubs become vectors for the virus. International health organizations are now moving to intensify containment efforts, essentially racing to isolate cases before they can gain a foothold in densely populated urban centers. It is a sobering reminder that our interconnected world acts as both an economic boon and a conduit for biological threats.\n\nStaying on the labor front, the United States is presenting a curious economic picture. Jobless claims are hovering near a 57-year low, which sounds like an unqualified success, but there is a nuance: while employers are clearly hesitant to shed staff, new hiring has become notably sluggish. This creates a sort of waiting-room economy. Workers who have jobs are staying put, but those looking for new opportunities are finding it increasingly difficult to break into the market. This split\u2014where layoffs are rare but growth is stagnant\u2014often signals that businesses are bracing for uncertainty, keeping their current teams intact but refusing to expand until the future looks more predictable.\n\nTurning to Europe, the presidential election in Bulgaria has become a focal point for security concerns. The campaign is being heavily shaped by the ongoing drone attacks on shipping lanes in the Black Sea and a shifting public discourse regarding the country\u2019s level of support for Ukraine. For the average Bulgarian voter, foreign policy is no longer an abstract concept; it is being viewed through the lens of national security and economic survival. As we move toward the election, look for these candidates to sharpen their rhetoric on the Black Sea conflict. The outcome of this vote could signal a significant recalibration of Bulgaria\u2019s alignment within the broader European security architecture.\n\nIn the world of finance, Beijing is widening its tax net, and the result is a measurable shift in where global wealth is parked. Bankers and lawyers are reporting a rapid increase in the number of wealthy Chinese clients opening offshore US bank accounts to safeguard their capital. This is a cat-and-mouse game between a state attempting to exercise absolute control over domestic wealth and individuals seeking to insulate that wealth from regulatory reach. For the US banking system, this represents a significant influx of foreign capital, but it also places those banks in the middle of a delicate geopolitical tension between Washington and Beijing.\n\nNature has also dealt a blow, with a powerful 7.0-magnitude earthquake striking Tibet. Earthquakes of this magnitude in mountainous, remote regions often result in complex humanitarian challenges, as landslides and infrastructure damage can cut off entire communities from emergency services. While the immediate aftermath is focused on search and rescue, the long-term impact will be the reconstruction of transit links and the restoration of power and water. This event serves as a sharp reminder of the constant, underlying tectonic risks that exist in seismically active regions, regardless of political or economic developments.\n\nIn South America, Venezuela is facing a deepening energy crisis that is bleeding into the social fabric of the country. The power grid has become so fragile that the blackouts are no longer sporadic but continuous, disrupting every facet of daily life\u2014from basic refrigeration to communications. This has triggered a surge in public protests, as the population\u2019s patience with failing infrastructure reaches a breaking point. When a government can no longer provide the most basic public utility, it fundamentally erodes its legitimacy, and the current unrest suggests that the energy collapse is becoming the primary driver of political volatility in the region.\n\nBack to the tech landscape, Canva has introduced a new AI image generation model, dubbed Canva Craft. What makes this significant isn't just the fact that it competes with heavyweights like OpenAI and Google, but the way it is built. It utilizes a two-stage architecture that allows the AI to plan the design layout before it actually renders the pixels. Most current models generate images by essentially predicting patterns of noise; this planning stage implies a higher level of user control and precision. This shift toward \"intent-based\" AI tools is where the industry is headed, as creatives demand less randomness and more intentional design work from their software.\n\nFinally, in the automotive sector, Volvo Cars has seen its share price tumble by 31 percent. The company is citing a deteriorating market environment in both China and the United States, which has directly squeezed its free cash flow. This isn't just about one car company; it\u2019s a symptom of a cooling global auto market where high interest rates and shifting consumer demand are forcing legacy manufacturers to reconsider their aggressive expansion plans. Expect to see further cost-cutting measures, including job reductions, as Volvo and its peers try to weather this period of economic contraction.\n\nWe close today with a moment of reflection.\n\nIn 1946, a physicist named Louis Slotin was working at Los Alamos, handling a plutonium core. He was performing a procedure known as \"tickling the dragon's tail\"\u2014a delicate, dangerous game of balancing beryllium hemispheres to maintain a state of near-criticality. His only protection was the steady hand of a man who believed he was in control. Then, in a singular, human moment, his hand slipped. The hemispheres snapped together. The room was instantly filled with a blinding blue flash of Cherenkov radiation. Slotin ripped the halves apart, likely saving the lives of the colleagues in the room, but he had already absorbed a fatal dose. He died nine days later.\n\nIt is a story that has haunted science for generations, not just because of the tragedy, but because of the audacity. It serves as a reminder that human beings possess an innate, often dangerous, drive to push the boundaries of what is possible. We tinker with forces we barely understand, convinced that our intellect is a sufficient shield against the laws of physics. Whether it is in a laboratory with a radioactive core or in the modern rush to integrate unchecked AI and complex global markets, there is always a \"criticality\" point\u2014a threshold where our control ends and the consequences begin. It makes you wonder: in our current rush toward the next technological or geopolitical frontier, are we paying enough attention to the \"slips\" that might be inevitable?\n\nTake a breath, and carry that sense of perspective with you into the rest of your day. That is your Sift In-Depth Briefing.",
+    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
+    "estimatedDurationSeconds": 580
+  },
+  "candidatePool": [
+    {
+      "title": "Meta strikes deal to shield Mark Zuckerberg from California wealth tax",
+      "description": "Meta struck a deal with CEO Mark Zuckerberg to shield him from a potential California wealth tax, ensuring he remains in the state for eight years.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/7670027e-5d45-4830-afc4-4b0dcaf51f42.html",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 18,
+      "why": "High-net-worth individuals seek ways to minimize tax exposure.",
+      "context": "Meta made a deal to shield Mark Zuckerberg from a potential California wealth tax.",
+      "next": "California may explore other methods to generate state revenue.",
+      "bigger": "Wealth taxes are a growing topic of debate for governments.",
+      "publishedAt": "2026-10-22T12:14:19+00:00",
+      "topicFingerprint": [
+        "meta",
+        "zuckerberg",
+        "tax",
+        "california",
+        "wealth"
+      ],
+      "alternates": [
+        {
+          "title": "Mark Zuckerberg owns 13% of Meta but controls 61% of its votes. California\u2019s wealth tax would bill him on the 13%",
+          "description": "Paying a potential $12 billion bill would have meant selling the shares that give him control. A new class of stock solves that.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/10/23/mark-zuckerberg-meta-shares-stock-california-tax/",
+          "category": "Financial",
+          "publishedAt": "2026-10-23T06:51:00+00:00",
+          "score": 17,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "meta",
+            "zuckerberg",
+            "tax",
+            "california",
+            "wealth"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+          "description": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind Facebook, Instagram and WhatsApp revealed",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+          "category": "Financial",
+          "publishedAt": "2026-10-22T15:40:03+00:00",
+          "score": 14,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "meta",
+            "zuckerberg",
+            "tax",
+            "california",
+            "wealth"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
+      "description": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner Roman Abramovich following a report by the Guardi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Wealthy individuals face increasing scrutiny over offshore assets.",
+      "context": "Cyprus police are investigating Roman Abramovich's financial affairs for alleged falsified documents.",
+      "next": "More details about Abramovich's financial dealings may emerge.",
+      "bigger": "Governments are cracking down on illicit financial activities globally.",
+      "publishedAt": "2026-10-22T15:53:22+00:00",
+      "topicFingerprint": [
+        "cyprus",
+        "financial",
+        "owner",
+        "investigate",
+        "affairs"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
+      "description": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly to humans.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "This discovery could deepen our understanding of animal intelligence.",
+      "context": "New research shows crows process visual information and make decisions twice as fast as humans.",
+      "next": "Further research will explore the specific mechanisms of crow cognition.",
+      "bigger": "Animal cognition research continues to challenge human exceptionalism.",
+      "publishedAt": "2026-10-22T16:47:25-04:00",
+      "topicFingerprint": [
+        "bird",
+        "fast",
+        "crows",
+        "think",
+        "brain"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Flash floods, hail, even suspected tornadoes tear through Arizona, Nevada, Southern California",
+      "description": "Los Angeles, Las Vegas and the surrounding areas face threats of flash floods, large hail and tornadoes, an extremely rare occurrence in that region. Nearly 30 million people are in the storm zone. Carter Evans reports from Malibu and Rob Marciano has the forecast.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/flash-floods-hail-suspected-tornadoes-arizona-nevada-southern-california/",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Residents in the affected regions face immediate safety risks.",
+      "context": "Flash floods, hail, and suspected tornadoes hit Arizona, Nevada, and Southern California.",
+      "next": "Emergency services will respond to widespread damage and disruptions.",
+      "bigger": "Extreme weather events are increasing in unusual locations.",
+      "publishedAt": "2026-10-22T19:35:31-04:00",
+      "topicFingerprint": [
+        "hail",
+        "tornadoes",
+        "tear",
+        "floods",
+        "southern"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Horse-drawn carriage ban approved by NYC Council",
+      "description": "The New York City Council voted Thursday on Romanch's Law, which will ban horse-drawn carriage rides in the city by 2028.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/horse-carriage-ban-bill-nyc-council/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "Horse-drawn carriage operators will lose their jobs and businesses.",
+      "context": "The NYC Council approved a law to ban horse-drawn carriage rides by 2028.",
+      "next": "New York City will transition away from horse-drawn tourism.",
+      "bigger": "Animal welfare concerns are changing traditional practices.",
+      "publishedAt": "2026-10-22T23:40:01-04:00",
+      "topicFingerprint": [
+        "york",
+        "city",
+        "horse",
+        "drawn",
+        "voted"
+      ],
+      "alternates": [
+        {
+          "title": "New York City votes to ban Central Park horse-drawn carriages after decades of debate",
+          "description": "New York's city council voted Thursday in favor of a measure to ban horse-drawn carriages in Central Park, a tourist attraction that has been controversial for years. Mayor Zohran Mamdani is expected to sign the ban into law which would go into effect starting in June 2028",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/americas/20261023-new-york-city-votes-to-ban-central-park-horse-drawn-carriages-after-decades-of-debate",
+          "category": "Policy",
+          "publishedAt": "2026-10-23T00:18:53+00:00",
+          "score": 5,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "york",
+            "city",
+            "horse",
+            "drawn",
+            "voted"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "News Wrap: Virginia state senator charged with running criminal marijuana enterprise",
+          "description": "In our news wrap Thursday, federal authorities charged Virginia state Sen. Louise Lucas with running a criminal marijuana enterprise, New York City lawmakers voted to ban horse-drawn carriage rides in Central Park and a judge in Florida ordered President Trump to sit for a deposition in his $10 bill",
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
+          "category": "Policy",
+          "publishedAt": "2026-10-22T18:50:52-04:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "york",
+            "city",
+            "horse",
+            "drawn",
+            "voted"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Why managing fiscal is a tightrope for State governments",
+      "description": "Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The gap between expenditure and receipts is usually financed through market borrowings.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/the-fiscal-tightrope-for-state-governments/article71167296.ece",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 6,
+      "why": "State services for citizens may face funding constraints.",
+      "context": "State governments face challenges balancing fiscal management with social and economic spending.",
+      "next": "State governments will need to make tough budget allocation decisions.",
+      "bigger": "Public finance sustainability is a global challenge for governments.",
+      "publishedAt": "2026-10-22T22:20:44+05:30",
+      "topicFingerprint": [
+        "fiscal",
+        "governments",
+        "managing",
+        "tightrope"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Supreme Court rules New Hampshire can ban use of student IDs for voters",
+      "description": "The Supreme Court cleared the way Thursday for New Hampshire to fully ban the use of student IDs for voting during the midterm elections.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-hampshire-can-ban-use-student-ids-midterms/",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 6,
+      "why": "New Hampshire students may face difficulties exercising their voting rights.",
+      "context": "The Supreme Court ruled New Hampshire can ban student IDs for voter identification.",
+      "next": "New Hampshire students will need alternative forms of voter ID.",
+      "bigger": "Voter ID laws are a contentious issue in democratic processes.",
+      "publishedAt": "2026-10-22T19:53:00-04:00",
+      "topicFingerprint": [
+        "supreme",
+        "student",
+        "ids",
+        "ban",
+        "voters"
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Paraguay's central bank under pressure over politically connected lender",
+      "description": "ASUNCION, Oct 22 - Paraguay's central bank and its president face mounting calls to resign as scrutiny intensifies over how they supervised a fast-growing digital bank with political ties.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/paraguays-central-bank-under-pressure-over-politically-connected-lender",
+      "category": "General",
+      "readingTime": 2,
+      "score": 6,
+      "why": "The integrity of Paraguay\u2019s financial oversight is questioned.",
+      "context": "Paraguay's central bank faces pressure to resign over a politically tied digital bank.",
+      "next": "Further investigations into the central bank's actions may occur.",
+      "bigger": "Political influence in banking raises concerns about financial stability.",
+      "publishedAt": "2026-10-23T01:56:39+08:00",
+      "topicFingerprint": [
+        "pressure",
+        "politically",
+        "lender",
+        "paraguay",
+        "connected"
       ],
       "alternates": []
     },
@@ -404,432 +598,40 @@
       "url": "https://www.thehindu.com/business/Industry/indias-processed-foods-export-potential-to-the-uk-grows-post-ceta/article71610333.ece",
       "category": "Progress",
       "readingTime": 2,
-      "score": 7,
-      "why": "British consumers may find cheaper imported specialty foods on store shelves.",
-      "context": "A new trade pact opened opportunities for Indian food exporters to Britain.",
-      "next": "Bilateral trade volumes in processed food products will likely expand.",
-      "bigger": "Trade agreements are reshaping agricultural supply routes globally.",
+      "score": 3,
+      "why": "Indian food exporters may see new market opportunities in the UK.",
+      "context": "India has significant potential to increase processed food exports to the UK due to a trade pact.",
+      "next": "Trade volumes of processed food between India and the UK will likely grow.",
+      "bigger": "Trade agreements foster economic growth and market access.",
       "publishedAt": "2026-10-22T11:59:40+05:30",
       "topicFingerprint": [
-        "trade",
-        "exports",
+        "india",
         "tpci",
         "scope",
-        "processed"
+        "expand",
+        "food"
       ],
       "alternates": []
-    },
-    {
-      "title": "New human data hints at psychedelics' potential to combat inflammation",
-      "description": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like Parkinson's disease.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Patients could eventually gain access to novel anti-inflammatory medical therapies.",
-      "context": "Clinical trials revealed that psychedelic compounds could help reduce bodily inflammation.",
-      "next": "Pharmaceutical researchers will launch larger human clinical trials.",
-      "bigger": "Psychedelic medicine is transitioning into mainstream healthcare research.",
-      "publishedAt": "2026-10-21T11:33:18-04:00",
-      "topicFingerprint": [
-        "psychedelics",
-        "combat",
-        "hints",
-        "inflammation",
-        "data"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "UK government approves natural gas project despite environmental concerns",
-      "description": "The U.K. government has approved a natural gas project off the coast of Scotland over the objections of environmental groups, saying it would improve energy security as the country transitions to renewable sources of energy",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/uk-government-approves-natural-gas-project-off-scotland-137438010",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 12,
-      "why": "Domestic gas supplies could lower reliance on foreign energy imports.",
-      "context": "Britain approved an offshore natural gas extraction project to bolster domestic energy.",
-      "next": "Environmental groups will likely challenge the approval in court.",
-      "bigger": "Nations are prioritizing energy security over near-term climate targets.",
-      "publishedAt": "2026-10-21T03:29:44-04:00",
-      "topicFingerprint": [
-        "gas",
-        "approves",
-        "energy",
-        "uk_entity",
-        "uk"
-      ],
-      "alternates": []
-    }
-  ],
-  "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is everything that matters today.\n\nFirst up, oil prices have jumped sharply following growing concerns over potential military strikes against Iran. For most of us, this kind of geopolitical friction in the Middle East translates directly to the pump, meaning your commute and upcoming travel costs could soon tick higher.\n\nMeanwhile, total global debt has climbed to a staggering record of three hundred and sixty-five trillion dollars, with the worldwide interest bill rising rapidly alongside it. As governments struggle under heavier borrowing burdens, that pressure inevitably trickles into the broader financial system, which could push up borrowing costs and interest rates on everyday mortgages and personal loans.\n\nSwitching to technology, major tech giants including Google, OpenAI, and Amazon are mobilizing to patch critical vulnerabilities discovered in widely used foundational software. Because these flaws sit deep within the web's shared plumbing, everyday users might notice sudden security prompts, platform updates, or brief service disruptions as engineers work to secure the system.\n\nLooking at the climate, new projections suggest the world is now on track to breach the key one-point-five-degree warming threshold established by the Paris Agreement. With international emissions cuts falling well short of target timelines, communities worldwide should brace for more frequent extreme weather disruptions and steadily climbing utility bills.\n\nOver in global health, authorities in Nigeria have confirmed a travel-related case of Ebola linked to an ongoing regional outbreak. Health officials are moving quickly to trace contacts and contain the spread, but travelers moving through the region can expect tighter border screenings and potential travel delays.\n\nIn Eastern Europe, Russia and Ukraine have exchanged intense strikes on each other's territory, even as new diplomatic efforts gain attention. The sudden escalation on the battlefield illustrates just how volatile the situation remains, raising concerns that intensified frontline combat could stall fragile peace talks before they gain real traction.\n\nTurning to Asia, China is deliberately pivoting away from its long-held obsession with rapid GDP growth, focusing instead on high-tech resilience and industrial self-reliance. For international businesses and investors operating across the country, this shift means adapting to a landscape defined less by breakneck expansion and more by strict regulatory compliance.\n\nAt the same time, recent Ukrainian precision strikes have targeted major Russian data centers, taking down essential digital services and derailing advanced artificial intelligence research. The attacks led to widespread disruptions for consumer banking and everyday e-commerce, underscoring how modern conflicts are increasingly fought by targeting digital infrastructure and computing power.\n\nNext, Chinese electric vehicle manufacturers are delivering strong financial reports, but significant headwinds are gathering on the horizon. Between rising foreign trade barriers and shifting domestic subsidies, international car buyers who are hoping to go green may soon face higher price tags and fewer affordable imported options.\n\nIn trade news, a newly established agreement is clearing the way for Indian food producers to dramatically expand their exports to the United Kingdom. For British consumers, this reduction in trade barriers should soon mean a much wider, more competitively priced selection of imported specialty foods and staples on grocery store shelves.\n\nIn medicine, compelling new clinical trial data suggests that certain psychedelic compounds possess a remarkable ability to combat inflammation in human tissue. While formal medical adoption will take time, these findings offer real hope that novel, psychedelic-derived therapies could eventually become mainstream tools for managing chronic inflammatory and autoimmune conditions.\n\nAnd finally, the British government has given the green light to a major offshore natural gas project, choosing to prioritize domestic energy supplies despite intense environmental criticism. Securing local energy supplies may help insulate households from volatile foreign energy markets, but the move highlights the ongoing tension between immediate energy security and long-term climate goals.\n\nBefore you step into the rest of your day, here is a quiet thought to end on.\n\nIn every quiet moment, your mere presence subtly colors the shared canvas of human life, often without a single word. You are, unknowingly, a quiet supporting character in countless individual narratives unfolding around you, near and far. This silent, beautiful interplay weaves a vast, living tapestry, where every thread, however small, is profoundly essential. We are, each of us, a quiet grace in another's world.\n\nThat is your Sift Daily Briefing for today. Have a calm and grounded day.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.wav",
-    "estimatedDurationSeconds": 259
-  },
-  "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is our full analysis edition, where we look past the headlines to explore how the moving parts actually fit together.\n\nFirst up, global energy markets are on edge following reports that the United States and Israel are weighing renewed military strikes against Iran. The immediate reaction was a sharp jump in crude oil prices, but the mechanics behind that spike go well beyond simple market jitters. When traders price crude, they calculate the physical risks to maritime chokepoints, particularly the Strait of Hormuz. Roughly a fifth of the world's petroleum passes through this narrow passage along Iran's southern coast. If direct strikes occur, Iran does not necessarily need to shut the waterway down completely to cause chaos. Merely harassing tankers, launching drone patrols, or laying sea mines causes marine insurers to sharply raise their war-risk premiums. In some cases, shippers simply refuse to sail. That forces tankers to take longer, far more expensive detours around southern Africa. Within weeks, those inflated shipping costs and tighter supplies flow through the refining pipeline. The end result lands right at the pump in the form of pricier gasoline and higher jet fuel surcharges for commercial flights. For now, energy desks are closely watching how Tehran postures its naval assets, knowing that any localized miscalculation could quickly ripple into everyday consumer costs worldwide.\n\nMeanwhile, a quieter but equally profound financial pressure is building across the globe. Total worldwide debt has crossed a staggering three hundred and sixty-five trillion dollars, and the cost of maintaining that balance sheet is accelerating. During the long era of near-zero interest rates, governments, corporations, and households borrowed heavily because debt was essentially free. But central banks spent the last two years raising interest rates to combat post-pandemic inflation. Now, trillions of dollars in short-term sovereign bonds are maturing. When finance ministries reissue those bonds to pay off the old ones, they have to do so at today's much higher interest rates. The strain is already visible in Europe, where protests have broken out over austerity measures, and France is currently paying higher yields to borrow money than Italy or Greece. When sovereign borrowing costs surge, governments face an agonizing mathematical reality: a larger slice of tax revenue must go directly toward paying interest, rather than funding public infrastructure, healthcare, or schools. To stop the deficit from expanding, lawmakers must either raise taxes or slash public spending. That fiscal tightening trickles down to ordinary citizens, keeping mortgage rates elevated and making small-business loans harder to secure.\n\nSwitching to the digital realm, a severe security scare has mobilized engineering teams at Google, OpenAI, and Amazon. The alarm centers on newly uncovered, critical vulnerabilities in PHP, an open-source programming language that underpins a vast portion of the modern web, including millions of websites and major server applications. The core problem lies in software dependencies. When a modern cloud platform or artificial intelligence service builds its architecture, it relies on foundational building blocks written in common languages like PHP. When a flaw allows remote code execution at that base level, an attacker can bypass traditional authentication gates. They can access backend databases, steal sensitive operational tokens, or inject malicious code directly into the server. Tech giants reacted swiftly because automated bots constantly scan the web for unpatched systems, and a compromised server within a major cloud provider can become an open gateway into proprietary AI models and user data. Over the coming days, thousands of corporate IT departments will be forced to push out mandatory emergency patches. For everyday internet users, the likely immediate consequence will be temporary service outages, unexpected maintenance windows, and forced password resets as platforms work feverishly to seal the cracks.\n\nTurning toward the climate, a sobering new assessment from the United Nations Environment Programme warns that the world is on track to breach the critical one-and-a-half-degree Celsius warming threshold set by the Paris Agreement. Current national policies put the planet on a trajectory toward two point six degrees of warming by the end of the century. The mechanism driving this gap is structural inertia. Decarbonizing an economy requires replacing fossil-fuel power grids, retrofitting industrial factories, and overhauling global transportation networks. These changes demand massive upfront capital and face multi-year permitting bottlenecks. While clean energy installations are breaking records, fossil fuel consumption in heavy manufacturing and shipping continues to climb, outpacing early emission reductions. This persistent overshoot accelerates real-world feedback loops. Warmer atmospheric temperatures allow air to hold more moisture, which dries out agricultural soil and leads to prolonged regional droughts. That same atmospheric moisture eventually dumps down in catastrophic, localized flash floods that overwhelm municipal storm systems. As weather patterns grow more volatile, insurance companies are steadily hiking premiums or abandoning vulnerable coastal and wildfire zones altogether, leaving property owners to absorb the financial risks of an overheating planet.\n\nIn regional public health, Nigerian authorities have confirmed an imported case of Ebola linked to an ongoing outbreak centered in the Democratic Republic of the Congo. This makes Nigeria the fifth country to identify an associated infection. Ebola spreads through direct contact with bodily fluids, which means the virus relies on human mobility to jump borders. In today's interconnected regional economy, an infected person can travel through bustling transit hubs before experiencing severe, telltale symptoms. When an imported case is confirmed, an urgent scientific and logistical protocol begins. Epidemiologists must trace every single individual the patient came into contact with during their travel, isolating contacts and monitoring them through the virus's incubation window to sever the chain of transmission. Because the Nigerian healthcare system learned crucial operational lessons during the 2014 outbreak, emergency response units mobilized immediately. However, travelers moving across Central and West Africa should prepare for expanded thermal temperature checkpoints, rigorous health declaration screenings, and potential transit delays at major regional airports as containment measures tighten.\n\nOver in Eastern Europe, the battlefield dynamic between Russia and Ukraine has escalated sharply, even as political figures tout potential diplomatic progress. Moscow\u2019s mayor reported that over six hundred and thirty Ukrainian drones were launched toward the capital region overnight, an exchange that unfolded shortly after a United States envoy held direct talks with Vladimir Putin in Saint Petersburg. This apparent contradiction between aggressive military strikes and peace talks is a classic strategic maneuver. In wartime diplomacy, neither side enters negotiations from a position of perceived weakness. When high-level envoys travel to discuss settlement frameworks, military commanders deliberately intensify their operations to seize critical ground and demonstrate enduring strike capability. By launching massive drone swarms deep into Russian territory, Ukraine aims to show that it can project power and disrupt vital supply chains. In turn, Russian forces launch retaliatory missile salvos to break domestic morale and exhaust Ukrainian air defenses. The immediate danger is that heavy casualties or severe infrastructure damage during these high-stakes barrages can collapse tentative diplomatic channels before they even begin. With frontline commanders locked in an escalatory loop to gain bargaining leverage, the civilian population faces an intense and perilous period of aerial bombardment.\n\nNext, we turn to East Asia, where China's leadership is deliberately engineering a major ideological pivot away from raw economic growth. For decades, the promotion of regional officials inside China depended on a straightforward metric: gross domestic product. Local mayors and provincial governors borrowed heavily to fund massive highway expansions, commercial real estate complexes, and industrial parks. That model generated rapid top-line growth, but it also produced unsustainable municipal debt and ghost cities. Now, as the Central Committee gathers for its fifth plenum, Beijing is demanding high-quality development, a framework that prioritizes technological self-reliance, national security, and green technology over raw output numbers. But shifting an entrenched administrative culture is notoriously difficult. Local officials who spent their careers building concrete infrastructure must now evaluate investments based on semiconductor capabilities, patent generation, and environmental compliance. For international businesses operating on the mainland, this transition means navigating stricter regulatory audits and unpredictable policy shifts, as local bureaucrats adjust to an environment where national resilience matters far more than corporate profit margins.\n\nAt the same time, Ukraine is expanding modern warfare into the digital heartland by conducting strikes against Russian data centers and technology hubs. Russia has long pointed to its domestic digital ecosystem as a source of pride, from expansive e-commerce platforms to state-sponsored artificial intelligence research. But modern computing requires physical infrastructure. High-performance machine-learning clusters and cloud computing hubs consume massive amounts of electrical power, requiring specialized cooling systems and uninterrupted grid connections. When precision strikes damage local sub-stations, fiber-optic routing hubs, or backup generators, the consequences cascade through the civilian and military sectors simultaneously. Without functioning data centers, retail logistics platforms freeze, government digital portals go dark, and autonomous military navigation systems lose real-time processing capabilities. This deliberate targeting signals a fundamental evolution in armed conflict. Modern militaries no longer focus exclusively on ammunition depots and rail yards. They increasingly view the server racks that train automated algorithms as prime strategic targets. For technology firms operating in contested regions, the lesson is stark: physical decentralization and cloud redundancy have become matter of life and death.\n\nMeanwhile, the global automotive transition is running headlong into protective trade barriers. Chinese electric vehicle manufacturers have posted impressive technological gains and sharp delivery volumes, largely due to heavily integrated domestic supply chains and domestic subsidies. By controlling the entire manufacturing loop, from raw lithium refining to battery cell assembly, Chinese automakers can produce high-tech electric cars at prices that Western rivals struggle to match. However, that competitive edge is triggering aggressive countermeasures. The European Union has implemented steep import curbs to protect domestic factory jobs, while Beijing is altering export tax structures at home. When foreign governments slap thirty or forty percent tariffs onto imported vehicles, the pricing advantage shrinks immediately. In response, Chinese automakers are forced to overhaul their business models. Instead of simply building vehicles at home and shipping them overseas, they must invest billions of dollars to construct assembly plants directly inside Europe and Latin America. In the near term, consumers shopping for affordable electric vehicles in Western markets are likely to face higher sticker prices as import restrictions limit the supply of low-cost alternatives.\n\nIn international commerce, a different trade dynamic is opening new market doors. The implementation of the Comprehensive Economic and Trade Agreement between India and the United Kingdom is providing a major boost to Indian processed food exporters. In global trade, agricultural products face some of the highest non-tariff barriers and import taxes in the world, largely because nations seek to protect their own domestic farmers. Under this new bilateral framework, British tariffs on a wide variety of processed Indian goods, including packaged spices, ready-to-eat meals, and specialty tea products, have been systematically reduced or eliminated. This policy change directly alters the shelf-space economics of British grocery chains. British retailers, struggling with persistent domestic inflation and high operating costs, can now import packaged Indian foodstuffs at substantially lower wholesale rates. Over the coming months, consumers in the UK will likely see a wider variety of imported specialty goods at more competitive prices, while Indian food processors scale up production to meet sustained European consumer demand.\n\nLooking into the world of medicine, clinical researchers are uncovering surprising new evidence about the biological properties of psychedelic compounds. While substances like psilocybin have received widespread attention for their ability to treat severe depression, emerging human clinical data shows they may also exert a powerful anti-inflammatory effect throughout the human body. The underlying biology involves the serotonin 2A receptor, a protein found not just in human brain tissue, but also on the surface of circulating immune cells. When psychedelic molecules bind to these receptors, they appear to down-regulate the production of pro-inflammatory signaling proteins, known as cytokines. By cooling down chronic systemic inflammation, these compounds may help shield nerve cells from progressive cellular damage. This discovery holds significant promise for neurodegenerative conditions like Parkinson's disease, where unchecked neuroinflammation accelerates the steady death of dopamine-producing neurons. While larger and more diverse human trials are still required before treatments can gain regulatory approval, this research could open the door to a completely new class of neuro-protective medications, shifting psychedelics from the cultural fringes into mainstream medical science.\n\nFinally, the United Kingdom government has approved a major new offshore natural gas extraction project off the coast of Scotland, setting off fierce legal and political pushback from environmental organizations. This decision highlights the acute policy tension between climate targets and real-world grid stability. Wind and solar power installations are expanding rapidly across the British landscape, but renewable energy remains inherently intermittent. When wind speeds drop over the North Sea during cold winter spells, national energy operators must quickly ramp up natural gas plants to prevent rolling brownouts. Following the loss of cheap Russian pipeline gas to Europe, importing liquefied natural gas on specialized ships has become exceptionally expensive and geopolitically volatile. By greenlighting domestic offshore gas, British officials are choosing immediate fuel security and price stability over near-term carbon reduction milestones. However, environmental groups have already announced plans to challenge the offshore permits in court, arguing that expanding fossil fuel infrastructure directly violates legally binding net-zero targets. The legal battle ahead underscores the complex balancing act facing industrialized nations, as they struggle to keep electrical grids affordable today while constructing the clean infrastructure of tomorrow.\n\nThat brings us to today's reflection.\n\nIt is easy, especially when moving through the heavy, mechanical realities of the daily news, to imagine our lives as isolated, self-contained bubbles. We focus entirely on our own destinations, our own to-do lists, and our own personal anxieties.\n\nYet there is a quiet truth that constantly runs beneath our daily routines: you are always a part of another story.\n\nThink about the quiet web of human presence that surrounds you right now. In every shared space, in every quiet room, your mere presence subtly colors the shared canvas of human life, often without a single word being spoken. You might hold open an elevator door for an exhausted stranger, exchange a brief, gentle nod with someone on a crowded train, or simply sit quietly in a public park reading a book.\n\nTo yourself, you are simply getting through your day. But to the stranger beside you, you might be the calming constant in an otherwise chaotic morning. You are, unknowingly, a quiet supporting character in countless individual narratives unfolding around you, near and far. Someone draws comfort from your patience. A cashier appreciates your calm demeanor. A driver behind you feels the relief of your unhurried driving.\n\nThis silent, beautiful interplay weaves a vast, living tapestry, where every thread, however small, is profoundly essential. We do not need grand gestures to make a difference. We are, each of us, a quiet grace in another person's world.\n\nAs you step into the rest of your day, carry that quiet awareness with you. Notice the lives intersecting with yours, and know that your gentle presence matters to people you may never even formally meet.\n\nThank you for spending this time with us. That's your Sift In-Depth Briefing for today. Take a slow, steady breath, and have a thoughtful, grounded day.",
-    "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.wav",
-    "estimatedDurationSeconds": 917
-  },
-  "candidatePool": [
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Your frequently visited websites could face temporary outages or security risks.",
-      "context": "Severe vulnerabilities discovered in foundational web code triggered urgent emergency patches.",
-      "next": "System administrators will race to update vulnerable web servers worldwide.",
-      "bigger": "Aging legacy code underpins much of the modern internet.",
-      "publishedAt": "2026-10-22T06:24:59+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "meta",
-        "billion",
-        "data",
-        "pay",
-        "php"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Indonesia\u2019s central bank keeps main rate unchanged but hikes deposit facility rate, to cut RRR",
-      "description": "Decision underscores central bank\u2019s caution against tightening policy prematurely and stalling growth in South-east Asia\u2019s largest economy",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/international/asean/indonesias-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-cut-rrr",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 15,
-      "why": "Indonesian consumers will see steady borrowing costs on bank loans.",
-      "context": "Indonesia's central bank held baseline interest rates while fine-tuning banking rules.",
-      "next": "Monetary authorities may ease bank reserves to stimulate economic lending.",
-      "bigger": "Emerging economies are carefully balancing inflation risks with domestic growth.",
-      "publishedAt": "2026-10-21T07:23:38+00:00",
-      "topicFingerprint": [
-        "rate",
-        "bank",
-        "central",
-        "tightening",
-        "hikes"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Philippine central bank raises key interest rate by 50 basis points",
-      "description": "",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/philippine-central-bank-raises-key-interest-rate-50-basis-points-6481711",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Philippine borrowers and home buyers face higher monthly loan repayments.",
-      "context": "The Philippine central bank increased its benchmark interest rate to fight inflation.",
-      "next": "Consumer spending across the country may slow in coming months.",
-      "bigger": "Central banks remain vigilant against stubborn inflationary pressures.",
-      "publishedAt": "2026-10-22T14:34:56+08:00",
-      "topicFingerprint": [
-        "rate",
-        "bank",
-        "central",
-        "tightening",
-        "hikes"
-      ],
-      "alternates": [
-        {
-          "title": "Bank of Korea holds rates; upbeat outlook points to future hikes",
-          "description": "The central bank keeps base rate unchanged at 3%, as expected; it says further tightening remains on the table",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-korea-holds-rates-upbeat-outlook-points-future-hikes",
-          "category": "General",
-          "publishedAt": "2026-10-22T05:41:11+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "rate",
-            "bank",
-            "central",
-            "tightening",
-            "hikes"
-          ],
-          "group_id": 1
-        }
-      ]
-    },
-    {
-      "title": "How Elon Musk gained so much power over U.S. security interests",
-      "description": "According to reports, Elon Musk ordered the slowdown of Ukraine's Starshield defense systems. Nick Schifrin reports, and Amna Nawaz discusses how the world's richest man gained such power over U.S. security interests with Charles Galbreath, a retired Air Force colonel who focused on space operations",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Defense contracts and communication networks may face tighter government oversight.",
-      "context": "Scrutiny grew over billionaire control of critical defense and satellite infrastructure.",
-      "next": "Lawmakers may push for stronger public control over strategic space assets.",
-      "bigger": "Private corporations hold unprecedented leverage over modern national security.",
-      "publishedAt": "2026-10-21T18:50:42-04:00",
-      "topicFingerprint": [
-        "ordered",
-        "slowdown",
-        "elon",
-        "musk",
-        "ukraine"
-      ],
-      "alternates": [
-        {
-          "title": "Report: Elon Musk ordered Starlink slowdown that blindsided Ukraine",
-          "description": "Elon Musk reportedly ordered a slowdown of Starshield in Ukraine, hindering vital battlefield communications and drone operations against Russia.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/96ea437f-469c-4fee-8b3c-36038d262dba.html",
-          "category": "General",
-          "publishedAt": "2026-10-21T01:08:25+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "ordered",
-            "slowdown",
-            "elon",
-            "musk",
-            "ukraine"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "Flurry of activity for China\u2019s richest ahead of offshore wealth tax deadline",
-      "description": "Many of the country's super-rich keep their fortunes in trusts across Hong Kong, Singapore, Tokyo and other locations.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/flurry-of-activity-for-chinas-richest-ahead-of-offshore-wealth-tax-deadline",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Offshore financial hubs may see large shifts in private capital holdings.",
-      "context": "Wealthy Chinese citizens reorganized foreign assets to prepare for new wealth taxes.",
-      "next": "Chinese authorities will likely increase scrutiny of overseas bank accounts.",
-      "bigger": "Governments worldwide are tightening regulations around cross-border wealth storage.",
-      "publishedAt": "2026-10-22T12:00:00+08:00",
-      "topicFingerprint": [
-        "wealth",
-        "richest",
-        "ahead",
-        "activity",
-        "flurry"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Inside India newsletter: Asia\u2019s hottest data center market aims to quell concerns over water and power use",
-      "description": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Local communities may face strained power grids and potential water restrictions.",
-      "context": "India addressed rising public protests regarding massive power use by data centers.",
-      "next": "Regulators will likely enforce stricter environmental standards on data operators.",
-      "bigger": "Expanding digital and AI infrastructure is straining municipal utility grids.",
-      "publishedAt": "2026-10-22T00:07:48+00:00",
-      "topicFingerprint": [
-        "water",
-        "inside",
-        "aims",
-        "newsletter",
-        "hottest"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-      "description": "IRAN-CRISIS-USA-SANCTIONS:US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-sanctions-greece-panama-based-law-firm-over-aid-to-iranian-shipping-101792607976990.html",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Maritime firms handling Iranian cargo face immediate banking and trade freezes.",
-      "context": "The United States imposed sanctions on maritime legal entities aiding Iranian trade.",
-      "next": "Regulators could target more intermediary firms involved in illicit trade.",
-      "bigger": "Sanctions enforcement is targeting third-party service providers and facilitators.",
-      "publishedAt": "2026-10-22T00:09:36+05:30",
-      "topicFingerprint": [
-        "firm",
-        "aid",
-        "iranian",
-        "shipping",
-        "sanctions"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Childcare costs rising faster than rent, new research shows",
-      "description": "U.S. families are struggling to afford childcare as costs rise faster than rent, with nearly 8% of households paying over $2,000 a month on daycare, nanny services and other programs. CBS News MoneyWatch reporter Megan Cerullo has the story.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/childcare-costs-rising-faster-than-rent-new-research-shows/",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Working parents may struggle to afford basic childcare without cutting expenses.",
-      "context": "Childcare expenses in America escalated significantly faster than residential housing costs.",
-      "next": "More working parents could be forced to leave full-time employment.",
-      "bigger": "Skyrocketing household costs are placing severe pressure on family finances.",
-      "publishedAt": "2026-10-21T20:29:34-04:00",
-      "topicFingerprint": [
-        "costs",
-        "rising",
-        "research",
-        "rent",
-        "faster"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "In 2021, NASA sent microscopic tardigrades into orbit to examine their responses to spaceflight across generations",
-      "description": "NASA\u2019s Cell Science-04 experiment sent tardigrades to the space station to investigate the genes behind their survival in stressful space conditions.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/in-2021-nasa-sent-microscopic-tardigrades-into-orbit-to-examine-their-responses-to-spaceflight-across-generations-101792572055694.html",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Findings could lead to new medical treatments protecting against radiation damage.",
-      "context": "Space experiments studied how microscopic organisms survive prolonged exposure to cosmic radiation.",
-      "next": "Scientists will analyze specific genes responsible for cellular survival in space.",
-      "bigger": "Space biology research is unlocking defenses against cellular stress and disease.",
-      "publishedAt": "2026-10-22T10:22:32+05:30",
-      "topicFingerprint": [
-        "space",
-        "examine",
-        "orbit",
-        "spaceflight",
-        "generations"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Tiny Caribbean island of Nevis to restore Alexander Hamilton museum with US funds",
-      "description": "St. Kitts and Nevis has received a financial boost in honor of one of its most famous sons, Alexander Hamilton, who went on to become a founding father of the United States and America s first treasury secretary",
-      "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/tiny-caribbean-island-nevis-restore-alexander-hamilton-museum-137459726",
-      "category": "Progress",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Cultural travelers to Nevis will soon enjoy upgraded historical museum facilities.",
-      "context": "Nevis secured financial backing from the United States to restore Hamilton's birthplace.",
-      "next": "Restoration crews will begin preservation work on the historic island site.",
-      "bigger": "International heritage funding helps preserve shared diplomatic and cultural histories.",
-      "publishedAt": "2026-10-21T17:51:18-04:00",
-      "topicFingerprint": [
-        "caribbean",
-        "tiny",
-        "restore",
-        "island",
-        "nevis"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
-      "description": "Economists polled by Reuters had forecast the Bank of Korea to hold rates.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
-      "category": "General",
-      "readingTime": 2,
-      "score": 7,
-      "why": "South Korean mortgage holders will avoid immediate increases in borrowing costs.",
-      "context": "South Korea's central bank kept interest rates steady amid calls for housing.",
-      "next": "Policymakers will assess housing market stability before shifting interest rates.",
-      "bigger": "Housing affordability continues to complicate central bank interest rate decisions.",
-      "publishedAt": "2026-10-22T02:18:29+00:00",
-      "topicFingerprint": [
-        "lee",
-        "korea",
-        "calls",
-        "rates",
-        "boosting"
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
-      "description": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-      "category": "General",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Foreign citizens face increased risks of detention during regional political demonstrations.",
-      "context": "Israeli authorities released detained American activists and a political candidate in Palestine.",
-      "next": "Diplomatic discussions may intensify over foreign activist protections in conflict zones.",
-      "bigger": "Political detentions are creating diplomatic friction between long-standing allied nations.",
-      "publishedAt": "2026-10-21T09:28:04-04:00",
-      "topicFingerprint": [
-        "congressional",
-        "palestinian",
-        "west",
-        "detained",
-        "israeli"
-      ],
-      "alternates": [
-        {
-          "title": "US congressional candidate Brad Lander detained in West Bank olive harvest",
-          "description": "US congressional candidate Brad Lander and dozens of volunteers were detained by Israeli security forces while helping Palestinian farmers harvest olives.",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/289104e3-7a25-4527-8369-2d10bcde3091.html",
-          "category": "General",
-          "publishedAt": "2026-10-21T16:17:24+00:00",
-          "score": 6,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "congressional",
-            "palestinian",
-            "west",
-            "detained",
-            "israeli"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "Israeli forces release Brad Lander with warning after West Bank detention",
-          "description": "US congressional candidate Brad Lander was detained in the West Bank while picking olives with Palestinian farmers.",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/israeli-forces-release-brad-lander-with-warning-after-west-bank-detention-101792612768691.html",
-          "category": "General",
-          "publishedAt": "2026-10-22T02:50:08+05:30",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "congressional",
-            "palestinian",
-            "west",
-            "detained",
-            "israeli"
-          ],
-          "group_id": 0
-        }
-      ]
     }
   ],
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "US accuses Canada of election interference ahead of midterms",
-        "description": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+        "title": "Volvo Cars to cut 2,500 jobs as US tariffs, China competition hit profits",
+        "description": "Volvo Cars will cut 2,500 jobs globally as US tariffs and competition in China weigh on sales, pushing the Swedish automaker to a 5.7-billion-kronor third-quarter net loss.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/auto/volvo-cars-to-cut-2500-jobs-as-us-tariffs-china-competition-hit-profits-20017940.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-10-21T23:52:21+00:00",
+        "publishedAt": "2026-10-23T13:14:48+05:30",
         "reason": "within_48h",
         "score": 11,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: jobs"
+          },
           {
             "points": 2,
             "reason": "important keyword match: tariffs"
@@ -839,12 +641,209 @@
             "reason": "important keyword match: us"
           },
           {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
             "points": 4,
             "reason": "geopolitics category"
           },
           {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "combined impact signal: job cuts"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [
+          {
+            "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss",
+            "description": "Most of the job cuts will be in the automaker's native Sweden.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss",
+            "category": "Financial",
+            "publishedAt": "2026-10-23T14:14:44+08:00",
+            "score": 9,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "cuts",
+              "job",
+              "volvo",
+              "cars",
+              "automaker"
+            ],
+            "group_id": 1
+          }
+        ],
+        "topicFingerprint": [
+          "cuts",
+          "job",
+          "volvo",
+          "cars",
+          "automaker"
+        ]
+      },
+      {
+        "title": "Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records",
+        "description": "Quest Diagnostics, a major medical lab operator in the US, reported a cyber breach, which affected \u2018certain patient records\u2019.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/major-us-medical-lab-operator-quest-diagnostics-reports-cyber-breach-exposed-patient-records-101792720853287.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T08:05:21+05:30",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "important keyword match: medical"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: breach"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "records",
+          "major",
+          "operator",
+          "lab",
+          "breach"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Volvo Cars to cut 2,500 jobs as US tariffs, China competition hit profits",
+        "description": "Volvo Cars will cut 2,500 jobs globally as US tariffs and competition in China weigh on sales, pushing the Swedish automaker to a 5.7-billion-kronor third-quarter net loss.",
+        "source": "CNBC TV",
+        "url": "https://www.cnbctv18.com/auto/volvo-cars-to-cut-2500-jobs-as-us-tariffs-china-competition-hit-profits-20017940.htm",
+        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T13:14:48+05:30",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: jobs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: tariffs"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: CNBC TV"
+          },
+          {
+            "points": 3,
+            "reason": "combined impact signal: job cuts"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [
+          {
+            "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss",
+            "description": "Most of the job cuts will be in the automaker's native Sweden.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/volvo-cars-to-cut-2500-jobs-as-third-quarter-swings-to-loss",
+            "category": "Financial",
+            "publishedAt": "2026-10-23T14:14:44+08:00",
+            "score": 9,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "cuts",
+              "job",
+              "volvo",
+              "cars",
+              "automaker"
+            ],
+            "group_id": 1
+          }
+        ],
+        "topicFingerprint": [
+          "cuts",
+          "job",
+          "volvo",
+          "cars",
+          "automaker"
+        ]
+      },
+      {
+        "title": "Wall Street piles into Hong Kong\u2019s dim sum bonds despite fading yuan funding edge: BofA",
+        "description": "Hong Kong\u2019s offshore yuan bond market is becoming an increasingly important funding source for global banks, with US lenders driving a surge in issuance even as the currency\u2019s traditional funding advantage over the dollar narrows. The shift offers a glimpse of how financial ties between Wall Street ",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/business/banking-finance/article/3371769/wall-street-piles-hong-kongs-dim-sum-bonds-despite-fading-yuan-funding-edge-bofa",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T00:00:14+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -4,
+            "reason": "South China regional news"
           },
           {
             "points": 1,
@@ -854,29 +853,195 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
+          "dim",
+          "edge",
+          "hong",
+          "kong",
+          "street"
+        ]
+      }
+    ],
+    "europe": [
+      {
+        "title": "Is EU putting profits over human rights in Vietnam?",
+        "description": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+        "source": "Deutsche Welle",
+        "url": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812",
+        "fromUrl": "https://rss.dw.com/xml/rss-en-world",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-22T14:12:00+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Deutsche Welle"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: economic"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "concerns",
+          "rights",
+          "record",
+          "human",
+          "enough"
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "title": "Canada and Turkey launch strategic trade, energy and defense partnership",
+        "description": "Canadian PM Mark Carney visits Turkey to launch a strategic trade, energy, and defense partnership and pursue a Canada-Turkiye Free Trade Agreement.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/dd2725ab-238c-487e-bb0d-1423a14d62a2.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-22T19:12:28+00:00",
+        "reason": "within_48h",
+        "score": 11,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: energy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: defense"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "launch",
+          "turkey",
           "canada",
-          "us_entity",
-          "canadian",
-          "trade",
-          "prime"
+          "partnership",
+          "energy"
         ]
       },
       {
-        "title": "Top Cuban diplomat accuses US of threatening countries that vote with Cuba at UN",
-        "description": "HAVANA, Oct 21 - Cuban Foreign Minister Bruno Rodriguez accused the United States on Wednesday of threatening member states of the United Nations with sanctions should they side with Cuba in next week's annual UN vote on a resolution calling for an end to a US embargo on the island.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/top-cuban-diplomat-accuses-us-of-threatening-countries-that-vote-with-cuba-at-united-nations",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
+        "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+        "description": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Man",
+        "source": "Tech | The Verge",
+        "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+        "fromUrl": "https://www.theverge.com/rss/tech/index.xml",
+        "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T00:46:23+08:00",
+        "publishedAt": "2026-10-22T19:13:42+00:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 7,
         "score_debug": [
           {
             "points": 2,
             "reason": "important keyword match: us"
           },
+          {
+            "points": 3,
+            "reason": "company keyword match: google"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "parts",
+          "android",
+          "google",
+          "canada",
+          "saving"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "South Korean economy's growth likely picked up in Q3 on chip exports: Reuters poll",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/south-korean-economys-growth-likely-picked-up-in-q3-chip-exports-reuters-poll-6485446",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T13:41:44+08:00",
+        "reason": "within_48h",
+        "score": 9,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: economy"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: exports"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "ipo",
+          "hynix",
+          "solidigm",
+          "us_entity",
+          "korean"
+        ]
+      },
+      {
+        "title": "Australia sanctions 2 over North Korean fake IT workers scheme for nuclear funds",
+        "description": "Australia said on Friday it had sanctioned two North Korean individuals and companies over the use of \u201cfraudulent\u201d IT workers and cybercrime to earn cash for the isolated nuclear-armed state. The two men are alleged to be key operators in Pyongyang\u2019s cybercriminal activities overseas, estimated by a",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/australasia/article/3371845/australia-sanctions-2-over-north-korean-fake-it-workers-scheme-nuclear-funds",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T02:21:10+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
           {
             "points": 4,
             "reason": "geopolitics category"
@@ -887,97 +1052,7 @@
           },
           {
             "points": -2,
-            "reason": "geopolitics low priority keyword match: accused"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "diplomat",
-          "nations",
-          "oct",
-          "united",
-          "accused"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "US accuses Canada of election interference ahead of midterms",
-        "description": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-21T23:52:21+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tariffs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "canada",
-          "us_entity",
-          "canadian",
-          "trade",
-          "prime"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "Australia commits US$44 million to boost East Timor\u2019s cyber, maritime security",
-        "description": "Australia and East Timor signed a defence deal on Thursday to boost cyber and maritime security as Canberra seeks to curb China\u2019s influence among its island neighbours. Australia is East Timor\u2019s largest defence and security partner and the agreement will significantly increase defence exercises, Def",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/australasia/article/3371751/australia-commits-us44-million-boost-east-timors-cyber-maritime-security",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-10-22T06:16:08+00:00",
-        "reason": "within_48h",
-        "score": 11,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
+            "reason": "low quality group match: said"
           },
           {
             "points": 1,
@@ -987,22 +1062,24 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "commits",
-          "timor",
-          "security",
-          "million",
-          "east"
+          "fake",
+          "workers",
+          "north",
+          "korean",
+          "scheme"
         ]
-      },
+      }
+    ],
+    "india": [
       {
-        "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-        "description": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
+        "title": "Inside India newsletter: Asia\u2019s hottest data center market aims to quell concerns over water and power use",
+        "description": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+        "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
         "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T04:02:18+00:00",
+        "publishedAt": "2026-10-22T00:07:48+00:00",
         "reason": "within_48h",
         "score": 9,
         "score_debug": [
@@ -1012,7 +1089,15 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
           },
           {
             "points": 2,
@@ -1023,45 +1108,35 @@
             "reason": "Highest Quality Source match: CNBC"
           },
           {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "points": -3,
+            "reason": "older than 24 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "bear",
-          "rout",
-          "csi",
-          "territory",
-          "sinks"
+          "asia",
+          "aims",
+          "center",
+          "power",
+          "newsletter"
         ]
-      }
-    ],
-    "australia": [
+      },
       {
-        "title": "Australia commits US$44 million to boost East Timor\u2019s cyber, maritime security",
-        "description": "Australia and East Timor signed a defence deal on Thursday to boost cyber and maritime security as Canberra seeks to curb China\u2019s influence among its island neighbours. Australia is East Timor\u2019s largest defence and security partner and the agreement will significantly increase defence exercises, Def",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/asia/australasia/article/3371751/australia-commits-us44-million-boost-east-timors-cyber-maritime-security",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "title": "Rupee rises 3 paise to 94.78 against USD in early trade",
+        "description": "The rupee rises by 3 paise against U.S. dollar on Friday, under pressure amid macroeconomic headwinds",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-against-us-dollar-on-october-23-2026/article71614598.ece",
+        "fromUrl": "https://www.thehindu.com/business/feeder/default.rss",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T06:16:08+00:00",
+        "publishedAt": "2026-10-23T11:43:24+05:30",
         "reason": "within_48h",
-        "score": 11,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
+            "reason": "important keyword match: u.s"
           },
           {
             "points": 4,
@@ -1069,34 +1144,91 @@
           },
           {
             "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
             "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 5,
+        "alternates": [],
+        "topicFingerprint": [
+          "oil",
+          "prices",
+          "lower",
+          "trade",
+          "surging"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Yen jumps as traders seek safety amid global flight from risk",
+        "description": "The Japanese currency rose 0.8% to 156.86 per dollar and touched its strongest level since late September.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/yen-jumps-as-traders-seek-safety-amid-global-flight-from-risk",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T09:00:00+08:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: safety"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "commits",
-          "timor",
-          "security",
-          "million",
-          "east"
+          "seek",
+          "flight",
+          "risk",
+          "yen",
+          "safety"
         ]
       },
       {
-        "title": "Australian TV reporter rescues man from sinking car",
-        "description": "Australian TV reporter rescues man from sinking car",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
+        "title": "In 2025, Japan\u2019s environment ministry showcased Fukushima cleanup soil reused in managed public works, with final disposal outside due by 2045",
+        "description": "Japan is using some low-radioactivity soil from the Fukushima cleanup in public works to reduce waste needing disposal by 2045.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/in-2025-japan-s-environment-ministry-showcased-fukushima-cleanup-soil-reused-in-managed-public-works-with-final-disposal-outside-due-by-2045-101792666755591.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T04:19:33+00:00",
+        "publishedAt": "2026-10-23T11:35:50+05:30",
         "reason": "within_48h",
-        "score": 3,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
+            "reason": "important keyword match: environment"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
@@ -1106,26 +1238,207 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "australian",
-          "reporter",
-          "rescues",
-          "man",
-          "car"
+          "final",
+          "soil",
+          "reused",
+          "works",
+          "showcased"
         ]
       }
     ],
-    "india": [
+    "brazil": [
       {
-        "title": "Rubio meets Adani, Chandrasekaran; visits Reliance\u2019s Jamnagar refinery",
-        "description": "The visit comes as India and the U.S. seek to deepen commercial and strategic ties, with energy security, manufacturing and technology among the areas of potential cooperation.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/gujarat/marco-rubio-jamnagar-reliance-refinery-october-21/article71606843.ece",
-        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "title": "How Lula turned four lessons from the presidential elections in Colombia into a comeback in Brazil\u2019s Sunday runoff",
+        "description": "Iv\u00e1n Cepeda\u2019s defeat in Colombia served as a wake-up call for the left in Brazil. The campaign shifted its focus from rhetoric about sovereignty to issues that directly affect people\u2019s daily lives, pushing foreign policy into the background",
+        "source": "The Conversation",
+        "url": "https://theconversation.com/how-lula-turned-four-lessons-from-the-presidential-elections-in-colombia-into-a-comeback-in-brazils-sunday-runoff-295048",
+        "fromUrl": "https://theconversation.com/global/articles.atom",
         "category": "Geopolitics",
         "readingTime": 2,
-        "publishedAt": "2026-10-21T22:16:17+05:30",
+        "publishedAt": "2026-10-22T23:58:36+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: policy"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "shifted",
+          "presidential",
+          "runoff",
+          "elections",
+          "lula"
+        ]
+      },
+      {
+        "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+        "description": "The Iguaz\u00fa Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Ni\u00f1o, has sent near-record volumes of water surging over the towering cliffs.",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
+        "category": "Environment",
+        "readingTime": 2,
+        "publishedAt": "2026-10-22T09:50:55-04:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: NPR"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "argentina",
+          "border",
+          "brazil",
+          "flowing",
+          "rates"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "\ud83d\udd34Live: Macron meets with student representatives and law enforcement ahead of new protests",
+        "description": "",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T06:05:12+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: law"
+          },
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: law"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "macron",
+          "student",
+          "enforcement",
+          "protests",
+          "live"
+        ]
+      },
+      {
+        "title": "France reports first human case of Shamonda virus",
+        "description": "France reports the first human case of the Shamonda virus in a patient in Lyon. Officials state there is no health risk to the general population.",
+        "source": "Frontpage",
+        "url": "https://frontpage.ink/be0b1c89-5d61-4333-9004-94766f414882.html",
+        "fromUrl": "https://frontpage.ink/rss.xml",
+        "category": "Health",
+        "readingTime": 2,
+        "publishedAt": "2026-10-22T13:17:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: health"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: Frontpage"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "france",
+          "shamonda",
+          "virus",
+          "case",
+          "human"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australia sanctions 2 over North Korean fake IT workers scheme for nuclear funds",
+        "description": "Australia said on Friday it had sanctioned two North Korean individuals and companies over the use of \u201cfraudulent\u201d IT workers and cybercrime to earn cash for the isolated nuclear-armed state. The two men are alleged to be key operators in Pyongyang\u2019s cybercriminal activities overseas, estimated by a",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/asia/australasia/article/3371845/australia-sanctions-2-over-north-korean-fake-it-workers-scheme-nuclear-funds",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T02:21:10+00:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: sanctions"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "topicFingerprint": [
+          "fake",
+          "workers",
+          "north",
+          "korean",
+          "scheme"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "Waymo founder predicts \u2018landslide\u2019 robotaxi adoption in Singapore, driven by high car costs",
+        "description": "The technology pushes AVs\u2019 initial costs up, but they are cheaper to run, safer and greener: Sebastian Thrun",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/international/global/waymo-founder-predicts-landslide-robotaxi-adoption-singapore-driven-high-car-costs",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-10-23T06:00:00+00:00",
+        "reason": "within_48h",
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
@@ -1133,62 +1446,54 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: energy"
+            "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: security"
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: u.s"
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: The Hindu"
+            "points": 1,
+            "reason": "less than 6 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "energy",
-          "india",
-          "rubio",
-          "us_entity",
-          "visits"
+          "driven",
+          "founder",
+          "car",
+          "costs",
+          "predicts"
         ]
       },
       {
-        "title": "Ambani\u2019s Jio seeks India\u2019s biggest IPO at a US$108 billion valuation. Will investors bite?",
-        "description": "The listing comes as foreign portfolio investors steadily withdraw money from local equities",
+        "title": "Mutual fund ownership among Singapore\u2019s wealthy nearly trebles since 2022: Citi report",
+        "description": "Singapore has the highest mutual fund ownership rate in Asia, even as a large share of assets remains in deposits",
         "source": "Business Times",
-        "url": "https://www.businesstimes.com.sg/international/global/ambanis-jio-seeks-indias-biggest-ipo-us108-billion-valuation-will-investors-bite",
+        "url": "https://www.businesstimes.com.sg/wealth/wealth-investing/mutual-fund-ownership-among-singapores-wealthy-nearly-trebles-2022-citi-report",
         "fromUrl": "https://www.businesstimes.com.sg/rss/global-enterprise",
         "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-21T07:15:20+00:00",
+        "publishedAt": "2026-10-22T09:45:56+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
+            "reason": "important keyword match: asia"
           },
           {
             "points": 2,
             "reason": "other category"
+          },
+          {
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
           },
           {
             "points": 1,
@@ -1198,69 +1503,65 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "ipo",
-          "us_entity108",
-          "jio",
-          "valuation",
-          "ambani"
+          "among",
+          "ownership",
+          "mutual",
+          "trebles",
+          "citi"
         ]
       }
     ],
-    "brazil": [
+    "uk": [
       {
-        "title": "Brazil's Supreme Court suspends permit for major Amazon gold mine",
-        "description": "Brazil s Supreme Court has suspended an environmental permit for a major gold mining project in the Amazon rainforest",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/brazils-supreme-court-suspends-permit-major-amazon-gold-137461510",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Policy",
+        "title": "Why 1 in 8 young people in UK are not learning or working",
+        "description": "These youths, aged 16 to 24, are known as the bedroom generation, for staying at home and living off parents",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/invest/why-1-in-8-young-people-in-uk-are-not-learning-or-working",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-10-21T20:45:17-04:00",
+        "publishedAt": "2026-10-23T05:00:00+08:00",
         "reason": "within_48h",
-        "score": 8,
+        "score": 4,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: environmental"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: supreme court"
-          },
-          {
-            "points": 3,
-            "reason": "company keyword match: amazon"
+            "reason": "important keyword match: uk"
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "amazon",
-          "gold",
-          "supreme",
-          "permit",
-          "mine"
+          "uk_entity",
+          "working",
+          "learning",
+          "young",
+          "people"
         ]
       },
       {
-        "title": "Brazil\u2019s Bolsonaro challenges Lula to expand release of personal records",
-        "description": "Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.",
+        "title": "UK Conservative Party leader responds to Al Jazeera investigation",
+        "description": "UK Conservative Party MP says the party does not condone former member s conduct, revealed in Al Jazeera investigation.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation",
         "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T04:36:04+00:00",
+        "publishedAt": "2026-10-22T23:34:46+00:00",
         "reason": "within_48h",
-        "score": 4,
+        "score": 3,
         "score_debug": [
           {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
+            "points": 2,
+            "reason": "important keyword match: uk"
           },
           {
             "points": 2,
@@ -1272,288 +1573,36 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Brazil's Bolsonaro sets terms for records release after Lula's disclosure challenge",
-            "description": "BRASILIA, Oct 21 - Brazilian presidential candidate Senator Flavio Bolsonaro imposed conditions on Wednesday to disclose his bank, tax and telephone records after a challenge from President Luiz Inacio Lula da Silva, his opponent in Sunday's election runoff.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/brazils-bolsonaro-sets-terms-for-records-release-after-lulas-disclosure-challenge",
-            "category": "Financial",
-            "publishedAt": "2026-10-22T07:01:26+08:00",
-            "score": 9,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "lula",
-              "presidential",
-              "conditions",
-              "opponent",
-              "records"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "lula",
-          "presidential",
-          "conditions",
-          "opponent",
-          "records"
-        ]
-      }
-    ],
-    "singapore": [
-      {
-        "title": "OCBC customers can hold Malaysian ringgit in Singapore savings accounts from Oct 23",
-        "description": "Customers can earn interest on ringgit cash balances, a feature unlike other multi-currency digital wallets.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/ocbc-to-let-customers-hold-malaysian-ringgit-in-singapore-savings-accounts-from-oct-23",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-21T17:28:01+08:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: customers"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: interest"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "OCBC to add ringgit to Singapore-based savings accounts from Oct 23",
-            "description": "Customers can hold up to RM50,000, earn interest on their balances and spend directly in Malaysia",
-            "source": "Business Times",
-            "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/ocbc-add-ringgit-singapore-based-savings-accounts-oct-23",
-            "category": "General",
-            "publishedAt": "2026-10-21T09:48:33+00:00",
-            "score": 4,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "balances",
-              "customers",
-              "ocbc",
-              "accounts",
-              "singapore"
-            ],
-            "group_id": 0
-          }
-        ],
-        "topicFingerprint": [
-          "balances",
-          "customers",
-          "ocbc",
-          "accounts",
-          "singapore"
-        ]
-      },
-      {
-        "title": "Singapore security robotics firm Kabam to cease operations on Nov 20",
-        "description": "The company was among the first six firms supported under the city-state\u2019s RoboNexus accelerator programme.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/singapore-security-robotics-firm-kabam-to-cease-operations-on-nov-20",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-22T14:20:00+08:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "singapore",
-          "firm",
-          "security",
-          "kabam",
-          "nov"
+          "party",
+          "uk_entity",
+          "conservative",
+          "investigation",
+          "jazeera"
         ]
       }
     ],
     "mexico": [
       {
-        "title": "Mexico levies rare treason charge against ex-official over US drug operation",
-        "description": "MEXICO CITY, Oct 21 - Mexican federal prosecutors charged a former state prosecutor with treason on Wednesday after accusing him of allowing US personnel to take part in a drug operation in northern Mexico without the federal government's approval.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/mexico-revives-rare-treason-charge-against-former-state-prosecutor",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Policy",
+        "title": "El Ni\u00f1o rains batter Latin America from Mexico to Chile",
+        "description": "PARAGUAY-WEATHER/ (TV, PIX):El Ni\u00f1o rains batter Latin America from Mexico to Chile",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/el-ni-o-rains-batter-latin-america-from-mexico-to-chile-101792702317171.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Environment",
         "readingTime": 2,
-        "publishedAt": "2026-10-22T01:06:43+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "charged",
-          "allowing",
-          "treason",
-          "drug",
-          "mexico"
-        ]
-      }
-    ],
-    "japan": [
-      {
-        "title": "Japanese investors sell foreign bonds for fifth straight week, eye home market",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/japanese-investors-sell-foreign-bonds-fifth-straight-week-eye-home-market-6481706",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-22T14:38:32+08:00",
-        "reason": "within_48h",
-        "score": 5,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "fifth",
-          "sell",
-          "eye",
-          "foreign",
-          "week"
-        ]
-      }
-    ],
-    "germany": [
-      {
-        "title": "German court calls Google\u2019s aerial imagery \u2018spying\u2019, Google will appeal",
-        "description": "A German court has told Google it cannot keep showing people\u2019s homes from above without their permission. The Frankfurt Regional Court ruled on Tuesday that the aerial and satellite views on Google Earth and Google Maps break Germany\u2019s strict privacy laws. It went further, and called the practice \u201cs",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/google-aerial-imagery-spying-german-court",
-        "fromUrl": "https://thenextweb.com/feed",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-10-21T16:26:24+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 3,
-            "reason": "company keyword match: google"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: The Next Web"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "appeal",
-          "google",
-          "calls",
-          "imagery",
-          "spying"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "What\u2019s brewing behind South Korea\u2019s Mega Coffee deal rush?",
-        "description": "The coffee chain now harbours an appetite for a larger share of the retail landscape.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/whats-brewing-behind-south-koreas-mega-coffee-deal-rush",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-21T16:30:00+08:00",
+        "publishedAt": "2026-10-23T02:21:56+05:30",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
             "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "High Quality Source match: The Straits Times"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "sk_entity",
-          "brewing",
-          "coffee",
-          "behind",
-          "mega"
-        ]
-      },
-      {
-        "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-        "description": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-21T20:31:47+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: BBC News"
           },
           {
             "points": 1,
@@ -1563,44 +1612,11 @@
         "group_id": 0,
         "alternates": [],
         "topicFingerprint": [
-          "attempt",
-          "canal",
-          "crowds",
-          "rescue",
-          "korean"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-        "description": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-22T01:45:48+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "topicFingerprint": [
-          "ceasefire",
-          "call",
-          "qatar",
-          "france",
-          "hormuz"
+          "nio",
+          "batter",
+          "chile",
+          "latin",
+          "rains"
         ]
       }
     ]
