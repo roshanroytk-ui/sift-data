@@ -1,834 +1,727 @@
 {
-  "updatedAt": "2026-11-01T07:26:12.470542",
+  "updatedAt": "2026-11-02T09:09:15.029153",
   "insight": {
-    "title": "Why You Add 'Reddit' to Every Search",
-    "subtitle": "Standard search results feel like ads, so we hunt for accidental human honesty.",
-    "notificationHook": "Why every search query ends in \"reddit\"",
+    "title": "Your Feed Mistakes Your Confusion for Curiosity",
+    "subtitle": "Lingering on a weird video for three seconds completely rewires your recommendations.",
+    "notificationHook": "Why lingering breaks your feed",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "You type a query into Google, immediately hit space, and append the word \"reddit.\" You don\u2019t want a polished top-ten list; you want an opinion from an anonymous stranger who actually bought the item."
+        "text": "You pause on a bizarre video for three seconds just trying to figure out what you're looking at. To you, it\u2019s total bewilderment. To your feed, it\u2019s a ringing endorsement."
       },
       {
         "type": "paragraph",
-        "text": "Search results are now dominated by optimized affiliate sites and AI-generated articles. Adding a forum name acts as a cheat code, bypassing polished marketing to find messy, unedited human experience."
+        "text": "Algorithms don't measure joy or approval; they measure dwell time. When you hesitate out of confusion, shock, or mild irritation, the system registers high interest and immediately serves you ten more."
       },
       {
         "type": "paragraph",
-        "text": "It marks a major shift in modern internet trust. As web content gets smoother and more commercial, authentic information becomes harder to spot\u2014making unpolished, zero-budget forum posts the highest standard of proof."
+        "text": "As a result, modern feeds aren\u2019t built from your actual tastes. They are constructed from your micro-pauses, turning weird edge cases and confusing trends into your new digital reality."
       },
       {
         "type": "paragraph",
-        "text": "We replaced official reviews with random strangers from 2019."
+        "text": "You aren't what you like; you're what made you hesitate."
       }
     ]
   },
   "news": [
     {
-      "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
-      "description": "ATLANTA, Oct 31 - US Secretary of State Marco Rubio on Saturday said there was growing interest by the international community in facilitating a limited ceasefire in the Black Sea to ensure unfettered energy and grain shipments by Russia and Ukraine.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/us-canada-see-growing-interest-in-limited-ceasefire-in-black-sea",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 16,
-      "why": "Shipping routes across the region may become safer.",
-      "context": "Washington and Ottawa are exploring a Black Sea naval truce.",
-      "next": "Participating nations may draft formal terms for maritime traffic.",
-      "bigger": "Maritime diplomacy could stabilize critical global transport lanes.",
-      "publishedAt": "2026-11-01T03:51:44+08:00",
-      "topicFingerprint": [
-        "us_entity",
-        "secretary",
-        "rubio",
-        "marco",
-        "iran"
-      ],
-      "related": [
-        {
-          "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
-          "score": 13,
-          "publishedAt": "2026-10-31T17:14:34-04:00",
-          "overlap": 5.5
-        },
-        {
-          "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
-          "score": 11,
-          "publishedAt": "2026-10-31T19:32:58+00:00",
-          "overlap": 5.5
-        },
-        {
-          "title": "Russia's presence divides G20 ministers",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
-          "score": 7,
-          "publishedAt": "2026-10-31T09:30:04+00:00",
-          "overlap": 5.5
-        },
-        {
-          "title": "Quad to step up cooperation in AI, critical minerals",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/quad-to-step-up-cooperation-in-ai-critical-minerals-20024160.htm",
-          "score": 3,
-          "publishedAt": "2026-10-31T22:03:18+05:30",
-          "overlap": 5.5
-        }
-      ],
-      "alternates": [
-        {
-          "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
-          "description": "Divisions over Russia\u2019s war with Ukraine overshadowed the talks, with U.S. Secretary of State Marco Rubio set to release a chairman\u2019s statement instead of a joint communique",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648418.ece",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-31T12:36:30+05:30",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "us_entity",
-            "secretary",
-            "rubio",
-            "marco",
-            "iran"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
-      "category": "Health",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Regional healthcare systems face extreme strain and disease risks.",
-      "context": "A major viral outbreak caused thousands of deaths in Congo.",
-      "next": "Global health agencies may send emergency medical aid.",
-      "bigger": "Severe epidemics continue to threaten vulnerable health infrastructures.",
-      "publishedAt": "2026-10-31T15:16:20+00:00",
-      "topicFingerprint": [
-        "die",
-        "deadliest",
-        "outbreak",
-        "ebola",
-        "congo"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
-      "description": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. The figures come from a Reuters analysis of LSEG data and compa",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 17,
-      "why": "Tech investors may receive lower short-term cash returns.",
-      "context": "Major technology firms reduced share repurchases to fund artificial intelligence.",
-      "next": "Companies will likely invest more capital into hardware systems.",
-      "bigger": "Corporate spending is shifting heavily from payouts to technology.",
-      "publishedAt": "2026-10-31T22:21:38+00:00",
-      "topicFingerprint": [
-        "ai_group",
-        "cash",
-        "meta",
-        "negative",
-        "outlook"
-      ],
-      "related": [
-        {
-          "title": "AI boom hits a wall on Wall Street as OpenAI cuts fundraising target while Meta gets a credit warning over its cash flow, spending and monetization",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
-          "score": 14,
-          "publishedAt": "2026-10-31T16:41:35+00:00",
-          "overlap": 3
-        },
-        {
-          "title": "Cracks are emerging in the AI spending boom",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "score": 7,
-          "publishedAt": "2026-10-30T21:17:40+00:00",
-          "overlap": 3
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot",
-      "description": "US President Donald Trump voiced on Saturday (Oct 31) his support for the \u201cbrilliant\u201d head of US chip giant Nvidia, Jensen Huang after a report that he was targeted by a Chinese spy plot.",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 11,
-      "why": "Tech executives may face stricter security and travel controls.",
-      "context": "American officials are reviewing reports of foreign espionage targeting Nvidia.",
-      "next": "Washington may mandate new protection rules for microchip leaders.",
-      "bigger": "Superpower competition over advanced technology is becoming hostile.",
-      "publishedAt": "2026-11-01T13:06:24+08:00",
-      "topicFingerprint": [
-        "huang",
-        "plot",
-        "looking",
-        "target",
-        "nvidia"
-      ],
-      "related": [],
-      "alternates": [
-        {
-          "title": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot",
-          "description": "Trump said Jensen Huang is \u201ca great, brilliant person\u201d.",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/trump-says-us-looking-closely-at-report-nvidia-ceo-target-of-china-spy-plot",
-          "category": "General",
-          "publishedAt": "2026-11-01T12:10:00+08:00",
-          "score": 11,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "huang",
-            "plot",
-            "looking",
-            "target",
-            "nvidia"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "U.S workers just took home their smallest share of capital since at least 1947\u2014and the lowest ever recorded",
-      "description": "American workers aren\u2019t just getting the smallest share of GDP since records began. Their share of employment is shrinking and shrinking",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-      "category": "Economy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "American workers may struggle to cover basic household bills.",
-      "context": "American wage earners receive a historically low portion of economic output.",
-      "next": "Trade unions could push harder for higher mandatory wages.",
-      "bigger": "Capital returns continue to outpace labor income across major economies.",
-      "publishedAt": "2026-10-31T14:38:30+00:00",
-      "topicFingerprint": [
-        "smallest",
-        "workers",
-        "share",
-        "lowest",
-        "ever"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Quad calls out export curbs, Strait of Hormuz closure",
-      "description": "Both concerns bear directly on India, which brings in much of its fertiliser and energy through the Gulf and relies on China for critical minerals.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/strait-of-hormuz-export-curbs-quad-india-australia-japan-asean-s-jaishankar-marco-rubio-asean-manila-red-sea-us-iran-war-101793492318898.html",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Importers may face higher costs for essential fuels and materials.",
-      "context": "Member nations condemned regional trade barriers and vital shipping blockades.",
-      "next": "Allied navies may increase joint patrols along key trade corridors.",
-      "bigger": "Securing global trade channels remains a vital geopolitical priority.",
-      "publishedAt": "2026-11-01T05:56:49+05:30",
-      "topicFingerprint": [
-        "concerns",
-        "through",
-        "quad",
-        "export",
-        "strait"
-      ],
-      "related": [
-        {
-          "title": "Hormuz woes, climate change boost China\u2019s green energy sales at Canton Fair",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/china-economy/article/3372741/hormuz-woes-climate-change-boost-chinas-green-energy-sales-canton-fair",
-          "score": 13,
-          "publishedAt": "2026-11-01T01:00:07+00:00",
-          "overlap": 5.5
-        },
-        {
-          "title": "Quad ministers express \u2018grave concerns\u2019 over economic coercion",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/quad-ministers-express-grave-concerns-over-economic-coercion/article71650501.ece",
-          "score": 3,
-          "publishedAt": "2026-10-31T22:05:31+05:30",
-          "overlap": 4
-        },
-        {
-          "title": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/rubio-to-host-meeting-of-indo-pacific-quad-wrap-up-g20-gathering",
-          "score": 12,
-          "publishedAt": "2026-10-31T18:06:57+08:00",
-          "overlap": 3
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Binance\u2019s US$6b crypto heist: Five things to know about North Korea\u2019s TraderTraitor hackers",
-      "description": "The group has been known to pose as recruiters offering lucrative jobs to trick victims into downloading malicious software.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/five-things-to-know-about-north-koreas-tradertraitor-hackers",
-      "category": "Cybersecurity",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Your digital wallet accounts may require stronger security protections.",
-      "context": "State-backed hackers stole massive crypto funds through fake job offers.",
-      "next": "Cryptocurrency platforms will likely introduce stricter login protocols.",
-      "bigger": "State-sponsored cyberattacks are increasingly targeting digital financial networks.",
-      "publishedAt": "2026-11-01T11:23:00+08:00",
-      "topicFingerprint": [
-        "korea",
-        "north",
-        "binance",
-        "crypto",
-        "tradertraitor"
-      ],
-      "related": [
-        {
-          "title": "How North Korea perfected the crypto heist",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
-          "score": 3,
-          "publishedAt": "2026-10-31T11:15:07+00:00",
-          "overlap": 6
-        },
-        {
-          "title": "FBI blames North Korea for record $6.3bn Binance hack; 90% of losses covered",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/9de01a40-91e8-47a3-bff8-f9b2dbecd254.html",
-          "score": 3,
-          "publishedAt": "2026-11-01T00:52:57+00:00",
-          "overlap": 4
-        }
-      ],
-      "alternates": [
-        {
-          "title": "Binance\u2019s US$6b crypto heist: Five things to know about North Korea\u2019s TraderTraitor hackers",
-          "description": "The Oct 29 attack is believed to be the largest crypto heist in history and is latest in a string of high-profile cyber thefts linked to Pyongyang.",
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/east-asia/north-korea-tradertraitor-hackers-pyongyang-binance-crypto-heist-6510661",
-          "category": "Technology",
-          "publishedAt": "2026-11-01T13:38:24+08:00",
-          "score": 5,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "korea",
-            "north",
-            "binance",
-            "crypto",
-            "tradertraitor"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
-          "description": "",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
-          "category": "General",
-          "publishedAt": "2026-11-01T07:33:00+08:00",
-          "score": 4,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "korea",
-            "north",
-            "binance",
-            "crypto",
-            "tradertraitor"
-          ],
-          "group_id": 0
-        }
-      ]
-    },
-    {
-      "title": "OpenAI slashes funding target by US$10 billion amid tech rout: FT",
-      "description": "OpenAI set a Friday deadline for investors to commit to the funding round",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/openai-slashes-funding-target-us10-billion-amid-tech-rout-ft",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 10,
-      "why": "New features in popular software tools may arrive more slowly.",
-      "context": "An artificial intelligence company reduced its fundraising goal following market declines.",
-      "next": "Valuation expectations for tech startups may decline further.",
-      "bigger": "Market corrections are reining in aggressive tech industry expansion.",
-      "publishedAt": "2026-10-31T07:46:58+00:00",
-      "topicFingerprint": [
-        "openai",
-        "funding",
-        "round",
-        "billion",
-        "target"
-      ],
-      "related": [
-        {
-          "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-          "score": 6,
-          "publishedAt": "2026-10-31T19:56:23+00:00",
-          "overlap": 4
-        },
-        {
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "source": "Techcrunch",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-          "score": 3,
-          "publishedAt": "2026-10-31T16:12:55+00:00",
-          "overlap": 4
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Trump\u2019s next Iran move? Strikes loom after Netanyahu\u2019s win and US midterms",
-      "description": "Benjamin Netanyahu\u2019s win in Israel\u2019s election and next week\u2019s US midterm results could prompt President Donald Trump to resume previously paused strikes against Iran, according to analysts. The Israeli prime minister\u2019s bloc secured 53 seats in the 120-member Knesset, while his rival Gadi Eisenkot\u2019s ",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/week-asia/politics/article/3372864/trumps-next-iran-move-strikes-loom-after-netanyahus-win-and-us-midterms",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 14,
-      "why": "Your fuel and transport costs may rise soon.",
-      "context": "Recent political shifts in key nations raise potential for military actions.",
-      "next": "Regional military forces may prepare for active conflict escalation.",
-      "bigger": "Geopolitical tensions in energy regions frequently disrupt international oil markets.",
-      "publishedAt": "2026-11-01T04:15:37+00:00",
-      "topicFingerprint": [
-        "iran",
-        "donald_trump",
-        "us_entity",
-        "war",
-        "midterm"
-      ],
-      "related": [
-        {
-          "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-20024147.htm",
-          "score": 3,
-          "publishedAt": "2026-10-31T20:35:53+05:30",
-          "overlap": 5.5
-        },
-        {
-          "title": "Trump, Netanyahu speak as US weighs renewed military action against Iran",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/trump-netanyahu-speak-as-us-weighs-renewed-military-action-against-iran-101793496042780.html",
-          "score": 11,
-          "publishedAt": "2026-11-01T08:26:55+05:30",
-          "overlap": 4.5
-        },
-        {
-          "title": "Iran envoys meet Qatar mediators as threat looms of US strikes after midterm elections",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms",
-          "score": 9,
-          "publishedAt": "2026-10-31T23:01:43+08:00",
-          "overlap": 4.5
-        },
-        {
-          "title": "Trump vs MAGA: Why his movement is splitting",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
-          "score": 9,
-          "publishedAt": "2026-10-31T10:11:47+00:00",
-          "overlap": 3.5
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "How big and powerful is SpaceX's Starship rocket?",
-      "description": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Satellite deployment costs could decrease significantly for commercial operators.",
-      "context": "SpaceX built a heavy launch vehicle for long-range space transport.",
-      "next": "Aerospace teams will test advanced landing procedures in coming months.",
-      "bigger": "Commercial space travel systems are rapidly expanding human orbital capabilities.",
-      "publishedAt": "2026-10-31T23:45:00+00:00",
-      "topicFingerprint": [
-        "spacex",
-        "starship",
-        "powerful",
-        "rocket"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Singapore turns up heat on power-hungry air conditioning with cool revolution",
-      "description": "Long dubbed an \u201cair-conditioned nation\u201d, Singapore is experimenting with cooling alternatives from chilled beams to \u201cpassive displacement\u201d to curb its thirst for energy-guzzling air conditioning. The city state has the highest per-capita air conditioner ownership rate in Southeast Asia, with about 9",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372868/singapore-turns-heat-power-hungry-air-conditioning-cool-revolution",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 10,
-      "why": "Local residents may see lower energy bills in modern buildings.",
-      "context": "Singapore is testing alternative cooling methods to lower municipal electricity use.",
-      "next": "Urban planners may adopt passive cooling standards for new construction.",
-      "bigger": "Dense cities must adopt energy-efficient architecture to cut power usage.",
-      "publishedAt": "2026-11-01T05:34:21+00:00",
-      "topicFingerprint": [
-        "revolution",
-        "turns",
-        "air",
-        "cool",
-        "hungry"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Russia\u2019s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
-      "description": "Oil exports help pay for Moscow\u2019s war effort and Ukraine is trying to hit them hard.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/russias-shadow-fleet-turns-to-nets-and-rubber-tires-for-makeshift-drone-armor-101793502279355.html",
+      "title": "Iran warns new war with US could last longer after Trump threatens strikes",
+      "description": "Iran warns a new war with the US could last longer after President Trump threatens fresh military strikes on targets following the midterm elections.",
+      "source": "Frontpage",
+      "url": "https://frontpage.ink/f17397c9-33c0-48a9-9e50-94f361cec521.html",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 15,
-      "why": "Maritime shipping operators face higher security costs and insurance rates.",
-      "context": "Russian oil tankers are adding basic protective armor against incoming drones.",
-      "next": "Ukrainian forces will likely adjust their drone attack methods.",
-      "bigger": "Modern conflicts are reshaping global maritime shipping safety practices.",
-      "publishedAt": "2026-11-01T09:35:23+05:30",
+      "why": "Your fuel and transport costs may rise if Middle East tensions escalate.",
+      "context": "Iran cautioned that military conflicts with the US could escalate further.",
+      "next": "Military forces in the region may increase their readiness levels.",
+      "bigger": "Geopolitical conflict continues to threaten stability in global energy markets.",
+      "publishedAt": "2026-11-02T08:09:02+00:00",
       "topicFingerprint": [
-        "ukraine",
         "war",
-        "fleet",
-        "them",
-        "pay"
+        "iran",
+        "donald_trump",
+        "ukraine",
+        "us_entity",
+        "strikes"
       ],
       "related": [
         {
-          "title": "Ukraine's war robots keep soldiers out of danger, but humans still risk their lives to keep them running",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/ukraine-uses-robots-protect-humans-replace-some-soldiers-still-risk-2026-10",
-          "score": 6,
-          "publishedAt": "2026-10-31T10:13:54+00:00",
-          "overlap": 4
+          "title": "Iran warns renewed war with US could outlast previous conflict",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+          "score": 9,
+          "publishedAt": "2026-11-02T00:23:23+00:00",
+          "overlap": 6.5
+        },
+        {
+          "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+          "score": 5,
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "overlap": 4.5
+        },
+        {
+          "title": "Trump has frank call with Netanyahu about next move in Iran war",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+          "score": 7,
+          "publishedAt": "2026-11-01T18:00:05+00:00",
+          "overlap": 3.5
         }
       ],
+      "alternates": [
+        {
+          "title": "Iran warns new war could last longer after Trump threatens strikes",
+          "description": "President Donald Trump said that the US could strike its remaining targets in Iran \"in 10 minutes\".",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/iran-new-war-trump-threatens-strikes-6512341",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-02T14:21:00+08:00",
+          "score": 12,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "'Next war could last longer': Iran warns US as Trump hints at fresh strikes",
+          "description": "Iran has warned that any renewed war with the US could last longer than the previous conflict, after Trump suggested more targets in the country could be struck",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/next-war-could-last-longer-iran-warns-us-as-trump-hints-at-fresh-strikes-101793574949916.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-02T05:36:32+05:30",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Iran warns new war with US could last longer as Trump threatens \u2018the hammer\u2019",
+          "description": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after US President Donald Trump said he still had to \u201ctake care\u201d of more targets. Diplomatic efforts to end the Middle East war have been punctuated by repeated threats from the U",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372947/iran-warns-new-war-us-could-last-longer-trump-threatens-hammer",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-02T05:58:52+00:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+          "description": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-02T02:39:35+00:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Iran warns new war could last longer after Trump threatens strikes",
+          "description": "Diplomatic efforts to end the West Asia war have been punctuated by repeated threats from the U.S. and Israel to resume bombardments as they hold crucial elections",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes/article71653794.ece",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-01T21:34:22+05:30",
+          "score": 7,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Iran warns new war could last longer after Trump threatens strikes",
+          "description": "Trump says the US still has to \u201ctake care of\u201d one or two targets \"but we can do that in 10 minutes\".",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/irans-army-warns-that-any-new-war-with-us-could-be-longer-than-previous-conflict",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-01T19:28:00+08:00",
+          "score": 4,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "war",
+            "iran",
+            "donald_trump",
+            "ukraine",
+            "us_entity",
+            "strikes"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Everything changed for the oil, AI and bond trades over the past month",
+      "description": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 18,
+      "why": "Your investment portfolio and retirement savings may face higher volatility.",
+      "context": "Global markets shifted rapidly across oil, technology, and government bonds.",
+      "next": "Investors may shift capital away from tech into safer assets.",
+      "bigger": "Market sentiment is swinging between inflation fears and technology slowdowns.",
+      "publishedAt": "2026-11-01T22:27:40+00:00",
+      "topicFingerprint": [
+        "bond",
+        "oil",
+        "ai_group",
+        "changed",
+        "trades"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Investor scrutiny of the AI spending boom is rising, but Big Tech is unlikely to give up",
+      "description": "The AI boom\u2019s fate may redefine the economic outlook of Asia, where the bulk of chip manufacturing capacity is.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/investor-scrutiny-of-the-ai-spending-boom-is-rising-but-big-tech-is-unlikely-to-give-up",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 15,
+      "why": "Hiring in the tech sector may slow down soon.",
+      "context": "Investors are questioning heavy corporate spending on artificial intelligence development.",
+      "next": "Tech giants may face pressure to show clear software profits.",
+      "bigger": "Companies face growing pressure to prove the profitability of AI.",
+      "publishedAt": "2026-11-02T15:45:00+08:00",
+      "topicFingerprint": [
+        "investor",
+        "ai_group",
+        "tech",
+        "rising",
+        "scrutiny"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "China lowers funding costs with shift to overnight policy rate",
+      "description": "The move reduces borrowing costs for financial institutions",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/china-lowers-funding-costs-shift-overnight-policy-rate",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 11,
+      "why": "Foreign businesses borrowing in China may see reduced financing expenses.",
+      "context": "China adjusted key interest rates to reduce commercial borrowing costs.",
+      "next": "Chinese banks may lower consumer lending rates in coming months.",
+      "bigger": "Central banks are continuously adjusting monetary policy to stimulate growth.",
+      "publishedAt": "2026-11-02T03:02:10+00:00",
+      "topicFingerprint": [
+        "costs",
+        "lowers",
+        "funding",
+        "overnight",
+        "rate"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Crew from NASA\u2019s simulated Mars mission emerges after 378 days in isolation",
+      "description": "NASA has ambitions for a human mission to Mars as early as the 2030s.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Future space exploration may become safer for human astronauts.",
+      "context": "Scientists finished a yearlong simulated space mission living in isolation.",
+      "next": "Researchers will evaluate psychological and biological data from the crew.",
+      "bigger": "Human space travel relies increasingly on long-term isolation research.",
+      "publishedAt": "2026-11-02T00:53:59+08:00",
+      "topicFingerprint": [
+        "emerges",
+        "isolation",
+        "mars",
+        "simulated",
+        "crew"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Singapore, Argentina deepen trade ties as key South American trade pact enters into force",
+      "description": "The Mercosur-Singapore Free Trade Agreement eliminates import tariffs on 96% of products for up to 15 years.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/singapore-argentina-deepen-trade-ties-as-key-south-american-trade-pact-enters-into-force",
+      "category": "Economy",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Import taxes on traded goods will drop for regional businesses.",
+      "context": "Singapore and Argentina strengthened commercial relationships through a new agreement.",
+      "next": "Trade volume between South America and Asia may expand steadily.",
+      "bigger": "Regional trade agreements are reshaping global commercial partnerships.",
+      "publishedAt": "2026-11-02T10:14:00+08:00",
+      "topicFingerprint": [
+        "products",
+        "trade",
+        "argentina",
+        "tariffs",
+        "mercosur"
+      ],
+      "related": [],
+      "alternates": [
+        {
+          "title": "Singapore, Argentina deepen trade ties as key South American trade pact enters into force",
+          "description": "The Mercosur-Singapore Free Trade Agreement eliminates import tariffs on 96% of products for up to 15 years",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/singapore/economy-policy/singapore-argentina-deepen-trade-ties-key-south-american-trade-pact-enters-force",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-01T11:03:39+00:00",
+          "score": 9,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "products",
+            "trade",
+            "argentina",
+            "tariffs",
+            "mercosur"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "Tesla, Samsung oppose US tariffs on Vietnam as steel and solar firms seek penalties",
+      "description": "Tesla and Samsung have opposed fresh US tariffs on Vietnamese goods, while steel, solar and software industry groups are urging Washington to impose penalties over alleged unfair trade practices and piracy.",
+      "source": "CNBC TV",
+      "url": "https://www.cnbctv18.com/world/tesla-samsung-oppose-us-tariffs-on-vietnam-as-steel-and-solar-firms-seek-penalties-20024554.htm",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Prices for electronics and solar panels may increase for consumers.",
+      "context": "Major electronics companies resisted proposed import tariffs on international goods.",
+      "next": "Trade regulators will decide on proposed import penalties and duties.",
+      "bigger": "Global supply chains face friction from trade protectionism and tariffs.",
+      "publishedAt": "2026-11-02T09:04:12+05:30",
+      "topicFingerprint": [
+        "tesla",
+        "firms",
+        "tariffs",
+        "oppose",
+        "samsung"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "U.S. sanctions push Cuba to the brink, with healthcare at risk",
+      "description": "More than nine million Cubans are caught in the middle as the U.S. and Cuba blame each other for Cuba's deepening humanitarian crisis.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/cuba-health-care-food-us-sanctions-60-minutes/",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Cuban residents face dangerous shortages of vital medicines and care.",
+      "context": "Trade restrictions have severely crippled essential public services in Cuba.",
+      "next": "Humanitarian organizations may request temporary trade exemptions for emergency relief.",
+      "bigger": "Economic sanctions continue to cause severe civilian humanitarian challenges.",
+      "publishedAt": "2026-11-01T19:45:17-05:00",
+      "topicFingerprint": [
+        "brink",
+        "healthcare",
+        "risk",
+        "sanctions",
+        "cuba"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Dangerous flooding hits Four Corners, prompting evacuations across U.S. Southwest",
+      "description": "Meteorologists say a super El Ni\u00f1o and a subtropical jet stream are to blame for the heavier rain, more torrential storms and bigger floods. Akiko Fujita is in Huntington Beach, California, with more details, and Andrew Kozak is in the studio with the forecast.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/dangerous-flooding-hits-the-west/",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Local travel delays and property damage risks are rising rapidly.",
+      "context": "Intense rainfall caused severe flooding and forced residents to evacuate.",
+      "next": "Emergency crews will work to repair damaged roads and homes.",
+      "bigger": "Extreme weather events are disrupting regional infrastructure more frequently.",
+      "publishedAt": "2026-11-01T21:09:35-05:00",
+      "topicFingerprint": [
+        "hits",
+        "corners",
+        "prompting",
+        "across",
+        "dangerous"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "As Europe\u2019s right advances, Germany\u2019s AfD rethinks its anti-euro roots",
+      "description": "It now appears closer than ever to entering government at national level before the end of the decade.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/as-europes-right-advances-germanys-afd-rethinks-its-anti-euro-roots",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "European business regulations and currency stability could face future changes.",
+      "context": "A major political party shifted positions on European currency policy.",
+      "next": "Political parties will form new policy coalitions ahead of elections.",
+      "bigger": "Right-wing political momentum is altering economic policies across Europe.",
+      "publishedAt": "2026-11-02T14:07:05+08:00",
+      "topicFingerprint": [
+        "anti",
+        "afd",
+        "rethinks",
+        "germany",
+        "euro"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women",
+      "description": "As women make inroads in male-dominated fields, firms look to improve jobsite culture.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-101793589750145.html",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Women entering trade industries may find expanding career opportunities soon.",
+      "context": "Businesses are actively recruiting female workers to fill labor gaps.",
+      "next": "Construction and industrial firms will update workplace safety and culture.",
+      "bigger": "Traditional industries are diversifying recruitment strategies to overcome labor shortages.",
+      "publishedAt": "2026-11-02T08:52:58+05:30",
+      "topicFingerprint": [
+        "trade",
+        "skilled",
+        "solution",
+        "women",
+        "shortage"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+      "description": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 7,
+      "why": "International flight paths and oil prices may face ongoing disruptions.",
+      "context": "Diplomatic talks are underway to prevent regional military strikes.",
+      "next": "Mediators will present proposed ceasefire conditions to involved governments.",
+      "bigger": "Regional diplomacy is critical to maintaining stability in global energy corridors.",
+      "publishedAt": "2026-11-01T17:19:13-05:00",
+      "topicFingerprint": [
+        "iran",
+        "attacks",
+        "edge",
+        "gulf",
+        "qatar"
+      ],
+      "related": [],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is the plain, clear version of today's top news.\n\nUS Secretary of State Marco Rubio said interest is growing for a Black Sea ceasefire. The goal is to protect grain and energy shipments from Ukraine and Russia. The US is reviewing proposals from Turkey and India to move grain. Rubio spoke after a G20 meeting of foreign ministers ended without a joint agreement. Canadian Foreign Minister Anita Anand said she confronted Russian Foreign Minister Sergei Lavrov directly. Anand called out Russia's invasion, stolen children, and ship attacks during a session. She pushed for a truce to protect Ukraine's electrical grid before winter arrives. Anand said Ukraine is engaged, but Russia has not shown willingness to move ahead.\n\nIn health news, more than 5,000 people have died from Ebola in the Democratic Republic of Congo. Government data shows more than 10,300 confirmed cases across eight provinces. The outbreak started in May and became the country's deadliest in August. The health ministry said the epicentre remains in Ituri province, a conflict zone. The current strain is the Bundibugyo species, which lacks a treatment or vaccine. Violence has disrupted care, and a nurse was killed earlier this week. Kenya has confirmed nine cases, and two suspected cases are in Nigeria. Travel restrictions remain in place for people entering Uganda from DR Congo.\n\nTurning to business, five major tech companies cut stock buybacks by 83 percent to fund AI spending. Microsoft, Alphabet, Amazon, Meta, and Oracle returned 9.3 percent of cash to shareholders. A Reuters analysis shows this is their smallest share in at least 15 years. The five companies saw operating cash flow rise 29 percent to 542.9 billion dollars. Capital spending doubled to 556.9 billion dollars, creating a 14 billion dollar deficit. Alphabet and Meta have not bought back any shares this year. Amazon raised 48.1 billion dollars in long-term debt during the third quarter. The five firms hold over three trillion dollars in future AI commitments.\n\nNext, President Donald Trump said the US is investigating a Chinese spy plot against Nvidia's chief executive. Jensen Huang leads Nvidia, the American company that makes artificial intelligence chips. A newspaper report said US officials found a Chinese executive leaking information to Beijing. The executive worked with a Singapore data firm and had interacted with Huang. China dismissed the intelligence report as groundless speculation. Trump told reporters in Florida that he hopes Huang will be okay. Huang advised Trump on AI policy and visited Beijing with him in May. Trump said he wants to retain Huang as an advisor unless facts show otherwise.\n\nIn economic news, American workers took home their smallest share of national income on record. Government data shows the labor share fell to 52.8 percent in the second quarter. That decrease happened while Fortune 500 corporate profits reached a record 2.1 trillion dollars. Labor economist Raymond Robertson said automation is replacing people and shifting income to capital. Worker productivity grew 1.4 percent last quarter while hiring slowed significantly across the country. Employers added 584,000 jobs in 2025. That was down from two million jobs added the previous year. Unemployment ticked up to 4.2 percent in September. Robertson expects unemployment to rise further over the next few months.\n\nFinally, foreign ministers from the Quad alliance called for protecting shipping lanes in West Asia. The Quad group includes the United States, India, Australia, and Japan. Ministers declared safe passage through the Strait of Hormuz an absolute necessity. They voiced concern over arbitrary export limits on critical minerals and goods. China refines about 90 percent of the world's rare earth minerals. To reduce reliance, the US committed 10 million dollars for mineral recycling facilities. The funds will support electronic waste recycling in India and Southeast Asian nations. US Secretary of State Marco Rubio said Quad leaders will meet in Manila next month.\n\nUp next, five things to know about North Korea's TraderTraitor hackers and a huge crypto heist.\n\nUnited States authorities blamed North Korean hackers for stealing over six billion dollars from crypto exchange Binance. The October 29 attack is considered the largest cryptocurrency theft in history. Officials linked the group, named TraderTraitor, to North Korea's primary foreign intelligence agency. South Korean intelligence estimated in 2024 that North Korea's cyber force has about 8,400 personnel. Hackers often pose as recruiters on social media to trick workers into downloading bad software. They use the stolen money to buy military parts and build weapons, according to a United Nations report. Federal investigators say the hackers are moving quickly to convert these newly stolen digital assets into cash.\n\nTurning to business news. OpenAI lowered its funding target by ten billion dollars, according to people with knowledge of the matter. The maker of ChatGPT now seeks about twenty billion dollars. Its desired valuation dropped from 1.4 trillion dollars to 1.25 trillion dollars. A tech fund from the United Arab Emirates called MGX expects to be the largest investor. Under the deal, OpenAI could lease new computing space built in that region. Tech stocks fell recently over concerns about heavy AI spending. The Nasdaq index dropped 2.9 percent on Friday. OpenAI set a Friday deadline for investors to commit to this funding round.\n\nIn world news, Israeli Prime Minister Benjamin Netanyahu won the most seats in Tuesday's election. His political bloc secured 53 seats in the 120-member Knesset legislature. A rival alliance led by Gadi Eisenkot took 48 seats. Arab political parties won the remaining 19 seats. The vote created a hung legislature without a clear majority. Leaders are now holding complex negotiations to form a new coalition government. Analysts expect an escalation in the nine-month war between Israel and Iran. Analysts say upcoming United States midterm election results could also influence military decisions. Analysts say President Donald Trump might resume previously paused military strikes against Iran.\n\nNow to space, SpaceX has built the tallest and most powerful rocket in history. The full Starship launch vehicle stands at 407 feet tall. Its bottom booster stage, called Super Heavy, measures 236.2 feet. The booster uses 33 Raptor engines to produce 18.1 million pounds-force of liftoff thrust. The upper Starship spacecraft measures 170.6 feet tall. Together, both stages hold 5,250 metric tons of propellant fuel. SpaceX designed the reusable system to transport heavy cargo and people beyond Earth orbit. For planned NASA lunar missions, the lander must refuel in Earth orbit using specialized tanker ships. NASA will then send two crew members to the Moon's surface and back.\n\nIn environmental news, Singapore is testing new building technologies to replace traditional air conditioning units. The city state has the highest per-capita air conditioner ownership rate in Southeast Asia. About 99 percent of private residences are equipped with cooling units. Studies show that building cooling accounts for 40 to 60 percent of a building's energy use. The local building sector creates one-fifth of Singapore's total emissions. To cut energy use, buildings are adopting alternative methods like active chilled beams and radiant cooling. These new systems cool spaces while reducing electricity demands and indoor noise. Singapore aims to lower emissions across its local building sector through these heat-beating solutions.\n\nFinally, Russian oil tankers are adding nets, cages, and rubber tires to block Ukrainian drone strikes. At least 60 protected ships have sailed through the Bosporus strait in Istanbul since August. Maritime analyst Yoruk Isik photographed these vessels during their passage from the Black Sea. Almost all of these ships face sanctions from Western nations for carrying Russian oil exports. Crew members string up nets over engine rooms and hang tires from decks to stop incoming drones. Ukraine stepped up attacks in 2025 to disrupt oil sales that fund Russia's military. In September, Ukraine's drone commander said his forces disabled 300 shadow fleet ships since July.\n\nBefore we go, here is your thought for the day.\n\nMany people now add the word Reddit to their online search queries. Standard search engine results are often filled with optimized marketing sites and artificial intelligence articles. Typing a forum name acts like a shortcut to bypass polished advertisements. People prefer honest opinions from anonymous strangers who actually bought a product. This trend reveals a major shift in how we trust information on the internet today. As web content grows smoother and more commercial, unpolished forum posts become the highest standard of proof. It is fascinating that messy human experience has replaced official product reviews. When you search online, where do you go to find real truth?\n\nThank you for listening to the Sift Daily Briefing, and we will talk to you tomorrow.",
+    "script": "Welcome to your Sift Daily Briefing. Here is the clear, plain version of today's news.\n\nPresident Donald Trump suggested the United States may launch military action against Iran. He made these remarks ahead of the midterm elections on Tuesday. Trump said the United States still has one or two targets in Iran. He claimed these military strikes could be completed in ten minutes. He also urged Iran to reach a deal. Iran warned that any attack would receive an immediate and unrestricted response. Tehran cautioned that a new conflict could last longer than past engagements. The Islamic Revolutionary Guard Corps reported two tankers caught fire in the Strait of Hormuz. The Iranian military group said the ships hit mines. Diplomatic efforts continue in an attempt to avert further conflict.\n\nNext, financial markets saw a shift between oil prices and bond yields in October. Treasury yields and oil prices had moved together for most of 2026. Jeffrey Rosenberg from BlackRock said this relationship had an eighty percent correlation this year. That pattern stopped last month as artificial intelligence trades declined. Google lost five hundred billion dollars in market value during its largest single-day drop. Rosenberg said investors now view artificial intelligence weakness as broader economic weakness. United States business investment rose twelve point seven percent in the third quarter. Federal Reserve Chair Kevin Warsh stated that business spending is broadening beyond tech. Rosenberg warned that persistent inflation still limits the central bank from providing help.\n\nTurning to technology, investors are questioning the large spending on artificial intelligence by major companies. Tech firms continue to invest in expensive computer chips and data centers. Alphabet stock dropped up to thirteen percent after reporting its third-quarter earnings. The company reported nine billion dollars in negative free cash flow. That drop came after fifty-one point four billion dollars in capital spending. To reduce reliance on Nvidia, tech giants are designing their own specialized chips. Alphabet reported over one hundred Google Cloud customers now use its custom chips. These clients include technology firms Apple and Anthropic. The International Monetary Fund said artificial intelligence drove nearly half of recent global trade growth.\n\nIn banking news, China's central bank shifted its main policy interest rate to an overnight rate. The People's Bank of China injected five hundred forty-one billion yuan into the banking system. That cash injection equals about eighty-one point three billion dollars at one point two five percent. Analysts said this action lowers borrowing costs for financial institutions by fifteen basis points. The shift follows credit worries tied to the state-owned developer Zhuhai Huafa Group. Regulators scheduled meetings on Monday to discuss tools to support financial markets. Citi analysts noted that broader interest rate cuts are more likely to occur in 2027.\n\nIn space exploration, four NASA volunteers finished a simulated Mars mission after three hundred seventy-eight days in isolation. The crew members exited their habitat at the Johnson Space Center in Houston on October thirty-first. The team entered the seventeen-hundred-square-foot habitat in October 2025. During the mission, they grew crops in simulated Martian soil. They also practiced communicating with mission control using realistic space time delays. Medical officer Ellen Ellis said the crew lived in captivity of their own free will. Mission commander Ross Elder said putting humans on Mars is achievable and inevitable. NASA wants to send astronauts to the Moon before attempting a Mars mission in the 2030s. The crew will now spend two weeks undergoing post-mission evaluations with NASA scientists.\n\nFinally, a free trade agreement between Singapore and Argentina took effect on November first. The pact links Singapore with Mercosur, a South American trade bloc founded in 1991. Mercosur represents about two hundred seventy million people across Argentina, Brazil, Paraguay, and Uruguay. The agreement was already active between Singapore and the other three member nations. Under the deal, Mercosur will eliminate import tariffs on about ninety-six percent of products. These tariff cuts will take place over up to fifteen years. Around twenty-five percent of product categories received immediate tariff-free access. Singapore's trade ministry said the deal supports efforts to diversify food imports. The agreement also sets rules for logistics, digital trade, and expedited shipping.\n\nUp next, Tesla and Samsung oppose United States tariffs on Vietnam as other firms seek penalties.\n\nTesla and Samsung oppose proposed new United States trade tariffs on goods from Vietnam. The Trump administration set a November 29 deadline for a trade probe into Vietnam. The government accused Vietnam of failing to protect intellectual property rights. Electric car maker Tesla warned that new tariffs would disrupt its supply chains. Tech company Samsung said Vietnam makes many of its smartphones and network equipment. Samsung is Vietnam's largest foreign investor, having invested about 25 billion dollars there. Industry groups representing steel and software makers supported new penalties instead. The Business Software Alliance said about three-quarters of software in Vietnam was unlicensed. The United States currently charges a 12.5 percent general tariff on Vietnamese goods.\n\nNext, United States sanctions and power outages are causing critical shortages in Cuban hospitals. Cuban officials say only a single oil tanker has reached the island since early January. President Trump tightened sanctions by threatening to punish foreign companies doing business with Cuba. Many foreign companies now refuse to sell medical supplies to Cuban hospitals. At a pediatric hospital in Havana, doctors use root vegetables and chicken for baby formula. Surgeons have used light from their cellphones to finish operations when generators fail. Many doctors have left the country or taken second jobs to survive. Doctors say cancer drugs, anesthetics, and lab equipment remain in critically short supply.\n\nIn weather news, intense rainfall caused severe flooding and forced residents to evacuate the Four Corners region. Meteorologists say a super El Ni\u00f1o and a subtropical jet stream caused the heavier rain. They also blame those weather patterns for more torrential storms and bigger floods. Reporter Akiko Fujita is in Huntington Beach, California, while meteorologist Andrew Kozak provides the forecast.\n\nTurning to international politics, Germany's right-wing AfD party is softening its stance on leaving the euro. The party was founded in 2013 to oppose the common European currency. AfD won a regional election in Saxony-Anhalt in September. In October, party co-leader Alice Weidel presented a new strategy paper in Strasbourg. The paper proposes renegotiating treaties for a looser union rather than quitting the euro zone completely. Younger members hope this change helps the party form an alliance with Chancellor Friedrich Merz. Merz's conservative party currently rules out any alliance with the AfD. Weidel declined to say whether she still wants Germany to leave the euro zone eventually.\n\nIn business news, American companies are recruiting more women to fill a shortage of skilled trade workers. Federal data shows women made up about 4.4 percent of these workers last year. That figure rose from 2.9 percent a decade earlier. Tower crane operator Sammy Cossairt in Nashville earns 120,000 dollars a year in her role. Construction company Mortenson began offering 12 weeks of paid leave for birth mothers in 2024. More than 10 percent of Mortenson's skilled workforce is now female. Universal Technical Institute says eight percent of its students are now female across 17 campuses. Turner Construction expects revenue of around 35 billion dollars this year as it hires more workers.\n\nFinally, Qatar is leading mediation talks with Iran to prevent new United States military attacks. The mediation efforts took place over the past 72 hours. Iranian Foreign Minister Abbas Araghchi said there is still no definitive conclusion to the talks. He mentioned a two-day plan for Iran to stop attacking ships in the Strait of Hormuz. President Donald Trump said the United States is not in a hurry to restart attacks. Global oil prices have risen, with Brent crude oil 60 percent higher than before the war. Iran's supreme leader Mojtaba Khamenei warned that any new attacks will face an immediate response. It remains unclear whether direct talks between Washington and Tehran will resume.\n\nBefore we go, here is your thought for the day.\n\nPausing on a bizarre video for just three seconds can completely change your digital recommendations. Algorithms do not measure your joy or approval. Instead, automated systems measure your dwell time on each post. When you hesitate out of confusion or shock, the system registers high interest. It will immediately serve you ten more videos on that topic. This means modern feeds are constructed from micro-pauses rather than your actual tastes. What is interesting is that you are not defined by what you like. Instead, your digital reality is shaped by what made you hesitate. What confused topic made you pause on your feed today?\n\nThank you for listening to the Sift Daily Briefing today.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.mp3",
-    "estimatedDurationSeconds": 605
+    "estimatedDurationSeconds": 609
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. Today we examine the full analysis behind the biggest world headlines.\n\nCould warring countries agree to a small pause in fighting in the Black Sea? US and Canadian officials see growing interest in a limited ceasefire to protect ships.\n\nIn February 2022, Russia launched a full-scale invasion of Ukraine. That action started a long and destructive conflict. Ukraine is one of the world's largest producers of grain and vegetable oil. Both Russia and Ukraine rely heavily on Black Sea ports to send exports to market. When fighting spread to sea lanes, cargo ships could not move safely. As a result, food prices jumped for millions of people worldwide. Fuel shipments also faced significant disruptions. To help, Turkey and the United Nations brokered a Black Sea grain deal in 2022. That deal allowed millions of tons of food to leave ports. However, Russia later pulled out of the agreement. Attacks on cargo ships and power grids kept happening as the war dragged into its fifth year.\n\nForeign ministers from the twenty largest world economies met in Atlanta for two days of talks. The meeting brought top diplomats together to address growing global security problems.\n\nUS Secretary of State Marco Rubio said nations are reviewing proposals from Turkey and India. These plans aim to stop attacks on ships carrying grain and energy in the Black Sea. Canadian Foreign Minister Anita Anand said she confronted Russian Foreign Minister Sergei Lavrov directly. She called out Russia's invasion, attacks on ships, and the stealing of Ukrainian children. Lavrov stated Russia will not accept Ukraine as a security threat. The gathering ended without a joint statement because leaders disagreed sharply over Ukraine. Rubio defended inviting Lavrov, arguing that diplomatic talks require speaking directly with Russia. Meanwhile, the United States approved a two point one billion dollar missile defense sale for Ukraine.\n\nWith winter approaching, leaders want to protect Ukraine's power grid from destruction. Nations like India and Egypt also want to protect their own commercial ships and sailors right now.\n\nA limited deal would not end the broader war, but it could help safeguard global food supplies. US President Donald Trump might meet Russian President Vladimir Putin at an upcoming economic summit. Rubio noted Trump could also invite Ukrainian President Volodymyr Zelenskiy if positive results are likely. Listeners should watch if Russia shows any willingness to agree to the shipping halt.\n\nNow, let us turn to a critical health crisis in Africa.\n\nHow bad is the current virus emergency in the Democratic Republic of Congo? Government data shows more than five thousand people have died in Congo's worst Ebola outbreak.\n\nEbola is a rare and deadly disease caused by a virus. It spreads between human beings through direct contact with infected bodily fluids. Symptoms appear quickly and include fever, strong muscle pain, vomiting, and internal bleeding. Congo has fought sixteen previous Ebola outbreaks since scientists first identified the virus in 1976. The country's previous record outbreak killed two thousand two hundred ninety-nine people between 2018 and 2020. The deadliest outbreak in history struck West Africa from 2014 to 2016, killing over eleven thousand people. Scientists developed effective vaccines for common strains, saving thousands of lives during those past events. However, Ebola has multiple distinct strains. A vaccine created for one strain does not protect against a different strain.\n\nA new outbreak began in May and rapidly spread across eight of Congo's twenty-six provinces. By August, health officials confirmed this outbreak had become the deadliest in the nation's history.\n\nGovernment data shows more than ten thousand three hundred cases have been confirmed so far. The current case fatality rate stands at forty-eight point six percent. Health officials warn this outbreak is driven by the Bundibugyo species. There is currently no approved vaccine or treatment for this specific strain. The epicenter remains in Ituri province, a conflict zone in the northeast. Violence makes it very dangerous for health workers to care for patients. Misinformation has also led to violent attacks on medical teams. A nurse was killed and a politician was beaten to death after promoting health measures. Red Cross volunteers have been injured and an ambulance was burned. Cases have also appeared in Kenya, Nigeria, and Uganda.\n\nThe virus is taking lives at a much faster rate than previous outbreaks. Armed conflict and widespread misinformation prevent medical teams from quickly isolating sick patients.\n\nResearchers are running clinical trials to test potential new vaccines against this strain. European health officials say the risk to people in Europe is very low. Watch whether aid agencies gain safe access to conflict zones to contain the disease.\n\nNext, let us look at why giant technology companies are saving their cash.\n\nWhy are big technology companies spending far less money buying back their own stock? Reuters reports share buybacks fell eighty-three percent because companies are spending cash on artificial intelligence.\n\nWhen large corporations generate extra cash, they often return it to their shareholders. One common method is a stock buyback. A company buys its own shares from the open market and cancels them. That reduces the total number of shares in existence. As a result, remaining shares become more valuable and earnings per share rise. For fifteen years, tech giants routinely used buybacks and dividends to reward investors. Alphabet cut its total share count by almost ten percent over five years using buybacks. Analyst Ehren Stanhope noted companies spent heavily on buybacks for over a decade. But building artificial intelligence requires building specialized data centers and purchasing expensive computer chips.\n\nCapital spending by top tech companies doubled, exceeding operating cash flow for the first time since 2011.\n\nA Reuters analysis shows tech giants handed back just nine point three percent of operating cash. That is down from twenty-seven point four percent a year earlier. Operating cash flow rose twenty-nine percent to five hundred forty-two point nine billion dollars. However, capital spending doubled to five hundred fifty-six point nine billion dollars. That left a free cash flow deficit of fourteen billion dollars. Share buybacks collapsed eighty-three percent to thirteen point six billion dollars. Alphabet and Meta bought back zero shares this year. Credit rating agency S&P Global downgraded its outlook on Meta due to high spending plans.\n\nTech companies face intense pressure to lead the artificial intelligence race. Amazon chief executive Andy Jassy told analysts he sees a clear line of sight to attractive returns.\n\nInvestors may need to get used to tech firms taking on debt instead of returning cash. Analyst Ed Yardeni argues that tighter financial constraints could help prevent wasteful overinvestment. Watch whether these multi-billion dollar infrastructure investments begin generating profitable revenue from customers soon.\n\nNext, Donald Trump says the US is looking closely at a reported China spy plot targeting Nvidia's CEO.\n\nIs the boss of America's biggest chip company in danger of being a spy? \n\nUS intelligence officers say a Chinese executive tried to pass secrets about him to Beijing. \n\nLet us go back to how we got here. Nvidia is a massive US company that makes powerful computer chips. These chips are used to run modern artificial intelligence. Jensen Huang is the chief executive officer of Nvidia. He is the person who runs the company and makes big choices. Jensen Huang was born in Taiwan, and he has built Nvidia into a giant business. He has also advised US leaders on artificial intelligence policy, including President Donald Trump. \n\nBecause Nvidia chips are so important for technology, many countries want them. This includes China. Beijing has been trying to build its own computer chips to catch up with the United States. Jensen Huang has often talked about selling his company's chips in China. This put him in touch with many different business people around the world. \n\nThen, new information came to light. The New York Times reported that US intelligence officials reached a conclusion. They believe a Chinese executive linked to a Singapore-based data centre company had been funneling information to Beijing. This executive had interacted directly with Jensen Huang. \n\nNow, this situation has turned into major news. US President Donald Trump spoke out on Saturday, October 31, to support Jensen Huang. Trump called him a brilliant person and said the US is looking very closely at the issue. Trump also said he hopes Huang is going to be okay and that the US wants to protect its brilliant people. When reporters asked if Trump would keep Huang as an advisor, Trump said he would like to say yes. He noted that unless they find something to the contrary, he finds Huang to be very above board. \n\nWhy is this happening at this exact moment? This is happening because intelligence officials recently finished their review and shared their report publicly. At the same time, the relationship between the US and China over advanced technology remains very tense. \n\nWhat does this mean for you, and what should you watch next? This story shows how national security and big technology companies are tightly linked today. It could mean tighter rules for tech bosses who talk with foreign partners. You should watch to see what US intelligence discovers next, and whether Trump keeps Huang as an advisor. \n\nWhy are American workers taking home the smallest share of the country's wealth since the government started keeping records in 1947? \n\nThe share of economic output that goes to worker wages has dropped to its lowest level ever. \n\nLet us look at the background. Over the years, the US economy has grown a lot. Corporate earnings have soared, and corporate profits hit a record two trillion one hundred billion dollars in 2025. The total size of the economy, or GDP, grew three point four percent in the third quarter of last year. \n\nYet, the American workforce has not felt that same boom. The labor share, which is the portion of economic output that workers receive through salary and wages, has been sliding. This decade, the labor share average was about fifty five point six percent. At the same time, automation has been growing. Companies are using new computer tools and artificial intelligence to do tasks that people used to do. Analysts at Goldman Sachs estimated that AI automation could eventually displace twenty five percent of all work hours. \n\nThen, a big change happened in the second quarter of 2026. The labor share dropped all the way down to fifty two point eight percent. That is the lowest level since the Bureau of Labor Statistics started recording this data in 1947. In the previous quarter, the labor share was fifty three point six percent. \n\nToday, the news shows a growing gap between corporate victories and weak labor data. While profits and GDP go up, employment is slowing down. Unemployment ticked up to four point two percent in September. Employers added just five hundred eighty-four thousand jobs in 2025, compared to two million added in 2024. In September, the US added only twenty-nine thousand jobs, which is about one-third of what economists expected. \n\nWhy is this happening right now? Economists point to a mix of rapid automation and recent government policies. Labor economist Raymond Robertson says automation is replacing people and concentrating income into capital. At the same time, immigration policies under President Donald Trump have changed the workforce. Mark Regets, a senior fellow at the National Foundation for American Policy, says an immigration crackdown has reduced the foreign-born workforce by one point one million to one point four million people since January 2025. This drop happened because migrants were deported or stayed away out of fear. This crackdown did not increase the number of US-born workers as some officials hoped. Instead, it shrank the workforce and made it harder for companies to find the people they need. \n\nWhat does this mean for you, and what should you watch next? This trend could mean continued pressure on worker wages and rising unemployment as companies lean more on technology. It could also mean a widening gap where billionaires get richer while ordinary workers struggle. You should watch upcoming monthly job reports and unemployment numbers to see if this trend speeds up or slows down. \n\nWhy did four powerful nations just warn about blocked shipping routes and unfair trade rules? \n\nForeign ministers from the United States, India, Australia, and Japan met to demand open seas and fair trade, in a clear message to China. \n\nLet us trace how we got here. India, the US, Australia, and Japan make up a group called the Quad. They often meet to talk about security and trade in the Indo-Pacific region. Over the years, China has grown its economic and military power. China now refines about ninety percent of the world's rare earth minerals. Beijing has also used export restrictions and non-market policies that create overcapacity, which means making way too much of things like steel and solar panels and selling them cheaply to crush other countries' industries. \n\nAt the same time, global shipping routes have faced huge safety threats. Ships carrying energy and goods must pass through narrow waterways like the Strait of Hormuz, the Red Sea, and the Bab el-Mandeb Strait. Deliberate attacks and closures in these areas can hold global prices hostage and hurt countries like India, which brings in much of its fertilizer and energy through the Gulf. \n\nThen, the situation changed at a recent meeting in Atlanta, Georgia. US Secretary of State Marco Rubio hosted India's external affairs minister S Jaishankar, along with the top diplomats from Australia and Japan, right before a G20 meeting. \n\nToday, the news is that these four ministers issued a sharp joint statement. They called it an absolute necessity to protect navigational rights in the Strait of Hormuz, the Red Sea, and the Bab el-Mandeb Strait. They said ships and crews should pass without tolls. They also voiced grave concerns over economic coercion through arbitrary export restrictions and overproduction. While the statement did not name countries, these criticisms are widely aimed at China and its export curbs on rare earths. \n\nWhy is this happening right now? This is happening because countries are worried about relying too much on a single supplier for critical minerals and energy. India's minister S Jaishankar pointed out at the G20 meeting that disruptions to global oil supplies and attacks on energy trade are a calculated strategy to hurt economies. The Quad ministers also wanted to announce a major upcoming gathering. Marco Rubio stated that a Quad Leaders Meeting will be held in Manila next month, on the sidelines of an Asean conference. \n\nWhat does this mean for the listener, and what should you watch next? This means the world's major democracies are teaming up to build new supply chains that do not rely on China. It could mean new factories and recycling plants for critical minerals, including ten million dollars the US committed to facilities in India and Asean countries. You should watch for the upcoming Quad Leaders Meeting in Manila next month to see what new agreements these countries make to secure their technology and energy supplies. \n\nThat leads right into how North Korea's TraderTraitor hackers pulled off a six billion dollar crypto heist at Binance.\n\nHow did a North Korean hacking group steal six billion dollars in digital money? United States authorities blamed a group called TraderTraitor for taking the money from cryptocurrency exchange Binance.\n\nNorth Korea started building its computer hacking programs back in the mid-nineteen nineties. The government trained top students in technology and recruited them into military intelligence units. South Korean intelligence estimated the country had about eight thousand four hundred cyber workers by twenty twenty four. One group linked to them is called the Lazarus Group. They gained notoriety in twenty fourteen by hacking Sony Pictures over a movie mocking their leader. Over time, these hackers shifted their focus toward stealing money from banks and digital currency networks. They stole eighty one million dollars from Bangladesh in twenty sixteen. Later, they launched the WannaCry computer attack in twenty seventeen. In twenty twenty two, they took about six hundred twenty million dollars from the Ronin network. TraderTraitor hackers often trick workers by posing as job recruiters on professional websites. In twenty twenty four, a hacker sent a fake job test to a worker. That test contained hidden computer code that unlocked three hundred eight million dollars from DMM Bitcoin. In February twenty twenty five, the FBI blamed them for taking one point five billion dollars from Bybit.\n\nThe scale of these attacks took another step up on October twenty ninth.\n\nUnited States authorities say TraderTraitor stole more than six billion dollars in digital assets from Binance. Officials believe this is the largest cryptocurrency theft in history. The FBI says these hackers move quickly to convert digital assets after stealing them. Much of this activity is run by North Korea's Reconnaissance General Bureau, its main foreign intelligence agency. A former student said the top two students in his class were recruited directly into hacking units.\n\nInternational trade rules severely limit how North Korea can earn regular foreign money. Cyber theft lets the country acquire billions of dollars outside normal banking systems. Professor Lim Eul-chul explained that digital money is borderless, making financial restrictions easy to bypass.\n\nExperts say stolen digital coins get converted into regular cash using private exchanges. A United Nations report stated that cyber proceeds help fund the country's weapons of mass destruction. Lim said the money goes straight into military research and buying weapons components. Observers will watch if exchanges can improve software checks to block these fake recruitment tricks.\n\nWhile security experts track digital thieves, technology companies are facing a different kind of financial test.\n\nWhy is the maker of ChatGPT cutting its big fundraising goal? OpenAI lowered its funding target by ten billion dollars after tech investors grew worried about artificial intelligence costs.\n\nOpenAI launched ChatGPT and sparked a global boom in artificial intelligence technology. Technology companies began spending vast amounts of money on data centers and special computer chips. Firms like Microsoft, Alphabet, and Amazon invested heavily to keep up with high customer demand. Investors pushed stock prices higher because they expected quick profits from these investments. OpenAI also planned to raise fresh money to stay ahead of competing AI companies like Anthropic. It set a goal to list its shares publicly on the stock market in twenty twenty seven. To support its growth, OpenAI began planning another funding round with private technology funds. It initially aimed to raise up to thirty billion dollars from private funds and wealthy individuals.\n\nDoubts about whether AI investments would pay off triggered a sell-off in technology stocks.\n\nOpenAI is now seeking about twenty billion dollars, down by ten billion dollars from its original target. Reports state its desired valuation dropped to one point two five trillion dollars. Some investors reduced their financial commitments before a key Friday deadline. A fund from the United Arab Emirates called MGX is expected to be the largest participant. As part of that deal, OpenAI could gain an option to lease computing capacity in that region. Venture firms like Sequoia Capital, Coatue, and Andreessen Horowitz are also expected to join.\n\nInvestors are questioning if spending on AI chips and data centers will deliver good returns. The tech-heavy Nasdaq index fell two point nine percent on Friday. It is down seven point eight percent from its October peak. Chip maker Intel saw its stock drop twenty five percent after reporting weak revenue guidance. Alphabet had its worst trading day ever after search revenues fell short of market expectations.\n\nOpenAI still wants to close this money round quickly to get ahead of Anthropic's planned public listing. If tech stock prices keep falling, investors might demand even lower valuations for artificial intelligence companies. Listeners should watch whether big tech firms cut back on their computer infrastructure spending next quarter.\n\nWhile technology investors worry about future profits, world leaders are watching a growing military crisis in the Middle East.\n\nWhy are diplomats racing to stop a new outbreak of fighting between the United States and Iran? Qatari mediators held emergency talks because regional leaders fear President Donald Trump might restart military strikes.\n\nPresident Trump launched a war against Iran alongside Israel in February. During the war, Iran's previous supreme leader was killed, and his son Mojtaba Khamenei took power. Fighting damaged trade routes around the Strait of Hormuz, where much of the world's oil travels. Iran blocked commercial ships, while the United States put a blockade on Iranian ports. To lower tensions, Iran proposed a seven-day plan in September to unfreeze assets and open shipping lanes. President Trump rejected that plan, but he paused military strikes during the weeks before the American midterm elections. He urged Israeli voters to keep Prime Minister Benjamin Netanyahu in power. He said they could finish the job together.\n\nWith the US elections arriving on Tuesday, diplomatic talks intensified in Qatar and Tehran.\n\nIranian envoys met Qatari mediators in Doha on Saturday after twelve hours of talks in Tehran on Friday. Vice President JD Vance sent a letter proposing direct talks about Iran's nuclear program. Senior Iranian official Mohsen Rezaei called the letter a positive sign that showed a complete shift in tone. However, President Trump played down the letter. He said it was basically about getting medical supplies to sick people. Secretary of State Marco Rubio confirmed talks are active, but said Trump has not decided on further strikes. Meanwhile, Supreme Leader Khamenei ordered the military to be ready to respond to any threat without geographic limits.\n\nGovernments in the Middle East expect military action could restart as soon as voting ends on Tuesday. Rubio warned that Iranian attacks on commercial ships threaten global food and energy supplies.\n\nIf talks fail, renewed strikes could disrupt oil shipments and push global fuel prices higher. Negotiators are trying to arrange a direct meeting within a week, possibly in Doha or Istanbul. Listeners should watch whether both sides agree to a temporary pause before military action resumes.\n\nUp next, we take a look at how big and powerful SpaceX's Starship rocket is.\n\nHow big and powerful is SpaceX's Starship rocket? It is currently the tallest and most powerful rocket ever flown.\n\nSpace exploration companies have built rockets for decades to reach Earth orbit. Traditional rockets discard their boosters into the ocean after a single flight. This practice makes every space mission very costly to launch. SpaceX set out to solve this problem by making rockets fully reusable. Reusing rockets could lower costs and allow more frequent trips to space. The company designed a system capable of carrying huge payloads into orbit. Payloads are the heavy cargo and satellites carried inside a spacecraft. SpaceX also planned to carry groups of people beyond Earth orbit. To lift such massive weight, engineers needed unprecedented engine power. They created a system built in two distinct parts. The bottom section acts as a heavy booster to fight Earth's gravity. The top section acts as the actual spacecraft for deep space travel.\n\nSpaceX built the full two-stage vehicle and began launching it on test flights.\n\nToday, the fully stacked Starship vehicle stands at 407 feet tall. That makes it taller than Hyperion, the tallest known living tree. It is also one-third taller than the Statue of Liberty including its pedestal. The lower section is a 236.2-foot booster called Super Heavy. Super Heavy uses 33 Raptor engines that burn liquid methane and liquid oxygen. Together, those engines generate 18.1 million pounds-force of liftoff thrust. By comparison, NASA's Space Launch System produces 8.8 million to 9.4 million pounds. Above the booster sits the 170.6-foot Starship spacecraft. Starship uses three regular Raptor engines and three Raptor Vacuum engines designed for space. The upper stage generates roughly 3.5 million pounds-force of thrust. The booster holds 3,650 metric tons of fuel. The Starship spacecraft holds another 1,600 metric tons of fuel. That brings the total propellant weight to 5,250 metric tons. During its first full launch in April 2023, the booster produced 16.7 million pounds of thrust. That blast shattered the concrete launch pad and scattered debris across 385 acres.\n\nNASA selected Starship for its Artemis program to put humans back on the Moon.\n\nStarship must refuel in Earth orbit before it can travel to the Moon. The lander burns a huge amount of fuel just getting into orbit around Earth. SpaceX plans to launch a propellant depot into orbit first. Then tanker Starships will deliver cold fuel to that depot. The lunar lander will dock with the depot and fill its tanks. Astronauts will launch separately aboard NASA's Orion spacecraft to meet the lander. Starship will then carry two crew members down to the Moon's surface. Managing freezing propellants in space is a major technical challenge to watch.\n\nNow, let us turn to a different kind of energy story in Southeast Asia.\n\nSingapore is testing alternative cooling methods to lower municipal electricity use. Long called an air-conditioned nation, it has the highest per-capita air conditioner ownership rate in Southeast Asia. The city state is experimenting with alternatives like chilled beams and passive displacement. This testing aims to curb its high demand for energy-guzzling air conditioning.\n\nNext, we look at how a war at sea is changing shipping defenses.\n\nWhy are Russian oil tankers suddenly covered in fishing nets and metal cages? They are using makeshift armor to defend against Ukrainian aerial drone attacks.\n\nRussia relies heavily on foreign oil sales to pay for its war effort. Western nations imposed sanctions on Russian oil to reduce Moscow's income. To bypass restrictions, Russia uses a shadow fleet of aging cargo ships. These shadow tankers operate outside standard global shipping norms and regular insurance rules. Instead, Russian state-backed banks underwrite and insure these unrated oil vessels. At the same time, Ukraine relies on drones and war robots to fight the invasion. Ukraine uses ground robots and remote pilots to keep human soldiers away from danger zones. Ukrainian units use drones to strike Russian refineries, data centers, and military sites. Small first-person-view drones can easily slip past expensive air defense systems. In response, ground forces began placing metal cope cages on military vehicles for protection.\n\nUkraine expanded its drone strikes to target the shadow fleet moving through the Black Sea.\n\nMaritime analyst Yoruk Isik has documented at least 60 draped tankers passing Istanbul since August. Isik leads the consulting firm Bosphorus Observer and photographed the sanctioned vessels. Nearly all the documented ships were already under Western sanctions for carrying Russian oil. The tankers hang rubber tires, metal cages, and large nets over their decks. Analysts say these crude tools shield sensitive areas like engine parts and rudders from drone impacts. Independent analyst Eric Woods said the netting looks like defenses used in front-line cities like Kharkiv. Ukraine's drone commander claimed in September that his forces disabled 300 shadow fleet vessels since July. That figure has not been independently verified.\n\nUkraine increased these strikes in 2025 to build leverage while Washington pushed for peace talks.\n\nThe strikes aim to strain Russian banks that insure the shadow fleet. Russian strikes on Ukrainian ports have also raised global wheat prices. Analyst Samuel Bendett says nets and cages are the cheapest way to defend ships against drones. He expects this makeshift protection to become a global trend for maritime shipping.\n\nBefore we go, here is your thought for the day.\n\nWhen you search for something online today, you might type your question and add one extra word. That word is often \"reddit\". You do not want a polished list of top products from a fancy website. You want an honest opinion from a stranger who actually bought the item. Search engine results are now filled with optimized marketing pages and artificial intelligence text. Adding a forum name works like a secret shortcut. It lets you skip smooth ads to find real, unedited human experiences. This simple habit shows how trust on the internet is changing. As online content becomes cleaner and more commercial, real truth gets harder to find. Unpolished forum posts with zero budget have become the highest proof of honesty. Many of us now trust random strangers from 2019 more than official review websites. It is fascinating how we search for real human voices in a world of automated content. Next time you search the web, ask yourself whose voice you are really looking for.\n\nThank you for listening to Sift In-Depth today. Stay curious, and we will talk again soon.",
+    "script": "Welcome to your Sift In-Depth Briefing. This full analysis helps you understand the deeper stories behind today's news.\n\nCould a renewed conflict between America and Iran last much longer than past fights? Iran warned that a new war could drag on because the American president cannot dictate its end.\n\nLet us look at how this situation got to this point. On February twenty-eighth, fighting began with US and Israeli strikes on targets in Iran. Tehran retaliated by launching missile and drone attacks across the region. Armed groups aligned with Iran in Lebanon and Yemen joined the combat as well. Iran then claimed control over the Strait of Hormuz, a vital global energy route. Iran repeatedly targeted ships attempting to cross the strait without its authorization. In response, the United States created a naval counter-blockade on Iranian ports. Iran then listed firm conditions before any negotiations could start. Tehran said Washington must unfreeze Iranian assets abroad and end the naval blockade. It also demanded that America lift longstanding sanctions and stop the war on all fronts.\n\nTensions rose again after President Donald Trump publicly suggested striking remaining sites in Iran.\n\nPresident Trump said the United States could take care of remaining targets in ten minutes. He specifically named Pickaxe Mountain, which is a suspected underground nuclear complex. Trump also told an Iowa campaign rally he might give Tehran the hammer. News outlet Axios reported Trump held a call with Israeli Prime Minister Benjamin Netanyahu. A US official called the conversation direct, while an Israeli source called it tough. Sources said Netanyahu pressed Trump to strike Iran immediately after Tuesday's US midterm elections. Iranian army spokesman Mohammad Akraminia warned that a new war could last much longer. Akraminia said President Trump would not dictate the timing or conditions of its conclusion. Revolutionary Guards spokesman Hossein Mohebbi echoed a warning from Iran's new supreme leader, Ayatollah Mojtaba Khamenei. Mohebbi said Iran defined a vast theater with no geographical limitations to inflict damage. Meanwhile, Iranian security chief Mohsen Rezaei said US Vice President JD Vance sent a letter seeking talks. Rezaei noted a positive change in US tone, but said Tehran has not responded. Foreign Minister Abbas Araghchi stated that Iran remains prepared for both defense and diplomacy.\n\nThis military standoff is escalating right now because both America and Israel hold crucial elections.\n\nAnwar Gargash, an Emirati diplomatic adviser, said his country is braced for the worst. Tehran resident Mohadese, a twenty-seven-year-old health inspector, felt helpless about the worrying news. However, forty-eight-year-old vendor Ebrahim said in downtown Tehran that people have been at war for forty-eight years. Listeners should watch whether diplomacy succeeds before the midterm elections end. A renewed conflict could disrupt world energy shipping and push up global gas prices.\n\nMoving from geopolitics to global finance, tech stocks and bond markets are shifting dramatically.\n\nWhy did the long-standing link between rising oil prices and government bond yields break down recently? Investors altered their strategy because they viewed artificial intelligence stumbles as a bigger economic threat than oil.\n\nTo understand this shift, we need to look at how global financial markets usually trade. A bond is a loan an investor gives to a government or company in exchange for interest. The yield is the annual return an investor gets on that bond. For most of twenty-twenty-six, oil prices and government bond yields moved up together nearly all the time. In fact, they shared an eighty percent correlation over the course of the year. Investors watched oil closely because rising energy costs increase general inflation across the economy. When inflation stays high, the Federal Reserve must keep interest rates elevated to cool off prices. That expectation pushes government bond yields higher as well.\n\nIn October, that strong historical pattern between oil and bond yields completely stopped working.\n\nJeffrey Rosenberg, a portfolio manager at asset manager BlackRock, explained what happened on CNBC's ETF Edge. Rosenberg noted that the market decided geopolitical oil risks are now secondary to artificial intelligence risks. The AI trade suffered a pullback, shown by a Friday Nasdaq wipeout and Google's biggest single-day decline. That drop wiped out half a trillion dollars in market value for Google's parent firm. Investors linked weak tech stocks to broader economic weakness, causing bond yields to fall. Federal Reserve Chair Kevin Warsh acknowledged rising oil futures during a recent press conference. However, Warsh argued economic growth is broadening beyond narrow AI pockets into general business spending. He noted that business investment jumped twelve point seven percent in the third quarter. That included a thirty-seven percent rise in information processing equipment. Still, Rosenberg argued that long-term bonds are acting as a safe hedge against disinflationary trends.\n\nThis trade broke down this month because artificial intelligence spending is now driving overall economic growth.\n\nRosenberg warned that bonds are still not a guaranteed safe bet for every investor. Persistent inflation and high energy costs continue to limit how much help the Federal Reserve can offer. Meanwhile, big tech firms like Microsoft are entering the public bond market after nearly a decade away. Rosenberg expects tech giants to issue four trillion dollars in AI debt over four years. Rosenberg suggested trading opportunities in credit default swaps, which measure corporate default risk. Microsoft credit default swap spreads trade near a five-year high of roughly fifty-five. In contrast, Oracle credit default swap spreads trade closer to three hundred. Listeners should watch if rising corporate debt spreads create new risks for the broader stock market.\n\nThat heavy borrowing by technology companies connects directly to another growing question for global investors.\n\nCan technology giants afford to keep spending huge sums of money on artificial intelligence infrastructure? Big tech companies continue spending because falling behind in artificial intelligence could destroy their core businesses.\n\nLet us trace how this spending race grew into a global economic force. For years, tech companies have built large data centers filled with advanced computer chips. These chips process the calculations needed to train smart software models. The International Monetary Fund reported that global trade grew eight point three percent between twenty-twenty-three and twenty-twenty-five. However, the IMF noted that trade growth would be near four point six percent without AI products. In Singapore, tech sectors accounted for around seventy-five percent of third-quarter economic growth in twenty-twenty-six. Under a rule known as Scaling Laws, AI models get smarter as computing power increases. Epoch AI estimates available chip compute capacity has grown three point three times per year since twenty-twenty-two. Nvidia designs over sixty percent of these chips. Google and Amazon make up most of the remainder.\n\nWall Street investors recently began punishing tech companies when heavy spending reduced their cash reserves.\n\nAlphabet, the parent company of Google, saw its stock price drop by up to thirteen percent. That drop erased five hundred billion US dollars in market value after its third-quarter earnings report. Although Alphabet grew revenue by twenty-five percent, it spent fifty-one point four billion dollars on capital expenditures. That spending left the company with nine billion dollars in negative free cash flow. Despite investor anger, cloud companies are building custom chips to lower costs and break Nvidia's hardware monopoly. Alphabet disclosed that over one hundred major Google Cloud customers now use its custom chips. Meanwhile, Japanese investment bank Nomura sees a seventy-five percent chance that the AI spending race will continue. Nomura researcher Changwon Chung called this competition a game of chicken that nobody can quit.\n\nTech titans refuse to slow down right now because agentic AI tools require even more computing power.\n\nMorgan Stanley economists expect AI capital spending to be higher in twenty-twenty-seven than in twenty-twenty-six. This continued build-out benefits Asian chip-exporting nations that produce essential mature-node power management chips. However, analysts warn that big tech will likely fail to satisfy Wall Street profitability targets for several quarters. That friction could spark further sell-offs in technology stocks.\n\nUp next, China lowers funding costs with a shift to its overnight policy rate.\n\nWhy is China changing the way it lends money to its banks? The central bank shifted its main policy rate to lower borrowing costs for financial institutions.\n\nChina's economy relies on banks to lend money to businesses and home buyers. To control money flow, China's central bank sets official interest rates. These rates tell commercial banks how much it costs to borrow money short-term. For years, the central bank used a seven-day lending rate as its main tool. Banks borrowed money for seven days, so they paid interest based on that seven-day benchmark rate. When businesses needed cheaper loans, the central bank lowered this seven-day rate to encourage lending. However, seven days can be too long when banks need cash fast to manage daily operations. When money moves slowly through banks, businesses struggle to get quick loans for growth. So, policymakers wanted a faster way to pass cheaper money directly down to financial institutions. Last month, the central bank announced it was considering switching its main benchmark to an overnight rate. An overnight rate lets banks borrow money for just one day at a time. This setup helps cash move faster through the financial system and supports broader economic growth.\n\nThe central bank officially made the switch and put the new policy into action on Monday. It began conducting these one-day cash injections every single day instead of using older weekly schedules.\n\nThe People's Bank of China injected 541 billion yuan, or 81 point 3 billion US dollars. It provided this cash through overnight reverse repurchase agreements at 1 point 25 percent. Chief economist Ming Ming at CITIC Securities said the policy rate has officially shifted its anchor. Analysts said the move lowers the floor of China's interest rate framework by 15 basis points. Strategic analyst Zhaopeng Xing at ANZ called it a targeted rate cut for financial institutions. He said it boosts their net interest margins by about 5 basis points to support bank profits. However, he noted the move is unlikely to have a material impact on the stock market. Also on Monday, regulators planned meetings with financial institutions to discuss tools for supporting capital markets.\n\nPolicymakers faced fresh pressure after credit concerns from state-owned developer Zhuhai Huafa Group unsettled the bond market. These credit troubles worried investors, so officials acted to stabilize confidence and lower costs quickly.\n\nThis change could keep cash flowing smoothly, which helps banks absorb financial risks. Yet, analysts at Citi cautioned that this is a market adjustment rather than a true rate cut. Citi analysts do not expect a benchmark Loan Prime Rate cut to follow in November. Instead, Citi sees 2027 as the more likely window for conventional rate cuts. Listeners should watch whether China takes more steps next year to help local debt resolution efforts.\n\nFrom financial shifts in China, we move to a story about long-distance space travel.\n\nWhat is it like to spend more than a year locked in a fake Mars habitat? Four crew members just completed 378 days inside a simulated space base to help prepare for Mars.\n\nHumans have long dreamed of sending people to explore the planet Mars. NASA has already sent robotic rovers and orbiting spacecraft to gather pictures and soil data. However, sending living humans across millions of miles presents far bigger physical and mental challenges. Astronauts on Mars would live in cramped spaces without fresh air or fresh food from Earth. They would also experience long communication delays when trying to speak with mission control back home. To prepare, NASA planned human missions to Mars for as early as the 2030s. Before that, NASA plans to send astronauts back to the Moon for the first time since 1972. To test how humans handle isolation, NASA created simulated space missions right here on Earth. They built a special 1,700 square foot 3D-printed habitat at Johnson Space Center in Houston. This program is called the Crew Health and Performance Exploration Analog, or CHAPEA. NASA conducted its first CHAPEA mission with four people between 2023 and 2024.\n\nThe second four-person crew completed their long stay and stepped outside on October 31. They had entered the closed habitat over a year earlier on October 19, 2025.\n\nThe crew included commander Ross Elder and medical officer Ellen Ellis. It also included science officer Matthew Montgomery and flight engineer James Spicer. During their 378 days, they grew crops in simulated Martian soil and lived with strictly limited resources. They also managed habitat maintenance and coped with realistic time delays on all communications with Earth. Center director Vanessa Wyche greeted the returning crew when they stepped out of isolation. She said communication lag times require patience, careful planning, and greater independence from future astronauts. Medical officer Ellen Ellis described the year as living in captivity of their own free will. Mission commander Ross Elder said putting humans on Mars is not only achievable, but rather inevitable. Now, the four crew members face two weeks of post-mission evaluations and debriefings with NASA scientists.\n\nNASA needs data on how daily isolation affects human health, productivity, and connections over long periods. Additionally, Ellis noted a narrowing window of opportunity to maintain United States pre-eminence in space.\n\nLessons from this mission will help scientists design safer habitats and routines for deep space travel. These insights could pave the way for upcoming lunar missions and an eventual trip to Mars. Listeners can watch for NASA to evaluate this data before launching its third CHAPEA simulation.\n\nFrom space exploration in Texas, we turn to a new trade agreement across the Pacific Ocean.\n\nHow is Singapore building stronger economic links with South America? A landmark free trade pact recently went into effect between Singapore and Argentina.\n\nSingapore is a small island nation that imports most of its food and goods. To keep its economy growing, Singapore relies on open trade with partners around the world. In South America, four countries formed a trade alliance called Mercosur in 1991. Those founding members are Argentina, Brazil, Paraguay, and Uruguay. Together, Mercosur represents a total population of about 270 million people. Singapore wanted to connect its businesses with South American markets and secure reliable food supplies. So, Singapore worked to create the Mercosur-Singapore Free Trade Agreement. This agreement already entered into force between Singapore and the other three founding members. Singapore also expanded South American ties through the Pacific Alliance-Singapore Free Trade Agreement in 2025. However, the deal with Mercosur was not complete until Argentina ratified the agreement locally.\n\nOn November 1, the trade agreement officially entered into force between Singapore and Argentina. This step completed the rollout of the trade deal across all founding Mercosur nations.\n\nSingapore's Ministry of Energy, Trade and Industry announced the news with the Argentinian embassy. They called the entry into force a significant milestone in Singapore's engagement with South America. Under the deal, Mercosur will eliminate import tariffs on about 96 percent of products. This tariff elimination will occur over a period of up to 15 years. Around 25 percent of tariff lines will enjoy tariff-free access right away. The agreement also sets common rules of origin and creates more transparent customs procedures. It speeds up clearance for express shipments and perishable goods. Beyond goods, the deal supports service providers, investors, entrepreneurship, cybersecurity, and small businesses.\n\nArgentina is a major food producer, helping Singapore diversify food sources and strengthen food resilience. In return, Argentine firms can use Singapore's regional hub status to reach South-east Asia.\n\nThis deal could boost trade in sectors like energy, infrastructure, logistics, technology, and services. Lower tariffs may help businesses in both regions cut costs and expand faster. Listeners can watch whether trade volumes between Singapore and South America grow in coming years.\n\nNext, we look at why Tesla and Samsung oppose US tariffs on Vietnam while solar firms seek penalties.\n\nShould the United States put new trade taxes on goods coming from Vietnam? Big companies are divided over whether Washington should add these penalties.\n\nYears ago, many global businesses built large factories inside Vietnam. A tariff is a tax that a country places on imported goods. Companies wanted to make products in Vietnam to avoid trade fights between America and China. Over time, Vietnam shipped far more goods to American buyers every year. But trade tensions began to grow between Washington and Vietnam as well. American officials accused Vietnam of failing to protect intellectual property. Intellectual property means legal protection for inventions, software, and creative ideas. In July, Washington placed a twelve point five percent tax on Vietnamese goods. That tax followed an official investigation into forced labor concerns. Earlier, the Supreme Court struck down twenty percent tariffs on imports from Vietnam. Economists say American officials now want to reimpose taxes at least that high. Vietnam has urged Washington to conduct its trade investigations in an objective way. Officials are also running a separate probe into alleged excessive factory capacity in Vietnam.\n\nIn May, the United States government launched a broad trade investigation. Officials placed Vietnam on a serious foreign watchlist for trade violations. It was the first country put on that watchlist in thirteen years. Washington set a deadline of November twenty-ninth to finish the inquiry.\n\nElectric car maker Tesla asked officials to consider American manufacturing supply needs. Tesla submitted comments on July second saying certain advanced components cannot be sourced domestically. Tech firm Samsung made a similar argument to the government. Samsung is the largest foreign investor in Vietnam, spending about twenty-five billion dollars there. Vietnam produces many Samsung smartphones and network devices for the American market. Trade groups for footwear, apparel, bikes, and video games also opposed new tariffs. However, groups representing American steel, solar panels, seafood, and wood urged strong penalties. The Business Software Alliance, representing Microsoft, Oracle, and IBM, complained about illegal software. It cited a twenty-seventeen survey showing three-quarters of software on Vietnamese computers was unlicensed. The Motion Picture Association said piracy websites in Vietnam received over twelve point five billion visits last year.\n\nVietnam's exports to America surged forty-two percent in the first eight months of this year. That jump gave Vietnam the largest goods trade surplus with America. It moved Vietnam ahead of China and Mexico. Washington is facing pressure to act before the November twenty-ninth deadline.\n\nNew tariffs could make smartphones, cars, and clothes more expensive for consumers. Supply chains for big tech companies might face disruptions. On the other hand, domestic solar and steel producers could gain protection from foreign competitors. Policymakers must decide whether to punish trade violations or protect company supply lines. Watch for an official ruling from Washington before the end of the month.\n\nNow let's turn to another trade conflict, where strict economic pressures are hitting healthcare on an island nation.\n\nWhy are Cuban hospitals running out of basic medicines and reliable electricity? Tough trade rules from the United States have combined with deep economic problems on the island nation.\n\nCuba sits just ninety miles off the coast of the United States. Communist leader Fidel Castro took control of Cuba in nineteen-fifty-nine. Since the nineteen-sixties, Cuba has been under communist rule. The government controls most businesses, schools, and healthcare facilities. Opposition political parties are illegal under Cuban law. Decades ago, Washington put a trade embargo on Cuba. An embargo is an official law that stops trade with a specific country. Washington blames Cuba's crisis on government corruption and long-term economic mismanagement. Cuban officials say American policies aim to destroy their nation. For decades, Cuba depended on foreign allies for aid. First, the Soviet Union provided heavy financial support. Later, Venezuela sent cheap oil to power Cuba's electrical grid.\n\nOn January third, twenty-twenty-six, the United States captured Venezuelan president Nicol\u00e1s Maduro. As a result, Cuba lost its main oil supplier. Cuban officials say only a single oil tanker has arrived since early January. That oil shortage crippled Cuba's electricity system and caused widespread blackouts.\n\nAt William Soler Pediatric Hospital in Havana, doctors treated a dehydrated two-month-old baby. ICU chief Dr. Alejandro Chong said the baby weighed under five pounds. Due to supply shortages, doctors fed the baby formula made from malanga root and chicken. Malanga is a starchy root vegetable. Hospital power outages force doctors to use cellphone lights during operations. Chong works at his own food stand because it pays more than running the ICU. Resident doctor L\u00f3rien Rodr\u00edguez works as a radio announcer to support herself. Patient Paloma Blanco is eight months pregnant and asked friends in America for surgical supplies. Deputy foreign minister Carlos Fern\u00e1ndez de Coss\u00edo acknowledged government decisions could have been better. But Coss\u00edo said foreign pressure heavily harms the Cuban population. Secretary of State Marco Rubio said the failing Cuban regime hides billions overseas. Rubio's spokesman added that Cuba blames others for its own corruption. Last week, American ambassador Mike Waltz gave a speech at the United Nations. Cuban diplomats confronted him, and the United States expelled one Cuban diplomat.\n\nPresident Trump recently increased sanctions against businesses working with Cuba. Foreign suppliers often refuse to sell medical goods to Cuba out of fear of US fines. Stalled negotiations have left hospitals with critically short supplies of cancer drugs and equipment.\n\nCuba made historic economic reforms this year, ending government monopolies on fuel, banking, and pharmacies. American companies now export fuel to private Cuban buyers, but prices are extremely high. Basic foods like eggs can now cost more than a full month of salary. Watch to see if trade tensions ease or if healthcare shortages cause more doctors to leave.\n\nNow for a quick update on extreme weather in the American Southwest.\n\nIntense rainfall caused severe flooding in the Four Corners region, forcing residents across the Southwest to evacuate. Meteorologists say a super El Ni\u00f1o and a subtropical jet stream caused heavier rain, torrential storms, and bigger floods. Akiko Fujita is in Huntington Beach, California with details, while Andrew Kozak provides the forecast in studio.\n\nNext up, as Europe's right advances, Germany's AfD rethinks its anti-euro roots.\n\nWhy is Germany's top right-wing political party changing its mind about dropping the euro currency? The party is trying to look like a responsible partner so it can win power.\n\nLet us look back at how this story started. In 2013, several European countries struggled with heavy debts. Other nations in the region agreed to help pay off those debts. Many Germans felt angry about using their tax money for these bailouts. So political leaders formed a new party called Alternative for Germany, or AfD. They wanted Germany to quit using the euro currency. Over time, the party shifted its focus toward opposing immigration. Opponents and domestic intelligence agencies said this line strayed close to dangerous extremism. The party rejected allegations of extremism and kept building support.\n\nThings changed when the party achieved a historic victory in Saxony-Anhalt in September. Surveys now show it is the most popular party nationwide. This success brings the party closer to entering national government before the decade ends.\n\nIn October, party co-leader Alice Weidel presented a strategy paper in Strasbourg. She stood alongside allies in the Europe of Sovereign Nations group. The paper shifts focus away from quitting the euro or leaving the European Union. It proposes renegotiating treaties to create a looser union instead. Countries could opt out of common policies on defense spending or immigration. Younger members like Jean-Pascal Hohm say hardline views complicate partnerships with conservative parties. Chancellor Friedrich Merz's conservative party currently rules out any alliance with them.\n\nThe party is rethinking its views now because right-wing allies abroad are gaining real power. Lawmaker Sebastian Muenzenmaier says prospects for reforming the union have never been better.\n\nWhat does this mean for the future? Political science professor Wolfgang Schroeder argues that Germany's export economy depends on the global market. He warns that leaving the union could risk the collapse of the national economy. Inside the party, the euro issue remains unsettled. A recent youth resolution on Europe was withdrawn after failing to gain enough support. We should watch whether the party completely drops its anti-euro position in coming years.\n\nWhile political leaders adjust their visions for Europe, companies across the ocean are making changes of their own.\n\nWhy are building and repair companies spending extra effort to hire female workers? Firms need more skilled labor, so they are improving workplace culture to attract women.\n\nLet us look at how the trade industry got to this point. For decades, skilled trades like plumbing, welding, and construction were mostly run by men. Society often viewed trade jobs as heavy physical labor in dirty working conditions. Many young women were encouraged to pursue four-year college degrees instead. Because of these traditions, very few women entered the trade workforce. Federal data showed women made up only two point nine percent of trade workers a decade ago. Over time, construction and repair industries began facing a big shortage of trained workers. Meanwhile, new technology changed the nature of trade work. Automotive technicians started using computers to diagnose complex car problems.\n\nWhat changed is that companies realized women could fill these open jobs. Today, female participation in the trades has risen to about four point four percent. At Universal Technical Institute, eight percent of students are female. That figure is four times higher than it was five years ago. In collision repair programs, nineteen percent of students are women. Construction firm Mortenson now offers twelve weeks of paid maternity leave. Over ten percent of Mortenson's skilled workforce is now female, up from seven percent a decade ago. Turner Construction expects thirty-five billion dollars in revenue this year, up from twenty-nine billion last year. To keep workers, Turner provides cleaner breakrooms and acts within four hours on harassment reports. Company president Abrar Sheriff says they simply need more people in the industry.\n\nThis push is happening now because booming work on data centers has created huge demand for labor.\n\nWhat does this mean for workers? These jobs pay well without requiring a four-year college degree. Tower crane operator Sammy Cossairt makes one hundred twenty thousand dollars a year. Tile foreman Rebecca Heustess earns sixty-five thousand dollars a year. Mortenson executive Maja Ericksen points out that trade careers are largely safe from artificial intelligence. We should watch whether more states pass laws requiring clean water and nursing rooms on jobsites.\n\nWhile American companies work to build up their workforce, nations in the Middle East face severe instability.\n\nWhy is Qatar rushing to mediate talks between Iran and the United States right now? Qatar hopes to prevent new military strikes that could disrupt the entire region.\n\nLet us look back at how this war began. Eight months ago, a major war broke out involving the United States, Israel, and Iran. Attacks killed Iran's supreme leader and top military commanders. Forces destroyed many Iranian ships and missile production sites. On the first day of fighting, Iran retaliated against American military bases. In Bahrain, Iranian strikes damaged warehouses and radar equipment at a U.S. Navy hub. Base personnel fell from eight thousand workers down to under one hundred. Despite eight months of strikes and economic sanctions, Iran's government remains in power.\n\nTensions changed sharply over seventy-two hours as leaders braced for potential new attacks following Tuesday's elections. Qatar launched intense mediation efforts to stop a new round of strikes. Qatari mediators visited Tehran, and Iranian delegates traveled to Doha. Iranian Foreign Minister Abbas Araghchi reported no final agreement yet. However, Araghchi mentioned a proposed two-day plan. Iran would stop attacking ships in the Strait of Hormuz during direct talks with Washington. President Donald Trump said the United States is not in that much of a hurry. Trump added that most nuclear and military sites are already knocked out. Meanwhile, Iran's new supreme leader Mojtaba Khamenei ordered immediate responses to any future threats.\n\nThis urgency is happening now because officials fear new strikes could launch right after Tuesday's midterm elections.\n\nWhat does this conflict mean for the rest of the world? The war has already hit energy markets very hard. Brent crude oil prices are sixty percent higher today than before the war started. Bahrain's Foreign Minister Abdullatif Al Zayani warned that Iran threatened vital undersea internet cables. Emirati diplomat Anwar Gargash stressed that military options will only complicate the situation. We should watch whether Qatar can successfully guide both sides back to direct diplomacy.\n\nBefore we go, here is your thought for the day.\n\nHave you ever paused on a strange video online just to figure out what was happening? You might stand there feeling total bewilderment for just three seconds. To you, that pause is just confusion. To your social media feed, that pause is a ringing endorsement. Computer algorithms do not measure your joy or your approval. Instead, they measure your dwell time, which means how long you stay on a post. When you hesitate because of shock, confusion, or mild irritation, the system takes notice. It registers high interest and immediately sends you ten more videos just like it. This process completely changes what shows up on your screen. Modern feeds are not built from your actual tastes or things you truly enjoy. They are constructed from your tiny micro-pauses. This turns strange edge cases and confusing trends into your new digital reality. It is a fascinating shift in how technology understands human behavior. We like to think our feeds reflect our personality and choices. In reality, you are not what you like. You are what made you hesitate. Next time you linger on a weird post, ask yourself one simple question. Are you showing true interest, or did you just pause out of confusion?\n\nThank you for listening to Sift In-Depth. We hope you carry these ideas with you as you explore the world.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.mp3",
-    "estimatedDurationSeconds": 1854
+    "estimatedDurationSeconds": 1986
   },
   "candidatePool": [
     {
-      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
-      "description": "With trillions of dollars riding on the artificial-intelligence trade, investors, traders and even tech executives are hunting for high-stakes protection.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-101793502013720.html",
-      "category": "Economy",
+      "title": "Google in talks to join Trump\u2019s Golden Dome programme, Bloomberg reports",
+      "description": "Alphabet\u2019s Google is in talks with the US Defense Department to help protect the data behind Golden Dome, Bloomberg reported on Friday. Sana Pashankar and Kiel Porter cited people familiar with the matter, who spoke on condition of anonymity because the talks are not public. TNW has not independentl",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/google-golden-dome-pentagon-data-security-talks",
+      "category": "Geopolitics",
       "readingTime": 2,
-      "score": 14,
-      "why": "Tech-focused investment funds may become more expensive to access.",
-      "context": "Investors are buying financial protection against losses in artificial intelligence stocks.",
-      "next": "Wall Street firms may launch customized insurance options for technology.",
-      "bigger": "Financial markets are hedging against potential tech valuation crashes.",
-      "publishedAt": "2026-11-01T09:33:03+05:30",
+      "score": 12,
+      "why": "Government defense platforms may incorporate private software and data tools.",
+      "context": "Tech firms are discussing potential contracts with national defense authorities.",
+      "next": "Military officials will review technical proposals from private technology vendors.",
+      "bigger": "Silicon Valley is building closer ties with military defense programs.",
+      "publishedAt": "2026-11-01T12:09:33+00:00",
       "topicFingerprint": [
-        "ai_group",
-        "bet",
-        "investors",
-        "history",
-        "insurance"
+        "join",
+        "google",
+        "donald_trump",
+        "dome",
+        "programme"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "Police clear new Lisbon housing protest camp after thousands rally",
-      "description": "LISBON, Nov 1 - Police moved into Lisbon's Rossio Square on Sunday to clear a tent camp erected after thousands marched demanding Portugal's minority centre-right government withdraw a rental bill they say would worsen the country's housing crisis.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 13,
-      "why": "Local tenants face rising rental prices and limited housing options.",
-      "context": "Police cleared a protest camp opposing rising rent costs in Portugal.",
-      "next": "City officials may revise proposed housing laws under public pressure.",
-      "bigger": "Urban housing unaffordability is triggering widespread civil discontent in Europe.",
-      "publishedAt": "2026-11-01T03:41:56+08:00",
-      "topicFingerprint": [
-        "lisbon",
-        "police",
-        "camp",
-        "thousands",
-        "clear"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "California\u2019s billionaire tax is dividing Democrats",
-      "description": "The fight over the state\u2019s ballot measure has national stakes",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/californias-billionaire-tax-is-dividing-democrats-101793501547600.html",
+      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+      "description": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
       "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Wealthy individuals and businesses may relocate to lower-tax states.",
-      "context": "A proposed wealth tax on top earners caused political debate in California.",
-      "next": "Voters will decide on the tax proposal during upcoming elections.",
-      "bigger": "Progressive taxation proposals are fueling debate over economic growth models.",
-      "publishedAt": "2026-11-01T09:24:42+05:30",
+      "score": 11,
+      "why": "Bank customers and employees may face operational delays and restructuring.",
+      "context": "Workers and lawmakers opposed a massive cross-border banking acquisition deal.",
+      "next": "Government regulators will review public objections before making a ruling.",
+      "bigger": "Foreign bank acquisitions face growing national scrutiny and public pushback.",
+      "publishedAt": "2026-11-02T04:09:34+00:00",
       "topicFingerprint": [
-        "billionaire",
-        "democrats",
-        "dividing",
-        "california",
-        "tax"
+        "attracts",
+        "takeover",
+        "politicians",
+        "opposition",
+        "billion"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "Polish PM Tusk vows support for tribunal amid court crisis",
-      "description": "WARSAW, Oct 31 - Polish Prime Minister Donald Tusk sought to offer assurances that the country's Constitutional Tribunal will operate in accordance with the law, after President Karol Nawrocki, an ally of the previous hard-right government, accused him of staging a forced takeover of the court.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/polands-president-accuses-tusk-of-forced-takeover-of-countrys-top-court",
-      "category": "Policy",
+      "title": "The midterm election could reshape the muni bond market. Here\u2019s what investors need to know",
+      "description": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+      "category": "Financial",
       "readingTime": 2,
-      "score": 10,
-      "why": "Local citizens face unresolved legal disputes during judicial disputes.",
-      "context": "Poland's government leader pledged to restore legitimacy to the constitutional court.",
-      "next": "Opposition leaders will likely challenge upcoming government judicial reforms.",
-      "bigger": "Democratic nations continue to grapple with judicial system governance.",
-      "publishedAt": "2026-10-31T20:46:46+08:00",
+      "score": 11,
+      "why": "Local public project funding and state tax rates could change.",
+      "context": "Upcoming legislative elections threaten to alter municipal borrowing rules significantly.",
+      "next": "Municipalities may rush to issue bonds before election outcomes lock.",
+      "bigger": "Political elections directly influence local infrastructure financing and taxation.",
+      "publishedAt": "2026-11-01T12:30:48+00:00",
       "topicFingerprint": [
-        "vows",
-        "crisis",
-        "polish",
-        "tribunal",
-        "support"
+        "muni",
+        "bond",
+        "election",
+        "midterm",
+        "know"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "UK PM Burnham open to slavery apology but rules out financial reparations",
-      "description": "UK PM Andy Burnham says he is open to a formal apology for the UK's role in the transatlantic slave trade but rules out financial reparations.",
-      "source": "Frontpage",
-      "url": "https://frontpage.ink/9c856844-b488-4ce2-aafc-48ad1e814941.html",
+      "title": "Google Wallet may soon let you trade convenience for extra payment security",
+      "description": "Your contactless payments could either become more secure \u2014 or more annoying.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-tap-to-pay-verification-settings-3730434/",
       "category": "Geopolitics",
       "readingTime": 2,
       "score": 9,
-      "why": "Affected groups may receive formal acknowledgment without monetary payments.",
-      "context": "The British leader supported an official apology without providing financial compensation.",
-      "next": "Diplomatic discussions regarding historic imperial ties will proceed.",
-      "bigger": "Post-colonial nations continue pressing former empires for historical accountability.",
-      "publishedAt": "2026-10-31T14:15:28+00:00",
+      "why": "Digital payments on your phone may take extra verification steps.",
+      "context": "Mobile payment software is adding optional security steps for transactions.",
+      "next": "App developers will roll out optional security updates to users.",
+      "bigger": "Financial applications are balancing checkout speed against fraud protection risks.",
+      "publishedAt": "2026-11-02T02:58:18+00:00",
       "topicFingerprint": [
-        "andy",
-        "slave",
-        "burnham",
-        "role",
-        "trade"
+        "trade",
+        "google",
+        "security",
+        "payment",
+        "extra"
       ],
       "related": [],
-      "alternates": [
-        {
-          "title": "UK PM Burnham \u2018open\u2019 to slavery apology, but not reparations",
-          "description": "Prime Minister Andy Burnham said on Saturday he was \u201copen\u201d to the UK issuing a formal apology for its role in the transatlantic slave trade, but ruled out financial reparations. The Labour leader made the remarks days before attending a Commonwealth leaders summit in Antigua and Barbuda, as King Cha",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-31T12:06:40+00:00",
-          "score": 9,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "andy",
-            "slave",
-            "burnham",
-            "role",
-            "trade"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "UK PM signals the government will consider an apology for its role in the slave trade",
-          "description": "U.K. Prime Minister Andy Burnham says his government will consider apologizing for the first time for its role in the trans-Atlantic slave trade as it seeks to strengthen relations with nations in Africa and the Caribbean",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/uk-prime-minister-signals-government-apology-role-slave-137730910",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-31T06:24:08-04:00",
-          "score": 7,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "andy",
-            "slave",
-            "burnham",
-            "role",
-            "trade"
-          ],
-          "group_id": 0
-        },
-        {
-          "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
-          "description": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Ca",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
-          "category": "Geopolitics",
-          "publishedAt": "2026-10-31T12:31:49+00:00",
-          "score": 3,
-          "readingTime": 2,
-          "topicFingerprint": [
-            "andy",
-            "slave",
-            "burnham",
-            "role",
-            "trade"
-          ],
-          "group_id": 0
-        }
-      ]
+      "alternates": []
     },
     {
-      "title": "Bulgarians vote in a presidential runoff marked by regional security threats",
-      "description": "Bulgarians are voting in a presidential runoff amid regional security threats and economic worries",
+      "title": "Shadowy Indian election \u2018consultants\u2019 add US midterms to global footprint",
+      "description": "India s election consultants are exporting covert campaign tactics to manipulate elections worldwide, including the US.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint",
+      "category": "General",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Social media political posts you see may contain hidden manipulation.",
+      "context": "Foreign political agencies expanded covert campaign influence operations internationally.",
+      "next": "Intelligence agencies will monitor political advertisements for unauthorized foreign funding.",
+      "bigger": "Digital disinformation campaigns are increasingly operating across international borders.",
+      "publishedAt": "2026-11-02T06:28:01+00:00",
+      "topicFingerprint": [
+        "election",
+        "add",
+        "indian",
+        "consultants",
+        "shadowy"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "The UK's stance on its role in the slave trade is shifting, but reparations remain off the table",
+      "description": "U.K. Prime Minister Andy Burnham has expressed openness to formally apologizing for Britain's role in the trans-Atlantic slave trade",
       "source": "ABC News",
-      "url": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
-      "category": "Financial",
+      "url": "https://abcnews.com/International/wireStory/uks-stance-role-slave-trade-shifting-reparations-remain-137749095",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 8,
-      "why": "Bulgarian citizens face rising living expenses and ongoing political instability.",
-      "context": "Voters cast ballots for president amid rising economic and security concerns.",
-      "next": "The winning candidate must navigate complex regional defense partnerships.",
-      "bigger": "Regional conflicts continue to shape domestic political outcomes in Europe.",
-      "publishedAt": "2026-11-01T01:32:25-04:00",
+      "why": "Foreign diplomatic relations and international trade discussions could experience tension.",
+      "context": "British leadership expressed regret for colonial history without offering financial compensation.",
+      "next": "Affected nations will push for official parliamentary debates on historical justice.",
+      "bigger": "Former imperial nations face rising global pressure regarding historical accountability.",
+      "publishedAt": "2026-11-01T19:50:14-05:00",
       "topicFingerprint": [
-        "bulgarians",
-        "threats",
-        "marked",
-        "regional",
-        "vote"
+        "shifting",
+        "trade",
+        "stance",
+        "table",
+        "slave"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "\u2018Like Kashmir\u2019: How a toxic marble dump yard became a tourist spot in India",
-      "description": "Vast snow yard in otherwise arid Rajasthan attracts hundreds of tourists daily, but residents face major health risks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india",
-      "category": "Health",
+      "title": "ChatGPT could soon turn your Android health data into something you can actually use",
+      "description": "It might finally add the Google Health integration Android users have been missing.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/chatgpt-health-google-health-integration-apk-teardown-3730462/",
+      "category": "Technology",
       "readingTime": 2,
-      "score": 7,
-      "why": "Nearby residents face severe respiratory health risks from industrial dust.",
-      "context": "A hazardous industrial waste site in India became a tourist destination.",
-      "next": "Health authorities may restrict public access to the contaminated site.",
-      "bigger": "Environmental neglect often creates serious public health hazards in developing regions.",
-      "publishedAt": "2026-11-01T05:25:32+00:00",
+      "score": 8,
+      "why": "Your smart device may offer personalized health and fitness insights.",
+      "context": "Artificial intelligence features are integrating with mobile personal health tracking.",
+      "next": "Software updates will integrate artificial intelligence into personal health dashboards.",
+      "bigger": "Consumer technology is embedding artificial intelligence into everyday wellness tracking.",
+      "publishedAt": "2026-11-02T06:36:17+00:00",
       "topicFingerprint": [
-        "toxic",
-        "tourist",
-        "kashmir",
-        "marble",
-        "india"
+        "actually",
+        "chatgpt",
+        "turn",
+        "soon",
+        "data"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "French police clash with some protesters again as demonstrations continue",
-      "description": "Police said about 70,000 people demonstrated in Paris alone. France's interior ministry said about 320,000 people rallied nationwide.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
+      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
       "category": "Policy",
       "readingTime": 2,
       "score": 6,
-      "why": "Local commuters and business owners face travel delays and disruptions.",
-      "context": "Demonstrations across major French cities led to clashes with security forces.",
-      "next": "Trade unions may announce additional general strikes nationwide.",
-      "bigger": "Public anger over domestic policy is driving persistent social unrest.",
-      "publishedAt": "2026-10-31T21:03:45-04:00",
+      "why": "Government policy shifts may drastically alter business tax and regulation laws.",
+      "context": "Election projections show uncertain results despite strong political party expectations.",
+      "next": "Campaign organizers will target undecided voters in major swing districts.",
+      "bigger": "Polling reliability remains a challenge for modern democratic political forecasting.",
+      "publishedAt": "2026-11-02T00:25:12+00:00",
       "topicFingerprint": [
-        "protests",
-        "france",
-        "across",
-        "protesters",
-        "living"
+        "midterms",
+        "democrats",
+        "right",
+        "hopes",
+        "polls"
       ],
-      "related": [
-        {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-          "score": 7,
-          "publishedAt": "2026-10-31T21:29:01+00:00",
-          "overlap": 7
-        },
-        {
-          "title": "France seethes again as youth-led protests sweep Europe",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-          "score": 6,
-          "publishedAt": "2026-10-31T15:30:19-04:00",
-          "overlap": 6
-        },
-        {
-          "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
-          "score": 4,
-          "publishedAt": "2026-10-31T21:34:15+00:00",
-          "overlap": 6
-        },
-        {
-          "title": "France protests enter third week as police fire tear gas",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes",
-          "score": 6,
-          "publishedAt": "2026-11-01T04:31:24+00:00",
-          "overlap": 4
-        }
-      ],
+      "related": [],
       "alternates": []
     },
     {
-      "title": "Distaste for Russian diplomat forces US to cancel G-20 photo session",
-      "description": "Some diplomats refused to pose alongside Russia\u2019s top diplomat, Sergey Lavrov.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/united-states/distaste-for-russian-diplomat-forces-us-to-cancel-g-20-photo-session",
-      "category": "General",
+      "title": "U.S. mid-term elections: How officials are facing the heat",
+      "description": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/us-mid-term-elections-how-officials-are-facing-the-heat/article71653990.ece",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 6,
-      "why": "High-level summits may produce fewer joint international agreements.",
-      "context": "Summit hosts canceled a group photograph following diplomatic boycotts of Russia.",
-      "next": "Future summits will likely use separate group photo sessions.",
-      "bigger": "Global political institutions are increasingly divided by active geopolitical conflicts.",
-      "publishedAt": "2026-11-01T06:48:00+08:00",
+      "score": 5,
+      "why": "Poorly paid workers may face worsening economic vulnerability and reduced security.",
+      "context": "Election workers face intense pressure during legislative campaign preparations.",
+      "next": "Local governments will spend more on public voting facility security.",
+      "bigger": "Poor job quality continues to hinder broader economic growth potential.",
+      "publishedAt": "2026-11-02T09:05:45+05:30",
       "topicFingerprint": [
-        "diplomat",
-        "cancel",
-        "distaste",
-        "russian",
-        "session"
+        "mid",
+        "officials",
+        "term",
+        "heat",
+        "elections"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Arizona flash floods wash away bridge, trigger evacuations as months worth of rain falls in days",
+      "description": "Floodwaters collapsed a bridge in Pinetop-Lakeside, stranded residents across Arizona and prompted mandatory evacuations in Sedona, Camp Verde and Gisela.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/arizona-flash-floods-wash-away-bridge-trigger-evacuations-as-months-worth-of-rain-falls-in-days-101793587061057.html",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 5,
+      "why": "Traveling through flooded regional areas may become unsafe and delayed.",
+      "context": "Heavy rain destroyed local infrastructure and forced emergency household evacuations.",
+      "next": "Construction crews will rebuild damaged transportation infrastructure and roadways.",
+      "bigger": "Severe natural disasters are placing immense strain on local infrastructure.",
+      "publishedAt": "2026-11-02T10:09:59+05:30",
+      "topicFingerprint": [
+        "wash",
+        "worth",
+        "rain",
+        "floods",
+        "arizona"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "US Midterms: Democrats face leftward surge",
+      "description": "As Democrats seek to regain control of Congress, divisions within the party are emerging over its future direction. A new wave of progressive candidates is pushing to shift priorities further to the left, challenging corporate money in politics and calling for universal healthcare, climate action an",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-midterms-democrats-face-leftward-surge",
+      "category": "Health",
+      "readingTime": 2,
+      "score": 3,
+      "why": "Proposed legislation on healthcare and taxes may shift significantly leftward.",
+      "context": "Internal political debates escalated over party policy and legislative strategies.",
+      "next": "Party leaders will debate policy platforms ahead of primary votes.",
+      "bigger": "Political parties worldwide are experiencing growing ideological internal divisions.",
+      "publishedAt": "2026-11-01T13:56:18+00:00",
+      "topicFingerprint": [
+        "leftward",
+        "surge",
+        "midterms",
+        "democrats",
+        "face"
       ],
       "related": [],
       "alternates": []
@@ -837,102 +730,24 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "The staggering $446m Elon Musk has spent on the US midterms \u2013 visualized",
-        "description": "The tech mogul\u2019s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Te",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
-        "fromUrl": "https://www.theguardian.com/business/rss",
-        "category": "Technology",
-        "readingTime": 2,
-        "publishedAt": "2026-10-31T10:00:40+00:00",
-        "reason": "within_48h",
-        "score": 10,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: tech"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: rocket"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: The Guardian"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "elon",
-          "musk",
-          "visualized",
-          "staggering",
-          "446m"
-        ]
-      },
-      {
-        "title": "US approves $2.1 billion sale of 500 Patriot missiles to Ukraine",
-        "description": "The US approved the $2.1 billion sale of 500 Patriot PAC-3 missiles to Ukraine to enhance its air defenses, with financing from Canada, Germany, and Norway.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/b77fd084-c9a9-42de-8842-0e4d9509746d.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-31T09:16:33+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: ukraine"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "patriot",
-          "billion",
-          "missiles",
-          "ukraine",
-          "approves"
-        ]
-      }
-    ],
-    "china": [
-      {
-        "title": "Guangzhou reclaims crown as China\u2019s busiest airport after US$8 billion mega expansion",
-        "description": "Guangzhou Baiyun International Airport has reclaimed its position as China\u2019s busiest airport, handling more than 67 million passenger trips in the first nine months of 2026 following a major expansion last year, the municipal government announced. The airport overtook Shanghai Pudong International A",
+        "title": "Joshua Cooper Ramo on whether the US can handle the stress test of China\u2019s rise",
+        "description": "Joshua Cooper Ramo is chairman and CEO of Sornay, an investment and advisory firm. Previously he was CEO of Kissinger Associates. Ramo is the author of the new book Darwin\u2019s Lock: America, China and the Shared Future of Nations. His 2004 analysis of \u201cthe Beijing consensus\u201d contrasted the Western and",
         "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372879/joshua-cooper-ramo-whether-us-can-handle-stress-test-chinas-rise",
         "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-11-01T04:00:16+00:00",
+        "publishedAt": "2026-11-01T22:00:18+00:00",
         "reason": "within_48h",
-        "score": 7,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: government"
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
           },
           {
             "points": 2,
@@ -943,6 +758,417 @@
             "reason": "important keyword match: china"
           },
           {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "cooper",
+          "stress",
+          "whether",
+          "test",
+          "joshua"
+        ]
+      },
+      {
+        "title": "Anthropic seeks up to US$3.5 billion in Japan for its mega US IPO",
+        "description": "This makes Japan one of the few markets that have direct access to the IPO.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/anthropic-seeks-up-to-us3-5-billion-in-japan-for-its-mega-us-ipo",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T16:22:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [
+          {
+            "title": "Anthropic plans to sell US$3.5 billion of shares to Japan investors in IPO",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/anthropic-plans-sell-us3-5-billion-shares-japan-investors-ipo",
+            "score": 6,
+            "publishedAt": "2026-11-02T07:13:54+00:00",
+            "overlap": 5
+          },
+          {
+            "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+            "source": "Channel News Asia",
+            "url": "https://www.channelnewsasia.com/business/anthropic-plans-sell-35-billion-shares-japan-investors-in-ipo-filing-shows-6512356",
+            "score": 3,
+            "publishedAt": "2026-11-02T14:25:33+08:00",
+            "overlap": 4
+          }
+        ],
+        "topicFingerprint": [
+          "ipo",
+          "anthropic",
+          "billion",
+          "japan",
+          "us_entity35"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Joshua Cooper Ramo on whether the US can handle the stress test of China\u2019s rise",
+        "description": "Joshua Cooper Ramo is chairman and CEO of Sornay, an investment and advisory firm. Previously he was CEO of Kissinger Associates. Ramo is the author of the new book Darwin\u2019s Lock: America, China and the Shared Future of Nations. His 2004 analysis of \u201cthe Beijing consensus\u201d contrasted the Western and",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372879/joshua-cooper-ramo-whether-us-can-handle-stress-test-chinas-rise",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T22:00:18+00:00",
+        "reason": "within_48h",
+        "score": 8,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: ceo"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "cooper",
+          "stress",
+          "whether",
+          "test",
+          "joshua"
+        ]
+      },
+      {
+        "title": "Chinese regulators to hold talks on market support tools: Media",
+        "description": "The benchmark CSI300 Index slumped 8.5% in October for its worst month since early 2016.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/chinese-regulators-hold-talks-on-market-support-tools-media",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T09:55:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: market"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "tools",
+          "hold",
+          "media",
+          "regulators",
+          "support"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Anthropic seeks up to US$3.5 billion in Japan for its mega US IPO",
+        "description": "This makes Japan one of the few markets that have direct access to the IPO.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/anthropic-seeks-up-to-us3-5-billion-in-japan-for-its-mega-us-ipo",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T16:22:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [
+          {
+            "title": "Anthropic plans to sell US$3.5 billion of shares to Japan investors in IPO",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/anthropic-plans-sell-us3-5-billion-shares-japan-investors-ipo",
+            "score": 6,
+            "publishedAt": "2026-11-02T07:13:54+00:00",
+            "overlap": 5
+          },
+          {
+            "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+            "source": "Channel News Asia",
+            "url": "https://www.channelnewsasia.com/business/anthropic-plans-sell-35-billion-shares-japan-investors-in-ipo-filing-shows-6512356",
+            "score": 3,
+            "publishedAt": "2026-11-02T14:25:33+08:00",
+            "overlap": 4
+          }
+        ],
+        "topicFingerprint": [
+          "ipo",
+          "anthropic",
+          "billion",
+          "japan",
+          "us_entity35"
+        ]
+      },
+      {
+        "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+        "description": "",
+        "source": "Channel News Asia",
+        "url": "https://www.channelnewsasia.com/business/anthropic-plans-sell-35-billion-shares-japan-investors-in-ipo-filing-shows-6512356",
+        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T14:25:33+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [
+          {
+            "title": "Anthropic plans to sell US$3.5 billion of shares to Japan investors in IPO",
+            "description": "This will go towards raising working capital and funding operating expenses and capital expenditure",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/anthropic-plans-sell-us3-5-billion-shares-japan-investors-ipo",
+            "category": "Financial",
+            "publishedAt": "2026-11-02T07:13:54+00:00",
+            "score": 6,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "ipo",
+              "anthropic",
+              "billion",
+              "japan",
+              "us_entity35"
+            ],
+            "group_id": 1
+          }
+        ],
+        "related": [
+          {
+            "title": "Anthropic seeks up to US$3.5 billion in Japan for its mega US IPO",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/anthropic-seeks-up-to-us3-5-billion-in-japan-for-its-mega-us-ipo",
+            "score": 6,
+            "publishedAt": "2026-11-02T16:22:00+08:00",
+            "overlap": 4
+          },
+          {
+            "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+            "score": 5,
+            "publishedAt": "2026-11-01T15:00:01+00:00",
+            "overlap": 3
+          }
+        ],
+        "topicFingerprint": [
+          "ipo",
+          "anthropic",
+          "billion",
+          "japan",
+          "us_entity35"
+        ]
+      }
+    ],
+    "singapore": [
+      {
+        "title": "MAS sets aside $30m to help insurers build expertise in funding major projects",
+        "description": "The amount will help defray costs of building dedicated investment teams and training staff.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/mas-sets-aside-30m-to-help-insurers-build-expertise-in-funding-major-projects",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T15:42:00+08:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [
+          {
+            "title": "MAS moves to spur infrastructure investments by easing capital requirements for insurers",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/companies-markets/mas-moves-spur-infrastructure-investments-easing-capital-requirements-insurers",
+            "score": 4,
+            "publishedAt": "2026-11-02T07:02:02+00:00",
+            "overlap": 6
+          }
+        ],
+        "topicFingerprint": [
+          "teams",
+          "building",
+          "costs",
+          "insurers",
+          "mas"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Australian outback data centre pulls timeline after regulator stalls",
+        "description": "The regulator said it would seek advice from the federal government",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/australian-outback-data-centre-pulls-timeline-after-regulator-stalls",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T21:55:06+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "australian",
+          "timeline",
+          "regulator",
+          "stalls",
+          "centre"
+        ]
+      },
+      {
+        "title": "Popular Australian children's author jailed over child exploitation offences",
+        "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-02T08:03:39+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
             "points": 1,
             "reason": "less than 6 hours"
           }
@@ -951,100 +1177,60 @@
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "mega",
-          "us_entity8",
-          "guangzhou",
-          "billion",
-          "crown"
-        ]
-      },
-      {
-        "title": "Hong Kong telecom company agrees to halt U.S. operations under pressure",
-        "description": "The FCC in October 2025 said it was moving to revoke the authority of HKT to operate in the United States, citing national security concerns.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/31/hong-kong-telecom-firm-agrees-to-halt-us-operations-under-pressure.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-10-31T08:05:43+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: security"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: said"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "kong",
-          "telecom",
-          "operations",
-          "agrees",
-          "hong"
+          "child",
+          "children",
+          "exploitation",
+          "australian",
+          "jailed"
         ]
       }
     ],
     "uk": [
       {
-        "title": "British telecoms firm Virgin Media O2 to cut\u00a0thousands of jobs, Sky News reports",
-        "description": "Up to 4,000 staff could be affected, with most cuts expected to impact non-customer-facing roles.",
+        "title": "London Bridge gets early review to test structural condition",
+        "description": "Commuters walk on London Bridge every day on the way to work in the City of London financial district.",
         "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/business/british-telecoms-firm-virgin-media-o2-to-cut-thousands-of-jobs-sky-news-reports",
-        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
-        "category": "General",
+        "url": "https://www.straitstimes.com/world/europe/london-bridge-gets-early-review-to-test-structural-condition",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-10-31T19:22:19+08:00",
+        "publishedAt": "2026-11-01T20:00:00+08:00",
         "reason": "within_48h",
-        "score": 6,
+        "score": 5,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: jobs"
+            "reason": "important keyword match: financial"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
           },
           {
             "points": 1,
             "reason": "High Quality Source match: The Straits Times"
-          },
-          {
-            "points": 3,
-            "reason": "combined impact signal: job cuts"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "jobs",
-          "media",
-          "cutthousands",
-          "sky",
-          "telecoms"
+          "gets",
+          "test",
+          "review",
+          "early",
+          "condition"
         ]
       },
       {
-        "title": "UK king to address Commonwealth with 'unflinching honesty' amid slavery focus",
-        "description": "UK king to address Commonwealth with 'unflinching honesty' amid slavery focus",
+        "title": "Irish bookshops help meet UK demand for Sally Rooney novels",
+        "description": "Irish bookshops help meet UK demand for Sally Rooney novels",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/uk-king-to-address-commonwealth-with-unflinching-honesty-amid-slavery-focus-101793484270099.html",
+        "url": "https://www.hindustantimes.com/world-news/us-news/irish-bookshops-help-meet-uk-demand-for-sally-rooney-novels-101793584429232.html",
         "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
         "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-11-01T03:34:29+05:30",
+        "publishedAt": "2026-11-02T07:23:48+05:30",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
@@ -1061,30 +1247,227 @@
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "unflinching",
-          "slavery",
-          "honesty",
-          "king",
-          "uk_entity"
+          "bookshops",
+          "sally",
+          "novels",
+          "uk_entity",
+          "rooney"
         ]
       }
     ],
-    "brazil": [
+    "uae": [
       {
-        "title": "When buses stopped running on Brazil election day, 'Lula's Army' grabbed their car keys",
-        "description": "SALVADOR, Brazil, Oct 31 - When buses in the northeastern Brazilian city of Salvador inexplicably stopped running last Sunday, history teacher Martins Mafra grabbed his car keys and set off to pick up stranded voters across town.",
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/when-buses-stopped-running-on-brazil-election-day-lulas-army-grabbed-their-car-keys",
-        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
-        "category": "Geopolitics",
+        "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+        "description": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
+        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-10-31T16:06:41+08:00",
+        "publishedAt": "2026-11-02T08:22:27+00:00",
         "reason": "within_48h",
         "score": 5,
         "score_debug": [
           {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: CNBC"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "credit",
+          "private",
+          "abu",
+          "platform",
+          "launches"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "S. Jaishankar meets Russian, Polish, South Korean counterparts; discusses Ukraine, West Asia",
+        "description": "The External Affairs Minister also met Polish Deputy Prime Minister and Foreign Minister Radoslaw Sikorski",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/s-jaishankar-meets-russian-polish-south-korean-counterparts-discusses-ukraine-west-asia/article71653057.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T19:06:28+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: ukraine"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
             "points": 4,
             "reason": "geopolitics category"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "counterparts",
+          "west",
+          "south",
+          "polish",
+          "russian"
+        ]
+      }
+    ],
+    "france": [
+      {
+        "title": "French presidential candidate \u00c9douard Philippe rejects centre-right primary",
+        "description": "French presidential candidate and former Prime Minister \u00c9douard Philippe ruled out competing in a primary Sunday, following a proposal made last week by his rival Gabriel Attal to organize a vote to select a single centre-right candidate.",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T21:51:36+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 3,
+            "reason": "policy scoring keyword: right"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "philippe",
+          "presidential",
+          "candidate",
+          "french",
+          "rejects"
+        ]
+      },
+      {
+        "title": "France reports largely peaceful protests",
+        "description": "France sees third consecutive weekend of protests over living costs and education, with more than 320,000 people taking to the streets. Most demonstrations remained peaceful, although police used tear gas to disperse clashes. Authorities reported more than 770 arrests nationwide. France24 journalist",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
+        "fromUrl": "https://www.france24.com/en/rss",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T15:50:06+00:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: nationwide"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: education"
+          },
+          {
+            "points": -1,
+            "reason": "Low Quality Source match: France 24"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "protests",
+          "france",
+          "largely",
+          "peaceful"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India's flight disruptions to Saudi Arabia continue amid security concerns",
+        "description": "The flight disruptions have continued amid attacks on civilian and critical infrastructure in Saudi Arabia, including airports",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/indias-flight-disruptions-to-saudi-arabia-continue-amid-security-concerns/article71653038.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T19:00:57+05:30",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: infrastructure"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: security"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: saudi arabia"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "security",
+          "arabia",
+          "disruptions",
+          "flight",
+          "concerns"
+        ]
+      },
+      {
+        "title": "Republicans risk losing South Asian\u00a0voters over anti-Indian rhetoric",
+        "description": "Indian Americans account for about 1% of the US population, and are concentrated in key parts of several battleground states.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/republicans-risk-losing-south-asian-voters-over-anti-indian-rhetoric",
+        "fromUrl": "https://www.straitstimes.com/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-01T23:58:10+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
           },
           {
             "points": 1,
@@ -1095,105 +1478,11 @@
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "stopped",
-          "car",
-          "running",
-          "buses",
-          "army"
-        ]
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro\u2019s departure to the US sparks a flurry of viral Brazilian memes",
-        "description": "Political memes have exploded in Brazil since Sunday s election that saw underdog President Luiz In cio Lula da Silva beat his opponent Fl vio Bolsonaro, who responded to his loss by fleeing the country",
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/flvio-bolsonaros-departure-us-sparks-flurry-viral-brazilian-137733405",
-        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-10-31T12:04:25-04:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [
-          {
-            "title": "\u2018He can stay as long as he wants\u2019: Trump backs Bolsonaro's stay in US after Brazil exit",
-            "source": "Hindustan Times",
-            "url": "https://www.hindustantimes.com/world-news/he-can-stay-as-long-as-he-wants-trump-backs-bolsonaros-stay-in-us-florida-miami-since-fleeing-brazil-election-results-101793503528690.html",
-            "score": 3,
-            "publishedAt": "2026-11-01T09:15:40+05:30",
-            "overlap": 6.5
-          }
-        ],
-        "topicFingerprint": [
-          "brazil",
-          "luiz",
-          "bolsonaro",
-          "lula",
-          "silva"
-        ]
-      }
-    ],
-    "south_korea": [
-      {
-        "title": "South Korea exports nearly double in October, strongest growth since 1974",
-        "description": "",
-        "source": "Channel News Asia",
-        "url": "https://www.channelnewsasia.com/business/south-korea-exports-nearly-double-in-october-strongest-growth-1974-6510436",
-        "fromUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-11-01T08:38:57+08:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: exports"
-          },
-          {
-            "points": 1,
-            "reason": "less than 12 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "South Korea exports extend robust growth on\u00a0AI-fuelled chip boom",
-            "description": "The export boom is also putting the South on course to exceed US$1 trillion in annual shipments for the first time in 2026.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/business/economy/south-korea-exports-extend-robust-growth-on-ai-fuelled-chip-boom",
-            "category": "Geopolitics",
-            "publishedAt": "2026-11-01T09:40:00+08:00",
-            "score": 15,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "growth",
-              "sk_entity",
-              "exports",
-              "fuelled",
-              "robust"
-            ],
-            "group_id": 0
-          }
-        ],
-        "related": [],
-        "topicFingerprint": [
-          "growth",
-          "sk_entity",
-          "exports",
-          "fuelled",
-          "robust"
+          "anti",
+          "risk",
+          "republicans",
+          "indian",
+          "rhetoric"
         ]
       }
     ]
