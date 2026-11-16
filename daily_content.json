@@ -1,688 +1,922 @@
 {
-  "updatedAt": "2026-11-15T16:28:51.577790",
+  "updatedAt": "2026-11-16T18:03:04.811192",
   "insight": {
-    "title": "The Comments You Type and Delete",
-    "subtitle": "Modern internet users are quietly opting out of digital arguments mid-sentence.",
-    "notificationHook": "Why you keep deleting your comments",
+    "title": "Why Office Chairs Have That \"Loud\" Fabric",
+    "subtitle": "The rough, speckled upholstery in your cubicle is designed to hide stains and muffle the sounds of a busy workspace.",
+    "notificationHook": "Why office chairs are so scratchy",
     "readingTime": 2,
     "sections": [
       {
         "type": "paragraph",
-        "text": "You type out a sharp, well-reasoned reply to a frustrating post, read it over once, select all, and hit backspace. You walk away without leaving a single trace."
+        "text": "Ever wonder why office chairs are almost always covered in that coarse, multi-colored, synthetic fabric? It isn\u2019t for comfort or style; it\u2019s a tactical choice made by facilities managers to keep the office looking clean."
       },
       {
         "type": "paragraph",
-        "text": "The impulse to engage is immediate, but the math of online conflict has changed. Most people quickly realize that defending a point to strangers costs far more energy than it returns."
+        "text": "The mottled, dark-flecked pattern is specifically engineered to camouflage everything from coffee spills to skin cells. By masking daily wear and tear, it prevents the office from looking neglected long before a replacement is needed."
       },
       {
         "type": "paragraph",
-        "text": "Comment sections no longer represent general consensus; they only show who has the stamina for endless notifications. The silent majority has quietly embraced the art of the ghost reply."
+        "text": "Beyond the visuals, the thick, dense weave acts as an acoustic sponge. It absorbs ambient noise and chair-shifting creaks, preventing your workspace from sounding like a hollow, echoing chamber during a quiet afternoon."
       },
       {
         "type": "paragraph",
-        "text": "The ultimate modern luxury is discarding the draft."
+        "text": "A chair that hides your mess and swallows your silence."
       }
     ]
   },
   "news": [
     {
-      "title": "Pete Hegseth\u2019s $1.5 trillion Pentagon budget request is DOA after Democrats swept midterms, but global defense spending could still hit $8 trillion",
-      "description": "\u201cWhat is driving this whole enormous bill? In Europe, it's the combination of the war for four years in Ukraine and Russia, and the unreliability of the United States to support NATO.\u201d",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/15/pentagon-military-budget-in-jeopardy-global-defense-spending-hit-8-trillion/",
+      "title": "US tightens AI chip export curbs to close China\u2019s overseas data centre loophole",
+      "description": "The US Bureau of Industry and Security (BIS) has announced new restrictions on Chinese companies\u2019 remote access to advanced US artificial intelligence chips through overseas data centres, targeting a major loophole that has long allowed Chinese developers to access computing power otherwise barred b",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
       "category": "Geopolitics",
       "readingTime": 2,
-      "score": 18,
-      "why": "European nations may increase their own defense spending instead.",
-      "context": "Lawmakers rejected a massive US military budget proposal following recent elections.",
-      "next": "Congress will likely negotiate a smaller military funding package soon.",
-      "bigger": "Global military spending continues to rise rapidly despite domestic political resistance.",
-      "publishedAt": "2026-11-15T12:00:00+00:00",
+      "score": 21,
+      "why": "Advanced AI tools may become more expensive or restricted for you.",
+      "context": "The US restricted Chinese companies from accessing advanced AI chips via remote data centres.",
+      "next": "Tech companies will likely increase security measures on cloud infrastructure.",
+      "bigger": "Geopolitical competition is rapidly reshaping the global technology supply chain.",
+      "publishedAt": "2026-11-16T15:46:42+00:00",
       "topicFingerprint": [
-        "hegseth",
-        "pete",
-        "pentagon",
-        "doa",
-        "swept"
+        "nvidia",
+        "china_entity",
+        "us_entity",
+        "huang",
+        "jensen",
+        "donald_trump"
       ],
-      "related": [],
+      "related": [
+        {
+          "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+          "source": "Techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "score": 18,
+          "publishedAt": "2026-11-16T15:02:34+00:00",
+          "overlap": 6.5
+        },
+        {
+          "title": "Commerce Department moves to curb remote access to AI chips",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+          "score": 15,
+          "publishedAt": "2026-11-16T12:30:18-05:00",
+          "overlap": 6.5
+        },
+        {
+          "title": "US to curb China\u2019s access to AI chips as Trump heads to Asia",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia",
+          "score": 19,
+          "publishedAt": "2026-11-16T22:35:34+08:00",
+          "overlap": 5.5
+        },
+        {
+          "title": "The Nvidia scandal isn\u2019t slowing down",
+          "source": "Tech | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+          "score": 18,
+          "publishedAt": "2026-11-16T13:00:00+00:00",
+          "overlap": 4.5
+        }
+      ],
+      "alternates": [
+        {
+          "title": "Trump administration tightens AI chip export rules to restrict China's access to Nvidia chips",
+          "description": "Trump administration tightens AI chip export rules for five countries to prevent China from accessing advanced Nvidia chips through overseas data centres.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/trump-administration-tightens-ai-chip-export-rules-to-restrict-chinas-access-to-nvidia-chips-101794844441729.html",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-16T21:43:23+05:30",
+          "score": 23,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "china_entity",
+            "us_entity",
+            "huang",
+            "jensen",
+            "donald_trump"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "The US is cracking down on a loophole that let China get Nvidia's best chips",
+          "description": "The US released an interim final rule aimed at preventing remote access to advanced AI chips that circumvent the country's export controls.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-16T16:02:00+00:00",
+          "score": 21,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "china_entity",
+            "us_entity",
+            "huang",
+            "jensen",
+            "donald_trump"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "The Nvidia scandal fuels tougher China chip rules as Commerce targets Singapore and Malaysia",
+          "description": "The Commerce Department wants to expand export controls to five new countries and close a loophole that let China access chips in overseas data centers.",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-16T16:58:02+00:00",
+          "score": 21,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "china_entity",
+            "us_entity",
+            "huang",
+            "jensen",
+            "donald_trump"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump-Xi talks to face chip tensions amid push for US-China cooperation on AI safety",
+          "description": "The prospect of tighter US curbs on China\u2019s access to advanced AI chips will likely overshadow talks between US President Donald Trump and President Xi Jinping.",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/trump-xi-talks-to-face-chip-tensions-amid-push-for-us-china-cooperation-on-ai-safety-101794822947706.html",
+          "category": "Technology",
+          "publishedAt": "2026-11-16T17:08:41+05:30",
+          "score": 17,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "china_entity",
+            "us_entity",
+            "huang",
+            "jensen",
+            "donald_trump"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "US tightens AI chip curbs to block China; Trump floats meeting Kim Jong Un",
+          "description": "Washington wants to stop Chinese companies accessing advanced Nvidia chips through overseas data centres. Trump has also raised the possibility of meeting North Korean leader Kim during his China visit",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-tightens-ai-chip-curbs-to-block-china-trump-floats-meeting-kim-jong-un-20035253.htm",
+          "category": "Technology",
+          "publishedAt": "2026-11-16T21:35:15+05:30",
+          "score": 17,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "nvidia",
+            "china_entity",
+            "us_entity",
+            "huang",
+            "jensen",
+            "donald_trump"
+          ],
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "title": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+      "description": "The anti-dumping duties for the steel widely used for cars, planes, home appliances and in construction will apply from Nov 17.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/eu-sets-tariffs-on-steel-from-india-japan-taiwan-turkey-vietnam",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 10,
+      "why": "Construction and vehicle manufacturing costs may rise in Europe.",
+      "context": "The EU introduced new anti-dumping duties on steel imports from several countries.",
+      "next": "Importers will likely seek alternative suppliers to avoid higher costs.",
+      "bigger": "Protectionist trade policies are increasingly common in global manufacturing markets.",
+      "publishedAt": "2026-11-17T01:08:21+08:00",
+      "topicFingerprint": [
+        "japan",
+        "vietnam",
+        "dumping",
+        "duties",
+        "eu_entity"
+      ],
+      "related": [
+        {
+          "title": "EU imposes anti-dumping duties on cold-rolled steel imports from India, Japan, Taiwan, T\u00fcrkiye and Vietnam",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/eu-imposes-anti-dumping-duties-on-cold-rolled-steel-imports-from-india-japan-taiwan-turkiye-and-vietnam-20035340.htm",
+          "score": 3,
+          "publishedAt": "2026-11-16T22:51:09+05:30",
+          "overlap": 9
+        }
+      ],
       "alternates": []
     },
     {
-      "title": "Global diesel prices ease as winter approaches",
-      "description": "Global diesel prices, which have remained elevated since the start of the Iran war and the blockade of the Strait of Hormuz, have fallen sharply in recent weeks as Gulf exports recover and global oil supplies get back on track for the first time since February. The price drop is being felt in Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/global-diesel-prices-ease-as-winter-approaches",
+      "title": "Average diesel prices are under $6 per gallon for the first time in months",
+      "description": "Data: AAA; Chart: Ben Geman/Axios Average U.S. diesel prices inched below $6 per gallon on Monday for the first time since Sept. 10 amid lower oil prices recently, per AAA data. Why it matters: Diesel soared even more than gasoline during the Iran war, and those costs rippled throughout the economy.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/16/diesel-dips-below-6-per-gallon",
       "category": "Economy",
       "readingTime": 2,
-      "score": 15,
-      "why": "Your heating and transport costs may drop this winter.",
-      "context": "Global fuel markets saw lower diesel prices as Middle East exports recovered.",
-      "next": "Fuel prices could stabilize further if supply routes stay open.",
-      "bigger": "Energy markets remain sensitive to geopolitical conflicts and seasonal demand shifts.",
-      "publishedAt": "2026-11-15T10:40:01+00:00",
+      "score": 19,
+      "why": "Your transport and shipping costs may stabilize or decrease slightly.",
+      "context": "US diesel prices dropped below $6 per gallon for the first time since September.",
+      "next": "Freight and delivery prices could become more predictable for businesses.",
+      "bigger": "Energy markets are reflecting recent shifts in global oil supply.",
+      "publishedAt": "2026-11-16T13:26:15+00:00",
       "topicFingerprint": [
+        "gallon",
         "diesel",
-        "approaches",
-        "winter",
+        "average",
+        "months",
         "prices"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "Anthropic IPO puts $26 billion in tech investments at stake amid AI market uncertainty and rising infrastructure costs",
-      "description": "Anthropic IPO puts $26B in tech investments at stake as Google, Amazon and Nvidia face uncertainty over AI spending, infrastructure costs and market risks.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/anthropic-ipo-puts-26-billion-in-tech-investments-at-stake-amid-ai-market-uncertainty-and-rising-infrastructure-costs-101794751746164.html",
+      "title": "Nvidia teams up with IBM and Fermilab on a quantum codesign platform",
+      "description": "Nvidia said on Monday that it plans to work with IBM and the US Department of Energy\u2019s Fermi National Accelerator Laboratory on a quantum codesign platform. The three will use it to research modular quantum computers, error correction and scientific applications, Nvidia said in its announcement. At ",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/nvidia-ibm-fermilab-quantum-codesign-platform-decoder",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 9,
+      "why": "Future computing power may grow significantly faster than currently possible.",
+      "context": "Nvidia, IBM, and Fermilab launched a platform to research modular quantum computing systems.",
+      "next": "Researchers will likely accelerate development of complex computational models.",
+      "bigger": "Quantum technology is shifting from theoretical research to practical industrial application.",
+      "publishedAt": "2026-11-16T16:31:15+00:00",
+      "topicFingerprint": [
+        "codesign",
+        "quantum",
+        "nvidia",
+        "fermilab",
+        "ibm"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
+      "description": "Climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary \u200cpressures and the need to spend on security",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+      "category": "Environment",
+      "readingTime": 2,
+      "score": 10,
+      "why": "New environmental regulations may be delayed or underfunded worldwide.",
+      "context": "Global leaders are struggling to secure climate funding amid political and conflict-related distractions.",
+      "next": "Nations will likely rely more on private investment for climate projects.",
+      "bigger": "Political focus is shifting away from long-term climate commitments toward stability.",
+      "publishedAt": "2026-11-16T18:38:36+05:30",
+      "topicFingerprint": [
+        "cop31",
+        "climate",
+        "turkey",
+        "antalya",
+        "agreement"
+      ],
+      "related": [
+        {
+          "title": "People's Climate March: Thousands Demonstrate in Turkey as Country Hosts COP31 U.N. Summit",
+          "source": "Democracy Now!",
+          "url": "https://www.democracynow.org/2026/11/16/peoples_climate_march_cop31",
+          "score": 4,
+          "publishedAt": "2026-11-16T08:16:02-05:00",
+          "overlap": 4.0
+        },
+        {
+          "title": "COP31 deal draft foreshadows difficult route to consensus",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/environment/20261116-cop31-deal-draft-foreshadows-difficult-route-to-consensus",
+          "score": 8,
+          "publishedAt": "2026-11-16T14:56:15+00:00",
+          "overlap": 3
+        }
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "description": "The incident is a major setback for the two decade-old company\u2019s new flagship rocket",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/transport-logistics/rocket-boeing-lockheed-firm-fails-mid-flight-destroys-payload-amazon-satellites",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 8,
+      "why": "Deployment of new satellite internet services may face unexpected delays.",
+      "context": "A flagship rocket failed during flight, resulting in the loss of multiple satellites.",
+      "next": "The launch company will likely undergo rigorous safety and design reviews.",
+      "bigger": "Private space flight remains a high-risk sector for infrastructure development.",
+      "publishedAt": "2026-11-15T22:37:40+00:00",
+      "topicFingerprint": [
+        "rocket",
+        "amazon",
+        "satellites",
+        "destroys",
+        "old"
+      ],
+      "related": [
+        {
+          "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "score": 4,
+          "publishedAt": "2026-11-16T04:56:53+00:00",
+          "overlap": 4
+        }
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+      "description": "Treasury Secretary Scott Bessent on Sunday questioned whether Nvidia's earnings might have been inflated by inappropriate sales to China and urged the company to hire an outsider as CEO. Why it matters: Nvidia is central to the AI economy, which has been key to U.S. economic growth. The Treasury sec",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
       "category": "Financial",
       "readingTime": 2,
       "score": 20,
-      "why": "Funding for new commercial software products may slow down.",
-      "context": "A major artificial intelligence firm is preparing to go public soon.",
-      "next": "Tech giants could reevaluate their heavy investments in artificial intelligence hardware.",
-      "bigger": "High computing costs are challenging profitability across the technology sector.",
-      "publishedAt": "2026-11-15T20:27:16+05:30",
-      "topicFingerprint": [
-        "uncertainty",
-        "stake",
-        "costs",
-        "ipo",
-        "tech"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Company under scrutiny for ties to Nvidia and China",
-      "description": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
-      "category": "Technology",
-      "readingTime": 2,
-      "score": 20,
-      "why": "Export controls on advanced microchips may become significantly stricter.",
-      "context": "Regulators are investigating a major chip buyer suspected of state ties.",
-      "next": "Government agencies may audit chip sales to intermediate trading firms.",
-      "bigger": "Tech trade friction between major economic powers is expanding rapidly.",
-      "publishedAt": "2026-11-15T09:47:03-05:00",
+      "why": "Your investments in tech stocks may face increased market volatility.",
+      "context": "The Treasury Secretary raised concerns about potential sales irregularities in Nvidia\u2019s Chinese operations.",
+      "next": "Regulatory scrutiny of major semiconductor companies will likely intensify.",
+      "bigger": "Oversight of cross-border technology sales is becoming a government priority.",
+      "publishedAt": "2026-11-15T17:29:21+00:00",
       "topicFingerprint": [
         "nvidia",
+        "china_entity",
+        "us_entity",
         "huang",
         "jensen",
-        "ceo",
-        "ai_group"
+        "donald_trump"
       ],
       "related": [
         {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-          "score": 15,
-          "publishedAt": "2026-11-15T14:56:21+00:00",
-          "overlap": 6.5
+          "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+          "score": 20,
+          "publishedAt": "2026-11-16T12:13:47+00:00",
+          "overlap": 6.0
         },
         {
-          "title": "Why the Nvidia scandal is bad news for Europe\u2019s AI ambitions",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
-          "score": 19,
-          "publishedAt": "2026-11-15T14:16:24+00:00",
-          "overlap": 5.5
+          "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia and an outside CEO",
+          "source": "Frontpage",
+          "url": "https://frontpage.ink/33d1da71-d03d-49c1-a8a7-51aef0e60f70.html",
+          "score": 16,
+          "publishedAt": "2026-11-16T00:10:59+00:00",
+          "overlap": 6.0
         },
         {
-          "title": "AI chips, rare earths and trade: 5 US-China questions looming over Shenzhen Apec CEO summit",
-          "source": "Business Times",
-          "url": "https://www.businesstimes.com.sg/international/global/ai-chips-rare-earths-and-trade-5-us-china-questions-looming-over-shenzhen-apec-ceo-summit",
+          "title": "Trump addresses Bessent-Lutnick rift amid Nvidia-China chip row, rules out firing Commerce Secretary",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/trump-addresses-bessent-lutnick-rift-amid-nvidia-china-chip-row-says-he-won-t-fire-commerce-secretary-101794842790660.html",
           "score": 14,
-          "publishedAt": "2026-11-15T03:13:31+00:00",
-          "overlap": 3.5
+          "publishedAt": "2026-11-16T21:19:33+05:30",
+          "overlap": 4.5
         },
         {
-          "title": "Jensen Huang | AI rainmaker meets his Waterloo",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+          "title": "US tightens AI chip curbs to block China; Trump floats meeting Kim Jong Un",
+          "source": "CNBC TV",
+          "url": "https://www.cnbctv18.com/world/us-tightens-ai-chip-curbs-to-block-china-trump-floats-meeting-kim-jong-un-20035253.htm",
+          "score": 17,
+          "publishedAt": "2026-11-16T21:35:15+05:30",
+          "overlap": 4.0
+        }
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Iran braces for natural gas shortages during winter energy imbalance",
+      "description": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance",
+      "category": "Geopolitics",
+      "readingTime": 2,
+      "score": 18,
+      "why": "Local heating costs and industrial energy access may become unreliable.",
+      "context": "Iranian gas infrastructure faces severe strain due to aging assets and international sanctions.",
+      "next": "Regional energy prices could fluctuate as supply shortages worsen.",
+      "bigger": "National infrastructure decay is becoming a critical failure point in sanctions-hit countries.",
+      "publishedAt": "2026-11-16T16:58:46+00:00",
+      "topicFingerprint": [
+        "iran",
+        "war",
+        "us_entity",
+        "yemeni",
+        "saudi"
+      ],
+      "related": [
+        {
+          "title": "Iranian leaders fret over public mood as gas shortages add to war ills",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/iranian-leaders-fret-over-public-mood-as-gas-shortages-add-to-war-ills",
+          "score": 15,
+          "publishedAt": "2026-11-16T22:44:46+08:00",
+          "overlap": 6
+        },
+        {
+          "title": "Iran blocks UN nuclear site visits until war ends",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends",
           "score": 10,
-          "publishedAt": "2026-11-15T10:38:04+05:30",
+          "publishedAt": "2026-11-16T13:46:55+00:00",
           "overlap": 3
         }
       ],
       "alternates": []
     },
     {
-      "title": "SpaceX catches upper stage of Starship rocket in historic first",
-      "description": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "category": "Science",
-      "readingTime": 2,
-      "score": 6,
-      "why": "Satellite internet and space launch costs could drop significantly.",
-      "context": "A commercial space company successfully caught an entire reusable rocket stage.",
-      "next": "Engineers will prepare the recovered hardware for rapid re-flight testing.",
-      "bigger": "Fully reusable rockets are making space access routine and affordable.",
-      "publishedAt": "2026-11-14T23:10:14+00:00",
-      "topicFingerprint": [
-        "spacex",
-        "starship",
-        "rocket",
-        "catch",
-        "booster"
-      ],
-      "related": [
-        {
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-          "score": 3,
-          "publishedAt": "2026-11-14T22:09:40+00:00",
-          "overlap": 6
-        },
-        {
-          "title": "SpaceX deploys Starlink satellites in Starship test, but booster crashes into Gulf",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6038958/spacex-deploys-starlink-satellites-in-starship-test-but-booster-crashes-into-gulf",
-          "score": 3,
-          "publishedAt": "2026-11-14T07:40:21-05:00",
-          "overlap": 5
-        },
-        {
-          "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-          "score": 4,
-          "publishedAt": "2026-11-15T00:40:59+00:00",
-          "overlap": 4
-        },
-        {
-          "title": "SpaceX pulls off first-ever spaceship \u2018catch\u2019 as Starship spacecraft returns from orbit | Video",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/spacex-pulls-off-first-ever-spaceship-catch-as-starship-spacecraft-returns-from-orbit-video-101794723747645.html",
-          "score": 3,
-          "publishedAt": "2026-11-15T13:13:21+05:30",
-          "overlap": 4
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "COP31: Protesters, UN urge swift climate deal",
-      "description": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Expect stricter environmental rules and higher energy standards over time.",
-      "context": "International officials urged delegates to resolve disputes at global talks.",
-      "next": "Negotiators will attempt to draft a final agreement this week.",
-      "bigger": "Global climate consensus remains difficult due to competing economic priorities.",
-      "publishedAt": "2026-11-14T17:19:00+00:00",
-      "topicFingerprint": [
-        "swift",
-        "protesters",
-        "cop31",
-        "climate",
-        "urge"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-      "description": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 9,
-      "why": "International trade policies and diplomatic alliances may shift abruptly.",
-      "context": "Diplomatic leaders are considering holding a high-stakes three-way summit meeting.",
-      "next": "Leaders will finalize diplomatic conditions before formally announcing the meeting.",
-      "bigger": "Global diplomacy is shifting toward direct multi-power leader talks.",
-      "publishedAt": "2026-11-15T06:31:00+00:00",
-      "topicFingerprint": [
-        "donald_trump",
-        "china_entity",
-        "meeting",
-        "beijing",
-        "ahead"
-      ],
-      "related": [
-        {
-          "title": "Trump, Xi and Putin to hold first historic trilateral meeting in China",
-          "source": "Frontpage",
-          "url": "https://frontpage.ink/6140967c-f9ac-4654-81c7-5cfbff6b07ae.html",
-          "score": 7,
-          "publishedAt": "2026-11-14T04:09:41+00:00",
-          "overlap": 4.5
-        },
-        {
-          "title": "Trump faces China rare earth dependence as US mining projects lag ahead of Xi Jinping meeting",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/us-news/trump-faces-china-rare-earth-dependence-as-us-mining-projects-lag-ahead-of-xi-jinping-meeting-101794740311118.html",
-          "score": 5,
-          "publishedAt": "2026-11-15T17:31:12+05:30",
-          "overlap": 4.5
-        },
-        {
-          "title": "Moscow confirms Trump, Xi, Putin meeting in China",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/world/europe/moscow-confirms-trump-xi-putin-meeting-in-china",
-          "score": 4,
-          "publishedAt": "2026-11-15T13:16:00+08:00",
-          "overlap": 4.5
-        },
-        {
-          "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html",
-          "score": 10,
-          "publishedAt": "2026-11-14T08:16:44+00:00",
-          "overlap": 3.5
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "At the Supreme Court, Trump aims to cut the power of judges again",
-      "description": "Nov 14 - When President Donald Trump's administration convinced the US Supreme Court last year to restrict the ability of federal judges to block his actions nationwide \u2014 a major boost to his power \u2014 the ruling left untouched a separate tool that some of them have used to stymie presidential policie",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/at-the-supreme-court-trump-aims-to-cut-the-power-of-judges-again",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Federal policy changes could take effect faster across the nation.",
-      "context": "The presidency asked high court judges to restrict lower judicial authority.",
-      "next": "Justices will issue a decision reviewing judicial injunction limits.",
-      "bigger": "The balance of power among federal institutions is being reshaped.",
-      "publishedAt": "2026-11-15T00:34:23+08:00",
-      "topicFingerprint": [
-        "supreme",
-        "cut",
-        "power",
-        "donald_trump",
-        "judges"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Pentagon eyes smaller troop cuts across Europe in reversal",
-      "description": "The US is expected to cut about 5,000 US troops, well below the 25,000 previously feared.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/pentagon-eyes-smaller-troop-cuts-across-europe-in-reversal",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Defense security support for European allies will remain mostly intact.",
-      "context": "Military planners scaled back planned force reductions in Allied nations.",
-      "next": "Defense officials will adjust regional deployment schedules in coming months.",
-      "bigger": "Security commitments in Europe are remaining stronger than previously expected.",
-      "publishedAt": "2026-11-15T03:43:16+08:00",
-      "topicFingerprint": [
-        "cuts",
-        "pentagon",
-        "troop",
-        "reversal",
-        "across"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "S'pore to seek expanded ASEAN trade ties as chair in 2027",
-      "description": "Singapore will seek to advance wider global partnerships for South-east Asia as ASEAN chair in 2027, said PM Wong.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/spore-to-seek-expanded-asean-trade-ties-as-chair-in-2027",
-      "category": "Geopolitics",
-      "readingTime": 2,
-      "score": 9,
-      "why": "Southeast Asian businesses may gain cheaper access to global markets.",
-      "context": "A regional hub announced plans to strengthen trade partnerships across Asia.",
-      "next": "Regional leaders will outline updated trade deal priorities ahead of 2027.",
-      "bigger": "Regional economic blocs are deepening trade networks to boost growth.",
-      "publishedAt": "2026-11-15T22:46:23+08:00",
-      "topicFingerprint": [
-        "ties",
-        "pore",
-        "seek",
-        "trade",
-        "expanded"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "The ultimate adulting task: signing up for health insurance",
-      "description": "A person in their mid-20s making $50,000, for instance, would get an average 23% discount, according to KFF\u2019s subsidy calculator.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/15/healthq-beginners-guide-buying-insurance-aca-marketplace-obamacare-free-assisters/",
+      "title": "After difficult two years, medical school group\u2019s leadership isn\u2019t letting its guard down post midterms",
+      "description": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn\u2019t ready to let its guard down.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/",
       "category": "Health",
       "readingTime": 2,
-      "score": 7,
-      "why": "Your health insurance costs may drop if you qualify for subsidies.",
-      "context": "New guidance highlighted subsidy discounts available for individual healthcare plans.",
-      "next": "Millions of young adults will review coverage choices during open enrollment.",
-      "bigger": "Health insurance affordability remains a major financial focus for younger workers.",
-      "publishedAt": "2026-11-15T14:30:00+00:00",
+      "score": 9,
+      "why": "Public health and education policies may undergo rapid shifts soon.",
+      "context": "A medical school association is maintaining high vigilance following intense policy debates.",
+      "next": "Institutions will likely prepare for increased regulatory and political pressure.",
+      "bigger": "Healthcare policy is becoming a highly contentious area for professional organizations.",
+      "publishedAt": "2026-11-16T09:30:00+00:00",
       "topicFingerprint": [
-        "signing",
-        "ultimate",
-        "task",
-        "adulting",
-        "insurance"
+        "midterms",
+        "school",
+        "difficult",
+        "isn",
+        "years"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "Flights expected to normalize by tonight after ground stop. Here's what to know",
-      "description": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
-      "category": "Technology",
+      "title": "British farmers hope UK-EU deal with revive post-Brexit trade",
+      "description": "Al Jazeera\u2019s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade",
+      "category": "Progress",
       "readingTime": 2,
-      "score": 11,
-      "why": "Your travel plans may face lingering flight delays and rescheduling.",
-      "context": "Computer failures caused nationwide air travel delays before service resumed.",
-      "next": "Aviation authorities will investigate the legacy software systems that failed.",
-      "bigger": "Aging aviation infrastructure poses growing risks to global travel reliability.",
-      "publishedAt": "2026-11-15T10:00:40-05:00",
+      "score": 7,
+      "why": "Food prices and availability may improve for British consumers.",
+      "context": "UK farmers are pushing for a new trade deal to ease border barriers with Europe.",
+      "next": "Trade negotiations will likely focus on reducing agricultural export hurdles.",
+      "bigger": "Post-Brexit economic frameworks continue to undergo necessary adjustments.",
+      "publishedAt": "2026-11-16T12:38:20+00:00",
       "topicFingerprint": [
-        "us_entity",
-        "ground",
-        "stop",
-        "flights",
-        "system"
+        "revive",
+        "eu_entity",
+        "farmers",
+        "uk_entity",
+        "trade"
       ],
-      "related": [
-        {
-          "title": "What to know about flights after the U.S. nationwide ground stop",
-          "source": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop",
-          "score": 4,
-          "publishedAt": "2026-11-14T13:32:01-05:00",
-          "overlap": 6
-        },
-        {
-          "title": "US probes nationwide flights stoppage as travel disruptions persist",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
-          "score": 10,
-          "publishedAt": "2026-11-15T14:09:20+00:00",
-          "overlap": 4
-        },
-        {
-          "title": "Trump breaks silence on US ground stop, demands more money from Congress",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
-          "score": 9,
-          "publishedAt": "2026-11-15T15:00:00+00:00",
-          "overlap": 3
-        },
-        {
-          "title": "US aviation shutdown: How an L3Harris-installed router disrupted thousands of flights across America",
-          "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/us-aviation-shutdown-how-an-l3harris-installed-router-disrupted-thousands-of-flights-across-america-20034207.htm",
-          "score": 3,
-          "publishedAt": "2026-11-15T08:43:22+05:30",
-          "overlap": 3
-        }
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Blackstone Reit buys Amazon data centres in US$5 billion deal",
+      "description": "The trust has acquired a majority interest in two joint ventures with Amazon Web Services",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/blackstone-reit-buys-amazon-data-centres-us5-billion-deal",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 12,
+      "why": "Digital infrastructure capacity will likely continue to expand rapidly.",
+      "context": "Blackstone has acquired a majority stake in data center joint ventures with Amazon.",
+      "next": "Real estate investment trusts will likely increase focus on tech facilities.",
+      "bigger": "Data center infrastructure is becoming a primary target for institutional capital.",
+      "publishedAt": "2026-11-16T13:11:42+00:00",
+      "topicFingerprint": [
+        "data",
+        "amazon",
+        "reit",
+        "blackstone",
+        "us_entity5"
       ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Greenback extends rally, yen looks past soft Japan GDP data",
+      "description": "The dollar index is up a fifth straight day at a 19-month high",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/greenback-extends-rally-yen-looks-past-soft-japan-gdp-data",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 13,
+      "why": "Traveling abroad and importing goods may become costlier for you.",
+      "context": "The US dollar strengthened against other currencies as global market trends persisted.",
+      "next": "Foreign exchange markets will likely remain sensitive to interest rate policies.",
+      "bigger": "Currency fluctuations are reflecting diverging economic growth across major nations.",
+      "publishedAt": "2026-11-16T11:48:55+00:00",
+      "topicFingerprint": [
+        "japan",
+        "extends",
+        "data",
+        "looks",
+        "rally"
+      ],
+      "related": [],
       "alternates": []
     }
   ],
   "audioBrief": {
-    "script": "Welcome to your Sift Daily Briefing. Here is the clear, plain version of today's news.\n\nDemocratic election wins may block a proposed one point five trillion dollar United States military budget. Representative Adam Smith argued the proposed increase of more than forty percent was too high. He called for a smaller defense budget and a probe into military contractors. Global defense spending could still reach eight trillion dollars, according to investment firm Carlyle. Carlyle says defense spending reached two point zero percent of output across G7 nations. The United States spent over one trillion dollars on defense in fiscal 2026. European Union nations have sent nearly eighty-three billion dollars in military aid to Ukraine since 2022.\n\nNext, in energy news, worldwide diesel prices have fallen sharply in recent weeks. Prices dropped as Middle East fuel exports recovered. Global oil supplies are getting back on track for the first time since February. Prices had remained elevated since the start of the Iran war. A blockade of the Strait of Hormuz also kept prices high. This price drop is now being felt in Europe.\n\nTurning to technology, artificial intelligence firm Anthropic plans to list its shares on the Nasdaq on Thursday. Anthropic makes the Claude chatbot and has received twenty-six billion dollars from major tech companies. Its investors include Google, Microsoft, and computer chip maker Nvidia. The expected stock price is between seventy and seventy-eight dollars per share. Anthropic has committed to spend more than nine hundred billion dollars on computing infrastructure and chips. The company agreed to spend at least one hundred ten billion dollars with Amazon over ten years. Anthropic reported a net loss of one hundred four billion dollars through September 2026. The public listing could raise more than ninety billion dollars for the company.\n\nIn business news, investigators in the United States and Singapore are examining computer hardware company Megaspeed International. The firm bought nearly five billion dollars in advanced artificial intelligence chips from Nvidia over three years. United States investigators allege Megaspeed helped smuggle two hundred forty thousand restricted chips into China. One former company leader, Alice Huang, is suspected of being an asset for Chinese intelligence. Nvidia chief executive Jensen Huang resigned on Thursday following reports of an affair with her. President Trump said the FBI is investigating romantic and business ties between the two leaders. Published reports revealed that Megaspeed's corporate headquarters in Singapore sat practically empty. Megaspeed denied wrongdoing and stated that it conducts legitimate and lawful business.\n\nIn space exploration, SpaceX successfully caught the upper stage of its Starship rocket on Saturday. Mechanical arms attached to a Texas launch tower caught the spacecraft as it returned from orbit. The upper stage had circled the Earth fourteen times before making the landing. This was the first time SpaceX attempted to catch both pieces of the massive rocket. The lower rocket booster failed its recovery on Friday and exploded over the Gulf of Mexico. During the flight, SpaceX also released twenty-six new Starlink internet satellites into orbit. SpaceX now operates more than eleven thousand satellites in low Earth orbit. The company plans to use Starship to carry NASA astronauts to the Moon.\n\nFinally, in environmental news, international officials are urging delegates to resolve disputes at global talks. Protesters and United Nations officials have urged delegates to reach a swift climate deal. The discussions are taking place at the COP31 climate talks in Turkey. The United Nations climate chief warned that tactical delays could prevent a deal to slow global warming.\n\nNext, we examine the diplomatic dilemma facing Beijing amid talk of a Xi-Trump-Putin summit.\n\nLeaders from China, Russia, and the United States may meet at an economic summit this week. The Asia-Pacific Economic Cooperation summit is taking place in Shenzhen, China. President Trump said he thinks he will meet President Xi Jinping and President Vladimir Putin. A Chinese Foreign Ministry official said Beijing is in communication with relevant parties. A Kremlin representative in Moscow said work on coordination is underway. Trump mentioned Iran and denuclearization as possible topics for the meeting. China has not yet confirmed that the meeting will take place. Policy fellow Alicja Bachulska said China is uneasy about the potential meeting. President Xi and President Putin have met about 40 times since 2012.\n\nTurning to legal news, President Donald Trump wants the Supreme Court to limit federal judges. The Justice Department filed an appeal about how judges halt federal agency rules. The administration wants rulings to apply only to specific plaintiffs in a case. The appeal arises from a lawsuit by Texas medical providers over medical bills. Those rules implement a law Trump signed during his first term. In June 2025, the Supreme Court restricted nationwide injunctions against government policies. The targeted lawsuits use the 1946 Administrative Procedure Act. Legal expert Aditya Bamzai said a win gives more flexibility to the executive branch. The Supreme Court is expected to consider taking the case early next year.\n\nNext, American troop reductions across Europe will be lower than feared, according to people familiar with the matter. Allies now expect an overall reduction of about 5,000 troops, one person said. European allies previously feared the US might cut as many as 25,000 troops. The United States currently maintains roughly 80,000 troops across Europe. The Pentagon looked favorably on increased NATO defense spending, according to sources. Leadership also noted that the Iran war relies heavily on European bases. Most troop reductions will focus on Germany. Countries bordering Russia offered to pay some costs to bolster the Eastern flank. Defence Secretary Pete Hegseth is expected to deliver final recommendations to President Trump on December first.\n\nIn global economy news, Singapore will seek to expand trade partnerships when it chairs ASEAN in 2027. Prime Minister Lawrence Wong announced the plan at a business meeting on November 15. ASEAN is an economic group of Southeast Asian nations. Next year marks the 60th anniversary of the founding of ASEAN. Wong cited trade talks with Canada and interest in an agreement with the European Union. He suggested upgrading the Regional Comprehensive Economic Partnership trade pact. That trade group currently includes 15 member countries. Wong also met with Brazilian President Luiz In\u00e1cio Lula da Silva on November 15. They discussed a trade agreement linking Singapore with the South American MERCOSUR trade bloc.\n\nIn health news, young adults navigating health insurance can find free help through the federal marketplace. Gas station manager DJ Mikunda sought help from independent assister Jackie Shrago to pick a plan. Independent assisters cannot charge fees or receive compensation from insurance companies. For 2027 enrollees, a single person making up to $63,480 can receive discounted coverage. A person in their mid-20s earning $50,000 gets an average 23 percent discount. Underestimating income can force enrollees to repay money when filing taxes. The Trump administration cut funding for assisters by roughly 90 percent in 2025. The number of paid navigators in Ohio dropped from 50 to five in 2025. The enrollment deadline for the federal marketplace is January 15.\n\nFinally, flights are returning to normal after a nationwide ground stop stranded thousands of airline passengers. The Federal Aviation Administration halted flights for more than four hours on Friday afternoon. More than 3,500 planes were airborne when the ground stop began, but all landed safely. Tracking website FlightAware reports that over 9,000 flights were canceled on Friday. On Sunday, more than 1,400 flights were canceled and around 2,200 were delayed. Transportation Secretary Sean Duffy said airlines should reach full capacity by Monday. Officials said a contractor replacing copper wire with fiber optics caused a router to flood the system. The system instability quickly spread to 17 flight facilities across the country. Duffy said President Trump secured a 12.5 billion dollar down payment to modernize FAA equipment.\n\nBefore we go, here is your thought for the day.\n\nMany internet users type out sharp replies to frustrating posts and then hit backspace. They read the draft once, select all the text, and walk away without a trace. The impulse to engage is immediate, but the math of online conflict has changed. Defending a point to strangers costs far more energy than it returns. Comment sections no longer represent general consensus. They only show who has the stamina for endless notifications. A silent majority of users has quietly embraced the art of the ghost reply. The ultimate modern luxury is discarding the draft. When was the last time you typed out a message and decided not to post it?\n\nThank you for listening to the Sift Daily Briefing, and stay curious until next time.",
+    "script": "Welcome to your Sift Daily Briefing. Here is the clear, plain news of the day.\n\nThe Trump administration issued a rule to restrict China from accessing advanced Nvidia chips through overseas data centers. The rule targets five countries, including Malaysia and Thailand, where Chinese companies use data centers to train artificial intelligence models. Companies in Singapore, Thailand, Malaysia, Indonesia and Brazil must now apply for United States export licenses for the most advanced chips. The Commerce Department said the rule ensures existing restrictions cannot be circumvented through remote computing arrangements in third countries.\n\nThe European Union is imposing tariffs of up to 27.9 percent on cold-rolled flat steel products from India, Japan, Taiwan, Turkey and Vietnam. The European Commission said the products were being sold at unfairly low prices in the European Union. The anti-dumping duties will apply from November 17. The rates are set at 9.5 percent for Indian companies, 27.9 percent for Japanese steelmakers, and mostly 20.7 percent for Taiwanese producers. Vietnamese producers face a 16 percent duty rate, while Turkish steelmakers face duties ranging from 3.0 percent to 7.8 percent.\n\nTurning to energy, average United States diesel prices dropped below $6 per gallon on Monday for the first time since September 10, according to AAA data.\n\nNvidia plans to work with IBM and the United States Department of Energy\u2019s Fermi National Accelerator Laboratory on a quantum codesign platform. The three partners will use Nvidia DGX B200 systems alongside IBM quantum computers to research modular quantum computers, error correction and scientific applications. Fermilab will steer the work toward error correction and physics. Nvidia also released a new decoder called TCBP-JOBS that decodes up to 13,000 times faster than leading existing algorithms.\n\nUrgent pleas for cash from poor nations at the COP31 talks in Turkey face a sluggish response from Western governments. Rich countries previously agreed to triple climate funding for poorer countries to $300 billion per year by 2035. Host country Turkey and lead negotiator Australia emphasized making previous pledges work rather than securing a new headline target. Solomon Islands Prime Minister Matthew Wale told the conference that small island states remain in perpetual climate disaster recovery mode. The Solomon Islands pledged $400,000 from its own pocket, and the Bahamas committed $75 million to protect and restore its seagrass meadows.\n\nA Vulcan rocket owned by United Launch Alliance failed mid-flight on Sunday shortly after liftoff from the Cape Canaveral Space Force Station in Florida. The flight was the joint venture of Boeing and Lockheed Martin's first mission failure and destroyed 40 satellites from Amazon\u2019s Leo internet network. The rocket suffered an anomaly 10 minutes into the flight after the separation of the second stage from the first-stage booster. United Launch Alliance stated that the cause was not immediately clear and that no specific data was available yet. The failure is expected to keep the rocket off the market for months.\n\nNext, we look at whether Nvidia artificially boosted its earnings with suspect sales to China, according to questions raised by Scott Bessent.\n\nSenator Maria Cantwell urged Commerce Secretary Howard Lutnick to stop AI chip sales to China. Cantwell sent a letter to Lutnick on Sunday ahead of a meeting with Chinese leaders. Nvidia is a U.S. company that designs advanced AI chips. Cantwell said Lutnick failed to stop restricted chips from reaching Chinese companies. She pointed to potential financial conflicts involving Lutnick's sons. She said their firm held one point two billion dollars in Nvidia stock. Former Nvidia leader Jensen Huang had a relationship with an alleged Chinese spy. Lutnick agreed to testify before the Senate banking committee in December. Lawmakers instructed officials to preserve all export documents by November seventeenth.\n\nNext, Iran is facing natural gas shortages as winter approaches. The government forecast a winter deficit of about four hundred thirty million cubic meters per day. Strikes by the United States and Israel damaged six gas refineries on March eighteenth. The strikes knocked out twenty-eight percent of Iran's gas production capacity. Iran has since restored about one hundred million cubic meters per day of capacity. Full recovery of the lost capacity could extend into twenty twenty-eight, the government said. Gas accounts for seventy-three percent of Iran's total energy mix. Household gas consumption reached four hundred eighty million cubic meters per day. A spokesperson warned gas might be cut off across the country if consumption grows.\n\nIn health news, the Association of American Medical Colleges held its annual meeting in California. The group spent two years involved in health policy debates during President Trump's second term. Leaders spoke after Democrats won control of the House and Senate in midterm elections. Public policy officer Danielle Turnipseed said major health policy issues will not fade away. Group chief executive David Skorton noted that international graduates make up one quarter of practicing physicians. Skorton said public mistrust is fueled by times when organizations were not trustworthy. He said he believes that trust needs to be earned. A federal restriction blocking political control over research grant decisions ends on December eleventh.\n\nTurning to international trade, farmers in the United Kingdom are pushing for a new trade deal. They want to ease border barriers with Europe. Reporter Charlie Angela spoke with a farmer in Sussex about the issue. The farmer hopes a proposed deal between the United Kingdom and Europe may ease trade barriers.\n\nIn business news, Blackstone acquired a majority stake in data center joint ventures with Amazon. The transaction is structured as a five billion dollar deal. The trust acquired a majority interest in two joint ventures with Amazon Web Services.\n\nTurning to finance, the United States dollar index reached a nineteen-month high on Monday. The index advanced for a fifth straight day to one hundred three point five two. It rose zero point one percent on Monday. Investors awaited comments from Federal Reserve chair Kevin Warsh about interest rates. Japan's economy contracted by an annualized zero point one percent in the third quarter. Forecasters had expected the Japanese economy to grow by zero point three percent. The yen strengthened zero point one percent to one hundred fifty-nine point five nine per dollar. Traders price an eighty-nine point seven percent chance of a rate hike in December.\n\nBefore we go, here is your thought for the day.\n\nHave you ever wondered why office chairs feature coarse, multi-colored fabric? Facilities managers choose this synthetic upholstery to keep offices looking clean. The dark, speckled pattern is engineered to camouflage coffee spills and skin cells. By masking daily wear, it stops furniture from looking neglected before replacement. Beyond appearance, the thick weave acts as an acoustic sponge. It absorbs background noise and chair creaks during quiet afternoons. This keeps your workspace from sounding like a hollow, echoing chamber. It is clever how one material hides daily mess while swallowing room noise. Next time you sit down, will you notice what your chair is doing?\n\nThank you for listening to this episode of the Sift Daily Briefing.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief.mp3",
-    "estimatedDurationSeconds": 598
+    "estimatedDurationSeconds": 469
   },
   "audioBriefIndepth": {
-    "script": "Welcome to your Sift In-Depth Briefing. This is our full analysis of the biggest stories today.\n\nCould the United States military really get a one point five trillion dollar budget? Democratic lawmakers say the proposal is too high and will not pass.\n\nLet us look back at how world defense spending got so big. During the Cold War, many wealthy nations spent huge amounts of money on their militaries. That spending slowed down after the Cold War ended in 1991. Then, the terrorist attacks on September 11, 2001, caused countries to rebuild their defense programs. The United States became the largest military spender in the world. It promised to protect allies in Europe and Asia so those countries did not have to spend as much. The United States currently accounts for about one-third of all global defense spending. In fiscal year 2026, U.S. defense spending passed the one trillion dollar mark.\n\nRecently, Democratic candidates won major victories across the country in the midterm elections. Those victories gave Democrats control of both the House of Representatives and the Senate.\n\nWith this new control, lawmakers are rejecting a massive U.S. military request. Defense Secretary Pete Hegseth wanted a one point five trillion dollar budget for 2027. That would have been a rise of more than forty percent. Representative Adam Smith is the top Democrat on the House Armed Services Committee. He wrote a letter to his colleagues calling the proposed budget far too high. He argued it would force painful cuts to critical domestic programs for American citizens. Smith called for a smaller budget and an investigation into Pentagon contracts.\n\nAt the same time, world military spending keeps rising everywhere else. The asset firm Carlyle reported defense spending across G7 nations reached two percent of total output. That is the highest level in over thirty years. Retired Admiral James Stavridis noted that countries are building up military resources for the long term. European Union defense spending hit four hundred eighteen billion euros in 2025. That was about four hundred sixty-one billion dollars, or two point two percent of output. EU spending is projected to reach five hundred billion dollars this year.\n\nThis global buildout is happening because of four years of war between Russia and Ukraine. European leaders also worry that American military support is becoming unreliable. The Trump administration wants to pull back U.S. military aid as part of its policy. In May, Defense Secretary Hegseth told Asian allies to invest heavily in their own defense instead. EU countries have sent nearly eighty-three billion dollars in military support to Ukraine since 2022. They must spend more as the Pentagon winds down its leadership of a training group in July. Former analyst Huw van Steenis noted that European spending now covers subsea cables and energy grid safety.\n\nPublic policy lecturer Linda Bilmes expects Democrats to shift U.S. money toward diplomacy and United Nations dues. Meanwhile, expert Rebecca Patterson warned that global defense spending could drive up interest rates and inflation. Higher government borrowing costs could mean higher mortgage rates for regular families. We will watch how Congress rewrites the defense budget in the coming months.\n\nNow, let us turn to energy markets across the globe.\n\nGlobal fuel markets saw lower diesel prices as Middle East exports recovered. Diesel prices had stayed elevated since the start of the Iran war and the Strait of Hormuz blockade. Prices have fallen sharply in recent weeks as Gulf exports recover. Global oil supplies are getting back on track for the first time since February. People in Europe are currently feeling this price drop.\n\nNext, we move to big news in the artificial intelligence industry.\n\nWhy are giant technology companies watching one artificial intelligence startup so closely? Anthropic is launching its stock market debut while carrying billions of dollars in investments and massive spending deals.\n\nLet us look at how Anthropic became such a big player in tech. A team of artificial intelligence researchers founded Anthropic to build safe digital systems. They created a popular computer tool called Claude that answers questions and writes text. To train these complex models, AI companies need massive amounts of expensive computer chips and power. Anthropic partnered with major technology firms like Amazon and Google to get that funding. Amazon invested heavily and built a special data center in Indiana using its own chips. Tech giants like Microsoft, Nvidia, Google, and Amazon invested twenty-six billion dollars into Anthropic. The company also signed enormous long-term contracts for data centers and specialized computer chips. Anthropic agreed to spend at least one hundred ten billion dollars with Amazon over ten years.\n\nNow, Anthropic is launching its initial public stock offering on the Nasdaq exchange on Thursday. The company expects its stock price to land between seventy and seventy-eight dollars per share.\n\nThis listing could raise over ninety billion dollars for Anthropic. That cash will add to the one hundred thirty-two billion dollars the company already holds. Financial filings show Anthropic recorded a net loss of one hundred four billion dollars early this year. The company has committed to spend over nine hundred billion dollars total on computing infrastructure. That includes three hundred billion dollars for data centers and chips. It also includes up to one hundred fifty billion dollars for Google chips starting in 2028. Analyst Joe Fath called these spending numbers difficult to understand because they are so large.\n\nMeanwhile, tech markets face growing uncertainty. The Nasdaq index fell five point three percent in October and dropped further in November. Nvidia stock dropped thirteen percent after reports of multiple affairs involving chief executive Jensen Huang. Huang was removed from his post, and chief financial officer Colette Cress became interim chief executive.\n\nAnthropic is going public now because it urgently needs cash to pay for its massive computing needs. In the past, the company admitted that running out of computing capacity hurt its product development. Rising interest rates have also made borrowing harder for the specialized cloud companies that supply power. Political shifts after Democratic midterm wins created new ballot measures that could restrict data center construction.\n\nThis stock launch will test whether investors still want to fund huge artificial intelligence spending. Cloud economist Corey Quinn thinks Anthropic may have to renegotiate its long-term contracts in the future. We will watch Nvidia present its financial results on Tuesday right before Anthropic hits the market.\n\nUp next, we look at another tech company under scrutiny for ties to Nvidia and China.\n\nCould a computer chip company secretly be working for China? A Singapore company called Megaspeed is under investigation for allegedly smuggling restricted tech into China.\n\nTo understand how this happened, we have to look at computer chips. Nvidia makes the world's most advanced artificial intelligence chips. The United States government bans companies from selling these powerful chips to China. The government worries that China could use them for its military. In twenty fifteen, a Chinese gaming company created a firm called 7Road International. In March twenty twenty-three, a shell company owned by a woman named Alice Huang bought it. They renamed it Megaspeed International. Megaspeed said it had only a few employees. Yet it became Nvidia's biggest customer in Southeast Asia. Over three years, Megaspeed bought nearly five billion dollars in Nvidia equipment. Investigators say Alice Huang set up fake companies to buy two hundred forty thousand restricted chips. Intelligence officials suspect she was working for China's Ministry of State Security. Reporters found that Megaspeed's main office in Singapore sat empty. One office in Malaysia was just a broken-down storefront. Another was inside a shopping mall. Megaspeed also built data centers in Malaysia, Indonesia, and Thailand. Investigators suspect these centers gave Chinese firms backdoor access to Nvidia chips.\n\nThe story became major news after reports revealed a secret relationship. Nvidia's chief executive officer, Jensen Huang, had an affair with Alice Huang. Nvidia launched an internal investigation. Jensen Huang apologized to his employees and resigned from Nvidia.\n\nNow, government agencies in both the United States and Singapore are probing Megaspeed. United States Treasury Secretary Scott Bessent criticized the Commerce Department for failing to oversee exports properly. Commerce Secretary Howard Lutnick was called to testify before the Senate Banking Committee next month. An Nvidia shareholder filed a lawsuit claiming Jensen Huang misled investors about security concerns. President Trump said the FBI is also investigating ties between the two Huangs. Megaspeed denies all wrongdoing and claims it conducts lawful business. The company says U.S. and Malaysian officials inspected its sites and found no illegal chip transfers. Megaspeed also stated that Alice Huang left her executive post in August twenty twenty-five. It hired a law firm to investigate its operations. Meanwhile, China denied that Alice Huang is a spy. China warned the United States not to use this scandal to block technology.\n\nThis investigation is happening now because U.S. leaders want to protect national security. Lawmakers want to know how advanced chips ended up abroad. They want to fix loopholes in export controls before more technology leaves the country.\n\nThis matter could lead to tougher rules for technology exports. Watch to see if Congress forces the government to add Megaspeed to a trade restriction list. China expert Jacqueline Deal warned that Nvidia's compliance team may have failed utterly. Nvidia's board stated that company secrets and national security were not compromised. But court filings and government probes could reveal more details about global chip networks soon.\n\nMoving on to space travel.\n\nCan a launch tower catch a giant rocket returning from space? SpaceX just caught part of its Starship rocket using mechanical arms on a launch tower.\n\nTo see why this matters, we need to look at how rockets work. Usually, rockets fall into the ocean after a single launch. Throwing rockets away costs a lot of money. Elon Musk started SpaceX to make cheap, reusable rockets. For years, SpaceX landed smaller Falcon 9 rocket boosters on ocean barges. Now, SpaceX is building Starship, the largest rocket ever built. SpaceX wants Starship to launch thousands of satellites into space. It needs Starship to expand its Starlink internet service, which brings in most of its profits. The company also wants to build space data centers to earn more revenue. NASA plans to use Starship to carry astronauts and cargo to the moon. Musk even has a grand vision to send people to live on Mars. To do all this, SpaceX must catch rockets midair. Catching rockets allows SpaceX to refuel them quickly and launch them again.\n\nOn Test Flight 15, SpaceX tried to catch both main parts of Starship for the first time. The big booster rocket failed to land and exploded in the Gulf of Mexico. But the upper spacecraft kept flying into orbit.\n\nThe rocket's upper stage circled the planet fourteen times. It deployed twenty-six new Starlink version three satellites into orbit. SpaceX already operates over eleven thousand satellites in low Earth orbit. One Starship rocket can carry up to sixty satellites. After orbiting, the spacecraft returned to the launch site in Starbase, Texas. It hovered near the launch tower, nicknamed Mechazilla. Two giant mechanical arms, called chopsticks, reached out and caught the spacecraft. Musk posted a video on X inspecting the captured spacecraft. The flight also caused temporary West Coast flight pauses and a rare nationwide FAA ground stop.\n\nThis test happened now because SpaceX wants to replace its older Falcon 9 rocket. SpaceX president Gwynne Shotwell explained that Falcon 9 is too small for long space trips. SpaceX is spending billions of dollars developing Starship as a public company.\n\nCatching the spacecraft is a historic milestone for reusable rockets. But SpaceX still faces challenges. NASA relies on Falcon 9 to send astronauts to the International Space Station through twenty twenty-eight. If SpaceX retires Falcon 9 early, NASA may need another company like Boeing. But Boeing's space capsule has technical problems and is not ready for humans. Watch to see if SpaceX can successfully catch both rocket parts on its next test flight.\n\nTurning next to global climate talks.\n\nInternational officials urged delegates to resolve disputes at global talks. The United Nations climate chief warned about tactical delays at the COP thirty-one climate talks in Turkey. These delays could prevent a deal to slow global warming.\n\nNext, we look at Beijing's Russia dilemma amid talk of a Xi, Trump, and Putin summit.\n\nCould the leaders of China, Russia, and the United States meet at a summit this week? President Donald Trump says he thinks a meeting with President Xi Jinping and President Vladimir Putin will happen.\n\nLet us look at how these three countries got here. China and Russia built a partnership with no limits in early 2022. President Xi and President Putin have met about 40 times since 2012. They both want to reduce American power across the world. Russia launched a full-scale invasion of Ukraine in February 2022. After that, Western countries tried to isolate President Putin diplomatically. China maintained official neutrality and did not sell weapons directly to Russia. However, China bought Russian energy and supplied high-tech components. A US commission called China a decisive enabler of the war. Yet, intelligence concerns and mistrust remain between Beijing and Moscow. Russian defense firms even accused Chinese companies of stealing intellectual property.\n\nAt the same time, the US relies heavily on China for critical minerals. These minerals make rare magnets for electric vehicles and military weapons. In 2025, America could produce about 4,500 metric tons of these magnets yearly. China had the capacity to make about 210,000 metric tons each year. China restricted some mineral exports last year, which disrupted American manufacturing.\n\nPresident Trump recently announced that a three-way summit might take place in Shenzhen. President Putin first suggested the meeting during a phone call with Trump last month. China has not officially confirmed that the meeting will happen. A Chinese Foreign Ministry official said Beijing is in communication with relevant parties. A Kremlin representative said work on coordination is underway. Trump mentioned Iran and nuclear weapons as possible topics for discussion. He did not mention Russia's war in Ukraine. Trump is also preparing for a direct meeting with President Xi. They may extend a trade truce that expires in January. Extending it could help the US continue receiving important minerals from China. American mining projects in Tennessee and Alaska will not open until 2030 or later.\n\nPresident Putin wants a high-profile meeting to help end his diplomatic isolation. President Trump wants to negotiate trade terms before current agreements expire. Analyst Alicja Bachulska says Beijing feels uneasy about this three-way meeting. China worries that standing with Putin could damage its relations with European powers. European leaders bristle at discussing Ukraine without Ukrainian or European officials present. Trade advisor Samir Kapadia notes many US mineral projects exist mostly on paper. We should watch whether the three leaders actually meet in Shenzhen this week.\n\nTrade and global power are not the only areas where presidential authority faces new tests.\n\nCan one federal judge stop a government policy for the whole country? President Donald Trump is asking the Supreme Court to restrict that judicial power.\n\nHere is how this legal battle began years ago. In 1946, Congress passed a law called the Administrative Procedure Act. This law governs how federal agencies create and enforce their regulations. For decades, judges used this law to strike down agency rules nationwide. Legal scholars explain that this keeps rules equal for everyone in America. For instance, food safety standards must apply to all food companies equally.\n\nSince returning to office in January 2025, Trump faced hundreds of lawsuits over his policies. Opponents used the 1946 law to fight his immigration moves and funding cuts. In June 2025, the Supreme Court limited nationwide injunctions in a separate case. However, that ruling did not change how judges use the Administrative Procedure Act. President Joe Biden's administration also asked the court to limit judge power in 2023. The Supreme Court did not take up that request back then.\n\nThe Trump administration filed a new appeal now pending before the Supreme Court. This appeal comes from a lawsuit over healthcare rules in Texas. A court of appeals voided parts of a medical billing rule nationwide in August. The rule was intended to limit unexpected medical bills for patients.\n\nThe Justice Department is not arguing whether the billing rule itself is legal. Instead, it argues that courts should only protect the specific plaintiffs who sue. The administration says judges must not shut down an entire regulation for everyone. The Supreme Court is expected to consider taking the case early next year.\n\nPresident Trump wants to insulate his policy agenda from broad legal challenges. His administration seeks flexibility to enforce rules while long court battles continue. Expert Aditya Bamzai says a win gives the executive branch far more flexibility. Law professor Ronald Levin warns that removing illegal rules would take much longer. State governments argue this judicial tool is essential to prevent executive overreach. We should watch if the justices agree to hear this case early next year.\n\nWhile courts debate presidential power at home, military leaders are re-examining forces abroad.\n\nWill the United States withdraw tens of thousands of American troops from Europe? The Pentagon is now considering much smaller troop reductions than European allies feared.\n\nLet us trace how this military footprint developed over time. The United States has long kept about 80,000 military troops posted in Europe. The largest American force is stationed at bases across Germany. American leaders have long argued that European allies must pay more for defense. Defense Secretary Pete Hegseth ordered a full review of European troop levels in 2026. He stated that Europe must take primary responsibility for its military defense. In 2025, Congress passed a law preventing cuts below 76,000 troops without risk studies.\n\nMeanwhile, a war involving Iran continued to drag on in the Middle East. The US military relies heavily on European bases and airspace to launch operations there. British Defense Secretary Wes Streeting noted American forces in Europe serve US interests.\n\nMilitary planners realized that deep troop cuts could harm American operations elsewhere. People familiar with the matter shared updated expectations about the review. European allies previously feared losing up to 25,000 American troops. Allies now expect an overall reduction of about 5,000 troops. Most of these reductions will focus on forces in Germany. Eastern European countries bordering Russia offered to help pay costs to keep troops. Undersecretary Elbridge Colby will deliver a formal report to Defense Secretary Hegseth. Hegseth is expected to present final recommendations to President Trump by December first. US NATO envoy Matt Whitaker said he does not expect anything big.\n\nThe Pentagon shifted because it relies on European bases for the Iran conflict. US officials also reacted favorably to increased defense spending by NATO allies. Final approval rests with President Donald Trump. A potential Democratic takeover of Congress after the November third elections could limit future cuts. We should watch for the official recommendations delivered on December first.\n\nNext, we turn to how Singapore plans to seek expanded regional trade ties while leading ASEAN in 2027.\n\nHow can Southeast Asian countries grow their economies together in the coming years? Singapore plans to build stronger world trade ties when it leads the region in 2027.\n\nASEAN is a regional group made up of ten countries in Southeast Asia. These countries include Singapore, Indonesia, Thailand, and Vietnam. Decades ago, these nations realized they could help each other trade goods more easily. So they worked together to lower trade taxes, called tariffs. Over time, they built major deals with big partner countries. One key deal is called the Regional Comprehensive Economic Partnership, or RCEP. It includes fifteen countries like Australia, China, Japan, South Korea, and New Zealand. RCEP was started back in 2011 to unite these trade rules into one system. This made buying and selling goods across boundaries much cheaper for companies. ASEAN also built relationships with major global partners like America, Canada, and the European Union. These deals helped regional businesses sell their products across the entire globe. However, companies still face extra costs and rules that are not trade tariffs.\n\nWorld trade has faced more barriers and protection rules in recent times. Now, regional leaders are looking for fresh ways to expand their international links.\n\nOn Nov 15, Singapore Prime Minister Lawrence Wong spoke with the ASEAN Business Advisory Council. He explained that Singapore will seek expanded trade partnerships when it chairs ASEAN in 2027. He highlighted ongoing trade talks with Canada and interest in an agreement with the European Union. He also suggested closer ties with the Gulf Cooperation Council in the Middle East. A working group also approved membership applications from Bangladesh, Chile, Hong Kong, and Sri Lanka for RCEP. Uruguay has also expressed interest in joining the pact. PM Wong also met Brazil President Luiz In\u00e1cio Lula da Silva on the sidelines of the summit. In a Facebook post, he congratulated President Lula on his historic fourth term. They discussed how the MERCOSUR-Singapore free trade deal can boost cooperation across their regions. PM Wong also mentioned the ASEAN Digital Economy Framework Agreement signed on Nov 14. This digital agreement sets common rules to make digital trade easier across the region.\n\nNext year marks the 60th anniversary of ASEAN. It marks 50 years of dialogue with America, the EU, and Canada. It also marks 30 years of the ASEAN Plus Three framework with China, Japan, and South Korea. Leaders want to use these milestones to strengthen open partnerships across the globe.\n\nExpanded agreements could help regional businesses move goods with fewer unexpected costs. It could keep the region competitive while other areas add trade barriers. Listeners should watch how effectively member states put the new digital rules into practice. PM Wong noted that real implementation remains the true test for these trade pacts.\n\nNow, let us turn to a personal financial challenge that millions of young workers face.\n\nWhy is picking a health insurance plan so confusing for young adults entering the workforce? High costs and complex choices leave many young workers without any health coverage.\n\nYears ago, the United States built healthcare.gov under the Affordable Care Act. This official website allows people to compare health plans and buy private coverage. The government offers financial assistance based on how much money a worker earns. System rules use a sliding scale for households under 400 percent of the poverty rate. People with lower incomes receive larger tax credits toward their monthly costs. However, sorting through insurance terms like premiums, deductibles, and copays can feel overwhelming. A premium is the monthly price you pay to keep your plan active. A deductible is the cash amount you pay before your insurance steps in. A copay is a fixed cost paid during a clinic visit or prescription pickup.\n\nThe Trump administration cut funding for independent assister nonprofits by roughly 90 percent in 2025. The Centers for Medicare & Medicaid Services said the program was inefficient. They stated it cost more than one thousand dollars per person enrolled. In Ohio, the number of paid navigators dropped from 50 to five in 2025.\n\nTwenty-two-year-old DJ Mikunda works as a gas station manager in St. Louis. He has gone without insurance since 2023, when he left home and lost Medicaid coverage. He has a chronic joint condition that went virtually untreated without coverage. HealthQ connected Mikunda with independent assister Jackie Shrago for help. Shrago has helped people use the marketplace since the early days of the act. She explained that a single 2027 enrollee making up to $63,480 qualifies for a discount. According to KFF, a mid-20s individual earning $50,000 receives an average 23 percent discount. For someone making $30,000, tax credits cover nearly three-quarters of the total cost. Shrago warned Mikunda that making more than expected could mean owing money back on taxes. Mikunda must balance monthly payments with out-of-pocket costs for his chronic joint condition. Unlike brokers, independent assisters cannot charge fees or take money from insurance companies.\n\nOpen enrollment faces a federal marketplace deadline on Jan 15. Assisters tend to have the least availability right before that deadline.\n\nShrago advises shoppers not to rush their choices if they feel uncertain about options. Finding a comfortable medium between monthly rates and care needs is a key financial choice. Listeners can search healthcare.gov for free local assisters listed in their ZIP code.\n\nNext, we look at a major travel disruption that affected flights across the nation.\n\nWhat caused thousands of flights across America to come to a sudden halt? An aging router overloaded the air traffic control system during routine wire maintenance.\n\nAir traffic control relies on computer networks to track planes and guide pilots safely. Over the decades, many facilities used old copper wires to transmit important flight data. The Federal Aviation Administration has been replacing these old copper wires with fast fiber cables. About 70 percent of the system has already been switched to fiber. Modernizing air traffic control started last year after Congress approved 12.5 billion dollars. Nationwide ground stops are extremely rare events in American aviation history. The last nationwide ground stop happened in January 2023 due to a system malfunction. Before that event, the previous national ground stop occurred after September 11, 2001.\n\nOn Friday afternoon, a contractor worked on replacing old copper wire in a remote location. The router being replaced suddenly flooded the system with massive logon attempts. This hardware surge caused communication and radar feeds to become unstable across 17 facilities.\n\nAt 3:36 p.m. Eastern Time on Friday, the FAA ordered a nationwide ground stop. Administrator Bryan Bedford made the call out of caution while over 3,500 planes were airborne. All airborne planes landed safely, and the ground stop was lifted after over four hours. Around 12,000 flights were unable to take off on Friday, leaving thousands of travelers stranded. Transportation Secretary Sean Duffy said a contractor for L3Harris was replacing the router. Senior government sources said the issue involved Cisco 600 series routers made between 2001 and 2006. Officials confirmed there was zero evidence of a cyberattack, foreign activity, or artificial intelligence involvement. Homeland Security Secretary Markwayne Mullin affirmed that no lives were put at risk during the event. By Sunday, over 1,400 flights were canceled and 2,200 were delayed as airlines reset schedules. Secretary Duffy and President Trump are now asking Congress for 30 billion dollars more for upgrades. Democratic Representatives Rick Larsen and Andre Carson noted only one billion of earlier funds was used. Airlines are waiving change fees and offering full refunds or free rebooking for affected travelers. Microsoft also noted its recent service outage was entirely unrelated to the FAA flight disruption.\n\nThe disruption happened because routine maintenance on legacy hardware triggered an unexpected system overload. Officials wanted to ensure absolute airspace safety while identifying the root cause of the instability.\n\nSecretary Duffy expects operations to run at full capacity heading into Monday. Schedules are smoothing out just in advance of the busy coming Thanksgiving travel rush. Travelers should check flight statuses with their airlines, as delays continue while planes reset locations. Watch for congressional hearings on Monday regarding air traffic control funding and safety oversight.\n\nBefore we go, here is your thought for the day.\n\nHave you ever typed out a sharp, well-reasoned reply to a frustrating online post? You read it over once. You select all the text and hit backspace. Then you walk away without leaving a single trace.\n\nThe impulse to engage online is immediate. However, the math of online conflict has changed. Most people quickly realize that defending a point to strangers costs far more energy than it returns.\n\nAs a result, comment sections no longer represent general consensus. They only show who has the stamina for endless notifications. The silent majority has quietly opted out of digital arguments mid-sentence. They have embraced the art of the ghost reply.\n\nThis quiet choice brings a surprising sense of relief. Taking a moment to pause changes how we handle frustration online. The ultimate modern luxury is discarding the draft.\n\nWhen you run into a frustrating comment today, consider how you spend your attention. Ask yourself one question. Will sending this message bring real value, or will you enjoy discarding the draft instead?\n\nThank you for spending time with Sift In-Depth. Take a quiet breath, and we will talk again soon.",
+    "script": "Welcome to your Sift In-Depth Briefing. This is the full analysis of today\u2019s top stories.\n\nHow can the United States stop China from getting the most powerful computer chips? The government is now forcing companies in five countries to get special permission before sending these chips to overseas data centers. For years, the U.S. has tried to keep its most advanced artificial intelligence technology out of China. Officials worry that if China uses these chips, they could build powerful intelligence models that threaten American security. Because of this, the U.S. previously banned companies like Nvidia from selling their best chips directly to Chinese firms. However, Chinese companies began using data centers in other countries to access the chips remotely. This allowed them to bypass the rules.\n\nThe situation changed when the Commerce Department realized that smugglers were finding ways to get these chips to China anyway. There was also a recent scandal involving a former executive at a company called Megaspeed. Reports alleged that she helped divert restricted chips to China, which led to the resignation of Nvidia\u2019s CEO, Jensen Huang. These events pushed the government to act.\n\nOn Monday, the U.S. Commerce Department released a new rule. It requires exporters to get a license before sending advanced AI chips to firms in Brazil, Indonesia, Malaysia, Singapore, and Thailand. These countries were chosen because the U.S. sees a high risk that chips sent there could be illegally diverted to China. Companies must now do careful checks on their customers to ensure the chips are not being used to help China or other restricted nations. Nvidia, which holds about 90 percent of the market for these chips, saw its stock price fall about 1.6 percent after the announcement.\n\nThis is happening now because the U.S. is under pressure to close these loopholes before President Trump meets with President Xi in Shenzhen this week. Officials want to show they are serious about protecting sensitive technology.\n\nLooking ahead, this could make it harder and more expensive for Chinese firms to train their AI models. We will have to watch if these new checks actually stop the smuggling, or if companies find yet another way around the rules.\n\nMoving on, why is the European Union putting extra taxes on steel from five different countries? The EU decided to charge these countries more because it says they are selling their steel at unfairly low prices. The European steel industry has been struggling for some time. Companies in Europe say they cannot compete when steel from places like India, Japan, and Taiwan arrives at such cheap prices. They argue this puts European factories and thousands of jobs at risk. In 2025, a group called Eurofer asked the European Commission to investigate these low prices.\n\nThe investigation changed things by using a new method to judge pricing. Usually, the EU compares a country's export price to what they charge at home. But the Commission found what it calls \"particular market situations\" in India and Taiwan. In India, the EU claims government rules on iron ore costs made local prices artificial. In Taiwan, they say cheap Chinese steel flooded the market and pushed prices down. Because of this, the EU decided to ignore those local prices and set its own values to calculate the taxes.\n\nStarting November 17, the EU will apply these new \"anti-dumping\" duties. Japan faces the highest tax at 27.9 percent. Vietnam will see a 16 percent tax, while India faces 9.5 percent. Turkey\u2019s taxes range from 3 to 7.8 percent, and Taiwan\u2019s rates are between 20.7 and 27 percent. This affects a market worth over 23 billion euros. These duties are intended to protect the 8,600 people employed in the EU's own steel production.\n\nThis is happening now because the Commission wants to show it can create new tools to fight trade practices it considers unfair. It sees this case as a way to set a standard for future trade disputes.\n\nThis could lead to higher costs for European companies that buy steel for cars, planes, and buildings. We should watch to see if these countries challenge the EU\u2019s decision at the World Trade Organization.\n\nAverage diesel prices in the United States dropped below six dollars per gallon on Monday for the first time since September 10. This change follows a recent decline in oil prices. Diesel costs had previously risen sharply during the war involving Iran, which caused price increases throughout the economy.\n\nNvidia is now working with IBM and Fermilab on a new platform designed to help scientists build better quantum computers.\n\nHow can scientists build powerful quantum computers that do not make so many mistakes? Nvidia is teaming up with IBM and Fermilab to connect classical supercomputers directly to quantum hardware.\n\nQuantum computers use quantum physics to process information in ways normal computers cannot. However, today's quantum processors constantly make errors while running calculations. These frequent errors limit how long and how complex calculations can be. To fix this, scientists use a method called error correction. This process spreads each piece of quantum data across multiple physical bits, called qubits. Next, a classical computer program called a decoder reads measurements to fix the errors. Fermilab is the Department of Energy's Fermi National Accelerator Laboratory. Fermilab has worked with Nvidia software before to design quantum systems. In September, Nvidia software cut a Fermilab design project from five months to three weeks. In October, Nvidia simulated a 104-qubit quantum computer on Germany's JUPITER supercomputer.\n\nNvidia announced a new partnership with IBM and Fermilab to build a quantum testing platform.\n\nThe three partners will link Nvidia DGX B200 systems with IBM quantum computers. These include machines running IBM's Nighthawk processor. Nvidia called Nighthawk the fastest quantum processor IBM has delivered. Researchers will use the system to build error-correction codes for high-energy and nuclear physics. Anna Grassellino from Fermilab described the project as a proposed platform. The partners did not provide a start date or a cost for the project. Nvidia also introduced a new decoder called TCBP-JOBS in its software library. Nvidia claimed it decodes up to 13,000 times faster than leading existing algorithms. The company said this cuts research computing time from 12 weeks down to 45 minutes. Additionally, IBM and Japan's RIKEN institute paired a quantum computer with a supercomputer. They calculated binding energies for drug models containing up to 12,635 atoms. The previous benchmark for this kind of calculation was only 303 atoms. Nvidia is also adding a quantum interface to Slurm supercomputer scheduling software. Today, each research centre must build its own custom setup to handle quantum tasks.\n\nScientists need faster decoders because quantum computers cannot grow without better classical computing power. Jerry Chow from IBM said scaling quantum and classical together will open new scientific frontiers.\n\nThis work could help set the rules for building future fault-tolerant quantum computers. Faster calculations may also help scientists discover new medicines and materials sooner. Listeners should keep in mind that the platform remains a proposal without set funding. We should watch to see when the companies announce an official start date.\n\nNext, we look at global discussions about money and the environment.\n\nWhy are poor nations struggling to get climate money from wealthy countries? Rich nations are focusing on domestic costs and war, slowing down climate funding for vulnerable countries.\n\nTwo years ago, rich countries agreed to triple climate funding for poorer nations. They promised 300 billion dollars per year by 2035. They also set a goal of 1.3 trillion dollars annually from all sources combined. However, rich countries met their earlier 2020 climate funding target two years late. Since then, climate action has slipped down the political agenda for Western governments. United States President Donald Trump withdrew international funding and left the Paris Climate Agreement. In addition, wars in Ukraine and West Asia increased inflation and raised security costs. The Stockholm International Peace Research Institute estimated world military spending reached 2.89 trillion dollars in 2025. That was up 2.9 percent in real terms from 2024.\n\nDelegates from over 190 countries gathered in Antalya, Turkiye, for the COP31 climate conference.\n\nVulnerable small island nations reported that necessary repair cash is arriving far too slowly. Solomon Islands Prime Minister Matthew Wale stated his country remains in a perpetual climate recovery mode. The Solomon Islands pledged 400,000 dollars of its own money to show leadership. The Bahamas committed 75 million dollars to protect seagrass meadows that store carbon. Marshall Islands President Hilda Heine appealed to delegates to find money for life, not death. Meanwhile, Britain used savings from climate grants to fund a cap on domestic bus fares. Analysis by Brazil showed climate finance reached 137 billion dollars in 2024. However, Brazil reported that funding could fall 840 billion dollars short of the annual goal. The United States did not send an official delegation to the summit for the second year. Outside the talks, over 10,000 protesters marched to demand urgent climate action and worker rights. Lala Pe\u00f1aranda from Trade Unions for Energy Democracy called for energy to remain a public right. Turkish labor activist K\u0131van\u00e7 Elia\u00e7\u0131k noted that Turkiye recently announced two new oil fields.\n\nHost nation Turkiye and co-host Australia want to focus on making past pledges work. Australian negotiator Chris Bowen stated climate finance must become faster, simpler, and fairer.\n\nHSBC sustainability officer Julian Wentzel said private investors need predictable costs before investing. Multilateral development banks reported record lending levels in 2025 according to the European Investment Bank. These banks have pledged to simplify application rules so money reaches poor nations faster. Listeners should watch whether rich nations increase grant commitments before the summit ends next week.\n\nNow, we turn to a major failure in the private space launch business.\n\nWhat caused a top space company to lose dozens of Amazon satellites during launch? A Vulcan rocket built by United Launch Alliance failed mid-flight, destroying all forty satellites on board.\n\nBoeing and Lockheed Martin created United Launch Alliance in 2006 to build reliable rockets. Before this week, the company maintained a perfect 100 percent launch success record for two decades. Amazon hired the alliance to launch satellites for its new internet network, named Leo. Amazon has booked 38 flights on the Vulcan rocket to build its network. Amazon wants Leo to rival SpaceX's Starlink network, which operates more than 11,000 satellites. However, Amazon has faced severe delays getting its satellites into space. SpaceX builds its own rockets, but Amazon must buy launches from external providers. In May, a New Glenn rocket built by Blue Origin suffered an engine explosion on the launchpad. Amazon also booked 24 flights on that New Glenn rocket. The Vulcan rocket experienced earlier booster problems during a mission for the United States Space Force. Because of those earlier issues, the Pentagon had not yet approved Vulcan for national security missions.\n\nOn Sunday, a Vulcan rocket launched from Cape Canaveral in Florida carrying forty Amazon Leo satellites.\n\nRoughly ten minutes after liftoff, the rocket suffered an anomaly and failed to reach orbit. The failure destroyed all forty Amazon satellites carried inside the rocket. This marked the very first mission failure for United Launch Alliance since its founding. The first-stage engines fired longer than expected before the stages separated. The anomaly then occurred after the hydrogen-powered Centaur upper stage engines began their planned burn. United Launch Alliance stated that every flight generates data and teaches engineers something new. Amazon stated it believes the launch alliance will learn from the failure and continue long-term plans. Currently, Amazon has deployed about 390 satellites, which is 12 percent of its planned target. The Federal Communications Commission requires Amazon to have 1,600 satellites in orbit by July 2026. Amazon ultimately aims to launch 3,232 satellites for complete global coverage by July 2029.\n\nThis launch was Vulcan's first flight in nine months following earlier safety investigations into its engines. The company was trying to establish a regular launch schedule for Amazon before this failure happened.\n\nEngineers expect a lengthy investigation that could keep the Vulcan rocket grounded for several months. This grounding could deepen a broader launch bottleneck across the United States space industry. SpaceX is no longer taking new bookings for its Falcon 9 rocket, limiting options for satellite companies. Listeners should watch to see if Amazon can still meet its strict 2026 government deadline.\n\nUp next, we examine questions from Scott Bessent about Nvidia's earnings and chip sales in China.\n\nDid Nvidia use illegal chip sales to China to boost its profits? U.S. leaders are currently arguing over whether the government failed to stop improper chip sales.\n\nNvidia is the leading American company that designs advanced computer chips for artificial intelligence. These specialized chips help computers learn fast and run powerful smart programs. The United States government puts strict rules on exporting these high-tech chips to foreign countries. Officials set these trade controls to protect national security and keep America's technology advantage. But a Singapore technology company named Megaspeed came under investigation for violating these rules. Intelligence officials suspect Megaspeed helped move restricted Nvidia chips to buyers in China. Officials also suspect a former Megaspeed executive, Alice Huang, has links to Beijing. Reports revealed former Nvidia chief executive Jensen Huang had a personal relationship with Alice Huang. The Commerce Department maintains a trade blacklist called the Entity List. Placing a foreign company on this blacklist limits its access to American tech. Commerce Secretary Howard Lutnick controls which foreign companies get added to this list.\n\nTreasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick for delaying action against Megaspeed.\n\nBessent said several government agencies wanted to blacklist Megaspeed months ago. But he said the Commerce Department held the pen and failed to act. President Donald Trump addressed the rift between his two cabinet officials. Trump said Lutnick delayed restrictions to avoid escalating trade tensions with Beijing. Trump stated he understands both sides, and he ruled out firing Lutnick. Meanwhile, Senator Maria Cantwell sent a letter to Lutnick on Sunday. She alleged the department failed to stop China from accessing top American AI technology. Cantwell noted Lutnick's sons control a firm that held 1.2 billion dollars in Nvidia stock. Senate Banking Committee Chair Tim Scott summoned both Lutnick and Jensen Huang to testify in December. Senator Elizabeth Warren and Senator Chris Coons instructed officials to preserve all documents about chip exports.\n\nThis political battle comes right before planned meetings between American officials and Chinese President Xi Jinping.\n\nDemocrats will take control of Congress in January and plan to investigate these chip exports thoroughly. Tighter export enforcement could slow down chip sales for tech companies operating in Asia. But failing to enforce trade rules could allow foreign rivals to train advanced artificial intelligence. Watch to see if Congress pushes for stricter trade limits when Lutnick testifies next month.\n\nTurning to our next story, energy shortages are creating serious challenges across the Middle East.\n\nWhy is Iran facing major natural gas shortages as winter begins? Recent military strikes by the United States and Israel damaged key energy processing plants.\n\nIran holds the second largest natural gas reserves in the whole world, right behind Russia. Natural gas is vital for Iran, making up 73 percent of its energy mix. Households rely on gas for home heating, while factories use it to power production. But Iran's energy system suffers from old equipment, poor storage capacity, and inefficient public consumption. Years of international sanctions restricted funding and made getting repair tools very hard. The situation worsened on February 28, when U.S. and Israeli strikes killed Supreme Leader Ayatollah Ali Khamenei. Then on March 18, 26 projectiles struck six major gas processing refineries in Iran. That military attack knocked out 28 percent of Iran's gas production capacity right away. Workers restored about 100 million cubic meters per day of processing capacity since then. But government officials say fully restoring the remaining capacity could take until 2028.\n\nCold winter weather is now arriving, which causes household gas use to rise very quickly.\n\nIran's government forecasts a peak gas deficit of 430 million cubic meters per day this winter. That is much larger than last winter's deficit of 300 million cubic meters per day. Government spokesperson Fatemeh Mohajerani warned gas might be cut off across the entire country. She said 11 of Iran's 31 provinces face severe risks of heating cutoffs. The government ordered state offices to reduce their gas consumption by 20 percent. Offices must set thermostats to 64 degrees Fahrenheit and turn off heat on holidays. Inspections already led to gas cutoffs at six Tehran government buildings, including the Education Ministry. Zagros Petrochemical Company was forced to shut down a methanol production unit until further notice. To prevent power blackouts, power plants will burn heavy oil called mazut, which heavily pollutes air. Senior Iranian sources told reporters Iran is now in talks to import gas from Russia.\n\nTemperatures are dropping quickly, while a naval blockade makes importing food and goods harder during war.\n\nIranian leaders fear gas shortages could trigger public unrest during an already severe economic crisis. High inflation and destroyed jobs have already made daily life very difficult for ordinary citizens. If factory gas gets shut off, more people could lose work and prices could rise. Watch to see if Iran can secure emergency natural gas imports from Russia before winter deepens.\n\nNext, we look at how health policy leaders are navigating changing political control in Washington.\n\nWhy are medical school leaders staying cautious after Democrats won control of Congress? New political leaders might not automatically solve financial pressures and policy threats facing health organizations.\n\nThe Association of American Medical Colleges represents thousands of medical educators, doctors, and health researchers. Over the past two years, medical schools faced deep policy struggles during President Trump's second term. The administration considered reducing federal research funding through the National Institutes of Health. Officials also proposed cuts to Medicaid and costly visa restrictions for foreign medical workers. International medical graduates make up one quarter of all practicing doctors in the United States. These proposals threatened to place severe financial stress on teaching hospitals and medical schools. Medical leaders argued these changes would harm public health and stall important scientific discoveries. Then, Democrats won control of both the House and Senate in recent midterm elections.\n\nOver four thousand medical school leaders gathered in Southern California for their annual conference to plan ahead.\n\nGroup official Danielle Turnipseed warned attendees that a Democrat-led Congress will not make their challenges disappear. Chief executive David Skorton said he remains concerned about how federal research grants get reviewed. Congress previously blocked the White House from putting grant reviews under direct political control. But that protective measure is set to expire on December 11. Skorton warned the administration might still attempt to change rules agency by agency. He also noted that Senator Susan Collins, a major Republican champion for research, lost her election. However, Skorton expressed optimism that research funding will keep receiving support from both political parties. He emphasized that medical groups must earn back public trust by being transparent about research spending.\n\nMedical leaders are setting their strategy right as new lawmakers prepare to take office in Washington.\n\nIf federal rules change, political officials could gain more control over which scientific projects get funded. Tighter visa rules could also limit the number of foreign doctors entering American hospitals. That might lead to doctor shortages and longer wait times for patients seeking medical care. Watch to see if Congress extends the protection against political grant reviews before December 11.\n\nNow, we turn to Europe, where British farmers hope a new UK-EU deal will revive post-Brexit trade.\n\nBritish farmers want a new trade deal to lower border barriers with Europe. One farmer in Sussex hopes a proposed agreement between the United Kingdom and Europe may ease trade rules. Farmers across the country are pushing for these changes to make moving goods easier. A reporter from Al Jazeera spoke with the Sussex farmer about these trade barriers.\n\nMoving on to news in the technology world.\n\nBlackstone has acquired a majority stake in data center joint ventures with Amazon. The investment trust took a majority interest in two joint ventures with Amazon Web Services. This deal focuses on data centers shared by the companies.\n\nNext, let us look at global money markets.\n\nWhy is the United States dollar rising while Japan's economy shrinks? The American dollar reached its highest level in nineteen months because investors expect higher interest rates.\n\nCurrencies are the national money that people and businesses use every day. When a central bank raises interest rates, holding that country's currency earns more money. Because of those higher returns, investors around the world buy more of that currency. Central banks like the Federal Reserve in the United States set these rates to guide growth. If inflation rises too fast, central banks often raise rates to slow down spending. When economic growth slows down, central banks may pause rate hikes to help businesses. Over time, currency values change constantly as investors try to guess future central bank moves.\n\nLast week, several Federal Reserve officials gave hawkish comments favoring higher rates. At the same time, new data showed United States inflation was hotter than expected. Because of those events, traders increased their bets on quicker interest rate hikes.\n\nToday, the dollar index rose 0.1 percent to 103.52, its highest point in nineteen months. This was the fifth straight day of gains for the American greenback. Investors are waiting to hear comments from Federal Reserve chair Kevin Warsh. According to the CME Group FedWatch tool, traders see an 89.7 percent probability of a 25-basis-point hike. They also see a 10.3 percent chance of a larger 50-basis-point hike in December. Meanwhile, Japan reported that its economy contracted by an annualised 0.1 percent in the third quarter. That result was weaker than expected growth of 0.3 percent. Despite that soft data, the Japanese yen traded flat against the dollar at 159.59 yen. It was 0.1 percent stronger against the euro at 175.81 yen. Other currencies fell against the dollar. The euro dropped 0.1 percent to 1.1010 US dollars. The British pound fell 0.2 percent to 1.3189 US dollars. The Australian dollar fell 0.3 percent to 0.6751 US dollars. The kiwi dollar dropped 0.2 percent to 0.5516 US dollars. In crypto markets, Bitcoin fell 1.2 percent to 64,261 US dollars after a weekend drop. Ether dropped 1.3 percent to 1,794 US dollars.\n\nThis shift is happening right now because recent inflation data raised expectations for rate hikes. Markets are also pausing before big announcements from major technology companies later this week.\n\nFrancesco Pesole, an FX strategist at ING, said weak technology earnings could push the dollar down. He pointed to Nvidia earnings and Anthropic's market debut as key events to watch. Masahiko Loo, chief fixed-income strategist at State Street Investment Management, offered another view. He expects Japan's central bank to look past the soft economic data unless domestic wages drop. He also noted that government intervention risk rises if the yen weakens into the 160s. Listeners should watch upcoming Fed speeches and tech earnings for future currency moves.\n\nBefore we go, here is your thought for the day.\n\nHave you ever wondered why office chairs are almost always covered in rough, multi-colored fabric? You might think it was picked for soft comfort or modern style. However, it is actually a practical choice made by facilities managers. They use this synthetic fabric to keep offices looking clean over time. The mottled pattern with dark flecks is engineered to hide everyday wear and tear. It easily conceals everything from accidental coffee spills to tiny skin cells. By masking those spots, it prevents chairs from looking neglected. This saves money because chairs do not need to be replaced as often. Beyond hiding dirt, the dense weave serves another important purpose. It acts like an acoustic sponge across the entire office floor. The thick fabric absorbs ambient noise from the room. It also muffles creaking sounds when people shift in their seats. Without this material, a quiet office might sound like a hollow, echoing space. It is a chair designed to hide your mess and swallow your silence. Next time you sit down at your desk, notice the fabric beneath you. What other everyday items around you were designed to solve invisible problems?\n\nThank you for joining us on Sift In-Depth. Take a moment to enjoy the quiet, and we will talk again soon.",
     "audioUrl": "https://roshanroytk-ui.github.io/sift-data/daily_brief_indepth.mp3",
-    "estimatedDurationSeconds": 1846
+    "estimatedDurationSeconds": 1627
   },
   "candidatePool": [
     {
-      "title": "Social Security taxes in 2026: 8 states taxing benefits, federal tax limits and retirees' costs",
-      "description": "Social Security taxes in 2026: Check the 8 states taxing benefits, federal income limits and tax exemptions to know how much retirees may owe.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/social-security-taxes-in-2026-8-states-taxing-benefits-federal-income-limits-and-how-much-retirees-may-owe-101794737887322.html",
+      "title": "As Jensen Huang watches his $136 billion wealth tumble, the ex-Nvidia CEO is being praised as \u2018the only billionaire willing to pay his share of taxes\u2019",
+      "description": "Ex-Nvidia CEO Jensen Huang's fortune has fallen more than $50 billion from its peak, but he stands apart from billionaires in being willing to pay taxes.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/",
+      "category": "Financial",
+      "readingTime": 2,
+      "score": 19,
+      "why": "Corporate tax practices may face increased public and political scrutiny.",
+      "context": "The former Nvidia CEO has seen significant wealth loss while receiving praise for his tax policies.",
+      "next": "Billionaire compensation and tax models will likely become public talking points.",
+      "bigger": "Wealth inequality is fueling a global debate on corporate taxation.",
+      "publishedAt": "2026-11-16T16:17:14+00:00",
+      "topicFingerprint": [
+        "nvidia",
+        "china_entity",
+        "us_entity",
+        "huang",
+        "jensen",
+        "donald_trump"
+      ],
+      "related": [
+        {
+          "title": "Trump says he wouldn\u2019t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again \u2013 as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+          "score": 15,
+          "publishedAt": "2026-11-16T15:43:06+00:00",
+          "overlap": 4.5
+        },
+        {
+          "title": "Who is Leo KoGuan, the Singapore-based billionaire backing Nvidia\u2019s Jensen Huang?",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/business/who-is-leo-koguan-the-singapore-based-billionaire-backing-nvidias-jensen-huang",
+          "score": 8,
+          "publishedAt": "2026-11-16T20:44:00+08:00",
+          "overlap": 4
+        },
+        {
+          "title": "Who is Leo KoGuan, the Singapore-based billionaire backing Nvidia\u2019s Jensen Huang?",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/who-leo-koguan-singapore-based-billionaire-backing-nvidias-jensen-huang",
+          "score": 5,
+          "publishedAt": "2026-11-16T07:59:58+00:00",
+          "overlap": 4
+        },
+        {
+          "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766",
+          "score": 22,
+          "publishedAt": "2026-11-16T16:32:00+00:00",
+          "overlap": 3.5
+        }
+      ],
+      "alternates": []
+    },
+    {
+      "title": "Thai court rejects Thaksin\u2019s bid to stop asset seizure over US$515b tax bill",
+      "description": "A Thai court denied an attempt on Monday by former leader Thaksin Shinawatra to pause the seizure of his assets over a disputed tax bill of more than US$500 million. The Supreme Court ordered the ex-prime minister \u2013 one of Thailand\u2019s richest people \u2013 last November to pay back taxes over the 2006 sal",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374631/thai-court-rejects-thaksins-bid-stop-asset-seizure-over-us515b-tax-bill",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 15,
+      "why": "High-profile tax enforcement may become more aggressive for wealthy individuals.",
+      "context": "A Thai court denied an effort to halt asset seizures related to a massive tax dispute.",
+      "next": "Legal battles over tax liabilities will likely continue for years.",
+      "bigger": "Governments are increasingly using asset seizures to enforce tax compliance.",
+      "publishedAt": "2026-11-16T15:00:09+00:00",
+      "topicFingerprint": [
+        "stop",
+        "thai",
+        "rejects",
+        "thaksin",
+        "seizure"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "China\u2019s central bank withdraws medium-term funds in warning sign to easing bets",
+      "description": "The latest liquidity drain is set to reinforce traders\u2019 cautious mood",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/chinas-central-bank-withdraws-medium-term-funds-warning-sign-easing-bets",
       "category": "Financial",
       "readingTime": 2,
       "score": 14,
-      "why": "Retirees in affected states may keep less of their monthly checks.",
-      "context": "Government guidance detailed upcoming tax rules affecting retirement benefit payments.",
-      "next": "State legislatures will consider proposals to phase out remaining benefit taxes.",
-      "bigger": "State tax policies are increasingly diverging on retirement income treatment.",
-      "publishedAt": "2026-11-15T16:23:05+05:30",
+      "why": "Lending costs may rise for businesses operating within China.",
+      "context": "The Chinese central bank reduced market liquidity, signaling a shift in monetary strategy.",
+      "next": "Investors will likely adjust their expectations for future economic stimulus.",
+      "bigger": "Central banks are tightening liquidity to manage inflationary pressures.",
+      "publishedAt": "2026-11-16T07:10:57+00:00",
       "topicFingerprint": [
-        "limits",
-        "costs",
-        "social",
-        "states",
-        "security"
+        "bets",
+        "term",
+        "warning",
+        "medium",
+        "funds"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "China\u2019s upgraded VT-4B export tank gets fourth-gen Type 100 tech ahead of Zhuhai show",
-      "description": "China has upgraded its VT-4 series main battle tank with cutting-edge technologies aimed at the international market, newly surfaced photos show ahead of the country\u2019s premier defence exhibition in Zhuhai. The appearance of the new tank, believed to be designated as VT-4B, indicates significant upgr",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/military/article/3374478/chinas-upgraded-vt-4b-export-tank-gets-fourth-gen-type-100-tech-ahead-zhuhai-show",
-      "category": "Economy",
+      "title": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
+      "description": "US pressure on Iraq to curb Tehran s influence leaves potential for direct confrontation with Iran-linked armed group.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah",
+      "category": "Geopolitics",
       "readingTime": 2,
       "score": 11,
-      "why": "International defense buyers may get access to cheaper military hardware.",
-      "context": "A major military exporter unveiled upgraded armored vehicles for international buyers.",
-      "next": "The armored vehicle will undergo live demonstrations during the airshow.",
-      "bigger": "Export competition in advanced defense systems is intensifying globally.",
-      "publishedAt": "2026-11-15T08:01:49+00:00",
+      "why": "Political instability in the region may increase significantly.",
+      "context": "Iran has moved military forces into a region dominated by a proxy group.",
+      "next": "Tensions between international powers and local militias will likely rise.",
+      "bigger": "Regional power struggles are intensifying as state actors reassert control.",
+      "publishedAt": "2026-11-16T17:18:14+00:00",
       "topicFingerprint": [
-        "battle",
-        "edge",
-        "main",
-        "cutting",
-        "technologies"
+        "iran",
+        "armed",
+        "iraq",
+        "group",
+        "oil"
       ],
       "related": [
         {
-          "title": "China develops upgraded version of VT-4 tanks used by Pakistan Army",
+          "title": "Iran\u2019s proxy in Iraq rakes in hundreds of millions through oil smuggling",
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/irans-proxy-in-iraq-rakes-in-hundreds-of-millions-through-oil-smuggling",
+          "score": 6,
+          "publishedAt": "2026-11-16T20:59:48+08:00",
+          "overlap": 4
+        },
+        {
+          "title": "Iran\u2019s proxy in Iraq rakes in hundreds of millions through oil smuggling",
           "source": "CNBC TV",
-          "url": "https://www.cnbctv18.com/world/china-develops-upgraded-version-of-vt-4-tanks-used-by-pakistan-army-20034431.htm",
-          "score": 4,
-          "publishedAt": "2026-11-15T19:22:52+05:30",
-          "overlap": 9.5
+          "url": "https://www.cnbctv18.com/world/irans-proxy-in-iraq-rakes-in-hundreds-of-millions-through-oil-smuggling-20035174.htm",
+          "score": 7,
+          "publishedAt": "2026-11-16T18:41:54+05:30",
+          "overlap": 3
         }
       ],
-      "alternates": []
+      "alternates": [
+        {
+          "title": "Iraq orders army to enter stronghold of Iran-backed group",
+          "description": "Prime Minister Ali al-Zaidi \"ordered the armed forces to enter\" Jurf al-Sakher, a stronghold of the powerful, Iran-backed Kataeb Hezbollah group, following accusations of oil smuggling.",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/iraq-orders-army-enter-stronghold-iran-backed-group-6555841",
+          "category": "Geopolitics",
+          "publishedAt": "2026-11-16T21:44:00+08:00",
+          "score": 10,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "iran",
+            "armed",
+            "iraq",
+            "group",
+            "oil"
+          ],
+          "group_id": 1
+        }
+      ]
     },
     {
-      "title": "US sees 40% surge in international student interest after midterm elections: Report",
-      "description": "International students\u2019 interest in studying in the US rose 40% in the week after the November 3 midterm elections, according to Studyportals.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-sees-40-surge-in-international-student-interest-after-midterm-elections-report-101794730580923.html",
+      "title": "Interest in Trump\u2019s meme coin dinner fades as $TRUMP sinks to record lows",
+      "description": "The token\u2019s value in 130 crypto wallets has plummeted 94% to US$8.6 million.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/united-states/interest-in-trumps-meme-coin-dinner-fades-as-trump-sinks-to-record-lows",
       "category": "General",
       "readingTime": 2,
-      "score": 10,
-      "why": "University admissions in popular foreign programs may become more competitive.",
-      "context": "Foreign student interest in domestic universities surged following recent national elections.",
-      "next": "Academic institutions will expand foreign recruitment efforts ahead of fall applications.",
-      "bigger": "Political outcomes strongly influence global academic mobility and student enrollment.",
-      "publishedAt": "2026-11-15T14:52:57+05:30",
+      "score": 11,
+      "why": "High-risk speculative investments may lead to major financial losses.",
+      "context": "A crypto token associated with a political figure has lost significant market value.",
+      "next": "Investors will likely shift away from politically-themed digital assets.",
+      "bigger": "Retail interest in volatile, speculative crypto assets is cooling off.",
+      "publishedAt": "2026-11-16T23:23:24+08:00",
       "topicFingerprint": [
-        "sees",
-        "surge",
-        "student",
-        "midterm",
-        "interest"
+        "lows",
+        "donald_trump",
+        "record",
+        "trump",
+        "sinks"
       ],
-      "related": [],
-      "alternates": []
+      "related": [
+        {
+          "title": "Trump Media faces possible US$1 billion debt repayment as stock nears record lows",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374645/trump-media-faces-possible-us1-billion-debt-repayment-stock-nears-record-lows",
+          "score": 7,
+          "publishedAt": "2026-11-16T17:09:46+00:00",
+          "overlap": 3
+        }
+      ],
+      "alternates": [
+        {
+          "title": "Interest in Trump\u2019s meme coin dinner fades as $TRUMP sinks to record lows",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/interest-in-trumps-meme-coin-dinner-fades-trump-sinks-record-lows-6556211",
+          "category": "General",
+          "publishedAt": "2026-11-16T23:17:04+08:00",
+          "score": 8,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lows",
+            "donald_trump",
+            "record",
+            "trump",
+            "sinks"
+          ],
+          "group_id": 0
+        },
+        {
+          "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
+          "description": "",
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/business/trump-media-faces-possible-1-billion-debt-repayment-stock-nears-record-lows-6556401",
+          "category": "Financial",
+          "publishedAt": "2026-11-17T00:46:49+08:00",
+          "score": 3,
+          "readingTime": 2,
+          "topicFingerprint": [
+            "lows",
+            "donald_trump",
+            "record",
+            "trump",
+            "sinks"
+          ],
+          "group_id": 0
+        }
+      ]
     },
     {
-      "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
-      "description": "Rubio gave a sweeping speech to fellow conservatives on Friday evening acknowledging that Americans are struggling in the current economy, while also railing against what he called the \"weaponization\" of international law to constrain the U.S. from acting in its own interests.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/watch-rubio-delivers-keynote-address-at-federalist-society-national-lawyers-convention",
-      "category": "Policy",
+      "title": "Apple is betting on the App Store to give its smart glasses an edge over Meta and Google",
+      "description": "Apple smart glasses reportedly won't support Android phones.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/apple-smart-glasses-siri-ai-iphone-apps-3735327/",
+      "category": "Technology",
       "readingTime": 2,
       "score": 9,
-      "why": "Federal policy debates over regulation and economic relief may intensify.",
-      "context": "A senior lawmaker addressed legal experts on economic challenges and judicial reforms.",
-      "next": "Conservative legal groups will push for judicial nominees sharing these views.",
-      "bigger": "Economic pressure is sharpening legal and political debates over governance.",
-      "publishedAt": "2026-11-14T11:56:08-05:00",
+      "why": "Your choice of hardware may force you into specific brand ecosystems.",
+      "context": "Apple is reportedly restricting its new smart glasses to exclude support for Android phones.",
+      "next": "Competitors will likely intensify efforts to ensure cross-platform compatibility.",
+      "bigger": "Ecosystem lock-in is becoming the central strategy for consumer tech companies.",
+      "publishedAt": "2026-11-16T07:09:51+00:00",
       "topicFingerprint": [
-        "struggling",
-        "federalist",
-        "rubio",
-        "society",
-        "speech"
+        "betting",
+        "google",
+        "give",
+        "glasses",
+        "store"
       ],
-      "related": [
-        {
-          "title": "Rubio acknowledges \u2019people are struggling\u2019 economically in speech after GOP midterm wipeout",
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout/article71702746.ece",
-          "score": 3,
-          "publishedAt": "2026-11-14T22:30:09+05:30",
-          "overlap": 5.5
-        }
-      ],
+      "related": [],
       "alternates": []
     },
     {
-      "title": "Singtel group CEO Yuen Kuan Moon sells S$8.2 million worth of shares",
-      "description": "This follows the telco\u2019s raising of its FY2027 operating earnings growth forecast to mid to high-single digits",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/singtel-group-ceo-yuen-kuan-moon-sells-s8-2-million-worth-shares",
-      "category": "Financial",
-      "readingTime": 2,
-      "score": 8,
-      "why": "Telecom investors may react to executive stock divestment movements.",
-      "context": "The head of a major telecommunications firm sold company stock holdings.",
-      "next": "Company executives will address shareholder questions during upcoming quarterly earnings.",
-      "bigger": "Executive stock sales draw close market scrutiny during earnings outlook changes.",
-      "publishedAt": "2026-11-15T10:39:05+00:00",
-      "topicFingerprint": [
-        "kuan",
-        "singtel",
-        "group",
-        "moon",
-        "sells"
-      ],
-      "related": [
-        {
-          "title": "Jensen Huang\u2019s ousting sends tech stocks tumbling; Singtel CEO sells shares: Markets this week",
-          "source": "The Straits Times",
-          "url": "https://www.straitstimes.com/business/companies-markets/jensen-huangs-ousting-sends-tech-stocks-tumbling-singtel-ceo-sells-shares-markets-this-week",
-          "score": 7,
-          "publishedAt": "2026-11-15T10:00:00+08:00",
-          "overlap": 8.5
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Can Netanyahu and Eisenkot form a \u2018unity\u2019 government in Israel?",
-      "description": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel",
-      "category": "Policy",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Regional stability and governance policies may change if agreements succeed.",
-      "context": "Opposing political leaders began negotiating to form a joint governing coalition.",
-      "next": "Party leaders will hold coalition talks over cabinet positions this weekend.",
-      "bigger": "Political divisions continue to challenge coalition building in complex parliamentary systems.",
-      "publishedAt": "2026-11-15T14:02:08+00:00",
-      "topicFingerprint": [
-        "eisenkot",
-        "israel",
-        "netanyahu",
-        "unity",
-        "differences"
-      ],
-      "related": [
-        {
-          "title": "\u2018Gadi, lets set aside differences\u2019: Netanyahu pushes for unity govt; Eisenkot rejects \u2018spin move\u2019",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/world-news/gadi-lets-set-aside-differences-netanyahu-pushes-for-unity-govt-eisenkot-rejects-spin-move-101794706325431.html",
-          "score": 6,
-          "publishedAt": "2026-11-15T07:26:41+05:30",
-          "overlap": 5.5
-        }
-      ],
-      "alternates": []
-    },
-    {
-      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-      "description": "This week on \"Face the Nation with Margaret Brennan,\" as the effects of Friday's nationwide ground stop are still being felt, Transportation Secretary Sean Duffy joins. Plus, as the U.S. loses its measles elimination status, Sen. Bill Cassidy, the chairman of the Senate Health Committee, joins.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-nov-15-2026/",
+      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+      "description": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
+      "source": "Stat",
+      "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/",
       "category": "Health",
       "readingTime": 2,
-      "score": 7,
-      "why": "Federal scrutiny over airline infrastructure and delays will likely increase.",
-      "context": "Transportation officials gathered to discuss national flight disruptions and system failures.",
-      "next": "Policy discussions will focus on funding air traffic system technological updates.",
-      "bigger": "Public transit resilience is becoming a central national policy focus.",
-      "publishedAt": "2026-11-15T10:42:19-05:00",
+      "score": 8,
+      "why": "Your healthcare bills may rise to cover systemic administrative costs.",
+      "context": "Healthcare providers are increasingly using litigation to address unpaid claims and rising costs.",
+      "next": "Insurance and medical provider negotiations will likely become more litigious.",
+      "bigger": "Administrative complexity is driving significant inefficiency in the healthcare sector.",
+      "publishedAt": "2026-11-16T16:52:09+00:00",
       "topicFingerprint": [
-        "open",
-        "brennan",
-        "face",
-        "nov",
-        "margaret"
+        "stat",
+        "suing",
+        "raises",
+        "plumber",
+        "joe"
       ],
       "related": [],
       "alternates": []
     },
     {
-      "title": "Thousands rally against COP31 as climate talks hit midpoint",
-      "description": "The show of dissent comes as negotiators approach the final week of global climate talks in Antalya.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-against-cop31-as-climate-talks-hit-midpoint",
-      "category": "Environment",
-      "readingTime": 2,
-      "score": 7,
-      "why": "Public pressure may force climate delegates to adopt stricter commitments.",
-      "context": "Large public demonstrations took place outside international environmental summit meetings.",
-      "next": "Activists plan additional rallies as climate negotiations reach their final days.",
-      "bigger": "Grassroots protests are exerting significant influence on global policy summits.",
-      "publishedAt": "2026-11-15T03:28:13+08:00",
-      "topicFingerprint": [
-        "midpoint",
-        "thousands",
-        "cop31",
-        "climate",
-        "hit"
-      ],
-      "related": [],
-      "alternates": []
-    },
-    {
-      "title": "Nvidia needed the US government to check its CEO; what hope is there for local minorities?",
-      "description": "There are lessons to learn for investors in Singapore-listed companies with controlling shareholders",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/opinion-features/nvidia-needed-us-government-check-its-ceo-what-hope-there-local-minorities",
+      "title": "Guinea's gold rush: Arrests, deportations spark outcry",
+      "description": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842",
       "category": "Policy",
       "readingTime": 2,
-      "score": 6,
-      "why": "Small investors may face risks when dominant owners control public companies.",
-      "context": "Financial analysts evaluated corporate governance challenges facing minority shareholders in business.",
-      "next": "Regulators could review rules governing majority shareholder influence in listed firms.",
-      "bigger": "Corporate governance standards are undergoing heightened scrutiny across global stock exchanges.",
-      "publishedAt": "2026-11-15T11:47:08+00:00",
+      "score": 8,
+      "why": "Global gold supply chains may face temporary disruptions.",
+      "context": "Guinea has launched a crackdown on illegal mining operations, leading to mass arrests.",
+      "next": "Mining regulations in developing nations will likely become more strictly enforced.",
+      "bigger": "Resource-rich nations are moving to centralize control over mineral wealth.",
+      "publishedAt": "2026-11-16T14:38:00+00:00",
       "topicFingerprint": [
-        "nvidia",
-        "local",
-        "hope",
-        "minorities",
-        "check"
+        "spark",
+        "arrests",
+        "rush",
+        "guinea",
+        "gold"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "HK stock exchange launches first dim sum bond index to boost renminbi debt market",
+      "description": "The city seeks to boost liquidity and trading in the world\u2019s largest offshore renminbi market.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/hk-stock-exchange-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market",
+      "category": "Progress",
+      "readingTime": 2,
+      "score": 8,
+      "why": "International investors may find it easier to access Chinese debt markets.",
+      "context": "Hong Kong introduced a new index to facilitate easier investment in offshore Chinese currency debt.",
+      "next": "Capital flows into renminbi-denominated assets will likely increase.",
+      "bigger": "Regional financial hubs are competing to dominate offshore currency trading.",
+      "publishedAt": "2026-11-16T10:22:37+08:00",
+      "topicFingerprint": [
+        "dim",
+        "index",
+        "sum",
+        "launches",
+        "bond"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects",
+      "description": "Following a preview at Google I/O , Google is rolling out 66 new regional voices to the Gemini app on both Android and iOS today. The expansion introduces tailored voice options across U.S. English, U.K. English, Indian English, Hindi, Brazilian Portuguese, Indonesian, and Korean. more\u2026",
+      "source": "9To5Google",
+      "url": "https://9to5google.com/2026/11/16/gemini-rolling-out-66-new-regional-voices-on-android-and-ios-including-10-uk-dialects/",
+      "category": "Technology",
+      "readingTime": 2,
+      "score": 7,
+      "why": "The AI tools you use may become more natural and personalized.",
+      "context": "Google is adding dozens of regional language dialects to its AI assistant.",
+      "next": "AI assistants will likely expand dialect support to capture more users.",
+      "bigger": "AI personalization is shifting toward local and regional linguistic nuances.",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "topicFingerprint": [
+        "voices",
+        "uk_entity",
+        "dialects",
+        "rolling",
+        "regional"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "New Working Group Seeks Justice for Critical Mineral Mining Communities",
+      "description": "A coalition of African civil society organisations, representatives from the Africa Institute of Resilience Studies (an independent organisation working in research, policy, training and capacity development), and representatives from the Bank\u2013Civil Society Coalition, which brings together seven maj",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2026/11/new-working-group-seeks-justice-for-critical-mineral-mining-communities/",
+      "category": "Science",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Mineral sourcing costs may rise as ethical standards become mandatory.",
+      "context": "A coalition was formed to address human rights and environmental issues in mining regions.",
+      "next": "Mining companies will likely face stricter audits and community engagement requirements.",
+      "bigger": "Supply chain ethics are becoming a core requirement for mineral extraction.",
+      "publishedAt": "2026-11-16T10:32:49+00:00",
+      "topicFingerprint": [
+        "critical",
+        "seeks",
+        "communities",
+        "justice",
+        "group"
+      ],
+      "related": [],
+      "alternates": []
+    },
+    {
+      "title": "Could a \u2018forced\u2019 dividend policy hurt a company\u2019s growth, IPO prospects? Analysts weigh in",
+      "description": "Pressure to appease shareholders with payouts can divert capital which is better invested in growth: report",
+      "source": "Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/could-forced-dividend-policy-hurt-companys-growth-ipo-prospects-analysts-weigh",
+      "category": "Policy",
+      "readingTime": 2,
+      "score": 7,
+      "why": "Your long-term investment returns may shift from growth to steady income.",
+      "context": "Analysts are debating if forcing companies to pay dividends harms their long-term expansion.",
+      "next": "Companies may face pressure to balance shareholder payouts with innovation spending.",
+      "bigger": "Corporate capital allocation strategies are under increasing scrutiny by investors.",
+      "publishedAt": "2026-11-16T09:12:51+00:00",
+      "topicFingerprint": [
+        "prospects",
+        "growth",
+        "weigh",
+        "ipo",
+        "forced"
       ],
       "related": [],
       "alternates": []
@@ -691,20 +925,85 @@
   "regionalNewsByCountry": {
     "united_states": [
       {
-        "title": "US flight cancellations expose old air traffic control system as FAA seeks $50 billion for upgrades",
-        "description": "US flight cancellations expose outdated air traffic control technology as the FAA faces calls for $50 billion to upgrade its ageing system.",
+        "title": "US Treasury yields fall as investors await Kevin Warsh's comments, US retail sales data and Fed minutes",
+        "description": "US Treasury yields fall as investors await Kevin Warsh's comments, October retail sales data and Federal Reserve meeting minutes for clues on interest rates.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/us-flight-cancellations-expose-old-air-traffic-control-system-as-faa-seeks-50-billion-for-upgrades-101794745900687.html",
+        "url": "https://www.hindustantimes.com/world-news/us-news/us-treasury-yields-fall-as-investors-await-kevin-warshs-comments-us-retail-sales-data-and-fed-minutes-101794826409019.html",
         "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "Technology",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-11-15T18:35:59+05:30",
+        "publishedAt": "2026-11-16T16:44:49+05:30",
         "reason": "within_48h",
-        "score": 10,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: technology"
+            "reason": "important keyword match: data"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: interest"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 1,
+        "alternates": [],
+        "related": [
+          {
+            "title": "China's economy falters in October as factory output, retail sales miss forecasts",
+            "source": "CNBC TV",
+            "url": "https://www.cnbctv18.com/economy/chinas-economy-falters-in-october-as-factory-output-retail-sales-miss-forecasts-20034705.htm",
+            "score": 14,
+            "publishedAt": "2026-11-16T10:14:32+05:30",
+            "overlap": 3
+          },
+          {
+            "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+            "score": 6,
+            "publishedAt": "2026-11-16T03:53:59+00:00",
+            "overlap": 3
+          },
+          {
+            "title": "China\u2019s economy falters as factory output, retail sales undershoot expectations",
+            "source": "Business Times",
+            "url": "https://www.businesstimes.com.sg/international/global/chinas-economy-falters-factory-output-retail-sales-undershoot-expectations",
+            "score": 5,
+            "publishedAt": "2026-11-16T03:25:01+00:00",
+            "overlap": 3
+          }
+        ],
+        "topicFingerprint": [
+          "sales",
+          "october",
+          "retail",
+          "output",
+          "china_entity"
+        ]
+      },
+      {
+        "title": "Over 50 years ago today, US tried to communicate with extraterrestrials in space",
+        "description": "US researchers in 1974 sent humanity's first radio message, known as the Arecibo Message, into outer space in a bid to potentially communicate with alien life.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/did-you-know-over-50-years-ago-from-today-us-tried-to-communicate-with-extraterrestrials-in-space-101794823795037.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Science",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T16:47:29+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: researchers"
           },
           {
             "points": 2,
@@ -716,60 +1015,37 @@
           },
           {
             "points": 1,
-            "reason": "less than 6 hours"
+            "reason": "less than 12 hours"
           }
         ],
-        "group_id": 1,
+        "group_id": 0,
         "alternates": [],
-        "related": [
-          {
-            "title": "US aviation shutdown: How an L3Harris-installed router disrupted thousands of flights across America",
-            "source": "CNBC TV",
-            "url": "https://www.cnbctv18.com/world/us-aviation-shutdown-how-an-l3harris-installed-router-disrupted-thousands-of-flights-across-america-20034207.htm",
-            "score": 3,
-            "publishedAt": "2026-11-15T08:43:22+05:30",
-            "overlap": 8.5
-          },
-          {
-            "title": "Trump breaks silence on US ground stop, demands more money from Congress",
-            "source": "South China Morning Post",
-            "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
-            "score": 9,
-            "publishedAt": "2026-11-15T15:00:00+00:00",
-            "overlap": 5.5
-          },
-          {
-            "title": "Ground stop highlights chronic vulnerabilities in US air traffic system",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/united-states/ground-stop-highlights-chronic-vulnerabilities-in-us-air-traffic-system",
-            "score": 3,
-            "publishedAt": "2026-11-15T06:59:00+08:00",
-            "overlap": 3.5
-          }
-        ],
+        "related": [],
         "topicFingerprint": [
-          "us_entity",
-          "ground",
-          "stop",
-          "flights",
-          "system"
+          "today",
+          "space",
+          "tried",
+          "communicate",
+          "years"
         ]
-      },
+      }
+    ],
+    "singapore": [
       {
-        "title": "US Air Force responds to suspected drone activity at UK airbase",
-        "description": "US Air Force personnel responded to suspected unauthorized drone activity at RAF Lakenheath in England. No personnel, aircraft, or infrastructure were affected.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/cc6db528-c368-4b69-a60a-88bf40246e4c.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Geopolitics",
+        "title": "DBS, JPMorgan launch US-Singapore tokenised deposit service for institutions",
+        "description": "Financial enterprises are seeking faster liquidity management tools to support digital industries 24/7",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/dbs-jpmorgan-launch-us-singapore-tokenised-deposit-service-institutions",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Financial",
         "readingTime": 2,
-        "publishedAt": "2026-11-14T13:10:50+00:00",
+        "publishedAt": "2026-11-16T03:00:00+00:00",
         "reason": "within_48h",
-        "score": 9,
+        "score": 8,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: infrastructure"
+            "reason": "important keyword match: financial"
           },
           {
             "points": 2,
@@ -777,46 +1053,528 @@
           },
           {
             "points": 2,
-            "reason": "important keyword match: uk"
+            "reason": "other category"
           },
           {
-            "points": 4,
-            "reason": "geopolitics category"
+            "points": -2,
+            "reason": "Singapore-local Business Times article"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": 3,
+            "reason": "Impact priority base match: liquidity"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [
+          {
+            "title": "DBS, JPMorgan launch US-Singapore tokenised deposit service for institutions",
+            "description": "Financial enterprises are seeking faster liquidity management tools to support digital industries 24/7.",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/dbs-jpmorgan-launch-us-singapore-tokenised-deposit-service-for-institutions",
+            "category": "Financial",
+            "publishedAt": "2026-11-16T12:34:00+08:00",
+            "score": 10,
+            "readingTime": 2,
+            "topicFingerprint": [
+              "digital",
+              "liquidity",
+              "faster",
+              "industries",
+              "seeking"
+            ],
+            "group_id": 0
+          }
+        ],
+        "related": [],
+        "topicFingerprint": [
+          "digital",
+          "liquidity",
+          "faster",
+          "industries",
+          "seeking"
+        ]
+      },
+      {
+        "title": "Why Singapore\u2019s wave of data breaches signals \u2018new era\u2019 of cyber threats",
+        "description": "When Singaporean retiree Steven Wong started getting calls from strangers addressing him by his full name, he grew uneasy about how much of his personal information might be out there. The 71-year-old now avoids using his credit card for online purchases and bargains that seem too good to be true. H",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/economics/article/3374584/why-singapores-wave-data-breaches-signals-new-era-cyber-threats",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Technology",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T08:27:53+00:00",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: data"
           },
           {
             "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
+            "reason": "important keyword match: credit card"
           },
           {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "drone",
+          "threats",
+          "data",
+          "breaches",
+          "signals",
+          "era"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+        "description": "China, Taiwan and four ASEAN states \u2014 Brunei, Malaysia, the Philippines and Vietnam \u2014 have been involved in the decades-long territorial standoffs in the busy waterway, a key global trade route",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T16:43:20+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: china"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: asia"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "avoid",
+          "sea",
+          "southeast",
+          "disputes",
+          "south"
+        ]
+      },
+      {
+        "title": "How Hong Kong can attract and keep the best and brightest PhD students",
+        "description": "Hong Kong is committed to building an international education hub and doctoral education remains a central pillar of this agenda. Doctoral students contribute to research capacity, innovation and global knowledge networks, and build the talent base needed for high-quality economic and social develop",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374370/how-hong-kong-can-attract-and-keep-best-and-brightest-phd-students",
+        "fromUrl": "https://www.scmp.com/rss/feed/",
+        "category": "Financial",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T08:30:07+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: research"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: innovation"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: education"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": -5,
+            "reason": "Opinion detected"
+          },
+          {
+            "points": -4,
+            "reason": "South China regional news"
+          },
+          {
+            "points": 1,
+            "reason": "large scale impact boost"
+          },
+          {
+            "points": 4,
+            "reason": "Impact priority base match: economic"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "hong",
+          "keep",
+          "attract",
+          "students",
+          "phd"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Bangladesh dismisses report that India has set conditions for Sheikh Hasina's return: \u2018She\u2019ll return under extradition treaty'",
+        "description": "Bangladesh minister Shama Obaed Islam said that Bangladesh will consider any formal conditions that India may put forward in connection with Hasina's return.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/bangladesh-dismisses-reports-of-india-setting-conditions-for-sheikh-hasinas-return-she-ll-return-under-extradition-treaty-101794840686924.html",
+        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T20:55:59+05:30",
+        "reason": "within_48h",
+        "score": 7,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: treaty"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 0,
+            "reason": "skipped say/says/said penalty because report exists"
+          },
+          {
+            "points": -2,
+            "reason": "low quality + colon headline match: said"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "return",
+          "dismisses",
+          "india",
+          "bangladesh",
+          "set"
+        ]
+      },
+      {
+        "title": "India and Egypt form working group to explore trade deal contours",
+        "description": "During his ongoing visit to Egypt, Commerce Minister Piyush Goyal co-chaired, along with Egypt\u2019s Minister of Investment and Foreign Trade Mohamed Farid Saleh, the 7th session of the India-Egypt Joint Trade Committee (JTC) in Egypt\u2019s New Administrative Capital.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "category": "Geopolitics",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T22:46:42+05:30",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: investment"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: india"
+          },
+          {
+            "points": 4,
+            "reason": "geopolitics category"
+          },
+          {
+            "points": 1,
+            "reason": "geopolitics important keyword match: trade"
+          },
+          {
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
+          },
+          {
+            "points": 1,
+            "reason": "less than 6 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "egypt",
+          "trade",
+          "form",
+          "contours",
+          "explore"
+        ]
+      }
+    ],
+    "south_korea": [
+      {
+        "title": "SK Hynix plans chip testing hub to boost global competitiveness of smaller South Korean players",
+        "description": "The 874.6 billion won Trinity Fab facility is set to open in May 2027",
+        "source": "Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/sk-hynix-plans-chip-testing-hub-boost-global-competitiveness-smaller-south-korean-players",
+        "fromUrl": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "category": "Progress",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T06:08:53+00:00",
+        "reason": "within_48h",
+        "score": 6,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: chip"
+          },
+          {
+            "points": 2,
+            "reason": "other category"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: Business Times"
+          },
+          {
+            "points": -2,
+            "reason": "corporate facility opening"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [
+          {
+            "title": "SK Hynix to spend $1.35 billion over five years to support chip suppliers",
+            "source": "The Straits Times",
+            "url": "https://www.straitstimes.com/business/sk-hynix-to-spend-1-35-billion-over-five-years-to-support-chip-suppliers",
+            "score": 3,
+            "publishedAt": "2026-11-16T08:45:23+08:00",
+            "overlap": 6
+          }
+        ],
+        "topicFingerprint": [
+          "testing",
+          "open",
+          "chip",
+          "hynix",
+          "billion"
+        ]
+      },
+      {
+        "title": "South Korea\u2019s instant ramen giants take their spicy rivalry global",
+        "description": "A decades-old domestic rivalry between two of South Korea\u2019s biggest food makers is intensifying overseas.",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/south-koreas-instant-ramen-giants-take-their-spicy-rivalry-global",
+        "fromUrl": "https://www.straitstimes.com/news/business/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T07:00:00+08:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: global"
+          },
+          {
+            "points": 1,
+            "reason": "High Quality Source match: The Straits Times"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "ramen",
+          "spicy",
+          "rivalry",
+          "giants",
+          "sk_entity"
+        ]
+      }
+    ],
+    "uk": [
+      {
+        "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+        "description": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T08:56:04+00:00",
+        "reason": "within_48h",
+        "score": 5,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: israel"
+          },
+          {
+            "points": 2,
+            "reason": "important keyword match: uk"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: BBC News"
+          },
+          {
+            "points": -2,
+            "reason": "low quality group match: say"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "gaza",
+          "humanitarian",
+          "allow",
           "uk_entity",
-          "activity",
-          "responds",
-          "force"
+          "israel"
+        ]
+      },
+      {
+        "title": "British women to receive automatic pardons for past abortion convictions",
+        "description": "The British government is pardoning women convicted of illegally terminating pregnancies",
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290",
+        "fromUrl": "https://abcnews.com/abcnews/internationalheadlines",
+        "category": "Policy",
+        "readingTime": 2,
+        "publishedAt": "2026-11-16T01:58:31-05:00",
+        "reason": "within_48h",
+        "score": 3,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: government"
+          },
+          {
+            "points": 1,
+            "reason": "less than 12 hours"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "convictions",
+          "uk_entity",
+          "automatic",
+          "abortion",
+          "receive"
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "title": "Who makes Sydney Sweeney's American Eagle jeans \u2014 and under what conditions?",
+        "description": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+        "fromUrl": "https://feeds.npr.org/1004/rss.xml",
+        "category": "General",
+        "readingTime": 2,
+        "publishedAt": "2026-11-15T17:07:55-05:00",
+        "reason": "within_48h",
+        "score": 4,
+        "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: us"
+          },
+          {
+            "points": 2,
+            "reason": "Highest Quality Source match: NPR"
+          }
+        ],
+        "group_id": 0,
+        "alternates": [],
+        "related": [],
+        "topicFingerprint": [
+          "eagle",
+          "sweeney",
+          "sydney",
+          "jeans",
+          "makes"
         ]
       }
     ],
     "italy": [
       {
-        "title": "Italy fines Meta for accessing Android users' photos and videos",
-        "description": "Italy's data protection authority fined Meta \u20ac805 million for accessing Android users' photos and videos without explicit consent. Meta plans to appeal.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/248cdffd-276f-41ab-a785-cb945bc4b219.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
+        "title": "Why Italy hit Meta with record \u20ac805 million fine | Explained",
+        "description": "Italy\u2019s data protection authority conducted a technical analysis after it received a complaint from a consumer protection forum, which said that the platform accessed \u201cunpublished files stored on users\u2019 smartphones\u201d",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/sci-tech/technology/why-italy-hit-meta-with-record-805-million-fine-explained/article71707103.ece",
+        "fromUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
         "category": "Technology",
         "readingTime": 2,
-        "publishedAt": "2026-11-14T19:09:05+00:00",
+        "publishedAt": "2026-11-16T13:34:59+05:30",
         "reason": "within_48h",
-        "score": 9,
+        "score": 3,
         "score_debug": [
+          {
+            "points": 2,
+            "reason": "important keyword match: consumer"
+          },
           {
             "points": 2,
             "reason": "important keyword match: data"
@@ -830,376 +1588,46 @@
             "reason": "other category"
           },
           {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "Italy fines Meta $887 million over Android users' data access",
-            "description": "Italy fined \u2060Meta Platforms $887 million \u200cfor allegedly \u200baccessing Android users' photographs \u2060and \u200cvideos \u200cwithout obtaining \u2060consent \u2060or informing \u2060them.",
-            "source": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-            "category": "Technology",
-            "publishedAt": "2026-11-14T18:49:11+00:00",
-            "score": 9,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "users",
-              "italy",
-              "fines",
-              "meta",
-              "data"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Italy fines Meta \u20ac805m over accessing users' photos",
-            "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-            "source": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-            "category": "General",
-            "publishedAt": "2026-11-14T18:28:06+00:00",
-            "score": 5,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "users",
-              "italy",
-              "fines",
-              "meta",
-              "data"
-            ],
-            "group_id": 0
-          },
-          {
-            "title": "Italy fines Meta $1.14 billion over Android users\u2019 data access",
-            "description": "Meta accessed Android users\u2019 photos and videos without their consent, the authorities say.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/italy-fines-meta-1-14-billion-over-android-users-data-access",
-            "category": "Technology",
-            "publishedAt": "2026-11-14T21:20:15+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "users",
-              "italy",
-              "fines",
-              "meta",
-              "data"
-            ],
-            "group_id": 0
-          }
-        ],
-        "related": [],
-        "topicFingerprint": [
-          "users",
-          "italy",
-          "fines",
-          "meta",
-          "data"
-        ]
-      }
-    ],
-    "uk": [
-      {
-        "title": "UK to expand jobs guarantee scheme for 18-to-24-year-olds amid rising youth unemployment",
-        "description": "The Department for Work and Pensions said a trial scheme to provide guaranteed jobs would roll out at the end of November, benefiting over 90,000 young people.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/uk-to-expand-jobs-guarantee-scheme-for-18-to-24-year-olds-amid-rising-youth-unemployment-101794708807668.html",
-        "fromUrl": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-        "category": "General",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T08:49:12+05:30",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: unemployment"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: jobs"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 3,
-            "reason": "Impact priority base match: unemployment"
-          },
-          {
-            "points": 2,
-            "reason": "Impact priority title match: unemployment"
+            "points": -5,
+            "reason": "Lowerst Quality Source match: The Hindu"
           },
           {
             "points": -2,
             "reason": "low quality group match: said"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [
-          {
-            "title": "British government to expand, accelerate youth job guarantee programme",
-            "description": "The scheme is expected to help more than 90,000 people into work by March 2029.",
-            "source": "The Straits Times",
-            "url": "https://www.straitstimes.com/world/europe/british-government-to-expand-accelerate-youth-job-guarantee-programme",
-            "category": "Policy",
-            "publishedAt": "2026-11-15T07:58:00+08:00",
-            "score": 3,
-            "readingTime": 2,
-            "topicFingerprint": [
-              "scheme",
-              "expand",
-              "youth",
-              "people",
-              "guarantee"
-            ],
-            "group_id": 0
-          }
-        ],
-        "related": [],
-        "topicFingerprint": [
-          "scheme",
-          "expand",
-          "youth",
-          "people",
-          "guarantee"
-        ]
-      },
-      {
-        "title": "US Air Force responds to suspected drone activity at UK airbase",
-        "description": "US Air Force personnel responded to suspected unauthorized drone activity at RAF Lakenheath in England. No personnel, aircraft, or infrastructure were affected.",
-        "source": "Frontpage",
-        "url": "https://frontpage.ink/cc6db528-c368-4b69-a60a-88bf40246e4c.html",
-        "fromUrl": "https://frontpage.ink/rss.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-11-14T13:10:50+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: infrastructure"
           },
           {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: uk"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Frontpage"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
+            "points": 1,
+            "reason": "less than 12 hours"
           }
         ],
         "group_id": 0,
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "drone",
-          "uk_entity",
-          "activity",
-          "responds",
-          "force"
+          "hit",
+          "million",
+          "meta",
+          "record",
+          "explained"
         ]
       }
     ],
-    "china": [
+    "europe": [
       {
-        "title": "\u2018Black swans\u2019 and \u2018grey rhinos\u2019: China\u2019s regulator warns of risks amid global turmoil",
-        "description": "China\u2019s top securities regulator has flagged the threat of potential \u201cblack swan\u201d and \u201cgrey rhino\u201d events amid global market turbulence, calling for greater regulatory certainty and cooperation to bolster market resilience. Global capital markets were \u201cexperiencing a new round of asset repricing and",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Financial",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+        "fromUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "General",
         "readingTime": 2,
-        "publishedAt": "2026-11-15T13:45:38+00:00",
-        "reason": "within_48h",
-        "score": 9,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: market"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: global"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: china"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "rhinos",
-          "grey",
-          "risks",
-          "regulator",
-          "warns"
-        ]
-      },
-      {
-        "title": "Evolutionary threat: Chinese mountain birds lost nearly half genetic diversity in 50 years",
-        "description": "Genetic diversity is nature\u2019s insurance policy \u2013 an evolutionary safety net that provides the building blocks for natural selection. While members of the same species share a mostly identical genome, a sliver of unique genetic variants determines their individual traits. When this diversity erodes, ",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/news/china/science/article/3374287/evolutionary-threat-chinese-mountain-birds-lost-nearly-half-genetic-diversity-50-years",
-        "fromUrl": "https://www.scmp.com/rss/feed/",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T10:00:06+00:00",
-        "reason": "within_48h",
-        "score": 6,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: insurance"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: safety"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: policy"
-          },
-          {
-            "points": -4,
-            "reason": "profile opinion"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "half",
-          "birds",
-          "genetic",
-          "nearly",
-          "years"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "India-New Zealand trade pact: 17 agencies cleared to issue certificates for exports",
-        "description": "India has authorised 17 government agencies to issue Certificates of Origin for exports to New Zealand under the FTA, which offers zero-duty access to 100% of India's exports.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/economy/india-new-zealand-trade-pact-17-agencies-cleared-to-issue-certificates-for-exports-20034209.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Geopolitics",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T08:52:51+05:30",
-        "reason": "within_48h",
-        "score": 7,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: government"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: exports"
-          },
-          {
-            "points": 4,
-            "reason": "geopolitics category"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: exports"
-          },
-          {
-            "points": 1,
-            "reason": "geopolitics important keyword match: trade"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "india",
-          "cleared",
-          "pact",
-          "agencies",
-          "exports"
-        ]
-      },
-      {
-        "title": "Antony Blinken backs India's right to defend itself, calls for zero tolerance towards terrorism",
-        "description": "Former US Secretary of State Antony Blinken says the US must respect India's right to defend itself and maintain a zero-tolerance policy towards terrorism, while describing Washington's ties with New Delhi and Islamabad as fundamentally different.",
-        "source": "CNBC TV",
-        "url": "https://www.cnbctv18.com/world/antony-blinken-india-right-to-defend-itself-zero-tolerance-terrorism-20034348.htm",
-        "fromUrl": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/world.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T17:22:17+05:30",
+        "publishedAt": "2026-11-16T16:27:24+00:00",
         "reason": "within_48h",
         "score": 3,
         "score_debug": [
           {
             "points": 2,
-            "reason": "important keyword match: policy"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: us"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: india"
-          },
-          {
-            "points": 3,
-            "reason": "policy scoring keyword: right"
-          },
-          {
-            "points": -5,
-            "reason": "Lowerst Quality Source match: CNBC TV"
-          },
-          {
-            "points": -2,
-            "reason": "low quality group match: says"
+            "reason": "Highest Quality Source match: BBC News"
           },
           {
             "points": 1,
@@ -1210,128 +1638,11 @@
         "alternates": [],
         "related": [],
         "topicFingerprint": [
-          "india",
-          "zero",
-          "right",
-          "itself",
-          "tolerance"
-        ]
-      }
-    ],
-    "france": [
-      {
-        "title": "Illegal mining threatens French Guiana forests and indigenous communities",
-        "description": "In French Guiana, the fight against illegal gold mining is rapidly being lost and creating an environmental and health disaster, according to the World Wildlife Fund. During an aerial survey in early August, park rangers counted 239 illegal sites within the protected area in record.",
-        "source": "France 24",
-        "url": "https://www.france24.com/en/illegal-mining-threatens-french-guiana-forests-and-indigenous-communities",
-        "fromUrl": "https://www.france24.com/en/rss",
-        "category": "Health",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T12:04:19+00:00",
-        "reason": "within_48h",
-        "score": 4,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: environmental"
-          },
-          {
-            "points": 2,
-            "reason": "important keyword match: health"
-          },
-          {
-            "points": -1,
-            "reason": "Low Quality Source match: France 24"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "french",
-          "threatens",
-          "forests",
-          "indigenous",
-          "illegal"
-        ]
-      }
-    ],
-    "canada": [
-      {
-        "title": "How Canadian stocks could be big winners of U.S. midterms",
-        "description": "Canadian stocks are up more than 1% since the vote, while the S P 500 has sagged 0.5% in that time.",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
-        "fromUrl": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-        "category": "Financial",
-        "readingTime": 2,
-        "publishedAt": "2026-11-14T14:11:48+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "important keyword match: u.s"
-          },
-          {
-            "points": 2,
-            "reason": "other category"
-          },
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: CNBC"
-          },
-          {
-            "points": -3,
-            "reason": "older than 24 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "winners",
-          "midterms",
-          "canadian",
-          "us_entity"
-        ]
-      }
-    ],
-    "uae": [
-      {
-        "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
-        "description": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl",
-        "fromUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-        "category": "Policy",
-        "readingTime": 2,
-        "publishedAt": "2026-11-15T11:33:49+00:00",
-        "reason": "within_48h",
-        "score": 3,
-        "score_debug": [
-          {
-            "points": 2,
-            "reason": "Highest Quality Source match: Al Jazeera"
-          },
-          {
-            "points": 1,
-            "reason": "less than 6 hours"
-          }
-        ],
-        "group_id": 0,
-        "alternates": [],
-        "related": [],
-        "topicFingerprint": [
-          "fighters",
-          "brawl",
-          "mma",
-          "lobby",
-          "dhabi"
+          "eu_entity",
+          "announce",
+          "rwanda",
+          "deportation",
+          "centre"
         ]
       }
     ]
